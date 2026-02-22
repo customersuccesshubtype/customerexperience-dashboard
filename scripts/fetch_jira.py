@@ -29,29 +29,29 @@ DATA_DIR.mkdir(exist_ok=True)
 def fetch_all_issues():
     """Fetch all issues from the project using pagination."""
     issues = []
-    start_at = 0
+    next_page_token = None
     max_results = 100
 
     while True:
-        url = f"{BASE_URL}/rest/api/3/search"
+        url = f"{BASE_URL}/rest/api/3/search/jql"
         params = {
             "jql": f"project = {PROJECT_KEY} ORDER BY created DESC",
-            "startAt": start_at,
             "maxResults": max_results,
             "fields": "summary,status,assignee,issuetype,created,resolutiondate,labels",
         }
+        if next_page_token:
+            params["nextPageToken"] = next_page_token
+
         resp = requests.get(url, params=params, auth=AUTH, headers=HEADERS)
         resp.raise_for_status()
         data = resp.json()
 
         batch = data.get("issues", [])
         issues.extend(batch)
+        print(f"  Fetched {len(issues)} issues so far...")
 
-        total = data.get("total", 0)
-        start_at += len(batch)
-        print(f"  Fetched {start_at}/{total} issues...")
-
-        if start_at >= total:
+        next_page_token = data.get("nextPageToken")
+        if not next_page_token or not batch:
             break
 
     return issues
