@@ -1,0 +1,589 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Delivery Dashboard</title>
+  <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.2/dist/chart.umd.min.js"></script>
+  <style>
+    :root {
+      --navy: #0F172A;
+      --purple: #7C3AED;
+      --purple-light: #EDE9FE;
+      --green: #10B981;
+      --amber: #F59E0B;
+      --red: #EF4444;
+      --gray: #64748B;
+      --bg: #F8FAFC;
+      --card: #FFFFFF;
+    }
+
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+
+    body {
+      font-family: Calibri, 'Segoe UI', sans-serif;
+      background: var(--bg);
+      color: var(--navy);
+      min-height: 100vh;
+    }
+
+    header {
+      background: var(--navy);
+      color: white;
+      padding: 1.25rem 2rem;
+      display: flex;
+      align-items: center;
+      gap: 1rem;
+    }
+
+    header h1 {
+      font-size: 1.4rem;
+      font-weight: 600;
+      letter-spacing: 0.01em;
+    }
+
+    header .subtitle {
+      font-size: 0.85rem;
+      opacity: 0.6;
+      margin-left: auto;
+    }
+
+    .purple-bar {
+      height: 4px;
+      background: var(--purple);
+    }
+
+    main {
+      max-width: 1200px;
+      margin: 0 auto;
+      padding: 2rem 1.5rem;
+    }
+
+    /* Filters */
+    .filters {
+      display: flex;
+      gap: 1rem;
+      flex-wrap: wrap;
+      margin-bottom: 2rem;
+      align-items: center;
+    }
+
+    .filters label { font-size: 0.85rem; color: var(--gray); font-weight: 600; }
+
+    .filters select, .filters input {
+      padding: 0.45rem 0.75rem;
+      border: 1px solid #CBD5E1;
+      border-radius: 6px;
+      font-size: 0.9rem;
+      background: white;
+      color: var(--navy);
+      cursor: pointer;
+    }
+
+    .filters select:focus, .filters input:focus {
+      outline: 2px solid var(--purple);
+      outline-offset: 1px;
+    }
+
+    /* KPI cards */
+    .kpi-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(160px, 1fr));
+      gap: 1rem;
+      margin-bottom: 2rem;
+    }
+
+    .kpi {
+      background: var(--card);
+      border-radius: 10px;
+      padding: 1.25rem 1.5rem;
+      box-shadow: 0 1px 4px rgba(0,0,0,0.07);
+      border-left: 4px solid var(--purple);
+    }
+
+    .kpi.done { border-color: var(--green); }
+    .kpi.open { border-color: var(--amber); }
+    .kpi.inprogress { border-color: var(--purple); }
+    .kpi.total { border-color: var(--navy); }
+
+    .kpi .value {
+      font-size: 2.2rem;
+      font-weight: 700;
+      line-height: 1;
+    }
+
+    .kpi .label {
+      font-size: 0.8rem;
+      color: var(--gray);
+      margin-top: 0.4rem;
+      text-transform: uppercase;
+      letter-spacing: 0.05em;
+    }
+
+    /* Chart grid */
+    .chart-grid {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 1.5rem;
+      margin-bottom: 2rem;
+    }
+
+    @media (max-width: 768px) {
+      .chart-grid { grid-template-columns: 1fr; }
+    }
+
+    .card {
+      background: var(--card);
+      border-radius: 10px;
+      padding: 1.5rem;
+      box-shadow: 0 1px 4px rgba(0,0,0,0.07);
+    }
+
+    .card h2 {
+      font-size: 0.95rem;
+      font-weight: 700;
+      margin-bottom: 1.25rem;
+      color: var(--navy);
+      text-transform: uppercase;
+      letter-spacing: 0.04em;
+    }
+
+    .card.full { grid-column: 1 / -1; }
+
+    .chart-wrap {
+      position: relative;
+      height: 260px;
+    }
+
+    /* Ticket table */
+    .table-wrap { overflow-x: auto; }
+
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      font-size: 0.85rem;
+    }
+
+    thead th {
+      text-align: left;
+      padding: 0.6rem 0.75rem;
+      background: #F1F5F9;
+      color: var(--gray);
+      font-weight: 700;
+      text-transform: uppercase;
+      font-size: 0.75rem;
+      letter-spacing: 0.04em;
+    }
+
+    tbody tr { border-bottom: 1px solid #F1F5F9; }
+    tbody tr:hover { background: #FAFAFA; }
+
+    tbody td {
+      padding: 0.65rem 0.75rem;
+      color: var(--navy);
+    }
+
+    .status-badge {
+      display: inline-block;
+      padding: 0.2rem 0.55rem;
+      border-radius: 999px;
+      font-size: 0.72rem;
+      font-weight: 700;
+      text-transform: uppercase;
+      letter-spacing: 0.04em;
+    }
+
+    .badge-done    { background: #D1FAE5; color: #065F46; }
+    .badge-open    { background: #FEF3C7; color: #92400E; }
+    .badge-wip     { background: var(--purple-light); color: #5B21B6; }
+    .badge-default { background: #F1F5F9; color: var(--gray); }
+
+    .ticket-link { color: var(--purple); text-decoration: none; font-weight: 600; }
+    .ticket-link:hover { text-decoration: underline; }
+
+    #loading {
+      text-align: center;
+      padding: 4rem;
+      color: var(--gray);
+      font-size: 1.1rem;
+    }
+
+    #error {
+      display: none;
+      text-align: center;
+      padding: 4rem;
+      color: var(--red);
+    }
+  </style>
+</head>
+<body>
+
+<header>
+  <svg width="28" height="28" viewBox="0 0 32 32" fill="none">
+    <rect width="32" height="32" rx="8" fill="#7C3AED"/>
+    <path d="M8 22L16 10L24 22" stroke="white" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle cx="16" cy="10" r="2" fill="white"/>
+  </svg>
+  <h1>Delivery Dashboard</h1>
+  <span class="subtitle" id="last-updated">Loading...</span>
+</header>
+<div class="purple-bar"></div>
+
+<main>
+  <div id="loading">Loading data...</div>
+  <div id="error">Could not load data. Run the GitHub Action first to generate data files.</div>
+
+  <div id="content" style="display:none">
+
+    <div class="filters">
+      <label for="filter-person">Person:</label>
+      <select id="filter-person">
+        <option value="">All</option>
+      </select>
+
+      <label for="filter-period">Period:</label>
+      <select id="filter-period">
+        <option value="30">Last 30 days</option>
+        <option value="90" selected>Last 90 days</option>
+        <option value="180">Last 6 months</option>
+        <option value="365">Last year</option>
+        <option value="0">All time</option>
+      </select>
+
+      <label for="filter-granularity">Granularity:</label>
+      <select id="filter-granularity">
+        <option value="week">Weekly</option>
+        <option value="month" selected>Monthly</option>
+      </select>
+    </div>
+
+    <div class="kpi-grid">
+      <div class="kpi total">
+        <div class="value" id="kpi-total">-</div>
+        <div class="label">Total tickets</div>
+      </div>
+      <div class="kpi open">
+        <div class="value" id="kpi-open">-</div>
+        <div class="label">Open / To Do</div>
+      </div>
+      <div class="kpi inprogress">
+        <div class="value" id="kpi-wip">-</div>
+        <div class="label">In Progress</div>
+      </div>
+      <div class="kpi done">
+        <div class="value" id="kpi-done">-</div>
+        <div class="label">Done / Closed</div>
+      </div>
+    </div>
+
+    <div class="chart-grid">
+      <div class="card full">
+        <h2>Open vs Done over time</h2>
+        <div class="chart-wrap">
+          <canvas id="trend-chart"></canvas>
+        </div>
+      </div>
+
+      <div class="card">
+        <h2>Tickets by status</h2>
+        <div class="chart-wrap">
+          <canvas id="status-chart"></canvas>
+        </div>
+      </div>
+
+      <div class="card">
+        <h2>Work by person (current snapshot)</h2>
+        <div class="chart-wrap">
+          <canvas id="person-chart"></canvas>
+        </div>
+      </div>
+
+      <div class="card full">
+        <h2>Ticket list</h2>
+        <div class="filters" style="margin-bottom:1rem">
+          <label for="filter-status">Status:</label>
+          <select id="filter-status">
+            <option value="">All</option>
+            <option value="open">Open only</option>
+            <option value="done">Done only</option>
+          </select>
+          <label for="filter-search">Search:</label>
+          <input type="text" id="filter-search" placeholder="Key or summary..." style="min-width:200px" />
+        </div>
+        <div class="table-wrap">
+          <table>
+            <thead>
+              <tr>
+                <th>Key</th>
+                <th>Summary</th>
+                <th>Status</th>
+                <th>Assignee</th>
+                <th>Created</th>
+                <th>Labels</th>
+              </tr>
+            </thead>
+            <tbody id="ticket-table-body"></tbody>
+          </table>
+        </div>
+      </div>
+    </div>
+
+  </div>
+</main>
+
+<script>
+  const JIRA_BASE = "https://hubtype.atlassian.net/browse/";
+  const DONE_STATUSES = new Set(["Done", "Closed"]);
+  const WIP_STATUSES = new Set(["In Progress", "Ready for review", "Ready to Deliver"]);
+
+  let allTickets = [];
+  let allSnapshots = [];
+  let trendChart, statusChart, personChart;
+
+  function statusBadge(status) {
+    let cls = "badge-default";
+    if (DONE_STATUSES.has(status)) cls = "badge-done";
+    else if (WIP_STATUSES.has(status)) cls = "badge-wip";
+    else if (status === "To Do" || status === "Open") cls = "badge-open";
+    return `<span class="status-badge ${cls}">${status}</span>`;
+  }
+
+  function getFilteredTickets() {
+    const person = document.getElementById("filter-person").value;
+    const days = parseInt(document.getElementById("filter-period").value);
+    const statusFilter = document.getElementById("filter-status").value;
+    const search = document.getElementById("filter-search").value.toLowerCase();
+    const cutoff = days > 0
+      ? new Date(Date.now() - days * 86400000).toISOString().slice(0, 10)
+      : "0000-00-00";
+
+    return allTickets.filter(t => {
+      if (person && t.assignee !== person) return false;
+      if (days > 0 && t.created < cutoff) return false;
+      if (statusFilter === "open" && DONE_STATUSES.has(t.status)) return false;
+      if (statusFilter === "done" && !DONE_STATUSES.has(t.status)) return false;
+      if (search && !t.key.toLowerCase().includes(search) && !t.summary.toLowerCase().includes(search)) return false;
+      return true;
+    });
+  }
+
+  function updateKPIs(tickets) {
+    const done = tickets.filter(t => DONE_STATUSES.has(t.status)).length;
+    const wip = tickets.filter(t => WIP_STATUSES.has(t.status)).length;
+    const open = tickets.filter(t => !DONE_STATUSES.has(t.status) && !WIP_STATUSES.has(t.status)).length;
+    document.getElementById("kpi-total").textContent = tickets.length;
+    document.getElementById("kpi-open").textContent = open;
+    document.getElementById("kpi-wip").textContent = wip;
+    document.getElementById("kpi-done").textContent = done;
+  }
+
+  function updateTable(tickets) {
+    const tbody = document.getElementById("ticket-table-body");
+    tbody.innerHTML = tickets.map(t => `
+      <tr>
+        <td><a class="ticket-link" href="${JIRA_BASE}${t.key}" target="_blank">${t.key}</a></td>
+        <td>${t.summary}</td>
+        <td>${statusBadge(t.status)}</td>
+        <td>${t.assignee || '<span style="color:#94A3B8">Unassigned</span>'}</td>
+        <td>${t.created}</td>
+        <td>${(t.labels || []).join(", ") || ""}</td>
+      </tr>
+    `).join("");
+  }
+
+  function buildTrendData() {
+    const granularity = document.getElementById("filter-granularity").value;
+    const days = parseInt(document.getElementById("filter-period").value);
+    const person = document.getElementById("filter-person").value;
+    const cutoff = days > 0
+      ? new Date(Date.now() - days * 86400000).toISOString().slice(0, 10)
+      : "0000-00-00";
+
+    let filtered = allSnapshots.filter(s => s.date >= cutoff);
+
+    // Group by week or month
+    const grouped = {};
+    filtered.forEach(snap => {
+      const d = new Date(snap.date);
+      let key;
+      if (granularity === "week") {
+        // ISO week: find Monday
+        const day = d.getDay() || 7;
+        const mon = new Date(d);
+        mon.setDate(d.getDate() - day + 1);
+        key = mon.toISOString().slice(0, 10);
+      } else {
+        key = snap.date.slice(0, 7); // YYYY-MM
+      }
+      grouped[key] = snap; // last snapshot of the period wins
+    });
+
+    const keys = Object.keys(grouped).sort();
+
+    let openData, doneData;
+    if (person) {
+      openData = keys.map(k => {
+        const byA = grouped[k].by_assignee || {};
+        const p = byA[person];
+        return p ? (p.open + p.in_progress) : 0;
+      });
+      doneData = keys.map(k => {
+        const byA = grouped[k].by_assignee || {};
+        const p = byA[person];
+        return p ? p.done : 0;
+      });
+    } else {
+      openData = keys.map(k => grouped[k].total_open);
+      doneData = keys.map(k => grouped[k].total_done);
+    }
+
+    return { labels: keys, openData, doneData };
+  }
+
+  function updateTrendChart() {
+    const { labels, openData, doneData } = buildTrendData();
+    if (trendChart) trendChart.destroy();
+    trendChart = new Chart(document.getElementById("trend-chart"), {
+      type: "bar",
+      data: {
+        labels,
+        datasets: [
+          {
+            label: "Open / In Progress",
+            data: openData,
+            backgroundColor: "#FDE68A",
+            borderColor: "#F59E0B",
+            borderWidth: 1,
+          },
+          {
+            label: "Done",
+            data: doneData,
+            backgroundColor: "#A7F3D0",
+            borderColor: "#10B981",
+            borderWidth: 1,
+          },
+        ],
+      },
+      options: {
+        responsive: true,
+        maintainAspectRatio: false,
+        plugins: { legend: { position: "top" } },
+        scales: {
+          x: { stacked: false },
+          y: { beginAtZero: true },
+        },
+      },
+    });
+  }
+
+  function updateStatusChart(tickets) {
+    const counts = {};
+    tickets.forEach(t => { counts[t.status] = (counts[t.status] || 0) + 1; });
+    const labels = Object.keys(counts);
+    const data = labels.map(l => counts[l]);
+    const colors = labels.map(l => {
+      if (DONE_STATUSES.has(l)) return "#10B981";
+      if (WIP_STATUSES.has(l)) return "#7C3AED";
+      return "#F59E0B";
+    });
+
+    if (statusChart) statusChart.destroy();
+    statusChart = new Chart(document.getElementById("status-chart"), {
+      type: "doughnut",
+      data: { labels, datasets: [{ data, backgroundColor: colors, borderWidth: 2 }] },
+      options: {
+        responsive: true,
+        maintainAspectRatio: false,
+        plugins: { legend: { position: "right" } },
+      },
+    });
+  }
+
+  function updatePersonChart() {
+    // Use latest snapshot for current state per person
+    if (!allSnapshots.length) return;
+    const latest = allSnapshots[allSnapshots.length - 1];
+    const byA = latest.by_assignee || {};
+
+    const people = Object.keys(byA).filter(p => p !== "Unassigned").sort();
+    const openData = people.map(p => byA[p].open);
+    const wipData = people.map(p => byA[p].in_progress);
+    const doneData = people.map(p => byA[p].done);
+
+    if (personChart) personChart.destroy();
+    personChart = new Chart(document.getElementById("person-chart"), {
+      type: "bar",
+      data: {
+        labels: people,
+        datasets: [
+          { label: "Open", data: openData, backgroundColor: "#FDE68A", borderColor: "#F59E0B", borderWidth: 1 },
+          { label: "In Progress", data: wipData, backgroundColor: "#DDD6FE", borderColor: "#7C3AED", borderWidth: 1 },
+          { label: "Done", data: doneData, backgroundColor: "#A7F3D0", borderColor: "#10B981", borderWidth: 1 },
+        ],
+      },
+      options: {
+        responsive: true,
+        maintainAspectRatio: false,
+        indexAxis: "y",
+        plugins: { legend: { position: "top" } },
+        scales: { x: { stacked: true }, y: { stacked: true } },
+      },
+    });
+  }
+
+  function refresh() {
+    const tickets = getFilteredTickets();
+    updateKPIs(tickets);
+    updateTable(tickets);
+    updateTrendChart();
+    updateStatusChart(tickets);
+    updatePersonChart();
+  }
+
+  async function init() {
+    try {
+      const [ticketsResp, snapshotsResp] = await Promise.all([
+        fetch("data/tickets.json"),
+        fetch("data/snapshots.json"),
+      ]);
+
+      if (!ticketsResp.ok || !snapshotsResp.ok) throw new Error("Data not found");
+
+      const ticketsData = await ticketsResp.json();
+      allTickets = ticketsData.tickets;
+      allSnapshots = await snapshotsResp.json();
+
+      // Populate person filter
+      const people = [...new Set(allTickets.map(t => t.assignee).filter(Boolean))].sort();
+      const sel = document.getElementById("filter-person");
+      people.forEach(p => {
+        const opt = document.createElement("option");
+        opt.value = p;
+        opt.textContent = p;
+        sel.appendChild(opt);
+      });
+
+      document.getElementById("last-updated").textContent =
+        `Last updated: ${ticketsData.last_updated}`;
+
+      document.getElementById("loading").style.display = "none";
+      document.getElementById("content").style.display = "block";
+
+      refresh();
+
+      // Attach filter listeners
+      ["filter-person", "filter-period", "filter-granularity", "filter-status", "filter-search"]
+        .forEach(id => document.getElementById(id).addEventListener("change", refresh));
+      document.getElementById("filter-search").addEventListener("input", refresh);
+
+    } catch (e) {
+      document.getElementById("loading").style.display = "none";
+      document.getElementById("error").style.display = "block";
+      console.error(e);
+    }
+  }
+
+  init();
+</script>
+</body>
+</html>
