@@ -26,6 +26,18 @@ DATA_DIR = Path(__file__).parent.parent / "data"
 DATA_DIR.mkdir(exist_ok=True)
 
 
+def check_auth():
+    """Verify authentication and print the current user."""
+    url = f"{BASE_URL}/rest/api/3/myself"
+    resp = requests.get(url, auth=AUTH, headers=HEADERS)
+    print(f"  Auth status: {resp.status_code}")
+    if resp.ok:
+        user = resp.json()
+        print(f"  Logged in as: {user.get('displayName')} ({user.get('emailAddress')})")
+    else:
+        print(f"  Auth failed: {resp.text}")
+
+
 def fetch_all_issues():
     """Fetch all issues from the project using pagination."""
     issues = []
@@ -122,6 +134,7 @@ def save_json(path, data):
 def main():
     today = datetime.now(timezone.utc).strftime("%Y-%m-%d")
     print(f"Fetching Jira issues for project {PROJECT_KEY}...")
+    check_auth()
 
     raw_issues = fetch_all_issues()
     tickets = [parse_issue(i) for i in raw_issues]
