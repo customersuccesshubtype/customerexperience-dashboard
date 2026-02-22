@@ -35,7 +35,7 @@ def fetch_all_issues():
     while True:
         url = f"{BASE_URL}/rest/api/3/search/jql"
         body = {
-            "jql": f"project = {PROJECT_KEY} ORDER BY created DESC",
+            "jql": f'project = "PS" ORDER BY created DESC',
             "maxResults": max_results,
             "fields": ["summary", "status", "assignee", "issuetype", "created", "resolutiondate", "labels"],
         }
