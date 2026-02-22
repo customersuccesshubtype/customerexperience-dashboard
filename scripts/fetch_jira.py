@@ -46,6 +46,8 @@ def fetch_all_issues():
         resp.raise_for_status()
         data = resp.json()
 
+        print(f"  API response keys: {list(data.keys())}")
+        print(f"  Total in response: {data.get('total', 'N/A')}")
         batch = data.get("issues", [])
         issues.extend(batch)
         print(f"  Fetched {len(issues)} issues so far...")
