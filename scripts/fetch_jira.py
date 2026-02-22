@@ -34,15 +34,15 @@ def fetch_all_issues():
 
     while True:
         url = f"{BASE_URL}/rest/api/3/search/jql"
-        params = {
+        body = {
             "jql": f"project = {PROJECT_KEY} ORDER BY created DESC",
             "maxResults": max_results,
-            "fields": "summary,status,assignee,issuetype,created,resolutiondate,labels",
+            "fields": ["summary", "status", "assignee", "issuetype", "created", "resolutiondate", "labels"],
         }
         if next_page_token:
-            params["nextPageToken"] = next_page_token
+            body["nextPageToken"] = next_page_token
 
-        resp = requests.get(url, params=params, auth=AUTH, headers=HEADERS)
+        resp = requests.post(url, json=body, auth=AUTH, headers={**HEADERS, "Content-Type": "application/json"})
         resp.raise_for_status()
         data = resp.json()
 
