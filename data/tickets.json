@@ -1,6 +1,124 @@
 {
-  "last_updated": "2026-02-23",
+  "last_updated": "2026-02-24",
   "tickets": [
+    {
+      "key": "PS-5095",
+      "summary": "Allianz ES - Update botonic version",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": null,
+      "issuetype": "Task",
+      "created": "2026-02-23",
+      "resolutiondate": "",
+      "labels": [
+        "Allianz-ES"
+      ]
+    },
+    {
+      "key": "PS-5094",
+      "summary": "Verisure IT - Create conversation info fields",
+      "status": "Done",
+      "status_category": "Done",
+      "assignee": "Patrícia Sánchez",
+      "issuetype": "Task",
+      "created": "2026-02-23",
+      "resolutiondate": "",
+      "labels": [
+        "Verisure_IT"
+      ]
+    },
+    {
+      "key": "PS-5093",
+      "summary": "Ralph Lauren - unify extract-code bot action with instore action",
+      "status": "Ready for review",
+      "status_category": "In Progress",
+      "assignee": "Lorena Sánchez-Toril Nicolás",
+      "issuetype": "Task",
+      "created": "2026-02-23",
+      "resolutiondate": "",
+      "labels": [
+        "Ralph_Lauren"
+      ]
+    },
+    {
+      "key": "PS-5092",
+      "summary": "Hubtype - Sales Demo Creator Renew Github token",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": null,
+      "issuetype": "Task",
+      "created": "2026-02-23",
+      "resolutiondate": "",
+      "labels": [
+        "Demo"
+      ]
+    },
+    {
+      "key": "PS-5091",
+      "summary": "Assegur - Campaign - Redirect user to flow if free text is sent",
+      "status": "In Progress",
+      "status_category": "In Progress",
+      "assignee": "Adrià Sastre",
+      "issuetype": "Task",
+      "created": "2026-02-23",
+      "resolutiondate": "",
+      "labels": [
+        "Assegur",
+        "Task"
+      ]
+    },
+    {
+      "key": "PS-5090",
+      "summary": "Ralph Lauren- Nano Banana Try on Feature only to staging",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Lorena Sánchez-Toril Nicolás",
+      "issuetype": "Task",
+      "created": "2026-02-23",
+      "resolutiondate": "",
+      "labels": [
+        "Ralph_Lauren"
+      ]
+    },
+    {
+      "key": "PS-5089",
+      "summary": "Alsa -  Gestion de billetes  new use case",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "María Sánchez",
+      "issuetype": "Discovery Task",
+      "created": "2026-02-23",
+      "resolutiondate": "",
+      "labels": [
+        "Alsa"
+      ]
+    },
+    {
+      "key": "PS-5088",
+      "summary": "Alsa - Voice message integration",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": null,
+      "issuetype": "Task",
+      "created": "2026-02-23",
+      "resolutiondate": "",
+      "labels": [
+        "Alsa"
+      ]
+    },
+    {
+      "key": "PS-5087",
+      "summary": "Provide a miro of how the UX would look like if we include the whole list of driving schools.",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Vicky Correbo",
+      "issuetype": "Sub-task",
+      "created": "2026-02-23",
+      "resolutiondate": "",
+      "labels": [
+        "RACC_START"
+      ]
+    },
     {
       "key": "PS-5086",
       "summary": "Alsa - Snippet chat en página de ayuda",
@@ -23,7 +141,9 @@
       "issuetype": "Task",
       "created": "2026-02-21",
       "resolutiondate": "",
-      "labels": []
+      "labels": [
+        "Alsa"
+      ]
     },
     {
       "key": "PS-5084",
@@ -41,8 +161,8 @@
     {
       "key": "PS-5083",
       "summary": "SEM - Definir prompt de AI Agent en Staging y conectarle sources",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "In Progress",
+      "status_category": "In Progress",
       "assignee": "Patrícia Sánchez",
       "issuetype": "Task",
       "created": "2026-02-21",
@@ -67,9 +187,9 @@
     {
       "key": "PS-5081",
       "summary": "TMB - URL Verification by AI Agent",
-      "status": "To Do",
-      "status_category": "To Do",
-      "assignee": "Francisca Martelli",
+      "status": "In Progress",
+      "status_category": "In Progress",
+      "assignee": "irene callejas",
       "issuetype": "Task",
       "created": "2026-02-20",
       "resolutiondate": "",
@@ -118,9 +238,9 @@
     {
       "key": "PS-5077",
       "summary": "Occident - Confirm how to send data to the snippet in \"extra data\"",
-      "status": "To Do",
+      "status": "Open",
       "status_category": "To Do",
-      "assignee": "Adrià Sastre",
+      "assignee": "palonso",
       "issuetype": "Task",
       "created": "2026-02-20",
       "resolutiondate": "",
@@ -196,7 +316,7 @@
     {
       "key": "PS-5071",
       "summary": "Ralph Lauren - Add Brand information questions to Automated Battle test",
-      "status": "In Progress",
+      "status": "Ready for review",
       "status_category": "In Progress",
       "assignee": "irene callejas",
       "issuetype": "Task",
@@ -246,8 +366,8 @@
     {
       "key": "PS-5063",
       "summary": "Wizz Air - Open transfer to Teleperformance for all Languages ",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Alexander Skalatskiy",
       "issuetype": "Task",
       "created": "2026-02-19",
@@ -259,8 +379,8 @@
     {
       "key": "PS-5062",
       "summary": "Tendam - Update WS Simpl to Botonic Latest version",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Adrià Sastre",
       "issuetype": "Task",
       "created": "2026-02-19",
@@ -298,8 +418,8 @@
     {
       "key": "PS-5059",
       "summary": "Polarier - Initial proposal of fields to obtain from Polarier via API",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "In Progress",
+      "status_category": "In Progress",
       "assignee": "Patrícia Sánchez",
       "issuetype": "Task",
       "created": "2026-02-18",
@@ -350,8 +470,8 @@
     {
       "key": "PS-5055",
       "summary": "Soledad- disable quantities based on stock",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-02-18",
@@ -363,8 +483,8 @@
     {
       "key": "PS-5054",
       "summary": "Michael Kors - Name format validation",
-      "status": "Ready for review",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-02-18",
@@ -546,8 +666,8 @@
     {
       "key": "PS-5039",
       "summary": "Verisure Global - RFP - Request to answer technical questions",
-      "status": "In Progress",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Marta Marron",
       "issuetype": "Task",
       "created": "2026-02-16",
@@ -637,8 +757,8 @@
     {
       "key": "PS-5031",
       "summary": "All clients - Using Claude linked to Tinybird - Obtain list of bot_id with their botonic version",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "In Progress",
+      "status_category": "In Progress",
       "assignee": "Aitor Casas",
       "issuetype": "Task",
       "created": "2026-02-16",
@@ -924,8 +1044,8 @@
     {
       "key": "PS-5008",
       "summary": "Soledad - integrate payment_method in validate_client",
-      "status": "Ready for review",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-02-12",
@@ -937,7 +1057,7 @@
     {
       "key": "PS-5007",
       "summary": "Air Europa - Consultar Reserva - Add Fares rules",
-      "status": "In Progress",
+      "status": "Ready for review",
       "status_category": "In Progress",
       "assignee": "Alexander Skalatskiy",
       "issuetype": "Task",
@@ -989,8 +1109,8 @@
     {
       "key": "PS-5003",
       "summary": "Air Europa - We are not displaying AVA response",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Closed",
+      "status_category": "Done",
       "assignee": "Alexander Skalatskiy",
       "issuetype": "Task",
       "created": "2026-02-11",
@@ -1093,8 +1213,8 @@
     {
       "key": "PS-4995",
       "summary": "Soledad: disable 'Finalize Order' when quantity is pending",
-      "status": "Ready for review",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-02-10",
@@ -1198,8 +1318,8 @@
     {
       "key": "PS-4987",
       "summary": "WizzAir - Increase to 75% (English language)",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Alexander Skalatskiy",
       "issuetype": "Sub-task",
       "created": "2026-02-09",
@@ -1237,8 +1357,8 @@
     {
       "key": "PS-4983",
       "summary": "Soledad - add pre-purchase step to web view ",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "In Progress",
+      "status_category": "In Progress",
       "assignee": "Andrea Talal Haidar",
       "issuetype": "Task",
       "created": "2026-02-09",
@@ -1276,8 +1396,8 @@
     {
       "key": "PS-4980",
       "summary": "Soledad -  carrousel for images in webview ",
-      "status": "Ready for review",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-02-09",
@@ -1664,8 +1784,8 @@
     {
       "key": "PS-4946",
       "summary": "Air Europa - Consultar Reserva - Add trains information to the journeys",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "In Progress",
+      "status_category": "In Progress",
       "assignee": "Alexander Skalatskiy",
       "issuetype": "Task",
       "created": "2026-02-03",
@@ -1703,8 +1823,8 @@
     {
       "key": "PS-4943",
       "summary": "Occident- WhatsApp Coexistence",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "In Progress",
+      "status_category": "In Progress",
       "assignee": "Marta Marron",
       "issuetype": "Task",
       "created": "2026-02-03",
@@ -1742,8 +1862,8 @@
     {
       "key": "PS-4940",
       "summary": "Retorna - Include \"PAYOUT_IN_PROGRESS\" variable in REMITTANCE_STATUS_CONDITIONAL",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Closed",
+      "status_category": "Done",
       "assignee": null,
       "issuetype": "Task",
       "created": "2026-02-02",
@@ -1770,7 +1890,7 @@
       "summary": "Allianz Partners - Save Service Data in Tinybird and Contact Info Fields",
       "status": "To Do",
       "status_category": "To Do",
-      "assignee": "Alexander Skalatskiy",
+      "assignee": "palonso",
       "issuetype": "Task",
       "created": "2026-02-02",
       "resolutiondate": "",
@@ -1818,8 +1938,8 @@
     {
       "key": "PS-4934",
       "summary": "Tendam - Add new status to WISMO, RETURNED_TO_ORIGIN",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "In Progress",
+      "status_category": "In Progress",
       "assignee": "Evgeni Slavyanov",
       "issuetype": "Task",
       "created": "2026-02-02",
@@ -1844,8 +1964,8 @@
     {
       "key": "PS-4932",
       "summary": "GUESS - Integrate digitalReturn field from ParcelLab API for WISMR implementation",
-      "status": "Ready to Deliver",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Adrià Sastre",
       "issuetype": "Task",
       "created": "2026-02-01",
@@ -2404,8 +2524,8 @@
     {
       "key": "PS-4880",
       "summary": "Air Europa - NeuralTrust - Add conversationId value",
-      "status": "Ready to Deliver",
-      "status_category": "In Progress",
+      "status": "APPROVED FOR PRODUCTION",
+      "status_category": "Done",
       "assignee": "Alexander Skalatskiy",
       "issuetype": "Task",
       "created": "2026-01-22",
@@ -2677,8 +2797,8 @@
     {
       "key": "PS-4857",
       "summary": "Improve SharkTank demo webviews",
-      "status": "Ready for review",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "palonso",
       "issuetype": "Task",
       "created": "2026-01-19",
@@ -2794,8 +2914,8 @@
     {
       "key": "PS-4846",
       "summary": "Michael Kors - Migrate from Knowledge Bases to AI Agent",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "In Progress",
+      "status_category": "In Progress",
       "assignee": "María Sánchez",
       "issuetype": "Task",
       "created": "2026-01-17",
@@ -3523,8 +3643,8 @@
     {
       "key": "PS-4785",
       "summary": "Air Europa - Adjust \"chatcontext\" development to take into account that one user can have multiple conversations",
-      "status": "Ready to Deliver",
-      "status_category": "In Progress",
+      "status": "APPROVED FOR PRODUCTION",
+      "status_category": "Done",
       "assignee": "Alexander Skalatskiy",
       "issuetype": "Bug",
       "created": "2025-12-29",
@@ -3749,8 +3869,8 @@
     {
       "key": "PS-4762",
       "summary": "Soledad - Treat audio files",
-      "status": "Open",
-      "status_category": "To Do",
+      "status": "Closed",
+      "status_category": "Done",
       "assignee": "palonso",
       "issuetype": "Task",
       "created": "2025-12-19",
@@ -3932,8 +4052,8 @@
     {
       "key": "PS-4747",
       "summary": "Jetsmart - Update bot to 42.4 version to activate AI Agents ",
-      "status": "Ready for review",
-      "status_category": "In Progress",
+      "status": "APPROVED FOR PRODUCTION",
+      "status_category": "Done",
       "assignee": "palonso",
       "issuetype": "Task",
       "created": "2025-12-16",
@@ -5244,9 +5364,9 @@
     {
       "key": "PS-4629",
       "summary": "Ralph Lauren - Integrate Nano banana Try on feature",
-      "status": "Ready to Deliver",
-      "status_category": "In Progress",
-      "assignee": "Adrià Sastre",
+      "status": "Done",
+      "status_category": "Done",
+      "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2025-11-08",
       "resolutiondate": "",
@@ -17583,7 +17703,7 @@
     {
       "key": "PS-3532",
       "summary": "AirEuropa - Search flight",
-      "status": "In Progress",
+      "status": "Ready for review",
       "status_category": "In Progress",
       "assignee": "Alexander Skalatskiy",
       "issuetype": "Epic",
