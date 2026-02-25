@@ -1,6 +1,104 @@
 {
-  "last_updated": "2026-02-24",
+  "last_updated": "2026-02-25",
   "tickets": [
+    {
+      "key": "PS-5103",
+      "summary": "SEM - Sacar un export de los smart intents que hay en el bot del SEM en Staging",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Aitor Casas",
+      "issuetype": "Task",
+      "created": "2026-02-24",
+      "resolutiondate": "",
+      "labels": [
+        "SEM"
+      ]
+    },
+    {
+      "key": "PS-5102",
+      "summary": "SEM - Añadir Guardrails estándares al bot de staging del SEM",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Patrícia Sánchez",
+      "issuetype": "Task",
+      "created": "2026-02-24",
+      "resolutiondate": "",
+      "labels": [
+        "SEM"
+      ]
+    },
+    {
+      "key": "PS-5101",
+      "summary": "CCMA Tot es Mou - Bulk image download solution for chatbot cases",
+      "status": "Open",
+      "status_category": "To Do",
+      "assignee": null,
+      "issuetype": "Task",
+      "created": "2026-02-24",
+      "resolutiondate": "",
+      "labels": [
+        "ccma"
+      ]
+    },
+    {
+      "key": "PS-5100",
+      "summary": "All clients - Review which Organization_id can be deleted",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Aitor Casas",
+      "issuetype": "Task",
+      "created": "2026-02-24",
+      "resolutiondate": "",
+      "labels": []
+    },
+    {
+      "key": "PS-5099",
+      "summary": "Occident - WhatsApp audio transcript ",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "palonso",
+      "issuetype": "Task",
+      "created": "2026-02-24",
+      "resolutiondate": "",
+      "labels": [
+        "occident"
+      ]
+    },
+    {
+      "key": "PS-5098",
+      "summary": "RACC - Ahorro Energético - Capturar campo que indique que la conversacion viene de la landing",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Adrià Sastre",
+      "issuetype": "Task",
+      "created": "2026-02-24",
+      "resolutiondate": "",
+      "labels": []
+    },
+    {
+      "key": "PS-5097",
+      "summary": "Jetsmart - Activate AI Agents",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Julieta Mezza",
+      "issuetype": "Task",
+      "created": "2026-02-24",
+      "resolutiondate": "",
+      "labels": []
+    },
+    {
+      "key": "PS-5096",
+      "summary": "TMB - Upgrade GPT model in Staging Bot",
+      "status": "Done",
+      "status_category": "Done",
+      "assignee": "Evgeni Slavyanov",
+      "issuetype": "Task",
+      "created": "2026-02-24",
+      "resolutiondate": "",
+      "labels": [
+        "TMB"
+      ]
+    },
     {
       "key": "PS-5095",
       "summary": "Allianz ES - Update botonic version",
@@ -70,8 +168,8 @@
     {
       "key": "PS-5090",
       "summary": "Ralph Lauren- Nano Banana Try on Feature only to staging",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "In Progress",
+      "status_category": "In Progress",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-02-23",
@@ -109,8 +207,8 @@
     {
       "key": "PS-5087",
       "summary": "Provide a miro of how the UX would look like if we include the whole list of driving schools.",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Ready for review",
+      "status_category": "In Progress",
       "assignee": "Vicky Correbo",
       "issuetype": "Sub-task",
       "created": "2026-02-23",
@@ -214,8 +312,8 @@
     {
       "key": "PS-5079",
       "summary": "Michael Kors - Include the customer name where the browser name is displayed",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-02-20",
@@ -238,8 +336,8 @@
     {
       "key": "PS-5077",
       "summary": "Occident - Confirm how to send data to the snippet in \"extra data\"",
-      "status": "Open",
-      "status_category": "To Do",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "palonso",
       "issuetype": "Task",
       "created": "2026-02-20",
@@ -251,8 +349,8 @@
     {
       "key": "PS-5076",
       "summary": "Occident - Add new parameter \"provider_account_id\" to the the call to \"Inicio de conversación\" to inform the client about the channel ID",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "In Progress",
+      "status_category": "In Progress",
       "assignee": "Evgeni Slavyanov",
       "issuetype": "Task",
       "created": "2026-02-20",
@@ -405,7 +503,7 @@
     {
       "key": "PS-5060",
       "summary": "Ralph Lauren - Create a tool that allows an agent to invoke a specific node (ex. Handoff)",
-      "status": "In Progress",
+      "status": "Ready for review",
       "status_category": "In Progress",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
@@ -757,8 +855,8 @@
     {
       "key": "PS-5031",
       "summary": "All clients - Using Claude linked to Tinybird - Obtain list of bot_id with their botonic version",
-      "status": "In Progress",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Aitor Casas",
       "issuetype": "Task",
       "created": "2026-02-16",
@@ -1278,8 +1376,8 @@
     {
       "key": "PS-4990",
       "summary": "CCMA - Tot es mou - Revisar experiencia de usuario",
-      "status": "Ready to Deliver",
-      "status_category": "In Progress",
+      "status": "To Do",
+      "status_category": "To Do",
       "assignee": "Aitor Casas",
       "issuetype": "Task",
       "created": "2026-02-09",
@@ -2042,8 +2140,8 @@
     {
       "key": "PS-4926",
       "summary": "Occident - Add 'start' parameter to Autologin",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Closed",
+      "status_category": "Done",
       "assignee": "palonso",
       "issuetype": "Task",
       "created": "2026-01-29",
@@ -4052,7 +4150,7 @@
     {
       "key": "PS-4747",
       "summary": "Jetsmart - Update bot to 42.4 version to activate AI Agents ",
-      "status": "APPROVED FOR PRODUCTION",
+      "status": "Done",
       "status_category": "Done",
       "assignee": "palonso",
       "issuetype": "Task",
@@ -4918,8 +5016,8 @@
     {
       "key": "PS-4672",
       "summary": "Multiasistencia - Improvements on Multiasistencia automation flow",
-      "status": "Ready for review",
-      "status_category": "In Progress",
+      "status": "To Do",
+      "status_category": "To Do",
       "assignee": "Andrea Talal Haidar",
       "issuetype": "Task",
       "created": "2025-11-24",
