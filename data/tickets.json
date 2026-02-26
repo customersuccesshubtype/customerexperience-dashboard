@@ -1,11 +1,172 @@
 {
-  "last_updated": "2026-02-25",
+  "last_updated": "2026-02-26",
   "tickets": [
+    {
+      "key": "PS-5116",
+      "summary": "RACC - Ahorro Energético - After 2 reminders go to a Specific Node and do a Handoff",
+      "status": "Open",
+      "status_category": "To Do",
+      "assignee": null,
+      "issuetype": "Task",
+      "created": "2026-02-25",
+      "resolutiondate": "",
+      "labels": []
+    },
+    {
+      "key": "PS-5115",
+      "summary": "Michael Kors  - Zendesk Integration",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "María Sánchez",
+      "issuetype": "Discovery Task",
+      "created": "2026-02-25",
+      "resolutiondate": "",
+      "labels": [
+        "Michael-Kors"
+      ]
+    },
+    {
+      "key": "PS-5114",
+      "summary": "Multiasistencia - Review status of inclusion of Allianz France in bot Multi_Francia",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Aitor Casas",
+      "issuetype": "Task",
+      "created": "2026-02-25",
+      "resolutiondate": "",
+      "labels": [
+        "Multiasistencia"
+      ]
+    },
+    {
+      "key": "PS-5113",
+      "summary": "Soledad - apply new design webview ",
+      "status": "In Progress",
+      "status_category": "In Progress",
+      "assignee": "Lorena Sánchez-Toril Nicolás",
+      "issuetype": "Task",
+      "created": "2026-02-25",
+      "resolutiondate": "",
+      "labels": [
+        "Soledad"
+      ]
+    },
+    {
+      "key": "PS-5112",
+      "summary": "Ralph Lauren - Service buttons show repeatedly // Info about exchanges?",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "irene callejas",
+      "issuetype": "Task",
+      "created": "2026-02-25",
+      "resolutiondate": "",
+      "labels": []
+    },
+    {
+      "key": "PS-5111",
+      "summary": "Guess - Eliminate Personal Shopper Components",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": null,
+      "issuetype": "Task",
+      "created": "2026-02-25",
+      "resolutiondate": "",
+      "labels": [
+        "Guess"
+      ]
+    },
+    {
+      "key": "PS-5110",
+      "summary": "Ralph Lauren - Move Zendesk to prod with a variable True / false",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "palonso",
+      "issuetype": "Task",
+      "created": "2026-02-25",
+      "resolutiondate": "",
+      "labels": []
+    },
+    {
+      "key": "PS-5109",
+      "summary": "CCMA - Tot es Mou - Update Disclaimer legal",
+      "status": "In Progress",
+      "status_category": "In Progress",
+      "assignee": "Aitor Casas",
+      "issuetype": "Task",
+      "created": "2026-02-25",
+      "resolutiondate": "",
+      "labels": [
+        "ccma"
+      ]
+    },
+    {
+      "key": "PS-5108",
+      "summary": "Occident - wrong queues assigned ",
+      "status": "Done",
+      "status_category": "Done",
+      "assignee": "Lorena Sánchez-Toril Nicolás",
+      "issuetype": "Task",
+      "created": "2026-02-25",
+      "resolutiondate": "",
+      "labels": [
+        "occident"
+      ]
+    },
+    {
+      "key": "PS-5107",
+      "summary": "Polarier - Flow Proposal ",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Andrea Talal Haidar",
+      "issuetype": "Task",
+      "created": "2026-02-25",
+      "resolutiondate": "",
+      "labels": [
+        "Polarier"
+      ]
+    },
+    {
+      "key": "PS-5106",
+      "summary": "Occident - Review pros y cons of having separate WABAs in the bot (one for agencies and other for contact center)",
+      "status": "Ready for review",
+      "status_category": "In Progress",
+      "assignee": "Aitor Casas",
+      "issuetype": "Discovery Task",
+      "created": "2026-02-25",
+      "resolutiondate": "",
+      "labels": []
+    },
+    {
+      "key": "PS-5105",
+      "summary": "Soledad - verify auth token before opening webview",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Lorena Sánchez-Toril Nicolás",
+      "issuetype": "Task",
+      "created": "2026-02-25",
+      "resolutiondate": "",
+      "labels": [
+        "Soledad"
+      ]
+    },
+    {
+      "key": "PS-5104",
+      "summary": "Air Europa - Update bot to 42.3",
+      "status": "Done",
+      "status_category": "Done",
+      "assignee": "Alexander Skalatskiy",
+      "issuetype": "Task",
+      "created": "2026-02-25",
+      "resolutiondate": "",
+      "labels": [
+        "AirEuropa"
+      ]
+    },
     {
       "key": "PS-5103",
       "summary": "SEM - Sacar un export de los smart intents que hay en el bot del SEM en Staging",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Aitor Casas",
       "issuetype": "Task",
       "created": "2026-02-24",
@@ -17,8 +178,8 @@
     {
       "key": "PS-5102",
       "summary": "SEM - Añadir Guardrails estándares al bot de staging del SEM",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Patrícia Sánchez",
       "issuetype": "Task",
       "created": "2026-02-24",
@@ -66,7 +227,7 @@
     },
     {
       "key": "PS-5098",
-      "summary": "RACC - Ahorro Energético - Capturar campo que indique que la conversacion viene de la landing",
+      "summary": "RACC - Ahorro Energético - Detect conversations that come from the landing (ideally have them go through the Keyword)",
       "status": "To Do",
       "status_category": "To Do",
       "assignee": "Adrià Sastre",
@@ -154,8 +315,8 @@
     {
       "key": "PS-5091",
       "summary": "Assegur - Campaign - Redirect user to flow if free text is sent",
-      "status": "In Progress",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Adrià Sastre",
       "issuetype": "Task",
       "created": "2026-02-23",
@@ -168,7 +329,7 @@
     {
       "key": "PS-5090",
       "summary": "Ralph Lauren- Nano Banana Try on Feature only to staging",
-      "status": "In Progress",
+      "status": "Ready for review",
       "status_category": "In Progress",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
@@ -222,7 +383,7 @@
       "summary": "Alsa - Snippet chat en página de ayuda",
       "status": "To Do",
       "status_category": "To Do",
-      "assignee": null,
+      "assignee": "María Sánchez",
       "issuetype": "Task",
       "created": "2026-02-22",
       "resolutiondate": "",
@@ -235,7 +396,7 @@
       "summary": "Alsa - API Gestión de billetes",
       "status": "To Do",
       "status_category": "To Do",
-      "assignee": null,
+      "assignee": "María Sánchez",
       "issuetype": "Task",
       "created": "2026-02-21",
       "resolutiondate": "",
@@ -246,8 +407,8 @@
     {
       "key": "PS-5084",
       "summary": "RACC - AI Chat API Integration — Define & Document Technical Requirements",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": null,
       "issuetype": "Discovery Task",
       "created": "2026-02-21",
@@ -274,7 +435,7 @@
       "summary": "Generalitat Turisme - Adrià to review bot changes before production deployment",
       "status": "To Do",
       "status_category": "To Do",
-      "assignee": null,
+      "assignee": "Adrià Sastre",
       "issuetype": "Sub-task",
       "created": "2026-02-20",
       "resolutiondate": "",
@@ -348,10 +509,10 @@
     },
     {
       "key": "PS-5076",
-      "summary": "Occident - Add new parameter \"provider_account_id\" to the the call to \"Inicio de conversación\" to inform the client about the channel ID",
-      "status": "In Progress",
+      "summary": "Occident - Add new parameter \"providerAccountId\" to the the call to \"Inicio de conversación\" to inform the client about the channel ID",
+      "status": "Ready to Deliver",
       "status_category": "In Progress",
-      "assignee": "Evgeni Slavyanov",
+      "assignee": "palonso",
       "issuetype": "Task",
       "created": "2026-02-20",
       "resolutiondate": "",
@@ -362,8 +523,8 @@
     {
       "key": "PS-5075",
       "summary": "Occident - Send information to endpoint \"Inicio de conversación\" they've created",
-      "status": "Open",
-      "status_category": "To Do",
+      "status": "Ready for review",
+      "status_category": "In Progress",
       "assignee": "Julieta Mezza",
       "issuetype": "Epic",
       "created": "2026-02-20",
@@ -388,8 +549,8 @@
     {
       "key": "PS-5073",
       "summary": "Ralph Lauren - Document Product Search & Recommendation Logic (LLM, Tags, Ranking)",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "eric",
       "issuetype": "Task",
       "created": "2026-02-19",
@@ -399,23 +560,10 @@
       ]
     },
     {
-      "key": "PS-5072",
-      "summary": "SEM - Define prompt of AI Agent in SEM Staging",
-      "status": "To Do",
-      "status_category": "To Do",
-      "assignee": null,
-      "issuetype": "Task",
-      "created": "2026-02-19",
-      "resolutiondate": "",
-      "labels": [
-        "SEM"
-      ]
-    },
-    {
       "key": "PS-5071",
       "summary": "Ralph Lauren - Add Brand information questions to Automated Battle test",
-      "status": "Ready for review",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "irene callejas",
       "issuetype": "Task",
       "created": "2026-02-19",
@@ -427,8 +575,8 @@
     {
       "key": "PS-5070",
       "summary": "Ralph Lauren – Review prompt rules to ensure the customer name is requested at the beginning and any subsequent requests are limited and non-consecutive",
-      "status": "Ready for review",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "irene callejas",
       "issuetype": "Task",
       "created": "2026-02-19",
@@ -620,8 +768,8 @@
     {
       "key": "PS-5051",
       "summary": "Ralph Lauren - Create the different Onboarding flows",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "In Progress",
+      "status_category": "In Progress",
       "assignee": "Andrea Talal Haidar",
       "issuetype": "Task",
       "created": "2026-02-18",
@@ -724,8 +872,8 @@
     {
       "key": "PS-5043",
       "summary": "Hubtype - Investigate Shark Tank demo language issue",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "palonso",
       "issuetype": "Task",
       "created": "2026-02-17",
@@ -1011,7 +1159,7 @@
     {
       "key": "PS-5019",
       "summary": "Verisure IT - Implement Hubtype Webhook Endpoint to Receive Opportunity ID & Contact Profile",
-      "status": "To Do",
+      "status": "Open",
       "status_category": "To Do",
       "assignee": null,
       "issuetype": "Task",
@@ -1168,7 +1316,7 @@
     {
       "key": "PS-5006",
       "summary": "Soledad - Total orders API",
-      "status": "In Progress",
+      "status": "Ready for review",
       "status_category": "In Progress",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
@@ -1181,8 +1329,8 @@
     {
       "key": "PS-5005",
       "summary": "Ralph Lauren - Modificar campo Suject en Zendesk",
-      "status": "Ready to Deliver",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "palonso",
       "issuetype": "Task",
       "created": "2026-02-11",
@@ -1403,9 +1551,9 @@
     {
       "key": "PS-4988",
       "summary": "RACC Start - Investigate the impact of including 57 additional driving schools",
-      "status": "To Do",
+      "status": "Open",
       "status_category": "To Do",
-      "assignee": "Lorena Sánchez-Toril Nicolás",
+      "assignee": "María Sánchez",
       "issuetype": "Discovery Task",
       "created": "2026-02-09",
       "resolutiondate": "",
@@ -1752,8 +1900,8 @@
     {
       "key": "PS-4959",
       "summary": "SegurCaixa - Medir impacto del Copilot (configurar métricas en Tinybird)",
-      "status": "In Progress",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "María Sánchez",
       "issuetype": "Task",
       "created": "2026-02-04",
@@ -1895,7 +2043,7 @@
     {
       "key": "PS-4945",
       "summary": "Michael Kors - Upgrade chat gpt to 5.2",
-      "status": "APPROVED FOR PRODUCTION",
+      "status": "Done",
       "status_category": "Done",
       "assignee": "Evgeni Slavyanov",
       "issuetype": "Task",
@@ -1986,8 +2134,8 @@
     {
       "key": "PS-4938",
       "summary": "Allianz Partners - Save Service Data in Tinybird and Contact Info Fields",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "In Progress",
+      "status_category": "In Progress",
       "assignee": "palonso",
       "issuetype": "Task",
       "created": "2026-02-02",
@@ -2036,7 +2184,7 @@
     {
       "key": "PS-4934",
       "summary": "Tendam - Add new status to WISMO, RETURNED_TO_ORIGIN",
-      "status": "In Progress",
+      "status": "Ready for review",
       "status_category": "In Progress",
       "assignee": "Evgeni Slavyanov",
       "issuetype": "Task",
@@ -2088,8 +2236,8 @@
     {
       "key": "PS-4930",
       "summary": "Jetsmart - Design \"buy a flight\"",
-      "status": "In Review",
-      "status_category": "In Progress",
+      "status": "To Do",
+      "status_category": "To Do",
       "assignee": "Vicky Correbo",
       "issuetype": "Task",
       "created": "2026-01-30",
@@ -2336,9 +2484,9 @@
     {
       "key": "PS-4906",
       "summary": "Polarier - Project 1st Phase",
-      "status": "To Do",
-      "status_category": "To Do",
-      "assignee": "Marta Marron",
+      "status": "In Progress",
+      "status_category": "In Progress",
+      "assignee": "Patrícia Sánchez",
       "issuetype": "Epic",
       "created": "2026-01-26",
       "resolutiondate": "",
@@ -4642,8 +4790,8 @@
     {
       "key": "PS-4703",
       "summary": "Retorna - Configure a second API call pre handoff (enhance automatic queue assignment)",
-      "status": "Open",
-      "status_category": "To Do",
+      "status": "Closed",
+      "status_category": "Done",
       "assignee": null,
       "issuetype": "Task",
       "created": "2025-12-03",
