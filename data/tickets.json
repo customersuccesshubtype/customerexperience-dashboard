@@ -1,6 +1,71 @@
 {
-  "last_updated": "2026-02-26",
+  "last_updated": "2026-02-27",
   "tickets": [
+    {
+      "key": "PS-5121",
+      "summary": "Ralph Lauren - add filter new_arrivals",
+      "status": "In Progress",
+      "status_category": "In Progress",
+      "assignee": "Lorena Sánchez-Toril Nicolás",
+      "issuetype": "Task",
+      "created": "2026-02-27",
+      "resolutiondate": "",
+      "labels": [
+        "Ralph_Lauren"
+      ]
+    },
+    {
+      "key": "PS-5120",
+      "summary": "Guess - Eliminate Personal Shopper WhatsApp Flows (or disconnect)",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Francisca Martelli",
+      "issuetype": "Task",
+      "created": "2026-02-26",
+      "resolutiondate": "",
+      "labels": [
+        "Guess"
+      ]
+    },
+    {
+      "key": "PS-5119",
+      "summary": "Sanitas Seguros - Ajustar el flow para incluir los casos de Uso de su actual WebChat - antes del 5 de marzo",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Julieta Mezza",
+      "issuetype": "Task",
+      "created": "2026-02-26",
+      "resolutiondate": "",
+      "labels": [
+        "Sanitas"
+      ]
+    },
+    {
+      "key": "PS-5118",
+      "summary": "Ralph Lauren- new updates",
+      "status": "Ready for review",
+      "status_category": "In Progress",
+      "assignee": "Lorena Sánchez-Toril Nicolás",
+      "issuetype": "Task",
+      "created": "2026-02-26",
+      "resolutiondate": "",
+      "labels": [
+        "Ralph_Lauren"
+      ]
+    },
+    {
+      "key": "PS-5117",
+      "summary": "WizzAir - Increase to 100% (all cases)",
+      "status": "Ready for review",
+      "status_category": "In Progress",
+      "assignee": "Alexander Skalatskiy",
+      "issuetype": "Sub-task",
+      "created": "2026-02-26",
+      "resolutiondate": "",
+      "labels": [
+        "WizzAir"
+      ]
+    },
     {
       "key": "PS-5116",
       "summary": "RACC - Ahorro Energético - After 2 reminders go to a Specific Node and do a Handoff",
@@ -28,8 +93,8 @@
     {
       "key": "PS-5114",
       "summary": "Multiasistencia - Review status of inclusion of Allianz France in bot Multi_Francia",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Ready for review",
+      "status_category": "In Progress",
       "assignee": "Aitor Casas",
       "issuetype": "Task",
       "created": "2026-02-25",
@@ -67,7 +132,7 @@
       "summary": "Guess - Eliminate Personal Shopper Components",
       "status": "To Do",
       "status_category": "To Do",
-      "assignee": null,
+      "assignee": "Adrià Sastre",
       "issuetype": "Task",
       "created": "2026-02-25",
       "resolutiondate": "",
@@ -78,8 +143,8 @@
     {
       "key": "PS-5110",
       "summary": "Ralph Lauren - Move Zendesk to prod with a variable True / false",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "In Progress",
+      "status_category": "In Progress",
       "assignee": "palonso",
       "issuetype": "Task",
       "created": "2026-02-25",
@@ -128,8 +193,8 @@
     {
       "key": "PS-5106",
       "summary": "Occident - Review pros y cons of having separate WABAs in the bot (one for agencies and other for contact center)",
-      "status": "Ready for review",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Aitor Casas",
       "issuetype": "Discovery Task",
       "created": "2026-02-25",
@@ -1016,7 +1081,7 @@
     {
       "key": "PS-5030",
       "summary": "TMB - Language adherence ",
-      "status": "In Progress",
+      "status": "Ready for review",
       "status_category": "In Progress",
       "assignee": "irene callejas",
       "issuetype": "Task",
@@ -1420,7 +1485,7 @@
     {
       "key": "PS-4998",
       "summary": "Occident - English version of the bot ",
-      "status": "To Do",
+      "status": "Open",
       "status_category": "To Do",
       "assignee": "Julieta Mezza",
       "issuetype": "Task",
@@ -2770,7 +2835,7 @@
     {
       "key": "PS-4880",
       "summary": "Air Europa - NeuralTrust - Add conversationId value",
-      "status": "APPROVED FOR PRODUCTION",
+      "status": "Done",
       "status_category": "Done",
       "assignee": "Alexander Skalatskiy",
       "issuetype": "Task",
@@ -3889,7 +3954,7 @@
     {
       "key": "PS-4785",
       "summary": "Air Europa - Adjust \"chatcontext\" development to take into account that one user can have multiple conversations",
-      "status": "APPROVED FOR PRODUCTION",
+      "status": "Done",
       "status_category": "Done",
       "assignee": "Alexander Skalatskiy",
       "issuetype": "Bug",
@@ -5848,8 +5913,8 @@
     {
       "key": "PS-4608",
       "summary": "Occident - Review how to split the daily customized report by project",
-      "status": "Open",
-      "status_category": "To Do",
+      "status": "Closed",
+      "status_category": "Done",
       "assignee": "Julieta Mezza",
       "issuetype": "Task",
       "created": "2025-11-04",
