@@ -1,10 +1,97 @@
 {
-  "last_updated": "2026-02-27",
+  "last_updated": "2026-02-28",
   "tickets": [
     {
-      "key": "PS-5121",
-      "summary": "Ralph Lauren - add filter new_arrivals",
+      "key": "PS-5128",
+      "summary": "Ralph Lauren - Review customer questions from Ask Ralph",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "irene callejas",
+      "issuetype": "Task",
+      "created": "2026-02-27",
+      "resolutiondate": "",
+      "labels": []
+    },
+    {
+      "key": "PS-5127",
+      "summary": "TMB - Save \"Zendesk ticket number\" in Contact info fields",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": null,
+      "issuetype": "Task",
+      "created": "2026-02-27",
+      "resolutiondate": "",
+      "labels": [
+        "TMB"
+      ]
+    },
+    {
+      "key": "PS-5126",
+      "summary": "TMB - Update sourceChannel to \"CHATBOT\" for Zendesk tickets and send Conv ID",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": null,
+      "issuetype": "Task",
+      "created": "2026-02-27",
+      "resolutiondate": "",
+      "labels": [
+        "TMB"
+      ]
+    },
+    {
+      "key": "PS-5125",
+      "summary": "SegurCaixa Adeslas - Request to have fields capture in APIs display in Conversation Fields in the Dashboard",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Adrià Sastre",
+      "issuetype": "Task",
+      "created": "2026-02-27",
+      "resolutiondate": "",
+      "labels": [
+        "SegurCaixa"
+      ]
+    },
+    {
+      "key": "PS-5124",
+      "summary": "Ralph Lauren - Work on fine tunning customer support reponses",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Marta Marron",
+      "issuetype": "Task",
+      "created": "2026-02-27",
+      "resolutiondate": "",
+      "labels": []
+    },
+    {
+      "key": "PS-5123",
+      "summary": "Ralph Lauren - Some varied fine tunning",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "irene callejas",
+      "issuetype": "Task",
+      "created": "2026-02-27",
+      "resolutiondate": "",
+      "labels": [
+        "Ralph_Lauren"
+      ]
+    },
+    {
+      "key": "PS-5122",
+      "summary": "Air Europa - Review \"Consultar reserva\" edge case: re-think  design layout (too many buttons, too many info)  ",
       "status": "In Progress",
+      "status_category": "In Progress",
+      "assignee": "Vicky Correbo",
+      "issuetype": "Task",
+      "created": "2026-02-27",
+      "resolutiondate": "",
+      "labels": [
+        "AirEuropa"
+      ]
+    },
+    {
+      "key": "PS-5121",
+      "summary": "Ralph Lauren - add filter new_arrivals + update regex customerid",
+      "status": "Ready for review",
       "status_category": "In Progress",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
@@ -56,8 +143,8 @@
     {
       "key": "PS-5117",
       "summary": "WizzAir - Increase to 100% (all cases)",
-      "status": "Ready for review",
-      "status_category": "In Progress",
+      "status": "In production",
+      "status_category": "Done",
       "assignee": "Alexander Skalatskiy",
       "issuetype": "Sub-task",
       "created": "2026-02-26",
@@ -204,8 +291,8 @@
     {
       "key": "PS-5105",
       "summary": "Soledad - verify auth token before opening webview",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "In Progress",
+      "status_category": "In Progress",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-02-25",
@@ -524,8 +611,8 @@
     {
       "key": "PS-5080",
       "summary": "Easyjet - Task - Chat webpage - GTM Custom Domain Configuration and Data Layer Updates",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Ready for review",
+      "status_category": "In Progress",
       "assignee": "Adrià Sastre",
       "issuetype": "Task",
       "created": "2026-02-20",
@@ -716,9 +803,9 @@
     {
       "key": "PS-5060",
       "summary": "Ralph Lauren - Create a tool that allows an agent to invoke a specific node (ex. Handoff)",
-      "status": "Ready for review",
+      "status": "In Progress",
       "status_category": "In Progress",
-      "assignee": "Lorena Sánchez-Toril Nicolás",
+      "assignee": "irene callejas",
       "issuetype": "Task",
       "created": "2026-02-19",
       "resolutiondate": "",
@@ -1107,7 +1194,7 @@
     {
       "key": "PS-5028",
       "summary": "Multiasistencia - Update botonic version MULTI_SEGURCAIXA_STAGING - 967a81d2-b847-4fce-b807-1fca97eeb26a",
-      "status": "In Progress",
+      "status": "Ready for review",
       "status_category": "In Progress",
       "assignee": "Evgeni Slavyanov",
       "issuetype": "Task",
@@ -1770,8 +1857,8 @@
     {
       "key": "PS-4975",
       "summary": "Easyjet - Create external links to a content for Prod and Staging",
-      "status": "In Review",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Adrià Sastre",
       "issuetype": "Task",
       "created": "2026-02-06",
@@ -2301,8 +2388,8 @@
     {
       "key": "PS-4930",
       "summary": "Jetsmart - Design \"buy a flight\"",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "In Progress",
+      "status_category": "In Progress",
       "assignee": "Vicky Correbo",
       "issuetype": "Task",
       "created": "2026-01-30",
@@ -5321,7 +5408,7 @@
     {
       "key": "PS-4663",
       "summary": "Creating a demo using whatsapp flow about personalised offer",
-      "status": "Open",
+      "status": "To Do",
       "status_category": "To Do",
       "assignee": "Evgeni Slavyanov",
       "issuetype": "Task",
