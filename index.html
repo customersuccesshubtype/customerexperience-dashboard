@@ -690,14 +690,27 @@
   }
 
   function updatePersonChart() {
-    // Use latest snapshot for current state per person
-    if (!allSnapshots.length) return;
-    const latest = allSnapshots[allSnapshots.length - 1];
-    const byA = latest.by_assignee || {};
+    // Compute from filtered tickets (respects date, label and status filters)
+    // Person filter is intentionally NOT applied so all CE team members show
+    const label = document.getElementById("filter-label").value;
+    const { cutoff, cutoffEnd } = getPeriodCutoffs();
+    const statusFilter = getStatusFilter();
 
-    const people = Object.keys(byA)
-      .filter(p => TEAM_NAMES.some(name => norm(p).includes(norm(name))))
-      .sort();
+    const byA = {};
+    allTickets.forEach(t => {
+      const person = t.assignee || "Unassigned";
+      if (!TEAM_NAMES.some(name => norm(person).includes(norm(name)))) return;
+      if (label && !(t.labels || []).includes(label)) return;
+      if (t.created < cutoff) return;
+      if (cutoffEnd && t.created > cutoffEnd) return;
+      if (statusFilter.length > 0 && !statusFilter.includes(t.status)) return;
+      if (!byA[person]) byA[person] = { open: 0, in_progress: 0, done: 0 };
+      if (DONE_STATUSES.has(t.status)) byA[person].done++;
+      else if (WIP_STATUSES.has(t.status)) byA[person].in_progress++;
+      else byA[person].open++;
+    });
+
+    const people = Object.keys(byA).sort();
     const openData = people.map(p => byA[p].open);
     const wipData = people.map(p => byA[p].in_progress);
     const doneData = people.map(p => byA[p].done);
