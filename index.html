@@ -241,7 +241,7 @@
         <option value="">All</option>
       </select>
 
-      <label for="filter-period">Period:</label>
+      <label for="filter-period">Created:</label>
       <select id="filter-period">
         <option value="yesterday">Yesterday</option>
         <option value="7">Last 7 days</option>
@@ -250,6 +250,17 @@
         <option value="180">Last 6 months</option>
         <option value="365">Last year</option>
         <option value="0">All time</option>
+      </select>
+
+      <label for="filter-updated">Updated:</label>
+      <select id="filter-updated">
+        <option value="0" selected>All time</option>
+        <option value="yesterday">Yesterday</option>
+        <option value="7">Last 7 days</option>
+        <option value="30">Last 30 days</option>
+        <option value="90">Last 90 days</option>
+        <option value="180">Last 6 months</option>
+        <option value="365">Last year</option>
       </select>
 
       <label for="filter-granularity">Granularity:</label>
@@ -364,8 +375,7 @@
     return `<span class="status-badge ${cls}">${status}</span>`;
   }
 
-  function getPeriodCutoffs() {
-    const val = document.getElementById("filter-period").value;
+  function resolveCutoffs(val) {
     if (val === "yesterday") {
       const d = new Date();
       d.setDate(d.getDate() - 1);
@@ -379,18 +389,29 @@
     };
   }
 
+  function getPeriodCutoffs() {
+    return resolveCutoffs(document.getElementById("filter-period").value);
+  }
+
+  function getUpdatedCutoffs() {
+    return resolveCutoffs(document.getElementById("filter-updated").value);
+  }
+
   function getFilteredTickets() {
     const person = document.getElementById("filter-person").value;
     const label = document.getElementById("filter-label").value;
-    const { cutoff, cutoffEnd } = getPeriodCutoffs();
+    const { cutoff: createdCutoff, cutoffEnd: createdCutoffEnd } = getPeriodCutoffs();
+    const { cutoff: updatedCutoff, cutoffEnd: updatedCutoffEnd } = getUpdatedCutoffs();
     const statusFilter = document.getElementById("filter-status").value;
     const search = document.getElementById("filter-search").value.toLowerCase();
 
     return allTickets.filter(t => {
       if (person && t.assignee !== person) return false;
       if (label && !(t.labels || []).includes(label)) return false;
-      if (t.created < cutoff) return false;
-      if (cutoffEnd && t.created > cutoffEnd) return false;
+      if (t.created < createdCutoff) return false;
+      if (createdCutoffEnd && t.created > createdCutoffEnd) return false;
+      if (t.updated && t.updated < updatedCutoff) return false;
+      if (updatedCutoffEnd && t.updated && t.updated > updatedCutoffEnd) return false;
       if (statusFilter === "open" && DONE_STATUSES.has(t.status)) return false;
       if (statusFilter === "done" && !DONE_STATUSES.has(t.status)) return false;
       if (search && !t.key.toLowerCase().includes(search) && !t.summary.toLowerCase().includes(search)) return false;
@@ -680,7 +701,7 @@
       refresh();
 
       // Attach filter listeners
-      ["filter-person", "filter-period", "filter-granularity", "filter-status", "filter-search", "filter-label"]
+      ["filter-person", "filter-period", "filter-updated", "filter-granularity", "filter-status", "filter-search", "filter-label"]
         .forEach(id => document.getElementById(id).addEventListener("change", refresh));
       document.getElementById("filter-search").addEventListener("input", refresh);
 

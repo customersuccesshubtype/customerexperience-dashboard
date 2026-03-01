@@ -49,7 +49,7 @@ def fetch_all_issues():
         body = {
             "jql": f'project = "PS" ORDER BY created DESC',
             "maxResults": max_results,
-            "fields": ["summary", "status", "assignee", "issuetype", "created", "resolutiondate", "labels"],
+            "fields": ["summary", "status", "assignee", "issuetype", "created", "updated", "resolutiondate", "labels"],
         }
         if next_page_token:
             body["nextPageToken"] = next_page_token
@@ -82,6 +82,7 @@ def parse_issue(issue):
         "assignee": assignee["displayName"] if assignee else None,
         "issuetype": fields["issuetype"]["name"],
         "created": fields.get("created", "")[:10],  # date only
+        "updated": fields.get("updated", "")[:10],  # date only
         "resolutiondate": (fields.get("resolutiondate") or "")[:10],
         "labels": fields.get("labels", []),
     }
