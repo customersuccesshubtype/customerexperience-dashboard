@@ -86,6 +86,41 @@
       outline-offset: 1px;
     }
 
+    .team-chips {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 0.5rem;
+      align-items: center;
+      margin-bottom: 1rem;
+    }
+    .team-chips .chips-label {
+      font-size: 0.85rem;
+      color: var(--gray);
+      font-weight: 600;
+      margin-right: 0.25rem;
+    }
+    .chip {
+      padding: 0.3rem 0.75rem;
+      border-radius: 999px;
+      border: 1.5px solid #CBD5E1;
+      background: white;
+      color: var(--navy);
+      font-size: 0.82rem;
+      font-family: inherit;
+      cursor: pointer;
+      transition: all 0.15s;
+    }
+    .chip:hover {
+      border-color: var(--purple);
+      color: var(--purple);
+    }
+    .chip.active {
+      background: var(--purple);
+      border-color: var(--purple);
+      color: white;
+      font-weight: 600;
+    }
+
     .btn-clear {
       padding: 0.45rem 0.9rem;
       border: 1px solid #CBD5E1;
@@ -325,6 +360,20 @@
       <select id="filter-status" multiple style="min-width:130px; height:auto; max-height:120px; cursor:pointer;"></select>
 
       <button class="btn-clear" id="btn-clear-filters">Clear filters</button>
+    </div>
+
+    <div class="team-chips">
+      <span class="chips-label">Team:</span>
+      <button class="chip" data-name="adria">Adrià</button>
+      <button class="chip" data-name="alex skala">Alex Skala</button>
+      <button class="chip" data-name="marta">Marta</button>
+      <button class="chip" data-name="julieta">Julieta</button>
+      <button class="chip" data-name="maria">Maria</button>
+      <button class="chip" data-name="patricia">Patricia</button>
+      <button class="chip" data-name="pep">Pep</button>
+      <button class="chip" data-name="evgeni">Evgeni</button>
+      <button class="chip" data-name="lorena">Lorena</button>
+      <button class="chip" data-name="aitor">Aitor</button>
     </div>
 
     <div class="kpi-grid">
@@ -802,6 +851,37 @@
       "https://github.com/customersuccesshubtype/customerexperience-dashboard/actions/workflows/fetch-jira.yml",
       "_blank"
     );
+  });
+
+  // Team chips
+  document.querySelectorAll(".chip").forEach(chip => {
+    chip.addEventListener("click", () => {
+      const personInput = document.getElementById("filter-person");
+      const name = chip.dataset.name;
+      const isActive = chip.classList.contains("active");
+
+      // Deactivate all chips
+      document.querySelectorAll(".chip").forEach(c => c.classList.remove("active"));
+
+      if (isActive) {
+        // Toggle off
+        personInput.value = "";
+      } else {
+        chip.classList.add("active");
+        personInput.value = name;
+      }
+      refresh();
+    });
+  });
+
+  // Keep chips in sync when person input is changed manually
+  document.getElementById("filter-person").addEventListener("input", () => {
+    document.querySelectorAll(".chip").forEach(c => c.classList.remove("active"));
+  });
+
+  // Clear chips on clear filters button
+  document.getElementById("btn-clear-filters").addEventListener("click", () => {
+    document.querySelectorAll(".chip").forEach(c => c.classList.remove("active"));
   });
 
   init();
