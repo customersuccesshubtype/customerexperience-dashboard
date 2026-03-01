@@ -653,11 +653,13 @@
       options: {
         responsive: true,
         maintainAspectRatio: false,
+        layout: { padding: { top: 24 } },
         plugins: {
           legend: { position: "top" },
           datalabels: {
             anchor: "end",
             align: "top",
+            clip: false,
             color: "#0F172A",
             font: { weight: "bold", size: 11 },
             formatter: (value) => value > 0 ? value : "",
