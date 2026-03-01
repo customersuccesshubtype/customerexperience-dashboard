@@ -5,6 +5,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>Delivery Dashboard</title>
   <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.2/dist/chart.umd.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/chartjs-plugin-datalabels@2.2.0/dist/chartjs-plugin-datalabels.min.js"></script>
   <style>
     :root {
       --navy: #0F172A;
@@ -367,6 +368,8 @@
   const DONE_STATUSES = new Set(["Done", "Closed"]);
   const WIP_STATUSES = new Set(["In Progress", "Ready for review", "Ready to Deliver"]);
 
+  Chart.register(ChartDataLabels);
+
   let allTickets = [];
   let allSnapshots = [];
   let trendChart, statusChart, personChart, createdChart;
@@ -529,7 +532,7 @@
       options: {
         responsive: true,
         maintainAspectRatio: false,
-        plugins: { legend: { position: "top" } },
+        plugins: { legend: { position: "top" }, datalabels: { display: false } },
         scales: {
           x: { stacked: false },
           y: { beginAtZero: true },
@@ -556,7 +559,7 @@
       options: {
         responsive: true,
         maintainAspectRatio: false,
-        plugins: { legend: { position: "right" } },
+        plugins: { legend: { position: "right" }, datalabels: { display: false } },
       },
     });
   }
@@ -587,7 +590,7 @@
         responsive: true,
         maintainAspectRatio: false,
         indexAxis: "y",
-        plugins: { legend: { position: "top" } },
+        plugins: { legend: { position: "top" }, datalabels: { display: false } },
         scales: { x: { stacked: true }, y: { stacked: true } },
       },
     });
@@ -650,7 +653,16 @@
       options: {
         responsive: true,
         maintainAspectRatio: false,
-        plugins: { legend: { position: "top" } },
+        plugins: {
+          legend: { position: "top" },
+          datalabels: {
+            anchor: "end",
+            align: "top",
+            color: "#0F172A",
+            font: { weight: "bold", size: 11 },
+            formatter: (value) => value > 0 ? value : "",
+          },
+        },
         scales: {
           x: { beginAtZero: true },
           y: { beginAtZero: true, ticks: { precision: 0 } },
