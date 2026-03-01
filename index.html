@@ -369,7 +369,7 @@
       <span class="chips-label">Team:</span>
       <button class="chip chip-all" id="chip-all-team">All team</button>
       <button class="chip" data-name="adria">Adrià</button>
-      <button class="chip" data-name="alex skala">Alex Skala</button>
+      <button class="chip" data-name="alex">Alex</button>
       <button class="chip" data-name="marta">Marta</button>
       <button class="chip" data-name="julieta">Julieta</button>
       <button class="chip" data-name="maria">Maria</button>
@@ -856,15 +856,20 @@
     );
   });
 
+  // Accent-insensitive normalizer
+  function norm(str) {
+    return (str || "").normalize("NFD").replace(/[\u0300-\u036f]/g, "").toLowerCase();
+  }
+
   // Team members list (must match data-name attributes)
-  const TEAM_NAMES = ["adria","alex skala","marta","julieta","maria","patricia","pep","evgeni","lorena","aitor","andrea","vicky"];
+  const TEAM_NAMES = ["adria","alex","marta","julieta","maria","patricia","pep","evgeni","lorena","aitor","andrea","vicky"];
   let teamAllActive = false;
 
   function matchesPerson(t) {
-    if (teamAllActive) return TEAM_NAMES.some(name => t.assignee?.toLowerCase().includes(name));
+    if (teamAllActive) return TEAM_NAMES.some(name => norm(t.assignee).includes(norm(name)));
     const person = document.getElementById("filter-person").value;
     if (!person) return true;
-    return !!t.assignee?.toLowerCase().includes(person.toLowerCase());
+    return norm(t.assignee).includes(norm(person));
   }
 
   function clearChips() {
