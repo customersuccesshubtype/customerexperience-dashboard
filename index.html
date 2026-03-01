@@ -581,7 +581,7 @@
 
   function updateStatusChart(tickets) {
     const counts = {};
-    tickets.forEach(t => { counts[t.status] = (counts[t.status] || 0) + 1; });
+    tickets.filter(t => !DONE_STATUSES.has(t.status)).forEach(t => { counts[t.status] = (counts[t.status] || 0) + 1; });
     const labels = Object.keys(counts);
     const data = labels.map(l => counts[l]);
     const colors = labels.map(l => {
