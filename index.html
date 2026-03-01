@@ -584,11 +584,8 @@
     tickets.filter(t => !DONE_STATUSES.has(t.status)).forEach(t => { counts[t.status] = (counts[t.status] || 0) + 1; });
     const labels = Object.keys(counts);
     const data = labels.map(l => counts[l]);
-    const colors = labels.map(l => {
-      if (DONE_STATUSES.has(l)) return "#10B981";
-      if (WIP_STATUSES.has(l)) return "#7C3AED";
-      return "#F59E0B";
-    });
+    const palette = ["#7C3AED","#F59E0B","#3B82F6","#EC4899","#14B8A6","#F97316","#8B5CF6","#06B6D4","#EAB308","#6366F1"];
+    const colors = labels.map((_, i) => palette[i % palette.length]);
 
     if (statusChart) statusChart.destroy();
     statusChart = new Chart(document.getElementById("status-chart"), {
