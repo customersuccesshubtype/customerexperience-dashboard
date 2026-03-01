@@ -126,6 +126,8 @@
     .kpi.total     { border-color: var(--navy); }
     .kpi.feeling-green  { border-color: #10B981; }
     .kpi.feeling-red    { border-color: #EF4444; }
+    .kpi.resolution     { border-color: #6366F1; }
+    .kpi .sublabel { font-size: 0.7rem; color: var(--gray); margin-top: 0.2rem; opacity: 0.7; }
     .kpi .value { font-size: 2.2rem; font-weight: 700; line-height: 1; }
     .kpi .label { font-size: 0.8rem; color: var(--gray); margin-top: 0.4rem; text-transform: uppercase; letter-spacing: 0.05em; }
 
@@ -366,6 +368,11 @@
       <div class="kpi feeling-red">
         <div class="value" id="kpi-feeling-red">-</div>
         <div class="label">🔴 Red</div>
+      </div>
+      <div class="kpi resolution">
+        <div class="value" id="kpi-resolution">-</div>
+        <div class="label">Avg. resolution</div>
+        <div class="sublabel">business days · non-escalated</div>
       </div>
     </div>
 
@@ -617,6 +624,20 @@
 
   // ---- Update functions ----
 
+  function businessDays(startStr, endStr) {
+    const start = new Date(startStr + "T00:00:00");
+    const end   = new Date(endStr   + "T00:00:00");
+    if (isNaN(start) || isNaN(end) || end < start) return null;
+    let count = 0;
+    const cur = new Date(start);
+    while (cur <= end) {
+      const d = cur.getDay();
+      if (d !== 0 && d !== 6) count++;
+      cur.setDate(cur.getDate() + 1);
+    }
+    return count;
+  }
+
   function updateKPIs(cases) {
     document.getElementById("kpi-total").textContent     = cases.length;
     document.getElementById("kpi-open").textContent      = cases.filter(c => !c.is_closed).length;
@@ -624,6 +645,12 @@
     document.getElementById("kpi-escalated").textContent = cases.filter(c => c.is_escalated).length;
     document.getElementById("kpi-feeling-green").textContent = cases.filter(c => c.feeling === "Green").length;
     document.getElementById("kpi-feeling-red").textContent   = cases.filter(c => c.feeling === "Red").length;
+
+    // Avg resolution time in business days (closed, non-escalated, with both dates)
+    const resolvable = cases.filter(c => c.is_closed && !c.is_escalated && c.created && c.closed);
+    const days = resolvable.map(c => businessDays(c.created, c.closed)).filter(d => d !== null);
+    const avg = days.length > 0 ? (days.reduce((a, b) => a + b, 0) / days.length) : null;
+    document.getElementById("kpi-resolution").textContent = avg !== null ? avg.toFixed(1) : "-";
   }
 
   function updateCreatedChart(cases) {
