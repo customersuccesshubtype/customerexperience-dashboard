@@ -1,13 +1,11 @@
 """
 Fetches Salesforce Cases and saves a daily snapshot to data/sf_cases.json.
-Authentication: Username + Password + Security Token (Resource Owner Password flow).
+Authentication: OAuth 2.0 Client Credentials flow (no username/password needed).
 
 Required environment variables (set as GitHub Secrets):
-  SF_INSTANCE_URL        e.g. https://hubtype.my.salesforce.com
-  SF_CLIENT_ID           Connected App Consumer Key
-  SF_CLIENT_SECRET       Connected App Consumer Secret
-  SF_USERNAME            Salesforce username (email)
-  SF_PASSWORD_WITH_TOKEN Password concatenated with Security Token (no space)
+  SF_INSTANCE_URL   e.g. https://hubtype.my.salesforce.com
+  SF_CLIENT_ID      External Client App Consumer Key
+  SF_CLIENT_SECRET  External Client App Consumer Secret
 """
 
 import json
@@ -16,11 +14,9 @@ import requests
 from datetime import datetime, timezone
 from pathlib import Path
 
-INSTANCE_URL   = os.environ["SF_INSTANCE_URL"].rstrip("/")
-CLIENT_ID      = os.environ["SF_CLIENT_ID"]
-CLIENT_SECRET  = os.environ["SF_CLIENT_SECRET"]
-USERNAME       = os.environ["SF_USERNAME"]
-PASSWORD_TOKEN = os.environ["SF_PASSWORD_WITH_TOKEN"]
+INSTANCE_URL  = os.environ["SF_INSTANCE_URL"].rstrip("/")
+CLIENT_ID     = os.environ["SF_CLIENT_ID"]
+CLIENT_SECRET = os.environ["SF_CLIENT_SECRET"]
 
 DATA_DIR = Path(__file__).parent.parent / "data"
 DATA_DIR.mkdir(exist_ok=True)
@@ -28,15 +24,13 @@ DATA_DIR.mkdir(exist_ok=True)
 
 def authenticate():
     resp = requests.post(f"{INSTANCE_URL}/services/oauth2/token", data={
-        "grant_type":    "password",
+        "grant_type":    "client_credentials",
         "client_id":     CLIENT_ID,
         "client_secret": CLIENT_SECRET,
-        "username":      USERNAME,
-        "password":      PASSWORD_TOKEN,
     })
     resp.raise_for_status()
     token_data = resp.json()
-    print(f"  Authenticated as: {USERNAME}")
+    print(f"  Authenticated via Client Credentials flow")
     return token_data["access_token"], token_data["instance_url"]
 
 

@@ -26,11 +26,9 @@ jobs:
 
       - name: Fetch Salesforce data
         env:
-          SF_INSTANCE_URL:        ${{ secrets.SF_INSTANCE_URL }}
-          SF_CLIENT_ID:           ${{ secrets.SF_CLIENT_ID }}
-          SF_CLIENT_SECRET:       ${{ secrets.SF_CLIENT_SECRET }}
-          SF_USERNAME:            ${{ secrets.SF_USERNAME }}
-          SF_PASSWORD_WITH_TOKEN: ${{ secrets.SF_PASSWORD_WITH_TOKEN }}
+          SF_INSTANCE_URL: ${{ secrets.SF_INSTANCE_URL }}
+          SF_CLIENT_ID:    ${{ secrets.SF_CLIENT_ID }}
+          SF_CLIENT_SECRET: ${{ secrets.SF_CLIENT_SECRET }}
         run: python scripts/fetch_sf.py
 
       - name: Commit and push data
