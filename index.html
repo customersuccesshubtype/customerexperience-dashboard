@@ -516,6 +516,13 @@
       </div>
 
       <div class="card full">
+        <h2>Active workload by person <span style="font-weight:400;text-transform:none;font-size:0.8rem;color:var(--gray)">(open &amp; in progress — all time, Customer Experience Team)</span></h2>
+        <div class="chart-wrap">
+          <canvas id="workload-chart"></canvas>
+        </div>
+      </div>
+
+      <div class="card full">
         <h2>Ticket list</h2>
         <div class="filters" style="margin-bottom:1rem">
           <label for="filter-search">Search:</label>
@@ -580,7 +587,7 @@
 
   let allTickets = [];
   let allSnapshots = [];
-  let statusChart, personChart, createdChart, closedChart;
+  let statusChart, personChart, createdChart, closedChart, workloadChart;
 
   function statusBadge(status) {
     let cls = "badge-default";
@@ -731,6 +738,52 @@
         maintainAspectRatio: false,
         indexAxis: "y",
         plugins: { legend: { position: "top" }, datalabels: { display: false } },
+        scales: { x: { stacked: true }, y: { stacked: true } },
+      },
+    });
+  }
+
+  function updateWorkloadChart() {
+    // Current active workload: all open/in-progress tickets across all time, CE team only
+    const byA = {};
+    allTickets.forEach(t => {
+      if (DONE_STATUSES.has(t.status)) return;
+      const person = t.assignee || "Unassigned";
+      if (!TEAM_NAMES.some(name => norm(person).includes(norm(name)))) return;
+      if (!byA[person]) byA[person] = { open: 0, in_progress: 0 };
+      if (WIP_STATUSES.has(t.status)) byA[person].in_progress++;
+      else byA[person].open++;
+    });
+
+    const people = Object.keys(byA).sort();
+    const openData = people.map(p => byA[p].open);
+    const wipData = people.map(p => byA[p].in_progress);
+
+    if (workloadChart) workloadChart.destroy();
+    workloadChart = new Chart(document.getElementById("workload-chart"), {
+      type: "bar",
+      data: {
+        labels: people,
+        datasets: [
+          { label: "Open / To Do", data: openData, backgroundColor: "#FDE68A", borderColor: "#F59E0B", borderWidth: 1 },
+          { label: "In Progress", data: wipData, backgroundColor: "#DDD6FE", borderColor: "#7C3AED", borderWidth: 1 },
+        ],
+      },
+      options: {
+        responsive: true,
+        maintainAspectRatio: false,
+        indexAxis: "y",
+        plugins: {
+          legend: { position: "top" },
+          datalabels: {
+            display: true,
+            anchor: "end",
+            align: "right",
+            color: "#0F172A",
+            font: { weight: "bold", size: 11 },
+            formatter: (value) => value > 0 ? value : "",
+          },
+        },
         scales: { x: { stacked: true }, y: { stacked: true } },
       },
     });
@@ -902,6 +955,7 @@
 
     updateStatusChart(tickets);
     updatePersonChart();
+    updateWorkloadChart();
     updateCreatedChart();
     updateClosedChart();
   }
