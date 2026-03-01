@@ -86,6 +86,22 @@
       outline-offset: 1px;
     }
 
+    .btn-clear {
+      padding: 0.45rem 0.9rem;
+      border: 1px solid #CBD5E1;
+      border-radius: 6px;
+      font-size: 0.85rem;
+      background: white;
+      color: var(--gray);
+      cursor: pointer;
+      font-family: inherit;
+      margin-left: auto;
+    }
+    .btn-clear:hover {
+      border-color: var(--purple);
+      color: var(--purple);
+    }
+
     /* KPI cards */
     .kpi-grid {
       display: grid;
@@ -279,6 +295,15 @@
       <select id="filter-label">
         <option value="">All</option>
       </select>
+
+      <label for="filter-status">Status:</label>
+      <select id="filter-status">
+        <option value="">All</option>
+        <option value="open">Open only</option>
+        <option value="done">Done only</option>
+      </select>
+
+      <button class="btn-clear" id="btn-clear-filters">Clear filters</button>
     </div>
 
     <div class="kpi-grid">
@@ -332,12 +357,6 @@
       <div class="card full">
         <h2>Ticket list</h2>
         <div class="filters" style="margin-bottom:1rem">
-          <label for="filter-status">Status:</label>
-          <select id="filter-status">
-            <option value="">All</option>
-            <option value="open">Open only</option>
-            <option value="done">Done only</option>
-          </select>
           <label for="filter-search">Search:</label>
           <input type="text" id="filter-search" placeholder="Key or summary..." style="min-width:200px" />
         </div>
@@ -729,6 +748,21 @@
         .forEach(id => document.getElementById(id).addEventListener("change", refresh));
       document.getElementById("filter-search").addEventListener("input", refresh);
       document.getElementById("filter-person").addEventListener("input", refresh);
+
+      document.getElementById("btn-clear-filters").addEventListener("click", () => {
+        document.getElementById("filter-person").value = "";
+        document.getElementById("filter-period").value = "90";
+        document.getElementById("filter-created-from").value = "";
+        document.getElementById("filter-created-to").value = "";
+        document.getElementById("filter-updated").value = "0";
+        document.getElementById("filter-updated-from").value = "";
+        document.getElementById("filter-updated-to").value = "";
+        document.getElementById("filter-granularity").value = "month";
+        document.getElementById("filter-label").value = "";
+        document.getElementById("filter-status").value = "";
+        document.getElementById("filter-search").value = "";
+        refresh();
+      });
 
     } catch (e) {
       document.getElementById("loading").style.display = "none";
