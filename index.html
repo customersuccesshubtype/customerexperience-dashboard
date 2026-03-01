@@ -355,6 +355,13 @@
       </div>
 
       <div class="card full">
+        <h2 id="closed-chart-title">Tickets closed</h2>
+        <div class="chart-wrap">
+          <canvas id="closed-chart"></canvas>
+        </div>
+      </div>
+
+      <div class="card full">
         <h2>Open vs Done over time</h2>
         <div class="chart-wrap">
           <canvas id="trend-chart"></canvas>
@@ -411,7 +418,7 @@
 
   let allTickets = [];
   let allSnapshots = [];
-  let trendChart, statusChart, personChart, createdChart;
+  let trendChart, statusChart, personChart, createdChart, closedChart;
 
   function statusBadge(status) {
     let cls = "badge-default";
@@ -708,6 +715,86 @@
     });
   }
 
+  function updateClosedChart() {
+    const person = document.getElementById("filter-person").value;
+    const label = document.getElementById("filter-label").value;
+    const { cutoff, cutoffEnd } = getPeriodCutoffs();
+
+    const tickets = allTickets.filter(t => {
+      if (!DONE_STATUSES.has(t.status)) return false;
+      if (person && !t.assignee?.toLowerCase().includes(person.toLowerCase())) return false;
+      if (label && !(t.labels || []).includes(label)) return false;
+      const closeDate = t.resolutiondate || t.updated;
+      if (!closeDate) return false;
+      if (closeDate < cutoff) return false;
+      if (cutoffEnd && closeDate > cutoffEnd) return false;
+      return true;
+    });
+
+    const granularity = document.getElementById("filter-granularity").value;
+    const counts = {};
+    tickets.forEach(t => {
+      const closeDate = t.resolutiondate || t.updated;
+      const d = new Date(closeDate);
+      let key;
+      if (granularity === "year") {
+        key = closeDate.slice(0, 4);
+      } else if (granularity === "month") {
+        key = closeDate.slice(0, 7);
+      } else if (granularity === "week") {
+        const day = d.getDay() || 7;
+        const mon = new Date(d);
+        mon.setDate(d.getDate() - day + 1);
+        key = mon.toISOString().slice(0, 10);
+      } else {
+        key = closeDate;
+      }
+      counts[key] = (counts[key] || 0) + 1;
+    });
+
+    const labels = Object.keys(counts).sort();
+    const data = labels.map(k => counts[k]);
+
+    const granularityLabels = { year: "Yearly", month: "Monthly", week: "Weekly", day: "Daily" };
+    document.getElementById("closed-chart-title").textContent =
+      `Tickets closed — ${granularityLabels[granularity] || ""}`;
+
+    if (closedChart) closedChart.destroy();
+    closedChart = new Chart(document.getElementById("closed-chart"), {
+      type: "bar",
+      data: {
+        labels,
+        datasets: [{
+          label: "Tickets closed",
+          data,
+          backgroundColor: "#6EE7B7",
+          borderColor: "#10B981",
+          borderWidth: 1,
+        }],
+      },
+      options: {
+        responsive: true,
+        maintainAspectRatio: false,
+        layout: { padding: { top: 24 } },
+        plugins: {
+          legend: { position: "top" },
+          datalabels: {
+            anchor: "end",
+            align: "top",
+            clip: false,
+            color: "#0F172A",
+            font: { weight: "bold", size: 11 },
+            formatter: (value) => value > 0 ? value : "",
+          },
+        },
+        scales: {
+          x: { beginAtZero: true },
+          y: { beginAtZero: true, ticks: { precision: 0 } },
+        },
+      },
+    });
+  }
+
   function refresh() {
     const tickets = getFilteredTickets();
     updateKPIs(tickets);
@@ -716,6 +803,7 @@
     updateStatusChart(tickets);
     updatePersonChart();
     updateCreatedChart();
+    updateClosedChart();
   }
 
   async function init() {
