@@ -251,6 +251,8 @@
         <option value="365">Last year</option>
         <option value="0">All time</option>
       </select>
+      <input type="date" id="filter-created-from" title="Created from" />
+      <input type="date" id="filter-created-to" title="Created to" />
 
       <label for="filter-updated">Updated:</label>
       <select id="filter-updated">
@@ -262,6 +264,8 @@
         <option value="180">Last 6 months</option>
         <option value="365">Last year</option>
       </select>
+      <input type="date" id="filter-updated-from" title="Updated from" />
+      <input type="date" id="filter-updated-to" title="Updated to" />
 
       <label for="filter-granularity">Granularity:</label>
       <select id="filter-granularity">
@@ -390,10 +394,16 @@
   }
 
   function getPeriodCutoffs() {
+    const from = document.getElementById("filter-created-from").value;
+    const to = document.getElementById("filter-created-to").value;
+    if (from || to) return { cutoff: from || "0000-00-00", cutoffEnd: to || null };
     return resolveCutoffs(document.getElementById("filter-period").value);
   }
 
   function getUpdatedCutoffs() {
+    const from = document.getElementById("filter-updated-from").value;
+    const to = document.getElementById("filter-updated-to").value;
+    if (from || to) return { cutoff: from || "0000-00-00", cutoffEnd: to || null };
     return resolveCutoffs(document.getElementById("filter-updated").value);
   }
 
@@ -701,7 +711,9 @@
       refresh();
 
       // Attach filter listeners
-      ["filter-person", "filter-period", "filter-updated", "filter-granularity", "filter-status", "filter-search", "filter-label"]
+      ["filter-person", "filter-period", "filter-created-from", "filter-created-to",
+       "filter-updated", "filter-updated-from", "filter-updated-to",
+       "filter-granularity", "filter-status", "filter-search", "filter-label"]
         .forEach(id => document.getElementById(id).addEventListener("change", refresh));
       document.getElementById("filter-search").addEventListener("input", refresh);
 
