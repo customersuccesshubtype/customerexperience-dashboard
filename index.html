@@ -426,7 +426,7 @@
       </div>
 
       <div class="card">
-        <h2>Work by person (current snapshot)</h2>
+        <h2>Work by person <span style="font-weight:400;text-transform:none;font-size:0.8rem;color:var(--gray)">(Customer Experience Team)</span></h2>
         <div class="chart-wrap">
           <canvas id="person-chart"></canvas>
         </div>
@@ -577,7 +577,9 @@
     const latest = allSnapshots[allSnapshots.length - 1];
     const byA = latest.by_assignee || {};
 
-    const people = Object.keys(byA).filter(p => p !== "Unassigned").sort();
+    const people = Object.keys(byA)
+      .filter(p => TEAM_NAMES.some(name => norm(p).includes(norm(name))))
+      .sort();
     const openData = people.map(p => byA[p].open);
     const wipData = people.map(p => byA[p].in_progress);
     const doneData = people.map(p => byA[p].done);
