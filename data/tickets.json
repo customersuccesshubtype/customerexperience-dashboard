@@ -1,6 +1,19 @@
 {
-  "last_updated": "2026-02-28",
+  "last_updated": "2026-03-01",
   "tickets": [
+    {
+      "key": "PS-5129",
+      "summary": "Ralph Lauren - Update WhatsApp Phone number description in Meta",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Aitor Casas",
+      "issuetype": "Task",
+      "created": "2026-02-28",
+      "resolutiondate": "",
+      "labels": [
+        "Ralph_Lauren"
+      ]
+    },
     {
       "key": "PS-5128",
       "summary": "Ralph Lauren - Review customer questions from Ask Ralph",
@@ -10,7 +23,9 @@
       "issuetype": "Task",
       "created": "2026-02-27",
       "resolutiondate": "",
-      "labels": []
+      "labels": [
+        "Ralph_Lauren"
+      ]
     },
     {
       "key": "PS-5127",
@@ -30,7 +45,7 @@
       "summary": "TMB - Update sourceChannel to \"CHATBOT\" for Zendesk tickets and send Conv ID",
       "status": "To Do",
       "status_category": "To Do",
-      "assignee": null,
+      "assignee": "Evgeni Slavyanov",
       "issuetype": "Task",
       "created": "2026-02-27",
       "resolutiondate": "",
@@ -60,7 +75,9 @@
       "issuetype": "Task",
       "created": "2026-02-27",
       "resolutiondate": "",
-      "labels": []
+      "labels": [
+        "Ralph_Lauren"
+      ]
     },
     {
       "key": "PS-5123",
@@ -104,8 +121,8 @@
     {
       "key": "PS-5120",
       "summary": "Guess - Eliminate Personal Shopper WhatsApp Flows (or disconnect)",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "In Progress",
+      "status_category": "In Progress",
       "assignee": "Francisca Martelli",
       "issuetype": "Task",
       "created": "2026-02-26",
@@ -143,7 +160,7 @@
     {
       "key": "PS-5117",
       "summary": "WizzAir - Increase to 100% (all cases)",
-      "status": "In production",
+      "status": "Done",
       "status_category": "Done",
       "assignee": "Alexander Skalatskiy",
       "issuetype": "Sub-task",
@@ -162,7 +179,9 @@
       "issuetype": "Task",
       "created": "2026-02-25",
       "resolutiondate": "",
-      "labels": []
+      "labels": [
+        "RACC"
+      ]
     },
     {
       "key": "PS-5115",
@@ -180,8 +199,8 @@
     {
       "key": "PS-5114",
       "summary": "Multiasistencia - Review status of inclusion of Allianz France in bot Multi_Francia",
-      "status": "Ready for review",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Aitor Casas",
       "issuetype": "Task",
       "created": "2026-02-25",
@@ -212,11 +231,13 @@
       "issuetype": "Task",
       "created": "2026-02-25",
       "resolutiondate": "",
-      "labels": []
+      "labels": [
+        "Ralph_Lauren"
+      ]
     },
     {
       "key": "PS-5111",
-      "summary": "Guess - Eliminate Personal Shopper Components",
+      "summary": "Guess - Eliminate Personal Shopper Components in Webchat",
       "status": "To Do",
       "status_category": "To Do",
       "assignee": "Adrià Sastre",
@@ -236,7 +257,9 @@
       "issuetype": "Task",
       "created": "2026-02-25",
       "resolutiondate": "",
-      "labels": []
+      "labels": [
+        "Ralph_Lauren"
+      ]
     },
     {
       "key": "PS-5109",
@@ -362,7 +385,9 @@
       "issuetype": "Task",
       "created": "2026-02-24",
       "resolutiondate": "",
-      "labels": []
+      "labels": [
+        "all_clients"
+      ]
     },
     {
       "key": "PS-5099",
@@ -386,7 +411,9 @@
       "issuetype": "Task",
       "created": "2026-02-24",
       "resolutiondate": "",
-      "labels": []
+      "labels": [
+        "RACC"
+      ]
     },
     {
       "key": "PS-5097",
@@ -397,7 +424,9 @@
       "issuetype": "Task",
       "created": "2026-02-24",
       "resolutiondate": "",
-      "labels": []
+      "labels": [
+        "JetSmart"
+      ]
     },
     {
       "key": "PS-5096",
@@ -920,8 +949,8 @@
     {
       "key": "PS-5051",
       "summary": "Ralph Lauren - Create the different Onboarding flows",
-      "status": "In Progress",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Andrea Talal Haidar",
       "issuetype": "Task",
       "created": "2026-02-18",
@@ -1037,8 +1066,8 @@
     {
       "key": "PS-5042",
       "summary": "Generalitat - Turisme - Incluir AI Agent en bot Staging",
-      "status": "In Progress",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Francisca Martelli",
       "issuetype": "Epic",
       "created": "2026-02-17",
@@ -1683,8 +1712,7 @@
       "created": "2026-02-09",
       "resolutiondate": "",
       "labels": [
-        "CCMA",
-        "Task"
+        "ccma"
       ]
     },
     {
@@ -2558,8 +2586,8 @@
     {
       "key": "PS-4915",
       "summary": "Wizz Air Bot: Implementation of Teleperformance Ramp-up & Single Queue Logic",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Closed",
+      "status_category": "Done",
       "assignee": "Alexander Skalatskiy",
       "issuetype": "Task",
       "created": "2026-01-27",
@@ -5943,8 +5971,8 @@
     {
       "key": "PS-4613",
       "summary": "GUESS - Nuevo snippet para Shopping Cart",
-      "status": "Open",
-      "status_category": "To Do",
+      "status": "Closed",
+      "status_category": "Done",
       "assignee": "Marta Marron",
       "issuetype": "Epic",
       "created": "2025-11-05",
