@@ -707,6 +707,7 @@
             data: labels.map(k => counts[k]),
             backgroundColor: "#6EE7B7", borderColor: "#10B981", borderWidth: 1,
             yAxisID: "yLeft",
+            order: 1,
           },
           {
             type: "line",
@@ -716,6 +717,7 @@
             borderWidth: 2, pointRadius: 3, tension: 0.3,
             yAxisID: "yRight",
             spanGaps: true,
+            order: 0,
           }
         ]
       },

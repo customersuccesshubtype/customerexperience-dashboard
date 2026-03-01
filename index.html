@@ -178,6 +178,8 @@
     .kpi.open { border-color: var(--amber); }
     .kpi.inprogress { border-color: var(--purple); }
     .kpi.total { border-color: var(--navy); }
+    .kpi.resolution { border-color: #6366F1; }
+    .kpi .sublabel { font-size: 0.7rem; color: var(--gray); margin-top: 0.2rem; opacity: 0.7; }
 
     .kpi .value {
       font-size: 2.2rem;
@@ -489,6 +491,11 @@
         <div class="value" id="kpi-done">-</div>
         <div class="label">Done / Closed</div>
       </div>
+      <div class="kpi resolution">
+        <div class="value" id="kpi-resolution">-</div>
+        <div class="label">Avg. resolution</div>
+        <div class="sublabel">business days · done tickets</div>
+      </div>
     </div>
 
     <div class="chart-grid">
@@ -657,6 +664,20 @@
     });
   }
 
+  function businessDays(startStr, endStr) {
+    const start = new Date((startStr || "").slice(0, 10) + "T00:00:00");
+    const end   = new Date((endStr   || "").slice(0, 10) + "T00:00:00");
+    if (isNaN(start) || isNaN(end) || end < start) return null;
+    let count = 0;
+    const cur = new Date(start);
+    while (cur <= end) {
+      const d = cur.getDay();
+      if (d !== 0 && d !== 6) count++;
+      cur.setDate(cur.getDate() + 1);
+    }
+    return count;
+  }
+
   function updateKPIs(tickets) {
     const done = tickets.filter(t => DONE_STATUSES.has(t.status)).length;
     const wip = tickets.filter(t => WIP_STATUSES.has(t.status)).length;
@@ -665,6 +686,11 @@
     document.getElementById("kpi-open").textContent = open;
     document.getElementById("kpi-wip").textContent = wip;
     document.getElementById("kpi-done").textContent = done;
+
+    const resolvable = tickets.filter(t => DONE_STATUSES.has(t.status) && t.created && (t.resolutiondate || t.updated));
+    const days = resolvable.map(t => businessDays(t.created, t.resolutiondate || t.updated)).filter(d => d !== null);
+    const avg = days.length > 0 ? (days.reduce((a, b) => a + b, 0) / days.length) : null;
+    document.getElementById("kpi-resolution").textContent = avg !== null ? avg.toFixed(1) : "-";
   }
 
   function updateTable(tickets) {
@@ -898,6 +924,7 @@
 
     const granularity = document.getElementById("filter-granularity").value;
     const counts = {};
+    const resolutionByPeriod = {};
     tickets.forEach(t => {
       const closeDate = t.resolutiondate || t.updated;
       const d = new Date(closeDate);
@@ -915,10 +942,21 @@
         key = closeDate;
       }
       counts[key] = (counts[key] || 0) + 1;
+      if (t.created) {
+        const bd = businessDays(t.created, closeDate);
+        if (bd !== null) {
+          if (!resolutionByPeriod[key]) resolutionByPeriod[key] = [];
+          resolutionByPeriod[key].push(bd);
+        }
+      }
     });
 
     const labels = Object.keys(counts).sort();
-    const data = labels.map(k => counts[k]);
+    const avgResolution = labels.map(k => {
+      const arr = resolutionByPeriod[k];
+      if (!arr || arr.length === 0) return null;
+      return parseFloat((arr.reduce((a, b) => a + b, 0) / arr.length).toFixed(1));
+    });
 
     const granularityLabels = { year: "Yearly", month: "Monthly", week: "Weekly", day: "Daily" };
     document.getElementById("closed-chart-title").textContent =
@@ -926,16 +964,33 @@
 
     if (closedChart) closedChart.destroy();
     closedChart = new Chart(document.getElementById("closed-chart"), {
-      type: "bar",
       data: {
         labels,
-        datasets: [{
-          label: "Tickets closed",
-          data,
-          backgroundColor: "#6EE7B7",
-          borderColor: "#10B981",
-          borderWidth: 1,
-        }],
+        datasets: [
+          {
+            type: "bar",
+            label: "Tickets closed",
+            data: labels.map(k => counts[k]),
+            backgroundColor: "#6EE7B7",
+            borderColor: "#10B981",
+            borderWidth: 1,
+            yAxisID: "yLeft",
+            order: 1,
+          },
+          {
+            type: "line",
+            label: "Avg resolution (business days)",
+            data: avgResolution,
+            borderColor: "#7C3AED",
+            backgroundColor: "rgba(124,58,237,0.1)",
+            borderWidth: 2,
+            pointRadius: 3,
+            tension: 0.3,
+            yAxisID: "yRight",
+            spanGaps: true,
+            order: 0,
+          }
+        ]
       },
       options: {
         responsive: true,
@@ -943,18 +998,12 @@
         layout: { padding: { top: 24 } },
         plugins: {
           legend: { position: "top" },
-          datalabels: {
-            anchor: "end",
-            align: "top",
-            clip: false,
-            color: "#0F172A",
-            font: { weight: "bold", size: 11 },
-            formatter: (value) => value > 0 ? value : "",
-          },
+          datalabels: { display: false },
         },
         scales: {
-          x: { beginAtZero: true },
-          y: { beginAtZero: true, ticks: { precision: 0 } },
+          x: { grid: { color: "rgba(0,0,0,0.05)" } },
+          yLeft:  { beginAtZero: true, position: "left",  ticks: { precision: 0 }, title: { display: true, text: "Tickets", font: { size: 11 } } },
+          yRight: { beginAtZero: true, position: "right", grid: { drawOnChartArea: false }, title: { display: true, text: "Business days", font: { size: 11 } } },
         },
       },
     });
