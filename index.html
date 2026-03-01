@@ -297,9 +297,7 @@
       </select>
 
       <label for="filter-status">Status:</label>
-      <select id="filter-status">
-        <option value="">All</option>
-      </select>
+      <select id="filter-status" multiple style="min-width:130px; height:auto; max-height:120px; cursor:pointer;"></select>
 
       <button class="btn-clear" id="btn-clear-filters">Clear filters</button>
     </div>
@@ -431,7 +429,7 @@
     const label = document.getElementById("filter-label").value;
     const { cutoff: createdCutoff, cutoffEnd: createdCutoffEnd } = getPeriodCutoffs();
     const { cutoff: updatedCutoff, cutoffEnd: updatedCutoffEnd } = getUpdatedCutoffs();
-    const statusFilter = document.getElementById("filter-status").value;
+    const statusFilter = Array.from(document.getElementById("filter-status").selectedOptions).map(o => o.value);
     const search = document.getElementById("filter-search").value.toLowerCase();
 
     return allTickets.filter(t => {
@@ -441,7 +439,7 @@
       if (createdCutoffEnd && t.created > createdCutoffEnd) return false;
       if (t.updated && t.updated < updatedCutoff) return false;
       if (updatedCutoffEnd && t.updated && t.updated > updatedCutoffEnd) return false;
-      if (statusFilter && t.status !== statusFilter) return false;
+      if (statusFilter.length > 0 && !statusFilter.includes(t.status)) return false;
       if (search && !t.key.toLowerCase().includes(search) && !t.summary.toLowerCase().includes(search)) return false;
       return true;
     });
@@ -768,6 +766,7 @@
         document.getElementById("filter-label").value = "";
         document.getElementById("filter-status").value = "";
         document.getElementById("filter-search").value = "";
+        Array.from(document.getElementById("filter-status").options).forEach(o => o.selected = false);
         refresh();
       });
 
