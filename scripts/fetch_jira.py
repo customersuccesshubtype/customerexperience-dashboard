@@ -133,7 +133,9 @@ def save_json(path, data):
 
 
 def main():
-    today = datetime.now(timezone.utc).strftime("%Y-%m-%d")
+    now = datetime.now(timezone.utc)
+    today = now.strftime("%Y-%m-%d")
+    last_updated = now.strftime("%Y-%m-%d %H:%M UTC")
     print(f"Fetching Jira issues for project {PROJECT_KEY}...")
     check_auth()
 
@@ -143,7 +145,7 @@ def main():
 
     # Save full ticket list
     save_json(DATA_DIR / "tickets.json", {
-        "last_updated": today,
+        "last_updated": last_updated,
         "tickets": tickets,
     })
 
