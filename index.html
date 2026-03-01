@@ -441,7 +441,9 @@
       </select>
 
       <label for="filter-status">Status:</label>
-      <select id="filter-status" multiple style="min-width:130px; height:auto; max-height:120px; cursor:pointer;"></select>
+      <select id="filter-status" multiple style="min-width:130px; height:auto; max-height:120px; cursor:pointer;">
+        <option value="all" selected>All</option>
+      </select>
 
       <button class="btn-clear" id="btn-clear-filters">Clear filters</button>
     </div>
@@ -616,11 +618,17 @@
     return resolveCutoffs(document.getElementById("filter-updated").value);
   }
 
+  function getStatusFilter() {
+    const selected = Array.from(document.getElementById("filter-status").selectedOptions).map(o => o.value);
+    if (selected.includes("all") || selected.length === 0) return [];
+    return selected;
+  }
+
   function getFilteredTickets() {
     const label = document.getElementById("filter-label").value;
     const { cutoff: createdCutoff, cutoffEnd: createdCutoffEnd } = getPeriodCutoffs();
     const { cutoff: updatedCutoff, cutoffEnd: updatedCutoffEnd } = getUpdatedCutoffs();
-    const statusFilter = Array.from(document.getElementById("filter-status").selectedOptions).map(o => o.value);
+    const statusFilter = getStatusFilter();
     const search = document.getElementById("filter-search").value.toLowerCase();
 
     return allTickets.filter(t => {
@@ -718,12 +726,14 @@
   function updateCreatedChart() {
     const label = document.getElementById("filter-label").value;
     const { cutoff, cutoffEnd } = getPeriodCutoffs();
+    const statusFilter = getStatusFilter();
 
     const tickets = allTickets.filter(t => {
       if (!matchesPerson(t)) return false;
       if (label && !(t.labels || []).includes(label)) return false;
       if (t.created < cutoff) return false;
       if (cutoffEnd && t.created > cutoffEnd) return false;
+      if (statusFilter.length > 0 && !statusFilter.includes(t.status)) return false;
       return true;
     });
 
@@ -794,11 +804,13 @@
   function updateClosedChart() {
     const label = document.getElementById("filter-label").value;
     const { cutoff, cutoffEnd } = getPeriodCutoffs();
+    const statusFilter = getStatusFilter();
 
     const tickets = allTickets.filter(t => {
       if (!DONE_STATUSES.has(t.status)) return false;
       if (!matchesPerson(t)) return false;
       if (label && !(t.labels || []).includes(label)) return false;
+      if (statusFilter.length > 0 && !statusFilter.includes(t.status)) return false;
       const closeDate = t.resolutiondate || t.updated;
       if (!closeDate) return false;
       if (closeDate < cutoff) return false;
@@ -931,6 +943,26 @@
 
       refresh();
 
+      // Status multi-select: "All" toggle behaviour
+      const statusSelEl = document.getElementById("filter-status");
+      statusSelEl.addEventListener("mousedown", function(e) {
+        if (e.target.tagName !== "OPTION") return;
+        e.preventDefault();
+        const allOpt = this.querySelector('option[value="all"]');
+        if (e.target.value === "all") {
+          // Clicking "All" selects only "All"
+          Array.from(this.options).forEach(o => { o.selected = o.value === "all"; });
+        } else {
+          // Clicking a specific status deselects "All" and toggles the option
+          if (allOpt) allOpt.selected = false;
+          e.target.selected = !e.target.selected;
+          // If nothing left selected, fall back to "All"
+          const anySelected = Array.from(this.options).some(o => o.selected);
+          if (!anySelected && allOpt) allOpt.selected = true;
+        }
+        this.dispatchEvent(new Event("change"));
+      });
+
       // Attach filter listeners
       ["filter-person", "filter-period", "filter-created-from", "filter-created-to",
        "filter-updated", "filter-updated-from", "filter-updated-to",
@@ -949,9 +981,8 @@
         document.getElementById("filter-updated-to").value = "";
         document.getElementById("filter-granularity").value = "month";
         document.getElementById("filter-label").value = "";
-        document.getElementById("filter-status").value = "";
+        Array.from(document.getElementById("filter-status").options).forEach(o => { o.selected = o.value === "all"; });
         document.getElementById("filter-search").value = "";
-        Array.from(document.getElementById("filter-status").options).forEach(o => o.selected = false);
         refresh();
       });
 
