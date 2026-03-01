@@ -399,7 +399,9 @@
       <!-- By account -->
       <div class="card full">
         <h2>Cases by client <span style="font-size:0.75rem;font-weight:400;opacity:0.55">(open &amp; closed)</span></h2>
-        <div class="chart-wrap" id="account-chart-wrap"><canvas id="account-chart"></canvas></div>
+        <div style="max-height:400px;overflow-y:auto;overflow-x:hidden;border-radius:6px;">
+          <div class="chart-wrap" id="account-chart-wrap"><canvas id="account-chart"></canvas></div>
+        </div>
       </div>
 
       <!-- By priority -->
@@ -754,9 +756,11 @@
     const sorted = Object.entries(byAccount)
       .sort((a, b) => (b[1].open + b[1].closed) - (a[1].open + a[1].closed));
 
-    const accounts = sorted.map(e => e[0]);
+    const accounts  = sorted.map(e => e[0]);
     const openData   = sorted.map(e => e[1].open);
     const closedData = sorted.map(e => e[1].closed);
+    const totals     = sorted.map(e => e[1].open + e[1].closed);
+    const grandTotal = totals.reduce((a, b) => a + b, 0);
 
     const wrap = document.getElementById("account-chart-wrap");
     wrap.style.height = Math.max(200, accounts.length * 36 + 60) + "px";
@@ -767,20 +771,47 @@
       data: {
         labels: accounts,
         datasets: [
-          { label: "Open",   data: openData,   backgroundColor: "#FDE68A", borderColor: "#F59E0B", borderWidth: 1, barThickness: 18 },
-          { label: "Closed", data: closedData, backgroundColor: "#A7F3D0", borderColor: "#10B981", borderWidth: 1, barThickness: 18 },
+          {
+            label: "Open",
+            data: openData,
+            backgroundColor: "#FDE68A", borderColor: "#F59E0B", borderWidth: 1, barThickness: 18,
+          },
+          {
+            label: "Closed",
+            data: closedData,
+            backgroundColor: "#A7F3D0", borderColor: "#10B981", borderWidth: 1, barThickness: 18,
+          },
         ]
       },
       options: {
         responsive: true, maintainAspectRatio: false,
         indexAxis: "y",
+        layout: { padding: { right: 80 } },
         scales: {
           x: { stacked: true, grid: { color: "rgba(0,0,0,0.05)" }, ticks: { precision: 0 } },
           y: { stacked: true, grid: { display: false }, ticks: { font: { size: 12 } } }
         },
         plugins: {
           legend: { position: "bottom" },
-          datalabels: { display: false }
+          datalabels: {
+            clip: false,
+            color: ctx => ctx.datasetIndex === 0 ? "#92400E" : "#065F46",
+            font: { size: 11, weight: "600" },
+            formatter: (value, ctx) => {
+              if (value === 0) return "";
+              const i = ctx.dataIndex;
+              const total = totals[i];
+              const pct   = grandTotal > 0 ? Math.round(value / grandTotal * 100) : 0;
+              // On the last (Closed) dataset: show total + % after the bar
+              if (ctx.datasetIndex === 1) {
+                return `${total} (${Math.round(total / grandTotal * 100)}%)`;
+              }
+              // On Open: show value only if closed is 0 (only bar)
+              return closedData[i] === 0 ? `${total} (${Math.round(total / grandTotal * 100)}%)` : value > 0 ? value : "";
+            },
+            anchor: ctx => ctx.datasetIndex === 1 ? "end" : "center",
+            align:  ctx => ctx.datasetIndex === 1 ? "right" : "center",
+          }
         }
       }
     });
