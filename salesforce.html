@@ -396,10 +396,10 @@
         <div class="chart-wrap"><canvas id="status-chart"></canvas></div>
       </div>
 
-      <!-- By feeling / sentiment -->
-      <div class="card">
-        <h2>Customer sentiment (Feeling)</h2>
-        <div class="chart-wrap"><canvas id="feeling-chart"></canvas></div>
+      <!-- By account -->
+      <div class="card full">
+        <h2>Cases by client <span style="font-size:0.75rem;font-weight:400;opacity:0.55">(open &amp; closed)</span></h2>
+        <div class="chart-wrap" id="account-chart-wrap"><canvas id="account-chart"></canvas></div>
       </div>
 
       <!-- By priority -->
@@ -486,7 +486,7 @@
   Chart.register(ChartDataLabels);
 
   let allCases = [];
-  let statusChartInst, feelingChartInst, priorityChartInst,
+  let statusChartInst, accountChartInst, priorityChartInst,
       issueTypeChartInst, ownerChartInst, createdChartInst, closedChartInst;
 
   // ---- Helpers ----
@@ -695,14 +695,48 @@
       labels.map((_, i) => palette[i % palette.length]), statusChartInst);
   }
 
-  function updateFeelingChart(cases) {
-    const order   = ["Green", "Orange", "Red"];
-    const colors  = { Green: "#10B981", Orange: "#F59E0B", Red: "#EF4444" };
-    const counts  = {};
-    cases.forEach(c => { if (c.feeling) counts[c.feeling] = (counts[c.feeling] || 0) + 1; });
-    const labels = order.filter(f => counts[f]);
-    feelingChartInst = doughnutChart("feeling-chart", labels, labels.map(l => counts[l] || 0),
-      labels.map(l => colors[l] || "#CBD5E1"), feelingChartInst);
+  function updateAccountChart(cases) {
+    const byAccount = {};
+    cases.forEach(c => {
+      const acc = c.account || "Unknown";
+      if (!byAccount[acc]) byAccount[acc] = { open: 0, closed: 0 };
+      if (c.is_closed) byAccount[acc].closed++;
+      else byAccount[acc].open++;
+    });
+
+    const sorted = Object.entries(byAccount)
+      .sort((a, b) => (b[1].open + b[1].closed) - (a[1].open + a[1].closed));
+
+    const accounts = sorted.map(e => e[0]);
+    const openData   = sorted.map(e => e[1].open);
+    const closedData = sorted.map(e => e[1].closed);
+
+    const wrap = document.getElementById("account-chart-wrap");
+    wrap.style.height = Math.max(200, accounts.length * 36 + 60) + "px";
+
+    if (accountChartInst) accountChartInst.destroy();
+    accountChartInst = new Chart(document.getElementById("account-chart"), {
+      type: "bar",
+      data: {
+        labels: accounts,
+        datasets: [
+          { label: "Open",   data: openData,   backgroundColor: "#FDE68A", borderColor: "#F59E0B", borderWidth: 1, barThickness: 18 },
+          { label: "Closed", data: closedData, backgroundColor: "#A7F3D0", borderColor: "#10B981", borderWidth: 1, barThickness: 18 },
+        ]
+      },
+      options: {
+        responsive: true, maintainAspectRatio: false,
+        indexAxis: "y",
+        scales: {
+          x: { stacked: true, grid: { color: "rgba(0,0,0,0.05)" }, ticks: { precision: 0 } },
+          y: { stacked: true, grid: { display: false }, ticks: { font: { size: 12 } } }
+        },
+        plugins: {
+          legend: { position: "bottom" },
+          datalabels: { display: false }
+        }
+      }
+    });
   }
 
   function updatePriorityChart(cases) {
@@ -799,7 +833,7 @@
     updateCreatedChart(cases);
     updateClosedChart(cases);
     updateStatusChart(cases);
-    updateFeelingChart(cases);
+    updateAccountChart(cases);
     updatePriorityChart(cases);
     updateIssueTypeChart(cases);
     updateOwnerChart(cases);
