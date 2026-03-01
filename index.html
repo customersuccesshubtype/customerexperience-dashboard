@@ -287,9 +287,90 @@
       padding: 4rem;
       color: var(--red);
     }
+
+    #auth-overlay {
+      position: fixed;
+      inset: 0;
+      background: var(--navy);
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      z-index: 9999;
+      gap: 1.5rem;
+    }
+    #auth-overlay svg { opacity: 0.9; }
+    #auth-overlay h2 {
+      color: white;
+      font-size: 1.3rem;
+      font-weight: 600;
+      letter-spacing: 0.02em;
+    }
+    #auth-box {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      gap: 0.75rem;
+      background: rgba(255,255,255,0.05);
+      border: 1px solid rgba(255,255,255,0.1);
+      border-radius: 12px;
+      padding: 2rem 2.5rem;
+    }
+    #auth-input {
+      padding: 0.6rem 1rem;
+      border-radius: 6px;
+      border: 1px solid rgba(255,255,255,0.2);
+      background: rgba(255,255,255,0.08);
+      color: white;
+      font-size: 1rem;
+      font-family: inherit;
+      width: 220px;
+      text-align: center;
+      letter-spacing: 0.1em;
+    }
+    #auth-input::placeholder { color: rgba(255,255,255,0.35); letter-spacing: normal; }
+    #auth-input:focus { outline: 2px solid var(--purple); border-color: transparent; }
+    #auth-btn {
+      padding: 0.55rem 2rem;
+      background: var(--purple);
+      color: white;
+      border: none;
+      border-radius: 6px;
+      font-size: 0.95rem;
+      font-family: inherit;
+      font-weight: 600;
+      cursor: pointer;
+      width: 100%;
+    }
+    #auth-btn:hover { background: #6D28D9; }
+    #auth-error {
+      color: #FCA5A5;
+      font-size: 0.85rem;
+      display: none;
+    }
+    @keyframes shake {
+      0%,100% { transform: translateX(0); }
+      20%,60% { transform: translateX(-6px); }
+      40%,80% { transform: translateX(6px); }
+    }
+    .shake { animation: shake 0.4s ease; }
   </style>
 </head>
 <body>
+
+<div id="auth-overlay">
+  <svg width="40" height="40" viewBox="0 0 32 32" fill="none">
+    <rect width="32" height="32" rx="8" fill="#7C3AED"/>
+    <path d="M8 22L16 10L24 22" stroke="white" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle cx="16" cy="10" r="2" fill="white"/>
+  </svg>
+  <h2>Delivery Dashboard</h2>
+  <div id="auth-box">
+    <input id="auth-input" type="password" placeholder="Password" autocomplete="current-password" />
+    <button id="auth-btn">Enter</button>
+    <span id="auth-error">Incorrect password. Try again.</span>
+  </div>
+</div>
 
 <header>
   <svg width="28" height="28" viewBox="0 0 32 32" fill="none">
@@ -460,6 +541,35 @@
 </main>
 
 <script>
+  // Auth
+  (function() {
+    const PASSWORD = "goku";
+    const KEY = "dash_auth";
+    if (sessionStorage.getItem(KEY) === "1") {
+      document.getElementById("auth-overlay").style.display = "none";
+      return;
+    }
+    function attempt() {
+      const val = document.getElementById("auth-input").value;
+      if (val.toLowerCase() === PASSWORD) {
+        sessionStorage.setItem(KEY, "1");
+        document.getElementById("auth-overlay").style.display = "none";
+      } else {
+        const box = document.getElementById("auth-box");
+        const err = document.getElementById("auth-error");
+        err.style.display = "block";
+        box.classList.remove("shake");
+        void box.offsetWidth;
+        box.classList.add("shake");
+        document.getElementById("auth-input").value = "";
+      }
+    }
+    document.getElementById("auth-btn").addEventListener("click", attempt);
+    document.getElementById("auth-input").addEventListener("keydown", e => {
+      if (e.key === "Enter") attempt();
+    });
+  })();
+
   const JIRA_BASE = "https://hubtype.atlassian.net/browse/";
   const DONE_STATUSES = new Set(["Done", "Closed"]);
   const WIP_STATUSES = new Set(["In Progress", "Ready for review", "Ready to Deliver"]);
