@@ -361,12 +361,6 @@
         </div>
       </div>
 
-      <div class="card full">
-        <h2>Open vs Done over time</h2>
-        <div class="chart-wrap">
-          <canvas id="trend-chart"></canvas>
-        </div>
-      </div>
 
       <div class="card">
         <h2>Tickets by status <span style="font-weight:400;text-transform:none;font-size:0.8rem;color:var(--gray)">(excluding Done &amp; Closed)</span></h2>
@@ -418,7 +412,7 @@
 
   let allTickets = [];
   let allSnapshots = [];
-  let trendChart, statusChart, personChart, createdChart, closedChart;
+  let statusChart, personChart, createdChart, closedChart;
 
   function statusBadge(status) {
     let cls = "badge-default";
@@ -501,90 +495,6 @@
     `).join("");
   }
 
-  function buildTrendData() {
-    const granularity = document.getElementById("filter-granularity").value;
-    const person = document.getElementById("filter-person").value;
-    const { cutoff, cutoffEnd } = getPeriodCutoffs();
-
-    let filtered = allSnapshots.filter(s => s.date >= cutoff && (!cutoffEnd || s.date <= cutoffEnd));
-
-    // Group by granularity
-    const grouped = {};
-    filtered.forEach(snap => {
-      const d = new Date(snap.date);
-      let key;
-      if (granularity === "year") {
-        key = snap.date.slice(0, 4);
-      } else if (granularity === "month") {
-        key = snap.date.slice(0, 7);
-      } else if (granularity === "week") {
-        const day = d.getDay() || 7;
-        const mon = new Date(d);
-        mon.setDate(d.getDate() - day + 1);
-        key = mon.toISOString().slice(0, 10);
-      } else {
-        key = snap.date; // day
-      }
-      grouped[key] = snap; // last snapshot of the period wins
-    });
-
-    const keys = Object.keys(grouped).sort();
-
-    let openData, doneData;
-    if (person) {
-      openData = keys.map(k => {
-        const byA = grouped[k].by_assignee || {};
-        const p = byA[person];
-        return p ? (p.open + p.in_progress) : 0;
-      });
-      doneData = keys.map(k => {
-        const byA = grouped[k].by_assignee || {};
-        const p = byA[person];
-        return p ? p.done : 0;
-      });
-    } else {
-      openData = keys.map(k => grouped[k].total_open);
-      doneData = keys.map(k => grouped[k].total_done);
-    }
-
-    return { labels: keys, openData, doneData };
-  }
-
-  function updateTrendChart() {
-    const { labels, openData, doneData } = buildTrendData();
-    if (trendChart) trendChart.destroy();
-    trendChart = new Chart(document.getElementById("trend-chart"), {
-      type: "bar",
-      data: {
-        labels,
-        datasets: [
-          {
-            label: "Open / In Progress",
-            data: openData,
-            backgroundColor: "#FDE68A",
-            borderColor: "#F59E0B",
-            borderWidth: 1,
-          },
-          {
-            label: "Done",
-            data: doneData,
-            backgroundColor: "#A7F3D0",
-            borderColor: "#10B981",
-            borderWidth: 1,
-          },
-        ],
-      },
-      options: {
-        responsive: true,
-        maintainAspectRatio: false,
-        plugins: { legend: { position: "top" }, datalabels: { display: false } },
-        scales: {
-          x: { stacked: false },
-          y: { beginAtZero: true },
-        },
-      },
-    });
-  }
 
   function updateStatusChart(tickets) {
     const counts = {};
@@ -799,7 +709,7 @@
     const tickets = getFilteredTickets();
     updateKPIs(tickets);
     updateTable(tickets);
-    updateTrendChart();
+
     updateStatusChart(tickets);
     updatePersonChart();
     updateCreatedChart();
