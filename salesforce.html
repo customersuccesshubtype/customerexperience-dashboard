@@ -1,0 +1,832 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>CE Dashboard — Salesforce</title>
+  <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.2/dist/chart.umd.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/chartjs-plugin-datalabels@2.2.0/dist/chartjs-plugin-datalabels.min.js"></script>
+  <style>
+    :root {
+      --navy:         #0F172A;
+      --purple:       #7C3AED;
+      --purple-light: #EDE9FE;
+      --green:        #10B981;
+      --amber:        #F59E0B;
+      --red:          #EF4444;
+      --blue:         #3B82F6;
+      --gray:         #64748B;
+      --bg:           #F8FAFC;
+      --card:         #FFFFFF;
+    }
+
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+
+    body {
+      font-family: Calibri, 'Segoe UI', sans-serif;
+      background: var(--bg);
+      color: var(--navy);
+      min-height: 100vh;
+    }
+
+    header {
+      background: var(--navy);
+      color: white;
+      padding: 1.25rem 2rem;
+      display: flex;
+      align-items: center;
+      gap: 1rem;
+    }
+    header h1 { font-size: 1.4rem; font-weight: 600; letter-spacing: 0.01em; }
+    header .subtitle { font-size: 0.85rem; opacity: 0.6; margin-left: auto; }
+
+    nav {
+      background: var(--navy);
+      border-top: 1px solid rgba(255,255,255,0.08);
+      display: flex;
+      gap: 0;
+      padding: 0 2rem;
+    }
+    nav a {
+      color: rgba(255,255,255,0.6);
+      text-decoration: none;
+      font-size: 0.85rem;
+      padding: 0.6rem 1rem;
+      border-bottom: 2px solid transparent;
+      transition: all 0.15s;
+    }
+    nav a:hover { color: white; }
+    nav a.active { color: white; border-bottom-color: var(--purple); font-weight: 600; }
+
+    .purple-bar { height: 4px; background: var(--purple); }
+
+    main { max-width: 1200px; margin: 0 auto; padding: 2rem 1.5rem; }
+
+    /* Filters */
+    .filters {
+      display: flex;
+      gap: 1rem;
+      flex-wrap: wrap;
+      margin-bottom: 2rem;
+      align-items: center;
+    }
+    .filters label { font-size: 0.85rem; color: var(--gray); font-weight: 600; }
+    .filters select, .filters input {
+      padding: 0.45rem 0.75rem;
+      border: 1px solid #CBD5E1;
+      border-radius: 6px;
+      font-size: 0.9rem;
+      background: white;
+      color: var(--navy);
+      cursor: pointer;
+    }
+    .filters select:focus, .filters input:focus {
+      outline: 2px solid var(--purple);
+      outline-offset: 1px;
+    }
+
+    .btn-clear {
+      padding: 0.45rem 0.9rem;
+      border: 1px solid #CBD5E1;
+      border-radius: 6px;
+      font-size: 0.85rem;
+      background: white;
+      color: var(--gray);
+      cursor: pointer;
+      font-family: inherit;
+      margin-left: auto;
+    }
+    .btn-clear:hover { border-color: var(--purple); color: var(--purple); }
+
+    /* KPI cards */
+    .kpi-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+      gap: 1rem;
+      margin-bottom: 2rem;
+    }
+    .kpi {
+      background: var(--card);
+      border-radius: 10px;
+      padding: 1.25rem 1.5rem;
+      box-shadow: 0 1px 4px rgba(0,0,0,0.07);
+      border-left: 4px solid var(--purple);
+    }
+    .kpi.closed    { border-color: var(--green); }
+    .kpi.open      { border-color: var(--amber); }
+    .kpi.escalated { border-color: var(--red); }
+    .kpi.total     { border-color: var(--navy); }
+    .kpi.feeling-green  { border-color: #10B981; }
+    .kpi.feeling-red    { border-color: #EF4444; }
+    .kpi .value { font-size: 2.2rem; font-weight: 700; line-height: 1; }
+    .kpi .label { font-size: 0.8rem; color: var(--gray); margin-top: 0.4rem; text-transform: uppercase; letter-spacing: 0.05em; }
+
+    /* Chart grid */
+    .chart-grid {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 1.5rem;
+      margin-bottom: 2rem;
+    }
+    @media (max-width: 768px) { .chart-grid { grid-template-columns: 1fr; } }
+
+    .card {
+      background: var(--card);
+      border-radius: 10px;
+      padding: 1.5rem;
+      box-shadow: 0 1px 4px rgba(0,0,0,0.07);
+    }
+    .card h2 {
+      font-size: 0.95rem;
+      font-weight: 700;
+      margin-bottom: 1.25rem;
+      color: var(--navy);
+      text-transform: uppercase;
+      letter-spacing: 0.04em;
+    }
+    .card.full { grid-column: 1 / -1; }
+
+    .chart-wrap { position: relative; height: 260px; }
+
+    /* Feeling dot */
+    .feeling-dot {
+      display: inline-block;
+      width: 10px; height: 10px;
+      border-radius: 50%;
+      margin-right: 4px;
+      vertical-align: middle;
+    }
+    .feeling-green { background: #10B981; }
+    .feeling-orange { background: #F59E0B; }
+    .feeling-red    { background: #EF4444; }
+
+    /* Table */
+    .table-wrap { overflow-x: auto; }
+    table { width: 100%; border-collapse: collapse; font-size: 0.85rem; }
+    thead th {
+      text-align: left; padding: 0.6rem 0.75rem;
+      background: #F1F5F9; color: var(--gray);
+      font-weight: 700; text-transform: uppercase;
+      font-size: 0.75rem; letter-spacing: 0.04em;
+    }
+    tbody tr { border-bottom: 1px solid #F1F5F9; }
+    tbody tr:hover { background: #FAFAFA; }
+    tbody td { padding: 0.65rem 0.75rem; color: var(--navy); }
+
+    .status-badge {
+      display: inline-block;
+      padding: 0.2rem 0.55rem;
+      border-radius: 999px;
+      font-size: 0.72rem;
+      font-weight: 700;
+      text-transform: uppercase;
+      letter-spacing: 0.04em;
+    }
+    .badge-closed  { background: #D1FAE5; color: #065F46; }
+    .badge-open    { background: #FEF3C7; color: #92400E; }
+    .badge-escalated { background: #FEE2E2; color: #991B1B; }
+    .badge-onhold  { background: #E0E7FF; color: #3730A3; }
+    .badge-default { background: #F1F5F9; color: var(--gray); }
+
+    .priority-badge {
+      display: inline-block;
+      padding: 0.15rem 0.45rem;
+      border-radius: 4px;
+      font-size: 0.72rem;
+      font-weight: 700;
+    }
+    .priority-high   { background: #FEE2E2; color: #991B1B; }
+    .priority-medium { background: #FEF3C7; color: #92400E; }
+    .priority-low    { background: #F1F5F9; color: var(--gray); }
+
+    .case-link { color: var(--purple); text-decoration: none; font-weight: 600; }
+    .case-link:hover { text-decoration: underline; }
+
+    #loading { text-align: center; padding: 4rem; color: var(--gray); font-size: 1.1rem; }
+    #error   { display: none; text-align: center; padding: 4rem; color: var(--red); }
+
+    #auth-overlay {
+      position: fixed; inset: 0;
+      background: var(--navy);
+      display: flex; flex-direction: column;
+      align-items: center; justify-content: center;
+      z-index: 9999; gap: 1.5rem;
+    }
+    #auth-overlay h2 { color: white; font-size: 1.3rem; font-weight: 600; letter-spacing: 0.02em; }
+    #auth-box {
+      display: flex; flex-direction: column; align-items: center; gap: 0.75rem;
+      background: rgba(255,255,255,0.05);
+      border: 1px solid rgba(255,255,255,0.1);
+      border-radius: 12px; padding: 2rem 2.5rem;
+    }
+    #auth-input {
+      padding: 0.6rem 1rem; border-radius: 6px;
+      border: 1px solid rgba(255,255,255,0.2);
+      background: rgba(255,255,255,0.08);
+      color: white; font-size: 1rem; font-family: inherit;
+      width: 220px; text-align: center; letter-spacing: 0.1em;
+    }
+    #auth-input::placeholder { color: rgba(255,255,255,0.35); letter-spacing: normal; }
+    #auth-input:focus { outline: 2px solid var(--purple); border-color: transparent; }
+    #auth-btn {
+      padding: 0.55rem 2rem; background: var(--purple); color: white;
+      border: none; border-radius: 6px; font-size: 0.95rem;
+      font-family: inherit; font-weight: 600; cursor: pointer; width: 100%;
+    }
+    #auth-btn:hover { background: #6D28D9; }
+    #auth-error { color: #FCA5A5; font-size: 0.85rem; display: none; }
+    @keyframes shake {
+      0%,100% { transform: translateX(0); }
+      20%,60%  { transform: translateX(-6px); }
+      40%,80%  { transform: translateX(6px); }
+    }
+    .shake { animation: shake 0.4s ease; }
+  </style>
+</head>
+<body>
+
+<div id="auth-overlay">
+  <svg width="40" height="40" viewBox="0 0 32 32" fill="none">
+    <rect width="32" height="32" rx="8" fill="#7C3AED"/>
+    <path d="M8 22L16 10L24 22" stroke="white" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle cx="16" cy="10" r="2" fill="white"/>
+  </svg>
+  <h2>CE Dashboard</h2>
+  <div id="auth-box">
+    <input id="auth-input" type="password" placeholder="Password" autocomplete="current-password" />
+    <button id="auth-btn">Enter</button>
+    <span id="auth-error">Incorrect password. Try again.</span>
+  </div>
+</div>
+
+<header>
+  <svg width="28" height="28" viewBox="0 0 32 32" fill="none">
+    <rect width="32" height="32" rx="8" fill="#7C3AED"/>
+    <path d="M8 22L16 10L24 22" stroke="white" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle cx="16" cy="10" r="2" fill="white"/>
+  </svg>
+  <h1>CE Dashboard</h1>
+  <span class="subtitle" id="last-updated">Loading...</span>
+</header>
+
+<nav>
+  <a href="index.html">Jira</a>
+  <a href="salesforce.html" class="active">Salesforce</a>
+</nav>
+
+<div class="purple-bar"></div>
+
+<main>
+  <div id="loading">Loading Salesforce data...</div>
+  <div id="error">Could not load Salesforce data. Run the GitHub Action first to generate data/sf_cases.json.</div>
+
+  <div id="content" style="display:none">
+
+    <div class="filters">
+      <label for="filter-period">Period:</label>
+      <select id="filter-period">
+        <option value="yesterday">Yesterday</option>
+        <option value="7">Last 7 days</option>
+        <option value="30">Last 30 days</option>
+        <option value="90" selected>Last 90 days</option>
+        <option value="180">Last 6 months</option>
+        <option value="365">Last year</option>
+        <option value="0">All time</option>
+      </select>
+      <input type="date" id="filter-from" title="Created from" />
+      <input type="date" id="filter-to" title="Created to" />
+
+      <label for="filter-owner">Owner:</label>
+      <input type="text" id="filter-owner" list="owner-list" placeholder="All owners..." autocomplete="off" style="min-width:160px" />
+      <datalist id="owner-list"></datalist>
+
+      <label for="filter-account">Account:</label>
+      <select id="filter-account"><option value="">All</option></select>
+
+      <label for="filter-status">Status:</label>
+      <select id="filter-status"><option value="">All</option></select>
+
+      <label for="filter-priority">Priority:</label>
+      <select id="filter-priority"><option value="">All</option></select>
+
+      <label for="filter-feeling">Feeling:</label>
+      <select id="filter-feeling"><option value="">All</option></select>
+
+      <label for="filter-issue-type">Issue type:</label>
+      <select id="filter-issue-type"><option value="">All</option></select>
+
+      <label for="filter-granularity">Granularity:</label>
+      <select id="filter-granularity">
+        <option value="year">Yearly</option>
+        <option value="month" selected>Monthly</option>
+        <option value="week">Weekly</option>
+        <option value="day">Daily</option>
+      </select>
+
+      <button class="btn-clear" id="btn-clear-filters">Clear filters</button>
+    </div>
+
+    <!-- KPIs -->
+    <div class="kpi-grid">
+      <div class="kpi total">
+        <div class="value" id="kpi-total">-</div>
+        <div class="label">Total cases</div>
+      </div>
+      <div class="kpi open">
+        <div class="value" id="kpi-open">-</div>
+        <div class="label">Open</div>
+      </div>
+      <div class="kpi closed">
+        <div class="value" id="kpi-closed">-</div>
+        <div class="label">Closed</div>
+      </div>
+      <div class="kpi escalated">
+        <div class="value" id="kpi-escalated">-</div>
+        <div class="label">Escalated</div>
+      </div>
+      <div class="kpi feeling-green">
+        <div class="value" id="kpi-feeling-green">-</div>
+        <div class="label">🟢 Green</div>
+      </div>
+      <div class="kpi feeling-red">
+        <div class="value" id="kpi-feeling-red">-</div>
+        <div class="label">🔴 Red</div>
+      </div>
+    </div>
+
+    <div class="chart-grid">
+
+      <!-- Cases created over time -->
+      <div class="card full">
+        <h2 id="created-title">Cases created</h2>
+        <div class="chart-wrap"><canvas id="created-chart"></canvas></div>
+      </div>
+
+      <!-- Cases closed over time -->
+      <div class="card full">
+        <h2 id="closed-title">Cases closed</h2>
+        <div class="chart-wrap"><canvas id="closed-chart"></canvas></div>
+      </div>
+
+      <!-- By status -->
+      <div class="card">
+        <h2>Cases by status</h2>
+        <div class="chart-wrap"><canvas id="status-chart"></canvas></div>
+      </div>
+
+      <!-- By feeling / sentiment -->
+      <div class="card">
+        <h2>Customer sentiment (Feeling)</h2>
+        <div class="chart-wrap"><canvas id="feeling-chart"></canvas></div>
+      </div>
+
+      <!-- By priority -->
+      <div class="card">
+        <h2>Cases by priority</h2>
+        <div class="chart-wrap"><canvas id="priority-chart"></canvas></div>
+      </div>
+
+      <!-- By issue type -->
+      <div class="card">
+        <h2>Cases by issue type</h2>
+        <div class="chart-wrap"><canvas id="issue-type-chart"></canvas></div>
+      </div>
+
+      <!-- By owner (horizontal bar) -->
+      <div class="card full">
+        <h2>Cases by owner</h2>
+        <div class="chart-wrap" id="owner-wrap"><canvas id="owner-chart"></canvas></div>
+      </div>
+
+      <!-- Case list -->
+      <div class="card full">
+        <h2>Case list</h2>
+        <div class="filters" style="margin-bottom:1rem">
+          <label for="filter-search">Search:</label>
+          <input type="text" id="filter-search" placeholder="Case # or subject..." style="min-width:200px" />
+        </div>
+        <div class="table-wrap">
+          <table>
+            <thead>
+              <tr>
+                <th>Case #</th>
+                <th>Subject</th>
+                <th>Status</th>
+                <th>Priority</th>
+                <th>Owner</th>
+                <th>Account</th>
+                <th>Feeling</th>
+                <th>Issue type</th>
+                <th>Created</th>
+                <th>Closed</th>
+              </tr>
+            </thead>
+            <tbody id="case-table-body"></tbody>
+          </table>
+        </div>
+      </div>
+
+    </div>
+  </div>
+</main>
+
+<script>
+  // Auth (shared password with Jira dashboard)
+  (function() {
+    const PASSWORD = "goku";
+    const KEY = "dash_auth";
+    if (sessionStorage.getItem(KEY) === "1") {
+      document.getElementById("auth-overlay").style.display = "none";
+      return;
+    }
+    function attempt() {
+      const val = document.getElementById("auth-input").value;
+      if (val.toLowerCase() === PASSWORD) {
+        sessionStorage.setItem(KEY, "1");
+        document.getElementById("auth-overlay").style.display = "none";
+      } else {
+        const box = document.getElementById("auth-box");
+        const err = document.getElementById("auth-error");
+        err.style.display = "block";
+        box.classList.remove("shake");
+        void box.offsetWidth;
+        box.classList.add("shake");
+        document.getElementById("auth-input").value = "";
+      }
+    }
+    document.getElementById("auth-btn").addEventListener("click", attempt);
+    document.getElementById("auth-input").addEventListener("keydown", e => {
+      if (e.key === "Enter") attempt();
+    });
+  })();
+
+  const SF_BASE = "https://hubtype.lightning.force.com/lightning/r/Case/";
+  Chart.register(ChartDataLabels);
+
+  let allCases = [];
+  let statusChartInst, feelingChartInst, priorityChartInst,
+      issueTypeChartInst, ownerChartInst, createdChartInst, closedChartInst;
+
+  // ---- Helpers ----
+
+  function resolveCutoffs(val) {
+    if (val === "yesterday") {
+      const d = new Date();
+      d.setDate(d.getDate() - 1);
+      const yest = d.toISOString().slice(0, 10);
+      return { cutoff: yest, cutoffEnd: yest };
+    }
+    const days = parseInt(val);
+    return {
+      cutoff: days > 0 ? new Date(Date.now() - days * 86400000).toISOString().slice(0, 10) : "0000-00-00",
+      cutoffEnd: null,
+    };
+  }
+
+  function getPeriodCutoffs() {
+    const from = document.getElementById("filter-from").value;
+    const to   = document.getElementById("filter-to").value;
+    if (from || to) return { cutoff: from || "0000-00-00", cutoffEnd: to || null };
+    return resolveCutoffs(document.getElementById("filter-period").value);
+  }
+
+  function getFilteredCases() {
+    const { cutoff, cutoffEnd } = getPeriodCutoffs();
+    const owner     = document.getElementById("filter-owner").value.toLowerCase();
+    const account   = document.getElementById("filter-account").value;
+    const status    = document.getElementById("filter-status").value;
+    const priority  = document.getElementById("filter-priority").value;
+    const feeling   = document.getElementById("filter-feeling").value;
+    const issueType = document.getElementById("filter-issue-type").value;
+    const search    = document.getElementById("filter-search").value.toLowerCase();
+
+    return allCases.filter(c => {
+      if (c.created < cutoff) return false;
+      if (cutoffEnd && c.created > cutoffEnd) return false;
+      if (owner   && !c.owner.toLowerCase().includes(owner)) return false;
+      if (account && c.account !== account) return false;
+      if (status  && c.status !== status) return false;
+      if (priority && c.priority !== priority) return false;
+      if (feeling  && c.feeling !== feeling) return false;
+      if (issueType && c.issue_type !== issueType) return false;
+      if (search && !c.case_number.toLowerCase().includes(search) && !c.subject.toLowerCase().includes(search)) return false;
+      return true;
+    });
+  }
+
+  function statusBadge(status) {
+    const s = (status || "").toLowerCase();
+    let cls = "badge-default";
+    if (s === "closed")   cls = "badge-closed";
+    else if (s === "open" || s === "new") cls = "badge-open";
+    else if (s === "escalated") cls = "badge-escalated";
+    else if (s === "on hold")   cls = "badge-onhold";
+    return `<span class="status-badge ${cls}">${status}</span>`;
+  }
+
+  function priorityBadge(p) {
+    const cls = p === "High" ? "priority-high" : p === "Medium" ? "priority-medium" : "priority-low";
+    return `<span class="priority-badge ${cls}">${p || ""}</span>`;
+  }
+
+  function feelingDot(f) {
+    if (!f) return "";
+    const cls = f === "Green" ? "feeling-green" : f === "Red" ? "feeling-red" : "feeling-orange";
+    return `<span class="feeling-dot ${cls}"></span>${f}`;
+  }
+
+  function granKey(dateStr) {
+    const granularity = document.getElementById("filter-granularity").value;
+    if (!dateStr) return null;
+    if (granularity === "year")  return dateStr.slice(0, 4);
+    if (granularity === "month") return dateStr.slice(0, 7);
+    if (granularity === "week") {
+      const d = new Date(dateStr);
+      const day = d.getDay() || 7;
+      const mon = new Date(d);
+      mon.setDate(d.getDate() - day + 1);
+      return mon.toISOString().slice(0, 10);
+    }
+    return dateStr;
+  }
+
+  // ---- Chart helpers ----
+
+  function doughnutChart(canvasId, labels, data, colors, existing) {
+    if (existing) existing.destroy();
+    return new Chart(document.getElementById(canvasId), {
+      type: "doughnut",
+      data: { labels, datasets: [{ data, backgroundColor: colors, borderWidth: 2 }] },
+      options: {
+        responsive: true,
+        maintainAspectRatio: false,
+        plugins: {
+          legend: { position: "right" },
+          datalabels: {
+            display: ctx => ctx.dataset.data[ctx.dataIndex] > 0,
+            color: "#fff",
+            font: { weight: "bold", size: 11 },
+            formatter: v => v,
+          },
+        },
+      },
+    });
+  }
+
+  function barChartTimeSeries(canvasId, labels, data, label, color, borderColor, existing, titleId, titleText) {
+    document.getElementById(titleId).textContent = titleText;
+    if (existing) existing.destroy();
+    return new Chart(document.getElementById(canvasId), {
+      type: "bar",
+      data: { labels, datasets: [{ label, data, backgroundColor: color, borderColor, borderWidth: 1 }] },
+      options: {
+        responsive: true,
+        maintainAspectRatio: false,
+        layout: { padding: { top: 24 } },
+        plugins: {
+          legend: { position: "top" },
+          datalabels: {
+            anchor: "end", align: "top", clip: false,
+            color: "#0F172A",
+            font: { weight: "bold", size: 11 },
+            formatter: v => v > 0 ? v : "",
+          },
+        },
+        scales: {
+          x: { beginAtZero: true },
+          y: { beginAtZero: true, ticks: { precision: 0 } },
+        },
+      },
+    });
+  }
+
+  // ---- Update functions ----
+
+  function updateKPIs(cases) {
+    document.getElementById("kpi-total").textContent     = cases.length;
+    document.getElementById("kpi-open").textContent      = cases.filter(c => !c.is_closed).length;
+    document.getElementById("kpi-closed").textContent    = cases.filter(c => c.is_closed).length;
+    document.getElementById("kpi-escalated").textContent = cases.filter(c => c.is_escalated).length;
+    document.getElementById("kpi-feeling-green").textContent = cases.filter(c => c.feeling === "Green").length;
+    document.getElementById("kpi-feeling-red").textContent   = cases.filter(c => c.feeling === "Red").length;
+  }
+
+  function updateCreatedChart(cases) {
+    const counts = {};
+    cases.forEach(c => {
+      const k = granKey(c.created);
+      if (k) counts[k] = (counts[k] || 0) + 1;
+    });
+    const labels = Object.keys(counts).sort();
+    const gran = document.getElementById("filter-granularity").value;
+    const granLabel = { year: "Yearly", month: "Monthly", week: "Weekly", day: "Daily" }[gran] || "";
+    createdChartInst = barChartTimeSeries(
+      "created-chart", labels, labels.map(k => counts[k]),
+      "Cases created", "#C4B5FD", "#7C3AED",
+      createdChartInst, "created-title", `Cases created — ${granLabel}`
+    );
+  }
+
+  function updateClosedChart(cases) {
+    const closed = cases.filter(c => c.is_closed && c.closed);
+    const counts = {};
+    closed.forEach(c => {
+      const k = granKey(c.closed);
+      if (k) counts[k] = (counts[k] || 0) + 1;
+    });
+    const labels = Object.keys(counts).sort();
+    const gran = document.getElementById("filter-granularity").value;
+    const granLabel = { year: "Yearly", month: "Monthly", week: "Weekly", day: "Daily" }[gran] || "";
+    closedChartInst = barChartTimeSeries(
+      "closed-chart", labels, labels.map(k => counts[k]),
+      "Cases closed", "#6EE7B7", "#10B981",
+      closedChartInst, "closed-title", `Cases closed — ${granLabel}`
+    );
+  }
+
+  function updateStatusChart(cases) {
+    const counts = {};
+    cases.forEach(c => { if (c.status) counts[c.status] = (counts[c.status] || 0) + 1; });
+    const labels = Object.keys(counts).sort();
+    const palette = ["#7C3AED","#F59E0B","#3B82F6","#EC4899","#14B8A6","#F97316","#6366F1"];
+    statusChartInst = doughnutChart("status-chart", labels, labels.map(l => counts[l]),
+      labels.map((_, i) => palette[i % palette.length]), statusChartInst);
+  }
+
+  function updateFeelingChart(cases) {
+    const order   = ["Green", "Orange", "Red"];
+    const colors  = { Green: "#10B981", Orange: "#F59E0B", Red: "#EF4444" };
+    const counts  = {};
+    cases.forEach(c => { if (c.feeling) counts[c.feeling] = (counts[c.feeling] || 0) + 1; });
+    const labels = order.filter(f => counts[f]);
+    feelingChartInst = doughnutChart("feeling-chart", labels, labels.map(l => counts[l] || 0),
+      labels.map(l => colors[l] || "#CBD5E1"), feelingChartInst);
+  }
+
+  function updatePriorityChart(cases) {
+    const order  = ["High", "Medium", "Low"];
+    const colors = { High: "#FCA5A5", Medium: "#FDE68A", Low: "#E2E8F0" };
+    const counts = {};
+    cases.forEach(c => { if (c.priority) counts[c.priority] = (counts[c.priority] || 0) + 1; });
+    const labels = order.filter(p => counts[p]);
+    priorityChartInst = doughnutChart("priority-chart", labels, labels.map(l => counts[l] || 0),
+      labels.map(l => colors[l] || "#CBD5E1"), priorityChartInst);
+  }
+
+  function updateIssueTypeChart(cases) {
+    const counts = {};
+    cases.forEach(c => { if (c.issue_type) counts[c.issue_type] = (counts[c.issue_type] || 0) + 1; });
+    const entries = Object.entries(counts).sort((a, b) => b[1] - a[1]);
+    const labels = entries.map(e => e[0]);
+    const data   = entries.map(e => e[1]);
+    const palette = ["#7C3AED","#3B82F6","#10B981","#F59E0B","#EC4899","#14B8A6","#F97316","#6366F1","#8B5CF6","#06B6D4"];
+    if (issueTypeChartInst) issueTypeChartInst.destroy();
+    issueTypeChartInst = new Chart(document.getElementById("issue-type-chart"), {
+      type: "bar",
+      data: { labels, datasets: [{ label: "Cases", data, backgroundColor: palette.map((c,i) => palette[i % palette.length]), borderWidth: 1 }] },
+      options: {
+        responsive: true, maintainAspectRatio: false,
+        indexAxis: "y",
+        layout: { padding: { right: 32 } },
+        plugins: {
+          legend: { display: false },
+          datalabels: {
+            anchor: "end", align: "right", clip: false,
+            color: "#0F172A", font: { weight: "bold", size: 11 },
+            formatter: v => v > 0 ? v : "",
+          },
+        },
+        scales: { x: { beginAtZero: true, ticks: { precision: 0 } }, y: { ticks: { font: { size: 12 } } } },
+      },
+    });
+  }
+
+  function updateOwnerChart(cases) {
+    const counts = {};
+    cases.forEach(c => {
+      if (!c.owner) return;
+      if (!counts[c.owner]) counts[c.owner] = { open: 0, closed: 0 };
+      if (c.is_closed) counts[c.owner].closed++;
+      else counts[c.owner].open++;
+    });
+    const people = Object.keys(counts).sort();
+    const wrap = document.getElementById("owner-wrap");
+    wrap.style.height = Math.max(200, people.length * 48 + 60) + "px";
+    if (ownerChartInst) ownerChartInst.destroy();
+    ownerChartInst = new Chart(document.getElementById("owner-chart"), {
+      type: "bar",
+      data: {
+        labels: people,
+        datasets: [
+          { label: "Open",   data: people.map(p => counts[p].open),   backgroundColor: "#FDE68A", borderColor: "#F59E0B", borderWidth: 1, barThickness: 22 },
+          { label: "Closed", data: people.map(p => counts[p].closed), backgroundColor: "#A7F3D0", borderColor: "#10B981", borderWidth: 1, barThickness: 22 },
+        ],
+      },
+      options: {
+        responsive: true, maintainAspectRatio: false,
+        indexAxis: "y",
+        plugins: {
+          legend: { position: "top" },
+          datalabels: { display: false },
+        },
+        scales: { x: { stacked: true }, y: { stacked: true } },
+      },
+    });
+  }
+
+  function updateTable(cases) {
+    document.getElementById("case-table-body").innerHTML = cases.map(c => `
+      <tr>
+        <td><a class="case-link" href="${SF_BASE}${c.id}/view" target="_blank">${c.case_number}</a></td>
+        <td>${c.subject}</td>
+        <td>${statusBadge(c.status)}</td>
+        <td>${priorityBadge(c.priority)}</td>
+        <td>${c.owner || ""}</td>
+        <td>${c.account || ""}</td>
+        <td>${feelingDot(c.feeling)}</td>
+        <td>${c.issue_type || ""}</td>
+        <td>${c.created || ""}</td>
+        <td>${c.closed || ""}</td>
+      </tr>
+    `).join("");
+  }
+
+  function refresh() {
+    const cases = getFilteredCases();
+    updateKPIs(cases);
+    updateCreatedChart(cases);
+    updateClosedChart(cases);
+    updateStatusChart(cases);
+    updateFeelingChart(cases);
+    updatePriorityChart(cases);
+    updateIssueTypeChart(cases);
+    updateOwnerChart(cases);
+    updateTable(cases);
+  }
+
+  async function init() {
+    try {
+      const resp = await fetch("data/sf_cases.json");
+      if (!resp.ok) throw new Error("Data not found");
+      const data = await resp.json();
+      allCases = data.cases || [];
+
+      document.getElementById("last-updated").textContent = `Last updated: ${data.last_updated}`;
+
+      // Populate owner datalist
+      const owners = [...new Set(allCases.map(c => c.owner).filter(Boolean))].sort();
+      const ownerDl = document.getElementById("owner-list");
+      owners.forEach(o => { const opt = document.createElement("option"); opt.value = o; ownerDl.appendChild(opt); });
+
+      // Populate dropdowns dynamically
+      function populateSelect(id, values) {
+        const sel = document.getElementById(id);
+        values.forEach(v => { const o = document.createElement("option"); o.value = v; o.textContent = v; sel.appendChild(o); });
+      }
+      populateSelect("filter-account",    [...new Set(allCases.map(c => c.account).filter(Boolean))].sort());
+      populateSelect("filter-status",     [...new Set(allCases.map(c => c.status).filter(Boolean))].sort());
+      populateSelect("filter-priority",   ["High", "Medium", "Low"]);
+      populateSelect("filter-feeling",    ["Green", "Orange", "Red"]);
+      populateSelect("filter-issue-type", [...new Set(allCases.map(c => c.issue_type).filter(Boolean))].sort());
+
+      document.getElementById("loading").style.display = "none";
+      document.getElementById("content").style.display = "block";
+
+      refresh();
+
+      // Filter listeners
+      ["filter-period","filter-from","filter-to","filter-owner","filter-account",
+       "filter-status","filter-priority","filter-feeling","filter-issue-type",
+       "filter-granularity","filter-search"]
+        .forEach(id => {
+          const el = document.getElementById(id);
+          el.addEventListener("change", refresh);
+          el.addEventListener("input", refresh);
+        });
+
+      document.getElementById("btn-clear-filters").addEventListener("click", () => {
+        document.getElementById("filter-period").value     = "90";
+        document.getElementById("filter-from").value       = "";
+        document.getElementById("filter-to").value         = "";
+        document.getElementById("filter-owner").value      = "";
+        document.getElementById("filter-account").value    = "";
+        document.getElementById("filter-status").value     = "";
+        document.getElementById("filter-priority").value   = "";
+        document.getElementById("filter-feeling").value    = "";
+        document.getElementById("filter-issue-type").value = "";
+        document.getElementById("filter-granularity").value = "month";
+        document.getElementById("filter-search").value     = "";
+        refresh();
+      });
+
+    } catch(e) {
+      document.getElementById("loading").style.display = "none";
+      document.getElementById("error").style.display   = "block";
+      console.error(e);
+    }
+  }
+
+  init();
+</script>
+</body>
+</html>
