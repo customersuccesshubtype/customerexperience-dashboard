@@ -672,18 +672,65 @@
   function updateClosedChart(cases) {
     const closed = cases.filter(c => c.is_closed && c.closed);
     const counts = {};
+    const resolutionByPeriod = {}; // period -> [days, ...]
     closed.forEach(c => {
       const k = granKey(c.closed);
-      if (k) counts[k] = (counts[k] || 0) + 1;
+      if (!k) return;
+      counts[k] = (counts[k] || 0) + 1;
+      if (!c.is_escalated && c.created) {
+        const d = businessDays(c.created, c.closed);
+        if (d !== null) {
+          if (!resolutionByPeriod[k]) resolutionByPeriod[k] = [];
+          resolutionByPeriod[k].push(d);
+        }
+      }
     });
     const labels = Object.keys(counts).sort();
+    const avgResolution = labels.map(k => {
+      const arr = resolutionByPeriod[k];
+      if (!arr || arr.length === 0) return null;
+      return parseFloat((arr.reduce((a, b) => a + b, 0) / arr.length).toFixed(1));
+    });
     const gran = document.getElementById("filter-granularity").value;
     const granLabel = { year: "Yearly", month: "Monthly", week: "Weekly", day: "Daily" }[gran] || "";
-    closedChartInst = barChartTimeSeries(
-      "closed-chart", labels, labels.map(k => counts[k]),
-      "Cases closed", "#6EE7B7", "#10B981",
-      closedChartInst, "closed-title", `Cases closed — ${granLabel}`
-    );
+    document.getElementById("closed-title").textContent = `Cases closed — ${granLabel}`;
+    if (closedChartInst) closedChartInst.destroy();
+    closedChartInst = new Chart(document.getElementById("closed-chart"), {
+      data: {
+        labels,
+        datasets: [
+          {
+            type: "bar",
+            label: "Cases closed",
+            data: labels.map(k => counts[k]),
+            backgroundColor: "#6EE7B7", borderColor: "#10B981", borderWidth: 1,
+            yAxisID: "yLeft",
+          },
+          {
+            type: "line",
+            label: "Avg resolution (business days)",
+            data: avgResolution,
+            borderColor: "#7C3AED", backgroundColor: "rgba(124,58,237,0.1)",
+            borderWidth: 2, pointRadius: 3, tension: 0.3,
+            yAxisID: "yRight",
+            spanGaps: true,
+          }
+        ]
+      },
+      options: {
+        responsive: true, maintainAspectRatio: false,
+        layout: { padding: { top: 24 } },
+        plugins: {
+          legend: { position: "top" },
+          datalabels: { display: false },
+        },
+        scales: {
+          x: { grid: { color: "rgba(0,0,0,0.05)" } },
+          yLeft:  { beginAtZero: true, position: "left",  ticks: { precision: 0 }, title: { display: true, text: "Cases", font: { size: 11 } } },
+          yRight: { beginAtZero: true, position: "right", grid: { drawOnChartArea: false }, title: { display: true, text: "Business days", font: { size: 11 } } },
+        },
+      },
+    });
   }
 
   function updateStatusChart(cases) {
