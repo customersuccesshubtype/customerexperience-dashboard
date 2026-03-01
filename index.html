@@ -119,8 +119,6 @@
     .btn-refresh:hover { background: rgba(255,255,255,0.12); }
     .btn-refresh:disabled { opacity: 0.5; cursor: not-allowed; }
     .btn-refresh svg { flex-shrink: 0; }
-    @keyframes spin { to { transform: rotate(360deg); } }
-    .spinning { animation: spin 1s linear infinite; }
 
     /* KPI cards */
     .kpi-grid {
@@ -263,7 +261,7 @@
   </svg>
   <h1>Delivery Dashboard</h1>
   <span class="subtitle" id="last-updated">Loading...</span>
-  <button class="btn-refresh" id="btn-refresh" title="Fetch latest data from Jira">
+  <button class="btn-refresh" id="btn-refresh" title="Open GitHub Actions to trigger a data refresh">
     <svg id="refresh-icon" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
       <polyline points="23 4 23 10 17 10"></polyline>
       <path d="M20.49 15a9 9 0 1 1-2.12-9.36L23 10"></path>
@@ -804,71 +802,11 @@
     }
   }
 
-  const GH_OWNER = "customersuccesshubtype";
-  const GH_REPO  = "customerexperience-dashboard";
-  const GH_WORKFLOW = "fetch-jira.yml";
-
-  document.getElementById("btn-refresh").addEventListener("click", async () => {
-    let token = localStorage.getItem("gh_dispatch_token");
-    if (!token) {
-      token = prompt(
-        "Enter a GitHub Personal Access Token with Actions (write) permission.\nIt will be saved locally in your browser.",
-        ""
-      );
-      if (!token) return;
-      localStorage.setItem("gh_dispatch_token", token.trim());
-      token = token.trim();
-    }
-
-    const btn   = document.getElementById("btn-refresh");
-    const icon  = document.getElementById("refresh-icon");
-    const label = document.getElementById("refresh-label");
-
-    btn.disabled = true;
-    icon.classList.add("spinning");
-    label.textContent = "Triggering...";
-
-    try {
-      const res = await fetch(
-        `https://api.github.com/repos/${GH_OWNER}/${GH_REPO}/actions/workflows/${GH_WORKFLOW}/dispatches`,
-        {
-          method: "POST",
-          headers: {
-            Authorization: `Bearer ${token}`,
-            Accept: "application/vnd.github+json",
-            "X-GitHub-Api-Version": "2022-11-28",
-            "Content-Type": "application/json",
-          },
-          body: JSON.stringify({ ref: "main" }),
-        }
-      );
-
-      if (res.status === 204) {
-        label.textContent = "Running... (~1 min)";
-        setTimeout(() => {
-          label.textContent = "Refresh data";
-          btn.disabled = false;
-          icon.classList.remove("spinning");
-        }, 60000);
-      } else if (res.status === 401) {
-        localStorage.removeItem("gh_dispatch_token");
-        alert("Token invalid or expired. It has been cleared — try again to enter a new one.");
-        label.textContent = "Refresh data";
-        btn.disabled = false;
-        icon.classList.remove("spinning");
-      } else {
-        const body = await res.json().catch(() => ({}));
-        alert(`Error ${res.status}: ${body.message || "Unknown error"}`);
-        label.textContent = "Refresh data";
-        btn.disabled = false;
-        icon.classList.remove("spinning");
-      }
-    } catch (e) {
-      alert("Network error. Check your connection.");
-      label.textContent = "Refresh data";
-      btn.disabled = false;
-      icon.classList.remove("spinning");
-    }
+  document.getElementById("btn-refresh").addEventListener("click", () => {
+    window.open(
+      "https://github.com/customersuccesshubtype/customerexperience-dashboard/actions/workflows/fetch-jira.yml",
+      "_blank"
+    );
   });
 
   init();
