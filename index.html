@@ -299,8 +299,6 @@
       <label for="filter-status">Status:</label>
       <select id="filter-status">
         <option value="">All</option>
-        <option value="open">Open only</option>
-        <option value="done">Done only</option>
       </select>
 
       <button class="btn-clear" id="btn-clear-filters">Clear filters</button>
@@ -443,8 +441,7 @@
       if (createdCutoffEnd && t.created > createdCutoffEnd) return false;
       if (t.updated && t.updated < updatedCutoff) return false;
       if (updatedCutoffEnd && t.updated && t.updated > updatedCutoffEnd) return false;
-      if (statusFilter === "open" && DONE_STATUSES.has(t.status)) return false;
-      if (statusFilter === "done" && !DONE_STATUSES.has(t.status)) return false;
+      if (statusFilter && t.status !== statusFilter) return false;
       if (search && !t.key.toLowerCase().includes(search) && !t.summary.toLowerCase().includes(search)) return false;
       return true;
     });
@@ -721,6 +718,16 @@
         const opt = document.createElement("option");
         opt.value = p;
         dl.appendChild(opt);
+      });
+
+      // Populate status filter
+      const statusValues = [...new Set(allTickets.map(t => t.status).filter(Boolean))].sort();
+      const statusSel = document.getElementById("filter-status");
+      statusValues.forEach(s => {
+        const opt = document.createElement("option");
+        opt.value = s;
+        opt.textContent = s;
+        statusSel.appendChild(opt);
       });
 
       // Populate label (client) filter
