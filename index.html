@@ -238,9 +238,8 @@
 
     <div class="filters">
       <label for="filter-person">Person:</label>
-      <select id="filter-person">
-        <option value="">All</option>
-      </select>
+      <input type="text" id="filter-person" list="person-list" placeholder="All persons..." autocomplete="off" style="min-width:160px" />
+      <datalist id="person-list"></datalist>
 
       <label for="filter-period">Created:</label>
       <select id="filter-period">
@@ -419,7 +418,7 @@
     const search = document.getElementById("filter-search").value.toLowerCase();
 
     return allTickets.filter(t => {
-      if (person && t.assignee !== person) return false;
+      if (person && !t.assignee?.toLowerCase().includes(person.toLowerCase())) return false;
       if (label && !(t.labels || []).includes(label)) return false;
       if (t.created < createdCutoff) return false;
       if (createdCutoffEnd && t.created > createdCutoffEnd) return false;
@@ -602,7 +601,7 @@
     const { cutoff, cutoffEnd } = getPeriodCutoffs();
 
     const tickets = allTickets.filter(t => {
-      if (person && t.assignee !== person) return false;
+      if (person && !t.assignee?.toLowerCase().includes(person.toLowerCase())) return false;
       if (label && !(t.labels || []).includes(label)) return false;
       if (t.created < cutoff) return false;
       if (cutoffEnd && t.created > cutoffEnd) return false;
@@ -698,12 +697,11 @@
 
       // Populate person filter
       const people = [...new Set(allTickets.map(t => t.assignee).filter(Boolean))].sort();
-      const sel = document.getElementById("filter-person");
+      const dl = document.getElementById("person-list");
       people.forEach(p => {
         const opt = document.createElement("option");
         opt.value = p;
-        opt.textContent = p;
-        sel.appendChild(opt);
+        dl.appendChild(opt);
       });
 
       // Populate label (client) filter
@@ -730,6 +728,7 @@
        "filter-granularity", "filter-status", "filter-search", "filter-label"]
         .forEach(id => document.getElementById(id).addEventListener("change", refresh));
       document.getElementById("filter-search").addEventListener("input", refresh);
+      document.getElementById("filter-person").addEventListener("input", refresh);
 
     } catch (e) {
       document.getElementById("loading").style.display = "none";
