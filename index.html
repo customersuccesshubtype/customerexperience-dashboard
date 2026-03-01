@@ -120,6 +120,9 @@
       color: white;
       font-weight: 600;
     }
+    .chip-all { border-color: var(--navy); color: var(--navy); font-weight: 600; }
+    .chip-all:hover { background: var(--navy); border-color: var(--navy); color: white; }
+    .chip-all.active { background: var(--navy); border-color: var(--navy); color: white; }
 
     .btn-clear {
       padding: 0.45rem 0.9rem;
@@ -364,6 +367,7 @@
 
     <div class="team-chips">
       <span class="chips-label">Team:</span>
+      <button class="chip chip-all" id="chip-all-team">All team</button>
       <button class="chip" data-name="adria">Adrià</button>
       <button class="chip" data-name="alex skala">Alex Skala</button>
       <button class="chip" data-name="marta">Marta</button>
@@ -374,6 +378,8 @@
       <button class="chip" data-name="evgeni">Evgeni</button>
       <button class="chip" data-name="lorena">Lorena</button>
       <button class="chip" data-name="aitor">Aitor</button>
+      <button class="chip" data-name="andrea">Andrea</button>
+      <button class="chip" data-name="vicky">Vicky</button>
     </div>
 
     <div class="kpi-grid">
@@ -500,7 +506,6 @@
   }
 
   function getFilteredTickets() {
-    const person = document.getElementById("filter-person").value;
     const label = document.getElementById("filter-label").value;
     const { cutoff: createdCutoff, cutoffEnd: createdCutoffEnd } = getPeriodCutoffs();
     const { cutoff: updatedCutoff, cutoffEnd: updatedCutoffEnd } = getUpdatedCutoffs();
@@ -508,7 +513,7 @@
     const search = document.getElementById("filter-search").value.toLowerCase();
 
     return allTickets.filter(t => {
-      if (person && !t.assignee?.toLowerCase().includes(person.toLowerCase())) return false;
+      if (!matchesPerson(t)) return false;
       if (label && !(t.labels || []).includes(label)) return false;
       if (t.created < createdCutoff) return false;
       if (createdCutoffEnd && t.created > createdCutoffEnd) return false;
@@ -598,12 +603,11 @@
   }
 
   function updateCreatedChart() {
-    const person = document.getElementById("filter-person").value;
     const label = document.getElementById("filter-label").value;
     const { cutoff, cutoffEnd } = getPeriodCutoffs();
 
     const tickets = allTickets.filter(t => {
-      if (person && !t.assignee?.toLowerCase().includes(person.toLowerCase())) return false;
+      if (!matchesPerson(t)) return false;
       if (label && !(t.labels || []).includes(label)) return false;
       if (t.created < cutoff) return false;
       if (cutoffEnd && t.created > cutoffEnd) return false;
@@ -675,13 +679,12 @@
   }
 
   function updateClosedChart() {
-    const person = document.getElementById("filter-person").value;
     const label = document.getElementById("filter-label").value;
     const { cutoff, cutoffEnd } = getPeriodCutoffs();
 
     const tickets = allTickets.filter(t => {
       if (!DONE_STATUSES.has(t.status)) return false;
-      if (person && !t.assignee?.toLowerCase().includes(person.toLowerCase())) return false;
+      if (!matchesPerson(t)) return false;
       if (label && !(t.labels || []).includes(label)) return false;
       const closeDate = t.resolutiondate || t.updated;
       if (!closeDate) return false;
@@ -853,36 +856,55 @@
     );
   });
 
-  // Team chips
-  document.querySelectorAll(".chip").forEach(chip => {
+  // Team members list (must match data-name attributes)
+  const TEAM_NAMES = ["adria","alex skala","marta","julieta","maria","patricia","pep","evgeni","lorena","aitor","andrea","vicky"];
+  let teamAllActive = false;
+
+  function matchesPerson(t) {
+    if (teamAllActive) return TEAM_NAMES.some(name => t.assignee?.toLowerCase().includes(name));
+    const person = document.getElementById("filter-person").value;
+    if (!person) return true;
+    return !!t.assignee?.toLowerCase().includes(person.toLowerCase());
+  }
+
+  function clearChips() {
+    document.querySelectorAll(".chip").forEach(c => c.classList.remove("active"));
+    teamAllActive = false;
+  }
+
+  // Individual chips
+  document.querySelectorAll(".chip[data-name]").forEach(chip => {
     chip.addEventListener("click", () => {
       const personInput = document.getElementById("filter-person");
-      const name = chip.dataset.name;
       const isActive = chip.classList.contains("active");
-
-      // Deactivate all chips
-      document.querySelectorAll(".chip").forEach(c => c.classList.remove("active"));
-
+      clearChips();
       if (isActive) {
-        // Toggle off
         personInput.value = "";
       } else {
         chip.classList.add("active");
-        personInput.value = name;
+        personInput.value = chip.dataset.name;
       }
       refresh();
     });
   });
 
-  // Keep chips in sync when person input is changed manually
-  document.getElementById("filter-person").addEventListener("input", () => {
-    document.querySelectorAll(".chip").forEach(c => c.classList.remove("active"));
+  // All team chip
+  document.getElementById("chip-all-team").addEventListener("click", () => {
+    const isActive = teamAllActive;
+    clearChips();
+    if (!isActive) {
+      teamAllActive = true;
+      document.getElementById("filter-person").value = "";
+      document.getElementById("chip-all-team").classList.add("active");
+    }
+    refresh();
   });
 
+  // Keep chips in sync when person input is changed manually
+  document.getElementById("filter-person").addEventListener("input", clearChips);
+
   // Clear chips on clear filters button
-  document.getElementById("btn-clear-filters").addEventListener("click", () => {
-    document.querySelectorAll(".chip").forEach(c => c.classList.remove("active"));
-  });
+  document.getElementById("btn-clear-filters").addEventListener("click", clearChips);
 
   init();
 </script>
