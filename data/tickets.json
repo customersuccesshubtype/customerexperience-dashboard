@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-01 09:43 UTC",
+  "last_updated": "2026-03-02 07:48 UTC",
   "tickets": [
     {
       "key": "PS-5129",
@@ -674,12 +674,12 @@
     {
       "key": "PS-5081",
       "summary": "TMB - URL Verification by AI Agent",
-      "status": "In Progress",
+      "status": "Ready for review",
       "status_category": "In Progress",
       "assignee": "irene callejas",
       "issuetype": "Task",
       "created": "2026-02-20",
-      "updated": "2026-02-23",
+      "updated": "2026-03-01",
       "resolutiondate": "",
       "labels": [
         "TMB"
@@ -48194,12 +48194,12 @@
     {
       "key": "PS-1070",
       "summary": "Hubtype - Maintenance",
-      "status": "In Progress",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": null,
       "issuetype": "Epic",
       "created": "2023-10-23",
-      "updated": "2025-05-12",
+      "updated": "2026-03-01",
       "resolutiondate": "",
       "labels": [
         "Hubtype"
