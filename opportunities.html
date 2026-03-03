@@ -108,29 +108,31 @@
     }
     .btn-clear:hover { border-color: var(--purple); color: var(--purple); }
 
-    /* Type toggle pills */
+    /* Type checkboxes */
     .type-filter {
       display: flex;
-      gap: 0.4rem;
+      gap: 0.75rem;
       align-items: center;
       flex-wrap: wrap;
     }
-    .type-pill {
-      padding: 0.3rem 0.75rem;
-      border-radius: 999px;
-      font-size: 0.8rem;
-      font-weight: 600;
+    .type-check {
+      display: flex;
+      align-items: center;
+      gap: 0.3rem;
       cursor: pointer;
-      border: 2px solid transparent;
-      transition: all 0.15s;
+      font-size: 0.85rem;
+      font-weight: 600;
       user-select: none;
     }
-    .type-pill.renewal    { background: #EDE9FE; color: #5B21B6; border-color: #EDE9FE; }
-    .type-pill.upsell     { background: #DBEAFE; color: #1D4ED8; border-color: #DBEAFE; }
-    .type-pill.consultancy{ background: #FEF3C7; color: #92400E; border-color: #FEF3C7; }
-    .type-pill.renewal.off    { background: white; color: var(--gray); border-color: #CBD5E1; }
-    .type-pill.upsell.off     { background: white; color: var(--gray); border-color: #CBD5E1; }
-    .type-pill.consultancy.off{ background: white; color: var(--gray); border-color: #CBD5E1; }
+    .type-check input[type="checkbox"] {
+      width: 15px; height: 15px;
+      cursor: pointer;
+      accent-color: var(--purple);
+    }
+    .type-check.renewal     { color: #5B21B6; }
+    .type-check.upsell      { color: #1D4ED8; }
+    .type-check.consultancy { color: #92400E; }
+    .type-check.off         { color: var(--gray); }
 
     /* KPI cards */
     .kpi-grid {
@@ -152,7 +154,7 @@
     .kpi.total    { border-color: var(--navy); }
     .kpi.arr      { border-color: var(--purple); }
     .kpi.winrate  { border-color: var(--blue); }
-    .kpi .value   { font-size: clamp(1.1rem, 2vw, 2rem); font-weight: 700; line-height: 1; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+    .kpi .value   { font-size: 1.7rem; font-weight: 700; line-height: 1; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
     .kpi .label   { font-size: 0.8rem; color: var(--gray); margin-top: 0.4rem; text-transform: uppercase; letter-spacing: 0.05em; }
     .kpi .sublabel{ font-size: 0.7rem; color: var(--gray); margin-top: 0.2rem; opacity: 0.7; }
 
@@ -313,9 +315,15 @@
     <div class="filters">
       <label>Type:</label>
       <div class="type-filter">
-        <span class="type-pill renewal"  data-type="Renewal"     onclick="toggleType(this)">Renewal</span>
-        <span class="type-pill upsell"   data-type="Upsell"      onclick="toggleType(this)">Upsell</span>
-        <span class="type-pill consultancy" data-type="Consultancy" onclick="toggleType(this)">Consultancy</span>
+        <label class="type-check renewal">
+          <input type="checkbox" id="chk-renewal" checked onchange="toggleType('Renewal', this)"> Renewal
+        </label>
+        <label class="type-check upsell">
+          <input type="checkbox" id="chk-upsell" checked onchange="toggleType('Upsell', this)"> Upsell
+        </label>
+        <label class="type-check consultancy">
+          <input type="checkbox" id="chk-consultancy" checked onchange="toggleType('Consultancy', this)"> Consultancy
+        </label>
       </div>
 
       <label for="filter-status">Status:</label>
@@ -516,16 +524,14 @@
   };
 
   // ---- Type toggle ----
-  function toggleType(el) {
-    const t = el.dataset.type;
-    if (activeTypes.has(t)) {
-      if (activeTypes.size === 1) return; // keep at least one
-      activeTypes.delete(t);
-      el.classList.add("off");
-    } else {
-      activeTypes.add(t);
-      el.classList.remove("off");
+  function toggleType(type, chk) {
+    if (!chk.checked && activeTypes.size === 1) {
+      // prevent deselecting the last one
+      chk.checked = true;
+      return;
     }
+    if (chk.checked) activeTypes.add(type);
+    else             activeTypes.delete(type);
     refresh();
   }
 
@@ -533,6 +539,15 @@
   function fmt(val) {
     if (val == null) return "-";
     return new Intl.NumberFormat("en-US", { style: "currency", currency: "EUR", maximumFractionDigits: 0 }).format(val);
+  }
+
+  // Abbreviated format for KPI cards (€1.8M, €450K) to avoid overflow
+  function fmtKpi(val) {
+    if (val == null) return "-";
+    const abs = Math.abs(val);
+    if (abs >= 1e6) return "€" + (val / 1e6).toFixed(1) + "M";
+    if (abs >= 1e3) return "€" + Math.round(val / 1e3) + "K";
+    return "€" + Math.round(val);
   }
 
   function granKey(dateStr) {
@@ -600,13 +615,13 @@
     const totalArr = won
       .filter(o => o.type !== "Consultancy" && o.arr != null)
       .reduce((s, o) => s + o.arr, 0);
-    document.getElementById("kpi-arr").textContent = fmt(totalArr);
+    document.getElementById("kpi-arr").textContent = fmtKpi(totalArr);
 
     const amountWon = won.reduce((s, o) => s + (o.amount || 0), 0);
-    document.getElementById("kpi-amount-won").textContent = fmt(amountWon);
+    document.getElementById("kpi-amount-won").textContent = fmtKpi(amountWon);
 
     const openPipeline = open.reduce((s, o) => s + (o.amount || 0), 0);
-    document.getElementById("kpi-open-pipeline").textContent = fmt(openPipeline);
+    document.getElementById("kpi-open-pipeline").textContent = fmtKpi(openPipeline);
 
     const closed = won.length + lost.length;
     const winRate = closed > 0 ? Math.round(won.length / closed * 100) : null;
@@ -958,7 +973,9 @@
         document.getElementById("start-custom-range").style.display = "none";
         document.getElementById("filter-search").value       = "";
         activeTypes = new Set(["Renewal", "Upsell", "Consultancy"]);
-        document.querySelectorAll(".type-pill").forEach(p => p.classList.remove("off"));
+        ["chk-renewal","chk-upsell","chk-consultancy"].forEach(id => {
+          document.getElementById(id).checked = true;
+        });
         refresh();
       });
 
