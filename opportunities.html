@@ -896,13 +896,6 @@
           el.addEventListener("input", refresh);
         });
 
-      document.getElementById("btn-refresh").addEventListener("click", () => {
-        window.open(
-          "https://github.com/customersuccesshubtype/customerexperience-dashboard/actions/workflows/fetch-sf.yml",
-          "_blank"
-        );
-      });
-
       document.getElementById("btn-clear-filters").addEventListener("click", () => {
         document.getElementById("filter-status").value       = "";
         document.getElementById("filter-account").value      = "";
@@ -924,6 +917,13 @@
       console.error(e);
     }
   }
+
+  document.getElementById("btn-refresh").addEventListener("click", () => {
+    window.open(
+      "https://github.com/customersuccesshubtype/customerexperience-dashboard/actions/workflows/fetch-sf.yml",
+      "_blank"
+    );
+  });
 
   init();
 </script>
