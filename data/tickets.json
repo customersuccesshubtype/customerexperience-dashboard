@@ -1,10 +1,62 @@
 {
-  "last_updated": "2026-03-03 07:40 UTC",
+  "last_updated": "2026-03-03 23:49 UTC",
   "tickets": [
+    {
+      "key": "PS-5141",
+      "summary": "RACC - Servicio Ahorro Energético - Query Django para detectar mensaje \"¡Hola! ¿Puedo obtener más información?\"",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Aitor Casas",
+      "issuetype": "Task",
+      "created": "2026-03-03",
+      "updated": "2026-03-03",
+      "resolutiondate": "",
+      "labels": [
+        "RACC"
+      ]
+    },
+    {
+      "key": "PS-5140",
+      "summary": "Verisure IT - Create Meta template linked to the staging phone number",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Aitor Casas",
+      "issuetype": "Task",
+      "created": "2026-03-03",
+      "updated": "2026-03-03",
+      "resolutiondate": "",
+      "labels": [
+        "Verisure_IT"
+      ]
+    },
+    {
+      "key": "PS-5139",
+      "summary": "Ralph Lauren - Change in field in Zendesk integration in production",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "palonso",
+      "issuetype": "Task",
+      "created": "2026-03-03",
+      "updated": "2026-03-03",
+      "resolutiondate": "",
+      "labels": []
+    },
+    {
+      "key": "PS-5138",
+      "summary": "Air Europa - Adjust to use the new Rating",
+      "status": "Done",
+      "status_category": "Done",
+      "assignee": "Alexander Skalatskiy",
+      "issuetype": "Task",
+      "created": "2026-03-03",
+      "updated": "2026-03-03",
+      "resolutiondate": "",
+      "labels": []
+    },
     {
       "key": "PS-5137",
       "summary": "Air Europa - Consultar Reserva - Implement suggested Fares design",
-      "status": "In Progress",
+      "status": "Ready for review",
       "status_category": "In Progress",
       "assignee": "Alexander Skalatskiy",
       "issuetype": "Task",
@@ -18,8 +70,8 @@
     {
       "key": "PS-5136",
       "summary": "Ralph Lauren - Out of Scope Intents - Fine tunning",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Ready for review",
+      "status_category": "In Progress",
       "assignee": "irene callejas",
       "issuetype": "Task",
       "created": "2026-03-03",
@@ -46,12 +98,12 @@
     {
       "key": "PS-5134",
       "summary": "RACC - Ahorro Energetico - Comportamiento extraño de algunas conversaciones a analizar",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "APPROVED FOR PRODUCTION",
+      "status_category": "Done",
       "assignee": "Adrià Sastre",
       "issuetype": "Bug",
       "created": "2026-03-02",
-      "updated": "2026-03-02",
+      "updated": "2026-03-03",
       "resolutiondate": "",
       "labels": []
     },
@@ -86,12 +138,12 @@
     {
       "key": "PS-5131",
       "summary": "Wizz Air - Delete Projects Simply Contact and CCIG",
-      "status": "In Progress",
-      "status_category": "In Progress",
-      "assignee": "Aitor Casas",
+      "status": "Done",
+      "status_category": "Done",
+      "assignee": "Julieta Mezza",
       "issuetype": "Task",
       "created": "2026-03-02",
-      "updated": "2026-03-02",
+      "updated": "2026-03-03",
       "resolutiondate": "",
       "labels": [
         "WizzAir"
@@ -128,12 +180,12 @@
     {
       "key": "PS-5128",
       "summary": "Ralph Lauren - Review customer questions from Ask Ralph",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "In Progress",
+      "status_category": "In Progress",
       "assignee": "irene callejas",
       "issuetype": "Task",
       "created": "2026-02-27",
-      "updated": "2026-02-28",
+      "updated": "2026-03-03",
       "resolutiondate": "",
       "labels": [
         "Ralph_Lauren"
@@ -142,12 +194,12 @@
     {
       "key": "PS-5127",
       "summary": "TMB - Save \"Zendesk ticket number\" in Contact info fields",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Ready to Deliver",
+      "status_category": "In Progress",
       "assignee": "Evgeni Slavyanov",
       "issuetype": "Task",
       "created": "2026-02-27",
-      "updated": "2026-03-02",
+      "updated": "2026-03-03",
       "resolutiondate": "",
       "labels": [
         "TMB"
@@ -156,12 +208,12 @@
     {
       "key": "PS-5126",
       "summary": "TMB - Update sourceChannel to \"CHATBOT\" for Zendesk tickets and send Conv ID",
-      "status": "Ready for review",
+      "status": "Ready to Deliver",
       "status_category": "In Progress",
       "assignee": "Evgeni Slavyanov",
       "issuetype": "Task",
       "created": "2026-02-27",
-      "updated": "2026-03-02",
+      "updated": "2026-03-03",
       "resolutiondate": "",
       "labels": [
         "TMB"
@@ -338,12 +390,12 @@
     {
       "key": "PS-5113",
       "summary": "Soledad - apply new design webview ",
-      "status": "Ready for review",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-02-25",
-      "updated": "2026-03-02",
+      "updated": "2026-03-03",
       "resolutiondate": "",
       "labels": [
         "Soledad"
@@ -352,12 +404,12 @@
     {
       "key": "PS-5112",
       "summary": "Ralph Lauren - Service buttons show repeatedly // Info about exchanges?",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Closed",
+      "status_category": "Done",
       "assignee": "irene callejas",
       "issuetype": "Task",
       "created": "2026-02-25",
-      "updated": "2026-02-28",
+      "updated": "2026-03-03",
       "resolutiondate": "",
       "labels": [
         "Ralph_Lauren"
@@ -366,12 +418,12 @@
     {
       "key": "PS-5111",
       "summary": "Guess - Eliminate Personal Shopper Components in Webchat",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Ready for review",
+      "status_category": "In Progress",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-02-25",
-      "updated": "2026-03-02",
+      "updated": "2026-03-03",
       "resolutiondate": "",
       "labels": [
         "Guess"
@@ -380,12 +432,12 @@
     {
       "key": "PS-5110",
       "summary": "Ralph Lauren - Move Zendesk to prod with a variable True / false",
-      "status": "Ready for review",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "palonso",
       "issuetype": "Task",
       "created": "2026-02-25",
-      "updated": "2026-03-02",
+      "updated": "2026-03-03",
       "resolutiondate": "",
       "labels": [
         "Ralph_Lauren"
@@ -422,12 +474,12 @@
     {
       "key": "PS-5107",
       "summary": "Polarier - Flow Proposal ",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Andrea Talal Haidar",
       "issuetype": "Task",
       "created": "2026-02-25",
-      "updated": "2026-02-25",
+      "updated": "2026-03-03",
       "resolutiondate": "",
       "labels": [
         "Polarier"
@@ -714,12 +766,12 @@
     {
       "key": "PS-5086",
       "summary": "Alsa - Snippet chat en página de ayuda",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "In Progress",
+      "status_category": "In Progress",
       "assignee": "María Sánchez",
       "issuetype": "Task",
       "created": "2026-02-22",
-      "updated": "2026-03-02",
+      "updated": "2026-03-03",
       "resolutiondate": "",
       "labels": [
         "Alsa"
@@ -1007,10 +1059,10 @@
       "summary": "Ralph Lauren - Create a tool that allows an agent to invoke a specific node (ex. Handoff)",
       "status": "In Progress",
       "status_category": "In Progress",
-      "assignee": "irene callejas",
+      "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-02-19",
-      "updated": "2026-02-27",
+      "updated": "2026-03-03",
       "resolutiondate": "",
       "labels": [
         "Ralph_Lauren"
@@ -1192,7 +1244,7 @@
       "assignee": "Adrià Sastre",
       "issuetype": "Task",
       "created": "2026-02-17",
-      "updated": "2026-03-02",
+      "updated": "2026-03-03",
       "resolutiondate": "",
       "labels": [
         "Generalitat-Turisme"
@@ -1481,7 +1533,7 @@
     {
       "key": "PS-5024",
       "summary": "Air Europa - Consultar Reserva - Review why AVA is not responding in the flow \"Booking -> Checkin unavailable\"",
-      "status": "Ready for review",
+      "status": "Ready to Deliver",
       "status_category": "In Progress",
       "assignee": "Alexander Skalatskiy",
       "issuetype": "Task",
@@ -1719,12 +1771,12 @@
     {
       "key": "PS-5006",
       "summary": "Soledad - Total orders API",
-      "status": "Ready for review",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-02-11",
-      "updated": "2026-02-25",
+      "updated": "2026-03-03",
       "resolutiondate": "",
       "labels": [
         "Soledad"
@@ -1808,7 +1860,7 @@
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-02-11",
-      "updated": "2026-02-16",
+      "updated": "2026-03-03",
       "resolutiondate": "",
       "labels": [
         "Soledad"
@@ -1864,7 +1916,7 @@
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-02-10",
-      "updated": "2026-02-11",
+      "updated": "2026-03-03",
       "resolutiondate": "",
       "labels": [
         "Soledad"
@@ -1971,12 +2023,12 @@
     {
       "key": "PS-4988",
       "summary": "RACC Start - Investigate the impact of including 57 additional driving schools",
-      "status": "Open",
-      "status_category": "To Do",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "María Sánchez",
       "issuetype": "Discovery Task",
       "created": "2026-02-09",
-      "updated": "2026-02-25",
+      "updated": "2026-03-03",
       "resolutiondate": "",
       "labels": [
         "RACC_START"
@@ -2032,7 +2084,7 @@
       "assignee": "Andrea Talal Haidar",
       "issuetype": "Task",
       "created": "2026-02-09",
-      "updated": "2026-02-23",
+      "updated": "2026-03-03",
       "resolutiondate": "",
       "labels": [
         "Soledad"
@@ -2041,12 +2093,12 @@
     {
       "key": "PS-4982",
       "summary": "Ralph Lauren - Limitar el acceso al bot de producción a ciertos números de teléfono ",
-      "status": "Ready for review",
-      "status_category": "In Progress",
+      "status": "In production",
+      "status_category": "Done",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-02-09",
-      "updated": "2026-03-02",
+      "updated": "2026-03-03",
       "resolutiondate": "",
       "labels": [
         "Ralph_Lauren"
@@ -2599,12 +2651,12 @@
     {
       "key": "PS-4938",
       "summary": "Allianz Partners - Save Service Data in Tinybird and Contact Info Fields",
-      "status": "In Progress",
+      "status": "Ready for review",
       "status_category": "In Progress",
       "assignee": "palonso",
       "issuetype": "Task",
       "created": "2026-02-02",
-      "updated": "2026-02-25",
+      "updated": "2026-03-03",
       "resolutiondate": "",
       "labels": [
         "AllianzPartners"
@@ -2658,7 +2710,7 @@
       "assignee": "Evgeni Slavyanov",
       "issuetype": "Task",
       "created": "2026-02-02",
-      "updated": "2026-03-02",
+      "updated": "2026-03-03",
       "resolutiondate": "",
       "labels": [
         "Tendam"
@@ -2892,12 +2944,12 @@
     {
       "key": "PS-4915",
       "summary": "Wizz Air Bot: Implementation of Teleperformance Ramp-up & Single Queue Logic",
-      "status": "Closed",
+      "status": "Done",
       "status_category": "Done",
       "assignee": "Alexander Skalatskiy",
       "issuetype": "Task",
       "created": "2026-01-27",
-      "updated": "2026-02-28",
+      "updated": "2026-03-03",
       "resolutiondate": "",
       "labels": [
         "WizzAir"
@@ -4880,7 +4932,7 @@
     {
       "key": "PS-4751",
       "summary": "Air Europa - Flight Search - Fup messages when we do not receive a positive response",
-      "status": "Ready for review",
+      "status": "Ready to Deliver",
       "status_category": "In Progress",
       "assignee": "Alexander Skalatskiy",
       "issuetype": "Task",
@@ -6337,12 +6389,12 @@
     {
       "key": "PS-4630",
       "summary": "Ralph Lauren - Feature: The AI Agent need to know when there are campaigns",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Closed",
+      "status_category": "Done",
       "assignee": "Adrià Sastre",
       "issuetype": "Task",
       "created": "2025-11-08",
-      "updated": "2026-03-02",
+      "updated": "2026-03-03",
       "resolutiondate": "",
       "labels": [
         "Ralph_Lauren"
@@ -7314,12 +7366,12 @@
     {
       "key": "PS-4554",
       "summary": "Multiasistencia - Snippets Webchat Mutuas Tinerfeña",
-      "status": "APPROVED FOR PRODUCTION",
+      "status": "Done",
       "status_category": "Done",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2025-10-21",
-      "updated": "2026-03-02",
+      "updated": "2026-03-03",
       "resolutiondate": "",
       "labels": [
         "Multiasistencia"
@@ -7382,12 +7434,12 @@
     {
       "key": "PS-4548",
       "summary": "Multiasistencia - Snippets Webchat Mutuas Madrileña",
-      "status": "APPROVED FOR PRODUCTION",
+      "status": "Done",
       "status_category": "Done",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2025-10-17",
-      "updated": "2026-03-02",
+      "updated": "2026-03-03",
       "resolutiondate": "",
       "labels": [
         "Multiasistencia"
@@ -13714,12 +13766,12 @@
     {
       "key": "PS-4022",
       "summary": "Air Europa - Consultar reserva - Complex use case",
-      "status": "In Progress",
+      "status": "Ready for review",
       "status_category": "In Progress",
       "assignee": "Alexander Skalatskiy",
       "issuetype": "Epic",
       "created": "2025-05-26",
-      "updated": "2026-01-25",
+      "updated": "2026-03-03",
       "resolutiondate": "",
       "labels": [
         "AirEuropa"
