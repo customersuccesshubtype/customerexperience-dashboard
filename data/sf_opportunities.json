@@ -1,6 +1,23 @@
 {
-  "last_updated": "2026-03-03 11:39 UTC",
+  "last_updated": "2026-03-03 12:46 UTC",
   "opportunities": [
+    {
+      "id": "006Sa00000bhFpuIAE",
+      "name": "2026-U-RACC START Autoescuelas - Expansion to 56 new driving schools",
+      "type": "Upsell",
+      "stage": "Opportunity identified",
+      "is_closed": false,
+      "is_won": false,
+      "probability": 10.0,
+      "amount": 8750.4,
+      "arr": 16531.2,
+      "owner": "María Sánchez",
+      "cs_lead": "María Sánchez",
+      "account": "RACC",
+      "created": "2026-03-03",
+      "close_date": "2026-03-31",
+      "start_date": "2026-03-03"
+    },
     {
       "id": "006Sa00000bgv6VIAQ",
       "name": "2026-C-Coches-CA(WhatsApp)-WhatsApp Templates",
@@ -233,7 +250,7 @@
       "amount": 2860.6,
       "arr": 0.0,
       "owner": "Julieta Mezza",
-      "cs_lead": "",
+      "cs_lead": "Julieta Mezza",
       "account": "JetSMART Airlines",
       "created": "2026-02-03",
       "close_date": "2026-03-10",
@@ -819,7 +836,7 @@
     },
     {
       "id": "006Sa00000XBLZDIA5",
-      "name": "2026-R-Sanitas Sanitel(WhatsApp)",
+      "name": "2026-R-Sanitas Sanitel(WhatsApp)-Annual_Renewal_After_POC",
       "type": "Renewal",
       "stage": "Opportunity identified",
       "is_closed": false,
