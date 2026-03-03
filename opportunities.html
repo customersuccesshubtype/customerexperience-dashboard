@@ -355,9 +355,19 @@
       <input type="date" id="filter-created-to" title="Created to" />
 
       <label style="margin-left:1rem">Start date:</label>
-      <input type="date" id="filter-start-from" title="Start date from" />
-      <span style="color:var(--gray);font-size:0.85rem">to</span>
-      <input type="date" id="filter-start-to" title="Start date to" />
+      <select id="filter-start-preset">
+        <option value=""    selected>All</option>
+        <option value="1m">Last month</option>
+        <option value="3m">Last 3 months</option>
+        <option value="6m">Last 6 months</option>
+        <option value="12m">Last 12 months</option>
+        <option value="custom">Custom range</option>
+      </select>
+      <span id="start-custom-range" style="display:none;align-items:center;gap:0.5rem">
+        <input type="date" id="filter-start-from" title="Start date from" />
+        <span style="color:var(--gray);font-size:0.85rem">to</span>
+        <input type="date" id="filter-start-to" title="Start date to" />
+      </span>
     </div>
 
     <!-- KPIs -->
@@ -536,6 +546,20 @@
     return dateStr.slice(0, 7);
   }
 
+  function resolveStartPreset() {
+    const preset = document.getElementById("filter-start-preset").value;
+    if (!preset || preset === "custom") {
+      return {
+        from: preset === "custom" ? document.getElementById("filter-start-from").value : "",
+        to:   preset === "custom" ? document.getElementById("filter-start-to").value   : "",
+      };
+    }
+    const months = { "1m": 1, "3m": 3, "6m": 6, "12m": 12 }[preset];
+    const d = new Date();
+    d.setMonth(d.getMonth() - months);
+    return { from: d.toISOString().slice(0, 10), to: "" };
+  }
+
   function getFilteredOpps() {
     const status       = document.getElementById("filter-status").value;
     const account      = document.getElementById("filter-account").value;
@@ -544,8 +568,7 @@
     const stage        = document.getElementById("filter-stage").value;
     const createdFrom  = document.getElementById("filter-created-from").value;
     const createdTo    = document.getElementById("filter-created-to").value;
-    const startFrom    = document.getElementById("filter-start-from").value;
-    const startTo      = document.getElementById("filter-start-to").value;
+    const { from: startFrom, to: startTo } = resolveStartPreset();
     const search       = document.getElementById("filter-search").value.toLowerCase();
 
     return allOpps.filter(o => {
@@ -556,8 +579,8 @@
       if (stage   && o.stage !== stage) return false;
       if (createdFrom && o.created < createdFrom) return false;
       if (createdTo   && o.created > createdTo)   return false;
-      if (startFrom && o.start_date < startFrom) return false;
-      if (startTo   && o.start_date > startTo)   return false;
+      if (startFrom && (o.start_date || "") < startFrom) return false;
+      if (startTo   && (o.start_date || "") > startTo)   return false;
       if (status === "open" && o.is_closed) return false;
       if (status === "won"  && !o.is_won)   return false;
       if (status === "lost" && !(o.is_closed && !o.is_won)) return false;
@@ -910,6 +933,16 @@
           el.addEventListener("input", refresh);
         });
 
+      document.getElementById("filter-start-preset").addEventListener("change", function() {
+        const customRange = document.getElementById("start-custom-range");
+        customRange.style.display = this.value === "custom" ? "flex" : "none";
+        if (this.value !== "custom") {
+          document.getElementById("filter-start-from").value = "";
+          document.getElementById("filter-start-to").value   = "";
+        }
+        refresh();
+      });
+
       document.getElementById("btn-clear-filters").addEventListener("click", () => {
         document.getElementById("filter-status").value       = "";
         document.getElementById("filter-account").value      = "";
@@ -919,8 +952,10 @@
         document.getElementById("filter-granularity").value  = "month";
         document.getElementById("filter-created-from").value = "";
         document.getElementById("filter-created-to").value   = "";
+        document.getElementById("filter-start-preset").value  = "";
         document.getElementById("filter-start-from").value   = "";
         document.getElementById("filter-start-to").value     = "";
+        document.getElementById("start-custom-range").style.display = "none";
         document.getElementById("filter-search").value       = "";
         activeTypes = new Set(["Renewal", "Upsell", "Consultancy"]);
         document.querySelectorAll(".type-pill").forEach(p => p.classList.remove("off"));
