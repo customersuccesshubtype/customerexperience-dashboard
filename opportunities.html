@@ -329,6 +329,12 @@
       <label for="filter-account">Account:</label>
       <select id="filter-account"><option value="">All</option></select>
 
+      <label for="filter-owner">Owner:</label>
+      <select id="filter-owner"><option value="">All</option></select>
+
+      <label for="filter-cs-lead">CS Lead:</label>
+      <select id="filter-cs-lead"><option value="">All</option></select>
+
       <label for="filter-stage">Stage:</label>
       <select id="filter-stage"><option value="">All</option></select>
 
@@ -440,6 +446,7 @@
               <th>ARR</th>
               <th>Account</th>
               <th>Owner</th>
+              <th>CS Lead</th>
               <th>Created</th>
               <th>Close date</th>
               <th>Start date</th>
@@ -532,6 +539,8 @@
   function getFilteredOpps() {
     const status       = document.getElementById("filter-status").value;
     const account      = document.getElementById("filter-account").value;
+    const owner        = document.getElementById("filter-owner").value;
+    const csLead       = document.getElementById("filter-cs-lead").value;
     const stage        = document.getElementById("filter-stage").value;
     const createdFrom  = document.getElementById("filter-created-from").value;
     const createdTo    = document.getElementById("filter-created-to").value;
@@ -542,6 +551,8 @@
     return allOpps.filter(o => {
       if (!activeTypes.has(o.type)) return false;
       if (account && o.account !== account) return false;
+      if (owner   && o.owner !== owner) return false;
+      if (csLead  && o.cs_lead !== csLead) return false;
       if (stage   && o.stage !== stage) return false;
       if (createdFrom && o.created < createdFrom) return false;
       if (createdTo   && o.created > createdTo)   return false;
@@ -846,6 +857,7 @@
         <td style="text-align:right">${o.type !== "Consultancy" ? fmt(o.arr) : "-"}</td>
         <td>${o.account}</td>
         <td>${o.owner}</td>
+        <td>${o.cs_lead || "-"}</td>
         <td>${o.created}</td>
         <td>${o.close_date}</td>
         <td>${o.start_date || "-"}</td>
@@ -878,8 +890,10 @@
         const sel = document.getElementById(id);
         values.forEach(v => { const o = document.createElement("option"); o.value = v; o.textContent = v; sel.appendChild(o); });
       }
-      populateSelect("filter-account", [...new Set(allOpps.map(o => o.account).filter(Boolean))].sort());
-      populateSelect("filter-stage",   [...new Set(allOpps.map(o => o.stage).filter(Boolean))].sort());
+      populateSelect("filter-account",  [...new Set(allOpps.map(o => o.account).filter(Boolean))].sort());
+      populateSelect("filter-owner",    [...new Set(allOpps.map(o => o.owner).filter(Boolean))].sort());
+      populateSelect("filter-cs-lead",  [...new Set(allOpps.map(o => o.cs_lead).filter(Boolean))].sort());
+      populateSelect("filter-stage",    [...new Set(allOpps.map(o => o.stage).filter(Boolean))].sort());
 
       document.getElementById("loading").style.display = "none";
       document.getElementById("content").style.display = "block";
@@ -887,7 +901,7 @@
       refresh();
 
       // Filter listeners
-      ["filter-status","filter-account","filter-stage","filter-granularity",
+      ["filter-status","filter-account","filter-owner","filter-cs-lead","filter-stage","filter-granularity",
        "filter-created-from","filter-created-to","filter-start-from","filter-start-to",
        "filter-search"]
         .forEach(id => {
@@ -899,6 +913,8 @@
       document.getElementById("btn-clear-filters").addEventListener("click", () => {
         document.getElementById("filter-status").value       = "";
         document.getElementById("filter-account").value      = "";
+        document.getElementById("filter-owner").value        = "";
+        document.getElementById("filter-cs-lead").value      = "";
         document.getElementById("filter-stage").value        = "";
         document.getElementById("filter-granularity").value  = "month";
         document.getElementById("filter-created-from").value = "";

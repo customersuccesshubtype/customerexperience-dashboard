@@ -111,6 +111,8 @@ def parse_opportunity(rec):
     arr_amount = rec.get("ARR_Amount__c")  # None for Consultancy
     amount     = rec.get("Amount")
 
+    cs_lead = rec.get("CS_Lead__r") or {}
+
     return {
         "id":          rec.get("Id"),
         "name":        rec.get("Name") or "",
@@ -122,6 +124,7 @@ def parse_opportunity(rec):
         "amount":      amount,
         "arr":         arr_amount,   # null for Consultancy
         "owner":       owner.get("Name") or "",
+        "cs_lead":     cs_lead.get("Name") or "",
         "account":     account.get("Name") or "",
         "created":     date_only(rec.get("CreatedDate")),
         "close_date":  date_only(rec.get("CloseDate")),
@@ -133,7 +136,7 @@ OPPORTUNITIES_SOQL = """
 SELECT
   Id, Name, Type, StageName, IsClosed, IsWon, Probability,
   Amount, ARR_Amount__c,
-  Owner.Name, Account.Name,
+  Owner.Name, Account.Name, CS_Lead__r.Name,
   CreatedDate, CloseDate, Start_date__c
 FROM Opportunity
 WHERE Type IN ('Consultancy', 'Renewal', 'Upsell')
