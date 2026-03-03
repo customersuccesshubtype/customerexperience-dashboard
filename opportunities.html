@@ -460,14 +460,14 @@
               <th>Name</th>
               <th>Type</th>
               <th>Stage</th>
+              <th>Created</th>
+              <th>Start date</th>
               <th>Amount</th>
               <th>ARR</th>
               <th>Account</th>
               <th>Owner</th>
               <th>CS Lead</th>
-              <th>Created</th>
               <th>Close date</th>
-              <th>Start date</th>
             </tr>
           </thead>
           <tbody id="opp-table-body"></tbody>
@@ -909,14 +909,14 @@
         <td><a class="opp-link" href="${SF_BASE}${o.id}/view" target="_blank">${o.name}</a></td>
         <td>${typeBadge(o.type)}</td>
         <td>${stageBadge(o)}</td>
+        <td>${o.created}</td>
+        <td>${o.start_date || "-"}</td>
         <td style="text-align:right">${fmt(o.amount)}</td>
         <td style="text-align:right">${o.type !== "Consultancy" ? fmt(o.arr) : "-"}</td>
         <td>${o.account}</td>
         <td>${o.owner}</td>
         <td>${o.cs_lead || "-"}</td>
-        <td>${o.created}</td>
         <td>${o.close_date}</td>
-        <td>${o.start_date || "-"}</td>
       </tr>
     `).join("");
   }
