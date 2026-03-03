@@ -518,9 +518,9 @@
 
   // Type colours
   const TYPE_COLORS = {
-    Renewal:     { bg: "#C4B5FD", border: "#7C3AED" },
-    Upsell:      { bg: "#BFDBFE", border: "#3B82F6" },
-    Consultancy: { bg: "#FDE68A", border: "#F59E0B" },
+    Renewal:     { bg: "#C4B5FD", bgLight: "rgba(196,181,253,0.3)", border: "#7C3AED" },
+    Upsell:      { bg: "#BFDBFE", bgLight: "rgba(191,219,254,0.3)", border: "#3B82F6" },
+    Consultancy: { bg: "#FDE68A", bgLight: "rgba(253,230,138,0.3)", border: "#F59E0B" },
   };
 
   // ---- Type toggle ----
@@ -630,50 +630,59 @@
     document.getElementById("kpi-lost").textContent = lost.length;
   }
 
-  // ---- ARR over time (by start date, Won, Renewal + Upsell stacked) ----
+  // ---- ARR over time (by start date — Won solid, Open pipeline lighter) ----
   function updateArrChart(opps) {
     const gran = document.getElementById("filter-granularity").value;
     const granLabel = { year: "Yearly", month: "Monthly", quarter: "Quarterly" }[gran] || "";
-    document.getElementById("arr-title").textContent = `ARR over time (by start date) — ${granLabel}`;
+    document.getElementById("arr-title").textContent = `ARR by start date (Won + pipeline) — ${granLabel}`;
 
     const types = ["Renewal", "Upsell"].filter(t => activeTypes.has(t));
-    const byPeriod = {}; // period -> { Renewal: 0, Upsell: 0 }
+    const byPeriod = {};
 
+    // Include Won and Open (exclude Lost — pipeline is gone)
     opps
-      .filter(o => o.is_won && o.start_date && types.includes(o.type) && o.arr != null)
+      .filter(o => o.start_date && types.includes(o.type) && o.arr != null && (!o.is_closed || o.is_won))
       .forEach(o => {
         const k = granKey(o.start_date);
         if (!k) return;
-        if (!byPeriod[k]) byPeriod[k] = { Renewal: 0, Upsell: 0 };
-        byPeriod[k][o.type] = (byPeriod[k][o.type] || 0) + o.arr;
+        if (!byPeriod[k]) byPeriod[k] = {};
+        const key = `${o.type}_${o.is_won ? "won" : "open"}`;
+        byPeriod[k][key] = (byPeriod[k][key] || 0) + o.arr;
       });
 
     const labels = Object.keys(byPeriod).sort();
 
+    // Won datasets first (bottom of stack), then Open pipeline (top, lighter)
+    const datasets = [
+      ...types.map(t => ({
+        label: `${t} — Won`,
+        data: labels.map(k => Math.round(byPeriod[k]?.[`${t}_won`] || 0)),
+        backgroundColor: TYPE_COLORS[t].bg,
+        borderColor: TYPE_COLORS[t].border,
+        borderWidth: 1,
+        stack: "main",
+      })),
+      ...types.map(t => ({
+        label: `${t} — Open`,
+        data: labels.map(k => Math.round(byPeriod[k]?.[`${t}_open`] || 0)),
+        backgroundColor: TYPE_COLORS[t].bgLight,
+        borderColor: TYPE_COLORS[t].border,
+        borderWidth: 1,
+        stack: "main",
+      })),
+    ];
+
     if (arrChartInst) arrChartInst.destroy();
     arrChartInst = new Chart(document.getElementById("arr-chart"), {
       type: "bar",
-      data: {
-        labels,
-        datasets: types.map(t => ({
-          label: t,
-          data: labels.map(k => Math.round(byPeriod[k]?.[t] || 0)),
-          backgroundColor: TYPE_COLORS[t].bg,
-          borderColor: TYPE_COLORS[t].border,
-          borderWidth: 1,
-        }))
-      },
+      data: { labels, datasets },
       options: {
         responsive: true, maintainAspectRatio: false,
         layout: { padding: { top: 24 } },
         plugins: {
           legend: { position: "top" },
           datalabels: { display: false },
-          tooltip: {
-            callbacks: {
-              label: ctx => `${ctx.dataset.label}: ${fmt(ctx.parsed.y)}`,
-            }
-          }
+          tooltip: { callbacks: { label: ctx => `${ctx.dataset.label}: ${fmt(ctx.parsed.y)}` } },
         },
         scales: {
           x: { stacked: true },
@@ -683,50 +692,59 @@
     });
   }
 
-  // ---- Amount Won over time (by close date, all active types stacked) ----
+  // ---- Amount over time (by close date, Won + Open pipeline stacked) ----
   function updateAmountChart(opps) {
     const gran = document.getElementById("filter-granularity").value;
     const granLabel = { year: "Yearly", month: "Monthly", quarter: "Quarterly" }[gran] || "";
-    document.getElementById("amount-title").textContent = `Amount Won over time (by close date) — ${granLabel}`;
+    document.getElementById("amount-title").textContent = `Amount by close date (Won + pipeline) — ${granLabel}`;
 
     const types = ["Renewal", "Upsell", "Consultancy"].filter(t => activeTypes.has(t));
     const byPeriod = {};
 
+    // Include Won and Open (exclude Lost/Closed-Lost)
     opps
-      .filter(o => o.is_won && o.close_date && o.amount != null)
+      .filter(o => o.close_date && o.amount != null && types.includes(o.type) && (!o.is_closed || o.is_won))
       .forEach(o => {
         const k = granKey(o.close_date);
         if (!k) return;
         if (!byPeriod[k]) byPeriod[k] = {};
-        byPeriod[k][o.type] = (byPeriod[k][o.type] || 0) + o.amount;
+        const key = `${o.type}_${o.is_won ? "won" : "open"}`;
+        byPeriod[k][key] = (byPeriod[k][key] || 0) + o.amount;
       });
 
     const labels = Object.keys(byPeriod).sort();
 
+    // Won datasets first (bottom of stack), then Open pipeline (top, lighter)
+    const datasets = [
+      ...types.map(t => ({
+        label: `${t} — Won`,
+        data: labels.map(k => Math.round(byPeriod[k]?.[`${t}_won`] || 0)),
+        backgroundColor: TYPE_COLORS[t].bg,
+        borderColor: TYPE_COLORS[t].border,
+        borderWidth: 1,
+        stack: "main",
+      })),
+      ...types.map(t => ({
+        label: `${t} — Open`,
+        data: labels.map(k => Math.round(byPeriod[k]?.[`${t}_open`] || 0)),
+        backgroundColor: TYPE_COLORS[t].bgLight,
+        borderColor: TYPE_COLORS[t].border,
+        borderWidth: 1,
+        stack: "main",
+      })),
+    ];
+
     if (amountChartInst) amountChartInst.destroy();
     amountChartInst = new Chart(document.getElementById("amount-chart"), {
       type: "bar",
-      data: {
-        labels,
-        datasets: types.map(t => ({
-          label: t,
-          data: labels.map(k => Math.round(byPeriod[k]?.[t] || 0)),
-          backgroundColor: TYPE_COLORS[t].bg,
-          borderColor: TYPE_COLORS[t].border,
-          borderWidth: 1,
-        }))
-      },
+      data: { labels, datasets },
       options: {
         responsive: true, maintainAspectRatio: false,
         layout: { padding: { top: 24 } },
         plugins: {
           legend: { position: "top" },
           datalabels: { display: false },
-          tooltip: {
-            callbacks: {
-              label: ctx => `${ctx.dataset.label}: ${fmt(ctx.parsed.y)}`,
-            }
-          }
+          tooltip: { callbacks: { label: ctx => `${ctx.dataset.label}: ${fmt(ctx.parsed.y)}` } },
         },
         scales: {
           x: { stacked: true },
