@@ -1,5 +1,5 @@
 """
-Fetches Salesforce Cases and saves a daily snapshot to data/sf_cases.json.
+Fetches Salesforce Cases and Opportunities, saves daily snapshots to data/.
 Authentication: OAuth 2.0 Client Credentials flow (no username/password needed).
 
 Required environment variables (set as GitHub Secrets):
@@ -34,7 +34,7 @@ def authenticate():
     return token_data["access_token"], token_data["instance_url"]
 
 
-def query(access_token, instance_url, soql):
+def query(access_token, instance_url, soql, label="records"):
     headers = {"Authorization": f"Bearer {access_token}", "Accept": "application/json"}
     records = []
     url = f"{instance_url}/services/data/v59.0/query"
@@ -44,7 +44,7 @@ def query(access_token, instance_url, soql):
         resp.raise_for_status()
         data = resp.json()
         records.extend(data.get("records", []))
-        print(f"  Fetched {len(records)} / {data.get('totalSize', '?')} cases...")
+        print(f"  Fetched {len(records)} / {data.get('totalSize', '?')} {label}...")
         next_url = data.get("nextRecordsUrl")
         if not next_url:
             break
@@ -52,6 +52,8 @@ def query(access_token, instance_url, soql):
         params = {}
     return records
 
+
+# ---- Cases ----------------------------------------------------------------
 
 def parse_case(rec):
     def date_only(val):
@@ -84,7 +86,7 @@ def parse_case(rec):
     }
 
 
-SOQL = """
+CASES_SOQL = """
 SELECT
   Id, CaseNumber, Subject, Status, Priority, IsClosed, IsEscalated,
   Owner.Name, Account.Name, Origin, Type,
@@ -96,6 +98,51 @@ ORDER BY CreatedDate DESC
 """.strip()
 
 
+# ---- Opportunities --------------------------------------------------------
+
+def parse_opportunity(rec):
+    def date_only(val):
+        return (val or "")[:10]
+
+    owner   = rec.get("Owner")   or {}
+    account = rec.get("Account") or {}
+
+    opp_type = rec.get("Type") or ""
+    arr_amount = rec.get("ARR_Amount__c")  # None for Consultancy
+    amount     = rec.get("Amount")
+
+    return {
+        "id":          rec.get("Id"),
+        "name":        rec.get("Name") or "",
+        "type":        opp_type,
+        "stage":       rec.get("StageName") or "",
+        "is_closed":   rec.get("IsClosed", False),
+        "is_won":      rec.get("IsWon", False),
+        "probability": rec.get("Probability"),
+        "amount":      amount,
+        "arr":         arr_amount,   # null for Consultancy
+        "owner":       owner.get("Name") or "",
+        "account":     account.get("Name") or "",
+        "created":     date_only(rec.get("CreatedDate")),
+        "close_date":  date_only(rec.get("CloseDate")),
+        "start_date":  date_only(rec.get("Start_date__c")),
+    }
+
+
+OPPORTUNITIES_SOQL = """
+SELECT
+  Id, Name, Type, StageName, IsClosed, IsWon, Probability,
+  Amount, ARR_Amount__c,
+  Owner.Name, Account.Name,
+  CreatedDate, CloseDate, Start_date__c
+FROM Opportunity
+WHERE Type IN ('Consultancy', 'Renewal', 'Upsell')
+ORDER BY CreatedDate DESC
+""".strip()
+
+
+# ---- Main ----------------------------------------------------------------
+
 def main():
     now = datetime.now(timezone.utc)
     last_updated = now.strftime("%Y-%m-%d %H:%M UTC")
@@ -104,19 +151,24 @@ def main():
     access_token, instance_url = authenticate()
 
     print("Fetching Cases...")
-    raw_records = query(access_token, instance_url, SOQL)
-    cases = [parse_case(r) for r in raw_records]
+    raw_cases = query(access_token, instance_url, CASES_SOQL, label="cases")
+    cases = [parse_case(r) for r in raw_cases]
     print(f"Total cases parsed: {len(cases)}")
 
-    output = {
-        "last_updated": last_updated,
-        "cases": cases,
-    }
+    out_cases = DATA_DIR / "sf_cases.json"
+    with open(out_cases, "w") as f:
+        json.dump({"last_updated": last_updated, "cases": cases}, f, indent=2, ensure_ascii=False)
+    print(f"Saved {len(cases)} cases to {out_cases}")
 
-    out_path = DATA_DIR / "sf_cases.json"
-    with open(out_path, "w") as f:
-        json.dump(output, f, indent=2, ensure_ascii=False)
-    print(f"Saved {len(cases)} cases to {out_path}")
+    print("Fetching Opportunities...")
+    raw_opps = query(access_token, instance_url, OPPORTUNITIES_SOQL, label="opportunities")
+    opps = [parse_opportunity(r) for r in raw_opps]
+    print(f"Total opportunities parsed: {len(opps)}")
+
+    out_opps = DATA_DIR / "sf_opportunities.json"
+    with open(out_opps, "w") as f:
+        json.dump({"last_updated": last_updated, "opportunities": opps}, f, indent=2, ensure_ascii=False)
+    print(f"Saved {len(opps)} opportunities to {out_opps}")
 
 
 if __name__ == "__main__":

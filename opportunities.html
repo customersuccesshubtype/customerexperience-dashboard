@@ -1,0 +1,931 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>CE Dashboard — Opportunities</title>
+  <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.2/dist/chart.umd.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/chartjs-plugin-datalabels@2.2.0/dist/chartjs-plugin-datalabels.min.js"></script>
+  <style>
+    :root {
+      --navy:         #0F172A;
+      --purple:       #7C3AED;
+      --purple-light: #EDE9FE;
+      --green:        #10B981;
+      --amber:        #F59E0B;
+      --red:          #EF4444;
+      --blue:         #3B82F6;
+      --gray:         #64748B;
+      --bg:           #F8FAFC;
+      --card:         #FFFFFF;
+      --renewal:      #7C3AED;
+      --upsell:       #3B82F6;
+      --consultancy:  #F59E0B;
+    }
+
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+
+    body {
+      font-family: Calibri, 'Segoe UI', sans-serif;
+      background: var(--bg);
+      color: var(--navy);
+      min-height: 100vh;
+    }
+
+    header {
+      background: var(--navy);
+      color: white;
+      padding: 1.25rem 2rem;
+      display: flex;
+      align-items: center;
+      gap: 1rem;
+    }
+    header h1 { font-size: 1.4rem; font-weight: 600; letter-spacing: 0.01em; }
+    header .subtitle { font-size: 0.85rem; opacity: 0.6; margin-left: auto; }
+    .btn-refresh {
+      display: flex; align-items: center; gap: 0.4rem;
+      background: rgba(255,255,255,0.08); border: 1px solid rgba(255,255,255,0.18);
+      color: white; border-radius: 6px; padding: 0.35rem 0.75rem;
+      font-size: 0.78rem; font-weight: 500; cursor: pointer; white-space: nowrap;
+    }
+    .btn-refresh:hover { background: rgba(255,255,255,0.12); }
+    .btn-refresh svg { flex-shrink: 0; }
+
+    nav {
+      background: var(--navy);
+      border-top: 1px solid rgba(255,255,255,0.08);
+      display: flex;
+      gap: 0;
+      padding: 0 2rem;
+    }
+    nav a {
+      color: rgba(255,255,255,0.6);
+      text-decoration: none;
+      font-size: 0.85rem;
+      padding: 0.6rem 1rem;
+      border-bottom: 2px solid transparent;
+      transition: all 0.15s;
+    }
+    nav a:hover { color: white; }
+    nav a.active { color: white; border-bottom-color: var(--purple); font-weight: 600; }
+
+    .purple-bar { height: 4px; background: var(--purple); }
+
+    main { max-width: 1200px; margin: 0 auto; padding: 2rem 1.5rem; }
+
+    /* Filters */
+    .filters {
+      display: flex;
+      gap: 1rem;
+      flex-wrap: wrap;
+      margin-bottom: 2rem;
+      align-items: center;
+    }
+    .filters label { font-size: 0.85rem; color: var(--gray); font-weight: 600; }
+    .filters select, .filters input {
+      padding: 0.45rem 0.75rem;
+      border: 1px solid #CBD5E1;
+      border-radius: 6px;
+      font-size: 0.9rem;
+      background: white;
+      color: var(--navy);
+      cursor: pointer;
+    }
+    .filters select:focus, .filters input:focus {
+      outline: 2px solid var(--purple);
+      outline-offset: 1px;
+    }
+    .btn-clear {
+      padding: 0.45rem 0.9rem;
+      border: 1px solid #CBD5E1;
+      border-radius: 6px;
+      font-size: 0.85rem;
+      background: white;
+      color: var(--gray);
+      cursor: pointer;
+      font-family: inherit;
+      margin-left: auto;
+    }
+    .btn-clear:hover { border-color: var(--purple); color: var(--purple); }
+
+    /* Type toggle pills */
+    .type-filter {
+      display: flex;
+      gap: 0.4rem;
+      align-items: center;
+      flex-wrap: wrap;
+    }
+    .type-pill {
+      padding: 0.3rem 0.75rem;
+      border-radius: 999px;
+      font-size: 0.8rem;
+      font-weight: 600;
+      cursor: pointer;
+      border: 2px solid transparent;
+      transition: all 0.15s;
+      user-select: none;
+    }
+    .type-pill.renewal    { background: #EDE9FE; color: #5B21B6; border-color: #EDE9FE; }
+    .type-pill.upsell     { background: #DBEAFE; color: #1D4ED8; border-color: #DBEAFE; }
+    .type-pill.consultancy{ background: #FEF3C7; color: #92400E; border-color: #FEF3C7; }
+    .type-pill.renewal.off    { background: white; color: var(--gray); border-color: #CBD5E1; }
+    .type-pill.upsell.off     { background: white; color: var(--gray); border-color: #CBD5E1; }
+    .type-pill.consultancy.off{ background: white; color: var(--gray); border-color: #CBD5E1; }
+
+    /* KPI cards */
+    .kpi-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(160px, 1fr));
+      gap: 1rem;
+      margin-bottom: 2rem;
+    }
+    .kpi {
+      background: var(--card);
+      border-radius: 10px;
+      padding: 1.25rem 1.5rem;
+      box-shadow: 0 1px 4px rgba(0,0,0,0.07);
+      border-left: 4px solid var(--purple);
+    }
+    .kpi.won      { border-color: var(--green); }
+    .kpi.open     { border-color: var(--amber); }
+    .kpi.lost     { border-color: var(--red); }
+    .kpi.total    { border-color: var(--navy); }
+    .kpi.arr      { border-color: var(--purple); }
+    .kpi.winrate  { border-color: var(--blue); }
+    .kpi .value   { font-size: 2rem; font-weight: 700; line-height: 1; }
+    .kpi .label   { font-size: 0.8rem; color: var(--gray); margin-top: 0.4rem; text-transform: uppercase; letter-spacing: 0.05em; }
+    .kpi .sublabel{ font-size: 0.7rem; color: var(--gray); margin-top: 0.2rem; opacity: 0.7; }
+
+    /* Chart grid */
+    .chart-grid {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 1.5rem;
+      margin-bottom: 2rem;
+    }
+    @media (max-width: 768px) { .chart-grid { grid-template-columns: 1fr; } }
+
+    .card {
+      background: var(--card);
+      border-radius: 10px;
+      padding: 1.5rem;
+      box-shadow: 0 1px 4px rgba(0,0,0,0.07);
+    }
+    .card h2 {
+      font-size: 0.95rem;
+      font-weight: 700;
+      margin-bottom: 1.25rem;
+      color: var(--navy);
+      text-transform: uppercase;
+      letter-spacing: 0.04em;
+    }
+    .card.full { grid-column: 1 / -1; }
+    .chart-wrap { position: relative; height: 260px; }
+
+    /* Table */
+    .table-wrap { overflow-x: auto; }
+    table { width: 100%; border-collapse: collapse; font-size: 0.85rem; }
+    thead th {
+      text-align: left; padding: 0.6rem 0.75rem;
+      background: #F1F5F9; color: var(--gray);
+      font-weight: 700; text-transform: uppercase;
+      font-size: 0.75rem; letter-spacing: 0.04em;
+    }
+    tbody tr { border-bottom: 1px solid #F1F5F9; }
+    tbody tr:hover { background: #FAFAFA; }
+    tbody td { padding: 0.65rem 0.75rem; color: var(--navy); }
+
+    .stage-badge {
+      display: inline-block;
+      padding: 0.2rem 0.55rem;
+      border-radius: 999px;
+      font-size: 0.72rem;
+      font-weight: 700;
+      text-transform: uppercase;
+      letter-spacing: 0.04em;
+    }
+    .badge-won    { background: #D1FAE5; color: #065F46; }
+    .badge-lost   { background: #FEE2E2; color: #991B1B; }
+    .badge-open   { background: #FEF3C7; color: #92400E; }
+
+    .type-badge {
+      display: inline-block;
+      padding: 0.2rem 0.55rem;
+      border-radius: 999px;
+      font-size: 0.72rem;
+      font-weight: 700;
+    }
+    .type-renewal     { background: #EDE9FE; color: #5B21B6; }
+    .type-upsell      { background: #DBEAFE; color: #1D4ED8; }
+    .type-consultancy { background: #FEF3C7; color: #92400E; }
+
+    .opp-link { color: var(--purple); text-decoration: none; font-weight: 600; }
+    .opp-link:hover { text-decoration: underline; }
+
+    #loading { text-align: center; padding: 4rem; color: var(--gray); font-size: 1.1rem; }
+    #error   { display: none; text-align: center; padding: 4rem; color: var(--red); }
+
+    #auth-overlay {
+      position: fixed; inset: 0;
+      background: var(--navy);
+      display: flex; flex-direction: column;
+      align-items: center; justify-content: center;
+      z-index: 9999; gap: 1.5rem;
+    }
+    #auth-overlay h2 { color: white; font-size: 1.3rem; font-weight: 600; letter-spacing: 0.02em; }
+    #auth-box {
+      display: flex; flex-direction: column; align-items: center; gap: 0.75rem;
+      background: rgba(255,255,255,0.05);
+      border: 1px solid rgba(255,255,255,0.1);
+      border-radius: 12px; padding: 2rem 2.5rem;
+    }
+    #auth-input {
+      padding: 0.6rem 1rem; border-radius: 6px;
+      border: 1px solid rgba(255,255,255,0.2);
+      background: rgba(255,255,255,0.08);
+      color: white; font-size: 1rem; font-family: inherit;
+      width: 220px; text-align: center; letter-spacing: 0.1em;
+    }
+    #auth-input::placeholder { color: rgba(255,255,255,0.35); letter-spacing: normal; }
+    #auth-input:focus { outline: 2px solid var(--purple); border-color: transparent; }
+    #auth-btn {
+      padding: 0.55rem 2rem; background: var(--purple); color: white;
+      border: none; border-radius: 6px; font-size: 0.95rem;
+      font-family: inherit; font-weight: 600; cursor: pointer; width: 100%;
+    }
+    #auth-btn:hover { background: #6D28D9; }
+    #auth-error { color: #FCA5A5; font-size: 0.85rem; display: none; }
+    @keyframes shake {
+      0%,100% { transform: translateX(0); }
+      20%,60%  { transform: translateX(-6px); }
+      40%,80%  { transform: translateX(6px); }
+    }
+    .shake { animation: shake 0.4s ease; }
+  </style>
+</head>
+<body>
+
+<div id="auth-overlay">
+  <svg width="40" height="40" viewBox="0 0 32 32" fill="none">
+    <rect width="32" height="32" rx="8" fill="#7C3AED"/>
+    <path d="M8 22L16 10L24 22" stroke="white" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle cx="16" cy="10" r="2" fill="white"/>
+  </svg>
+  <h2>CE Dashboard</h2>
+  <div id="auth-box">
+    <input id="auth-input" type="password" placeholder="Password" autocomplete="current-password" />
+    <button id="auth-btn">Enter</button>
+    <span id="auth-error">Incorrect password. Try again.</span>
+  </div>
+</div>
+
+<header>
+  <svg width="28" height="28" viewBox="0 0 32 32" fill="none">
+    <rect width="32" height="32" rx="8" fill="#7C3AED"/>
+    <path d="M8 22L16 10L24 22" stroke="white" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle cx="16" cy="10" r="2" fill="white"/>
+  </svg>
+  <h1>CE Dashboard</h1>
+  <span class="subtitle" id="last-updated">Loading...</span>
+  <button class="btn-refresh" id="btn-refresh" title="Open GitHub Actions to trigger a data refresh">
+    <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
+      <polyline points="23 4 23 10 17 10"/><polyline points="1 20 1 14 7 14"/>
+      <path d="M3.51 9a9 9 0 0 1 14.13-3.36L23 10M1 14l5.36 4.36A9 9 0 0 0 20.49 15"/>
+    </svg>
+    Refresh data
+  </button>
+</header>
+
+<nav>
+  <a href="index.html">Jira</a>
+  <a href="salesforce.html">Salesforce</a>
+  <a href="opportunities.html" class="active">Opportunities</a>
+</nav>
+
+<div class="purple-bar"></div>
+
+<main>
+  <div id="loading">Loading Opportunities data...</div>
+  <div id="error">Could not load Opportunities data. Run the GitHub Action first to generate data/sf_opportunities.json.</div>
+
+  <div id="content" style="display:none">
+
+    <div class="filters">
+      <label>Type:</label>
+      <div class="type-filter">
+        <span class="type-pill renewal"  data-type="Renewal"     onclick="toggleType(this)">Renewal</span>
+        <span class="type-pill upsell"   data-type="Upsell"      onclick="toggleType(this)">Upsell</span>
+        <span class="type-pill consultancy" data-type="Consultancy" onclick="toggleType(this)">Consultancy</span>
+      </div>
+
+      <label for="filter-status">Status:</label>
+      <select id="filter-status">
+        <option value="">All</option>
+        <option value="open">Open</option>
+        <option value="won">Won</option>
+        <option value="lost">Lost</option>
+      </select>
+
+      <label for="filter-account">Account:</label>
+      <select id="filter-account"><option value="">All</option></select>
+
+      <label for="filter-stage">Stage:</label>
+      <select id="filter-stage"><option value="">All</option></select>
+
+      <label for="filter-granularity">Granularity:</label>
+      <select id="filter-granularity">
+        <option value="year">Yearly</option>
+        <option value="month" selected>Monthly</option>
+        <option value="quarter">Quarterly</option>
+      </select>
+
+      <button class="btn-clear" id="btn-clear-filters">Clear filters</button>
+    </div>
+
+    <div class="filters" style="margin-top:-1rem">
+      <label>Created:</label>
+      <input type="date" id="filter-created-from" title="Created from" />
+      <span style="color:var(--gray);font-size:0.85rem">to</span>
+      <input type="date" id="filter-created-to" title="Created to" />
+
+      <label style="margin-left:1rem">Start date:</label>
+      <input type="date" id="filter-start-from" title="Start date from" />
+      <span style="color:var(--gray);font-size:0.85rem">to</span>
+      <input type="date" id="filter-start-to" title="Start date to" />
+    </div>
+
+    <!-- KPIs -->
+    <div class="kpi-grid">
+      <div class="kpi total">
+        <div class="value" id="kpi-total">-</div>
+        <div class="label">Total</div>
+      </div>
+      <div class="kpi arr">
+        <div class="value" id="kpi-arr">-</div>
+        <div class="label">Total ARR</div>
+        <div class="sublabel">Renewal + Upsell · Won</div>
+      </div>
+      <div class="kpi won">
+        <div class="value" id="kpi-amount-won">-</div>
+        <div class="label">Amount Won</div>
+        <div class="sublabel">all types</div>
+      </div>
+      <div class="kpi open">
+        <div class="value" id="kpi-open-pipeline">-</div>
+        <div class="label">Open pipeline</div>
+        <div class="sublabel">Amount · not closed</div>
+      </div>
+      <div class="kpi winrate">
+        <div class="value" id="kpi-win-rate">-</div>
+        <div class="label">Win rate</div>
+        <div class="sublabel">Won / (Won + Lost)</div>
+      </div>
+      <div class="kpi lost">
+        <div class="value" id="kpi-lost">-</div>
+        <div class="label">Lost</div>
+      </div>
+    </div>
+
+    <div class="chart-grid">
+
+      <!-- ARR over time by start date -->
+      <div class="card full">
+        <h2 id="arr-title">ARR over time (by start date)</h2>
+        <div class="chart-wrap"><canvas id="arr-chart"></canvas></div>
+      </div>
+
+      <!-- Amount Won over time by close date -->
+      <div class="card full">
+        <h2 id="amount-title">Amount Won over time (by close date)</h2>
+        <div class="chart-wrap"><canvas id="amount-chart"></canvas></div>
+      </div>
+
+      <!-- Amount by account -->
+      <div class="card full">
+        <h2>Amount by account</h2>
+        <div style="max-height:400px;overflow-y:auto;overflow-x:hidden;border-radius:6px;">
+          <div class="chart-wrap" id="account-chart-wrap"><canvas id="account-chart"></canvas></div>
+        </div>
+      </div>
+
+      <!-- By stage -->
+      <div class="card">
+        <h2>Opportunities by stage</h2>
+        <div class="chart-wrap"><canvas id="stage-chart"></canvas></div>
+      </div>
+
+      <!-- Won vs Lost -->
+      <div class="card">
+        <h2>Won vs Lost</h2>
+        <div class="chart-wrap"><canvas id="wonlost-chart"></canvas></div>
+      </div>
+
+    </div>
+
+    <!-- Opportunities table -->
+    <div class="card full" style="margin-bottom:2rem">
+      <h2>Opportunity list</h2>
+      <div class="filters" style="margin-bottom:1rem">
+        <label for="filter-search">Search:</label>
+        <input type="text" id="filter-search" placeholder="Name or account..." style="min-width:200px" />
+      </div>
+      <div class="table-wrap">
+        <table>
+          <thead>
+            <tr>
+              <th>Name</th>
+              <th>Type</th>
+              <th>Stage</th>
+              <th>Amount</th>
+              <th>ARR</th>
+              <th>Account</th>
+              <th>Owner</th>
+              <th>Created</th>
+              <th>Close date</th>
+              <th>Start date</th>
+            </tr>
+          </thead>
+          <tbody id="opp-table-body"></tbody>
+        </table>
+      </div>
+    </div>
+
+  </div>
+</main>
+
+<script>
+  // Auth
+  (function() {
+    const PASSWORD = "goku";
+    const KEY = "dash_auth";
+    if (sessionStorage.getItem(KEY) === "1") {
+      document.getElementById("auth-overlay").style.display = "none";
+      return;
+    }
+    function attempt() {
+      const val = document.getElementById("auth-input").value;
+      if (val.toLowerCase() === PASSWORD) {
+        sessionStorage.setItem(KEY, "1");
+        document.getElementById("auth-overlay").style.display = "none";
+      } else {
+        const box = document.getElementById("auth-box");
+        const err = document.getElementById("auth-error");
+        err.style.display = "block";
+        box.classList.remove("shake");
+        void box.offsetWidth;
+        box.classList.add("shake");
+        document.getElementById("auth-input").value = "";
+      }
+    }
+    document.getElementById("auth-btn").addEventListener("click", attempt);
+    document.getElementById("auth-input").addEventListener("keydown", e => {
+      if (e.key === "Enter") attempt();
+    });
+  })();
+
+  const SF_BASE = "https://hubtype.lightning.force.com/lightning/r/Opportunity/";
+  Chart.register(ChartDataLabels);
+
+  let allOpps = [];
+  let activeTypes = new Set(["Renewal", "Upsell", "Consultancy"]);
+
+  let arrChartInst, amountChartInst, accountChartInst, stageChartInst, wonlostChartInst;
+
+  // Type colours
+  const TYPE_COLORS = {
+    Renewal:     { bg: "#C4B5FD", border: "#7C3AED" },
+    Upsell:      { bg: "#BFDBFE", border: "#3B82F6" },
+    Consultancy: { bg: "#FDE68A", border: "#F59E0B" },
+  };
+
+  // ---- Type toggle ----
+  function toggleType(el) {
+    const t = el.dataset.type;
+    if (activeTypes.has(t)) {
+      if (activeTypes.size === 1) return; // keep at least one
+      activeTypes.delete(t);
+      el.classList.add("off");
+    } else {
+      activeTypes.add(t);
+      el.classList.remove("off");
+    }
+    refresh();
+  }
+
+  // ---- Helpers ----
+  function fmt(val) {
+    if (val == null) return "-";
+    return new Intl.NumberFormat("en-US", { style: "currency", currency: "EUR", maximumFractionDigits: 0 }).format(val);
+  }
+
+  function granKey(dateStr) {
+    if (!dateStr) return null;
+    const g = document.getElementById("filter-granularity").value;
+    if (g === "year")    return dateStr.slice(0, 4);
+    if (g === "quarter") {
+      const m = parseInt(dateStr.slice(5, 7));
+      return dateStr.slice(0, 4) + "-Q" + Math.ceil(m / 3);
+    }
+    return dateStr.slice(0, 7);
+  }
+
+  function getFilteredOpps() {
+    const status       = document.getElementById("filter-status").value;
+    const account      = document.getElementById("filter-account").value;
+    const stage        = document.getElementById("filter-stage").value;
+    const createdFrom  = document.getElementById("filter-created-from").value;
+    const createdTo    = document.getElementById("filter-created-to").value;
+    const startFrom    = document.getElementById("filter-start-from").value;
+    const startTo      = document.getElementById("filter-start-to").value;
+    const search       = document.getElementById("filter-search").value.toLowerCase();
+
+    return allOpps.filter(o => {
+      if (!activeTypes.has(o.type)) return false;
+      if (account && o.account !== account) return false;
+      if (stage   && o.stage !== stage) return false;
+      if (createdFrom && o.created < createdFrom) return false;
+      if (createdTo   && o.created > createdTo)   return false;
+      if (startFrom && o.start_date < startFrom) return false;
+      if (startTo   && o.start_date > startTo)   return false;
+      if (status === "open" && o.is_closed) return false;
+      if (status === "won"  && !o.is_won)   return false;
+      if (status === "lost" && !(o.is_closed && !o.is_won)) return false;
+      if (search && !o.name.toLowerCase().includes(search) && !o.account.toLowerCase().includes(search)) return false;
+      return true;
+    });
+  }
+
+  // ---- KPIs ----
+  function updateKPIs(opps) {
+    document.getElementById("kpi-total").textContent = opps.length;
+
+    const won  = opps.filter(o => o.is_won);
+    const lost = opps.filter(o => o.is_closed && !o.is_won);
+    const open = opps.filter(o => !o.is_closed);
+
+    const totalArr = won
+      .filter(o => o.type !== "Consultancy" && o.arr != null)
+      .reduce((s, o) => s + o.arr, 0);
+    document.getElementById("kpi-arr").textContent = fmt(totalArr);
+
+    const amountWon = won.reduce((s, o) => s + (o.amount || 0), 0);
+    document.getElementById("kpi-amount-won").textContent = fmt(amountWon);
+
+    const openPipeline = open.reduce((s, o) => s + (o.amount || 0), 0);
+    document.getElementById("kpi-open-pipeline").textContent = fmt(openPipeline);
+
+    const closed = won.length + lost.length;
+    const winRate = closed > 0 ? Math.round(won.length / closed * 100) : null;
+    document.getElementById("kpi-win-rate").textContent = winRate !== null ? winRate + "%" : "-";
+
+    document.getElementById("kpi-lost").textContent = lost.length;
+  }
+
+  // ---- ARR over time (by start date, Won, Renewal + Upsell stacked) ----
+  function updateArrChart(opps) {
+    const gran = document.getElementById("filter-granularity").value;
+    const granLabel = { year: "Yearly", month: "Monthly", quarter: "Quarterly" }[gran] || "";
+    document.getElementById("arr-title").textContent = `ARR over time (by start date) — ${granLabel}`;
+
+    const types = ["Renewal", "Upsell"].filter(t => activeTypes.has(t));
+    const byPeriod = {}; // period -> { Renewal: 0, Upsell: 0 }
+
+    opps
+      .filter(o => o.is_won && o.start_date && types.includes(o.type) && o.arr != null)
+      .forEach(o => {
+        const k = granKey(o.start_date);
+        if (!k) return;
+        if (!byPeriod[k]) byPeriod[k] = { Renewal: 0, Upsell: 0 };
+        byPeriod[k][o.type] = (byPeriod[k][o.type] || 0) + o.arr;
+      });
+
+    const labels = Object.keys(byPeriod).sort();
+
+    if (arrChartInst) arrChartInst.destroy();
+    arrChartInst = new Chart(document.getElementById("arr-chart"), {
+      type: "bar",
+      data: {
+        labels,
+        datasets: types.map(t => ({
+          label: t,
+          data: labels.map(k => Math.round(byPeriod[k]?.[t] || 0)),
+          backgroundColor: TYPE_COLORS[t].bg,
+          borderColor: TYPE_COLORS[t].border,
+          borderWidth: 1,
+        }))
+      },
+      options: {
+        responsive: true, maintainAspectRatio: false,
+        layout: { padding: { top: 24 } },
+        plugins: {
+          legend: { position: "top" },
+          datalabels: { display: false },
+          tooltip: {
+            callbacks: {
+              label: ctx => `${ctx.dataset.label}: ${fmt(ctx.parsed.y)}`,
+            }
+          }
+        },
+        scales: {
+          x: { stacked: true },
+          y: { stacked: true, beginAtZero: true, ticks: { callback: v => fmt(v) } },
+        },
+      },
+    });
+  }
+
+  // ---- Amount Won over time (by close date, all active types stacked) ----
+  function updateAmountChart(opps) {
+    const gran = document.getElementById("filter-granularity").value;
+    const granLabel = { year: "Yearly", month: "Monthly", quarter: "Quarterly" }[gran] || "";
+    document.getElementById("amount-title").textContent = `Amount Won over time (by close date) — ${granLabel}`;
+
+    const types = ["Renewal", "Upsell", "Consultancy"].filter(t => activeTypes.has(t));
+    const byPeriod = {};
+
+    opps
+      .filter(o => o.is_won && o.close_date && o.amount != null)
+      .forEach(o => {
+        const k = granKey(o.close_date);
+        if (!k) return;
+        if (!byPeriod[k]) byPeriod[k] = {};
+        byPeriod[k][o.type] = (byPeriod[k][o.type] || 0) + o.amount;
+      });
+
+    const labels = Object.keys(byPeriod).sort();
+
+    if (amountChartInst) amountChartInst.destroy();
+    amountChartInst = new Chart(document.getElementById("amount-chart"), {
+      type: "bar",
+      data: {
+        labels,
+        datasets: types.map(t => ({
+          label: t,
+          data: labels.map(k => Math.round(byPeriod[k]?.[t] || 0)),
+          backgroundColor: TYPE_COLORS[t].bg,
+          borderColor: TYPE_COLORS[t].border,
+          borderWidth: 1,
+        }))
+      },
+      options: {
+        responsive: true, maintainAspectRatio: false,
+        layout: { padding: { top: 24 } },
+        plugins: {
+          legend: { position: "top" },
+          datalabels: { display: false },
+          tooltip: {
+            callbacks: {
+              label: ctx => `${ctx.dataset.label}: ${fmt(ctx.parsed.y)}`,
+            }
+          }
+        },
+        scales: {
+          x: { stacked: true },
+          y: { stacked: true, beginAtZero: true, ticks: { callback: v => fmt(v) } },
+        },
+      },
+    });
+  }
+
+  // ---- Amount by account (horizontal stacked bar, sorted by total) ----
+  function updateAccountChart(opps) {
+    const byAccount = {};
+    opps.forEach(o => {
+      const acc = o.account || "Unknown";
+      if (!byAccount[acc]) byAccount[acc] = { Renewal: 0, Upsell: 0, Consultancy: 0 };
+      byAccount[acc][o.type] = (byAccount[acc][o.type] || 0) + (o.amount || 0);
+    });
+
+    const types = ["Renewal", "Upsell", "Consultancy"].filter(t => activeTypes.has(t));
+    const sorted = Object.entries(byAccount)
+      .map(([acc, v]) => ({ acc, total: types.reduce((s, t) => s + (v[t] || 0), 0), ...v }))
+      .filter(r => r.total > 0)
+      .sort((a, b) => b.total - a.total);
+
+    const accounts = sorted.map(r => r.acc);
+    const grandTotal = sorted.reduce((s, r) => s + r.total, 0);
+
+    const wrap = document.getElementById("account-chart-wrap");
+    wrap.style.height = Math.max(200, accounts.length * 36 + 60) + "px";
+
+    if (accountChartInst) accountChartInst.destroy();
+    accountChartInst = new Chart(document.getElementById("account-chart"), {
+      type: "bar",
+      data: {
+        labels: accounts,
+        datasets: types.map((t, ti) => ({
+          label: t,
+          data: sorted.map(r => Math.round(r[t] || 0)),
+          backgroundColor: TYPE_COLORS[t].bg,
+          borderColor: TYPE_COLORS[t].border,
+          borderWidth: 1,
+          barThickness: 18,
+        }))
+      },
+      options: {
+        responsive: true, maintainAspectRatio: false,
+        indexAxis: "y",
+        layout: { padding: { right: 110 } },
+        plugins: {
+          legend: { position: "bottom" },
+          datalabels: {
+            clip: false,
+            font: { size: 11, weight: "600" },
+            color: ctx => {
+              const t = types[ctx.datasetIndex];
+              return t === "Renewal" ? "#5B21B6" : t === "Upsell" ? "#1D4ED8" : "#92400E";
+            },
+            formatter: (value, ctx) => {
+              if (value === 0) return "";
+              const isLast = ctx.datasetIndex === types.length - 1;
+              if (isLast) {
+                const total = sorted[ctx.dataIndex].total;
+                const pct = grandTotal > 0 ? Math.round(total / grandTotal * 100) : 0;
+                return `${fmt(total)} (${pct}%)`;
+              }
+              return "";
+            },
+            anchor: "end",
+            align: "right",
+          }
+        },
+        scales: {
+          x: { stacked: true, ticks: { callback: v => fmt(v) } },
+          y: { stacked: true, grid: { display: false }, ticks: { font: { size: 12 } } },
+        },
+        tooltip: {
+          callbacks: { label: ctx => `${ctx.dataset.label}: ${fmt(ctx.parsed.x)}` }
+        },
+      },
+    });
+  }
+
+  // ---- By stage (horizontal bar) ----
+  function updateStageChart(opps) {
+    const counts = {};
+    opps.forEach(o => { if (o.stage) counts[o.stage] = (counts[o.stage] || 0) + 1; });
+    const entries = Object.entries(counts).sort((a, b) => b[1] - a[1]);
+    const labels = entries.map(e => e[0]);
+    const data   = entries.map(e => e[1]);
+    const palette = ["#C4B5FD","#BFDBFE","#FDE68A","#A7F3D0","#FCA5A5","#6EE7B7","#93C5FD","#DDD6FE"];
+
+    if (stageChartInst) stageChartInst.destroy();
+    stageChartInst = new Chart(document.getElementById("stage-chart"), {
+      type: "bar",
+      data: { labels, datasets: [{ data, backgroundColor: labels.map((_, i) => palette[i % palette.length]), borderWidth: 1, borderColor: labels.map((_, i) => palette[i % palette.length].replace("FD","B0").replace("FE","B0") ) }] },
+      options: {
+        responsive: true, maintainAspectRatio: false,
+        indexAxis: "y",
+        layout: { padding: { right: 32 } },
+        plugins: {
+          legend: { display: false },
+          datalabels: {
+            anchor: "end", align: "right", clip: false,
+            color: "#0F172A", font: { weight: "bold", size: 11 },
+            formatter: v => v > 0 ? v : "",
+          }
+        },
+        scales: {
+          x: { beginAtZero: true, ticks: { precision: 0 } },
+          y: { ticks: { font: { size: 11 } } },
+        },
+      },
+    });
+  }
+
+  // ---- Won vs Lost doughnut ----
+  function updateWonLostChart(opps) {
+    const won  = opps.filter(o => o.is_won).length;
+    const lost = opps.filter(o => o.is_closed && !o.is_won).length;
+    const open = opps.filter(o => !o.is_closed).length;
+
+    if (wonlostChartInst) wonlostChartInst.destroy();
+    wonlostChartInst = new Chart(document.getElementById("wonlost-chart"), {
+      type: "doughnut",
+      data: {
+        labels: ["Won", "Lost", "Open"],
+        datasets: [{
+          data: [won, lost, open],
+          backgroundColor: ["#6EE7B7", "#FCA5A5", "#FDE68A"],
+          borderWidth: 2,
+        }]
+      },
+      options: {
+        responsive: true, maintainAspectRatio: false,
+        plugins: {
+          legend: { position: "right" },
+          datalabels: {
+            display: ctx => ctx.dataset.data[ctx.dataIndex] > 0,
+            color: "#0F172A",
+            font: { weight: "bold", size: 11 },
+            formatter: v => v,
+          }
+        }
+      },
+    });
+  }
+
+  // ---- Table ----
+  function stageBadge(o) {
+    const cls = o.is_won ? "badge-won" : o.is_closed ? "badge-lost" : "badge-open";
+    return `<span class="stage-badge ${cls}">${o.stage}</span>`;
+  }
+
+  function typeBadge(t) {
+    const cls = t === "Renewal" ? "type-renewal" : t === "Upsell" ? "type-upsell" : "type-consultancy";
+    return `<span class="type-badge ${cls}">${t}</span>`;
+  }
+
+  function updateTable(opps) {
+    document.getElementById("opp-table-body").innerHTML = opps.map(o => `
+      <tr>
+        <td><a class="opp-link" href="${SF_BASE}${o.id}/view" target="_blank">${o.name}</a></td>
+        <td>${typeBadge(o.type)}</td>
+        <td>${stageBadge(o)}</td>
+        <td style="text-align:right">${fmt(o.amount)}</td>
+        <td style="text-align:right">${o.type !== "Consultancy" ? fmt(o.arr) : "-"}</td>
+        <td>${o.account}</td>
+        <td>${o.owner}</td>
+        <td>${o.created}</td>
+        <td>${o.close_date}</td>
+        <td>${o.start_date || "-"}</td>
+      </tr>
+    `).join("");
+  }
+
+  function refresh() {
+    const opps = getFilteredOpps();
+    updateKPIs(opps);
+    updateArrChart(opps);
+    updateAmountChart(opps);
+    updateAccountChart(opps);
+    updateStageChart(opps);
+    updateWonLostChart(opps);
+    updateTable(opps);
+  }
+
+  async function init() {
+    try {
+      const resp = await fetch("data/sf_opportunities.json");
+      if (!resp.ok) throw new Error("Data not found");
+      const data = await resp.json();
+      allOpps = data.opportunities || [];
+
+      document.getElementById("last-updated").textContent = `Last updated: ${data.last_updated}`;
+
+      // Populate dropdowns
+      function populateSelect(id, values) {
+        const sel = document.getElementById(id);
+        values.forEach(v => { const o = document.createElement("option"); o.value = v; o.textContent = v; sel.appendChild(o); });
+      }
+      populateSelect("filter-account", [...new Set(allOpps.map(o => o.account).filter(Boolean))].sort());
+      populateSelect("filter-stage",   [...new Set(allOpps.map(o => o.stage).filter(Boolean))].sort());
+
+      document.getElementById("loading").style.display = "none";
+      document.getElementById("content").style.display = "block";
+
+      refresh();
+
+      // Filter listeners
+      ["filter-status","filter-account","filter-stage","filter-granularity",
+       "filter-created-from","filter-created-to","filter-start-from","filter-start-to",
+       "filter-search"]
+        .forEach(id => {
+          const el = document.getElementById(id);
+          el.addEventListener("change", refresh);
+          el.addEventListener("input", refresh);
+        });
+
+      document.getElementById("btn-refresh").addEventListener("click", () => {
+        window.open(
+          "https://github.com/customersuccesshubtype/customerexperience-dashboard/actions/workflows/fetch-sf.yml",
+          "_blank"
+        );
+      });
+
+      document.getElementById("btn-clear-filters").addEventListener("click", () => {
+        document.getElementById("filter-status").value       = "";
+        document.getElementById("filter-account").value      = "";
+        document.getElementById("filter-stage").value        = "";
+        document.getElementById("filter-granularity").value  = "month";
+        document.getElementById("filter-created-from").value = "";
+        document.getElementById("filter-created-to").value   = "";
+        document.getElementById("filter-start-from").value   = "";
+        document.getElementById("filter-start-to").value     = "";
+        document.getElementById("filter-search").value       = "";
+        activeTypes = new Set(["Renewal", "Upsell", "Consultancy"]);
+        document.querySelectorAll(".type-pill").forEach(p => p.classList.remove("off"));
+        refresh();
+      });
+
+    } catch(e) {
+      document.getElementById("loading").style.display = "none";
+      document.getElementById("error").style.display   = "block";
+      console.error(e);
+    }
+  }
+
+  init();
+</script>
+</body>
+</html>
