@@ -1,6 +1,20 @@
 {
-  "last_updated": "2026-03-04 07:36 UTC",
+  "last_updated": "2026-03-04 11:26 UTC",
   "tickets": [
+    {
+      "key": "PS-5143",
+      "summary": "Soledad -  extract price when promo",
+      "status": "Ready for review",
+      "status_category": "In Progress",
+      "assignee": "Lorena Sánchez-Toril Nicolás",
+      "issuetype": "Task",
+      "created": "2026-03-04",
+      "updated": "2026-03-04",
+      "resolutiondate": "",
+      "labels": [
+        "Soledad"
+      ]
+    },
     {
       "key": "PS-5142",
       "summary": "Ralph Lauren - update internal packages to 0.45.x",
@@ -18,8 +32,8 @@
     {
       "key": "PS-5141",
       "summary": "RACC - Servicio Ahorro Energético - Query Django para detectar mensaje \"¡Hola! ¿Puedo obtener más información?\"",
-      "status": "In Progress",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Marçal Garcia",
       "issuetype": "Task",
       "created": "2026-03-03",
@@ -46,8 +60,8 @@
     {
       "key": "PS-5139",
       "summary": "Ralph Lauren - Change in field in Zendesk integration in production",
-      "status": "Ready for review",
-      "status_category": "In Progress",
+      "status": "In production",
+      "status_category": "Done",
       "assignee": "palonso",
       "issuetype": "Task",
       "created": "2026-03-03",
@@ -112,24 +126,24 @@
     {
       "key": "PS-5134",
       "summary": "RACC - Ahorro Energetico - Comportamiento extraño de algunas conversaciones a analizar",
-      "status": "APPROVED FOR PRODUCTION",
+      "status": "In production",
       "status_category": "Done",
       "assignee": "Adrià Sastre",
       "issuetype": "Bug",
       "created": "2026-03-02",
-      "updated": "2026-03-03",
+      "updated": "2026-03-04",
       "resolutiondate": "",
       "labels": []
     },
     {
       "key": "PS-5133",
       "summary": "RACC - Servei Estalvi Energètic - Adjust time out to 40 Seconds",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "In production",
+      "status_category": "Done",
       "assignee": "Adrià Sastre",
       "issuetype": "Task",
       "created": "2026-03-02",
-      "updated": "2026-03-02",
+      "updated": "2026-03-04",
       "resolutiondate": "",
       "labels": [
         "RACC"
@@ -320,12 +334,12 @@
     {
       "key": "PS-5119",
       "summary": "Sanitas Seguros - Ajustar el flow para incluir los casos de Uso de su actual WebChat - antes del 5 de marzo",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Julieta Mezza",
       "issuetype": "Task",
       "created": "2026-02-26",
-      "updated": "2026-02-26",
+      "updated": "2026-03-04",
       "resolutiondate": "",
       "labels": [
         "Sanitas"
@@ -493,7 +507,7 @@
       "assignee": "Andrea Talal Haidar",
       "issuetype": "Task",
       "created": "2026-02-25",
-      "updated": "2026-03-03",
+      "updated": "2026-03-04",
       "resolutiondate": "",
       "labels": [
         "Polarier"
@@ -1566,7 +1580,7 @@
       "assignee": "Aitor Casas",
       "issuetype": "Task",
       "created": "2026-02-16",
-      "updated": "2026-03-02",
+      "updated": "2026-03-04",
       "resolutiondate": "",
       "labels": [
         "all_clients"
@@ -4692,12 +4706,12 @@
     {
       "key": "PS-4773",
       "summary": "Allianz Partners - Nueva API de Autodispach",
-      "status": "APPROVED FOR PRODUCTION",
+      "status": "In production",
       "status_category": "Done",
       "assignee": "Alexander Skalatskiy",
       "issuetype": "Task",
       "created": "2025-12-23",
-      "updated": "2026-03-02",
+      "updated": "2026-03-04",
       "resolutiondate": "",
       "labels": [
         "Allianz-ES"

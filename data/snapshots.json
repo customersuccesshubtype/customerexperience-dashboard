@@ -1538,31 +1538,31 @@
     "date": "2026-03-03"
   },
   {
-    "total_open": 184,
-    "total_done": 3414,
-    "total": 3598,
+    "total_open": 181,
+    "total_done": 3416,
+    "total": 3597,
     "by_status": {
-      "In production": 2,
-      "In Progress": 33,
-      "To Do": 47,
       "Ready for review": 34,
-      "Done": 2715,
-      "APPROVED FOR PRODUCTION": 4,
+      "In production": 6,
+      "Done": 2717,
+      "To Do": 45,
+      "In Progress": 32,
       "Ready to Deliver": 27,
       "Closed": 699,
       "Open": 43,
+      "APPROVED FOR PRODUCTION": 2,
       "In Review": 1
     },
     "by_assignee": {
       "Lorena Sánchez-Toril Nicolás": {
-        "open": 5,
+        "open": 6,
         "done": 114,
         "in_progress": 4
       },
       "Marçal Garcia": {
         "open": 0,
-        "done": 0,
-        "in_progress": 1
+        "done": 1,
+        "in_progress": 0
       },
       "Aitor Casas": {
         "open": 5,
@@ -1590,8 +1590,8 @@
         "in_progress": 4
       },
       "Julieta Mezza": {
-        "open": 6,
-        "done": 53,
+        "open": 5,
+        "done": 54,
         "in_progress": 1
       },
       "Evgeni Slavyanov": {
