@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-04 07:53 UTC",
+  "last_updated": "2026-03-04 19:39 UTC",
   "opportunities": [
     {
       "id": "006Sa00000bhFpuIAE",
@@ -39,9 +39,9 @@
       "id": "006Sa00000bgzbFIAQ",
       "name": "2026-U- Michael Kors - Extra MAUs regularisation February 2026",
       "type": "Upsell",
-      "stage": "Waiting for signature",
-      "is_closed": false,
-      "is_won": false,
+      "stage": "Closed Won",
+      "is_closed": true,
+      "is_won": true,
       "probability": 100.0,
       "amount": 1038.22,
       "arr": 0.0,
@@ -49,7 +49,7 @@
       "cs_lead": "",
       "account": "Michael Kors Group",
       "created": "2026-03-03",
-      "close_date": "2026-03-03",
+      "close_date": "2026-03-04",
       "start_date": "2026-03-03"
     },
     {
@@ -60,14 +60,14 @@
       "is_closed": false,
       "is_won": false,
       "probability": 10.0,
-      "amount": 2600.0,
+      "amount": 1000.0,
       "arr": 2400.0,
       "owner": "Julieta Mezza",
       "cs_lead": "Marta Marron",
       "account": "Occident",
       "created": "2026-03-03",
       "close_date": "2025-10-10",
-      "start_date": "2025-10-16"
+      "start_date": "2026-05-16"
     },
     {
       "id": "006Sa00000bgh3IIAQ",
@@ -77,14 +77,14 @@
       "is_closed": false,
       "is_won": false,
       "probability": 10.0,
-      "amount": 590.0,
-      "arr": 190.0,
+      "amount": 970.0,
+      "arr": 2280.0,
       "owner": "Julieta Mezza",
       "cs_lead": "Marta Marron",
       "account": "Wizz Air",
       "created": "2026-03-03",
       "close_date": "2026-04-01",
-      "start_date": "2025-05-04"
+      "start_date": "2026-05-04"
     },
     {
       "id": "006Sa00000bgeeuIAA",
@@ -403,7 +403,7 @@
       "amount": 20444.52,
       "arr": 15434.52,
       "owner": "Marta Marron",
-      "cs_lead": "",
+      "cs_lead": "Patricia Sanchez",
       "account": "Polarier",
       "created": "2026-01-26",
       "close_date": "2027-01-05",
@@ -522,7 +522,7 @@
       "amount": 12000.0,
       "arr": 12000.0,
       "owner": "Marta Marron",
-      "cs_lead": "",
+      "cs_lead": "Francisca Martelli",
       "account": "Grupo Soledad",
       "created": "2026-01-04",
       "close_date": "2025-10-30",
@@ -539,7 +539,7 @@
       "amount": 78223.92,
       "arr": 78223.92,
       "owner": "Marta Marron",
-      "cs_lead": "",
+      "cs_lead": "Francisca Martelli",
       "account": "TMB",
       "created": "2026-01-04",
       "close_date": "2026-01-04",
@@ -692,7 +692,7 @@
       "amount": 25000.08,
       "arr": 25000.08,
       "owner": "Marta Marron",
-      "cs_lead": "",
+      "cs_lead": "Marta Marron",
       "account": "Allianz Partners",
       "created": "2026-01-04",
       "close_date": "2025-08-26",
@@ -1155,7 +1155,7 @@
       "account": "Occident",
       "created": "2025-10-23",
       "close_date": "2026-04-15",
-      "start_date": "2025-10-18"
+      "start_date": "2026-05-18"
     },
     {
       "id": "006Sa00000TT9VRIA1",
@@ -1202,7 +1202,7 @@
       "amount": 65009.4,
       "arr": 65009.4,
       "owner": "Marta Marron",
-      "cs_lead": "",
+      "cs_lead": "Marta Marron",
       "account": "Servei Emergencies Mèdiques (SEM)",
       "created": "2025-10-19",
       "close_date": "2026-10-19",
@@ -1314,17 +1314,17 @@
       "id": "006Sa00000SiZ3dIAF",
       "name": "2026-U-Volkswagen-Flotas",
       "type": "Upsell",
-      "stage": "Opportunity identified",
-      "is_closed": false,
+      "stage": "Closed Lost",
+      "is_closed": true,
       "is_won": false,
-      "probability": 10.0,
+      "probability": 0.0,
       "amount": 6000.0,
       "arr": 6000.0,
       "owner": "Marta Marron",
       "cs_lead": "Marta Marron",
       "account": "VOLKSWAGEN GROUP SPAIN",
       "created": "2025-10-08",
-      "close_date": "2025-12-20",
+      "close_date": "2026-03-04",
       "start_date": "2026-01-01"
     },
     {
@@ -1869,7 +1869,7 @@
       "account": "Air Europa",
       "created": "2025-08-19",
       "close_date": "2026-01-01",
-      "start_date": "2025-09-01"
+      "start_date": "2026-05-01"
     },
     {
       "id": "006Sa00000Q3huJIAR",
