@@ -1,6 +1,46 @@
 {
-  "last_updated": "2026-03-04 11:26 UTC",
+  "last_updated": "2026-03-05 07:40 UTC",
   "tickets": [
+    {
+      "key": "PS-5146",
+      "summary": "Ralph Lauren - Battle test Weekly.",
+      "status": "Done",
+      "status_category": "Done",
+      "assignee": "irene callejas",
+      "issuetype": "Task",
+      "created": "2026-03-04",
+      "updated": "2026-03-05",
+      "resolutiondate": "",
+      "labels": []
+    },
+    {
+      "key": "PS-5145",
+      "summary": "Ralph Lauren - Delete session + chat of a user for Y phone numbers",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Lorena Sánchez-Toril Nicolás",
+      "issuetype": "Task",
+      "created": "2026-03-04",
+      "updated": "2026-03-04",
+      "resolutiondate": "",
+      "labels": [
+        "Ralph_Lauren"
+      ]
+    },
+    {
+      "key": "PS-5144",
+      "summary": "Ralph Lauren - update whitelist",
+      "status": "Ready for review",
+      "status_category": "In Progress",
+      "assignee": "Lorena Sánchez-Toril Nicolás",
+      "issuetype": "Task",
+      "created": "2026-03-04",
+      "updated": "2026-03-04",
+      "resolutiondate": "",
+      "labels": [
+        "Ralph_Lauren"
+      ]
+    },
     {
       "key": "PS-5143",
       "summary": "Soledad -  extract price when promo",
@@ -60,7 +100,7 @@
     {
       "key": "PS-5139",
       "summary": "Ralph Lauren - Change in field in Zendesk integration in production",
-      "status": "In production",
+      "status": "Done",
       "status_category": "Done",
       "assignee": "palonso",
       "issuetype": "Task",
@@ -98,12 +138,12 @@
     {
       "key": "PS-5136",
       "summary": "Ralph Lauren - Out of Scope Intents - Fine tunning",
-      "status": "Ready for review",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "irene callejas",
       "issuetype": "Task",
       "created": "2026-03-03",
-      "updated": "2026-03-03",
+      "updated": "2026-03-05",
       "resolutiondate": "",
       "labels": [
         "Ralph_Lauren"
@@ -126,7 +166,7 @@
     {
       "key": "PS-5134",
       "summary": "RACC - Ahorro Energetico - Comportamiento extraño de algunas conversaciones a analizar",
-      "status": "In production",
+      "status": "Done",
       "status_category": "Done",
       "assignee": "Adrià Sastre",
       "issuetype": "Bug",
@@ -138,7 +178,7 @@
     {
       "key": "PS-5133",
       "summary": "RACC - Servei Estalvi Energètic - Adjust time out to 40 Seconds",
-      "status": "In production",
+      "status": "Done",
       "status_category": "Done",
       "assignee": "Adrià Sastre",
       "issuetype": "Task",
@@ -208,12 +248,12 @@
     {
       "key": "PS-5128",
       "summary": "Ralph Lauren - Review customer questions from Ask Ralph",
-      "status": "In Progress",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "irene callejas",
       "issuetype": "Task",
       "created": "2026-02-27",
-      "updated": "2026-03-03",
+      "updated": "2026-03-05",
       "resolutiondate": "",
       "labels": [
         "Ralph_Lauren"
@@ -283,7 +323,7 @@
       "assignee": "irene callejas",
       "issuetype": "Task",
       "created": "2026-02-27",
-      "updated": "2026-03-03",
+      "updated": "2026-03-05",
       "resolutiondate": "",
       "labels": [
         "Ralph_Lauren"
@@ -2679,12 +2719,12 @@
     {
       "key": "PS-4938",
       "summary": "Allianz Partners - Save Service Data in Tinybird and Contact Info Fields",
-      "status": "Ready for review",
+      "status": "In Progress",
       "status_category": "In Progress",
       "assignee": "palonso",
       "issuetype": "Task",
       "created": "2026-02-02",
-      "updated": "2026-03-03",
+      "updated": "2026-03-04",
       "resolutiondate": "",
       "labels": [
         "AllianzPartners"
@@ -2733,12 +2773,12 @@
     {
       "key": "PS-4934",
       "summary": "Tendam - Add new status to WISMO, RETURNED_TO_ORIGIN",
-      "status": "APPROVED FOR PRODUCTION",
+      "status": "Done",
       "status_category": "Done",
       "assignee": "Evgeni Slavyanov",
       "issuetype": "Task",
       "created": "2026-02-02",
-      "updated": "2026-03-03",
+      "updated": "2026-03-04",
       "resolutiondate": "",
       "labels": [
         "Tendam"
@@ -3168,12 +3208,12 @@
     {
       "key": "PS-4898",
       "summary": "Tendam - Cortefiel- AI Agent guardrails review",
-      "status": "In Progress",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "María Sánchez",
       "issuetype": "Task",
       "created": "2026-01-26",
-      "updated": "2026-02-23",
+      "updated": "2026-03-04",
       "resolutiondate": "",
       "labels": [
         "Tendam"
@@ -4706,7 +4746,7 @@
     {
       "key": "PS-4773",
       "summary": "Allianz Partners - Nueva API de Autodispach",
-      "status": "In production",
+      "status": "Done",
       "status_category": "Done",
       "assignee": "Alexander Skalatskiy",
       "issuetype": "Task",
@@ -7354,12 +7394,12 @@
     {
       "key": "PS-4557",
       "summary": "Tendam - Update Slowlove to Botonic Latest version",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Adrià Sastre",
       "issuetype": "Task",
       "created": "2025-10-21",
-      "updated": "2026-02-17",
+      "updated": "2026-03-04",
       "resolutiondate": "",
       "labels": [
         "Tendam"
