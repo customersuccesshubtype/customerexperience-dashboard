@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-05 07:55 UTC",
+  "last_updated": "2026-03-06 07:52 UTC",
   "opportunities": [
     {
       "id": "006Sa00000bhFpuIAE",
@@ -77,7 +77,7 @@
       "is_closed": false,
       "is_won": false,
       "probability": 10.0,
-      "amount": 970.0,
+      "amount": 960.0,
       "arr": 2280.0,
       "owner": "Julieta Mezza",
       "cs_lead": "Marta Marron",
@@ -3137,8 +3137,8 @@
       "is_closed": false,
       "is_won": false,
       "probability": 10.0,
-      "amount": 411888.0,
-      "arr": 411888.0,
+      "amount": 439737.12,
+      "arr": 439737.12,
       "owner": "Marta Marron",
       "cs_lead": "Marta Marron",
       "account": "Wizz Air",
