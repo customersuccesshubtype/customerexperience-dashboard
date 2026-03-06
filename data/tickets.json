@@ -1,6 +1,76 @@
 {
-  "last_updated": "2026-03-05 07:40 UTC",
+  "last_updated": "2026-03-06 07:36 UTC",
   "tickets": [
+    {
+      "key": "PS-5151",
+      "summary": "SEM - Mensaje de espera en cola de enfermeras",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Aitor Casas",
+      "issuetype": "Task",
+      "created": "2026-03-06",
+      "updated": "2026-03-06",
+      "resolutiondate": "",
+      "labels": [
+        "SEM"
+      ]
+    },
+    {
+      "key": "PS-5150",
+      "summary": "Ralph Lauren - Add a delay to onboarding message that is triggered after the video",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "eric",
+      "issuetype": "Task",
+      "created": "2026-03-05",
+      "updated": "2026-03-05",
+      "resolutiondate": "",
+      "labels": [
+        "Ralph_Lauren"
+      ]
+    },
+    {
+      "key": "PS-5149",
+      "summary": "Securitas Direct Lead Gen - Migrate code to Hubtype repository (currently they own the code)",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Adrià Sastre",
+      "issuetype": "Task",
+      "created": "2026-03-05",
+      "updated": "2026-03-05",
+      "resolutiondate": "",
+      "labels": [
+        "Securitas-leadgen"
+      ]
+    },
+    {
+      "key": "PS-5148",
+      "summary": "Ralph Lauren - Fine tune the Onboarding flow to eliminate \"Yes I agree\" button and adjust copies",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Andrea Talal Haidar",
+      "issuetype": "Task",
+      "created": "2026-03-05",
+      "updated": "2026-03-05",
+      "resolutiondate": "",
+      "labels": [
+        "Ralph_Lauren"
+      ]
+    },
+    {
+      "key": "PS-5147",
+      "summary": "Retorna - Upgrade GPT Version to GPT 5.2",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Evgeni Slavyanov",
+      "issuetype": "Task",
+      "created": "2026-03-05",
+      "updated": "2026-03-05",
+      "resolutiondate": "",
+      "labels": [
+        "Retorna"
+      ]
+    },
     {
       "key": "PS-5146",
       "summary": "Ralph Lauren - Battle test Weekly.",
@@ -820,12 +890,12 @@
     {
       "key": "PS-5087",
       "summary": "Provide a miro of how the UX would look like if we include the whole list of driving schools.",
-      "status": "Ready for review",
+      "status": "In Review",
       "status_category": "In Progress",
       "assignee": "Vicky Correbo",
       "issuetype": "Sub-task",
       "created": "2026-02-23",
-      "updated": "2026-02-26",
+      "updated": "2026-03-05",
       "resolutiondate": "",
       "labels": [
         "RACC_START"
@@ -1130,7 +1200,7 @@
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-02-19",
-      "updated": "2026-03-03",
+      "updated": "2026-03-05",
       "resolutiondate": "",
       "labels": [
         "Ralph_Lauren"
@@ -5582,13 +5652,13 @@
     },
     {
       "key": "PS-4703",
-      "summary": "Retorna - Configure a second API call pre handoff (enhance automatic queue assignment)",
-      "status": "Closed",
-      "status_category": "Done",
-      "assignee": null,
+      "summary": "Retorna - Configure a second API call (GET user info) when user asks about remittance status",
+      "status": "In Progress",
+      "status_category": "In Progress",
+      "assignee": "Alexander Skalatskiy",
       "issuetype": "Task",
       "created": "2025-12-03",
-      "updated": "2026-02-25",
+      "updated": "2026-03-06",
       "resolutiondate": "",
       "labels": [
         "Retorna"
@@ -7352,12 +7422,12 @@
     {
       "key": "PS-4560",
       "summary": "Tendam - Update Pedro del Hierro to Botonic Latest version",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "In Progress",
+      "status_category": "In Progress",
       "assignee": "Adrià Sastre",
       "issuetype": "Task",
       "created": "2025-10-21",
-      "updated": "2026-02-23",
+      "updated": "2026-03-05",
       "resolutiondate": "",
       "labels": [
         "Tendam"
