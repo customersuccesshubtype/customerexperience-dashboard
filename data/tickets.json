@@ -1,6 +1,18 @@
 {
-  "last_updated": "2026-03-08 07:29 UTC",
+  "last_updated": "2026-03-09 07:48 UTC",
   "tickets": [
+    {
+      "key": "PS-5159",
+      "summary": "Ralph Lauren - Customer Service Responses Adjustment",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "irene callejas",
+      "issuetype": "Task",
+      "created": "2026-03-08",
+      "updated": "2026-03-08",
+      "resolutiondate": "",
+      "labels": []
+    },
     {
       "key": "PS-5158",
       "summary": "Ralph Lauren - Weekly Executions",
@@ -178,12 +190,12 @@
     {
       "key": "PS-5145",
       "summary": "Ralph Lauren - Delete session + chat of a user for Y phone numbers",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Ready for review",
+      "status_category": "In Progress",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-03-04",
-      "updated": "2026-03-04",
+      "updated": "2026-03-09",
       "resolutiondate": "",
       "labels": [
         "Ralph_Lauren"
@@ -1292,7 +1304,7 @@
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-02-19",
-      "updated": "2026-03-06",
+      "updated": "2026-03-08",
       "resolutiondate": "",
       "labels": [
         "Ralph_Lauren"
