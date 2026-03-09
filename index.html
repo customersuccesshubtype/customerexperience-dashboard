@@ -977,6 +977,14 @@
             borderWidth: 1,
             yAxisID: "yLeft",
             order: 1,
+            datalabels: {
+              anchor: "end",
+              align: "top",
+              clip: false,
+              color: "#0F172A",
+              font: { weight: "bold", size: 11 },
+              formatter: (value) => value > 0 ? value : "",
+            },
           },
           {
             type: "line",
@@ -990,6 +998,7 @@
             yAxisID: "yRight",
             spanGaps: true,
             order: 0,
+            datalabels: { display: false },
           }
         ]
       },
@@ -999,7 +1008,6 @@
         layout: { padding: { top: 24 } },
         plugins: {
           legend: { position: "top" },
-          datalabels: { display: false },
         },
         scales: {
           x: { grid: { color: "rgba(0,0,0,0.05)" } },
