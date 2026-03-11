@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-10 07:55 UTC",
+  "last_updated": "2026-03-11 07:55 UTC",
   "opportunities": [
     {
       "id": "006Sa00000bhFpuIAE",
@@ -73,18 +73,18 @@
       "id": "006Sa00000bgh3IIAQ",
       "name": "2026-U-Wizz Air-Extra Languages (Romanian and Hungarian)",
       "type": "Upsell",
-      "stage": "Opportunity identified",
+      "stage": "Waiting for signature",
       "is_closed": false,
       "is_won": false,
-      "probability": 10.0,
-      "amount": 1157.36,
+      "probability": 90.0,
+      "amount": 968.02,
       "arr": 2272.08,
       "owner": "Julieta Mezza",
-      "cs_lead": "Marta Marron",
+      "cs_lead": "Julieta Mezza",
       "account": "Wizz Air",
       "created": "2026-03-03",
       "close_date": "2026-04-01",
-      "start_date": "2026-05-04"
+      "start_date": "2026-04-08"
     },
     {
       "id": "006Sa00000bgeeuIAA",
