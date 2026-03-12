@@ -1,6 +1,40 @@
 {
-  "last_updated": "2026-03-12 07:56 UTC",
+  "last_updated": "2026-03-12 16:02 UTC",
   "opportunities": [
+    {
+      "id": "006Sa00000cJJAmIAO",
+      "name": "2026-U-Alsa - New API integration as a tool for the AI Agent",
+      "type": "Consultancy",
+      "stage": "Opportunity identified",
+      "is_closed": false,
+      "is_won": false,
+      "probability": 10.0,
+      "amount": 3120.0,
+      "arr": 0.0,
+      "owner": "María Sánchez",
+      "cs_lead": "",
+      "account": "Alsa",
+      "created": "2026-03-12",
+      "close_date": "2026-05-29",
+      "start_date": "2026-05-29"
+    },
+    {
+      "id": "006Sa00000cJACOIA4",
+      "name": "2026-U-Alsa - New Snippet native integration in help page",
+      "type": "Consultancy",
+      "stage": "Opportunity identified",
+      "is_closed": false,
+      "is_won": false,
+      "probability": 10.0,
+      "amount": 1296.0,
+      "arr": 0.0,
+      "owner": "María Sánchez",
+      "cs_lead": "",
+      "account": "Alsa",
+      "created": "2026-03-12",
+      "close_date": "2026-05-29",
+      "start_date": "2026-05-29"
+    },
     {
       "id": "006Sa00000cFM0jIAG",
       "name": "2027 - R-  Tendam - CA (WA,Webchat)",
@@ -32,7 +66,7 @@
       "cs_lead": "María Sánchez",
       "account": "Michael Kors Group",
       "created": "2026-03-11",
-      "close_date": "2027-04-30",
+      "close_date": "2026-04-16",
       "start_date": "2026-04-16"
     },
     {
