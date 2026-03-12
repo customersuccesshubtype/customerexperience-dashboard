@@ -1,6 +1,174 @@
 {
-  "last_updated": "2026-03-11 07:41 UTC",
+  "last_updated": "2026-03-12 07:44 UTC",
   "tickets": [
+    {
+      "key": "PS-5183",
+      "summary": "Ralph Lauren - exclude duplicates and new tag parameter",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Lorena Sánchez-Toril Nicolás",
+      "issuetype": "Task",
+      "created": "2026-03-12",
+      "updated": "2026-03-12",
+      "resolutiondate": "",
+      "labels": [
+        "Ralph_Lauren"
+      ]
+    },
+    {
+      "key": "PS-5182",
+      "summary": "Multiasistencia - Automatización de la validación de pólizas y registro de siniestros (Bot Santander)",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": null,
+      "issuetype": "Task",
+      "created": "2026-03-11",
+      "updated": "2026-03-11",
+      "resolutiondate": "",
+      "labels": [
+        "Multiasistencia"
+      ]
+    },
+    {
+      "key": "PS-5181",
+      "summary": "SEM- Send the snippet to include in the Web (staging and prod)",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": null,
+      "issuetype": "Task",
+      "created": "2026-03-11",
+      "updated": "2026-03-11",
+      "resolutiondate": "",
+      "labels": [
+        "SEM"
+      ]
+    },
+    {
+      "key": "PS-5180",
+      "summary": "SEM - Appraise the possibility to include push notifications in their App",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": null,
+      "issuetype": "Task",
+      "created": "2026-03-11",
+      "updated": "2026-03-11",
+      "resolutiondate": "",
+      "labels": [
+        "SEM"
+      ]
+    },
+    {
+      "key": "PS-5179",
+      "summary": "Michael Kors - Change the name and email capture to the handoff stage",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "María Sánchez",
+      "issuetype": "Task",
+      "created": "2026-03-11",
+      "updated": "2026-03-11",
+      "resolutiondate": "",
+      "labels": [
+        "Michael-Kors"
+      ]
+    },
+    {
+      "key": "PS-5178",
+      "summary": "Michael Kors - Prepare data to evaluate the impact of the AI Copilot",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "María Sánchez",
+      "issuetype": "Task",
+      "created": "2026-03-11",
+      "updated": "2026-03-11",
+      "resolutiondate": "",
+      "labels": [
+        "Michael-Kors"
+      ]
+    },
+    {
+      "key": "PS-5177",
+      "summary": "Michael Kors - Activate AI Copilot for 1 month",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Aitor Casas",
+      "issuetype": "Task",
+      "created": "2026-03-11",
+      "updated": "2026-03-11",
+      "resolutiondate": "",
+      "labels": [
+        "Michael-Kors"
+      ]
+    },
+    {
+      "key": "PS-5176",
+      "summary": "Michael Kors- look case id ",
+      "status": "In production",
+      "status_category": "Done",
+      "assignee": "Lorena Sánchez-Toril Nicolás",
+      "issuetype": "Task",
+      "created": "2026-03-11",
+      "updated": "2026-03-11",
+      "resolutiondate": "",
+      "labels": [
+        "Michael-Kors"
+      ]
+    },
+    {
+      "key": "PS-5175",
+      "summary": "Jetsmart - Error 401 en el webview cambios involuntarios",
+      "status": "Done",
+      "status_category": "Done",
+      "assignee": "Adrià Sastre",
+      "issuetype": "Bug",
+      "created": "2026-03-11",
+      "updated": "2026-03-11",
+      "resolutiondate": "",
+      "labels": [
+        "JetSmart"
+      ]
+    },
+    {
+      "key": "PS-5174",
+      "summary": "SEM - Capacity for the AI Agent to offer an agent",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Lorena Sánchez-Toril Nicolás",
+      "issuetype": "Task",
+      "created": "2026-03-11",
+      "updated": "2026-03-11",
+      "resolutiondate": "",
+      "labels": [
+        "SEM"
+      ]
+    },
+    {
+      "key": "PS-5173",
+      "summary": "SEM - Añadir un rating a la finalización de los casos con agente (cuando no se descartan)",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Patrícia Sánchez",
+      "issuetype": "Task",
+      "created": "2026-03-11",
+      "updated": "2026-03-11",
+      "resolutiondate": "",
+      "labels": [
+        "SEM"
+      ]
+    },
+    {
+      "key": "PS-5172",
+      "summary": "Air Europa - Add logged/not logged to contact info fields",
+      "status": "Open",
+      "status_category": "To Do",
+      "assignee": null,
+      "issuetype": "Task",
+      "created": "2026-03-11",
+      "updated": "2026-03-11",
+      "resolutiondate": "",
+      "labels": [
+        "AirEuropa"
+      ]
+    },
     {
       "key": "PS-5171",
       "summary": "TMB - Apply code fix to open URL in same tab",
@@ -74,12 +242,12 @@
     {
       "key": "PS-5166",
       "summary": "Ralph Lauren- Automated Battle test - Fine tunning",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "In Progress",
+      "status_category": "In Progress",
       "assignee": "irene callejas",
       "issuetype": "Task",
       "created": "2026-03-09",
-      "updated": "2026-03-09",
+      "updated": "2026-03-11",
       "resolutiondate": "",
       "labels": [
         "Ralph_Lauren"
@@ -114,12 +282,12 @@
     {
       "key": "PS-5163",
       "summary": "Ralph Lauren - flow campaigns",
-      "status": "In Progress",
+      "status": "Ready for review",
       "status_category": "In Progress",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-03-09",
-      "updated": "2026-03-09",
+      "updated": "2026-03-11",
       "resolutiondate": "",
       "labels": [
         "Ralph_Lauren"
@@ -170,12 +338,12 @@
     {
       "key": "PS-5159",
       "summary": "Ralph Lauren - Customer Service Responses Adjustment",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "In Progress",
+      "status_category": "In Progress",
       "assignee": "irene callejas",
       "issuetype": "Task",
       "created": "2026-03-08",
-      "updated": "2026-03-09",
+      "updated": "2026-03-11",
       "resolutiondate": "",
       "labels": [
         "Ralph_Lauren"
@@ -184,12 +352,12 @@
     {
       "key": "PS-5158",
       "summary": "Ralph Lauren - Weekly Executions",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "In Progress",
+      "status_category": "In Progress",
       "assignee": "irene callejas",
       "issuetype": "Task",
       "created": "2026-03-06",
-      "updated": "2026-03-09",
+      "updated": "2026-03-11",
       "resolutiondate": "",
       "labels": [
         "Ralph_Lauren"
@@ -212,12 +380,12 @@
     {
       "key": "PS-5156",
       "summary": "RACC- Automatizar el envío de un informe de Tinybird con n8n",
-      "status": "To Do",
+      "status": "Open",
       "status_category": "To Do",
       "assignee": "Marta Marron",
       "issuetype": "Task",
       "created": "2026-03-06",
-      "updated": "2026-03-09",
+      "updated": "2026-03-11",
       "resolutiondate": "",
       "labels": [
         "RACC"
@@ -226,12 +394,12 @@
     {
       "key": "PS-5155",
       "summary": "Michael Kors - Webform email validation ",
-      "status": "Ready for review",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Evgeni Slavyanov",
       "issuetype": "Task",
       "created": "2026-03-06",
-      "updated": "2026-03-10",
+      "updated": "2026-03-11",
       "resolutiondate": "",
       "labels": [
         "Michael-Kors"
@@ -524,12 +692,12 @@
     {
       "key": "PS-5132",
       "summary": "Soledad - improve ai agent prompt",
-      "status": "In Progress",
-      "status_category": "In Progress",
+      "status": "To Do",
+      "status_category": "To Do",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-03-02",
-      "updated": "2026-03-02",
+      "updated": "2026-03-12",
       "resolutiondate": "",
       "labels": [
         "Soledad"
@@ -1236,12 +1404,12 @@
     {
       "key": "PS-5080",
       "summary": "Easyjet - Task - Chat webpage - GTM Custom Domain Configuration and Data Layer Updates",
-      "status": "Ready for review",
-      "status_category": "In Progress",
+      "status": "In production",
+      "status_category": "Done",
       "assignee": "Adrià Sastre",
       "issuetype": "Task",
       "created": "2026-02-20",
-      "updated": "2026-02-27",
+      "updated": "2026-03-11",
       "resolutiondate": "",
       "labels": [
         "Task",
@@ -1457,12 +1625,12 @@
     {
       "key": "PS-5059",
       "summary": "Polarier - Initial proposal of fields to obtain from Polarier via API",
-      "status": "In Progress",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Patrícia Sánchez",
       "issuetype": "Task",
       "created": "2026-02-18",
-      "updated": "2026-02-23",
+      "updated": "2026-03-11",
       "resolutiondate": "",
       "labels": [
         "Polarier"
@@ -1485,12 +1653,12 @@
     {
       "key": "PS-5057",
       "summary": "Polarier - conectar núm de Whatsapp en bot de producción",
-      "status": "Open",
-      "status_category": "To Do",
+      "status": "In Progress",
+      "status_category": "In Progress",
       "assignee": "Aitor Casas",
       "issuetype": "Task",
       "created": "2026-02-18",
-      "updated": "2026-02-18",
+      "updated": "2026-03-11",
       "resolutiondate": "",
       "labels": [
         "Polarier"
@@ -1504,7 +1672,7 @@
       "assignee": "Marta Marron",
       "issuetype": "Task",
       "created": "2026-02-18",
-      "updated": "2026-02-21",
+      "updated": "2026-03-11",
       "resolutiondate": "",
       "labels": [
         "Polarier"
@@ -1765,12 +1933,12 @@
     {
       "key": "PS-5036",
       "summary": "Multiasistencia - Update botonic version - MULTI_FRANCIA_STAGING - 662b5c99-a812-4c41-b27c-597978890ab4",
-      "status": "To Do",
-      "status_category": "To Do",
-      "assignee": "Evgeni Slavyanov",
+      "status": "In Progress",
+      "status_category": "In Progress",
+      "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-02-16",
-      "updated": "2026-03-02",
+      "updated": "2026-03-11",
       "resolutiondate": "",
       "labels": [
         "Multiasistencia"
@@ -1975,12 +2143,12 @@
     {
       "key": "PS-5020",
       "summary": "RACC - Eficiencia Energética - Assess the possibility to add a button to speak to an agent in the second reminder of contratacion",
-      "status": "Open",
+      "status": "To Do",
       "status_category": "To Do",
       "assignee": "Adrià Sastre",
       "issuetype": "Task",
       "created": "2026-02-13",
-      "updated": "2026-03-02",
+      "updated": "2026-03-11",
       "resolutiondate": "",
       "labels": [
         "RACC"
@@ -2003,12 +2171,12 @@
     {
       "key": "PS-5018",
       "summary": "Verisure IT - Implement Alis Callback API – Notify Alis When Case Goes to Attending",
-      "status": "Open",
+      "status": "To Do",
       "status_category": "To Do",
-      "assignee": null,
+      "assignee": "Marta Marron",
       "issuetype": "Task",
       "created": "2026-02-13",
-      "updated": "2026-02-17",
+      "updated": "2026-03-11",
       "resolutiondate": "",
       "labels": [
         "Verisure_IT"
@@ -2017,12 +2185,12 @@
     {
       "key": "PS-5017",
       "summary": "Verisure IT - Provide Hubtype Send Template API Specs to Verisure IT",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "In Progress",
+      "status_category": "In Progress",
       "assignee": "Evgeni Slavyanov",
       "issuetype": "Task",
       "created": "2026-02-13",
-      "updated": "2026-03-09",
+      "updated": "2026-03-11",
       "resolutiondate": "",
       "labels": [
         "Verisure_IT"
@@ -3037,12 +3205,12 @@
     {
       "key": "PS-4938",
       "summary": "Allianz Partners - Save Service Data in Tinybird and Contact Info Fields",
-      "status": "Ready for review",
-      "status_category": "In Progress",
+      "status": "In production",
+      "status_category": "Done",
       "assignee": "Pep Alonso",
       "issuetype": "Task",
       "created": "2026-02-02",
-      "updated": "2026-03-09",
+      "updated": "2026-03-11",
       "resolutiondate": "",
       "labels": [
         "AllianzPartners"
@@ -4905,7 +5073,7 @@
       "assignee": "Marta Marron",
       "issuetype": "Epic",
       "created": "2025-12-30",
-      "updated": "2026-02-16",
+      "updated": "2026-03-11",
       "resolutiondate": "",
       "labels": [
         "Verisure_IT"
@@ -6305,12 +6473,12 @@
     {
       "key": "PS-4672",
       "summary": "Multiasistencia - Improvements on Multiasistencia automation flow",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Closed",
+      "status_category": "Done",
       "assignee": "Andrea Talal Haidar",
       "issuetype": "Task",
       "created": "2025-11-24",
-      "updated": "2026-02-24",
+      "updated": "2026-03-11",
       "resolutiondate": "",
       "labels": [
         "Multiasistencia"
@@ -6455,12 +6623,12 @@
     {
       "key": "PS-4658",
       "summary": "ALSA - Integration of API into AI Agent tools for origin and destination webviews",
-      "status": "Ready to Deliver",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Alexander Skalatskiy",
       "issuetype": "Task",
       "created": "2025-11-19",
-      "updated": "2026-03-09",
+      "updated": "2026-03-11",
       "resolutiondate": "",
       "labels": [
         "Alsa"
