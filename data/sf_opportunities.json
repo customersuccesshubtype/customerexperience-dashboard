@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-03-12 16:02 UTC",
+  "last_updated": "2026-03-13 07:56 UTC",
   "opportunities": [
     {
       "id": "006Sa00000cJJAmIAO",
-      "name": "2026-U-Alsa - New API integration as a tool for the AI Agent",
+      "name": "2026-C-Alsa - New API integration as a tool for the AI Agent",
       "type": "Consultancy",
       "stage": "Opportunity identified",
       "is_closed": false,
@@ -20,7 +20,7 @@
     },
     {
       "id": "006Sa00000cJACOIA4",
-      "name": "2026-U-Alsa - New Snippet native integration in help page",
+      "name": "2026-C-Alsa - New Snippet native integration in help page",
       "type": "Consultancy",
       "stage": "Opportunity identified",
       "is_closed": false,
@@ -60,8 +60,8 @@
       "is_closed": false,
       "is_won": false,
       "probability": 10.0,
-      "amount": 12054.0,
-      "arr": 20664.0,
+      "amount": 14063.0,
+      "arr": 24108.0,
       "owner": "María Sánchez",
       "cs_lead": "María Sánchez",
       "account": "Michael Kors Group",
