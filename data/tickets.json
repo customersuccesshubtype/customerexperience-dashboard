@@ -1,11 +1,67 @@
 {
-  "last_updated": "2026-03-12 07:44 UTC",
+  "last_updated": "2026-03-13 07:43 UTC",
   "tickets": [
+    {
+      "key": "PS-5187",
+      "summary": "Verisure IT - When we receive the templates and capture the extra params, insert them in the existing \"conversation info fields\"",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Evgeni Slavyanov",
+      "issuetype": "Task",
+      "created": "2026-03-12",
+      "updated": "2026-03-12",
+      "resolutiondate": "",
+      "labels": [
+        "Verisure_IT"
+      ]
+    },
+    {
+      "key": "PS-5186",
+      "summary": "Occident - Link the new test number to the \"Test Agencias\" project",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Adrià Sastre",
+      "issuetype": "Task",
+      "created": "2026-03-12",
+      "updated": "2026-03-12",
+      "resolutiondate": "",
+      "labels": [
+        "occident"
+      ]
+    },
+    {
+      "key": "PS-5185",
+      "summary": "Guess - Store name + email address as Contact Info fields for automated conversations",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": null,
+      "issuetype": "Task",
+      "created": "2026-03-12",
+      "updated": "2026-03-12",
+      "resolutiondate": "",
+      "labels": [
+        "Guess"
+      ]
+    },
+    {
+      "key": "PS-5184",
+      "summary": "Ralph Lauren - remove restriction prod bot",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Lorena Sánchez-Toril Nicolás",
+      "issuetype": "Task",
+      "created": "2026-03-12",
+      "updated": "2026-03-12",
+      "resolutiondate": "",
+      "labels": [
+        "Ralph_Lauren"
+      ]
+    },
     {
       "key": "PS-5183",
       "summary": "Ralph Lauren - exclude duplicates and new tag parameter",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Ready for review",
+      "status_category": "In Progress",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-03-12",
@@ -23,7 +79,7 @@
       "assignee": null,
       "issuetype": "Task",
       "created": "2026-03-11",
-      "updated": "2026-03-11",
+      "updated": "2026-03-12",
       "resolutiondate": "",
       "labels": [
         "Multiasistencia"
@@ -144,12 +200,12 @@
     {
       "key": "PS-5173",
       "summary": "SEM - Añadir un rating a la finalización de los casos con agente (cuando no se descartan)",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "In Progress",
+      "status_category": "In Progress",
       "assignee": "Patrícia Sánchez",
       "issuetype": "Task",
       "created": "2026-03-11",
-      "updated": "2026-03-11",
+      "updated": "2026-03-12",
       "resolutiondate": "",
       "labels": [
         "SEM"
@@ -343,7 +399,7 @@
       "assignee": "irene callejas",
       "issuetype": "Task",
       "created": "2026-03-08",
-      "updated": "2026-03-11",
+      "updated": "2026-03-12",
       "resolutiondate": "",
       "labels": [
         "Ralph_Lauren"
@@ -460,20 +516,6 @@
       ]
     },
     {
-      "key": "PS-5150",
-      "summary": "Ralph Lauren - Add a delay to onboarding message that is triggered after the video",
-      "status": "To Do",
-      "status_category": "To Do",
-      "assignee": "eric",
-      "issuetype": "Task",
-      "created": "2026-03-05",
-      "updated": "2026-03-05",
-      "resolutiondate": "",
-      "labels": [
-        "Ralph_Lauren"
-      ]
-    },
-    {
       "key": "PS-5149",
       "summary": "Securitas Direct Lead Gen - Migrate code to Hubtype repository (currently they own the code)",
       "status": "To Do",
@@ -490,12 +532,12 @@
     {
       "key": "PS-5148",
       "summary": "Ralph Lauren - Fine tune the Onboarding flow to eliminate \"Yes I agree\" button and adjust copies",
-      "status": "In production",
+      "status": "Done",
       "status_category": "Done",
       "assignee": "Andrea Talal Haidar",
       "issuetype": "Task",
       "created": "2026-03-05",
-      "updated": "2026-03-09",
+      "updated": "2026-03-12",
       "resolutiondate": "",
       "labels": [
         "Ralph_Lauren"
@@ -504,12 +546,12 @@
     {
       "key": "PS-5147",
       "summary": "Retorna - Upgrade GPT Version to GPT 5.2",
-      "status": "Ready for review",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Evgeni Slavyanov",
       "issuetype": "Task",
       "created": "2026-03-05",
-      "updated": "2026-03-10",
+      "updated": "2026-03-12",
       "resolutiondate": "",
       "labels": [
         "Retorna"
@@ -530,12 +572,12 @@
     {
       "key": "PS-5145",
       "summary": "Ralph Lauren - Delete session + chat of a user for Y phone numbers",
-      "status": "Ready for review",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-03-04",
-      "updated": "2026-03-09",
+      "updated": "2026-03-12",
       "resolutiondate": "",
       "labels": [
         "Ralph_Lauren"
@@ -637,13 +679,13 @@
     },
     {
       "key": "PS-5137",
-      "summary": "Air Europa - Consultar Reserva - Implement suggested Fares design",
-      "status": "In Progress",
-      "status_category": "In Progress",
+      "summary": "Air Europa - Consultar Reserva - Final adjustments",
+      "status": "To Do",
+      "status_category": "To Do",
       "assignee": "Alexander Skalatskiy",
       "issuetype": "Task",
       "created": "2026-03-03",
-      "updated": "2026-03-06",
+      "updated": "2026-03-12",
       "resolutiondate": "",
       "labels": [
         "AirEuropa"
@@ -851,7 +893,7 @@
       "assignee": "Francisca Martelli",
       "issuetype": "Task",
       "created": "2026-02-26",
-      "updated": "2026-02-28",
+      "updated": "2026-03-12",
       "resolutiondate": "",
       "labels": [
         "Guess"
@@ -972,12 +1014,12 @@
     {
       "key": "PS-5111",
       "summary": "Guess - Eliminate Personal Shopper Components in Webchat",
-      "status": "Ready for review",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-02-25",
-      "updated": "2026-03-03",
+      "updated": "2026-03-12",
       "resolutiondate": "",
       "labels": [
         "Guess"
@@ -1325,7 +1367,7 @@
       "assignee": "María Sánchez",
       "issuetype": "Task",
       "created": "2026-02-22",
-      "updated": "2026-03-06",
+      "updated": "2026-03-12",
       "resolutiondate": "",
       "labels": [
         "Alsa"
@@ -1404,12 +1446,12 @@
     {
       "key": "PS-5080",
       "summary": "Easyjet - Task - Chat webpage - GTM Custom Domain Configuration and Data Layer Updates",
-      "status": "In production",
+      "status": "Done",
       "status_category": "Done",
       "assignee": "Adrià Sastre",
       "issuetype": "Task",
       "created": "2026-02-20",
-      "updated": "2026-03-11",
+      "updated": "2026-03-12",
       "resolutiondate": "",
       "labels": [
         "Task",
@@ -1653,12 +1695,12 @@
     {
       "key": "PS-5057",
       "summary": "Polarier - conectar núm de Whatsapp en bot de producción",
-      "status": "In Progress",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Aitor Casas",
       "issuetype": "Task",
       "created": "2026-02-18",
-      "updated": "2026-03-11",
+      "updated": "2026-03-12",
       "resolutiondate": "",
       "labels": [
         "Polarier"
@@ -1793,12 +1835,12 @@
     {
       "key": "PS-5047",
       "summary": "Generalitat - Turisme - Update bot version in Staging so we can include an AI Agent",
-      "status": "In production",
+      "status": "Done",
       "status_category": "Done",
       "assignee": "Adrià Sastre",
       "issuetype": "Task",
       "created": "2026-02-17",
-      "updated": "2026-03-09",
+      "updated": "2026-03-12",
       "resolutiondate": "",
       "labels": [
         "Generalitat-Turisme"
@@ -1933,12 +1975,12 @@
     {
       "key": "PS-5036",
       "summary": "Multiasistencia - Update botonic version - MULTI_FRANCIA_STAGING - 662b5c99-a812-4c41-b27c-597978890ab4",
-      "status": "In Progress",
-      "status_category": "In Progress",
+      "status": "To Do",
+      "status_category": "To Do",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-02-16",
-      "updated": "2026-03-11",
+      "updated": "2026-03-12",
       "resolutiondate": "",
       "labels": [
         "Multiasistencia"
@@ -2171,12 +2213,12 @@
     {
       "key": "PS-5018",
       "summary": "Verisure IT - Implement Alis Callback API – Notify Alis When Case Goes to Attending",
-      "status": "To Do",
-      "status_category": "To Do",
-      "assignee": "Marta Marron",
+      "status": "In Progress",
+      "status_category": "In Progress",
+      "assignee": "Evgeni Slavyanov",
       "issuetype": "Task",
       "created": "2026-02-13",
-      "updated": "2026-03-11",
+      "updated": "2026-03-12",
       "resolutiondate": "",
       "labels": [
         "Verisure_IT"
@@ -2185,12 +2227,12 @@
     {
       "key": "PS-5017",
       "summary": "Verisure IT - Provide Hubtype Send Template API Specs to Verisure IT",
-      "status": "In Progress",
+      "status": "Ready to Deliver",
       "status_category": "In Progress",
       "assignee": "Evgeni Slavyanov",
       "issuetype": "Task",
       "created": "2026-02-13",
-      "updated": "2026-03-11",
+      "updated": "2026-03-12",
       "resolutiondate": "",
       "labels": [
         "Verisure_IT"
@@ -3205,12 +3247,12 @@
     {
       "key": "PS-4938",
       "summary": "Allianz Partners - Save Service Data in Tinybird and Contact Info Fields",
-      "status": "In production",
+      "status": "Done",
       "status_category": "Done",
       "assignee": "Pep Alonso",
       "issuetype": "Task",
       "created": "2026-02-02",
-      "updated": "2026-03-11",
+      "updated": "2026-03-12",
       "resolutiondate": "",
       "labels": [
         "AllianzPartners"
@@ -7906,12 +7948,12 @@
     {
       "key": "PS-4555",
       "summary": "Tendam - Update Fifty to Botonic Latest version",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "In Progress",
+      "status_category": "In Progress",
       "assignee": "Adrià Sastre",
       "issuetype": "Task",
       "created": "2025-10-21",
-      "updated": "2026-03-09",
+      "updated": "2026-03-12",
       "resolutiondate": "",
       "labels": [
         "Tendam"
@@ -8931,12 +8973,12 @@
     {
       "key": "PS-4469",
       "summary": "SegurCaixa - Flow Builder - Change Language action",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Closed",
+      "status_category": "Done",
       "assignee": "Adrià Sastre",
       "issuetype": "Task",
       "created": "2025-09-30",
-      "updated": "2026-01-18",
+      "updated": "2026-03-12",
       "resolutiondate": "",
       "labels": [
         "SegurCaixa"
@@ -8945,12 +8987,12 @@
     {
       "key": "PS-4468",
       "summary": "SegurCaixa - Flow Builder - Urgency action",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Closed",
+      "status_category": "Done",
       "assignee": "Adrià Sastre",
       "issuetype": "Task",
       "created": "2025-09-30",
-      "updated": "2026-01-18",
+      "updated": "2026-03-12",
       "resolutiondate": "",
       "labels": [
         "SegurCaixa"
@@ -8959,12 +9001,12 @@
     {
       "key": "PS-4467",
       "summary": "SegurCaixa - Flow Builder - Welcome Back action",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Closed",
+      "status_category": "Done",
       "assignee": "Adrià Sastre",
       "issuetype": "Task",
       "created": "2025-09-30",
-      "updated": "2026-01-18",
+      "updated": "2026-03-12",
       "resolutiondate": "",
       "labels": [
         "SegurCaixa"
@@ -8973,12 +9015,12 @@
     {
       "key": "PS-4466",
       "summary": "SegurCaixa - Flow Builder - Action error handling",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Closed",
+      "status_category": "Done",
       "assignee": "Adrià Sastre",
       "issuetype": "Task",
       "created": "2025-09-30",
-      "updated": "2026-01-18",
+      "updated": "2026-03-12",
       "resolutiondate": "",
       "labels": [
         "SegurCaixa"
@@ -8987,12 +9029,12 @@
     {
       "key": "PS-4465",
       "summary": "SegurCaixa - Flow Builder - Welcome action",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Closed",
+      "status_category": "Done",
       "assignee": "Adrià Sastre",
       "issuetype": "Task",
       "created": "2025-09-30",
-      "updated": "2026-01-18",
+      "updated": "2026-03-12",
       "resolutiondate": "",
       "labels": [
         "SegurCaixa"
@@ -9000,13 +9042,13 @@
     },
     {
       "key": "PS-4463",
-      "summary": "SegurCaixa - Flow Builder - Add bot scaffold",
+      "summary": "SegurCaixa - Flow Builder migration",
       "status": "Ready for review",
       "status_category": "In Progress",
       "assignee": "Adrià Sastre",
       "issuetype": "Task",
       "created": "2025-09-30",
-      "updated": "2026-01-18",
+      "updated": "2026-03-12",
       "resolutiondate": "",
       "labels": [
         "SegurCaixa"
