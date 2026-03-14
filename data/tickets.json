@@ -1,6 +1,74 @@
 {
-  "last_updated": "2026-03-13 07:43 UTC",
+  "last_updated": "2026-03-14 07:33 UTC",
   "tickets": [
+    {
+      "key": "PS-5192",
+      "summary": "Ralph Lauren - item_group_id exclusions and 4 items on carousels",
+      "status": "Ready for review",
+      "status_category": "In Progress",
+      "assignee": "Lorena Sánchez-Toril Nicolás",
+      "issuetype": "Task",
+      "created": "2026-03-13",
+      "updated": "2026-03-13",
+      "resolutiondate": "",
+      "labels": [
+        "Ralph_Lauren"
+      ]
+    },
+    {
+      "key": "PS-5191",
+      "summary": "Air Europa - We are not delivering AVA messages",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Alexander Skalatskiy",
+      "issuetype": "Bug",
+      "created": "2026-03-13",
+      "updated": "2026-03-13",
+      "resolutiondate": "",
+      "labels": [
+        "AirEuropa"
+      ]
+    },
+    {
+      "key": "PS-5190",
+      "summary": "Soledad - Design error modal in webview",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Andrea Talal Haidar",
+      "issuetype": "Task",
+      "created": "2026-03-13",
+      "updated": "2026-03-13",
+      "resolutiondate": "",
+      "labels": [
+        "Soledad"
+      ]
+    },
+    {
+      "key": "PS-5189",
+      "summary": "Polarier - Connect a test whats app phone number to the staging bot",
+      "status": "Done",
+      "status_category": "Done",
+      "assignee": "Aitor Casas",
+      "issuetype": "Task",
+      "created": "2026-03-13",
+      "updated": "2026-03-13",
+      "resolutiondate": "",
+      "labels": []
+    },
+    {
+      "key": "PS-5188",
+      "summary": "SEM - BATTLE test design and execution",
+      "status": "In Progress",
+      "status_category": "In Progress",
+      "assignee": "irene callejas",
+      "issuetype": "Task",
+      "created": "2026-03-13",
+      "updated": "2026-03-13",
+      "resolutiondate": "",
+      "labels": [
+        "SEM"
+      ]
+    },
     {
       "key": "PS-5187",
       "summary": "Verisure IT - When we receive the templates and capture the extra params, insert them in the existing \"conversation info fields\"",
@@ -46,12 +114,12 @@
     {
       "key": "PS-5184",
       "summary": "Ralph Lauren - remove restriction prod bot",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-03-12",
-      "updated": "2026-03-12",
+      "updated": "2026-03-13",
       "resolutiondate": "",
       "labels": [
         "Ralph_Lauren"
@@ -60,12 +128,12 @@
     {
       "key": "PS-5183",
       "summary": "Ralph Lauren - exclude duplicates and new tag parameter",
-      "status": "Ready for review",
-      "status_category": "In Progress",
+      "status": "In production",
+      "status_category": "Done",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-03-12",
-      "updated": "2026-03-12",
+      "updated": "2026-03-13",
       "resolutiondate": "",
       "labels": [
         "Ralph_Lauren"
@@ -188,10 +256,10 @@
       "summary": "SEM - Capacity for the AI Agent to offer an agent",
       "status": "To Do",
       "status_category": "To Do",
-      "assignee": "Lorena Sánchez-Toril Nicolás",
+      "assignee": "irene callejas",
       "issuetype": "Task",
       "created": "2026-03-11",
-      "updated": "2026-03-11",
+      "updated": "2026-03-13",
       "resolutiondate": "",
       "labels": [
         "SEM"
@@ -247,7 +315,7 @@
       "assignee": "irene callejas",
       "issuetype": "Task",
       "created": "2026-03-10",
-      "updated": "2026-03-10",
+      "updated": "2026-03-13",
       "resolutiondate": "",
       "labels": [
         "Ralph_Lauren"
@@ -338,12 +406,12 @@
     {
       "key": "PS-5163",
       "summary": "Ralph Lauren - flow campaigns",
-      "status": "Ready for review",
-      "status_category": "In Progress",
+      "status": "In production",
+      "status_category": "Done",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-03-09",
-      "updated": "2026-03-11",
+      "updated": "2026-03-13",
       "resolutiondate": "",
       "labels": [
         "Ralph_Lauren"
@@ -371,7 +439,7 @@
       "assignee": "Adrià Sastre",
       "issuetype": "Discovery Task",
       "created": "2026-03-09",
-      "updated": "2026-03-09",
+      "updated": "2026-03-13",
       "resolutiondate": "",
       "labels": [
         "AirEuropa"
@@ -380,15 +448,29 @@
     {
       "key": "PS-5160",
       "summary": "Ralph Lauren  - delay message ",
-      "status": "In production",
+      "status": "Done",
       "status_category": "Done",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-03-09",
-      "updated": "2026-03-10",
+      "updated": "2026-03-13",
       "resolutiondate": "",
       "labels": [
         "Ralph_Lauren"
+      ]
+    },
+    {
+      "key": "PS-5193",
+      "summary": "Allianz - Automate CitaTaller reporting with n8n",
+      "status": "Open",
+      "status_category": "To Do",
+      "assignee": "Aitor Casas",
+      "issuetype": "Task",
+      "created": "2026-03-09",
+      "updated": "2026-03-13",
+      "resolutiondate": "",
+      "labels": [
+        "Allianz_Talleres"
       ]
     },
     {
@@ -408,12 +490,12 @@
     {
       "key": "PS-5158",
       "summary": "Ralph Lauren - Weekly Executions",
-      "status": "In Progress",
+      "status": "Ready for review",
       "status_category": "In Progress",
       "assignee": "irene callejas",
       "issuetype": "Task",
       "created": "2026-03-06",
-      "updated": "2026-03-11",
+      "updated": "2026-03-13",
       "resolutiondate": "",
       "labels": [
         "Ralph_Lauren"
@@ -586,12 +668,12 @@
     {
       "key": "PS-5144",
       "summary": "Ralph Lauren - update whitelist",
-      "status": "In production",
+      "status": "Done",
       "status_category": "Done",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-03-04",
-      "updated": "2026-03-10",
+      "updated": "2026-03-13",
       "resolutiondate": "",
       "labels": [
         "Ralph_Lauren"
@@ -1194,12 +1276,12 @@
     {
       "key": "PS-5098",
       "summary": "RACC - Ahorro Energético - Detect conversations that come from the landing (ideally have them go through the Keyword)",
-      "status": "In Progress",
-      "status_category": "In Progress",
+      "status": "In production",
+      "status_category": "Done",
       "assignee": "Adrià Sastre",
       "issuetype": "Task",
       "created": "2026-02-24",
-      "updated": "2026-03-11",
+      "updated": "2026-03-13",
       "resolutiondate": "",
       "labels": [
         "RACC"
@@ -1975,12 +2057,12 @@
     {
       "key": "PS-5036",
       "summary": "Multiasistencia - Update botonic version - MULTI_FRANCIA_STAGING - 662b5c99-a812-4c41-b27c-597978890ab4",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "In Progress",
+      "status_category": "In Progress",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-02-16",
-      "updated": "2026-03-12",
+      "updated": "2026-03-13",
       "resolutiondate": "",
       "labels": [
         "Multiasistencia"
@@ -2185,12 +2267,12 @@
     {
       "key": "PS-5020",
       "summary": "RACC - Eficiencia Energética - Assess the possibility to add a button to speak to an agent in the second reminder of contratacion",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Adrià Sastre",
       "issuetype": "Task",
       "created": "2026-02-13",
-      "updated": "2026-03-11",
+      "updated": "2026-03-13",
       "resolutiondate": "",
       "labels": [
         "RACC"
@@ -2213,12 +2295,12 @@
     {
       "key": "PS-5018",
       "summary": "Verisure IT - Implement Alis Callback API – Notify Alis When Case Goes to Attending",
-      "status": "In Progress",
+      "status": "Ready for review",
       "status_category": "In Progress",
       "assignee": "Evgeni Slavyanov",
       "issuetype": "Task",
       "created": "2026-02-13",
-      "updated": "2026-03-12",
+      "updated": "2026-03-13",
       "resolutiondate": "",
       "labels": [
         "Verisure_IT"
@@ -2689,12 +2771,12 @@
     {
       "key": "PS-4982",
       "summary": "Ralph Lauren - Limitar el acceso al bot de producción a ciertos números de teléfono ",
-      "status": "In production",
+      "status": "Done",
       "status_category": "Done",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-02-09",
-      "updated": "2026-03-03",
+      "updated": "2026-03-13",
       "resolutiondate": "",
       "labels": [
         "Ralph_Lauren"
@@ -7948,12 +8030,12 @@
     {
       "key": "PS-4555",
       "summary": "Tendam - Update Fifty to Botonic Latest version",
-      "status": "In Progress",
+      "status": "Ready for review",
       "status_category": "In Progress",
       "assignee": "Adrià Sastre",
       "issuetype": "Task",
       "created": "2025-10-21",
-      "updated": "2026-03-12",
+      "updated": "2026-03-13",
       "resolutiondate": "",
       "labels": [
         "Tendam"
@@ -39408,12 +39490,12 @@
     {
       "key": "PS-1972",
       "summary": "SegurCaixaAdeslas - Migration to FlowBuilder",
-      "status": "In Progress",
+      "status": "Ready for review",
       "status_category": "In Progress",
       "assignee": "Adrià Sastre",
       "issuetype": "Epic",
       "created": "2024-05-02",
-      "updated": "2026-01-26",
+      "updated": "2026-03-13",
       "resolutiondate": "",
       "labels": [
         "SegurCaixa"
