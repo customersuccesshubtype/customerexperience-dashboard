@@ -1,6 +1,23 @@
 {
-  "last_updated": "2026-03-14 07:50 UTC",
+  "last_updated": "2026-03-15 07:53 UTC",
   "opportunities": [
+    {
+      "id": "006Sa00000cPbEcIAK",
+      "name": "2026-R-Ralph Lauren-UK pilot-CA (WA commerce) - 4 month extension",
+      "type": "Renewal",
+      "stage": "Closed Won",
+      "is_closed": true,
+      "is_won": true,
+      "probability": 100.0,
+      "amount": 44000.0,
+      "arr": 132000.0,
+      "owner": "Marta Marron",
+      "cs_lead": "Marta Marron",
+      "account": "Ralph Lauren UK",
+      "created": "2026-03-14",
+      "close_date": "2026-03-14",
+      "start_date": "2026-03-01"
+    },
     {
       "id": "006Sa00000cJJAmIAO",
       "name": "2026-C-Alsa - New API integration as a tool for the AI Agent",
