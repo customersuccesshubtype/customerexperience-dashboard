@@ -1,6 +1,18 @@
 {
-  "last_updated": "2026-03-15 07:43 UTC",
+  "last_updated": "2026-03-16 08:06 UTC",
   "tickets": [
+    {
+      "key": "PS-5194",
+      "summary": "CCMA - Que los casos que cuya contact info field Denúncia = Si se les ponga automáticamente la contact reason \"Denúncies/Testimonis\"",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": null,
+      "issuetype": "Task",
+      "created": "2026-03-15",
+      "updated": "2026-03-15",
+      "resolutiondate": "",
+      "labels": []
+    },
     {
       "key": "PS-5192",
       "summary": "Ralph Lauren - item_group_id exclusions and 4 items on carousels",
@@ -175,7 +187,7 @@
       "assignee": null,
       "issuetype": "Task",
       "created": "2026-03-11",
-      "updated": "2026-03-11",
+      "updated": "2026-03-15",
       "resolutiondate": "",
       "labels": [
         "SEM"
@@ -268,12 +280,12 @@
     {
       "key": "PS-5173",
       "summary": "SEM - Añadir un rating a la finalización de los casos con agente (cuando no se descartan)",
-      "status": "In Progress",
+      "status": "Ready for review",
       "status_category": "In Progress",
       "assignee": "Patrícia Sánchez",
       "issuetype": "Task",
       "created": "2026-03-11",
-      "updated": "2026-03-12",
+      "updated": "2026-03-15",
       "resolutiondate": "",
       "labels": [
         "SEM"
@@ -366,12 +378,12 @@
     {
       "key": "PS-5166",
       "summary": "Ralph Lauren- Automated Battle test - Fine tunning",
-      "status": "In Progress",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "irene callejas",
       "issuetype": "Task",
       "created": "2026-03-09",
-      "updated": "2026-03-11",
+      "updated": "2026-03-15",
       "resolutiondate": "",
       "labels": [
         "Ralph_Lauren"
@@ -462,12 +474,12 @@
     {
       "key": "PS-5193",
       "summary": "Allianz - Automate CitaTaller reporting with n8n",
-      "status": "Open",
+      "status": "To Do",
       "status_category": "To Do",
       "assignee": "Aitor Casas",
       "issuetype": "Task",
       "created": "2026-03-09",
-      "updated": "2026-03-13",
+      "updated": "2026-03-15",
       "resolutiondate": "",
       "labels": [
         "Allianz_Talleres"
@@ -481,7 +493,7 @@
       "assignee": "irene callejas",
       "issuetype": "Task",
       "created": "2026-03-08",
-      "updated": "2026-03-12",
+      "updated": "2026-03-15",
       "resolutiondate": "",
       "labels": [
         "Ralph_Lauren"
@@ -490,12 +502,12 @@
     {
       "key": "PS-5158",
       "summary": "Ralph Lauren - Weekly Executions",
-      "status": "Ready for review",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "irene callejas",
       "issuetype": "Task",
       "created": "2026-03-06",
-      "updated": "2026-03-13",
+      "updated": "2026-03-15",
       "resolutiondate": "",
       "labels": [
         "Ralph_Lauren"
@@ -513,20 +525,6 @@
       "resolutiondate": "",
       "labels": [
         "TMB"
-      ]
-    },
-    {
-      "key": "PS-5156",
-      "summary": "RACC- Automatizar el envío de un informe de Tinybird con n8n",
-      "status": "Open",
-      "status_category": "To Do",
-      "assignee": "Marta Marron",
-      "issuetype": "Task",
-      "created": "2026-03-06",
-      "updated": "2026-03-11",
-      "resolutiondate": "",
-      "labels": [
-        "RACC"
       ]
     },
     {
@@ -588,10 +586,10 @@
       "summary": "SEM - Mensaje de espera en cola de enfermeras",
       "status": "To Do",
       "status_category": "To Do",
-      "assignee": "Aitor Casas",
+      "assignee": null,
       "issuetype": "Task",
       "created": "2026-03-06",
-      "updated": "2026-03-09",
+      "updated": "2026-03-15",
       "resolutiondate": "",
       "labels": [
         "SEM"
@@ -605,7 +603,7 @@
       "assignee": "Adrià Sastre",
       "issuetype": "Task",
       "created": "2026-03-05",
-      "updated": "2026-03-05",
+      "updated": "2026-03-15",
       "resolutiondate": "",
       "labels": [
         "Securitas-leadgen"
@@ -919,7 +917,7 @@
       "assignee": "Adrià Sastre",
       "issuetype": "Task",
       "created": "2026-02-27",
-      "updated": "2026-03-02",
+      "updated": "2026-03-15",
       "resolutiondate": "",
       "labels": [
         "SegurCaixa"
@@ -975,7 +973,7 @@
       "assignee": "Francisca Martelli",
       "issuetype": "Task",
       "created": "2026-02-26",
-      "updated": "2026-03-12",
+      "updated": "2026-03-15",
       "resolutiondate": "",
       "labels": [
         "Guess"
@@ -1402,12 +1400,12 @@
     {
       "key": "PS-5089",
       "summary": "Alsa -  Gestion de billetes  new use case",
-      "status": "In Progress",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "María Sánchez",
       "issuetype": "Discovery Task",
       "created": "2026-02-23",
-      "updated": "2026-03-09",
+      "updated": "2026-03-15",
       "resolutiondate": "",
       "labels": [
         "Alsa"
@@ -1446,10 +1444,10 @@
       "summary": "Alsa - Snippet chat en página de ayuda",
       "status": "To Do",
       "status_category": "To Do",
-      "assignee": "María Sánchez",
+      "assignee": "Adrià Sastre",
       "issuetype": "Task",
       "created": "2026-02-22",
-      "updated": "2026-03-12",
+      "updated": "2026-03-15",
       "resolutiondate": "",
       "labels": [
         "Alsa"
@@ -1737,10 +1735,10 @@
       "summary": "Ralph Lauren - Create a tool that allows an agent to invoke a specific node (ex. Handoff)",
       "status": "Ready for review",
       "status_category": "In Progress",
-      "assignee": "Lorena Sánchez-Toril Nicolás",
+      "assignee": "Adrià Sastre",
       "issuetype": "Task",
       "created": "2026-02-19",
-      "updated": "2026-03-08",
+      "updated": "2026-03-15",
       "resolutiondate": "",
       "labels": [
         "Ralph_Lauren"
