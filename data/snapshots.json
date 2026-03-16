@@ -3458,24 +3458,24 @@
     "date": "2026-03-15"
   },
   {
-    "total_open": 183,
-    "total_done": 3462,
+    "total_open": 179,
+    "total_done": 3466,
     "total": 3645,
     "by_status": {
-      "To Do": 52,
-      "Ready for review": 35,
-      "Done": 2758,
-      "In Progress": 24,
+      "To Do": 55,
+      "Ready for review": 27,
+      "Done": 2762,
+      "In Progress": 23,
       "In production": 5,
-      "Open": 45,
-      "Ready to Deliver": 27,
+      "Open": 43,
+      "Ready to Deliver": 31,
       "Closed": 704,
       "In Review": 2,
       "APPROVED FOR PRODUCTION": 1
     },
     "by_assignee": {
       "Unassigned": {
-        "open": 48,
+        "open": 47,
         "done": 320,
         "in_progress": 0
       },
@@ -3495,8 +3495,8 @@
         "in_progress": 0
       },
       "Aitor Casas": {
-        "open": 3,
-        "done": 239,
+        "open": 2,
+        "done": 240,
         "in_progress": 3
       },
       "irene callejas": {
@@ -3510,7 +3510,7 @@
         "in_progress": 0
       },
       "Adrià Sastre": {
-        "open": 32,
+        "open": 33,
         "done": 657,
         "in_progress": 3
       },
@@ -3540,14 +3540,14 @@
         "in_progress": 0
       },
       "Vicky Correbo": {
-        "open": 3,
-        "done": 2,
+        "open": 2,
+        "done": 3,
         "in_progress": 1
       },
       "Francisca Martelli": {
         "open": 4,
-        "done": 19,
-        "in_progress": 3
+        "done": 20,
+        "in_progress": 2
       },
       "eric": {
         "open": 0,
@@ -3560,8 +3560,8 @@
         "in_progress": 4
       },
       "Jonatan Rojas": {
-        "open": 1,
-        "done": 291,
+        "open": 0,
+        "done": 292,
         "in_progress": 0
       },
       "Albert Gomariz": {

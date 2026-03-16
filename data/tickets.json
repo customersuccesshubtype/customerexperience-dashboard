@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-16 08:06 UTC",
+  "last_updated": "2026-03-16 10:44 UTC",
   "tickets": [
     {
       "key": "PS-5194",
@@ -75,7 +75,7 @@
       "assignee": "irene callejas",
       "issuetype": "Task",
       "created": "2026-03-13",
-      "updated": "2026-03-13",
+      "updated": "2026-03-16",
       "resolutiondate": "",
       "labels": [
         "SEM"
@@ -224,12 +224,12 @@
     {
       "key": "PS-5177",
       "summary": "Michael Kors - Activate AI Copilot for 1 month",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Aitor Casas",
       "issuetype": "Task",
       "created": "2026-03-11",
-      "updated": "2026-03-11",
+      "updated": "2026-03-16",
       "resolutiondate": "",
       "labels": [
         "Michael-Kors"
@@ -336,12 +336,12 @@
     {
       "key": "PS-5169",
       "summary": "Occident - Implement adjustments in the way we are communicating with their systems",
-      "status": "Open",
+      "status": "To Do",
       "status_category": "To Do",
-      "assignee": null,
+      "assignee": "Adrià Sastre",
       "issuetype": "Task",
       "created": "2026-03-10",
-      "updated": "2026-03-10",
+      "updated": "2026-03-16",
       "resolutiondate": "",
       "labels": [
         "occident"
@@ -355,7 +355,7 @@
       "assignee": "Adrià Sastre",
       "issuetype": "Task",
       "created": "2026-03-10",
-      "updated": "2026-03-10",
+      "updated": "2026-03-16",
       "resolutiondate": "",
       "labels": [
         "occident"
@@ -364,12 +364,12 @@
     {
       "key": "PS-5167",
       "summary": "Occident - Implement changes in the way we are communicating data",
-      "status": "Open",
+      "status": "To Do",
       "status_category": "To Do",
       "assignee": "Julieta Mezza",
       "issuetype": "Epic",
       "created": "2026-03-10",
-      "updated": "2026-03-10",
+      "updated": "2026-03-16",
       "resolutiondate": "",
       "labels": [
         "occident"
@@ -765,7 +765,7 @@
       "assignee": "Alexander Skalatskiy",
       "issuetype": "Task",
       "created": "2026-03-03",
-      "updated": "2026-03-12",
+      "updated": "2026-03-16",
       "resolutiondate": "",
       "labels": [
         "AirEuropa"
@@ -968,12 +968,12 @@
     {
       "key": "PS-5120",
       "summary": "Guess - Eliminate Personal Shopper WhatsApp Flows (or disconnect)",
-      "status": "In Progress",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Francisca Martelli",
       "issuetype": "Task",
       "created": "2026-02-26",
-      "updated": "2026-03-15",
+      "updated": "2026-03-16",
       "resolutiondate": "",
       "labels": [
         "Guess"
@@ -1288,12 +1288,12 @@
     {
       "key": "PS-5097",
       "summary": "Jetsmart - Activate AI Agents",
-      "status": "Ready for review",
-      "status_category": "In Progress",
+      "status": "To Do",
+      "status_category": "To Do",
       "assignee": "Julieta Mezza",
       "issuetype": "Task",
       "created": "2026-02-24",
-      "updated": "2026-03-02",
+      "updated": "2026-03-16",
       "resolutiondate": "",
       "labels": [
         "JetSmart"
@@ -2433,12 +2433,12 @@
     {
       "key": "PS-5007",
       "summary": "Air Europa - Consultar Reserva - Add Fares rules",
-      "status": "Ready for review",
+      "status": "Ready to Deliver",
       "status_category": "In Progress",
       "assignee": "Alexander Skalatskiy",
       "issuetype": "Task",
       "created": "2026-02-12",
-      "updated": "2026-03-02",
+      "updated": "2026-03-16",
       "resolutiondate": "",
       "labels": [
         "AirEuropa"
@@ -2564,7 +2564,7 @@
       "assignee": "Julieta Mezza",
       "issuetype": "Task",
       "created": "2026-02-10",
-      "updated": "2026-02-26",
+      "updated": "2026-03-16",
       "resolutiondate": "",
       "labels": [
         "occident"
@@ -3019,12 +3019,12 @@
     {
       "key": "PS-4963",
       "summary": "Air Europa - Consultar Reserva - Configure follow up messages after user redirection to Refex when clicking on \"añadir servicios\"",
-      "status": "Ready for review",
+      "status": "Ready to Deliver",
       "status_category": "In Progress",
       "assignee": "Alexander Skalatskiy",
       "issuetype": "Task",
       "created": "2026-02-04",
-      "updated": "2026-03-03",
+      "updated": "2026-03-16",
       "resolutiondate": "",
       "labels": [
         "AirEuropa"
@@ -3173,12 +3173,12 @@
     {
       "key": "PS-4950",
       "summary": "Air Europa - Consultar Reserva - Add Tiers rules",
-      "status": "Ready for review",
+      "status": "Ready to Deliver",
       "status_category": "In Progress",
       "assignee": "Alexander Skalatskiy",
       "issuetype": "Task",
       "created": "2026-02-03",
-      "updated": "2026-02-13",
+      "updated": "2026-03-16",
       "resolutiondate": "",
       "labels": [
         "AirEuropa"
@@ -3215,12 +3215,12 @@
     {
       "key": "PS-4946",
       "summary": "Air Europa - Consultar Reserva - Add trains information to the journeys",
-      "status": "Ready for review",
+      "status": "Ready to Deliver",
       "status_category": "In Progress",
       "assignee": "Alexander Skalatskiy",
       "issuetype": "Task",
       "created": "2026-02-03",
-      "updated": "2026-03-02",
+      "updated": "2026-03-16",
       "resolutiondate": "",
       "labels": [
         "AirEuropa"
@@ -3262,7 +3262,7 @@
       "assignee": "Marta Marron",
       "issuetype": "Task",
       "created": "2026-02-03",
-      "updated": "2026-02-23",
+      "updated": "2026-03-16",
       "resolutiondate": "",
       "labels": [
         "occident"
@@ -3437,12 +3437,12 @@
     {
       "key": "PS-4930",
       "summary": "Jetsmart - Design \"buy a flight\"",
-      "status": "Ready for review",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Vicky Correbo",
       "issuetype": "Task",
       "created": "2026-01-30",
-      "updated": "2026-03-02",
+      "updated": "2026-03-16",
       "resolutiondate": "",
       "labels": [
         "JetSmart"
@@ -3998,12 +3998,12 @@
     {
       "key": "PS-4881",
       "summary": "Air Europa - Consultar reserva - New rules and adjustments",
-      "status": "Ready for review",
+      "status": "Ready to Deliver",
       "status_category": "In Progress",
       "assignee": "Alexander Skalatskiy",
       "issuetype": "Task",
       "created": "2026-01-22",
-      "updated": "2026-03-02",
+      "updated": "2026-03-16",
       "resolutiondate": "",
       "labels": [
         "AirEuropa"
@@ -5688,12 +5688,12 @@
     {
       "key": "PS-4745",
       "summary": "Jetsmart - Add extras adjustments (next step)",
-      "status": "Ready to Deliver",
-      "status_category": "In Progress",
+      "status": "To Do",
+      "status_category": "To Do",
       "assignee": "Pep Alonso",
       "issuetype": "Task",
       "created": "2025-12-16",
-      "updated": "2026-03-10",
+      "updated": "2026-03-16",
       "resolutiondate": "",
       "labels": [
         "JetSmart"
@@ -10424,12 +10424,12 @@
     {
       "key": "PS-4355",
       "summary": "Air Europa - Integrate con AVAs service \"chat context\" to obtain info",
-      "status": "Ready for review",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Jonatan Rojas",
       "issuetype": "Epic",
       "created": "2025-09-02",
-      "updated": "2026-03-06",
+      "updated": "2026-03-16",
       "resolutiondate": "",
       "labels": [
         "AirEuropa"
