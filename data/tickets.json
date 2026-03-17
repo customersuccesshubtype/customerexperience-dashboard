@@ -1,6 +1,34 @@
 {
-  "last_updated": "2026-03-16 10:44 UTC",
+  "last_updated": "2026-03-17 07:52 UTC",
   "tickets": [
+    {
+      "key": "PS-5197",
+      "summary": "Retorna - Image processing",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": null,
+      "issuetype": "Discovery Task",
+      "created": "2026-03-16",
+      "updated": "2026-03-16",
+      "resolutiondate": "",
+      "labels": [
+        "Retorna"
+      ]
+    },
+    {
+      "key": "PS-5196",
+      "summary": "RACC START - Integration of new driving schools",
+      "status": "Open",
+      "status_category": "To Do",
+      "assignee": "María Sánchez",
+      "issuetype": "Task",
+      "created": "2026-03-16",
+      "updated": "2026-03-16",
+      "resolutiondate": "",
+      "labels": [
+        "RACC_START"
+      ]
+    },
     {
       "key": "PS-5194",
       "summary": "CCMA - Que los casos que cuya contact info field Denúncia = Si se les ponga automáticamente la contact reason \"Denúncies/Testimonis\"",
@@ -9,9 +37,11 @@
       "assignee": null,
       "issuetype": "Task",
       "created": "2026-03-15",
-      "updated": "2026-03-15",
+      "updated": "2026-03-16",
       "resolutiondate": "",
-      "labels": []
+      "labels": [
+        "CCMA"
+      ]
     },
     {
       "key": "PS-5192",
@@ -35,7 +65,7 @@
       "assignee": "Alexander Skalatskiy",
       "issuetype": "Bug",
       "created": "2026-03-13",
-      "updated": "2026-03-13",
+      "updated": "2026-03-16",
       "resolutiondate": "",
       "labels": [
         "AirEuropa"
@@ -46,10 +76,10 @@
       "summary": "Soledad - Design error modal in webview",
       "status": "To Do",
       "status_category": "To Do",
-      "assignee": "Andrea Talal Haidar",
+      "assignee": "Vicky Correbo",
       "issuetype": "Task",
       "created": "2026-03-13",
-      "updated": "2026-03-13",
+      "updated": "2026-03-16",
       "resolutiondate": "",
       "labels": [
         "Soledad"
@@ -84,12 +114,12 @@
     {
       "key": "PS-5187",
       "summary": "Verisure IT - When we receive the templates and capture the extra params, insert them in the existing \"conversation info fields\"",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "In Progress",
+      "status_category": "In Progress",
       "assignee": "Evgeni Slavyanov",
       "issuetype": "Task",
       "created": "2026-03-12",
-      "updated": "2026-03-12",
+      "updated": "2026-03-16",
       "resolutiondate": "",
       "labels": [
         "Verisure_IT"
@@ -103,7 +133,7 @@
       "assignee": "Adrià Sastre",
       "issuetype": "Task",
       "created": "2026-03-12",
-      "updated": "2026-03-12",
+      "updated": "2026-03-16",
       "resolutiondate": "",
       "labels": [
         "occident"
@@ -114,10 +144,10 @@
       "summary": "Guess - Store name + email address as Contact Info fields for automated conversations",
       "status": "To Do",
       "status_category": "To Do",
-      "assignee": null,
+      "assignee": "Evgeni Slavyanov",
       "issuetype": "Task",
       "created": "2026-03-12",
-      "updated": "2026-03-12",
+      "updated": "2026-03-16",
       "resolutiondate": "",
       "labels": [
         "Guess"
@@ -140,12 +170,12 @@
     {
       "key": "PS-5183",
       "summary": "Ralph Lauren - exclude duplicates and new tag parameter",
-      "status": "In production",
+      "status": "Done",
       "status_category": "Done",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-03-12",
-      "updated": "2026-03-13",
+      "updated": "2026-03-16",
       "resolutiondate": "",
       "labels": [
         "Ralph_Lauren"
@@ -198,10 +228,10 @@
       "summary": "Michael Kors - Change the name and email capture to the handoff stage",
       "status": "To Do",
       "status_category": "To Do",
-      "assignee": "María Sánchez",
+      "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-03-11",
-      "updated": "2026-03-11",
+      "updated": "2026-03-16",
       "resolutiondate": "",
       "labels": [
         "Michael-Kors"
@@ -313,7 +343,7 @@
       "assignee": "Adrià Sastre",
       "issuetype": "Task",
       "created": "2026-03-10",
-      "updated": "2026-03-10",
+      "updated": "2026-03-16",
       "resolutiondate": "",
       "labels": [
         "TMB"
@@ -350,8 +380,8 @@
     {
       "key": "PS-5168",
       "summary": "Occident - Estimate adjustments to the way we are communication with their systems",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Ready for review",
+      "status_category": "In Progress",
       "assignee": "Adrià Sastre",
       "issuetype": "Task",
       "created": "2026-03-10",
@@ -418,12 +448,12 @@
     {
       "key": "PS-5163",
       "summary": "Ralph Lauren - flow campaigns",
-      "status": "In production",
+      "status": "Done",
       "status_category": "Done",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-03-09",
-      "updated": "2026-03-13",
+      "updated": "2026-03-16",
       "resolutiondate": "",
       "labels": [
         "Ralph_Lauren"
@@ -432,12 +462,12 @@
     {
       "key": "PS-5162",
       "summary": "Ralph Lauren - Whatsapp consent second interaction",
-      "status": "In production",
+      "status": "Done",
       "status_category": "Done",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-03-09",
-      "updated": "2026-03-10",
+      "updated": "2026-03-16",
       "resolutiondate": "",
       "labels": [
         "Ralph_Lauren"
@@ -544,12 +574,12 @@
     {
       "key": "PS-5154",
       "summary": "Tendam- Review AI Agents prompts based on AI QA results",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "In Progress",
+      "status_category": "In Progress",
       "assignee": "María Sánchez",
       "issuetype": "Task",
       "created": "2026-03-06",
-      "updated": "2026-03-06",
+      "updated": "2026-03-16",
       "resolutiondate": "",
       "labels": [
         "Tendam"
@@ -589,7 +619,7 @@
       "assignee": null,
       "issuetype": "Task",
       "created": "2026-03-06",
-      "updated": "2026-03-15",
+      "updated": "2026-03-16",
       "resolutiondate": "",
       "labels": [
         "SEM"
@@ -603,7 +633,7 @@
       "assignee": "Adrià Sastre",
       "issuetype": "Task",
       "created": "2026-03-05",
-      "updated": "2026-03-15",
+      "updated": "2026-03-16",
       "resolutiondate": "",
       "labels": [
         "Securitas-leadgen"
@@ -748,14 +778,16 @@
     {
       "key": "PS-5138",
       "summary": "Air Europa - Adjust to use the new Rating",
-      "status": "Done",
-      "status_category": "Done",
+      "status": "To Do",
+      "status_category": "To Do",
       "assignee": "Alexander Skalatskiy",
       "issuetype": "Task",
       "created": "2026-03-03",
-      "updated": "2026-03-03",
+      "updated": "2026-03-16",
       "resolutiondate": "",
-      "labels": []
+      "labels": [
+        "AirEuropa"
+      ]
     },
     {
       "key": "PS-5137",
@@ -1024,12 +1056,12 @@
     {
       "key": "PS-5116",
       "summary": "RACC - Ahorro Energético - After 2 reminders go to a Specific Node and do a Handoff",
-      "status": "Open",
-      "status_category": "To Do",
+      "status": "Closed",
+      "status_category": "Done",
       "assignee": null,
       "issuetype": "Task",
       "created": "2026-02-25",
-      "updated": "2026-02-28",
+      "updated": "2026-03-16",
       "resolutiondate": "",
       "labels": [
         "RACC"
@@ -1043,7 +1075,7 @@
       "assignee": "María Sánchez",
       "issuetype": "Discovery Task",
       "created": "2026-02-25",
-      "updated": "2026-03-09",
+      "updated": "2026-03-16",
       "resolutiondate": "",
       "labels": [
         "Michael-Kors"
@@ -1234,10 +1266,10 @@
       "summary": "CCMA Tot es Mou - Bulk image download solution for chatbot cases",
       "status": "Open",
       "status_category": "To Do",
-      "assignee": null,
+      "assignee": "Aitor Casas",
       "issuetype": "Task",
       "created": "2026-02-24",
-      "updated": "2026-02-25",
+      "updated": "2026-03-16",
       "resolutiondate": "",
       "labels": [
         "ccma"
@@ -1274,12 +1306,12 @@
     {
       "key": "PS-5098",
       "summary": "RACC - Ahorro Energético - Detect conversations that come from the landing (ideally have them go through the Keyword)",
-      "status": "In production",
+      "status": "Done",
       "status_category": "Done",
       "assignee": "Adrià Sastre",
       "issuetype": "Task",
       "created": "2026-02-24",
-      "updated": "2026-03-13",
+      "updated": "2026-03-16",
       "resolutiondate": "",
       "labels": [
         "RACC"
@@ -1442,12 +1474,12 @@
     {
       "key": "PS-5086",
       "summary": "Alsa - Snippet chat en página de ayuda",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "In Progress",
+      "status_category": "In Progress",
       "assignee": "Adrià Sastre",
       "issuetype": "Task",
       "created": "2026-02-22",
-      "updated": "2026-03-15",
+      "updated": "2026-03-16",
       "resolutiondate": "",
       "labels": [
         "Alsa"
@@ -1733,12 +1765,12 @@
     {
       "key": "PS-5060",
       "summary": "Ralph Lauren - Create a tool that allows an agent to invoke a specific node (ex. Handoff)",
-      "status": "Ready for review",
+      "status": "In Progress",
       "status_category": "In Progress",
       "assignee": "Adrià Sastre",
       "issuetype": "Task",
       "created": "2026-02-19",
-      "updated": "2026-03-15",
+      "updated": "2026-03-16",
       "resolutiondate": "",
       "labels": [
         "Ralph_Lauren"
@@ -2270,7 +2302,7 @@
       "assignee": "Adrià Sastre",
       "issuetype": "Task",
       "created": "2026-02-13",
-      "updated": "2026-03-13",
+      "updated": "2026-03-16",
       "resolutiondate": "",
       "labels": [
         "RACC"
@@ -2279,12 +2311,12 @@
     {
       "key": "PS-5019",
       "summary": "Verisure IT - Implement Hubtype Webhook Endpoint to Receive Opportunity ID & Contact Profile",
-      "status": "Open",
+      "status": "To Do",
       "status_category": "To Do",
-      "assignee": null,
+      "assignee": "Evgeni Slavyanov",
       "issuetype": "Task",
       "created": "2026-02-13",
-      "updated": "2026-02-25",
+      "updated": "2026-03-16",
       "resolutiondate": "",
       "labels": [
         "Verisure_IT"
@@ -3788,12 +3820,12 @@
     {
       "key": "PS-4900",
       "summary": "USAV - Redo the bot with latest version",
-      "status": "Ready for review",
-      "status_category": "In Progress",
+      "status": "APPROVED FOR PRODUCTION",
+      "status_category": "Done",
       "assignee": "Adrià Sastre",
       "issuetype": "Task",
       "created": "2026-01-26",
-      "updated": "2026-03-09",
+      "updated": "2026-03-16",
       "resolutiondate": "",
       "labels": [
         "USAV"
@@ -5291,7 +5323,7 @@
       "assignee": "Adrià Sastre",
       "issuetype": "Task",
       "created": "2025-12-24",
-      "updated": "2026-03-09",
+      "updated": "2026-03-16",
       "resolutiondate": "",
       "labels": [
         "WizzAir"
@@ -5688,9 +5720,9 @@
     {
       "key": "PS-4745",
       "summary": "Jetsmart - Add extras adjustments (next step)",
-      "status": "To Do",
-      "status_category": "To Do",
-      "assignee": "Pep Alonso",
+      "status": "In Progress",
+      "status_category": "In Progress",
+      "assignee": "Adrià Sastre",
       "issuetype": "Task",
       "created": "2025-12-16",
       "updated": "2026-03-16",
@@ -6191,12 +6223,12 @@
     {
       "key": "PS-4703",
       "summary": "Retorna - Configure a second API call (GET user info) when user asks about remittance status",
-      "status": "Ready for review",
-      "status_category": "In Progress",
-      "assignee": "Alexander Skalatskiy",
+      "status": "Done",
+      "status_category": "Done",
+      "assignee": "Evgeni Slavyanov",
       "issuetype": "Task",
       "created": "2025-12-03",
-      "updated": "2026-03-06",
+      "updated": "2026-03-16",
       "resolutiondate": "",
       "labels": [
         "Retorna"
@@ -7960,12 +7992,12 @@
     {
       "key": "PS-4560",
       "summary": "Tendam - Update Pedro del Hierro to Botonic Latest version",
-      "status": "Ready for review",
+      "status": "In Review",
       "status_category": "In Progress",
       "assignee": "Adrià Sastre",
       "issuetype": "Task",
       "created": "2025-10-21",
-      "updated": "2026-03-06",
+      "updated": "2026-03-16",
       "resolutiondate": "",
       "labels": [
         "Tendam"
@@ -7979,7 +8011,7 @@
       "assignee": "Adrià Sastre",
       "issuetype": "Task",
       "created": "2025-10-21",
-      "updated": "2026-02-17",
+      "updated": "2026-03-16",
       "resolutiondate": "",
       "labels": [
         "Tendam"
@@ -8028,12 +8060,12 @@
     {
       "key": "PS-4555",
       "summary": "Tendam - Update Fifty to Botonic Latest version",
-      "status": "Ready for review",
+      "status": "In Review",
       "status_category": "In Progress",
       "assignee": "Adrià Sastre",
       "issuetype": "Task",
       "created": "2025-10-21",
-      "updated": "2026-03-13",
+      "updated": "2026-03-16",
       "resolutiondate": "",
       "labels": [
         "Tendam"
