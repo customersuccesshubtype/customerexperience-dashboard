@@ -1,6 +1,23 @@
 {
-  "last_updated": "2026-03-17 08:01 UTC",
+  "last_updated": "2026-03-18 07:59 UTC",
   "opportunities": [
+    {
+      "id": "006Sa00000cacsCIAQ",
+      "name": "2026-U-JetSMART Airlines-Chile-1 Desk Licences",
+      "type": "Upsell",
+      "stage": "Closed Won",
+      "is_closed": true,
+      "is_won": true,
+      "probability": 100.0,
+      "amount": 280.0,
+      "arr": 480.0,
+      "owner": "Julieta Mezza",
+      "cs_lead": "",
+      "account": "JetSMART Airlines",
+      "created": "2026-03-17",
+      "close_date": "2026-03-17",
+      "start_date": "2026-03-15"
+    },
     {
       "id": "006Sa00000cPbEcIAK",
       "name": "2026-R-Ralph Lauren-UK pilot-CA (WA commerce) - 4 month extension",
@@ -2708,17 +2725,17 @@
       "id": "006Sa00000JF1liIAD",
       "name": "2026R-Concentrix-Extended Support",
       "type": "Renewal",
-      "stage": "Opportunity identified",
-      "is_closed": false,
+      "stage": "Closed Lost",
+      "is_closed": true,
       "is_won": false,
-      "probability": 10.0,
+      "probability": 0.0,
       "amount": 30000.0,
       "arr": 30000.0,
       "owner": "Marta Marron",
       "cs_lead": "Marta Marron",
       "account": "P-Webhelp-Spain",
       "created": "2025-04-01",
-      "close_date": "2026-02-01",
+      "close_date": "2026-03-17",
       "start_date": "2026-04-01"
     },
     {
