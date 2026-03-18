@@ -1,15 +1,57 @@
 {
-  "last_updated": "2026-03-17 07:52 UTC",
+  "last_updated": "2026-03-18 07:50 UTC",
   "tickets": [
+    {
+      "key": "PS-5200",
+      "summary": "Retorna - Add Twilio Test number",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Aitor Casas",
+      "issuetype": "Task",
+      "created": "2026-03-17",
+      "updated": "2026-03-17",
+      "resolutiondate": "",
+      "labels": [
+        "Retorna"
+      ]
+    },
+    {
+      "key": "PS-5199",
+      "summary": "SEM - Fix webchat issue in app",
+      "status": "In Progress",
+      "status_category": "In Progress",
+      "assignee": "Adrià Sastre",
+      "issuetype": "Task",
+      "created": "2026-03-17",
+      "updated": "2026-03-17",
+      "resolutiondate": "",
+      "labels": [
+        "SEM"
+      ]
+    },
+    {
+      "key": "PS-5198",
+      "summary": "TMB - Add fallback for Zendesk ticketing tool",
+      "status": "Ready for review",
+      "status_category": "In Progress",
+      "assignee": "irene callejas",
+      "issuetype": "Task",
+      "created": "2026-03-17",
+      "updated": "2026-03-17",
+      "resolutiondate": "",
+      "labels": [
+        "TMB"
+      ]
+    },
     {
       "key": "PS-5197",
       "summary": "Retorna - Image processing",
-      "status": "To Do",
+      "status": "Open",
       "status_category": "To Do",
       "assignee": null,
       "issuetype": "Discovery Task",
       "created": "2026-03-16",
-      "updated": "2026-03-16",
+      "updated": "2026-03-17",
       "resolutiondate": "",
       "labels": [
         "Retorna"
@@ -34,10 +76,10 @@
       "summary": "CCMA - Que los casos que cuya contact info field Denúncia = Si se les ponga automáticamente la contact reason \"Denúncies/Testimonis\"",
       "status": "To Do",
       "status_category": "To Do",
-      "assignee": null,
+      "assignee": "Evgeni Slavyanov",
       "issuetype": "Task",
       "created": "2026-03-15",
-      "updated": "2026-03-16",
+      "updated": "2026-03-17",
       "resolutiondate": "",
       "labels": [
         "CCMA"
@@ -46,12 +88,12 @@
     {
       "key": "PS-5192",
       "summary": "Ralph Lauren - item_group_id exclusions and 4 items on carousels",
-      "status": "Ready for review",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-03-13",
-      "updated": "2026-03-13",
+      "updated": "2026-03-17",
       "resolutiondate": "",
       "labels": [
         "Ralph_Lauren"
@@ -65,7 +107,7 @@
       "assignee": "Alexander Skalatskiy",
       "issuetype": "Bug",
       "created": "2026-03-13",
-      "updated": "2026-03-16",
+      "updated": "2026-03-17",
       "resolutiondate": "",
       "labels": [
         "AirEuropa"
@@ -74,12 +116,12 @@
     {
       "key": "PS-5190",
       "summary": "Soledad - Design error modal in webview",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Ready for review",
+      "status_category": "In Progress",
       "assignee": "Vicky Correbo",
       "issuetype": "Task",
       "created": "2026-03-13",
-      "updated": "2026-03-16",
+      "updated": "2026-03-17",
       "resolutiondate": "",
       "labels": [
         "Soledad"
@@ -105,7 +147,7 @@
       "assignee": "irene callejas",
       "issuetype": "Task",
       "created": "2026-03-13",
-      "updated": "2026-03-16",
+      "updated": "2026-03-17",
       "resolutiondate": "",
       "labels": [
         "SEM"
@@ -114,12 +156,12 @@
     {
       "key": "PS-5187",
       "summary": "Verisure IT - When we receive the templates and capture the extra params, insert them in the existing \"conversation info fields\"",
-      "status": "In Progress",
+      "status": "Ready to Deliver",
       "status_category": "In Progress",
       "assignee": "Evgeni Slavyanov",
       "issuetype": "Task",
       "created": "2026-03-12",
-      "updated": "2026-03-16",
+      "updated": "2026-03-17",
       "resolutiondate": "",
       "labels": [
         "Verisure_IT"
@@ -142,12 +184,12 @@
     {
       "key": "PS-5185",
       "summary": "Guess - Store name + email address as Contact Info fields for automated conversations",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "In Progress",
+      "status_category": "In Progress",
       "assignee": "Evgeni Slavyanov",
       "issuetype": "Task",
       "created": "2026-03-12",
-      "updated": "2026-03-16",
+      "updated": "2026-03-17",
       "resolutiondate": "",
       "labels": [
         "Guess"
@@ -296,12 +338,12 @@
     {
       "key": "PS-5174",
       "summary": "SEM - Capacity for the AI Agent to offer an agent",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "In Progress",
+      "status_category": "In Progress",
       "assignee": "irene callejas",
       "issuetype": "Task",
       "created": "2026-03-11",
-      "updated": "2026-03-13",
+      "updated": "2026-03-17",
       "resolutiondate": "",
       "labels": [
         "SEM"
@@ -352,12 +394,12 @@
     {
       "key": "PS-5170",
       "summary": "Ralph Lauren - Incite iteration in post carousel agent  output",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Ready for review",
+      "status_category": "In Progress",
       "assignee": "irene callejas",
       "issuetype": "Task",
       "created": "2026-03-10",
-      "updated": "2026-03-13",
+      "updated": "2026-03-17",
       "resolutiondate": "",
       "labels": [
         "Ralph_Lauren"
@@ -518,12 +560,12 @@
     {
       "key": "PS-5159",
       "summary": "Ralph Lauren - Customer Service Responses Adjustment",
-      "status": "In Progress",
+      "status": "Ready for review",
       "status_category": "In Progress",
       "assignee": "irene callejas",
       "issuetype": "Task",
       "created": "2026-03-08",
-      "updated": "2026-03-15",
+      "updated": "2026-03-17",
       "resolutiondate": "",
       "labels": [
         "Ralph_Lauren"
@@ -531,13 +573,13 @@
     },
     {
       "key": "PS-5158",
-      "summary": "Ralph Lauren - Weekly Executions",
-      "status": "Done",
-      "status_category": "Done",
+      "summary": "Ralph Lauren - Weekly Executions March - Week 3",
+      "status": "To Do",
+      "status_category": "To Do",
       "assignee": "irene callejas",
       "issuetype": "Task",
       "created": "2026-03-06",
-      "updated": "2026-03-15",
+      "updated": "2026-03-17",
       "resolutiondate": "",
       "labels": [
         "Ralph_Lauren"
@@ -944,12 +986,12 @@
     {
       "key": "PS-5125",
       "summary": "SegurCaixa Adeslas - Request to have fields capture in APIs display in Conversation Fields in the Dashboard",
-      "status": "To Do",
+      "status": "Open",
       "status_category": "To Do",
       "assignee": "Adrià Sastre",
       "issuetype": "Task",
       "created": "2026-02-27",
-      "updated": "2026-03-15",
+      "updated": "2026-03-17",
       "resolutiondate": "",
       "labels": [
         "SegurCaixa"
@@ -958,12 +1000,12 @@
     {
       "key": "PS-5123",
       "summary": "Ralph Lauren - Some varied fine tunning",
-      "status": "In Progress",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "irene callejas",
       "issuetype": "Task",
       "created": "2026-02-27",
-      "updated": "2026-03-10",
+      "updated": "2026-03-17",
       "resolutiondate": "",
       "labels": [
         "Ralph_Lauren"
@@ -1264,12 +1306,12 @@
     {
       "key": "PS-5101",
       "summary": "CCMA Tot es Mou - Bulk image download solution for chatbot cases",
-      "status": "Open",
-      "status_category": "To Do",
-      "assignee": "Aitor Casas",
+      "status": "Ready for review",
+      "status_category": "In Progress",
+      "assignee": "Marta Marron",
       "issuetype": "Task",
       "created": "2026-02-24",
-      "updated": "2026-03-16",
+      "updated": "2026-03-18",
       "resolutiondate": "",
       "labels": [
         "ccma"
@@ -1460,12 +1502,12 @@
     {
       "key": "PS-5087",
       "summary": "Provide a miro of how the UX would look like if we include the whole list of driving schools.",
-      "status": "In Review",
-      "status_category": "In Progress",
+      "status": "Closed",
+      "status_category": "Done",
       "assignee": "Vicky Correbo",
       "issuetype": "Sub-task",
       "created": "2026-02-23",
-      "updated": "2026-03-05",
+      "updated": "2026-03-17",
       "resolutiondate": "",
       "labels": [
         "RACC_START"
@@ -1474,12 +1516,12 @@
     {
       "key": "PS-5086",
       "summary": "Alsa - Snippet chat en página de ayuda",
-      "status": "In Progress",
+      "status": "Ready to Deliver",
       "status_category": "In Progress",
       "assignee": "Adrià Sastre",
       "issuetype": "Task",
       "created": "2026-02-22",
-      "updated": "2026-03-16",
+      "updated": "2026-03-17",
       "resolutiondate": "",
       "labels": [
         "Alsa"
@@ -2311,12 +2353,12 @@
     {
       "key": "PS-5019",
       "summary": "Verisure IT - Implement Hubtype Webhook Endpoint to Receive Opportunity ID & Contact Profile",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "In Progress",
+      "status_category": "In Progress",
       "assignee": "Evgeni Slavyanov",
       "issuetype": "Task",
       "created": "2026-02-13",
-      "updated": "2026-03-16",
+      "updated": "2026-03-17",
       "resolutiondate": "",
       "labels": [
         "Verisure_IT"
@@ -3820,12 +3862,12 @@
     {
       "key": "PS-4900",
       "summary": "USAV - Redo the bot with latest version",
-      "status": "APPROVED FOR PRODUCTION",
+      "status": "In production",
       "status_category": "Done",
       "assignee": "Adrià Sastre",
       "issuetype": "Task",
       "created": "2026-01-26",
-      "updated": "2026-03-16",
+      "updated": "2026-03-17",
       "resolutiondate": "",
       "labels": [
         "USAV"
@@ -5227,7 +5269,7 @@
       "assignee": "Marta Marron",
       "issuetype": "Epic",
       "created": "2025-12-30",
-      "updated": "2026-03-11",
+      "updated": "2026-03-17",
       "resolutiondate": "",
       "labels": [
         "Verisure_IT"
@@ -9891,12 +9933,12 @@
     {
       "key": "PS-4400",
       "summary": "Ralph Lauren - Add voice notes to be interpreted.",
-      "status": "Ready for review",
-      "status_category": "In Progress",
+      "status": "Closed",
+      "status_category": "Done",
       "assignee": "Pep Alonso",
       "issuetype": "Task",
       "created": "2025-09-15",
-      "updated": "2026-02-05",
+      "updated": "2026-03-17",
       "resolutiondate": "",
       "labels": [
         "Ralph_Lauren"
