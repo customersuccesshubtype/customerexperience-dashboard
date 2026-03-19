@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-03-18 07:59 UTC",
+  "last_updated": "2026-03-19 07:56 UTC",
   "opportunities": [
     {
       "id": "006Sa00000cacsCIAQ",
-      "name": "2026-U-JetSMART Airlines-Chile-1 Desk Licences",
+      "name": "2026-U-JetSMART Airlines-Chile-1 Desk License",
       "type": "Upsell",
       "stage": "Closed Won",
       "is_closed": true,
@@ -1046,8 +1046,8 @@
       "is_closed": false,
       "is_won": false,
       "probability": 10.0,
-      "amount": 47114.64,
-      "arr": 47114.64,
+      "amount": 47020.56,
+      "arr": 47020.56,
       "owner": "Marta Marron",
       "cs_lead": "Francisca Martelli",
       "account": "Retorna",
