@@ -1,15 +1,247 @@
 {
-  "last_updated": "2026-03-18 07:50 UTC",
+  "last_updated": "2026-03-19 07:45 UTC",
   "tickets": [
     {
-      "key": "PS-5200",
-      "summary": "Retorna - Add Twilio Test number",
+      "key": "PS-5217",
+      "summary": "Ralph Lauren - Store Conversation info fields in Tinybird",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": null,
+      "issuetype": "Task",
+      "created": "2026-03-18",
+      "updated": "2026-03-18",
+      "resolutiondate": "",
+      "labels": []
+    },
+    {
+      "key": "PS-5216",
+      "summary": "Soledad - Implement error modal in webview",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Lorena Sánchez-Toril Nicolás",
+      "issuetype": "Task",
+      "created": "2026-03-18",
+      "updated": "2026-03-18",
+      "resolutiondate": "",
+      "labels": [
+        "Soledad"
+      ]
+    },
+    {
+      "key": "PS-5215",
+      "summary": "Internal - Update Bot Template to use the 0.46.0 @botonic and @hubtype packages",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": null,
+      "issuetype": "Task",
+      "created": "2026-03-18",
+      "updated": "2026-03-18",
+      "resolutiondate": "",
+      "labels": []
+    },
+    {
+      "key": "PS-5214",
+      "summary": "Air Europa - Activate the new Custom Rating message in webchat",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Alexander Skalatskiy",
+      "issuetype": "Task",
+      "created": "2026-03-18",
+      "updated": "2026-03-18",
+      "resolutiondate": "",
+      "labels": []
+    },
+    {
+      "key": "PS-5213",
+      "summary": "Tendam - Fill up the case summary field with the information available on the new endpoint released",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Adrià Sastre",
+      "issuetype": "Task",
+      "created": "2026-03-18",
+      "updated": "2026-03-18",
+      "resolutiondate": "",
+      "labels": [
+        "Tendam"
+      ]
+    },
+    {
+      "key": "PS-5212",
+      "summary": "Polarier - Endpoint de información por entidad (hotel)",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": null,
+      "issuetype": "Task",
+      "created": "2026-03-18",
+      "updated": "2026-03-18",
+      "resolutiondate": "",
+      "labels": [
+        "Polarier"
+      ]
+    },
+    {
+      "key": "PS-5211",
+      "summary": "Polarier - Crear los contact y conversation info fields",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": null,
+      "issuetype": "Task",
+      "created": "2026-03-18",
+      "updated": "2026-03-19",
+      "resolutiondate": "",
+      "labels": [
+        "Polarier"
+      ]
+    },
+    {
+      "key": "PS-5210",
+      "summary": "Polarier - Pedir a platform que habiliten el dominio https://cloud.polarier.com/ para que pueda llamar Hubtype como Iframe",
+      "status": "Ready for review",
+      "status_category": "In Progress",
+      "assignee": "Marta Marron",
+      "issuetype": "Task",
+      "created": "2026-03-18",
+      "updated": "2026-03-19",
+      "resolutiondate": "",
+      "labels": [
+        "Polarier"
+      ]
+    },
+    {
+      "key": "PS-5209",
+      "summary": "Polarier - Definir posible Shadowing para que puedan reportar más de una incidencia en cada conversacion",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": null,
+      "issuetype": "Task",
+      "created": "2026-03-18",
+      "updated": "2026-03-19",
+      "resolutiondate": "",
+      "labels": [
+        "Polarier"
+      ]
+    },
+    {
+      "key": "PS-5208",
+      "summary": "Polarier - Trasladar el contenido de todos los contact info y conversation info fields a Tinybird",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": null,
+      "issuetype": "Task",
+      "created": "2026-03-18",
+      "updated": "2026-03-19",
+      "resolutiondate": "",
+      "labels": [
+        "Polarier"
+      ]
+    },
+    {
+      "key": "PS-5207",
+      "summary": "Polarier - Codificar las incidencias que se reporten con el código y subcódigo de incidencia, y guardarlo en conversation info field",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": null,
+      "issuetype": "Task",
+      "created": "2026-03-18",
+      "updated": "2026-03-19",
+      "resolutiondate": "",
+      "labels": [
+        "Polarier"
+      ]
+    },
+    {
+      "key": "PS-5206",
+      "summary": "Polarier - Capturar el ID del Hotel y el nombre del Hotel en Contact Info Field y no solicitarlo en segunda interacción",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": null,
+      "issuetype": "Task",
+      "created": "2026-03-18",
+      "updated": "2026-03-19",
+      "resolutiondate": "",
+      "labels": [
+        "Polarier"
+      ]
+    },
+    {
+      "key": "PS-5205",
+      "summary": "Polarier - Crear contact reasons (que sean iguales o alineados con los códigos de incidencia)",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": null,
+      "issuetype": "Task",
+      "created": "2026-03-18",
+      "updated": "2026-03-19",
+      "resolutiondate": "",
+      "labels": [
+        "Polarier"
+      ]
+    },
+    {
+      "key": "PS-5204",
+      "summary": "Polarier - Definir qué codigos y subcódigos de incidencia corresponden a cada caso de uso (incidencia)",
+      "status": "In Progress",
+      "status_category": "In Progress",
+      "assignee": "Patrícia Sánchez",
+      "issuetype": "Task",
+      "created": "2026-03-18",
+      "updated": "2026-03-19",
+      "resolutiondate": "",
+      "labels": [
+        "Polarier"
+      ]
+    },
+    {
+      "key": "PS-5203",
+      "summary": "Polarier - Crear dos usuarios (uno para cada lavandería)",
       "status": "To Do",
       "status_category": "To Do",
       "assignee": "Aitor Casas",
       "issuetype": "Task",
+      "created": "2026-03-18",
+      "updated": "2026-03-19",
+      "resolutiondate": "",
+      "labels": [
+        "Polarier"
+      ]
+    },
+    {
+      "key": "PS-5202",
+      "summary": "Polarier - Crear dos proyectos, uno para cada lavandería - y una cola genérica en cada uno",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Aitor Casas",
+      "issuetype": "Task",
+      "created": "2026-03-18",
+      "updated": "2026-03-19",
+      "resolutiondate": "",
+      "labels": [
+        "Polarier"
+      ]
+    },
+    {
+      "key": "PS-5201",
+      "summary": "Polarier - Definir procedimiento de creación de los Códigos QR y crearlos",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": null,
+      "issuetype": "Task",
+      "created": "2026-03-18",
+      "updated": "2026-03-19",
+      "resolutiondate": "",
+      "labels": [
+        "Polarier"
+      ]
+    },
+    {
+      "key": "PS-5200",
+      "summary": "Retorna - Add Twilio Test number",
+      "status": "Done",
+      "status_category": "Done",
+      "assignee": "Aitor Casas",
+      "issuetype": "Task",
       "created": "2026-03-17",
-      "updated": "2026-03-17",
+      "updated": "2026-03-18",
       "resolutiondate": "",
       "labels": [
         "Retorna"
@@ -18,12 +250,12 @@
     {
       "key": "PS-5199",
       "summary": "SEM - Fix webchat issue in app",
-      "status": "In Progress",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Adrià Sastre",
-      "issuetype": "Task",
+      "issuetype": "Bug",
       "created": "2026-03-17",
-      "updated": "2026-03-17",
+      "updated": "2026-03-18",
       "resolutiondate": "",
       "labels": [
         "SEM"
@@ -102,12 +334,12 @@
     {
       "key": "PS-5191",
       "summary": "Air Europa - We are not delivering AVA messages",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Alexander Skalatskiy",
       "issuetype": "Bug",
       "created": "2026-03-13",
-      "updated": "2026-03-17",
+      "updated": "2026-03-18",
       "resolutiondate": "",
       "labels": [
         "AirEuropa"
@@ -172,10 +404,10 @@
       "summary": "Occident - Link the new test number to the \"Test Agencias\" project",
       "status": "To Do",
       "status_category": "To Do",
-      "assignee": "Adrià Sastre",
+      "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-03-12",
-      "updated": "2026-03-16",
+      "updated": "2026-03-18",
       "resolutiondate": "",
       "labels": [
         "occident"
@@ -242,10 +474,10 @@
       "summary": "SEM- Send the snippet to include in the Web (staging and prod)",
       "status": "To Do",
       "status_category": "To Do",
-      "assignee": null,
+      "assignee": "Adrià Sastre",
       "issuetype": "Task",
       "created": "2026-03-11",
-      "updated": "2026-03-11",
+      "updated": "2026-03-18",
       "resolutiondate": "",
       "labels": [
         "SEM"
@@ -352,12 +584,12 @@
     {
       "key": "PS-5173",
       "summary": "SEM - Añadir un rating a la finalización de los casos con agente (cuando no se descartan)",
-      "status": "Ready for review",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Patrícia Sánchez",
       "issuetype": "Task",
       "created": "2026-03-11",
-      "updated": "2026-03-15",
+      "updated": "2026-03-18",
       "resolutiondate": "",
       "labels": [
         "SEM"
@@ -380,12 +612,12 @@
     {
       "key": "PS-5171",
       "summary": "TMB - Apply code fix to open URL in same tab",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "In Progress",
+      "status_category": "In Progress",
       "assignee": "Adrià Sastre",
       "issuetype": "Task",
       "created": "2026-03-10",
-      "updated": "2026-03-16",
+      "updated": "2026-03-18",
       "resolutiondate": "",
       "labels": [
         "TMB"
@@ -413,7 +645,7 @@
       "assignee": "Adrià Sastre",
       "issuetype": "Task",
       "created": "2026-03-10",
-      "updated": "2026-03-16",
+      "updated": "2026-03-19",
       "resolutiondate": "",
       "labels": [
         "occident"
@@ -574,12 +806,12 @@
     {
       "key": "PS-5158",
       "summary": "Ralph Lauren - Weekly Executions March - Week 3",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "In Progress",
+      "status_category": "In Progress",
       "assignee": "irene callejas",
       "issuetype": "Task",
       "created": "2026-03-06",
-      "updated": "2026-03-17",
+      "updated": "2026-03-18",
       "resolutiondate": "",
       "labels": [
         "Ralph_Lauren"
@@ -834,12 +1066,12 @@
     {
       "key": "PS-5137",
       "summary": "Air Europa - Consultar Reserva - Final adjustments",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "In Progress",
+      "status_category": "In Progress",
       "assignee": "Alexander Skalatskiy",
       "issuetype": "Task",
       "created": "2026-03-03",
-      "updated": "2026-03-16",
+      "updated": "2026-03-18",
       "resolutiondate": "",
       "labels": [
         "AirEuropa"
@@ -1367,7 +1599,7 @@
       "assignee": "Julieta Mezza",
       "issuetype": "Task",
       "created": "2026-02-24",
-      "updated": "2026-03-16",
+      "updated": "2026-03-18",
       "resolutiondate": "",
       "labels": [
         "JetSmart"
@@ -1863,12 +2095,12 @@
     {
       "key": "PS-5056",
       "summary": "Polarier - Analizar propuesta de QR para identificar los hoteles",
-      "status": "Ready for review",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Marta Marron",
       "issuetype": "Task",
       "created": "2026-02-18",
-      "updated": "2026-03-11",
+      "updated": "2026-03-18",
       "resolutiondate": "",
       "labels": [
         "Polarier"
@@ -2353,12 +2585,12 @@
     {
       "key": "PS-5019",
       "summary": "Verisure IT - Implement Hubtype Webhook Endpoint to Receive Opportunity ID & Contact Profile",
-      "status": "In Progress",
+      "status": "Ready for review",
       "status_category": "In Progress",
       "assignee": "Evgeni Slavyanov",
       "issuetype": "Task",
       "created": "2026-02-13",
-      "updated": "2026-03-17",
+      "updated": "2026-03-18",
       "resolutiondate": "",
       "labels": [
         "Verisure_IT"
@@ -2577,12 +2809,12 @@
     {
       "key": "PS-5002",
       "summary": "SEM - Activar funcionalidad AI Agents en Staging",
-      "status": "Ready to Deliver",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Pep Alonso",
       "issuetype": "Task",
       "created": "2026-02-11",
-      "updated": "2026-02-23",
+      "updated": "2026-03-18",
       "resolutiondate": "",
       "labels": [
         "SEM"
@@ -3762,20 +3994,6 @@
       ]
     },
     {
-      "key": "PS-4907",
-      "summary": "Estimate - Polaris - Project 1st Phase",
-      "status": "Closed",
-      "status_category": "Done",
-      "assignee": null,
-      "issuetype": "Discovery Task",
-      "created": "2026-01-26",
-      "updated": "2026-01-26",
-      "resolutiondate": "",
-      "labels": [
-        "estimation"
-      ]
-    },
-    {
       "key": "PS-4906",
       "summary": "Polarier - Project 1st Phase",
       "status": "In Progress",
@@ -3783,7 +4001,7 @@
       "assignee": "Patrícia Sánchez",
       "issuetype": "Epic",
       "created": "2026-01-26",
-      "updated": "2026-02-25",
+      "updated": "2026-03-18",
       "resolutiondate": "",
       "labels": [
         "Polarier"
@@ -3862,12 +4080,12 @@
     {
       "key": "PS-4900",
       "summary": "USAV - Redo the bot with latest version",
-      "status": "In production",
+      "status": "Done",
       "status_category": "Done",
       "assignee": "Adrià Sastre",
       "issuetype": "Task",
       "created": "2026-01-26",
-      "updated": "2026-03-17",
+      "updated": "2026-03-18",
       "resolutiondate": "",
       "labels": [
         "USAV"
@@ -4368,10 +4586,10 @@
       "summary": "Tendam - Include WISMO & WISMR for International bots",
       "status": "To Do",
       "status_category": "To Do",
-      "assignee": null,
+      "assignee": "María Sánchez",
       "issuetype": "Task",
       "created": "2026-01-19",
-      "updated": "2026-02-09",
+      "updated": "2026-03-18",
       "resolutiondate": "",
       "labels": [
         "Tendam"
@@ -5761,13 +5979,13 @@
     },
     {
       "key": "PS-4745",
-      "summary": "Jetsmart - Add extras adjustments (next step)",
+      "summary": "Jetsmart - Add extras adjustments",
       "status": "In Progress",
       "status_category": "In Progress",
-      "assignee": "Adrià Sastre",
+      "assignee": "Pep Alonso",
       "issuetype": "Task",
       "created": "2025-12-16",
-      "updated": "2026-03-16",
+      "updated": "2026-03-18",
       "resolutiondate": "",
       "labels": [
         "JetSmart"
