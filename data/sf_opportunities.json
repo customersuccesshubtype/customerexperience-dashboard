@@ -1,6 +1,23 @@
 {
-  "last_updated": "2026-03-20 07:54 UTC",
+  "last_updated": "2026-03-21 07:46 UTC",
   "opportunities": [
+    {
+      "id": "006Sa00000coxqEIAQ",
+      "name": "2027-R-Generalitat (CCMA)-Tickelia webchat & Tot es Mou WhatsApp",
+      "type": "Renewal",
+      "stage": "Opportunity identified",
+      "is_closed": false,
+      "is_won": false,
+      "probability": 10.0,
+      "amount": 17700.0,
+      "arr": 17700.0,
+      "owner": "Marta Marron",
+      "cs_lead": "Marta Marron",
+      "account": "Generalitat de Catalunya",
+      "created": "2026-03-20",
+      "close_date": "2026-03-20",
+      "start_date": "2027-04-01"
+    },
     {
       "id": "006Sa00000cacsCIAQ",
       "name": "2026-U-JetSMART Airlines-Chile-1 Desk License",
@@ -2742,17 +2759,17 @@
       "id": "006Sa00000IvoSLIAZ",
       "name": "2026-R-Generalitat (CCMA)-Tickelia webchat & Tot es Mou WhatsApp",
       "type": "Renewal",
-      "stage": "Waiting for signature",
-      "is_closed": false,
-      "is_won": false,
-      "probability": 90.0,
+      "stage": "Closed Won",
+      "is_closed": true,
+      "is_won": true,
+      "probability": 100.0,
       "amount": 17700.0,
       "arr": 17700.0,
       "owner": "Marta Marron",
       "cs_lead": "Marta Marron",
       "account": "Generalitat de Catalunya",
       "created": "2025-03-26",
-      "close_date": "2026-01-26",
+      "close_date": "2026-03-20",
       "start_date": "2026-04-01"
     },
     {
