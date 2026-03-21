@@ -1,6 +1,74 @@
 {
-  "last_updated": "2026-03-20 07:44 UTC",
+  "last_updated": "2026-03-21 06:10 UTC",
   "tickets": [
+    {
+      "key": "PS-5224",
+      "summary": "Demos - Update all Hubtype Sales demos to 0.46.X",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Pep Alonso",
+      "issuetype": "Task",
+      "created": "2026-03-20",
+      "updated": "2026-03-20",
+      "resolutiondate": "",
+      "labels": []
+    },
+    {
+      "key": "PS-5223",
+      "summary": "Alsa - Snippet web for native chatbot integration for Alsa Help Page",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Adrià Sastre",
+      "issuetype": "Task",
+      "created": "2026-03-20",
+      "updated": "2026-03-20",
+      "resolutiondate": "",
+      "labels": [
+        "Alsa"
+      ]
+    },
+    {
+      "key": "PS-5222",
+      "summary": "Air Europa - Consultar Reserva - Review if we are using the \"operatedBy\" value in the webview",
+      "status": "Done",
+      "status_category": "Done",
+      "assignee": "Adrià Sastre",
+      "issuetype": "Task",
+      "created": "2026-03-20",
+      "updated": "2026-03-20",
+      "resolutiondate": "",
+      "labels": [
+        "AirEuropa"
+      ]
+    },
+    {
+      "key": "PS-5221",
+      "summary": "Soledad - promos on total step",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Lorena Sánchez-Toril Nicolás",
+      "issuetype": "Task",
+      "created": "2026-03-20",
+      "updated": "2026-03-20",
+      "resolutiondate": "",
+      "labels": [
+        "Soledad"
+      ]
+    },
+    {
+      "key": "PS-5220",
+      "summary": "Soledad - fix quantities applied when coming from step 2",
+      "status": "Ready for review",
+      "status_category": "In Progress",
+      "assignee": "Lorena Sánchez-Toril Nicolás",
+      "issuetype": "Task",
+      "created": "2026-03-20",
+      "updated": "2026-03-20",
+      "resolutiondate": "",
+      "labels": [
+        "Soledad"
+      ]
+    },
     {
       "key": "PS-5219",
       "summary": "Retorna - Upgrade bot to Botonic 0.46 ",
@@ -49,7 +117,7 @@
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-03-18",
-      "updated": "2026-03-18",
+      "updated": "2026-03-20",
       "resolutiondate": "",
       "labels": [
         "Soledad"
@@ -75,19 +143,21 @@
       "assignee": "Alexander Skalatskiy",
       "issuetype": "Task",
       "created": "2026-03-18",
-      "updated": "2026-03-18",
+      "updated": "2026-03-20",
       "resolutiondate": "",
-      "labels": []
+      "labels": [
+        "AirEuropa"
+      ]
     },
     {
       "key": "PS-5213",
       "summary": "Tendam - Enrich the info sent to InConcert with the AI Summary field (now available through API)",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Ready for review",
+      "status_category": "In Progress",
       "assignee": "Evgeni Slavyanov",
       "issuetype": "Task",
       "created": "2026-03-18",
-      "updated": "2026-03-19",
+      "updated": "2026-03-20",
       "resolutiondate": "",
       "labels": [
         "Tendam"
@@ -101,7 +171,7 @@
       "assignee": null,
       "issuetype": "Task",
       "created": "2026-03-18",
-      "updated": "2026-03-18",
+      "updated": "2026-03-20",
       "resolutiondate": "",
       "labels": [
         "Polarier"
@@ -182,10 +252,10 @@
       "summary": "Polarier - Capturar el ID del Hotel y el nombre del Hotel en Contact Info Field y no solicitarlo en segunda interacción",
       "status": "To Do",
       "status_category": "To Do",
-      "assignee": null,
+      "assignee": "Aitor Casas",
       "issuetype": "Task",
       "created": "2026-03-18",
-      "updated": "2026-03-19",
+      "updated": "2026-03-20",
       "resolutiondate": "",
       "labels": [
         "Polarier"
@@ -194,12 +264,12 @@
     {
       "key": "PS-5205",
       "summary": "Polarier - Crear contact reasons (que sean iguales o alineados con los códigos de incidencia)",
-      "status": "To Do",
-      "status_category": "To Do",
-      "assignee": null,
+      "status": "Done",
+      "status_category": "Done",
+      "assignee": "Aitor Casas",
       "issuetype": "Task",
       "created": "2026-03-18",
-      "updated": "2026-03-19",
+      "updated": "2026-03-20",
       "resolutiondate": "",
       "labels": [
         "Polarier"
@@ -208,12 +278,12 @@
     {
       "key": "PS-5204",
       "summary": "Polarier - Definir qué codigos y subcódigos de incidencia corresponden a cada caso de uso (incidencia)",
-      "status": "In Progress",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Patrícia Sánchez",
       "issuetype": "Task",
       "created": "2026-03-18",
-      "updated": "2026-03-19",
+      "updated": "2026-03-20",
       "resolutiondate": "",
       "labels": [
         "Polarier"
@@ -250,12 +320,12 @@
     {
       "key": "PS-5201",
       "summary": "Polarier - Definir procedimiento de creación de los Códigos QR y crearlos",
-      "status": "To Do",
-      "status_category": "To Do",
-      "assignee": null,
+      "status": "In Progress",
+      "status_category": "In Progress",
+      "assignee": "Marta Marron",
       "issuetype": "Task",
       "created": "2026-03-18",
-      "updated": "2026-03-19",
+      "updated": "2026-03-20",
       "resolutiondate": "",
       "labels": [
         "Polarier"
@@ -402,12 +472,12 @@
     {
       "key": "PS-5188",
       "summary": "SEM - BATTLE test design and execution",
-      "status": "In Progress",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "irene callejas",
       "issuetype": "Task",
       "created": "2026-03-13",
-      "updated": "2026-03-19",
+      "updated": "2026-03-20",
       "resolutiondate": "",
       "labels": [
         "SEM"
@@ -430,12 +500,12 @@
     {
       "key": "PS-5186",
       "summary": "Occident - Link the new test number to the \"Test Agencias\" project",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Ready for review",
+      "status_category": "In Progress",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-03-12",
-      "updated": "2026-03-18",
+      "updated": "2026-03-20",
       "resolutiondate": "",
       "labels": [
         "occident"
@@ -444,12 +514,12 @@
     {
       "key": "PS-5185",
       "summary": "Guess - Store name + email address as Contact Info fields for automated conversations",
-      "status": "Ready to Deliver",
-      "status_category": "In Progress",
+      "status": "APPROVED FOR PRODUCTION",
+      "status_category": "Done",
       "assignee": "Evgeni Slavyanov",
       "issuetype": "Task",
       "created": "2026-03-12",
-      "updated": "2026-03-19",
+      "updated": "2026-03-20",
       "resolutiondate": "",
       "labels": [
         "Guess"
@@ -505,7 +575,7 @@
       "assignee": "Adrià Sastre",
       "issuetype": "Task",
       "created": "2026-03-11",
-      "updated": "2026-03-18",
+      "updated": "2026-03-20",
       "resolutiondate": "",
       "labels": [
         "SEM"
@@ -528,12 +598,12 @@
     {
       "key": "PS-5179",
       "summary": "Michael Kors - Change the name and email capture to the handoff stage",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "In Progress",
+      "status_category": "In Progress",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-03-11",
-      "updated": "2026-03-16",
+      "updated": "2026-03-20",
       "resolutiondate": "",
       "labels": [
         "Michael-Kors"
@@ -603,7 +673,7 @@
       "assignee": "irene callejas",
       "issuetype": "Task",
       "created": "2026-03-11",
-      "updated": "2026-03-17",
+      "updated": "2026-03-20",
       "resolutiondate": "",
       "labels": [
         "SEM"
@@ -640,12 +710,12 @@
     {
       "key": "PS-5171",
       "summary": "TMB - Apply code fix to open URL in same tab",
-      "status": "In Progress",
-      "status_category": "In Progress",
-      "assignee": "Adrià Sastre",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Alexander Skalatskiy",
       "issuetype": "Task",
       "created": "2026-03-10",
-      "updated": "2026-03-18",
+      "updated": "2026-03-20",
       "resolutiondate": "",
       "labels": [
         "TMB"
@@ -654,12 +724,12 @@
     {
       "key": "PS-5170",
       "summary": "Ralph Lauren - Incite iteration in post carousel agent  output",
-      "status": "Ready for review",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "irene callejas",
       "issuetype": "Task",
       "created": "2026-03-10",
-      "updated": "2026-03-17",
+      "updated": "2026-03-20",
       "resolutiondate": "",
       "labels": [
         "Ralph_Lauren"
@@ -670,10 +740,10 @@
       "summary": "Occident - Implement adjustments in the way we are communicating with their systems",
       "status": "To Do",
       "status_category": "To Do",
-      "assignee": "Adrià Sastre",
+      "assignee": "Alexander Skalatskiy",
       "issuetype": "Task",
       "created": "2026-03-10",
-      "updated": "2026-03-19",
+      "updated": "2026-03-20",
       "resolutiondate": "",
       "labels": [
         "occident"
@@ -811,7 +881,7 @@
       "assignee": "Aitor Casas",
       "issuetype": "Task",
       "created": "2026-03-09",
-      "updated": "2026-03-15",
+      "updated": "2026-03-20",
       "resolutiondate": "",
       "labels": [
         "Allianz_Talleres"
@@ -1099,7 +1169,7 @@
       "assignee": "Alexander Skalatskiy",
       "issuetype": "Task",
       "created": "2026-03-03",
-      "updated": "2026-03-18",
+      "updated": "2026-03-20",
       "resolutiondate": "",
       "labels": [
         "AirEuropa"
@@ -1372,12 +1442,12 @@
     {
       "key": "PS-5115",
       "summary": "Michael Kors  - Zendesk Integration",
-      "status": "Open",
-      "status_category": "To Do",
+      "status": "Closed",
+      "status_category": "Done",
       "assignee": "María Sánchez",
       "issuetype": "Discovery Task",
       "created": "2026-02-25",
-      "updated": "2026-03-16",
+      "updated": "2026-03-20",
       "resolutiondate": "",
       "labels": [
         "Michael-Kors"
@@ -1456,12 +1526,12 @@
     {
       "key": "PS-5109",
       "summary": "CCMA - Tot es Mou - Update Disclaimer legal",
-      "status": "In Progress",
-      "status_category": "In Progress",
+      "status": "Closed",
+      "status_category": "Done",
       "assignee": "Aitor Casas",
       "issuetype": "Task",
       "created": "2026-02-25",
-      "updated": "2026-02-28",
+      "updated": "2026-03-20",
       "resolutiondate": "",
       "labels": [
         "ccma"
@@ -1566,12 +1636,12 @@
     {
       "key": "PS-5101",
       "summary": "CCMA Tot es Mou - Bulk image download solution for chatbot cases",
-      "status": "Ready for review",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Marta Marron",
       "issuetype": "Task",
       "created": "2026-02-24",
-      "updated": "2026-03-18",
+      "updated": "2026-03-20",
       "resolutiondate": "",
       "labels": [
         "ccma"
@@ -1747,13 +1817,13 @@
     },
     {
       "key": "PS-5088",
-      "summary": "Alsa - Voice message integration",
+      "summary": "Alsa - Voice message proposal (product feature)",
       "status": "To Do",
       "status_category": "To Do",
-      "assignee": null,
+      "assignee": "María Sánchez",
       "issuetype": "Task",
       "created": "2026-02-23",
-      "updated": "2026-02-23",
+      "updated": "2026-03-20",
       "resolutiondate": "",
       "labels": [
         "Alsa"
@@ -1776,12 +1846,12 @@
     {
       "key": "PS-5086",
       "summary": "Alsa - Snippet chat en página de ayuda",
-      "status": "Ready to Deliver",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Adrià Sastre",
       "issuetype": "Task",
       "created": "2026-02-22",
-      "updated": "2026-03-17",
+      "updated": "2026-03-20",
       "resolutiondate": "",
       "labels": [
         "Alsa"
@@ -1818,12 +1888,12 @@
     {
       "key": "PS-5083",
       "summary": "SEM - Definir prompt de AI Agent en Staging y conectarle sources",
-      "status": "In Progress",
+      "status": "Ready for review",
       "status_category": "In Progress",
       "assignee": "Patrícia Sánchez",
       "issuetype": "Task",
       "created": "2026-02-21",
-      "updated": "2026-02-26",
+      "updated": "2026-03-20",
       "resolutiondate": "",
       "labels": [
         "SEM"
@@ -2543,12 +2613,12 @@
     {
       "key": "PS-5024",
       "summary": "Air Europa - Consultar Reserva - Review why AVA is not responding in the flow \"Booking -> Checkin unavailable\"",
-      "status": "Ready to Deliver",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Alexander Skalatskiy",
       "issuetype": "Task",
       "created": "2026-02-16",
-      "updated": "2026-03-03",
+      "updated": "2026-03-20",
       "resolutiondate": "",
       "labels": [
         "AirEuropa"
@@ -2604,7 +2674,7 @@
       "assignee": "Adrià Sastre",
       "issuetype": "Task",
       "created": "2026-02-13",
-      "updated": "2026-03-16",
+      "updated": "2026-03-20",
       "resolutiondate": "",
       "labels": [
         "RACC"
@@ -2632,7 +2702,7 @@
       "assignee": "Evgeni Slavyanov",
       "issuetype": "Task",
       "created": "2026-02-13",
-      "updated": "2026-03-13",
+      "updated": "2026-03-20",
       "resolutiondate": "",
       "labels": [
         "Verisure_IT"
@@ -2767,12 +2837,12 @@
     {
       "key": "PS-5007",
       "summary": "Air Europa - Consultar Reserva - Add Fares rules",
-      "status": "Ready to Deliver",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Alexander Skalatskiy",
       "issuetype": "Task",
       "created": "2026-02-12",
-      "updated": "2026-03-16",
+      "updated": "2026-03-20",
       "resolutiondate": "",
       "labels": [
         "AirEuropa"
@@ -3353,12 +3423,12 @@
     {
       "key": "PS-4963",
       "summary": "Air Europa - Consultar Reserva - Configure follow up messages after user redirection to Refex when clicking on \"añadir servicios\"",
-      "status": "Ready to Deliver",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Alexander Skalatskiy",
       "issuetype": "Task",
       "created": "2026-02-04",
-      "updated": "2026-03-16",
+      "updated": "2026-03-20",
       "resolutiondate": "",
       "labels": [
         "AirEuropa"
@@ -3507,12 +3577,12 @@
     {
       "key": "PS-4950",
       "summary": "Air Europa - Consultar Reserva - Add Tiers rules",
-      "status": "Ready to Deliver",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Alexander Skalatskiy",
       "issuetype": "Task",
       "created": "2026-02-03",
-      "updated": "2026-03-16",
+      "updated": "2026-03-20",
       "resolutiondate": "",
       "labels": [
         "AirEuropa"
@@ -3549,12 +3619,12 @@
     {
       "key": "PS-4946",
       "summary": "Air Europa - Consultar Reserva - Add trains information to the journeys",
-      "status": "Ready to Deliver",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Alexander Skalatskiy",
       "issuetype": "Task",
       "created": "2026-02-03",
-      "updated": "2026-03-16",
+      "updated": "2026-03-20",
       "resolutiondate": "",
       "labels": [
         "AirEuropa"
@@ -3619,12 +3689,12 @@
     {
       "key": "PS-4941",
       "summary": "CCMA - Tot es Mou - Importar conversaciones de WhatsApp",
-      "status": "Open",
-      "status_category": "To Do",
+      "status": "Closed",
+      "status_category": "Done",
       "assignee": "Marta Marron",
       "issuetype": "Task",
       "created": "2026-02-02",
-      "updated": "2026-02-17",
+      "updated": "2026-03-20",
       "resolutiondate": "",
       "labels": [
         "ccma"
@@ -4029,7 +4099,7 @@
       "assignee": "Patrícia Sánchez",
       "issuetype": "Epic",
       "created": "2026-01-26",
-      "updated": "2026-03-18",
+      "updated": "2026-03-20",
       "resolutiondate": "",
       "labels": [
         "Polarier"
@@ -4318,12 +4388,12 @@
     {
       "key": "PS-4881",
       "summary": "Air Europa - Consultar reserva - New rules and adjustments",
-      "status": "Ready to Deliver",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Alexander Skalatskiy",
       "issuetype": "Task",
       "created": "2026-01-22",
-      "updated": "2026-03-16",
+      "updated": "2026-03-20",
       "resolutiondate": "",
       "labels": [
         "AirEuropa"
