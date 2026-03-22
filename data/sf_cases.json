@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-21 07:46 UTC",
+  "last_updated": "2026-03-22 07:50 UTC",
   "cases": [
     {
       "id": "500Sa00000oFvMDIA0",
@@ -555,9 +555,9 @@
       "id": "500Sa00000o2zsLIAQ",
       "case_number": "00024385",
       "subject": "Accounts locked",
-      "status": "Closed",
+      "status": "Open",
       "priority": "Low",
-      "is_closed": true,
+      "is_closed": false,
       "is_escalated": false,
       "owner": "Aitor Casas",
       "account": "Easyjet PLC",
@@ -568,10 +568,10 @@
       "channel": "Email",
       "is_critical": "L4",
       "escalated_team": "",
-      "resolution_time": "1. <6h",
+      "resolution_time": "",
       "created": "2026-03-18",
-      "closed": "2026-03-18",
-      "last_modified": "2026-03-18"
+      "closed": "",
+      "last_modified": "2026-03-21"
     },
     {
       "id": "500Sa00000o2syqIAA",
