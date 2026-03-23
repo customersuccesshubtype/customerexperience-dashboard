@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-22 07:37 UTC",
+  "last_updated": "2026-03-23 08:01 UTC",
   "tickets": [
     {
       "key": "PS-5224",
@@ -112,12 +112,12 @@
     {
       "key": "PS-5216",
       "summary": "Soledad - Implement error modal in webview",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "In Progress",
+      "status_category": "In Progress",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-03-18",
-      "updated": "2026-03-20",
+      "updated": "2026-03-23",
       "resolutiondate": "",
       "labels": [
         "Soledad"
@@ -519,7 +519,7 @@
       "assignee": "Evgeni Slavyanov",
       "issuetype": "Task",
       "created": "2026-03-12",
-      "updated": "2026-03-20",
+      "updated": "2026-03-23",
       "resolutiondate": "",
       "labels": [
         "Guess"
@@ -2459,12 +2459,12 @@
     {
       "key": "PS-5036",
       "summary": "Multiasistencia - Update botonic version - MULTI_FRANCIA_STAGING - 662b5c99-a812-4c41-b27c-597978890ab4",
-      "status": "In Progress",
-      "status_category": "In Progress",
+      "status": "To Do",
+      "status_category": "To Do",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-02-16",
-      "updated": "2026-03-13",
+      "updated": "2026-03-23",
       "resolutiondate": "",
       "labels": [
         "Multiasistencia"
