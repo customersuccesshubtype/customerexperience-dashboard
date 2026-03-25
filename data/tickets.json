@@ -1,6 +1,332 @@
 {
-  "last_updated": "2026-03-24 07:52 UTC",
+  "last_updated": "2026-03-25 07:51 UTC",
   "tickets": [
+    {
+      "key": "PS-5258",
+      "summary": "Security Audit: allianz/customer-support-pt/api (0C, 2H)",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": null,
+      "issuetype": "Task",
+      "created": "2026-03-24",
+      "updated": "2026-03-24",
+      "resolutiondate": "",
+      "labels": []
+    },
+    {
+      "key": "PS-5257",
+      "summary": "Security Audit: allianz/customer-support-es/api (0C, 2H)",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": null,
+      "issuetype": "Task",
+      "created": "2026-03-24",
+      "updated": "2026-03-24",
+      "resolutiondate": "",
+      "labels": []
+    },
+    {
+      "key": "PS-5256",
+      "summary": "Security Audit: coches/leads/api (0C, 2H)",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": null,
+      "issuetype": "Task",
+      "created": "2026-03-24",
+      "updated": "2026-03-24",
+      "resolutiondate": "",
+      "labels": []
+    },
+    {
+      "key": "PS-5255",
+      "summary": "Security Audit: assegur/api (0C, 2H)",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": null,
+      "issuetype": "Task",
+      "created": "2026-03-24",
+      "updated": "2026-03-24",
+      "resolutiondate": "",
+      "labels": []
+    },
+    {
+      "key": "PS-5254",
+      "summary": "Security Audit: wizzair/api (0C, 2H)",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": null,
+      "issuetype": "Task",
+      "created": "2026-03-24",
+      "updated": "2026-03-24",
+      "resolutiondate": "",
+      "labels": []
+    },
+    {
+      "key": "PS-5253",
+      "summary": "Security Audit: salesforce-integration/api (2C, 2H)",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": null,
+      "issuetype": "Task",
+      "created": "2026-03-24",
+      "updated": "2026-03-24",
+      "resolutiondate": "",
+      "labels": []
+    },
+    {
+      "key": "PS-5252",
+      "summary": "Security Audit: easyjet/api (3C, 4H)",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": null,
+      "issuetype": "Task",
+      "created": "2026-03-24",
+      "updated": "2026-03-24",
+      "resolutiondate": "",
+      "labels": []
+    },
+    {
+      "key": "PS-5251",
+      "summary": "Security Audit: bot-template/aws (0C, 5H) - Template Hardening",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": null,
+      "issuetype": "Task",
+      "created": "2026-03-24",
+      "updated": "2026-03-24",
+      "resolutiondate": "",
+      "labels": []
+    },
+    {
+      "key": "PS-5250",
+      "summary": "Security Audit: volkswagen-group/aws (3C, 4H)",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": null,
+      "issuetype": "Task",
+      "created": "2026-03-24",
+      "updated": "2026-03-24",
+      "resolutiondate": "",
+      "labels": []
+    },
+    {
+      "key": "PS-5249",
+      "summary": "Security Audit: TMB/aws (0C, 2H)",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": null,
+      "issuetype": "Task",
+      "created": "2026-03-24",
+      "updated": "2026-03-24",
+      "resolutiondate": "",
+      "labels": []
+    },
+    {
+      "key": "PS-5248",
+      "summary": "Security Audit: tendam/aws (0C, 4H)",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": null,
+      "issuetype": "Task",
+      "created": "2026-03-24",
+      "updated": "2026-03-24",
+      "resolutiondate": "",
+      "labels": []
+    },
+    {
+      "key": "PS-5247",
+      "summary": "Security Audit: segurcaixa/aws (4C, 6H)",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": null,
+      "issuetype": "Task",
+      "created": "2026-03-24",
+      "updated": "2026-03-24",
+      "resolutiondate": "",
+      "labels": []
+    },
+    {
+      "key": "PS-5246",
+      "summary": "Security Audit: ralph-lauren/aws (4C, 5H)",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": null,
+      "issuetype": "Task",
+      "created": "2026-03-24",
+      "updated": "2026-03-24",
+      "resolutiondate": "",
+      "labels": []
+    },
+    {
+      "key": "PS-5245",
+      "summary": "Security Audit: rag-and-bone/aws (0C, 3H)",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": null,
+      "issuetype": "Task",
+      "created": "2026-03-24",
+      "updated": "2026-03-24",
+      "resolutiondate": "",
+      "labels": []
+    },
+    {
+      "key": "PS-5244",
+      "summary": "Security Audit: racc-start/aws (0C, 3H)",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": null,
+      "issuetype": "Task",
+      "created": "2026-03-24",
+      "updated": "2026-03-24",
+      "resolutiondate": "",
+      "labels": []
+    },
+    {
+      "key": "PS-5243",
+      "summary": "Security Audit: RACC/racc-flowbuilder/aws (3C, 7H)",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": null,
+      "issuetype": "Task",
+      "created": "2026-03-24",
+      "updated": "2026-03-24",
+      "resolutiondate": "",
+      "labels": []
+    },
+    {
+      "key": "PS-5242",
+      "summary": "Security Audit: occident/aws (2C, 4H)",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": null,
+      "issuetype": "Task",
+      "created": "2026-03-24",
+      "updated": "2026-03-24",
+      "resolutiondate": "",
+      "labels": []
+    },
+    {
+      "key": "PS-5241",
+      "summary": "Security Audit: jetsmart/aws (1C, 7H)",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": null,
+      "issuetype": "Task",
+      "created": "2026-03-24",
+      "updated": "2026-03-24",
+      "resolutiondate": "",
+      "labels": []
+    },
+    {
+      "key": "PS-5240",
+      "summary": "Security Audit: guess/unified-flow-builder/aws (2C, 4H)",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": null,
+      "issuetype": "Task",
+      "created": "2026-03-24",
+      "updated": "2026-03-24",
+      "resolutiondate": "",
+      "labels": []
+    },
+    {
+      "key": "PS-5239",
+      "summary": "Security Audit: groupe-casino/aws (3C, 6H)",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": null,
+      "issuetype": "Task",
+      "created": "2026-03-24",
+      "updated": "2026-03-24",
+      "resolutiondate": "",
+      "labels": []
+    },
+    {
+      "key": "PS-5238",
+      "summary": "Security Audit: generalitat/ccma-tot-es-mou/aws (0C, 0H)",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": null,
+      "issuetype": "Task",
+      "created": "2026-03-24",
+      "updated": "2026-03-24",
+      "resolutiondate": "",
+      "labels": []
+    },
+    {
+      "key": "PS-5237",
+      "summary": "Security Audit: consum/coupons/aws (2C, 3H)",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": null,
+      "issuetype": "Task",
+      "created": "2026-03-24",
+      "updated": "2026-03-24",
+      "resolutiondate": "",
+      "labels": []
+    },
+    {
+      "key": "PS-5236",
+      "summary": "Security Audit: alsa/aws (3C, 4H)",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": null,
+      "issuetype": "Task",
+      "created": "2026-03-24",
+      "updated": "2026-03-24",
+      "resolutiondate": "",
+      "labels": []
+    },
+    {
+      "key": "PS-5235",
+      "summary": "Security Audit: air-europa/aws (3C, 6H)",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": null,
+      "issuetype": "Task",
+      "created": "2026-03-24",
+      "updated": "2026-03-24",
+      "resolutiondate": "",
+      "labels": []
+    },
+    {
+      "key": "PS-5234",
+      "summary": "Pulumi Infrastructure Security Audit - bots-definition",
+      "status": "Open",
+      "status_category": "To Do",
+      "assignee": null,
+      "issuetype": "Epic",
+      "created": "2026-03-24",
+      "updated": "2026-03-24",
+      "resolutiondate": "",
+      "labels": []
+    },
+    {
+      "key": "PS-5233",
+      "summary": "Internal - Add Cursor rules in bots-definitions repo",
+      "status": "Ready for review",
+      "status_category": "In Progress",
+      "assignee": "Adrià Sastre",
+      "issuetype": "Task",
+      "created": "2026-03-24",
+      "updated": "2026-03-24",
+      "resolutiondate": "",
+      "labels": []
+    },
+    {
+      "key": "PS-5232",
+      "summary": "Soledad - confirmation text once order is confirmed",
+      "status": "Ready for review",
+      "status_category": "In Progress",
+      "assignee": "Lorena Sánchez-Toril Nicolás",
+      "issuetype": "Task",
+      "created": "2026-03-24",
+      "updated": "2026-03-24",
+      "resolutiondate": "",
+      "labels": [
+        "Soledad"
+      ]
+    },
     {
       "key": "PS-5231",
       "summary": "Ralph Lauren - Build the push templates flows Rachel has suggested",
@@ -16,12 +342,12 @@
     {
       "key": "PS-5230",
       "summary": "Occident - Activate the new feature flag to assign WhatsApp numbers to projects ",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Aitor Casas",
       "issuetype": "Task",
       "created": "2026-03-23",
-      "updated": "2026-03-23",
+      "updated": "2026-03-24",
       "resolutiondate": "",
       "labels": [
         "occident"
@@ -61,7 +387,7 @@
       "assignee": "Aitor Casas",
       "issuetype": "Task",
       "created": "2026-03-23",
-      "updated": "2026-03-23",
+      "updated": "2026-03-24",
       "resolutiondate": "",
       "labels": [
         "Securitas-leadgen"
@@ -75,7 +401,7 @@
       "assignee": "irene callejas",
       "issuetype": "Bug",
       "created": "2026-03-23",
-      "updated": "2026-03-23",
+      "updated": "2026-03-25",
       "resolutiondate": "",
       "labels": [
         "Ralph_Lauren"
@@ -166,12 +492,12 @@
     {
       "key": "PS-5219",
       "summary": "Retorna - Upgrade bot to Botonic 0.46 ",
-      "status": "APPROVED FOR PRODUCTION",
+      "status": "Done",
       "status_category": "Done",
       "assignee": "Evgeni Slavyanov",
       "issuetype": "Task",
       "created": "2026-03-19",
-      "updated": "2026-03-23",
+      "updated": "2026-03-24",
       "resolutiondate": "",
       "labels": [
         "Retorna"
@@ -234,12 +560,12 @@
     {
       "key": "PS-5214",
       "summary": "Air Europa - Activate the new Custom Rating message in webchat",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Alexander Skalatskiy",
       "issuetype": "Task",
       "created": "2026-03-18",
-      "updated": "2026-03-20",
+      "updated": "2026-03-24",
       "resolutiondate": "",
       "labels": [
         "AirEuropa"
@@ -253,7 +579,7 @@
       "assignee": "Evgeni Slavyanov",
       "issuetype": "Task",
       "created": "2026-03-18",
-      "updated": "2026-03-23",
+      "updated": "2026-03-24",
       "resolutiondate": "",
       "labels": [
         "Tendam"
@@ -346,12 +672,12 @@
     {
       "key": "PS-5206",
       "summary": "Polarier - Capturar el ID del Hotel y el nombre del Hotel en Contact Info Field y no solicitarlo en segunda interacción",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "In Progress",
+      "status_category": "In Progress",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-03-18",
-      "updated": "2026-03-23",
+      "updated": "2026-03-24",
       "resolutiondate": "",
       "labels": [
         "Polarier"
@@ -505,7 +831,7 @@
       "assignee": "Evgeni Slavyanov",
       "issuetype": "Task",
       "created": "2026-03-15",
-      "updated": "2026-03-23",
+      "updated": "2026-03-24",
       "resolutiondate": "",
       "labels": [
         "CCMA"
@@ -666,12 +992,12 @@
     {
       "key": "PS-5181",
       "summary": "SEM- Send the snippet to include in the Web (staging and prod)",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Ready for review",
+      "status_category": "In Progress",
       "assignee": "Adrià Sastre",
       "issuetype": "Task",
       "created": "2026-03-11",
-      "updated": "2026-03-20",
+      "updated": "2026-03-25",
       "resolutiondate": "",
       "labels": [
         "SEM"
@@ -836,10 +1162,10 @@
       "summary": "Occident - Implement adjustments in the way we are communicating with their systems",
       "status": "To Do",
       "status_category": "To Do",
-      "assignee": "Alexander Skalatskiy",
+      "assignee": "Pep Alonso",
       "issuetype": "Task",
       "created": "2026-03-10",
-      "updated": "2026-03-23",
+      "updated": "2026-03-24",
       "resolutiondate": "",
       "labels": [
         "occident"
@@ -1260,12 +1586,12 @@
     {
       "key": "PS-5137",
       "summary": "Air Europa - Consultar Reserva - Final adjustments",
-      "status": "In Progress",
-      "status_category": "In Progress",
+      "status": "In production",
+      "status_category": "Done",
       "assignee": "Alexander Skalatskiy",
       "issuetype": "Task",
       "created": "2026-03-03",
-      "updated": "2026-03-23",
+      "updated": "2026-03-24",
       "resolutiondate": "",
       "labels": [
         "AirEuropa"
@@ -2233,12 +2559,12 @@
     {
       "key": "PS-5060",
       "summary": "Ralph Lauren - Create a tool that allows an agent to invoke a specific node (ex. Handoff)",
-      "status": "Ready for review",
+      "status": "Ready to Deliver",
       "status_category": "In Progress",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-02-19",
-      "updated": "2026-03-23",
+      "updated": "2026-03-25",
       "resolutiondate": "",
       "labels": [
         "Ralph_Lauren"
@@ -6160,12 +6486,12 @@
     {
       "key": "PS-4746",
       "summary": "Jetsmart - Develop buy a flight ",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "In Progress",
+      "status_category": "In Progress",
       "assignee": "Pep Alonso",
       "issuetype": "Task",
       "created": "2025-12-16",
-      "updated": "2026-03-02",
+      "updated": "2026-03-24",
       "resolutiondate": "",
       "labels": [
         "JetSmart"
@@ -6414,7 +6740,7 @@
       "assignee": "Alexander Skalatskiy",
       "issuetype": "Task",
       "created": "2025-12-11",
-      "updated": "2025-12-22",
+      "updated": "2026-03-24",
       "resolutiondate": "",
       "labels": []
     },
@@ -6426,7 +6752,7 @@
       "assignee": "Alexander Skalatskiy",
       "issuetype": "Task",
       "created": "2025-12-11",
-      "updated": "2025-12-16",
+      "updated": "2026-03-24",
       "resolutiondate": "",
       "labels": []
     },
@@ -6894,7 +7220,7 @@
       "assignee": "Alexander Skalatskiy",
       "issuetype": "Task",
       "created": "2025-12-01",
-      "updated": "2026-02-03",
+      "updated": "2026-03-24",
       "resolutiondate": "",
       "labels": [
         "AirEuropa"
@@ -8306,7 +8632,7 @@
       "assignee": "Alexander Skalatskiy",
       "issuetype": "Task",
       "created": "2025-10-22",
-      "updated": "2026-01-11",
+      "updated": "2026-03-24",
       "resolutiondate": "",
       "labels": []
     },
@@ -8460,8 +8786,8 @@
     {
       "key": "PS-4559",
       "summary": "Tendam - Update Hoss Intropia to Botonic Latest version",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Ready for review",
+      "status_category": "In Progress",
       "assignee": "Adrià Sastre",
       "issuetype": "Task",
       "created": "2025-10-21",
@@ -30209,12 +30535,12 @@
     {
       "key": "PS-2788",
       "summary": "Easyjet - Auto Transcripts",
-      "status": "Ready for review",
-      "status_category": "In Progress",
+      "status": "To Do",
+      "status_category": "To Do",
       "assignee": "Adrià Sastre",
       "issuetype": "Task",
       "created": "2024-10-12",
-      "updated": "2026-01-18",
+      "updated": "2026-03-24",
       "resolutiondate": "",
       "labels": [
         "easyjet"
