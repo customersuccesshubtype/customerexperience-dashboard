@@ -1,6 +1,48 @@
 {
-  "last_updated": "2026-03-25 07:51 UTC",
+  "last_updated": "2026-03-26 08:00 UTC",
   "tickets": [
+    {
+      "key": "PS-5262",
+      "summary": "Multiasistencia - Holabank - Eliminar punto del menú",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": null,
+      "issuetype": "Task",
+      "created": "2026-03-25",
+      "updated": "2026-03-25",
+      "resolutiondate": "",
+      "labels": [
+        "Multiasistencia"
+      ]
+    },
+    {
+      "key": "PS-5261",
+      "summary": "Alsa - Bot version upgrade to 0.46.0",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Adrià Sastre",
+      "issuetype": "Task",
+      "created": "2026-03-25",
+      "updated": "2026-03-25",
+      "resolutiondate": "",
+      "labels": [
+        "Alsa"
+      ]
+    },
+    {
+      "key": "PS-5260",
+      "summary": "TMB - Add privacy note on webchat",
+      "status": "Ready to Deliver",
+      "status_category": "In Progress",
+      "assignee": "Alexander Skalatskiy",
+      "issuetype": "Task",
+      "created": "2026-03-25",
+      "updated": "2026-03-25",
+      "resolutiondate": "",
+      "labels": [
+        "TMB"
+      ]
+    },
     {
       "key": "PS-5258",
       "summary": "Security Audit: allianz/customer-support-pt/api (0C, 2H)",
@@ -297,19 +339,19 @@
       "assignee": null,
       "issuetype": "Epic",
       "created": "2026-03-24",
-      "updated": "2026-03-24",
+      "updated": "2026-03-25",
       "resolutiondate": "",
       "labels": []
     },
     {
       "key": "PS-5233",
       "summary": "Internal - Add Cursor rules in bots-definitions repo",
-      "status": "Ready for review",
+      "status": "Ready to Deliver",
       "status_category": "In Progress",
       "assignee": "Adrià Sastre",
       "issuetype": "Task",
       "created": "2026-03-24",
-      "updated": "2026-03-24",
+      "updated": "2026-03-25",
       "resolutiondate": "",
       "labels": []
     },
@@ -335,9 +377,11 @@
       "assignee": "Andrea Talal Haidar",
       "issuetype": "Task",
       "created": "2026-03-23",
-      "updated": "2026-03-23",
+      "updated": "2026-03-25",
       "resolutiondate": "",
-      "labels": []
+      "labels": [
+        "Ralph_Lauren"
+      ]
     },
     {
       "key": "PS-5230",
@@ -361,9 +405,11 @@
       "assignee": "irene callejas",
       "issuetype": "Task",
       "created": "2026-03-23",
-      "updated": "2026-03-23",
+      "updated": "2026-03-25",
       "resolutiondate": "",
-      "labels": []
+      "labels": [
+        "Polarier"
+      ]
     },
     {
       "key": "PS-5228",
@@ -396,8 +442,8 @@
     {
       "key": "PS-5226",
       "summary": "Ralph Lauren - Review store locator URLs (ensure they are working)",
-      "status": "Ready for review",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "irene callejas",
       "issuetype": "Bug",
       "created": "2026-03-23",
@@ -410,12 +456,12 @@
     {
       "key": "PS-5225",
       "summary": "Ralph Lauren - Test multilingual behavior and profanity safeguards",
-      "status": "Ready for review",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "irene callejas",
       "issuetype": "Task",
       "created": "2026-03-23",
-      "updated": "2026-03-23",
+      "updated": "2026-03-25",
       "resolutiondate": "",
       "labels": [
         "Ralph_Lauren"
@@ -672,12 +718,12 @@
     {
       "key": "PS-5206",
       "summary": "Polarier - Capturar el ID del Hotel y el nombre del Hotel en Contact Info Field y no solicitarlo en segunda interacción",
-      "status": "In Progress",
+      "status": "Ready for review",
       "status_category": "In Progress",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-03-18",
-      "updated": "2026-03-24",
+      "updated": "2026-03-26",
       "resolutiondate": "",
       "labels": [
         "Polarier"
@@ -831,7 +877,7 @@
       "assignee": "Evgeni Slavyanov",
       "issuetype": "Task",
       "created": "2026-03-15",
-      "updated": "2026-03-24",
+      "updated": "2026-03-25",
       "resolutiondate": "",
       "labels": [
         "CCMA"
@@ -992,8 +1038,8 @@
     {
       "key": "PS-5181",
       "summary": "SEM- Send the snippet to include in the Web (staging and prod)",
-      "status": "Ready for review",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Adrià Sastre",
       "issuetype": "Task",
       "created": "2026-03-11",
@@ -1132,12 +1178,12 @@
     {
       "key": "PS-5171",
       "summary": "TMB - Apply code fix to open URL in same tab",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "In Progress",
+      "status_category": "In Progress",
       "assignee": "Alexander Skalatskiy",
       "issuetype": "Task",
       "created": "2026-03-10",
-      "updated": "2026-03-20",
+      "updated": "2026-03-25",
       "resolutiondate": "",
       "labels": [
         "TMB"
@@ -1160,12 +1206,12 @@
     {
       "key": "PS-5169",
       "summary": "Occident - Implement adjustments in the way we are communicating with their systems",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Ready for review",
+      "status_category": "In Progress",
       "assignee": "Pep Alonso",
       "issuetype": "Task",
       "created": "2026-03-10",
-      "updated": "2026-03-24",
+      "updated": "2026-03-25",
       "resolutiondate": "",
       "labels": [
         "occident"
@@ -2142,12 +2188,12 @@
     {
       "key": "PS-5095",
       "summary": "Allianz ES - Update botonic version",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "In Progress",
+      "status_category": "In Progress",
       "assignee": "Evgeni Slavyanov",
       "issuetype": "Task",
       "created": "2026-02-23",
-      "updated": "2026-03-23",
+      "updated": "2026-03-25",
       "resolutiondate": "",
       "labels": [
         "Allianz-ES"
@@ -2245,7 +2291,7 @@
       "assignee": "María Sánchez",
       "issuetype": "Task",
       "created": "2026-02-23",
-      "updated": "2026-03-20",
+      "updated": "2026-03-25",
       "resolutiondate": "",
       "labels": [
         "Alsa"
@@ -2559,8 +2605,8 @@
     {
       "key": "PS-5060",
       "summary": "Ralph Lauren - Create a tool that allows an agent to invoke a specific node (ex. Handoff)",
-      "status": "Ready to Deliver",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-02-19",
@@ -4001,10 +4047,10 @@
       "summary": "Air Europa - Consultar Reserva - Add Tiers rules",
       "status": "Done",
       "status_category": "Done",
-      "assignee": "Alexander Skalatskiy",
+      "assignee": "Julieta Mezza",
       "issuetype": "Task",
       "created": "2026-02-03",
-      "updated": "2026-03-20",
+      "updated": "2026-03-26",
       "resolutiondate": "",
       "labels": [
         "AirEuropa"
