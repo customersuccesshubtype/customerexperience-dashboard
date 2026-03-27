@@ -1,6 +1,86 @@
 {
-  "last_updated": "2026-03-26 08:00 UTC",
+  "last_updated": "2026-03-27 07:58 UTC",
   "tickets": [
+    {
+      "key": "PS-5268",
+      "summary": "Wizz Air - Translate flow in Romanian, Hungarian and Spanish",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Aitor Casas",
+      "issuetype": "Task",
+      "created": "2026-03-26",
+      "updated": "2026-03-26",
+      "resolutiondate": "",
+      "labels": []
+    },
+    {
+      "key": "PS-5267",
+      "summary": "Soledad - apply improvements",
+      "status": "In Progress",
+      "status_category": "In Progress",
+      "assignee": "Lorena Sánchez-Toril Nicolás",
+      "issuetype": "Task",
+      "created": "2026-03-26",
+      "updated": "2026-03-26",
+      "resolutiondate": "",
+      "labels": [
+        "Soledad"
+      ]
+    },
+    {
+      "key": "PS-5266",
+      "summary": "Soledad - Implement guardrails",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Francisca Martelli",
+      "issuetype": "Task",
+      "created": "2026-03-26",
+      "updated": "2026-03-26",
+      "resolutiondate": "",
+      "labels": [
+        "Soledad"
+      ]
+    },
+    {
+      "key": "PS-5265",
+      "summary": "TMB - Implement custom component in flow builder",
+      "status": "Open",
+      "status_category": "To Do",
+      "assignee": "Alexander Skalatskiy",
+      "issuetype": "Task",
+      "created": "2026-03-26",
+      "updated": "2026-03-26",
+      "resolutiondate": "",
+      "labels": [
+        "TMB"
+      ]
+    },
+    {
+      "key": "PS-5264",
+      "summary": "Internal - Github Action to deploy bots automatically",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Pep Alonso",
+      "issuetype": "Discovery Task",
+      "created": "2026-03-26",
+      "updated": "2026-03-26",
+      "resolutiondate": "",
+      "labels": []
+    },
+    {
+      "key": "PS-5263",
+      "summary": "Occident - Bring hash logic to bot instead of middlwere",
+      "status": "Ready for review",
+      "status_category": "In Progress",
+      "assignee": "Pep Alonso",
+      "issuetype": "Task",
+      "created": "2026-03-26",
+      "updated": "2026-03-26",
+      "resolutiondate": "",
+      "labels": [
+        "occident"
+      ]
+    },
     {
       "key": "PS-5262",
       "summary": "Multiasistencia - Holabank - Eliminar punto del menú",
@@ -51,9 +131,11 @@
       "assignee": null,
       "issuetype": "Task",
       "created": "2026-03-24",
-      "updated": "2026-03-24",
+      "updated": "2026-03-26",
       "resolutiondate": "",
-      "labels": []
+      "labels": [
+        "Internal"
+      ]
     },
     {
       "key": "PS-5257",
@@ -63,9 +145,11 @@
       "assignee": null,
       "issuetype": "Task",
       "created": "2026-03-24",
-      "updated": "2026-03-24",
+      "updated": "2026-03-26",
       "resolutiondate": "",
-      "labels": []
+      "labels": [
+        "Internal"
+      ]
     },
     {
       "key": "PS-5256",
@@ -75,9 +159,11 @@
       "assignee": null,
       "issuetype": "Task",
       "created": "2026-03-24",
-      "updated": "2026-03-24",
+      "updated": "2026-03-26",
       "resolutiondate": "",
-      "labels": []
+      "labels": [
+        "Internal"
+      ]
     },
     {
       "key": "PS-5255",
@@ -87,9 +173,11 @@
       "assignee": null,
       "issuetype": "Task",
       "created": "2026-03-24",
-      "updated": "2026-03-24",
+      "updated": "2026-03-26",
       "resolutiondate": "",
-      "labels": []
+      "labels": [
+        "Internal"
+      ]
     },
     {
       "key": "PS-5254",
@@ -99,21 +187,25 @@
       "assignee": null,
       "issuetype": "Task",
       "created": "2026-03-24",
-      "updated": "2026-03-24",
+      "updated": "2026-03-26",
       "resolutiondate": "",
-      "labels": []
+      "labels": [
+        "Internal"
+      ]
     },
     {
       "key": "PS-5253",
       "summary": "Security Audit: salesforce-integration/api (2C, 2H)",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Closed",
+      "status_category": "Done",
       "assignee": null,
       "issuetype": "Task",
       "created": "2026-03-24",
-      "updated": "2026-03-24",
+      "updated": "2026-03-26",
       "resolutiondate": "",
-      "labels": []
+      "labels": [
+        "Internal"
+      ]
     },
     {
       "key": "PS-5252",
@@ -123,9 +215,11 @@
       "assignee": null,
       "issuetype": "Task",
       "created": "2026-03-24",
-      "updated": "2026-03-24",
+      "updated": "2026-03-26",
       "resolutiondate": "",
-      "labels": []
+      "labels": [
+        "Internal"
+      ]
     },
     {
       "key": "PS-5251",
@@ -135,9 +229,11 @@
       "assignee": null,
       "issuetype": "Task",
       "created": "2026-03-24",
-      "updated": "2026-03-24",
+      "updated": "2026-03-26",
       "resolutiondate": "",
-      "labels": []
+      "labels": [
+        "Internal"
+      ]
     },
     {
       "key": "PS-5250",
@@ -147,9 +243,11 @@
       "assignee": null,
       "issuetype": "Task",
       "created": "2026-03-24",
-      "updated": "2026-03-24",
+      "updated": "2026-03-26",
       "resolutiondate": "",
-      "labels": []
+      "labels": [
+        "Internal"
+      ]
     },
     {
       "key": "PS-5249",
@@ -159,9 +257,11 @@
       "assignee": null,
       "issuetype": "Task",
       "created": "2026-03-24",
-      "updated": "2026-03-24",
+      "updated": "2026-03-26",
       "resolutiondate": "",
-      "labels": []
+      "labels": [
+        "Internal"
+      ]
     },
     {
       "key": "PS-5248",
@@ -171,9 +271,11 @@
       "assignee": null,
       "issuetype": "Task",
       "created": "2026-03-24",
-      "updated": "2026-03-24",
+      "updated": "2026-03-26",
       "resolutiondate": "",
-      "labels": []
+      "labels": [
+        "Internal"
+      ]
     },
     {
       "key": "PS-5247",
@@ -183,9 +285,11 @@
       "assignee": null,
       "issuetype": "Task",
       "created": "2026-03-24",
-      "updated": "2026-03-24",
+      "updated": "2026-03-26",
       "resolutiondate": "",
-      "labels": []
+      "labels": [
+        "Internal"
+      ]
     },
     {
       "key": "PS-5246",
@@ -195,9 +299,11 @@
       "assignee": null,
       "issuetype": "Task",
       "created": "2026-03-24",
-      "updated": "2026-03-24",
+      "updated": "2026-03-26",
       "resolutiondate": "",
-      "labels": []
+      "labels": [
+        "Internal"
+      ]
     },
     {
       "key": "PS-5245",
@@ -207,9 +313,11 @@
       "assignee": null,
       "issuetype": "Task",
       "created": "2026-03-24",
-      "updated": "2026-03-24",
+      "updated": "2026-03-26",
       "resolutiondate": "",
-      "labels": []
+      "labels": [
+        "Internal"
+      ]
     },
     {
       "key": "PS-5244",
@@ -219,9 +327,11 @@
       "assignee": null,
       "issuetype": "Task",
       "created": "2026-03-24",
-      "updated": "2026-03-24",
+      "updated": "2026-03-26",
       "resolutiondate": "",
-      "labels": []
+      "labels": [
+        "Internal"
+      ]
     },
     {
       "key": "PS-5243",
@@ -231,9 +341,11 @@
       "assignee": null,
       "issuetype": "Task",
       "created": "2026-03-24",
-      "updated": "2026-03-24",
+      "updated": "2026-03-26",
       "resolutiondate": "",
-      "labels": []
+      "labels": [
+        "Internal"
+      ]
     },
     {
       "key": "PS-5242",
@@ -243,9 +355,11 @@
       "assignee": null,
       "issuetype": "Task",
       "created": "2026-03-24",
-      "updated": "2026-03-24",
+      "updated": "2026-03-26",
       "resolutiondate": "",
-      "labels": []
+      "labels": [
+        "Internal"
+      ]
     },
     {
       "key": "PS-5241",
@@ -255,9 +369,11 @@
       "assignee": null,
       "issuetype": "Task",
       "created": "2026-03-24",
-      "updated": "2026-03-24",
+      "updated": "2026-03-26",
       "resolutiondate": "",
-      "labels": []
+      "labels": [
+        "Internal"
+      ]
     },
     {
       "key": "PS-5240",
@@ -267,21 +383,25 @@
       "assignee": null,
       "issuetype": "Task",
       "created": "2026-03-24",
-      "updated": "2026-03-24",
+      "updated": "2026-03-26",
       "resolutiondate": "",
-      "labels": []
+      "labels": [
+        "Internal"
+      ]
     },
     {
       "key": "PS-5239",
       "summary": "Security Audit: groupe-casino/aws (3C, 6H)",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Closed",
+      "status_category": "Done",
       "assignee": null,
       "issuetype": "Task",
       "created": "2026-03-24",
-      "updated": "2026-03-24",
+      "updated": "2026-03-26",
       "resolutiondate": "",
-      "labels": []
+      "labels": [
+        "Internal"
+      ]
     },
     {
       "key": "PS-5238",
@@ -291,9 +411,11 @@
       "assignee": null,
       "issuetype": "Task",
       "created": "2026-03-24",
-      "updated": "2026-03-24",
+      "updated": "2026-03-26",
       "resolutiondate": "",
-      "labels": []
+      "labels": [
+        "Internal"
+      ]
     },
     {
       "key": "PS-5237",
@@ -303,9 +425,11 @@
       "assignee": null,
       "issuetype": "Task",
       "created": "2026-03-24",
-      "updated": "2026-03-24",
+      "updated": "2026-03-26",
       "resolutiondate": "",
-      "labels": []
+      "labels": [
+        "Internal"
+      ]
     },
     {
       "key": "PS-5236",
@@ -315,9 +439,11 @@
       "assignee": null,
       "issuetype": "Task",
       "created": "2026-03-24",
-      "updated": "2026-03-24",
+      "updated": "2026-03-26",
       "resolutiondate": "",
-      "labels": []
+      "labels": [
+        "Internal"
+      ]
     },
     {
       "key": "PS-5235",
@@ -327,9 +453,11 @@
       "assignee": null,
       "issuetype": "Task",
       "created": "2026-03-24",
-      "updated": "2026-03-24",
+      "updated": "2026-03-26",
       "resolutiondate": "",
-      "labels": []
+      "labels": [
+        "Internal"
+      ]
     },
     {
       "key": "PS-5234",
@@ -419,7 +547,7 @@
       "assignee": "Andrea Talal Haidar",
       "issuetype": "Task",
       "created": "2026-03-23",
-      "updated": "2026-03-23",
+      "updated": "2026-03-26",
       "resolutiondate": "",
       "labels": [
         "TMB"
@@ -620,12 +748,12 @@
     {
       "key": "PS-5213",
       "summary": "Tendam - Enrich the info sent to InConcert with the AI Summary field (now available through API)",
-      "status": "Ready to Deliver",
-      "status_category": "In Progress",
+      "status": "APPROVED FOR PRODUCTION",
+      "status_category": "Done",
       "assignee": "Evgeni Slavyanov",
       "issuetype": "Task",
       "created": "2026-03-18",
-      "updated": "2026-03-24",
+      "updated": "2026-03-26",
       "resolutiondate": "",
       "labels": [
         "Tendam"
@@ -634,12 +762,12 @@
     {
       "key": "PS-5212",
       "summary": "Polarier - Endpoint de información por entidad (hotel)",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "In Progress",
+      "status_category": "In Progress",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-03-18",
-      "updated": "2026-03-23",
+      "updated": "2026-03-26",
       "resolutiondate": "",
       "labels": [
         "Polarier"
@@ -1029,7 +1157,7 @@
       "assignee": null,
       "issuetype": "Task",
       "created": "2026-03-11",
-      "updated": "2026-03-23",
+      "updated": "2026-03-26",
       "resolutiondate": "",
       "labels": [
         "Multiasistencia"
@@ -1178,12 +1306,12 @@
     {
       "key": "PS-5171",
       "summary": "TMB - Apply code fix to open URL in same tab",
-      "status": "In Progress",
+      "status": "Ready for review",
       "status_category": "In Progress",
       "assignee": "Alexander Skalatskiy",
       "issuetype": "Task",
       "created": "2026-03-10",
-      "updated": "2026-03-25",
+      "updated": "2026-03-26",
       "resolutiondate": "",
       "labels": [
         "TMB"
@@ -1632,12 +1760,12 @@
     {
       "key": "PS-5137",
       "summary": "Air Europa - Consultar Reserva - Final adjustments",
-      "status": "In production",
-      "status_category": "Done",
+      "status": "To Do",
+      "status_category": "To Do",
       "assignee": "Alexander Skalatskiy",
       "issuetype": "Task",
       "created": "2026-03-03",
-      "updated": "2026-03-24",
+      "updated": "2026-03-26",
       "resolutiondate": "",
       "labels": [
         "AirEuropa"
@@ -2188,12 +2316,12 @@
     {
       "key": "PS-5095",
       "summary": "Allianz ES - Update botonic version",
-      "status": "In Progress",
+      "status": "Ready for review",
       "status_category": "In Progress",
       "assignee": "Evgeni Slavyanov",
       "issuetype": "Task",
       "created": "2026-02-23",
-      "updated": "2026-03-25",
+      "updated": "2026-03-26",
       "resolutiondate": "",
       "labels": [
         "Allianz-ES"
@@ -5150,12 +5278,12 @@
     {
       "key": "PS-4858",
       "summary": "Tendam - Include WISMO & WISMR for International bots",
-      "status": "In Progress",
+      "status": "Ready to Deliver",
       "status_category": "In Progress",
       "assignee": "María Sánchez",
       "issuetype": "Task",
       "created": "2026-01-19",
-      "updated": "2026-03-23",
+      "updated": "2026-03-26",
       "resolutiondate": "",
       "labels": [
         "Tendam"
@@ -8927,13 +9055,13 @@
     },
     {
       "key": "PS-4551",
-      "summary": "Tendam - Update all bots to Botonic 40 (AI Agent)",
+      "summary": "Tendam - Update all bots to Botonic 46 (AI Agent)",
       "status": "In Progress",
       "status_category": "In Progress",
       "assignee": "Adrià Sastre",
       "issuetype": "Epic",
       "created": "2025-10-20",
-      "updated": "2026-02-17",
+      "updated": "2026-03-26",
       "resolutiondate": "",
       "labels": [
         "Tendam"
