@@ -1,27 +1,85 @@
 {
-  "last_updated": "2026-03-27 07:58 UTC",
+  "last_updated": "2026-03-28 07:42 UTC",
   "tickets": [
     {
-      "key": "PS-5268",
-      "summary": "Wizz Air - Translate flow in Romanian, Hungarian and Spanish",
+      "key": "PS-5272",
+      "summary": "TMB - Create Staging Snippet for App",
       "status": "To Do",
       "status_category": "To Do",
-      "assignee": "Aitor Casas",
+      "assignee": "Alexander Skalatskiy",
       "issuetype": "Task",
-      "created": "2026-03-26",
-      "updated": "2026-03-26",
+      "created": "2026-03-27",
+      "updated": "2026-03-27",
       "resolutiondate": "",
-      "labels": []
+      "labels": [
+        "TMB"
+      ]
     },
     {
-      "key": "PS-5267",
-      "summary": "Soledad - apply improvements",
+      "key": "PS-5271",
+      "summary": "Jetsmart - New endpoints on middlwere for buy a Flight Webview",
+      "status": "Ready for review",
+      "status_category": "In Progress",
+      "assignee": "Pep Alonso",
+      "issuetype": "Task",
+      "created": "2026-03-27",
+      "updated": "2026-03-27",
+      "resolutiondate": "",
+      "labels": [
+        "JetSmart"
+      ]
+    },
+    {
+      "key": "PS-5270",
+      "summary": "Occident - Update bot to implement the WhatsApp audio transcriptions",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Adrià Sastre",
+      "issuetype": "Task",
+      "created": "2026-03-27",
+      "updated": "2026-03-27",
+      "resolutiondate": "",
+      "labels": [
+        "occident"
+      ]
+    },
+    {
+      "key": "PS-5269",
+      "summary": "Soledad - implement new design step 2 webview ",
       "status": "In Progress",
       "status_category": "In Progress",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
+      "created": "2026-03-27",
+      "updated": "2026-03-27",
+      "resolutiondate": "",
+      "labels": [
+        "Soledad"
+      ]
+    },
+    {
+      "key": "PS-5268",
+      "summary": "Wizz Air - Translate flow in Romanian, Hungarian and Spanish",
+      "status": "Open",
+      "status_category": "To Do",
+      "assignee": "Julieta Mezza",
+      "issuetype": "Task",
       "created": "2026-03-26",
-      "updated": "2026-03-26",
+      "updated": "2026-03-27",
+      "resolutiondate": "",
+      "labels": [
+        "WizzAir"
+      ]
+    },
+    {
+      "key": "PS-5267",
+      "summary": "Soledad - apply improvements",
+      "status": "Ready for review",
+      "status_category": "In Progress",
+      "assignee": "Lorena Sánchez-Toril Nicolás",
+      "issuetype": "Task",
+      "created": "2026-03-26",
+      "updated": "2026-03-27",
       "resolutiondate": "",
       "labels": [
         "Soledad"
@@ -44,12 +102,12 @@
     {
       "key": "PS-5265",
       "summary": "TMB - Implement custom component in flow builder",
-      "status": "Open",
+      "status": "To Do",
       "status_category": "To Do",
       "assignee": "Alexander Skalatskiy",
       "issuetype": "Task",
       "created": "2026-03-26",
-      "updated": "2026-03-26",
+      "updated": "2026-03-27",
       "resolutiondate": "",
       "labels": [
         "TMB"
@@ -474,12 +532,12 @@
     {
       "key": "PS-5233",
       "summary": "Internal - Add Cursor rules in bots-definitions repo",
-      "status": "Ready to Deliver",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Adrià Sastre",
       "issuetype": "Task",
       "created": "2026-03-24",
-      "updated": "2026-03-25",
+      "updated": "2026-03-27",
       "resolutiondate": "",
       "labels": []
     },
@@ -762,12 +820,12 @@
     {
       "key": "PS-5212",
       "summary": "Polarier - Endpoint de información por entidad (hotel)",
-      "status": "In Progress",
+      "status": "Ready for review",
       "status_category": "In Progress",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-03-18",
-      "updated": "2026-03-26",
+      "updated": "2026-03-27",
       "resolutiondate": "",
       "labels": [
         "Polarier"
@@ -1306,12 +1364,12 @@
     {
       "key": "PS-5171",
       "summary": "TMB - Apply code fix to open URL in same tab",
-      "status": "Ready for review",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Alexander Skalatskiy",
       "issuetype": "Task",
       "created": "2026-03-10",
-      "updated": "2026-03-26",
+      "updated": "2026-03-27",
       "resolutiondate": "",
       "labels": [
         "TMB"
@@ -1499,13 +1557,13 @@
     },
     {
       "key": "PS-5158",
-      "summary": "Ralph Lauren - Weekly Executions March - Week 3",
-      "status": "Done",
-      "status_category": "Done",
+      "summary": "Ralph Lauren - Weekly Executions March - Week 4",
+      "status": "Ready for review",
+      "status_category": "In Progress",
       "assignee": "irene callejas",
       "issuetype": "Task",
       "created": "2026-03-06",
-      "updated": "2026-03-23",
+      "updated": "2026-03-28",
       "resolutiondate": "",
       "labels": [
         "Ralph_Lauren"
@@ -4428,7 +4486,7 @@
       "assignee": "Pep Alonso",
       "issuetype": "Epic",
       "created": "2026-01-30",
-      "updated": "2026-03-02",
+      "updated": "2026-03-27",
       "resolutiondate": "",
       "labels": [
         "JetSmart"
@@ -5283,7 +5341,7 @@
       "assignee": "María Sánchez",
       "issuetype": "Task",
       "created": "2026-01-19",
-      "updated": "2026-03-26",
+      "updated": "2026-03-27",
       "resolutiondate": "",
       "labels": [
         "Tendam"
@@ -9856,12 +9914,12 @@
     {
       "key": "PS-4483",
       "summary": "Bot Template - Add onTrackEvent listener in webchat (to track Knowledge Base feedback),",
-      "status": "Ready to Deliver",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Adrià Sastre",
       "issuetype": "Task",
       "created": "2025-10-06",
-      "updated": "2026-01-18",
+      "updated": "2026-03-27",
       "resolutiondate": "",
       "labels": [
         "Internal"
@@ -9973,12 +10031,12 @@
     {
       "key": "PS-4474",
       "summary": "Bot Template - Bump to 0.40.0",
-      "status": "Ready to Deliver",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Adrià Sastre",
       "issuetype": "Task",
       "created": "2025-10-01",
-      "updated": "2026-01-18",
+      "updated": "2026-03-27",
       "resolutiondate": "",
       "labels": [
         "Internal"
@@ -10299,12 +10357,12 @@
     {
       "key": "PS-4446",
       "summary": "Bot Template - Remove secrets files",
-      "status": "Ready to Deliver",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Adrià Sastre",
       "issuetype": "Task",
       "created": "2025-09-24",
-      "updated": "2026-01-18",
+      "updated": "2026-03-27",
       "resolutiondate": "",
       "labels": [
         "Internal"
@@ -10351,12 +10409,12 @@
     {
       "key": "PS-4442",
       "summary": "Bot Template - Update packages to 0.39.X",
-      "status": "Ready to Deliver",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Adrià Sastre",
       "issuetype": "Task",
       "created": "2025-09-23",
-      "updated": "2026-01-18",
+      "updated": "2026-03-27",
       "resolutiondate": "",
       "labels": [
         "Internal"
@@ -10365,12 +10423,12 @@
     {
       "key": "PS-4441",
       "summary": "Bot-core - Split bundles",
-      "status": "Ready to Deliver",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Adrià Sastre",
       "issuetype": "Task",
       "created": "2025-09-23",
-      "updated": "2026-01-18",
+      "updated": "2026-03-27",
       "resolutiondate": "",
       "labels": [
         "Internal"
@@ -11886,12 +11944,12 @@
     {
       "key": "PS-4312",
       "summary": "Bot Template - Remove test-plugins.ts line from ts config",
-      "status": "Ready to Deliver",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Adrià Sastre",
       "issuetype": "Task",
       "created": "2025-08-21",
-      "updated": "2026-01-18",
+      "updated": "2026-03-27",
       "resolutiondate": "",
       "labels": [
         "Internal"
@@ -12857,12 +12915,12 @@
     {
       "key": "PS-4231",
       "summary": "Bot Template - Update Trigger Button rspack entry",
-      "status": "Ready to Deliver",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Adrià Sastre",
       "issuetype": "Task",
       "created": "2025-07-18",
-      "updated": "2026-01-18",
+      "updated": "2026-03-27",
       "resolutiondate": "",
       "labels": [
         "Internal"
