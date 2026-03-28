@@ -1,6 +1,23 @@
 {
-  "last_updated": "2026-03-27 08:05 UTC",
+  "last_updated": "2026-03-28 07:53 UTC",
   "opportunities": [
+    {
+      "id": "006Sa00000dDST6IAO",
+      "name": "2026-U-JetSMART Airlines-Chile-3 Desk License",
+      "type": "Upsell",
+      "stage": "Closed Won",
+      "is_closed": true,
+      "is_won": true,
+      "probability": 100.0,
+      "amount": 720.0,
+      "arr": 1440.0,
+      "owner": "Julieta Mezza",
+      "cs_lead": "Julieta Mezza",
+      "account": "JetSMART Airlines",
+      "created": "2026-03-27",
+      "close_date": "2026-03-27",
+      "start_date": "2026-04-15"
+    },
     {
       "id": "006Sa00000dA5JOIA0",
       "name": "2026-U-Wizz Air-Extra Languages (Spanish)",
