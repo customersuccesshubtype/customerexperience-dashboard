@@ -1,6 +1,28 @@
 {
-  "last_updated": "2026-03-28 07:53 UTC",
+  "last_updated": "2026-03-29 07:58 UTC",
   "cases": [
+    {
+      "id": "500Sa00000okNXwIAM",
+      "case_number": "00024482",
+      "subject": "Deletion request - Identity document images",
+      "status": "New",
+      "priority": "Low",
+      "is_closed": false,
+      "is_escalated": false,
+      "owner": "Aitor Casas",
+      "account": "",
+      "origin": "Inbound",
+      "type": "",
+      "feeling": "",
+      "issue_type": "",
+      "channel": "Email",
+      "is_critical": "L4",
+      "escalated_team": "",
+      "resolution_time": "",
+      "created": "2026-03-28",
+      "closed": "",
+      "last_modified": "2026-03-28"
+    },
     {
       "id": "500Sa00000oelErIAI",
       "case_number": "00024477",
