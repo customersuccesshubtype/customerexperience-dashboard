@@ -1,27 +1,27 @@
 {
-  "last_updated": "2026-03-29 07:58 UTC",
+  "last_updated": "2026-03-30 08:49 UTC",
   "cases": [
     {
       "id": "500Sa00000okNXwIAM",
       "case_number": "00024482",
       "subject": "Deletion request - Identity document images",
-      "status": "New",
+      "status": "Closed",
       "priority": "Low",
-      "is_closed": false,
+      "is_closed": true,
       "is_escalated": false,
       "owner": "Aitor Casas",
-      "account": "",
+      "account": "Easyjet PLC",
       "origin": "Inbound",
-      "type": "",
+      "type": "Task",
       "feeling": "",
-      "issue_type": "",
+      "issue_type": "Informes",
       "channel": "Email",
       "is_critical": "L4",
       "escalated_team": "",
-      "resolution_time": "",
+      "resolution_time": "5. >36h",
       "created": "2026-03-28",
-      "closed": "",
-      "last_modified": "2026-03-28"
+      "closed": "2026-03-30",
+      "last_modified": "2026-03-30"
     },
     {
       "id": "500Sa00000oelErIAI",
