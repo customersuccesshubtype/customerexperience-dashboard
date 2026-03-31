@@ -1,6 +1,23 @@
 {
-  "last_updated": "2026-03-30 08:49 UTC",
+  "last_updated": "2026-03-31 08:16 UTC",
   "opportunities": [
+    {
+      "id": "006Sa00000dNK1IIAW",
+      "name": "2026-U-Verisure FR - 17 extra licenses for Service Client",
+      "type": "Upsell",
+      "stage": "Opportunity identified",
+      "is_closed": false,
+      "is_won": false,
+      "probability": 10.0,
+      "amount": 2601.0,
+      "arr": 0.0,
+      "owner": "María Sánchez",
+      "cs_lead": "María Sánchez",
+      "account": "Verisure France",
+      "created": "2026-03-30",
+      "close_date": "2026-04-30",
+      "start_date": "2026-05-01"
+    },
     {
       "id": "006Sa00000dDST6IAO",
       "name": "2026-U-JetSMART Airlines-Chile-3 Desk License",
@@ -112,23 +129,6 @@
       "is_won": false,
       "probability": 10.0,
       "amount": 3120.0,
-      "arr": 0.0,
-      "owner": "María Sánchez",
-      "cs_lead": "",
-      "account": "Alsa",
-      "created": "2026-03-12",
-      "close_date": "2026-05-29",
-      "start_date": "2026-05-29"
-    },
-    {
-      "id": "006Sa00000cJACOIA4",
-      "name": "2026-C-Alsa - New Snippet native integration in help page",
-      "type": "Consultancy",
-      "stage": "Opportunity identified",
-      "is_closed": false,
-      "is_won": false,
-      "probability": 10.0,
-      "amount": 1296.0,
       "arr": 0.0,
       "owner": "María Sánchez",
       "cs_lead": "",
