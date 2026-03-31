@@ -1,6 +1,20 @@
 {
-  "last_updated": "2026-03-30 08:20 UTC",
+  "last_updated": "2026-03-31 08:07 UTC",
   "tickets": [
+    {
+      "key": "PS-5273",
+      "summary": "Occident - Updgrade bot version to 0.46",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Pep Alonso",
+      "issuetype": "Task",
+      "created": "2026-03-30",
+      "updated": "2026-03-30",
+      "resolutiondate": "",
+      "labels": [
+        "occident"
+      ]
+    },
     {
       "key": "PS-5272",
       "summary": "TMB - Create Staging Snippet for App",
@@ -144,10 +158,10 @@
       "summary": "Multiasistencia - Holabank - Eliminar punto del menú",
       "status": "To Do",
       "status_category": "To Do",
-      "assignee": null,
+      "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-03-25",
-      "updated": "2026-03-25",
+      "updated": "2026-03-30",
       "resolutiondate": "",
       "labels": [
         "Multiasistencia"
@@ -158,10 +172,10 @@
       "summary": "Alsa - Bot version upgrade to 0.46.0",
       "status": "To Do",
       "status_category": "To Do",
-      "assignee": "Adrià Sastre",
+      "assignee": "Evgeni Slavyanov",
       "issuetype": "Task",
       "created": "2026-03-25",
-      "updated": "2026-03-25",
+      "updated": "2026-03-30",
       "resolutiondate": "",
       "labels": [
         "Alsa"
@@ -170,12 +184,12 @@
     {
       "key": "PS-5260",
       "summary": "TMB - Add privacy note on webchat",
-      "status": "Ready to Deliver",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Alexander Skalatskiy",
       "issuetype": "Task",
       "created": "2026-03-25",
-      "updated": "2026-03-25",
+      "updated": "2026-03-30",
       "resolutiondate": "",
       "labels": [
         "TMB"
@@ -600,12 +614,12 @@
     {
       "key": "PS-5228",
       "summary": "TMB - Design custom component for TMB's Zendesk ticket creation",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Andrea Talal Haidar",
       "issuetype": "Task",
       "created": "2026-03-23",
-      "updated": "2026-03-26",
+      "updated": "2026-03-30",
       "resolutiondate": "",
       "labels": [
         "TMB"
@@ -614,12 +628,12 @@
     {
       "key": "PS-5227",
       "summary": "Securitas Lead Gen - Activar Real Time Translations",
-      "status": "Ready for review",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Aitor Casas",
       "issuetype": "Task",
       "created": "2026-03-23",
-      "updated": "2026-03-24",
+      "updated": "2026-03-30",
       "resolutiondate": "",
       "labels": [
         "Securitas-leadgen"
@@ -668,12 +682,12 @@
     {
       "key": "PS-5223",
       "summary": "Alsa - Snippet web for native chatbot integration for Alsa Help Page",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Ready to Deliver",
+      "status_category": "In Progress",
       "assignee": "Adrià Sastre",
       "issuetype": "Task",
       "created": "2026-03-20",
-      "updated": "2026-03-20",
+      "updated": "2026-03-30",
       "resolutiondate": "",
       "labels": [
         "Alsa"
@@ -848,12 +862,12 @@
     {
       "key": "PS-5210",
       "summary": "Polarier - Pedir a platform que habiliten el dominio https://cloud.polarier.com/ para que pueda llamar Hubtype como Iframe",
-      "status": "Ready for review",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Marta Marron",
       "issuetype": "Task",
       "created": "2026-03-18",
-      "updated": "2026-03-19",
+      "updated": "2026-03-30",
       "resolutiondate": "",
       "labels": [
         "Polarier"
@@ -1154,12 +1168,12 @@
     {
       "key": "PS-5186",
       "summary": "Occident - Link the new test number to the \"Test Agencias\" project",
-      "status": "APPROVED FOR PRODUCTION",
+      "status": "In production",
       "status_category": "Done",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-03-12",
-      "updated": "2026-03-23",
+      "updated": "2026-03-30",
       "resolutiondate": "",
       "labels": [
         "occident"
@@ -1215,7 +1229,7 @@
       "assignee": null,
       "issuetype": "Task",
       "created": "2026-03-11",
-      "updated": "2026-03-26",
+      "updated": "2026-03-30",
       "resolutiondate": "",
       "labels": [
         "Multiasistencia"
@@ -1628,12 +1642,12 @@
     {
       "key": "PS-5152",
       "summary": "Air Europa - Review why we are not updating the language value when the user changes it in the middle of a conversation",
-      "status": "APPROVED FOR PRODUCTION",
+      "status": "In production",
       "status_category": "Done",
       "assignee": "Alexander Skalatskiy",
       "issuetype": "Bug",
       "created": "2026-03-06",
-      "updated": "2026-03-23",
+      "updated": "2026-03-30",
       "resolutiondate": "",
       "labels": []
     },
@@ -1818,8 +1832,8 @@
     {
       "key": "PS-5137",
       "summary": "Air Europa - Consultar Reserva - Final adjustments",
-      "status": "In Progress",
-      "status_category": "In Progress",
+      "status": "APPROVED FOR PRODUCTION",
+      "status_category": "Done",
       "assignee": "Alexander Skalatskiy",
       "issuetype": "Task",
       "created": "2026-03-03",
@@ -3337,12 +3351,12 @@
     {
       "key": "PS-5019",
       "summary": "Verisure IT - Implement Hubtype Webhook Endpoint to Receive Opportunity ID & Contact Profile",
-      "status": "Ready for review",
+      "status": "In Progress",
       "status_category": "In Progress",
       "assignee": "Evgeni Slavyanov",
       "issuetype": "Task",
       "created": "2026-02-13",
-      "updated": "2026-03-19",
+      "updated": "2026-03-31",
       "resolutiondate": "",
       "labels": [
         "Verisure_IT"
@@ -5336,12 +5350,12 @@
     {
       "key": "PS-4858",
       "summary": "Tendam - Include WISMO & WISMR for International bots",
-      "status": "Ready to Deliver",
-      "status_category": "In Progress",
+      "status": "APPROVED FOR PRODUCTION",
+      "status_category": "Done",
       "assignee": "María Sánchez",
       "issuetype": "Task",
       "created": "2026-01-19",
-      "updated": "2026-03-27",
+      "updated": "2026-03-30",
       "resolutiondate": "",
       "labels": [
         "Tendam"
