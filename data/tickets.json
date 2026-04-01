@@ -1,6 +1,56 @@
 {
-  "last_updated": "2026-03-31 08:07 UTC",
+  "last_updated": "2026-04-01 08:14 UTC",
   "tickets": [
+    {
+      "key": "PS-5277",
+      "summary": "Design Seat Selection Flow for Multi-leg Flights",
+      "status": "In Progress",
+      "status_category": "In Progress",
+      "assignee": "Vicky Correbo",
+      "issuetype": "Task",
+      "created": "2026-04-01",
+      "updated": "2026-04-01",
+      "resolutiondate": "",
+      "labels": []
+    },
+    {
+      "key": "PS-5276",
+      "summary": "Securitas Televentas - Create Organization with Flowbuilder",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Aitor Casas",
+      "issuetype": "Task",
+      "created": "2026-03-31",
+      "updated": "2026-03-31",
+      "resolutiondate": "",
+      "labels": []
+    },
+    {
+      "key": "PS-5275",
+      "summary": "Securitas Televenta - 1st Phase Project",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Marta Marron",
+      "issuetype": "Epic",
+      "created": "2026-03-31",
+      "updated": "2026-03-31",
+      "resolutiondate": "",
+      "labels": []
+    },
+    {
+      "key": "PS-5274",
+      "summary": "Ralph Lauren- add exclude parameter to filter-counts",
+      "status": "Ready for review",
+      "status_category": "In Progress",
+      "assignee": "Lorena Sánchez-Toril Nicolás",
+      "issuetype": "Task",
+      "created": "2026-03-31",
+      "updated": "2026-04-01",
+      "resolutiondate": "",
+      "labels": [
+        "Ralph_Lauren"
+      ]
+    },
     {
       "key": "PS-5273",
       "summary": "Occident - Updgrade bot version to 0.46",
@@ -60,12 +110,12 @@
     {
       "key": "PS-5269",
       "summary": "Soledad - implement new design step 2 webview ",
-      "status": "In Progress",
+      "status": "Ready for review",
       "status_category": "In Progress",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-03-27",
-      "updated": "2026-03-27",
+      "updated": "2026-03-31",
       "resolutiondate": "",
       "labels": [
         "Soledad"
@@ -116,12 +166,12 @@
     {
       "key": "PS-5265",
       "summary": "TMB - Implement custom component in flow builder",
-      "status": "In Progress",
+      "status": "Ready for review",
       "status_category": "In Progress",
       "assignee": "Alexander Skalatskiy",
       "issuetype": "Task",
       "created": "2026-03-26",
-      "updated": "2026-03-30",
+      "updated": "2026-04-01",
       "resolutiondate": "",
       "labels": [
         "TMB"
@@ -156,12 +206,12 @@
     {
       "key": "PS-5262",
       "summary": "Multiasistencia - Holabank - Eliminar punto del menú",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-03-25",
-      "updated": "2026-03-30",
+      "updated": "2026-04-01",
       "resolutiondate": "",
       "labels": [
         "Multiasistencia"
@@ -170,12 +220,12 @@
     {
       "key": "PS-5261",
       "summary": "Alsa - Bot version upgrade to 0.46.0",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "APPROVED FOR PRODUCTION",
+      "status_category": "Done",
       "assignee": "Evgeni Slavyanov",
       "issuetype": "Task",
       "created": "2026-03-25",
-      "updated": "2026-03-30",
+      "updated": "2026-04-01",
       "resolutiondate": "",
       "labels": [
         "Alsa"
@@ -570,20 +620,6 @@
       ]
     },
     {
-      "key": "PS-5231",
-      "summary": "Ralph Lauren - Build the push templates flows Rachel has suggested",
-      "status": "To Do",
-      "status_category": "To Do",
-      "assignee": "Andrea Talal Haidar",
-      "issuetype": "Task",
-      "created": "2026-03-23",
-      "updated": "2026-03-25",
-      "resolutiondate": "",
-      "labels": [
-        "Ralph_Lauren"
-      ]
-    },
-    {
       "key": "PS-5230",
       "summary": "Occident - Activate the new feature flag to assign WhatsApp numbers to projects ",
       "status": "Done",
@@ -710,12 +746,12 @@
     {
       "key": "PS-5221",
       "summary": "Soledad - promos on total step",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Closed",
+      "status_category": "Done",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-03-20",
-      "updated": "2026-03-20",
+      "updated": "2026-03-31",
       "resolutiondate": "",
       "labels": [
         "Soledad"
@@ -794,12 +830,12 @@
     {
       "key": "PS-5215",
       "summary": "Internal - Update Bot Template to use the 0.46.0 @botonic and @hubtype packages",
-      "status": "To Do",
-      "status_category": "To Do",
-      "assignee": null,
+      "status": "In Progress",
+      "status_category": "In Progress",
+      "assignee": "Adrià Sastre",
       "issuetype": "Task",
       "created": "2026-03-18",
-      "updated": "2026-03-18",
+      "updated": "2026-03-31",
       "resolutiondate": "",
       "labels": []
     },
@@ -820,12 +856,12 @@
     {
       "key": "PS-5213",
       "summary": "Tendam - Enrich the info sent to InConcert with the AI Summary field (now available through API)",
-      "status": "APPROVED FOR PRODUCTION",
+      "status": "In production",
       "status_category": "Done",
       "assignee": "Evgeni Slavyanov",
       "issuetype": "Task",
       "created": "2026-03-18",
-      "updated": "2026-03-26",
+      "updated": "2026-03-31",
       "resolutiondate": "",
       "labels": [
         "Tendam"
@@ -923,7 +959,7 @@
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-03-18",
-      "updated": "2026-03-26",
+      "updated": "2026-04-01",
       "resolutiondate": "",
       "labels": [
         "Polarier"
@@ -1832,12 +1868,12 @@
     {
       "key": "PS-5137",
       "summary": "Air Europa - Consultar Reserva - Final adjustments",
-      "status": "APPROVED FOR PRODUCTION",
-      "status_category": "Done",
+      "status": "Ready for review",
+      "status_category": "In Progress",
       "assignee": "Alexander Skalatskiy",
       "issuetype": "Task",
       "created": "2026-03-03",
-      "updated": "2026-03-30",
+      "updated": "2026-04-01",
       "resolutiondate": "",
       "labels": [
         "AirEuropa"
@@ -2653,12 +2689,12 @@
     {
       "key": "PS-5076",
       "summary": "Occident - Add new parameter \"providerAccountId\" to the the call to \"Inicio de conversación\" to inform the client about the channel ID",
-      "status": "APPROVED FOR PRODUCTION",
+      "status": "In production",
       "status_category": "Done",
       "assignee": "Pep Alonso",
       "issuetype": "Task",
       "created": "2026-02-20",
-      "updated": "2026-03-23",
+      "updated": "2026-04-01",
       "resolutiondate": "",
       "labels": [
         "occident"
@@ -3127,12 +3163,12 @@
     {
       "key": "PS-5036",
       "summary": "Multiasistencia - Update botonic version - MULTI_FRANCIA_STAGING - 662b5c99-a812-4c41-b27c-597978890ab4",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "In Progress",
+      "status_category": "In Progress",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-02-16",
-      "updated": "2026-03-23",
+      "updated": "2026-04-01",
       "resolutiondate": "",
       "labels": [
         "Multiasistencia"
@@ -3351,7 +3387,7 @@
     {
       "key": "PS-5019",
       "summary": "Verisure IT - Implement Hubtype Webhook Endpoint to Receive Opportunity ID & Contact Profile",
-      "status": "In Progress",
+      "status": "Ready to Deliver",
       "status_category": "In Progress",
       "assignee": "Evgeni Slavyanov",
       "issuetype": "Task",
@@ -5210,12 +5246,12 @@
     {
       "key": "PS-4870",
       "summary": "Occident - Add new field idChat to be sent for their endpoint.",
-      "status": "APPROVED FOR PRODUCTION",
+      "status": "In production",
       "status_category": "Done",
       "assignee": "Evgeni Slavyanov",
       "issuetype": "Task",
       "created": "2026-01-21",
-      "updated": "2026-03-23",
+      "updated": "2026-04-01",
       "resolutiondate": "",
       "labels": [
         "occident"
@@ -9032,12 +9068,12 @@
     {
       "key": "PS-4559",
       "summary": "Tendam - Update Hoss Intropia to Botonic Latest version",
-      "status": "Ready for review",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Adrià Sastre",
       "issuetype": "Task",
       "created": "2025-10-21",
-      "updated": "2026-03-24",
+      "updated": "2026-03-31",
       "resolutiondate": "",
       "labels": [
         "Tendam"
@@ -9133,7 +9169,7 @@
       "assignee": "Adrià Sastre",
       "issuetype": "Epic",
       "created": "2025-10-20",
-      "updated": "2026-03-26",
+      "updated": "2026-03-31",
       "resolutiondate": "",
       "labels": [
         "Tendam"
