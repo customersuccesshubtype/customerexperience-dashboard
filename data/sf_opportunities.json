@@ -1,6 +1,40 @@
 {
-  "last_updated": "2026-04-01 08:41 UTC",
+  "last_updated": "2026-04-02 08:14 UTC",
   "opportunities": [
+    {
+      "id": "006Sa00000dYgBGIA0",
+      "name": "2026-U-SegurcaixaAdeslas- Extra MAUs March 2026",
+      "type": "Upsell",
+      "stage": "Closed Won",
+      "is_closed": true,
+      "is_won": true,
+      "probability": 100.0,
+      "amount": 1195.0,
+      "arr": 0.0,
+      "owner": "María Sánchez",
+      "cs_lead": "",
+      "account": "SegurCaixa Adeslas",
+      "created": "2026-04-01",
+      "close_date": "2026-04-01",
+      "start_date": "2026-04-01"
+    },
+    {
+      "id": "006Sa00000dX1QHIA0",
+      "name": "2026-U-Securitas (Lead Gen)- Extra MAUs March 2026",
+      "type": "Upsell",
+      "stage": "Closed Won",
+      "is_closed": true,
+      "is_won": true,
+      "probability": 100.0,
+      "amount": 1013.94,
+      "arr": 0.0,
+      "owner": "Marta Marron",
+      "cs_lead": "",
+      "account": "Securitas Direct by Verisure",
+      "created": "2026-04-01",
+      "close_date": "2026-04-01",
+      "start_date": "2026-04-01"
+    },
     {
       "id": "006Sa00000dNK1IIAW",
       "name": "2026-U-Verisure FR - 17 extra licenses for Service Client",
