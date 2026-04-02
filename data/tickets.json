@@ -1,6 +1,128 @@
 {
-  "last_updated": "2026-04-01 08:14 UTC",
+  "last_updated": "2026-04-02 08:05 UTC",
   "tickets": [
+    {
+      "key": "PS-5286",
+      "summary": "Polarier - Varios",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": null,
+      "issuetype": "Task",
+      "created": "2026-04-01",
+      "updated": "2026-04-01",
+      "resolutiondate": "",
+      "labels": [
+        "Polarier"
+      ]
+    },
+    {
+      "key": "PS-5285",
+      "summary": "Polarier - Gather issue info before handoff",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "irene callejas",
+      "issuetype": "Task",
+      "created": "2026-04-01",
+      "updated": "2026-04-01",
+      "resolutiondate": "",
+      "labels": [
+        "Polarier"
+      ]
+    },
+    {
+      "key": "PS-5284",
+      "summary": "Ralph Lauren - Issue tracker",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "irene callejas",
+      "issuetype": "Task",
+      "created": "2026-04-01",
+      "updated": "2026-04-01",
+      "resolutiondate": "",
+      "labels": [
+        "Ralph_Lauren"
+      ]
+    },
+    {
+      "key": "PS-5283",
+      "summary": "Polarier – Route handoff to laundry queue based on latest order",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Lorena Sánchez-Toril Nicolás",
+      "issuetype": "Task",
+      "created": "2026-04-01",
+      "updated": "2026-04-01",
+      "resolutiondate": "",
+      "labels": [
+        "Polarier"
+      ]
+    },
+    {
+      "key": "PS-5282",
+      "summary": "Polarier – GET Entidades API ready for hotel identification improvement",
+      "status": "In Progress",
+      "status_category": "In Progress",
+      "assignee": "Lorena Sánchez-Toril Nicolás",
+      "issuetype": "Task",
+      "created": "2026-04-01",
+      "updated": "2026-04-02",
+      "resolutiondate": "",
+      "labels": [
+        "Polarier"
+      ]
+    },
+    {
+      "key": "PS-5281",
+      "summary": "Jetsmart - Buy a Flight Webview Structure + steps",
+      "status": "Ready for review",
+      "status_category": "In Progress",
+      "assignee": "Pep Alonso",
+      "issuetype": "Task",
+      "created": "2026-04-01",
+      "updated": "2026-04-01",
+      "resolutiondate": "",
+      "labels": [
+        "JetSmart"
+      ]
+    },
+    {
+      "key": "PS-5280",
+      "summary": "Retorna - Upgrade bot to Botonic 0.47",
+      "status": "Done",
+      "status_category": "Done",
+      "assignee": "Evgeni Slavyanov",
+      "issuetype": "Task",
+      "created": "2026-04-01",
+      "updated": "2026-04-01",
+      "resolutiondate": "",
+      "labels": [
+        "Retorna"
+      ]
+    },
+    {
+      "key": "PS-5279",
+      "summary": "Securitas Televentas - Deploy staging and production bots with latest versions organization id 61cd13d8-c7a8-4c11-8859-1f0a17e34d6f",
+      "status": "Ready for review",
+      "status_category": "In Progress",
+      "assignee": "Evgeni Slavyanov",
+      "issuetype": "Task",
+      "created": "2026-04-01",
+      "updated": "2026-04-01",
+      "resolutiondate": "",
+      "labels": []
+    },
+    {
+      "key": "PS-5278",
+      "summary": "Rearch and get consensus on Agent greeting best practices",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "irene callejas",
+      "issuetype": "Task",
+      "created": "2026-04-01",
+      "updated": "2026-04-01",
+      "resolutiondate": "",
+      "labels": []
+    },
     {
       "key": "PS-5277",
       "summary": "Design Seat Selection Flow for Multi-leg Flights",
@@ -16,12 +138,12 @@
     {
       "key": "PS-5276",
       "summary": "Securitas Televentas - Create Organization with Flowbuilder",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Aitor Casas",
       "issuetype": "Task",
       "created": "2026-03-31",
-      "updated": "2026-03-31",
+      "updated": "2026-04-01",
       "resolutiondate": "",
       "labels": []
     },
@@ -220,7 +342,7 @@
     {
       "key": "PS-5261",
       "summary": "Alsa - Bot version upgrade to 0.46.0",
-      "status": "APPROVED FOR PRODUCTION",
+      "status": "Done",
       "status_category": "Done",
       "assignee": "Evgeni Slavyanov",
       "issuetype": "Task",
@@ -856,12 +978,12 @@
     {
       "key": "PS-5213",
       "summary": "Tendam - Enrich the info sent to InConcert with the AI Summary field (now available through API)",
-      "status": "In production",
+      "status": "Done",
       "status_category": "Done",
       "assignee": "Evgeni Slavyanov",
       "issuetype": "Task",
       "created": "2026-03-18",
-      "updated": "2026-03-31",
+      "updated": "2026-04-01",
       "resolutiondate": "",
       "labels": [
         "Tendam"
@@ -1608,12 +1730,12 @@
     {
       "key": "PS-5158",
       "summary": "Ralph Lauren - Weekly Executions March - Week 4",
-      "status": "Ready for review",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "irene callejas",
       "issuetype": "Task",
       "created": "2026-03-06",
-      "updated": "2026-03-28",
+      "updated": "2026-04-01",
       "resolutiondate": "",
       "labels": [
         "Ralph_Lauren"
@@ -3177,12 +3299,12 @@
     {
       "key": "PS-5035",
       "summary": "Multiasistencia - Update botonic version - MULTI_MUTUA_TIN_STAGING - e7d99b0c-c542-4b8d-abb0-badecc92fa6d",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "In Progress",
+      "status_category": "In Progress",
       "assignee": "Evgeni Slavyanov",
       "issuetype": "Task",
       "created": "2026-02-16",
-      "updated": "2026-03-02",
+      "updated": "2026-04-01",
       "resolutiondate": "",
       "labels": [
         "Multiasistencia"
