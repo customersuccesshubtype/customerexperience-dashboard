@@ -1,6 +1,76 @@
 {
-  "last_updated": "2026-04-02 08:05 UTC",
+  "last_updated": "2026-04-03 08:01 UTC",
   "tickets": [
+    {
+      "key": "PS-5291",
+      "summary": "Michael Kors - Inbox customer data missing on repeat WA contacts",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": null,
+      "issuetype": "Task",
+      "created": "2026-04-02",
+      "updated": "2026-04-02",
+      "resolutiondate": "",
+      "labels": [
+        "Michael-Kors"
+      ]
+    },
+    {
+      "key": "PS-5290",
+      "summary": "Soledad - modify last message order confirmation",
+      "status": "Ready for review",
+      "status_category": "In Progress",
+      "assignee": "Lorena Sánchez-Toril Nicolás",
+      "issuetype": "Task",
+      "created": "2026-04-02",
+      "updated": "2026-04-02",
+      "resolutiondate": "",
+      "labels": [
+        "Soledad"
+      ]
+    },
+    {
+      "key": "PS-5289",
+      "summary": "Michael kors- change from caseId to conversationId ",
+      "status": "In production",
+      "status_category": "Done",
+      "assignee": "Lorena Sánchez-Toril Nicolás",
+      "issuetype": "Task",
+      "created": "2026-04-02",
+      "updated": "2026-04-02",
+      "resolutiondate": "",
+      "labels": [
+        "Michael-Kors"
+      ]
+    },
+    {
+      "key": "PS-5288",
+      "summary": "Polarier - En Handoff, validar el último pedido del hotel de la API y leer la Lavandería. Ello determinará la cola a la que hacemos handoff",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Lorena Sánchez-Toril Nicolás",
+      "issuetype": "Task",
+      "created": "2026-04-02",
+      "updated": "2026-04-02",
+      "resolutiondate": "",
+      "labels": [
+        "Polarier"
+      ]
+    },
+    {
+      "key": "PS-5287",
+      "summary": "Polarier - Validar que el ID de hotel que reportan con el QR Code exista en la API de Entidades",
+      "status": "Ready for review",
+      "status_category": "In Progress",
+      "assignee": "Lorena Sánchez-Toril Nicolás",
+      "issuetype": "Task",
+      "created": "2026-04-02",
+      "updated": "2026-04-02",
+      "resolutiondate": "",
+      "labels": [
+        "Polarier"
+      ]
+    },
     {
       "key": "PS-5286",
       "summary": "Polarier - Varios",
@@ -9,7 +79,7 @@
       "assignee": null,
       "issuetype": "Task",
       "created": "2026-04-01",
-      "updated": "2026-04-01",
+      "updated": "2026-04-02",
       "resolutiondate": "",
       "labels": [
         "Polarier"
@@ -60,8 +130,8 @@
     {
       "key": "PS-5282",
       "summary": "Polarier – GET Entidades API ready for hotel identification improvement",
-      "status": "In Progress",
-      "status_category": "In Progress",
+      "status": "To Do",
+      "status_category": "To Do",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-04-01",
@@ -758,12 +828,12 @@
     {
       "key": "PS-5229",
       "summary": "Polarier – Definición de prompt agente IA",
-      "status": "Open",
-      "status_category": "To Do",
+      "status": "In Progress",
+      "status_category": "In Progress",
       "assignee": "irene callejas",
       "issuetype": "Task",
       "created": "2026-03-23",
-      "updated": "2026-03-25",
+      "updated": "2026-04-02",
       "resolutiondate": "",
       "labels": [
         "Polarier"
@@ -1146,12 +1216,12 @@
     {
       "key": "PS-5201",
       "summary": "Polarier - Definir procedimiento de creación de los Códigos QR y crearlos",
-      "status": "In Progress",
-      "status_category": "In Progress",
-      "assignee": "Marta Marron",
+      "status": "Done",
+      "status_category": "Done",
+      "assignee": "Aitor Casas",
       "issuetype": "Task",
       "created": "2026-03-18",
-      "updated": "2026-03-20",
+      "updated": "2026-04-02",
       "resolutiondate": "",
       "labels": [
         "Polarier"
@@ -2691,7 +2761,7 @@
       "assignee": "María Sánchez",
       "issuetype": "Task",
       "created": "2026-02-21",
-      "updated": "2026-03-09",
+      "updated": "2026-04-02",
       "resolutiondate": "",
       "labels": [
         "Alsa"
@@ -3299,12 +3369,12 @@
     {
       "key": "PS-5035",
       "summary": "Multiasistencia - Update botonic version - MULTI_MUTUA_TIN_STAGING - e7d99b0c-c542-4b8d-abb0-badecc92fa6d",
-      "status": "In Progress",
+      "status": "Ready for review",
       "status_category": "In Progress",
       "assignee": "Evgeni Slavyanov",
       "issuetype": "Task",
       "created": "2026-02-16",
-      "updated": "2026-04-01",
+      "updated": "2026-04-02",
       "resolutiondate": "",
       "labels": [
         "Multiasistencia"
@@ -3817,12 +3887,12 @@
     {
       "key": "PS-4996",
       "summary": "Soledad: adjust webview sizing in mobile devices",
-      "status": "Ready for review",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-02-10",
-      "updated": "2026-03-23",
+      "updated": "2026-04-02",
       "resolutiondate": "",
       "labels": [
         "Soledad"
