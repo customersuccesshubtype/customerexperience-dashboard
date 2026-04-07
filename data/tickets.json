@@ -1,6 +1,20 @@
 {
-  "last_updated": "2026-04-06 08:21 UTC",
+  "last_updated": "2026-04-07 08:11 UTC",
   "tickets": [
+    {
+      "key": "PS-5292",
+      "summary": "JetSMART - Update botonic to latest version so that we can enlable Audio transcript feature",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Pep Alonso",
+      "issuetype": "Task",
+      "created": "2026-04-06",
+      "updated": "2026-04-06",
+      "resolutiondate": "",
+      "labels": [
+        "JetSmart"
+      ]
+    },
     {
       "key": "PS-5291",
       "summary": "Michael Kors - Inbox customer data missing on repeat WA contacts",
@@ -32,12 +46,12 @@
     {
       "key": "PS-5289",
       "summary": "Michael kors- change from caseId to conversationId ",
-      "status": "In production",
+      "status": "Done",
       "status_category": "Done",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-04-02",
-      "updated": "2026-04-02",
+      "updated": "2026-04-06",
       "resolutiondate": "",
       "labels": [
         "Michael-Kors"
@@ -46,12 +60,12 @@
     {
       "key": "PS-5288",
       "summary": "Polarier - En Handoff, validar el último pedido del hotel de la API y leer la Lavandería. Ello determinará la cola a la que hacemos handoff",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "In Progress",
+      "status_category": "In Progress",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-04-02",
-      "updated": "2026-04-02",
+      "updated": "2026-04-07",
       "resolutiondate": "",
       "labels": [
         "Polarier"
@@ -65,7 +79,7 @@
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-04-02",
-      "updated": "2026-04-02",
+      "updated": "2026-04-06",
       "resolutiondate": "",
       "labels": [
         "Polarier"
@@ -76,10 +90,10 @@
       "summary": "Polarier - Varios",
       "status": "To Do",
       "status_category": "To Do",
-      "assignee": null,
+      "assignee": "irene callejas",
       "issuetype": "Task",
       "created": "2026-04-01",
-      "updated": "2026-04-02",
+      "updated": "2026-04-06",
       "resolutiondate": "",
       "labels": [
         "Polarier"
@@ -116,12 +130,12 @@
     {
       "key": "PS-5283",
       "summary": "Polarier – Route handoff to laundry queue based on latest order",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Closed",
+      "status_category": "Done",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-04-01",
-      "updated": "2026-04-01",
+      "updated": "2026-04-06",
       "resolutiondate": "",
       "labels": [
         "Polarier"
@@ -130,12 +144,12 @@
     {
       "key": "PS-5282",
       "summary": "Polarier – GET Entidades API ready for hotel identification improvement",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Closed",
+      "status_category": "Done",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-04-01",
-      "updated": "2026-04-02",
+      "updated": "2026-04-07",
       "resolutiondate": "",
       "labels": [
         "Polarier"
@@ -172,12 +186,12 @@
     {
       "key": "PS-5279",
       "summary": "Securitas Televentas - Deploy staging and production bots with latest versions organization id 61cd13d8-c7a8-4c11-8859-1f0a17e34d6f",
-      "status": "Ready for review",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Evgeni Slavyanov",
       "issuetype": "Task",
       "created": "2026-04-01",
-      "updated": "2026-04-01",
+      "updated": "2026-04-06",
       "resolutiondate": "",
       "labels": []
     },
@@ -189,21 +203,23 @@
       "assignee": "irene callejas",
       "issuetype": "Task",
       "created": "2026-04-01",
-      "updated": "2026-04-01",
+      "updated": "2026-04-07",
       "resolutiondate": "",
       "labels": []
     },
     {
       "key": "PS-5277",
-      "summary": "Design Seat Selection Flow for Multi-leg Flights",
+      "summary": "JetSMART - Design Seat Selection Flow for Multi-leg Flights",
       "status": "In Progress",
       "status_category": "In Progress",
       "assignee": "Vicky Correbo",
       "issuetype": "Task",
       "created": "2026-04-01",
-      "updated": "2026-04-01",
+      "updated": "2026-04-06",
       "resolutiondate": "",
-      "labels": []
+      "labels": [
+        "JetSmart"
+      ]
     },
     {
       "key": "PS-5276",
@@ -220,14 +236,16 @@
     {
       "key": "PS-5275",
       "summary": "Securitas Televenta - 1st Phase Project",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Marta Marron",
       "issuetype": "Epic",
       "created": "2026-03-31",
-      "updated": "2026-03-31",
+      "updated": "2026-04-06",
       "resolutiondate": "",
-      "labels": []
+      "labels": [
+        "Securitas-leadgen"
+      ]
     },
     {
       "key": "PS-5274",
@@ -265,7 +283,7 @@
       "assignee": "Alexander Skalatskiy",
       "issuetype": "Task",
       "created": "2026-03-27",
-      "updated": "2026-03-27",
+      "updated": "2026-04-06",
       "resolutiondate": "",
       "labels": [
         "TMB"
@@ -288,12 +306,12 @@
     {
       "key": "PS-5270",
       "summary": "Occident - Update bot to implement the WhatsApp audio transcriptions",
-      "status": "To Do",
-      "status_category": "To Do",
-      "assignee": "Adrià Sastre",
+      "status": "Closed",
+      "status_category": "Done",
+      "assignee": null,
       "issuetype": "Task",
       "created": "2026-03-27",
-      "updated": "2026-03-27",
+      "updated": "2026-04-07",
       "resolutiondate": "",
       "labels": [
         "occident"
@@ -316,12 +334,12 @@
     {
       "key": "PS-5268",
       "summary": "Wizz Air - Translate flow in Romanian, Hungarian and Spanish",
-      "status": "Open",
+      "status": "To Do",
       "status_category": "To Do",
-      "assignee": "Julieta Mezza",
+      "assignee": "Aitor Casas",
       "issuetype": "Task",
       "created": "2026-03-26",
-      "updated": "2026-03-27",
+      "updated": "2026-04-07",
       "resolutiondate": "",
       "labels": [
         "WizzAir"
@@ -1022,12 +1040,12 @@
     {
       "key": "PS-5215",
       "summary": "Internal - Update Bot Template to use the 0.46.0 @botonic and @hubtype packages",
-      "status": "In Progress",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Adrià Sastre",
       "issuetype": "Task",
       "created": "2026-03-18",
-      "updated": "2026-03-31",
+      "updated": "2026-04-06",
       "resolutiondate": "",
       "labels": []
     },
@@ -1118,12 +1136,12 @@
     {
       "key": "PS-5208",
       "summary": "Polarier - Trasladar el contenido de todos los contact info y conversation info fields a Tinybird",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Closed",
+      "status_category": "Done",
       "assignee": null,
       "issuetype": "Task",
       "created": "2026-03-18",
-      "updated": "2026-03-19",
+      "updated": "2026-04-06",
       "resolutiondate": "",
       "labels": [
         "Polarier"
@@ -1634,12 +1652,12 @@
     {
       "key": "PS-5169",
       "summary": "Occident - Implement adjustments in the way we are communicating with their systems",
-      "status": "Ready for review",
+      "status": "Ready to Deliver",
       "status_category": "In Progress",
       "assignee": "Pep Alonso",
       "issuetype": "Task",
       "created": "2026-03-10",
-      "updated": "2026-03-25",
+      "updated": "2026-04-07",
       "resolutiondate": "",
       "labels": [
         "occident"
@@ -1662,12 +1680,12 @@
     {
       "key": "PS-5167",
       "summary": "Occident - Implement changes in the way we are communicating data",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Ready for review",
+      "status_category": "In Progress",
       "assignee": "Julieta Mezza",
       "issuetype": "Epic",
       "created": "2026-03-10",
-      "updated": "2026-03-16",
+      "updated": "2026-04-06",
       "resolutiondate": "",
       "labels": [
         "occident"
@@ -2427,7 +2445,7 @@
       "assignee": "Aitor Casas",
       "issuetype": "Task",
       "created": "2026-02-25",
-      "updated": "2026-03-23",
+      "updated": "2026-04-07",
       "resolutiondate": "",
       "labels": [
         "ccma"
@@ -2551,7 +2569,7 @@
       "assignee": "Aitor Casas",
       "issuetype": "Task",
       "created": "2026-02-24",
-      "updated": "2026-03-02",
+      "updated": "2026-04-06",
       "resolutiondate": "",
       "labels": [
         "all_clients"
@@ -2621,7 +2639,7 @@
       "assignee": "Evgeni Slavyanov",
       "issuetype": "Task",
       "created": "2026-02-23",
-      "updated": "2026-03-26",
+      "updated": "2026-04-06",
       "resolutiondate": "",
       "labels": [
         "Allianz-ES"
@@ -2714,12 +2732,12 @@
     {
       "key": "PS-5088",
       "summary": "Alsa - Voice message proposal (product feature)",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "María Sánchez",
       "issuetype": "Task",
       "created": "2026-02-23",
-      "updated": "2026-03-25",
+      "updated": "2026-04-06",
       "resolutiondate": "",
       "labels": [
         "Alsa"
@@ -2886,7 +2904,7 @@
       "assignee": "Pep Alonso",
       "issuetype": "Task",
       "created": "2026-02-20",
-      "updated": "2026-04-01",
+      "updated": "2026-04-06",
       "resolutiondate": "",
       "labels": [
         "occident"
@@ -2895,12 +2913,12 @@
     {
       "key": "PS-5075",
       "summary": "Occident - Send information to endpoint \"Inicio de conversación\" they've created",
-      "status": "Ready for review",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Julieta Mezza",
       "issuetype": "Epic",
       "created": "2026-02-20",
-      "updated": "2026-03-23",
+      "updated": "2026-04-07",
       "resolutiondate": "",
       "labels": [
         "occident"
@@ -4557,12 +4575,12 @@
     {
       "key": "PS-4943",
       "summary": "Occident- WhatsApp Coexistence",
-      "status": "In Progress",
+      "status": "Ready for review",
       "status_category": "In Progress",
       "assignee": "Marta Marron",
       "issuetype": "Task",
       "created": "2026-02-03",
-      "updated": "2026-03-16",
+      "updated": "2026-04-06",
       "resolutiondate": "",
       "labels": [
         "occident"
@@ -4723,12 +4741,12 @@
     {
       "key": "PS-4931",
       "summary": "Jetsmart - Complex use case \"Buy a flight\"",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "In Progress",
+      "status_category": "In Progress",
       "assignee": "Pep Alonso",
       "issuetype": "Epic",
       "created": "2026-01-30",
-      "updated": "2026-03-27",
+      "updated": "2026-04-07",
       "resolutiondate": "",
       "labels": [
         "JetSmart"
@@ -5443,7 +5461,7 @@
       "assignee": "Evgeni Slavyanov",
       "issuetype": "Task",
       "created": "2026-01-21",
-      "updated": "2026-04-01",
+      "updated": "2026-04-06",
       "resolutiondate": "",
       "labels": [
         "occident"
@@ -6572,12 +6590,12 @@
     {
       "key": "PS-4778",
       "summary": "Wizz Air - Create \"payment status\" complex use matrix",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "In Progress",
+      "status_category": "In Progress",
       "assignee": "Julieta Mezza",
       "issuetype": "Task",
       "created": "2025-12-24",
-      "updated": "2026-03-23",
+      "updated": "2026-04-06",
       "resolutiondate": "",
       "labels": [
         "WizzAir"
