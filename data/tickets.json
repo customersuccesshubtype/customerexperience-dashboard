@@ -1,6 +1,76 @@
 {
-  "last_updated": "2026-04-07 08:11 UTC",
+  "last_updated": "2026-04-08 08:11 UTC",
   "tickets": [
+    {
+      "key": "PS-5298",
+      "summary": "TMB - Update Bot version to 0.47",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Evgeni Slavyanov",
+      "issuetype": "Task",
+      "created": "2026-04-08",
+      "updated": "2026-04-08",
+      "resolutiondate": "",
+      "labels": [
+        "TMB"
+      ]
+    },
+    {
+      "key": "PS-5296",
+      "summary": "Jetsmart - Adjust design to match the \"buy a flight\" design",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": null,
+      "issuetype": "Task",
+      "created": "2026-04-08",
+      "updated": "2026-04-08",
+      "resolutiondate": "",
+      "labels": [
+        "JetSmart"
+      ]
+    },
+    {
+      "key": "PS-5295",
+      "summary": "Polarier - Incluir posibilidad de eliminar conversación en staging cuando el usuario hace ###reset",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Lorena Sánchez-Toril Nicolás",
+      "issuetype": "Task",
+      "created": "2026-04-07",
+      "updated": "2026-04-08",
+      "resolutiondate": "",
+      "labels": [
+        "Polarier"
+      ]
+    },
+    {
+      "key": "PS-5294",
+      "summary": "Ralph Lauren: negative attributes",
+      "status": "Ready for review",
+      "status_category": "In Progress",
+      "assignee": "Lorena Sánchez-Toril Nicolás",
+      "issuetype": "Task",
+      "created": "2026-04-07",
+      "updated": "2026-04-07",
+      "resolutiondate": "",
+      "labels": [
+        "Ralph_Lauren"
+      ]
+    },
+    {
+      "key": "PS-5293",
+      "summary": "Air Europa - Review hits de META",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Adrià Sastre",
+      "issuetype": "Task",
+      "created": "2026-04-07",
+      "updated": "2026-04-07",
+      "resolutiondate": "",
+      "labels": [
+        "AirEuropa"
+      ]
+    },
     {
       "key": "PS-5292",
       "summary": "JetSMART - Update botonic to latest version so that we can enlable Audio transcript feature",
@@ -9,7 +79,7 @@
       "assignee": "Pep Alonso",
       "issuetype": "Task",
       "created": "2026-04-06",
-      "updated": "2026-04-06",
+      "updated": "2026-04-07",
       "resolutiondate": "",
       "labels": [
         "JetSmart"
@@ -20,10 +90,10 @@
       "summary": "Michael Kors - Inbox customer data missing on repeat WA contacts",
       "status": "To Do",
       "status_category": "To Do",
-      "assignee": null,
+      "assignee": "María Sánchez",
       "issuetype": "Task",
       "created": "2026-04-02",
-      "updated": "2026-04-02",
+      "updated": "2026-04-07",
       "resolutiondate": "",
       "labels": [
         "Michael-Kors"
@@ -93,7 +163,7 @@
       "assignee": "irene callejas",
       "issuetype": "Task",
       "created": "2026-04-01",
-      "updated": "2026-04-06",
+      "updated": "2026-04-07",
       "resolutiondate": "",
       "labels": [
         "Polarier"
@@ -163,7 +233,7 @@
       "assignee": "Pep Alonso",
       "issuetype": "Task",
       "created": "2026-04-01",
-      "updated": "2026-04-01",
+      "updated": "2026-04-07",
       "resolutiondate": "",
       "labels": [
         "JetSmart"
@@ -215,7 +285,7 @@
       "assignee": "Vicky Correbo",
       "issuetype": "Task",
       "created": "2026-04-01",
-      "updated": "2026-04-06",
+      "updated": "2026-04-07",
       "resolutiondate": "",
       "labels": [
         "JetSmart"
@@ -264,12 +334,12 @@
     {
       "key": "PS-5273",
       "summary": "Occident - Updgrade bot version to 0.46",
-      "status": "To Do",
-      "status_category": "To Do",
-      "assignee": "Pep Alonso",
+      "status": "In Progress",
+      "status_category": "In Progress",
+      "assignee": "Evgeni Slavyanov",
       "issuetype": "Task",
       "created": "2026-03-30",
-      "updated": "2026-03-30",
+      "updated": "2026-04-08",
       "resolutiondate": "",
       "labels": [
         "occident"
@@ -280,10 +350,10 @@
       "summary": "TMB - Create Staging Snippet for App",
       "status": "To Do",
       "status_category": "To Do",
-      "assignee": "Alexander Skalatskiy",
+      "assignee": "Francisca Martelli",
       "issuetype": "Task",
       "created": "2026-03-27",
-      "updated": "2026-04-06",
+      "updated": "2026-04-07",
       "resolutiondate": "",
       "labels": [
         "TMB"
@@ -376,12 +446,12 @@
     {
       "key": "PS-5265",
       "summary": "TMB - Implement custom component in flow builder",
-      "status": "Ready for review",
+      "status": "In Progress",
       "status_category": "In Progress",
       "assignee": "Alexander Skalatskiy",
       "issuetype": "Task",
       "created": "2026-03-26",
-      "updated": "2026-04-01",
+      "updated": "2026-04-08",
       "resolutiondate": "",
       "labels": [
         "TMB"
@@ -1094,12 +1164,12 @@
     {
       "key": "PS-5211",
       "summary": "Polarier - Crear los contact y conversation info fields",
-      "status": "To Do",
-      "status_category": "To Do",
-      "assignee": null,
+      "status": "Done",
+      "status_category": "Done",
+      "assignee": "Marta Marron",
       "issuetype": "Task",
       "created": "2026-03-18",
-      "updated": "2026-03-19",
+      "updated": "2026-04-07",
       "resolutiondate": "",
       "labels": [
         "Polarier"
@@ -1150,12 +1220,12 @@
     {
       "key": "PS-5207",
       "summary": "Polarier - Codificar las incidencias que se reporten con el código y subcódigo de incidencia, y guardarlo en conversation info field",
-      "status": "To Do",
-      "status_category": "To Do",
-      "assignee": null,
+      "status": "Done",
+      "status_category": "Done",
+      "assignee": "Marta Marron",
       "issuetype": "Task",
       "created": "2026-03-18",
-      "updated": "2026-03-19",
+      "updated": "2026-04-07",
       "resolutiondate": "",
       "labels": [
         "Polarier"
@@ -1360,12 +1430,12 @@
     {
       "key": "PS-5190",
       "summary": "Soledad - Design error modal in webview",
-      "status": "In Review",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Vicky Correbo",
       "issuetype": "Task",
       "created": "2026-03-13",
-      "updated": "2026-03-30",
+      "updated": "2026-04-08",
       "resolutiondate": "",
       "labels": [
         "Soledad"
@@ -1414,12 +1484,12 @@
     {
       "key": "PS-5186",
       "summary": "Occident - Link the new test number to the \"Test Agencias\" project",
-      "status": "In production",
+      "status": "Done",
       "status_category": "Done",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-03-12",
-      "updated": "2026-03-30",
+      "updated": "2026-04-07",
       "resolutiondate": "",
       "labels": [
         "occident"
@@ -1472,10 +1542,10 @@
       "summary": "Multiasistencia - Automatización de la validación de pólizas y registro de siniestros (Bot Santander)",
       "status": "To Do",
       "status_category": "To Do",
-      "assignee": null,
+      "assignee": "Evgeni Slavyanov",
       "issuetype": "Task",
       "created": "2026-03-11",
-      "updated": "2026-03-30",
+      "updated": "2026-04-07",
       "resolutiondate": "",
       "labels": [
         "Multiasistencia"
@@ -1888,12 +1958,12 @@
     {
       "key": "PS-5152",
       "summary": "Air Europa - Review why we are not updating the language value when the user changes it in the middle of a conversation",
-      "status": "In production",
+      "status": "Done",
       "status_category": "Done",
       "assignee": "Alexander Skalatskiy",
       "issuetype": "Bug",
       "created": "2026-03-06",
-      "updated": "2026-03-30",
+      "updated": "2026-04-07",
       "resolutiondate": "",
       "labels": []
     },
@@ -2078,12 +2148,12 @@
     {
       "key": "PS-5137",
       "summary": "Air Europa - Consultar Reserva - Final adjustments",
-      "status": "Ready for review",
-      "status_category": "In Progress",
+      "status": "To Do",
+      "status_category": "To Do",
       "assignee": "Alexander Skalatskiy",
       "issuetype": "Task",
       "created": "2026-03-03",
-      "updated": "2026-04-01",
+      "updated": "2026-04-08",
       "resolutiondate": "",
       "labels": [
         "AirEuropa"
@@ -2569,7 +2639,7 @@
       "assignee": "Aitor Casas",
       "issuetype": "Task",
       "created": "2026-02-24",
-      "updated": "2026-04-06",
+      "updated": "2026-04-07",
       "resolutiondate": "",
       "labels": [
         "all_clients"
@@ -2636,10 +2706,10 @@
       "summary": "Allianz ES - Update botonic version",
       "status": "Ready for review",
       "status_category": "In Progress",
-      "assignee": "Evgeni Slavyanov",
+      "assignee": "Pep Alonso",
       "issuetype": "Task",
       "created": "2026-02-23",
-      "updated": "2026-04-06",
+      "updated": "2026-04-07",
       "resolutiondate": "",
       "labels": [
         "Allianz-ES"
@@ -2779,7 +2849,7 @@
       "assignee": "María Sánchez",
       "issuetype": "Task",
       "created": "2026-02-21",
-      "updated": "2026-04-02",
+      "updated": "2026-04-07",
       "resolutiondate": "",
       "labels": [
         "Alsa"
@@ -2899,12 +2969,12 @@
     {
       "key": "PS-5076",
       "summary": "Occident - Add new parameter \"providerAccountId\" to the the call to \"Inicio de conversación\" to inform the client about the channel ID",
-      "status": "In production",
+      "status": "Done",
       "status_category": "Done",
       "assignee": "Pep Alonso",
       "issuetype": "Task",
       "created": "2026-02-20",
-      "updated": "2026-04-06",
+      "updated": "2026-04-07",
       "resolutiondate": "",
       "labels": [
         "occident"
@@ -3392,7 +3462,7 @@
       "assignee": "Evgeni Slavyanov",
       "issuetype": "Task",
       "created": "2026-02-16",
-      "updated": "2026-04-02",
+      "updated": "2026-04-07",
       "resolutiondate": "",
       "labels": [
         "Multiasistencia"
@@ -3625,12 +3695,12 @@
     {
       "key": "PS-5017",
       "summary": "Verisure IT - Provide Hubtype Send Template API Specs to Verisure IT",
-      "status": "Ready to Deliver",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Evgeni Slavyanov",
       "issuetype": "Task",
       "created": "2026-02-13",
-      "updated": "2026-03-12",
+      "updated": "2026-04-07",
       "resolutiondate": "",
       "labels": [
         "Verisure_IT"
@@ -5456,12 +5526,12 @@
     {
       "key": "PS-4870",
       "summary": "Occident - Add new field idChat to be sent for their endpoint.",
-      "status": "In production",
+      "status": "Done",
       "status_category": "Done",
       "assignee": "Evgeni Slavyanov",
       "issuetype": "Task",
       "created": "2026-01-21",
-      "updated": "2026-04-06",
+      "updated": "2026-04-07",
       "resolutiondate": "",
       "labels": [
         "occident"
@@ -5596,12 +5666,12 @@
     {
       "key": "PS-4858",
       "summary": "Tendam - Include WISMO & WISMR for International bots",
-      "status": "APPROVED FOR PRODUCTION",
+      "status": "Done",
       "status_category": "Done",
       "assignee": "María Sánchez",
       "issuetype": "Task",
       "created": "2026-01-19",
-      "updated": "2026-03-30",
+      "updated": "2026-04-07",
       "resolutiondate": "",
       "labels": [
         "Tendam"
@@ -7111,12 +7181,12 @@
     {
       "key": "PS-4734",
       "summary": "Occident - Update field conversation_id on the API call with info. ",
-      "status": "APPROVED FOR PRODUCTION",
+      "status": "Done",
       "status_category": "Done",
       "assignee": "Pep Alonso",
       "issuetype": "Task",
       "created": "2025-12-15",
-      "updated": "2026-03-23",
+      "updated": "2026-04-07",
       "resolutiondate": "",
       "labels": [
         "occident"
@@ -9297,7 +9367,7 @@
       "assignee": "Adrià Sastre",
       "issuetype": "Task",
       "created": "2025-10-21",
-      "updated": "2026-02-17",
+      "updated": "2026-04-07",
       "resolutiondate": "",
       "labels": [
         "Tendam"
