@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-08 08:19 UTC",
+  "last_updated": "2026-04-09 08:47 UTC",
   "cases": [
     {
       "id": "500Sa00000pMkbcIAC",
@@ -313,9 +313,9 @@
       "id": "500Sa00000p1vIHIAY",
       "case_number": "00024502",
       "subject": "Integración Salesforce",
-      "status": "Open",
+      "status": "Closed",
       "priority": "Low",
-      "is_closed": false,
+      "is_closed": true,
       "is_escalated": false,
       "owner": "Aitor Casas",
       "account": "GUESS",
@@ -326,10 +326,10 @@
       "channel": "Email",
       "is_critical": "L4",
       "escalated_team": "",
-      "resolution_time": "",
+      "resolution_time": "5. >36h",
       "created": "2026-04-01",
-      "closed": "",
-      "last_modified": "2026-04-07"
+      "closed": "2026-04-08",
+      "last_modified": "2026-04-08"
     },
     {
       "id": "500Sa00000ozcEuIAI",
