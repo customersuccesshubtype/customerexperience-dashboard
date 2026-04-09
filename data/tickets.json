@@ -1,11 +1,131 @@
 {
-  "last_updated": "2026-04-08 08:11 UTC",
+  "last_updated": "2026-04-09 08:19 UTC",
   "tickets": [
+    {
+      "key": "PS-5307",
+      "summary": "Soledad - Include spinners when loading data",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Andrea Talal Haidar",
+      "issuetype": "Task",
+      "created": "2026-04-09",
+      "updated": "2026-04-09",
+      "resolutiondate": "",
+      "labels": []
+    },
+    {
+      "key": "PS-5306",
+      "summary": "Allianz ES - Design new webview \"Defensa del cliente\"",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Adrià Sastre",
+      "issuetype": "Task",
+      "created": "2026-04-08",
+      "updated": "2026-04-08",
+      "resolutiondate": "",
+      "labels": [
+        "Allianz-ES"
+      ]
+    },
+    {
+      "key": "PS-5305",
+      "summary": "Allianz ES - Development new webview \"Defensa del cliente\"",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Adrià Sastre",
+      "issuetype": "Task",
+      "created": "2026-04-08",
+      "updated": "2026-04-08",
+      "resolutiondate": "",
+      "labels": [
+        "Allianz-ES"
+      ]
+    },
+    {
+      "key": "PS-5304",
+      "summary": "Soledad - Check for non working images before returning Carousel",
+      "status": "Ready for review",
+      "status_category": "In Progress",
+      "assignee": "Lorena Sánchez-Toril Nicolás",
+      "issuetype": "Task",
+      "created": "2026-04-08",
+      "updated": "2026-04-09",
+      "resolutiondate": "",
+      "labels": []
+    },
+    {
+      "key": "PS-5303",
+      "summary": "Soledad : update to latest version",
+      "status": "Ready for review",
+      "status_category": "In Progress",
+      "assignee": "Lorena Sánchez-Toril Nicolás",
+      "issuetype": "Task",
+      "created": "2026-04-08",
+      "updated": "2026-04-08",
+      "resolutiondate": "",
+      "labels": [
+        "Soledad"
+      ]
+    },
+    {
+      "key": "PS-5302",
+      "summary": "Internal - Update Bot Template to use pnpm instead of npm",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": null,
+      "issuetype": "Task",
+      "created": "2026-04-08",
+      "updated": "2026-04-08",
+      "resolutiondate": "",
+      "labels": []
+    },
+    {
+      "key": "PS-5301",
+      "summary": "Rag&Bone - Fix Unhandled Promise Rejection (ERROR_HTTP_503) in Salesforce Bulk API integration",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": null,
+      "issuetype": "Task",
+      "created": "2026-04-08",
+      "updated": "2026-04-08",
+      "resolutiondate": "",
+      "labels": [
+        "Rag&Bone"
+      ]
+    },
+    {
+      "key": "PS-5300",
+      "summary": "Guess - Fix Unhandled Promise Rejection (ERROR_HTTP_503) in Salesforce Bulk API integration",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": null,
+      "issuetype": "Task",
+      "created": "2026-04-08",
+      "updated": "2026-04-08",
+      "resolutiondate": "",
+      "labels": [
+        "Guess"
+      ]
+    },
+    {
+      "key": "PS-5299",
+      "summary": "Ralph Lauren: add new tool",
+      "status": "In Progress",
+      "status_category": "In Progress",
+      "assignee": "Lorena Sánchez-Toril Nicolás",
+      "issuetype": "Task",
+      "created": "2026-04-08",
+      "updated": "2026-04-08",
+      "resolutiondate": "",
+      "labels": [
+        "Ralph_Lauren"
+      ]
+    },
     {
       "key": "PS-5298",
       "summary": "TMB - Update Bot version to 0.47",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Ready for review",
+      "status_category": "In Progress",
       "assignee": "Evgeni Slavyanov",
       "issuetype": "Task",
       "created": "2026-04-08",
@@ -60,12 +180,12 @@
     {
       "key": "PS-5293",
       "summary": "Air Europa - Review hits de META",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "In Progress",
+      "status_category": "In Progress",
       "assignee": "Adrià Sastre",
       "issuetype": "Task",
       "created": "2026-04-07",
-      "updated": "2026-04-07",
+      "updated": "2026-04-09",
       "resolutiondate": "",
       "labels": [
         "AirEuropa"
@@ -191,7 +311,7 @@
       "assignee": "irene callejas",
       "issuetype": "Task",
       "created": "2026-04-01",
-      "updated": "2026-04-01",
+      "updated": "2026-04-08",
       "resolutiondate": "",
       "labels": [
         "Ralph_Lauren"
@@ -334,7 +454,7 @@
     {
       "key": "PS-5273",
       "summary": "Occident - Updgrade bot version to 0.46",
-      "status": "In Progress",
+      "status": "Ready for review",
       "status_category": "In Progress",
       "assignee": "Evgeni Slavyanov",
       "issuetype": "Task",
@@ -1388,12 +1508,12 @@
     {
       "key": "PS-5194",
       "summary": "CCMA - Que los casos que cuya contact info field Denúncia = Si se les ponga automáticamente la contact reason \"Denúncies/Testimonis\"",
-      "status": "Ready for review",
-      "status_category": "In Progress",
+      "status": "In production",
+      "status_category": "Done",
       "assignee": "Evgeni Slavyanov",
       "issuetype": "Task",
       "created": "2026-03-15",
-      "updated": "2026-03-25",
+      "updated": "2026-04-08",
       "resolutiondate": "",
       "labels": [
         "CCMA"
@@ -1989,7 +2109,7 @@
       "assignee": "Adrià Sastre",
       "issuetype": "Task",
       "created": "2026-03-05",
-      "updated": "2026-03-16",
+      "updated": "2026-04-08",
       "resolutiondate": "",
       "labels": [
         "Securitas-leadgen"
@@ -7681,12 +7801,12 @@
     {
       "key": "PS-4693",
       "summary": "Allianz Spain - New webview to open claim to \"Defensa del cliente\"",
-      "status": "Open",
+      "status": "To Do",
       "status_category": "To Do",
-      "assignee": "Julieta Mezza",
+      "assignee": "Adrià Sastre",
       "issuetype": "Epic",
       "created": "2025-12-02",
-      "updated": "2026-02-09",
+      "updated": "2026-04-08",
       "resolutiondate": "",
       "labels": [
         "Allianz-ES"
