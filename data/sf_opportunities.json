@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-09 08:47 UTC",
+  "last_updated": "2026-04-10 08:48 UTC",
   "opportunities": [
     {
       "id": "006Sa00000dmYQlIAM",
@@ -90,17 +90,17 @@
       "id": "006Sa00000dA5JOIA0",
       "name": "2026-U-Wizz Air-Extra Languages (Spanish)",
       "type": "Upsell",
-      "stage": "Waiting for signature",
-      "is_closed": false,
-      "is_won": false,
-      "probability": 90.0,
+      "stage": "Closed Won",
+      "is_closed": true,
+      "is_won": true,
+      "probability": 100.0,
       "amount": 484.01,
       "arr": 1136.04,
       "owner": "Julieta Mezza",
       "cs_lead": "Julieta Mezza",
       "account": "Wizz Air",
       "created": "2026-03-26",
-      "close_date": "2026-04-07",
+      "close_date": "2026-04-10",
       "start_date": "2026-04-08"
     },
     {
