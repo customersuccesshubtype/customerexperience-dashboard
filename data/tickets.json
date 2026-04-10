@@ -1,12 +1,192 @@
 {
-  "last_updated": "2026-04-09 08:19 UTC",
+  "last_updated": "2026-04-10 08:19 UTC",
   "tickets": [
     {
-      "key": "PS-5307",
-      "summary": "Soledad - Include spinners when loading data",
+      "key": "PS-5325",
+      "summary": "Polarier - make less strict the regex phrase ",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Lorena Sánchez-Toril Nicolás",
+      "issuetype": "Task",
+      "created": "2026-04-10",
+      "updated": "2026-04-10",
+      "resolutiondate": "",
+      "labels": [
+        "Polarier"
+      ]
+    },
+    {
+      "key": "PS-5324",
+      "summary": "Polarier - Keep testing and refining Prompt / UX ",
       "status": "To Do",
       "status_category": "To Do",
       "assignee": "Andrea Talal Haidar",
+      "issuetype": "Discovery Task",
+      "created": "2026-04-10",
+      "updated": "2026-04-10",
+      "resolutiondate": "",
+      "labels": []
+    },
+    {
+      "key": "PS-5323",
+      "summary": "Tendam - BATTLE TEST ",
+      "status": "In Progress",
+      "status_category": "In Progress",
+      "assignee": "irene callejas",
+      "issuetype": "Task",
+      "created": "2026-04-10",
+      "updated": "2026-04-10",
+      "resolutiondate": "",
+      "labels": [
+        "Tendam"
+      ]
+    },
+    {
+      "key": "PS-5322",
+      "summary": "Soledad - add new parameter to confirmation API",
+      "status": "Ready for review",
+      "status_category": "In Progress",
+      "assignee": "Lorena Sánchez-Toril Nicolás",
+      "issuetype": "Task",
+      "created": "2026-04-10",
+      "updated": "2026-04-10",
+      "resolutiondate": "",
+      "labels": [
+        "Soledad"
+      ]
+    },
+    {
+      "key": "PS-5321",
+      "summary": "Soledad - Implement spinners in webview",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Lorena Sánchez-Toril Nicolás",
+      "issuetype": "Sub-task",
+      "created": "2026-04-10",
+      "updated": "2026-04-10",
+      "resolutiondate": "",
+      "labels": [
+        "Soledad"
+      ]
+    },
+    {
+      "key": "PS-5320",
+      "summary": "Polarier - Create a token for this organization_id",
+      "status": "Done",
+      "status_category": "Done",
+      "assignee": "Aitor Casas",
+      "issuetype": "Task",
+      "created": "2026-04-09",
+      "updated": "2026-04-10",
+      "resolutiondate": "",
+      "labels": [
+        "Polarier"
+      ]
+    },
+    {
+      "key": "PS-5319",
+      "summary": "Jetsmart - Buy a flight webview - Select dates Step UI",
+      "status": "Ready for review",
+      "status_category": "In Progress",
+      "assignee": "Pep Alonso",
+      "issuetype": "Task",
+      "created": "2026-04-09",
+      "updated": "2026-04-09",
+      "resolutiondate": "",
+      "labels": [
+        "JetSmart"
+      ]
+    },
+    {
+      "key": "PS-5318",
+      "summary": "Jetsmart - Buy a Flight - Select Setations Step UI",
+      "status": "In Progress",
+      "status_category": "In Progress",
+      "assignee": "Pep Alonso",
+      "issuetype": "Task",
+      "created": "2026-04-09",
+      "updated": "2026-04-09",
+      "resolutiondate": "",
+      "labels": [
+        "JetSmart"
+      ]
+    },
+    {
+      "key": "PS-5317",
+      "summary": "SOLEDAD - AI SERVICE BLUEPRINT",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Andrea Talal Haidar",
+      "issuetype": "Discovery Task",
+      "created": "2026-04-09",
+      "updated": "2026-04-09",
+      "resolutiondate": "",
+      "labels": [
+        "Soledad"
+      ]
+    },
+    {
+      "key": "PS-5316",
+      "summary": "Polarier -  Update welcome / welcome back message",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Andrea Talal Haidar",
+      "issuetype": "Discovery Task",
+      "created": "2026-04-09",
+      "updated": "2026-04-09",
+      "resolutiondate": "",
+      "labels": [
+        "Polarier"
+      ]
+    },
+    {
+      "key": "PS-5315",
+      "summary": "TMB - Design acceptance ",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Vicky Correbo",
+      "issuetype": "Discovery Task",
+      "created": "2026-04-09",
+      "updated": "2026-04-09",
+      "resolutiondate": "",
+      "labels": [
+        "TMB"
+      ]
+    },
+    {
+      "key": "PS-5314",
+      "summary": "WizzAir - Fix Custom Message errors",
+      "status": "In Progress",
+      "status_category": "In Progress",
+      "assignee": "Evgeni Slavyanov",
+      "issuetype": "Task",
+      "created": "2026-04-09",
+      "updated": "2026-04-09",
+      "resolutiondate": "",
+      "labels": [
+        "WizzAir"
+      ]
+    },
+    {
+      "key": "PS-5313",
+      "summary": "Design loading transitions/animations",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Vicky Correbo",
+      "issuetype": "Discovery Task",
+      "created": "2026-04-09",
+      "updated": "2026-04-10",
+      "resolutiondate": "",
+      "labels": [
+        "DesignSystem"
+      ]
+    },
+    {
+      "key": "PS-5312",
+      "summary": "CCMA Tot es Mou - Fix how the Denuncia cases are detected",
+      "status": "In production",
+      "status_category": "Done",
+      "assignee": "Adrià Sastre",
       "issuetype": "Task",
       "created": "2026-04-09",
       "updated": "2026-04-09",
@@ -14,14 +194,84 @@
       "labels": []
     },
     {
+      "key": "PS-5311",
+      "summary": "Gugess - Polyglot - Understand requirements",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Francisca Martelli",
+      "issuetype": "Task",
+      "created": "2026-04-09",
+      "updated": "2026-04-09",
+      "resolutiondate": "",
+      "labels": [
+        "Guess"
+      ]
+    },
+    {
+      "key": "PS-5310",
+      "summary": "Rag & Bone - Migration to Guess Dashboard",
+      "status": "Open",
+      "status_category": "To Do",
+      "assignee": null,
+      "issuetype": "Epic",
+      "created": "2026-04-09",
+      "updated": "2026-04-09",
+      "resolutiondate": "",
+      "labels": [
+        "Rag&Bone"
+      ]
+    },
+    {
+      "key": "PS-5309",
+      "summary": "Rag&Bone - Migrate R&B bots to Guess organization",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Adrià Sastre",
+      "issuetype": "Discovery Task",
+      "created": "2026-04-09",
+      "updated": "2026-04-09",
+      "resolutiondate": "",
+      "labels": [
+        "Rag&Bone"
+      ]
+    },
+    {
+      "key": "PS-5308",
+      "summary": "Guess - New \"Order Number\" Field in Salesforce Integration",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Adrià Sastre",
+      "issuetype": "Discovery Task",
+      "created": "2026-04-09",
+      "updated": "2026-04-09",
+      "resolutiondate": "",
+      "labels": [
+        "Guess"
+      ]
+    },
+    {
+      "key": "PS-5307",
+      "summary": "Soledad - Design - Include spinners when loading data",
+      "status": "Done",
+      "status_category": "Done",
+      "assignee": "Andrea Talal Haidar",
+      "issuetype": "Task",
+      "created": "2026-04-09",
+      "updated": "2026-04-10",
+      "resolutiondate": "",
+      "labels": [
+        "Soledad"
+      ]
+    },
+    {
       "key": "PS-5306",
       "summary": "Allianz ES - Design new webview \"Defensa del cliente\"",
       "status": "To Do",
       "status_category": "To Do",
-      "assignee": "Adrià Sastre",
+      "assignee": "Andrea Talal Haidar",
       "issuetype": "Task",
       "created": "2026-04-08",
-      "updated": "2026-04-08",
+      "updated": "2026-04-10",
       "resolutiondate": "",
       "labels": [
         "Allianz-ES"
@@ -51,7 +301,9 @@
       "created": "2026-04-08",
       "updated": "2026-04-09",
       "resolutiondate": "",
-      "labels": []
+      "labels": [
+        "Soledad"
+      ]
     },
     {
       "key": "PS-5303",
@@ -124,12 +376,12 @@
     {
       "key": "PS-5298",
       "summary": "TMB - Update Bot version to 0.47",
-      "status": "Ready for review",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Evgeni Slavyanov",
       "issuetype": "Task",
       "created": "2026-04-08",
-      "updated": "2026-04-08",
+      "updated": "2026-04-09",
       "resolutiondate": "",
       "labels": [
         "TMB"
@@ -180,8 +432,8 @@
     {
       "key": "PS-5293",
       "summary": "Air Europa - Review hits de META",
-      "status": "In Progress",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Adrià Sastre",
       "issuetype": "Task",
       "created": "2026-04-07",
@@ -208,12 +460,12 @@
     {
       "key": "PS-5291",
       "summary": "Michael Kors - Inbox customer data missing on repeat WA contacts",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "María Sánchez",
       "issuetype": "Task",
       "created": "2026-04-02",
-      "updated": "2026-04-07",
+      "updated": "2026-04-09",
       "resolutiondate": "",
       "labels": [
         "Michael-Kors"
@@ -250,12 +502,12 @@
     {
       "key": "PS-5288",
       "summary": "Polarier - En Handoff, validar el último pedido del hotel de la API y leer la Lavandería. Ello determinará la cola a la que hacemos handoff",
-      "status": "In Progress",
+      "status": "Ready to Deliver",
       "status_category": "In Progress",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-04-02",
-      "updated": "2026-04-07",
+      "updated": "2026-04-09",
       "resolutiondate": "",
       "labels": [
         "Polarier"
@@ -278,12 +530,12 @@
     {
       "key": "PS-5286",
       "summary": "Polarier - Varios",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "irene callejas",
       "issuetype": "Task",
       "created": "2026-04-01",
-      "updated": "2026-04-07",
+      "updated": "2026-04-10",
       "resolutiondate": "",
       "labels": [
         "Polarier"
@@ -454,12 +706,12 @@
     {
       "key": "PS-5273",
       "summary": "Occident - Updgrade bot version to 0.46",
-      "status": "Ready for review",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Evgeni Slavyanov",
       "issuetype": "Task",
       "created": "2026-03-30",
-      "updated": "2026-04-08",
+      "updated": "2026-04-10",
       "resolutiondate": "",
       "labels": [
         "occident"
@@ -1041,7 +1293,7 @@
       "assignee": "irene callejas",
       "issuetype": "Task",
       "created": "2026-03-23",
-      "updated": "2026-04-02",
+      "updated": "2026-04-10",
       "resolutiondate": "",
       "labels": [
         "Polarier"
@@ -1665,7 +1917,7 @@
       "assignee": "Evgeni Slavyanov",
       "issuetype": "Task",
       "created": "2026-03-11",
-      "updated": "2026-04-07",
+      "updated": "2026-04-09",
       "resolutiondate": "",
       "labels": [
         "Multiasistencia"
@@ -2007,13 +2259,13 @@
     },
     {
       "key": "PS-5158",
-      "summary": "Ralph Lauren - Weekly Executions March - Week 4",
-      "status": "Done",
-      "status_category": "Done",
+      "summary": "Ralph Lauren - Weekly Executions March - April",
+      "status": "In Progress",
+      "status_category": "In Progress",
       "assignee": "irene callejas",
       "issuetype": "Task",
       "created": "2026-03-06",
-      "updated": "2026-04-01",
+      "updated": "2026-04-10",
       "resolutiondate": "",
       "labels": [
         "Ralph_Lauren"
@@ -2630,12 +2882,12 @@
     {
       "key": "PS-5109",
       "summary": "CCMA - Tot es Mou - Update Disclaimer legal",
-      "status": "In Progress",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Aitor Casas",
       "issuetype": "Task",
       "created": "2026-02-25",
-      "updated": "2026-04-07",
+      "updated": "2026-04-09",
       "resolutiondate": "",
       "labels": [
         "ccma"
@@ -7806,7 +8058,7 @@
       "assignee": "Adrià Sastre",
       "issuetype": "Epic",
       "created": "2025-12-02",
-      "updated": "2026-04-08",
+      "updated": "2026-04-10",
       "resolutiondate": "",
       "labels": [
         "Allianz-ES"
