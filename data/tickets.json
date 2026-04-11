@@ -1,11 +1,137 @@
 {
-  "last_updated": "2026-04-10 08:19 UTC",
+  "last_updated": "2026-04-11 07:47 UTC",
   "tickets": [
+    {
+      "key": "PS-5334",
+      "summary": "Verisure IT - Crear 5 templates",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Aitor Casas",
+      "issuetype": "Task",
+      "created": "2026-04-10",
+      "updated": "2026-04-10",
+      "resolutiondate": "",
+      "labels": [
+        "Verisure_IT"
+      ]
+    },
+    {
+      "key": "PS-5333",
+      "summary": "Libeen - Hubspot integration",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": null,
+      "issuetype": "Task",
+      "created": "2026-04-10",
+      "updated": "2026-04-10",
+      "resolutiondate": "",
+      "labels": [
+        "Libeen"
+      ]
+    },
+    {
+      "key": "PS-5332",
+      "summary": "Libeen - Deploy bot in staging (Libeen Staging) and in prod (Libeen Production)",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Evgeni Slavyanov",
+      "issuetype": "Task",
+      "created": "2026-04-10",
+      "updated": "2026-04-10",
+      "resolutiondate": "",
+      "labels": [
+        "Libeen"
+      ]
+    },
+    {
+      "key": "PS-5331",
+      "summary": "Libeen - Create organization ",
+      "status": "Ready for review",
+      "status_category": "In Progress",
+      "assignee": "Aitor Casas",
+      "issuetype": "Task",
+      "created": "2026-04-10",
+      "updated": "2026-04-10",
+      "resolutiondate": "",
+      "labels": [
+        "Libeen"
+      ]
+    },
+    {
+      "key": "PS-5330",
+      "summary": "Libeen - Project 1st Phase",
+      "status": "Open",
+      "status_category": "To Do",
+      "assignee": null,
+      "issuetype": "Epic",
+      "created": "2026-04-10",
+      "updated": "2026-04-10",
+      "resolutiondate": "",
+      "labels": [
+        "Libeen"
+      ]
+    },
+    {
+      "key": "PS-5329",
+      "summary": "Improvement: Get contents from Flow Builder instead of local contents",
+      "status": "In Progress",
+      "status_category": "In Progress",
+      "assignee": "Alexander Skalatskiy",
+      "issuetype": "Sub-task",
+      "created": "2026-04-10",
+      "updated": "2026-04-10",
+      "resolutiondate": "",
+      "labels": [
+        "TMB"
+      ]
+    },
+    {
+      "key": "PS-5328",
+      "summary": "Polarier - In hotel identification consider whether the name and ID of the hotel is included but do not require exact match to the sentence",
+      "status": "Ready for review",
+      "status_category": "In Progress",
+      "assignee": "Lorena Sánchez-Toril Nicolás",
+      "issuetype": "Task",
+      "created": "2026-04-10",
+      "updated": "2026-04-10",
+      "resolutiondate": "",
+      "labels": [
+        "Polarier"
+      ]
+    },
+    {
+      "key": "PS-5327",
+      "summary": "Occident - Delete from the code that the audios are redirected to the node \"audio_and_video_input\"",
+      "status": "Ready for review",
+      "status_category": "In Progress",
+      "assignee": "Evgeni Slavyanov",
+      "issuetype": "Task",
+      "created": "2026-04-10",
+      "updated": "2026-04-10",
+      "resolutiondate": "",
+      "labels": [
+        "occident"
+      ]
+    },
+    {
+      "key": "PS-5326",
+      "summary": "Soledad - investigate failing extracting images ",
+      "status": "Ready for review",
+      "status_category": "In Progress",
+      "assignee": "Lorena Sánchez-Toril Nicolás",
+      "issuetype": "Task",
+      "created": "2026-04-10",
+      "updated": "2026-04-10",
+      "resolutiondate": "",
+      "labels": [
+        "Soledad"
+      ]
+    },
     {
       "key": "PS-5325",
       "summary": "Polarier - make less strict the regex phrase ",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Closed",
+      "status_category": "Done",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-04-10",
@@ -25,7 +151,9 @@
       "created": "2026-04-10",
       "updated": "2026-04-10",
       "resolutiondate": "",
-      "labels": []
+      "labels": [
+        "Polarier"
+      ]
     },
     {
       "key": "PS-5323",
@@ -58,8 +186,8 @@
     {
       "key": "PS-5321",
       "summary": "Soledad - Implement spinners in webview",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Ready for review",
+      "status_category": "In Progress",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Sub-task",
       "created": "2026-04-10",
@@ -142,12 +270,12 @@
     {
       "key": "PS-5315",
       "summary": "TMB - Design acceptance ",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "In Progress",
+      "status_category": "In Progress",
       "assignee": "Vicky Correbo",
       "issuetype": "Discovery Task",
       "created": "2026-04-09",
-      "updated": "2026-04-09",
+      "updated": "2026-04-10",
       "resolutiondate": "",
       "labels": [
         "TMB"
@@ -238,12 +366,12 @@
     {
       "key": "PS-5308",
       "summary": "Guess - New \"Order Number\" Field in Salesforce Integration",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Ready for review",
+      "status_category": "In Progress",
       "assignee": "Adrià Sastre",
       "issuetype": "Discovery Task",
       "created": "2026-04-09",
-      "updated": "2026-04-09",
+      "updated": "2026-04-10",
       "resolutiondate": "",
       "labels": [
         "Guess"
@@ -362,12 +490,12 @@
     {
       "key": "PS-5299",
       "summary": "Ralph Lauren: add new tool",
-      "status": "In Progress",
+      "status": "Ready for review",
       "status_category": "In Progress",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-04-08",
-      "updated": "2026-04-08",
+      "updated": "2026-04-10",
       "resolutiondate": "",
       "labels": [
         "Ralph_Lauren"
@@ -818,12 +946,12 @@
     {
       "key": "PS-5265",
       "summary": "TMB - Implement custom component in flow builder",
-      "status": "In Progress",
+      "status": "Ready for review",
       "status_category": "In Progress",
       "assignee": "Alexander Skalatskiy",
       "issuetype": "Task",
       "created": "2026-03-26",
-      "updated": "2026-04-08",
+      "updated": "2026-04-10",
       "resolutiondate": "",
       "labels": [
         "TMB"
@@ -2260,7 +2388,7 @@
     {
       "key": "PS-5158",
       "summary": "Ralph Lauren - Weekly Executions March - April",
-      "status": "In Progress",
+      "status": "Ready for review",
       "status_category": "In Progress",
       "assignee": "irene callejas",
       "issuetype": "Task",
