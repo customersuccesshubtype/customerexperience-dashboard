@@ -1,6 +1,48 @@
 {
-  "last_updated": "2026-04-11 07:47 UTC",
+  "last_updated": "2026-04-12 08:01 UTC",
   "tickets": [
+    {
+      "key": "PS-5337",
+      "summary": "Libeen - Deploy staging and production bot with latest botonic version",
+      "status": "Open",
+      "status_category": "To Do",
+      "assignee": null,
+      "issuetype": "Task",
+      "created": "2026-04-11",
+      "updated": "2026-04-11",
+      "resolutiondate": "",
+      "labels": [
+        "Libeen"
+      ]
+    },
+    {
+      "key": "PS-5336",
+      "summary": "Libeen - Create Organization ID with 5,000 MAUs and 3 Desk licenses. Include AI.",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Aitor Casas",
+      "issuetype": "Task",
+      "created": "2026-04-11",
+      "updated": "2026-04-11",
+      "resolutiondate": "",
+      "labels": [
+        "Libeen"
+      ]
+    },
+    {
+      "key": "PS-5335",
+      "summary": "Libeen - 1st Phase Project",
+      "status": "Open",
+      "status_category": "To Do",
+      "assignee": null,
+      "issuetype": "Epic",
+      "created": "2026-04-11",
+      "updated": "2026-04-11",
+      "resolutiondate": "",
+      "labels": [
+        "Libeen"
+      ]
+    },
     {
       "key": "PS-5334",
       "summary": "Verisure IT - Crear 5 templates",
