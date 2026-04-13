@@ -1,6 +1,34 @@
 {
-  "last_updated": "2026-04-12 08:01 UTC",
+  "last_updated": "2026-04-13 08:59 UTC",
   "tickets": [
+    {
+      "key": "PS-5339",
+      "summary": "Alsa - Generate CSS + javascript to embed webchat directly in web",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": null,
+      "issuetype": "Task",
+      "created": "2026-04-13",
+      "updated": "2026-04-13",
+      "resolutiondate": "",
+      "labels": [
+        "Alsa"
+      ]
+    },
+    {
+      "key": "PS-5338",
+      "summary": "RACC - Ajustes para evitar que los clientes reciban reminders cuando no toca",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Adrià Sastre",
+      "issuetype": "Task",
+      "created": "2026-04-13",
+      "updated": "2026-04-13",
+      "resolutiondate": "",
+      "labels": [
+        "RACC"
+      ]
+    },
     {
       "key": "PS-5337",
       "summary": "Libeen - Deploy staging and production bot with latest botonic version",
@@ -18,12 +46,12 @@
     {
       "key": "PS-5336",
       "summary": "Libeen - Create Organization ID with 5,000 MAUs and 3 Desk licenses. Include AI.",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Aitor Casas",
       "issuetype": "Task",
       "created": "2026-04-11",
-      "updated": "2026-04-11",
+      "updated": "2026-04-13",
       "resolutiondate": "",
       "labels": [
         "Libeen"
@@ -46,12 +74,12 @@
     {
       "key": "PS-5334",
       "summary": "Verisure IT - Crear 5 templates",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Aitor Casas",
       "issuetype": "Task",
       "created": "2026-04-10",
-      "updated": "2026-04-10",
+      "updated": "2026-04-13",
       "resolutiondate": "",
       "labels": [
         "Verisure_IT"
@@ -79,7 +107,7 @@
       "assignee": "Evgeni Slavyanov",
       "issuetype": "Task",
       "created": "2026-04-10",
-      "updated": "2026-04-10",
+      "updated": "2026-04-13",
       "resolutiondate": "",
       "labels": [
         "Libeen"
@@ -144,12 +172,12 @@
     {
       "key": "PS-5327",
       "summary": "Occident - Delete from the code that the audios are redirected to the node \"audio_and_video_input\"",
-      "status": "Ready for review",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Evgeni Slavyanov",
       "issuetype": "Task",
       "created": "2026-04-10",
-      "updated": "2026-04-10",
+      "updated": "2026-04-13",
       "resolutiondate": "",
       "labels": [
         "occident"
@@ -326,12 +354,12 @@
     {
       "key": "PS-5314",
       "summary": "WizzAir - Fix Custom Message errors",
-      "status": "In Progress",
+      "status": "Ready for review",
       "status_category": "In Progress",
       "assignee": "Evgeni Slavyanov",
       "issuetype": "Task",
       "created": "2026-04-09",
-      "updated": "2026-04-09",
+      "updated": "2026-04-13",
       "resolutiondate": "",
       "labels": [
         "WizzAir"
@@ -408,12 +436,12 @@
     {
       "key": "PS-5308",
       "summary": "Guess - New \"Order Number\" Field in Salesforce Integration",
-      "status": "Ready for review",
+      "status": "Ready to Deliver",
       "status_category": "In Progress",
       "assignee": "Adrià Sastre",
       "issuetype": "Discovery Task",
       "created": "2026-04-09",
-      "updated": "2026-04-10",
+      "updated": "2026-04-12",
       "resolutiondate": "",
       "labels": [
         "Guess"
@@ -621,7 +649,7 @@
       "assignee": "Pep Alonso",
       "issuetype": "Task",
       "created": "2026-04-06",
-      "updated": "2026-04-07",
+      "updated": "2026-04-13",
       "resolutiondate": "",
       "labels": [
         "JetSmart"
@@ -946,12 +974,12 @@
     {
       "key": "PS-5268",
       "summary": "Wizz Air - Translate flow in Romanian, Hungarian and Spanish",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Aitor Casas",
       "issuetype": "Task",
       "created": "2026-03-26",
-      "updated": "2026-04-07",
+      "updated": "2026-04-13",
       "resolutiondate": "",
       "labels": [
         "WizzAir"
@@ -2222,12 +2250,12 @@
     {
       "key": "PS-5172",
       "summary": "Air Europa - Add logged/not logged to contact info fields",
-      "status": "Open",
+      "status": "To Do",
       "status_category": "To Do",
       "assignee": null,
       "issuetype": "Task",
       "created": "2026-03-11",
-      "updated": "2026-03-11",
+      "updated": "2026-04-13",
       "resolutiondate": "",
       "labels": [
         "AirEuropa"
@@ -2690,12 +2718,12 @@
     {
       "key": "PS-5137",
       "summary": "Air Europa - Consultar Reserva - Final adjustments",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Alexander Skalatskiy",
       "issuetype": "Task",
       "created": "2026-03-03",
-      "updated": "2026-04-08",
+      "updated": "2026-04-13",
       "resolutiondate": "",
       "labels": [
         "AirEuropa"
@@ -3181,7 +3209,7 @@
       "assignee": "Aitor Casas",
       "issuetype": "Task",
       "created": "2026-02-24",
-      "updated": "2026-04-07",
+      "updated": "2026-04-13",
       "resolutiondate": "",
       "labels": [
         "all_clients"
@@ -7202,12 +7230,12 @@
     {
       "key": "PS-4778",
       "summary": "Wizz Air - Create \"payment status\" complex use matrix",
-      "status": "In Progress",
-      "status_category": "In Progress",
+      "status": "Open",
+      "status_category": "To Do",
       "assignee": "Julieta Mezza",
       "issuetype": "Task",
       "created": "2025-12-24",
-      "updated": "2026-04-06",
+      "updated": "2026-04-13",
       "resolutiondate": "",
       "labels": [
         "WizzAir"
@@ -9323,12 +9351,12 @@
     {
       "key": "PS-4603",
       "summary": "Occident - Proyecto Agencias",
-      "status": "In Progress",
+      "status": "Ready for review",
       "status_category": "In Progress",
       "assignee": "Julieta Mezza",
       "issuetype": "Epic",
       "created": "2025-11-04",
-      "updated": "2025-11-08",
+      "updated": "2026-04-13",
       "resolutiondate": "",
       "labels": [
         "occident"
@@ -16358,12 +16386,12 @@
     {
       "key": "PS-4022",
       "summary": "Air Europa - Consultar reserva - Complex use case",
-      "status": "Ready for review",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Alexander Skalatskiy",
       "issuetype": "Epic",
       "created": "2025-05-26",
-      "updated": "2026-03-23",
+      "updated": "2026-04-13",
       "resolutiondate": "",
       "labels": [
         "AirEuropa"
