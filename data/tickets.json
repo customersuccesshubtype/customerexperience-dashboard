@@ -1,12 +1,302 @@
 {
-  "last_updated": "2026-04-13 08:59 UTC",
+  "last_updated": "2026-04-14 08:24 UTC",
   "tickets": [
+    {
+      "key": "PS-5361",
+      "summary": "Wizz Air - review how we can identify travel agencies and take them to contact center",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Julieta Mezza",
+      "issuetype": "Task",
+      "created": "2026-04-14",
+      "updated": "2026-04-14",
+      "resolutiondate": "",
+      "labels": [
+        "occident"
+      ]
+    },
+    {
+      "key": "PS-5360",
+      "summary": "Wizz Air - Enhance Search Bar capabilities with AI",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Julieta Mezza",
+      "issuetype": "Task",
+      "created": "2026-04-14",
+      "updated": "2026-04-14",
+      "resolutiondate": "",
+      "labels": [
+        "WizzAir"
+      ]
+    },
+    {
+      "key": "PS-5359",
+      "summary": "CCMA - Update bot version so that we can include Audio transcription feature",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": null,
+      "issuetype": "Task",
+      "created": "2026-04-13",
+      "updated": "2026-04-13",
+      "resolutiondate": "",
+      "labels": [
+        "ccma"
+      ]
+    },
+    {
+      "key": "PS-5358",
+      "summary": "Jetsmart - Payment step UI",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Pep Alonso",
+      "issuetype": "Task",
+      "created": "2026-04-13",
+      "updated": "2026-04-13",
+      "resolutiondate": "",
+      "labels": [
+        "JetSmart"
+      ]
+    },
+    {
+      "key": "PS-5357",
+      "summary": "Jetsmart - Passanger Details Step UI",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Pep Alonso",
+      "issuetype": "Task",
+      "created": "2026-04-13",
+      "updated": "2026-04-13",
+      "resolutiondate": "",
+      "labels": [
+        "JetSmart"
+      ]
+    },
+    {
+      "key": "PS-5356",
+      "summary": "Jetsmart - Extra SSRs step UI",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Pep Alonso",
+      "issuetype": "Task",
+      "created": "2026-04-13",
+      "updated": "2026-04-13",
+      "resolutiondate": "",
+      "labels": [
+        "JetSmart"
+      ]
+    },
+    {
+      "key": "PS-5355",
+      "summary": "Jetsmart - FlexiSmart Selection Step UI",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Pep Alonso",
+      "issuetype": "Task",
+      "created": "2026-04-13",
+      "updated": "2026-04-13",
+      "resolutiondate": "",
+      "labels": [
+        "JetSmart"
+      ]
+    },
+    {
+      "key": "PS-5354",
+      "summary": "Jetsmart - Seat Selection Step UI",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Pep Alonso",
+      "issuetype": "Task",
+      "created": "2026-04-13",
+      "updated": "2026-04-13",
+      "resolutiondate": "",
+      "labels": [
+        "JetSmart"
+      ]
+    },
+    {
+      "key": "PS-5353",
+      "summary": "Jetsmart - Bags Ssr step UI",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Pep Alonso",
+      "issuetype": "Task",
+      "created": "2026-04-13",
+      "updated": "2026-04-13",
+      "resolutiondate": "",
+      "labels": [
+        "JetSmart"
+      ]
+    },
+    {
+      "key": "PS-5352",
+      "summary": "Jetsmart - Flight Purchasse Summary Step UI",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Pep Alonso",
+      "issuetype": "Task",
+      "created": "2026-04-13",
+      "updated": "2026-04-13",
+      "resolutiondate": "",
+      "labels": [
+        "JetSmart"
+      ]
+    },
+    {
+      "key": "PS-5351",
+      "summary": "Jetsmart - Select bundle To include Step UI",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Pep Alonso",
+      "issuetype": "Task",
+      "created": "2026-04-13",
+      "updated": "2026-04-13",
+      "resolutiondate": "",
+      "labels": [
+        "JetSmart"
+      ]
+    },
+    {
+      "key": "PS-5350",
+      "summary": "Jetsmart - Select flight to purchase UI",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Pep Alonso",
+      "issuetype": "Task",
+      "created": "2026-04-13",
+      "updated": "2026-04-13",
+      "resolutiondate": "",
+      "labels": [
+        "JetSmart"
+      ]
+    },
+    {
+      "key": "PS-5349",
+      "summary": "Jetsmart - Select Passanger number Step UI",
+      "status": "In Progress",
+      "status_category": "In Progress",
+      "assignee": "Pep Alonso",
+      "issuetype": "Task",
+      "created": "2026-04-13",
+      "updated": "2026-04-13",
+      "resolutiondate": "",
+      "labels": [
+        "JetSmart"
+      ]
+    },
+    {
+      "key": "PS-5348",
+      "summary": "Libeen - Whatsapp test number",
+      "status": "Ready for review",
+      "status_category": "In Progress",
+      "assignee": "Aitor Casas",
+      "issuetype": "Task",
+      "created": "2026-04-13",
+      "updated": "2026-04-14",
+      "resolutiondate": "",
+      "labels": [
+        "Libeen"
+      ]
+    },
+    {
+      "key": "PS-5346",
+      "summary": "Occident - Changes in middleware to avoid errors in the delivery of information to \"Inicio de conversación\"",
+      "status": "Done",
+      "status_category": "Done",
+      "assignee": "Pep Alonso",
+      "issuetype": "Task",
+      "created": "2026-04-13",
+      "updated": "2026-04-14",
+      "resolutiondate": "",
+      "labels": [
+        "occident"
+      ]
+    },
+    {
+      "key": "PS-5345",
+      "summary": "WizzAir - Analyse potential solution to implement AI responses to thei FAQ Page",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": null,
+      "issuetype": "Task",
+      "created": "2026-04-13",
+      "updated": "2026-04-13",
+      "resolutiondate": "",
+      "labels": [
+        "WizzAir"
+      ]
+    },
+    {
+      "key": "PS-5344",
+      "summary": "RACC - Update botonic version so that Audio Transcript can be implemented",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": null,
+      "issuetype": "Task",
+      "created": "2026-04-13",
+      "updated": "2026-04-13",
+      "resolutiondate": "",
+      "labels": [
+        "RACC"
+      ]
+    },
+    {
+      "key": "PS-5343",
+      "summary": "wizz air - translate to 3 languages (code part)",
+      "status": "Done",
+      "status_category": "Done",
+      "assignee": "Alexander Skalatskiy",
+      "issuetype": "Task",
+      "created": "2026-04-13",
+      "updated": "2026-04-13",
+      "resolutiondate": "",
+      "labels": []
+    },
+    {
+      "key": "PS-5342",
+      "summary": "Air Europa - Make Integration Buttons Great Again",
+      "status": "Ready for review",
+      "status_category": "In Progress",
+      "assignee": "Alexander Skalatskiy",
+      "issuetype": "Task",
+      "created": "2026-04-13",
+      "updated": "2026-04-13",
+      "resolutiondate": "",
+      "labels": []
+    },
+    {
+      "key": "PS-5341",
+      "summary": "Libeen - Whatsapp number migration",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": null,
+      "issuetype": "Task",
+      "created": "2026-04-13",
+      "updated": "2026-04-13",
+      "resolutiondate": "",
+      "labels": [
+        "Libeen"
+      ]
+    },
+    {
+      "key": "PS-5340",
+      "summary": "Sanitas Mayores - Create new generic META templates",
+      "status": "Done",
+      "status_category": "Done",
+      "assignee": "Aitor Casas",
+      "issuetype": "Task",
+      "created": "2026-04-13",
+      "updated": "2026-04-13",
+      "resolutiondate": "",
+      "labels": [
+        "sanitasmayores"
+      ]
+    },
     {
       "key": "PS-5339",
       "summary": "Alsa - Generate CSS + javascript to embed webchat directly in web",
       "status": "To Do",
       "status_category": "To Do",
-      "assignee": null,
+      "assignee": "Alexander Skalatskiy",
       "issuetype": "Task",
       "created": "2026-04-13",
       "updated": "2026-04-13",
@@ -18,8 +308,8 @@
     {
       "key": "PS-5338",
       "summary": "RACC - Ajustes para evitar que los clientes reciban reminders cuando no toca",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Adrià Sastre",
       "issuetype": "Task",
       "created": "2026-04-13",
@@ -27,20 +317,6 @@
       "resolutiondate": "",
       "labels": [
         "RACC"
-      ]
-    },
-    {
-      "key": "PS-5337",
-      "summary": "Libeen - Deploy staging and production bot with latest botonic version",
-      "status": "Open",
-      "status_category": "To Do",
-      "assignee": null,
-      "issuetype": "Task",
-      "created": "2026-04-11",
-      "updated": "2026-04-11",
-      "resolutiondate": "",
-      "labels": [
-        "Libeen"
       ]
     },
     {
@@ -52,20 +328,6 @@
       "issuetype": "Task",
       "created": "2026-04-11",
       "updated": "2026-04-13",
-      "resolutiondate": "",
-      "labels": [
-        "Libeen"
-      ]
-    },
-    {
-      "key": "PS-5335",
-      "summary": "Libeen - 1st Phase Project",
-      "status": "Open",
-      "status_category": "To Do",
-      "assignee": null,
-      "issuetype": "Epic",
-      "created": "2026-04-11",
-      "updated": "2026-04-11",
       "resolutiondate": "",
       "labels": [
         "Libeen"
@@ -102,8 +364,8 @@
     {
       "key": "PS-5332",
       "summary": "Libeen - Deploy bot in staging (Libeen Staging) and in prod (Libeen Production)",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Evgeni Slavyanov",
       "issuetype": "Task",
       "created": "2026-04-10",
@@ -116,12 +378,12 @@
     {
       "key": "PS-5331",
       "summary": "Libeen - Create organization ",
-      "status": "Ready for review",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Aitor Casas",
       "issuetype": "Task",
       "created": "2026-04-10",
-      "updated": "2026-04-10",
+      "updated": "2026-04-13",
       "resolutiondate": "",
       "labels": [
         "Libeen"
@@ -135,7 +397,7 @@
       "assignee": null,
       "issuetype": "Epic",
       "created": "2026-04-10",
-      "updated": "2026-04-10",
+      "updated": "2026-04-13",
       "resolutiondate": "",
       "labels": [
         "Libeen"
@@ -158,12 +420,12 @@
     {
       "key": "PS-5328",
       "summary": "Polarier - In hotel identification consider whether the name and ID of the hotel is included but do not require exact match to the sentence",
-      "status": "Ready for review",
+      "status": "Ready to Deliver",
       "status_category": "In Progress",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-04-10",
-      "updated": "2026-04-10",
+      "updated": "2026-04-14",
       "resolutiondate": "",
       "labels": [
         "Polarier"
@@ -247,7 +509,7 @@
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-04-10",
-      "updated": "2026-04-10",
+      "updated": "2026-04-14",
       "resolutiondate": "",
       "labels": [
         "Soledad"
@@ -298,12 +560,12 @@
     {
       "key": "PS-5318",
       "summary": "Jetsmart - Buy a Flight - Select Setations Step UI",
-      "status": "In Progress",
+      "status": "Ready for review",
       "status_category": "In Progress",
       "assignee": "Pep Alonso",
       "issuetype": "Task",
       "created": "2026-04-09",
-      "updated": "2026-04-09",
+      "updated": "2026-04-13",
       "resolutiondate": "",
       "labels": [
         "JetSmart"
@@ -340,12 +602,12 @@
     {
       "key": "PS-5315",
       "summary": "TMB - Design acceptance ",
-      "status": "In Progress",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Vicky Correbo",
       "issuetype": "Discovery Task",
       "created": "2026-04-09",
-      "updated": "2026-04-10",
+      "updated": "2026-04-13",
       "resolutiondate": "",
       "labels": [
         "TMB"
@@ -393,13 +655,13 @@
     },
     {
       "key": "PS-5311",
-      "summary": "Gugess - Polyglot - Understand requirements",
+      "summary": "Guess - Polyglot - Understand requirements",
       "status": "To Do",
       "status_category": "To Do",
       "assignee": "Francisca Martelli",
       "issuetype": "Task",
       "created": "2026-04-09",
-      "updated": "2026-04-09",
+      "updated": "2026-04-13",
       "resolutiondate": "",
       "labels": [
         "Guess"
@@ -469,7 +731,7 @@
       "assignee": "Andrea Talal Haidar",
       "issuetype": "Task",
       "created": "2026-04-08",
-      "updated": "2026-04-10",
+      "updated": "2026-04-13",
       "resolutiondate": "",
       "labels": [
         "Allianz-ES"
@@ -492,12 +754,12 @@
     {
       "key": "PS-5304",
       "summary": "Soledad - Check for non working images before returning Carousel",
-      "status": "Ready for review",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-04-08",
-      "updated": "2026-04-09",
+      "updated": "2026-04-13",
       "resolutiondate": "",
       "labels": [
         "Soledad"
@@ -506,12 +768,12 @@
     {
       "key": "PS-5303",
       "summary": "Soledad : update to latest version",
-      "status": "Ready for review",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-04-08",
-      "updated": "2026-04-08",
+      "updated": "2026-04-13",
       "resolutiondate": "",
       "labels": [
         "Soledad"
@@ -534,10 +796,10 @@
       "summary": "Rag&Bone - Fix Unhandled Promise Rejection (ERROR_HTTP_503) in Salesforce Bulk API integration",
       "status": "To Do",
       "status_category": "To Do",
-      "assignee": null,
+      "assignee": "Evgeni Slavyanov",
       "issuetype": "Task",
       "created": "2026-04-08",
-      "updated": "2026-04-08",
+      "updated": "2026-04-13",
       "resolutiondate": "",
       "labels": [
         "Rag&Bone"
@@ -548,10 +810,10 @@
       "summary": "Guess - Fix Unhandled Promise Rejection (ERROR_HTTP_503) in Salesforce Bulk API integration",
       "status": "To Do",
       "status_category": "To Do",
-      "assignee": null,
+      "assignee": "Evgeni Slavyanov",
       "issuetype": "Task",
       "created": "2026-04-08",
-      "updated": "2026-04-08",
+      "updated": "2026-04-13",
       "resolutiondate": "",
       "labels": [
         "Guess"
@@ -918,12 +1180,12 @@
     {
       "key": "PS-5272",
       "summary": "TMB - Create Staging Snippet for App",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Francisca Martelli",
       "issuetype": "Task",
       "created": "2026-03-27",
-      "updated": "2026-04-07",
+      "updated": "2026-04-13",
       "resolutiondate": "",
       "labels": [
         "TMB"
@@ -1016,12 +1278,12 @@
     {
       "key": "PS-5265",
       "summary": "TMB - Implement custom component in flow builder",
-      "status": "Ready for review",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Alexander Skalatskiy",
       "issuetype": "Task",
       "created": "2026-03-26",
-      "updated": "2026-04-10",
+      "updated": "2026-04-13",
       "resolutiondate": "",
       "labels": [
         "TMB"
@@ -1458,12 +1720,12 @@
     {
       "key": "PS-5232",
       "summary": "Soledad - confirmation text once order is confirmed",
-      "status": "Ready for review",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-03-24",
-      "updated": "2026-03-24",
+      "updated": "2026-04-13",
       "resolutiondate": "",
       "labels": [
         "Soledad"
@@ -1568,12 +1830,12 @@
     {
       "key": "PS-5223",
       "summary": "Alsa - Snippet web for native chatbot integration for Alsa Help Page",
-      "status": "Ready to Deliver",
-      "status_category": "In Progress",
+      "status": "Closed",
+      "status_category": "Done",
       "assignee": "Adrià Sastre",
       "issuetype": "Task",
       "created": "2026-03-20",
-      "updated": "2026-03-30",
+      "updated": "2026-04-13",
       "resolutiondate": "",
       "labels": [
         "Alsa"
@@ -1610,12 +1872,12 @@
     {
       "key": "PS-5220",
       "summary": "Soledad - fix quantities applied when coming from step 2",
-      "status": "Ready for review",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-03-20",
-      "updated": "2026-03-20",
+      "updated": "2026-04-13",
       "resolutiondate": "",
       "labels": [
         "Soledad"
@@ -1666,12 +1928,12 @@
     {
       "key": "PS-5216",
       "summary": "Soledad - Implement error modal in webview",
-      "status": "Ready for review",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-03-18",
-      "updated": "2026-03-23",
+      "updated": "2026-04-13",
       "resolutiondate": "",
       "labels": [
         "Soledad"
@@ -1916,12 +2178,12 @@
     {
       "key": "PS-5198",
       "summary": "TMB - Add fallback for Zendesk ticketing tool",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "irene callejas",
       "issuetype": "Task",
       "created": "2026-03-17",
-      "updated": "2026-03-19",
+      "updated": "2026-04-13",
       "resolutiondate": "",
       "labels": [
         "TMB"
@@ -2171,7 +2433,7 @@
       "assignee": "María Sánchez",
       "issuetype": "Task",
       "created": "2026-03-11",
-      "updated": "2026-03-11",
+      "updated": "2026-04-13",
       "resolutiondate": "",
       "labels": [
         "Michael-Kors"
@@ -2641,7 +2903,7 @@
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-03-04",
-      "updated": "2026-03-04",
+      "updated": "2026-04-13",
       "resolutiondate": "",
       "labels": [
         "Soledad"
@@ -3274,12 +3536,12 @@
     {
       "key": "PS-5095",
       "summary": "Allianz ES - Update botonic version",
-      "status": "Ready for review",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Pep Alonso",
       "issuetype": "Task",
       "created": "2026-02-23",
-      "updated": "2026-04-07",
+      "updated": "2026-04-13",
       "resolutiondate": "",
       "labels": [
         "Allianz-ES"
@@ -4158,7 +4420,7 @@
       "assignee": "Evgeni Slavyanov",
       "issuetype": "Task",
       "created": "2026-02-16",
-      "updated": "2026-03-23",
+      "updated": "2026-04-13",
       "resolutiondate": "",
       "labels": [
         "Multiasistencia"
@@ -4475,12 +4737,12 @@
     {
       "key": "PS-5001",
       "summary": "Soledad: test and implement Confirmation API",
-      "status": "Ready for review",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-02-11",
-      "updated": "2026-03-09",
+      "updated": "2026-04-13",
       "resolutiondate": "",
       "labels": [
         "Soledad"
@@ -9932,12 +10194,12 @@
     {
       "key": "PS-4558",
       "summary": "Tendam - Update Dash&Stars to Botonic Latest version",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Ready for review",
+      "status_category": "In Progress",
       "assignee": "Adrià Sastre",
       "issuetype": "Task",
       "created": "2025-10-21",
-      "updated": "2026-04-07",
+      "updated": "2026-04-13",
       "resolutiondate": "",
       "labels": [
         "Tendam"
@@ -10000,12 +10262,12 @@
     {
       "key": "PS-4553",
       "summary": "Dynamo DB Plugin - Update packages versions to 0.40.0",
-      "status": "Ready to Deliver",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Adrià Sastre",
       "issuetype": "Task",
       "created": "2025-10-20",
-      "updated": "2026-01-18",
+      "updated": "2026-04-13",
       "resolutiondate": "",
       "labels": [
         "Internal"
@@ -10318,12 +10580,12 @@
     {
       "key": "PS-4527",
       "summary": "Ensure secrets are updated on git push and deploys",
-      "status": "Ready to Deliver",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Adrià Sastre",
       "issuetype": "Task",
       "created": "2025-10-14",
-      "updated": "2026-01-18",
+      "updated": "2026-04-13",
       "resolutiondate": "",
       "labels": [
         "Internal"
@@ -11067,12 +11329,12 @@
     {
       "key": "PS-4463",
       "summary": "SegurCaixa - Flow Builder migration",
-      "status": "Ready for review",
-      "status_category": "In Progress",
+      "status": "In production",
+      "status_category": "Done",
       "assignee": "Adrià Sastre",
       "issuetype": "Task",
       "created": "2025-09-30",
-      "updated": "2026-03-12",
+      "updated": "2026-04-14",
       "resolutiondate": "",
       "labels": [
         "SegurCaixa"
@@ -12778,12 +13040,12 @@
     {
       "key": "PS-4317",
       "summary": "AirEuropa - Flight Search - Changes and improvements",
-      "status": "Ready to Deliver",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Alexander Skalatskiy",
       "issuetype": "Task",
       "created": "2025-08-22",
-      "updated": "2026-01-18",
+      "updated": "2026-04-14",
       "resolutiondate": "",
       "labels": [
         "AirEuropa"
@@ -18780,12 +19042,12 @@
     {
       "key": "PS-3831",
       "summary": "Air Europa - Activate Whats App Channel",
-      "status": "Ready for review",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Julieta Mezza",
       "issuetype": "Epic",
       "created": "2025-04-14",
-      "updated": "2026-02-13",
+      "updated": "2026-04-14",
       "resolutiondate": "",
       "labels": [
         "AirEuropa"
