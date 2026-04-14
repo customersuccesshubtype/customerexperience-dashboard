@@ -1,6 +1,23 @@
 {
-  "last_updated": "2026-04-13 09:12 UTC",
+  "last_updated": "2026-04-14 08:54 UTC",
   "opportunities": [
+    {
+      "id": "006Sa00000eF8G0IAK",
+      "name": "2026-U-EasyJet-PolyGlot 22 additional licenses",
+      "type": "Upsell",
+      "stage": "Opportunity identified",
+      "is_closed": false,
+      "is_won": false,
+      "probability": 10.0,
+      "amount": 6336.0,
+      "arr": 6336.0,
+      "owner": "Marta Marron",
+      "cs_lead": "",
+      "account": "Easyjet PLC",
+      "created": "2026-04-14",
+      "close_date": "2024-12-09",
+      "start_date": "2025-10-01"
+    },
     {
       "id": "006Sa00000dmYQlIAM",
       "name": "2027-R-Generalitat-CTTI",
@@ -1609,7 +1626,7 @@
       "probability": 10.0,
       "amount": 107100.0,
       "arr": 107100.0,
-      "owner": "Karol Sygula",
+      "owner": "GTM Ops",
       "cs_lead": "María Sánchez",
       "account": "Alsa",
       "created": "2025-09-30",
