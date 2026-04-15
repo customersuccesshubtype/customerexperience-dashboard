@@ -1,6 +1,103 @@
 {
-  "last_updated": "2026-04-14 08:24 UTC",
+  "last_updated": "2026-04-15 08:26 UTC",
   "tickets": [
+    {
+      "key": "PS-5368",
+      "summary": "Occident - Conversation info download ",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Aitor Casas",
+      "issuetype": "Task",
+      "created": "2026-04-15",
+      "updated": "2026-04-15",
+      "resolutiondate": "",
+      "labels": [
+        "occident"
+      ]
+    },
+    {
+      "key": "PS-5367",
+      "summary": "Multiasistencia - Santander - Update the Claim webview with the integration with the Middleware",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": null,
+      "issuetype": "Task",
+      "created": "2026-04-14",
+      "updated": "2026-04-14",
+      "resolutiondate": "",
+      "labels": [
+        "Multiasistencia"
+      ]
+    },
+    {
+      "key": "PS-5366",
+      "summary": "Multiasistencia - Create Middleware to integrate with their API",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Evgeni Slavyanov",
+      "issuetype": "Task",
+      "created": "2026-04-14",
+      "updated": "2026-04-15",
+      "resolutiondate": "",
+      "labels": [
+        "Multiasistencia"
+      ]
+    },
+    {
+      "key": "PS-5365",
+      "summary": "Air Europa - add \"NOBAG\" to the fares ",
+      "status": "In Progress",
+      "status_category": "In Progress",
+      "assignee": "Alexander Skalatskiy",
+      "issuetype": "Task",
+      "created": "2026-04-14",
+      "updated": "2026-04-14",
+      "resolutiondate": "",
+      "labels": [
+        "AirEuropa"
+      ]
+    },
+    {
+      "key": "PS-5364",
+      "summary": "Segurcaixa - Adjust ID Matching Logic (CL-/CL_) ",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Alexander Skalatskiy",
+      "issuetype": "Task",
+      "created": "2026-04-14",
+      "updated": "2026-04-15",
+      "resolutiondate": "",
+      "labels": [
+        "SegurCaixa"
+      ]
+    },
+    {
+      "key": "PS-5363",
+      "summary": "Allianz OSN – Complexity and implementation estimate",
+      "status": "In Progress",
+      "status_category": "In Progress",
+      "assignee": "Lorena Sánchez-Toril Nicolás",
+      "issuetype": "Task",
+      "created": "2026-04-14",
+      "updated": "2026-04-15",
+      "resolutiondate": "",
+      "labels": [
+        "Allianz-OSN",
+        "Task"
+      ]
+    },
+    {
+      "key": "PS-5362",
+      "summary": "Air Europa - Restore ShouldShowRating action",
+      "status": "In production",
+      "status_category": "Done",
+      "assignee": "Adrià Sastre",
+      "issuetype": "Bug",
+      "created": "2026-04-14",
+      "updated": "2026-04-14",
+      "resolutiondate": "",
+      "labels": []
+    },
     {
       "key": "PS-5361",
       "summary": "Wizz Air - review how we can identify travel agencies and take them to contact center",
@@ -158,12 +255,12 @@
     {
       "key": "PS-5350",
       "summary": "Jetsmart - Select flight to purchase UI",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "In Progress",
+      "status_category": "In Progress",
       "assignee": "Pep Alonso",
       "issuetype": "Task",
       "created": "2026-04-13",
-      "updated": "2026-04-13",
+      "updated": "2026-04-14",
       "resolutiondate": "",
       "labels": [
         "JetSmart"
@@ -172,12 +269,12 @@
     {
       "key": "PS-5349",
       "summary": "Jetsmart - Select Passanger number Step UI",
-      "status": "In Progress",
+      "status": "Ready for review",
       "status_category": "In Progress",
       "assignee": "Pep Alonso",
       "issuetype": "Task",
       "created": "2026-04-13",
-      "updated": "2026-04-13",
+      "updated": "2026-04-14",
       "resolutiondate": "",
       "labels": [
         "JetSmart"
@@ -294,12 +391,12 @@
     {
       "key": "PS-5339",
       "summary": "Alsa - Generate CSS + javascript to embed webchat directly in web",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Ready for review",
+      "status_category": "In Progress",
       "assignee": "Alexander Skalatskiy",
       "issuetype": "Task",
       "created": "2026-04-13",
-      "updated": "2026-04-13",
+      "updated": "2026-04-14",
       "resolutiondate": "",
       "labels": [
         "Alsa"
@@ -406,12 +503,12 @@
     {
       "key": "PS-5329",
       "summary": "Improvement: Get contents from Flow Builder instead of local contents",
-      "status": "In Progress",
+      "status": "Ready for review",
       "status_category": "In Progress",
       "assignee": "Alexander Skalatskiy",
       "issuetype": "Sub-task",
       "created": "2026-04-10",
-      "updated": "2026-04-10",
+      "updated": "2026-04-14",
       "resolutiondate": "",
       "labels": [
         "TMB"
@@ -630,12 +727,12 @@
     {
       "key": "PS-5313",
       "summary": "Design loading transitions/animations",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "In Progress",
+      "status_category": "In Progress",
       "assignee": "Vicky Correbo",
       "issuetype": "Discovery Task",
       "created": "2026-04-09",
-      "updated": "2026-04-10",
+      "updated": "2026-04-14",
       "resolutiondate": "",
       "labels": [
         "DesignSystem"
@@ -684,12 +781,12 @@
     {
       "key": "PS-5309",
       "summary": "Rag&Bone - Migrate R&B bots to Guess organization",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Ready for review",
+      "status_category": "In Progress",
       "assignee": "Adrià Sastre",
       "issuetype": "Discovery Task",
       "created": "2026-04-09",
-      "updated": "2026-04-09",
+      "updated": "2026-04-15",
       "resolutiondate": "",
       "labels": [
         "Rag&Bone"
@@ -698,12 +795,12 @@
     {
       "key": "PS-5308",
       "summary": "Guess - New \"Order Number\" Field in Salesforce Integration",
-      "status": "Ready to Deliver",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Adrià Sastre",
       "issuetype": "Discovery Task",
       "created": "2026-04-09",
-      "updated": "2026-04-12",
+      "updated": "2026-04-14",
       "resolutiondate": "",
       "labels": [
         "Guess"
@@ -2375,9 +2472,9 @@
       "status": "To Do",
       "status_category": "To Do",
       "assignee": "Evgeni Slavyanov",
-      "issuetype": "Task",
+      "issuetype": "Epic",
       "created": "2026-03-11",
-      "updated": "2026-04-09",
+      "updated": "2026-04-14",
       "resolutiondate": "",
       "labels": [
         "Multiasistencia"
@@ -2428,12 +2525,12 @@
     {
       "key": "PS-5178",
       "summary": "Michael Kors - Prepare data to evaluate the impact of the AI Copilot",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "María Sánchez",
       "issuetype": "Task",
       "created": "2026-03-11",
-      "updated": "2026-04-13",
+      "updated": "2026-04-15",
       "resolutiondate": "",
       "labels": [
         "Michael-Kors"
@@ -2816,12 +2913,12 @@
     {
       "key": "PS-5149",
       "summary": "Securitas Direct Lead Gen - Migrate code to Hubtype repository (currently they own the code)",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Ready for review",
+      "status_category": "In Progress",
       "assignee": "Adrià Sastre",
       "issuetype": "Task",
       "created": "2026-03-05",
-      "updated": "2026-04-08",
+      "updated": "2026-04-14",
       "resolutiondate": "",
       "labels": [
         "Securitas-leadgen"
@@ -4415,12 +4512,12 @@
     {
       "key": "PS-5025",
       "summary": "Multiasistencia - Update MULTI_SANTANDER_STAGING to the latest version",
-      "status": "Ready for review",
-      "status_category": "In Progress",
+      "status": "In production",
+      "status_category": "Done",
       "assignee": "Evgeni Slavyanov",
       "issuetype": "Task",
       "created": "2026-02-16",
-      "updated": "2026-04-13",
+      "updated": "2026-04-14",
       "resolutiondate": "",
       "labels": [
         "Multiasistencia"
