@@ -1,6 +1,112 @@
 {
-  "last_updated": "2026-04-15 08:26 UTC",
+  "last_updated": "2026-04-16 08:25 UTC",
   "tickets": [
+    {
+      "key": "PS-5377",
+      "summary": "Securitas Direct - Changes requested by Miguel",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Adrià Sastre",
+      "issuetype": "Task",
+      "created": "2026-04-15",
+      "updated": "2026-04-15",
+      "resolutiondate": "",
+      "labels": []
+    },
+    {
+      "key": "PS-5375",
+      "summary": "TMB - Fix accessibility barriers in xatbot (WCAG audit)",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Andrea Talal Haidar",
+      "issuetype": "Task",
+      "created": "2026-04-15",
+      "updated": "2026-04-15",
+      "resolutiondate": "",
+      "labels": [
+        "TMB"
+      ]
+    },
+    {
+      "key": "PS-5374",
+      "summary": "Polarier - Modificar App de QR Code generation para que apunte a producción cuando salgan live",
+      "status": "Open",
+      "status_category": "To Do",
+      "assignee": "Aitor Casas",
+      "issuetype": "Task",
+      "created": "2026-04-15",
+      "updated": "2026-04-15",
+      "resolutiondate": "",
+      "labels": [
+        "Polarier"
+      ]
+    },
+    {
+      "key": "PS-5373",
+      "summary": "Air Europa - Remove follow up content on webview closing",
+      "status": "In production",
+      "status_category": "Done",
+      "assignee": "Alexander Skalatskiy",
+      "issuetype": "Task",
+      "created": "2026-04-15",
+      "updated": "2026-04-15",
+      "resolutiondate": "",
+      "labels": [
+        "AirEuropa"
+      ]
+    },
+    {
+      "key": "PS-5372",
+      "summary": "Skills - Create a skill for PR title naming",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": null,
+      "issuetype": "Task",
+      "created": "2026-04-15",
+      "updated": "2026-04-15",
+      "resolutiondate": "",
+      "labels": []
+    },
+    {
+      "key": "PS-5371",
+      "summary": "Skills - Create a skill for branch naming",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": null,
+      "issuetype": "Task",
+      "created": "2026-04-15",
+      "updated": "2026-04-15",
+      "resolutiondate": "",
+      "labels": []
+    },
+    {
+      "key": "PS-5370",
+      "summary": "Verisure IT - reset command that allows them to delete conversations in the staging bot",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Evgeni Slavyanov",
+      "issuetype": "Task",
+      "created": "2026-04-15",
+      "updated": "2026-04-16",
+      "resolutiondate": "",
+      "labels": [
+        "Verisure_IT"
+      ]
+    },
+    {
+      "key": "PS-5369",
+      "summary": "Polarier - Update order item display to show BACs instead of units",
+      "status": "Ready for review",
+      "status_category": "In Progress",
+      "assignee": "Lorena Sánchez-Toril Nicolás",
+      "issuetype": "Task",
+      "created": "2026-04-15",
+      "updated": "2026-04-16",
+      "resolutiondate": "",
+      "labels": [
+        "Polarier"
+      ]
+    },
     {
       "key": "PS-5368",
       "summary": "Occident - Conversation info download ",
@@ -46,12 +152,12 @@
     {
       "key": "PS-5365",
       "summary": "Air Europa - add \"NOBAG\" to the fares ",
-      "status": "In Progress",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Alexander Skalatskiy",
       "issuetype": "Task",
       "created": "2026-04-14",
-      "updated": "2026-04-14",
+      "updated": "2026-04-15",
       "resolutiondate": "",
       "labels": [
         "AirEuropa"
@@ -255,12 +361,12 @@
     {
       "key": "PS-5350",
       "summary": "Jetsmart - Select flight to purchase UI",
-      "status": "In Progress",
+      "status": "Ready for review",
       "status_category": "In Progress",
       "assignee": "Pep Alonso",
       "issuetype": "Task",
       "created": "2026-04-13",
-      "updated": "2026-04-14",
+      "updated": "2026-04-15",
       "resolutiondate": "",
       "labels": [
         "JetSmart"
@@ -283,12 +389,12 @@
     {
       "key": "PS-5348",
       "summary": "Libeen - Whatsapp test number",
-      "status": "Ready for review",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Aitor Casas",
       "issuetype": "Task",
       "created": "2026-04-13",
-      "updated": "2026-04-14",
+      "updated": "2026-04-15",
       "resolutiondate": "",
       "labels": [
         "Libeen"
@@ -351,14 +457,16 @@
     {
       "key": "PS-5342",
       "summary": "Air Europa - Make Integration Buttons Great Again",
-      "status": "Ready for review",
-      "status_category": "In Progress",
+      "status": "In production",
+      "status_category": "Done",
       "assignee": "Alexander Skalatskiy",
       "issuetype": "Task",
       "created": "2026-04-13",
-      "updated": "2026-04-13",
+      "updated": "2026-04-15",
       "resolutiondate": "",
-      "labels": []
+      "labels": [
+        "AirEuropa"
+      ]
     },
     {
       "key": "PS-5341",
@@ -391,12 +499,12 @@
     {
       "key": "PS-5339",
       "summary": "Alsa - Generate CSS + javascript to embed webchat directly in web",
-      "status": "Ready for review",
+      "status": "In Review",
       "status_category": "In Progress",
       "assignee": "Alexander Skalatskiy",
       "issuetype": "Task",
       "created": "2026-04-13",
-      "updated": "2026-04-14",
+      "updated": "2026-04-15",
       "resolutiondate": "",
       "labels": [
         "Alsa"
@@ -503,12 +611,12 @@
     {
       "key": "PS-5329",
       "summary": "Improvement: Get contents from Flow Builder instead of local contents",
-      "status": "Ready for review",
-      "status_category": "In Progress",
+      "status": "In production",
+      "status_category": "Done",
       "assignee": "Alexander Skalatskiy",
       "issuetype": "Sub-task",
       "created": "2026-04-10",
-      "updated": "2026-04-14",
+      "updated": "2026-04-15",
       "resolutiondate": "",
       "labels": [
         "TMB"
@@ -753,12 +861,12 @@
     {
       "key": "PS-5311",
       "summary": "Guess - Polyglot - Understand requirements",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Ready to Deliver",
+      "status_category": "In Progress",
       "assignee": "Francisca Martelli",
       "issuetype": "Task",
       "created": "2026-04-09",
-      "updated": "2026-04-13",
+      "updated": "2026-04-15",
       "resolutiondate": "",
       "labels": [
         "Guess"
@@ -961,12 +1069,12 @@
     {
       "key": "PS-5295",
       "summary": "Polarier - Incluir posibilidad de eliminar conversación en staging cuando el usuario hace ###reset",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Closed",
+      "status_category": "Done",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-04-07",
-      "updated": "2026-04-08",
+      "updated": "2026-04-15",
       "resolutiondate": "",
       "labels": [
         "Polarier"
@@ -1120,7 +1228,7 @@
       "assignee": "irene callejas",
       "issuetype": "Task",
       "created": "2026-04-01",
-      "updated": "2026-04-08",
+      "updated": "2026-04-15",
       "resolutiondate": "",
       "labels": [
         "Ralph_Lauren"
@@ -2918,7 +3026,7 @@
       "assignee": "Adrià Sastre",
       "issuetype": "Task",
       "created": "2026-03-05",
-      "updated": "2026-04-14",
+      "updated": "2026-04-15",
       "resolutiondate": "",
       "labels": [
         "Securitas-leadgen"
@@ -4512,12 +4620,12 @@
     {
       "key": "PS-5025",
       "summary": "Multiasistencia - Update MULTI_SANTANDER_STAGING to the latest version",
-      "status": "In production",
+      "status": "Done",
       "status_category": "Done",
       "assignee": "Evgeni Slavyanov",
       "issuetype": "Task",
       "created": "2026-02-16",
-      "updated": "2026-04-14",
+      "updated": "2026-04-15",
       "resolutiondate": "",
       "labels": [
         "Multiasistencia"
@@ -4596,12 +4704,12 @@
     {
       "key": "PS-5019",
       "summary": "Verisure IT - Implement Hubtype Webhook Endpoint to Receive Opportunity ID & Contact Profile",
-      "status": "Ready to Deliver",
+      "status": "In Progress",
       "status_category": "In Progress",
       "assignee": "Evgeni Slavyanov",
       "issuetype": "Task",
       "created": "2026-02-13",
-      "updated": "2026-03-31",
+      "updated": "2026-04-16",
       "resolutiondate": "",
       "labels": [
         "Verisure_IT"
@@ -8615,7 +8723,7 @@
       "assignee": "Adrià Sastre",
       "issuetype": "Epic",
       "created": "2025-12-02",
-      "updated": "2026-04-10",
+      "updated": "2026-04-15",
       "resolutiondate": "",
       "labels": [
         "Allianz-ES"
@@ -11426,12 +11534,12 @@
     {
       "key": "PS-4463",
       "summary": "SegurCaixa - Flow Builder migration",
-      "status": "In production",
+      "status": "Done",
       "status_category": "Done",
       "assignee": "Adrià Sastre",
       "issuetype": "Task",
       "created": "2025-09-30",
-      "updated": "2026-04-14",
+      "updated": "2026-04-15",
       "resolutiondate": "",
       "labels": [
         "SegurCaixa"
@@ -41791,12 +41899,12 @@
     {
       "key": "PS-1972",
       "summary": "SegurCaixaAdeslas - Migration to FlowBuilder",
-      "status": "Ready for review",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Adrià Sastre",
       "issuetype": "Epic",
       "created": "2024-05-02",
-      "updated": "2026-03-13",
+      "updated": "2026-04-15",
       "resolutiondate": "",
       "labels": [
         "SegurCaixa"
