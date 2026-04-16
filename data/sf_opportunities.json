@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-15 08:55 UTC",
+  "last_updated": "2026-04-16 08:56 UTC",
   "opportunities": [
     {
       "id": "006Sa00000eF8G0IAK",
@@ -73,17 +73,17 @@
       "id": "006Sa00000dNK1IIAW",
       "name": "2026-U-Verisure FR - 17 extra licenses for Service Client",
       "type": "Upsell",
-      "stage": "Waiting for signature",
-      "is_closed": false,
-      "is_won": false,
-      "probability": 90.0,
+      "stage": "Closed Won",
+      "is_closed": true,
+      "is_won": true,
+      "probability": 100.0,
       "amount": 2601.0,
       "arr": 10404.0,
       "owner": "María Sánchez",
       "cs_lead": "María Sánchez",
       "account": "Verisure France",
       "created": "2026-03-30",
-      "close_date": "2026-04-30",
+      "close_date": "2026-04-15",
       "start_date": "2026-05-01"
     },
     {
@@ -1849,7 +1849,7 @@
       "arr": 104640.0,
       "owner": "Marc Caballé",
       "cs_lead": "",
-      "account": "Decathlon Group",
+      "account": "Decathlon",
       "created": "2025-09-10",
       "close_date": "2025-09-10",
       "start_date": "2025-10-01"
@@ -1866,7 +1866,7 @@
       "arr": 0.0,
       "owner": "Marc Caballé",
       "cs_lead": "",
-      "account": "Decathlon Group",
+      "account": "Decathlon",
       "created": "2025-09-09",
       "close_date": "2025-09-10",
       "start_date": "2025-10-01"
@@ -2580,7 +2580,7 @@
       "arr": 2400.0,
       "owner": "Marta Marron",
       "cs_lead": "Julieta Mezza",
-      "account": "Decathlon Group",
+      "account": "Decathlon",
       "created": "2025-05-26",
       "close_date": "2025-05-29",
       "start_date": "2025-06-01"
@@ -3311,7 +3311,7 @@
       "arr": 31860.0,
       "owner": "María Sánchez",
       "cs_lead": "Julieta Mezza",
-      "account": "Decathlon Group",
+      "account": "Decathlon",
       "created": "2025-02-07",
       "close_date": "2025-05-29",
       "start_date": "2025-06-01"
@@ -3991,7 +3991,7 @@
       "arr": 110640.0,
       "owner": "Marc Caballé",
       "cs_lead": "María Sánchez",
-      "account": "Decathlon Group",
+      "account": "Decathlon",
       "created": "2024-11-13",
       "close_date": "2025-09-10",
       "start_date": "2025-10-01"
@@ -4297,7 +4297,7 @@
       "arr": 0.0,
       "owner": "María Sánchez",
       "cs_lead": "María Sánchez",
-      "account": "Decathlon Group",
+      "account": "Decathlon",
       "created": "2024-09-24",
       "close_date": "2024-10-07",
       "start_date": "2024-06-01"
@@ -5317,7 +5317,7 @@
       "arr": 108240.0,
       "owner": "Marta Marron",
       "cs_lead": "Marta Marron",
-      "account": "Decathlon Group",
+      "account": "Decathlon",
       "created": "2024-02-24",
       "close_date": "2024-11-13",
       "start_date": "2024-10-01"
@@ -5708,7 +5708,7 @@
       "arr": 28440.0,
       "owner": "Marta Marron",
       "cs_lead": "Marta Marron",
-      "account": "Decathlon Group",
+      "account": "Decathlon",
       "created": "2024-01-27",
       "close_date": "2024-06-05",
       "start_date": "2024-06-01"
@@ -5725,7 +5725,7 @@
       "arr": 73265.4,
       "owner": "Marta Marron",
       "cs_lead": "Marta Marron",
-      "account": "Decathlon Group",
+      "account": "Decathlon",
       "created": "2024-01-27",
       "close_date": "2024-03-22",
       "start_date": "2024-02-01"
@@ -6252,7 +6252,7 @@
       "arr": 51450.0,
       "owner": "Marc Caballé",
       "cs_lead": "Rodrigo Portillo",
-      "account": "Decathlon Group",
+      "account": "Decathlon",
       "created": "2023-10-24",
       "close_date": "2024-01-29",
       "start_date": "2023-10-01"
@@ -6269,7 +6269,7 @@
       "arr": 73440.0,
       "owner": "Rodrigo Portillo",
       "cs_lead": "Rodrigo Portillo",
-      "account": "Decathlon Group",
+      "account": "Decathlon",
       "created": "2023-10-24",
       "close_date": "2023-10-24",
       "start_date": "2023-10-01"
@@ -6813,7 +6813,7 @@
       "arr": 6240.0,
       "owner": "Rodrigo Portillo",
       "cs_lead": "Rodrigo Portillo",
-      "account": "Decathlon Group",
+      "account": "Decathlon",
       "created": "2023-07-10",
       "close_date": "2023-07-10",
       "start_date": "2023-06-01"
@@ -6847,7 +6847,7 @@
       "arr": 19200.0,
       "owner": "Rodrigo Portillo",
       "cs_lead": "Rodrigo Portillo",
-      "account": "Decathlon Group",
+      "account": "Decathlon",
       "created": "2023-06-28",
       "close_date": "2023-06-28",
       "start_date": "2023-06-01"
@@ -7867,7 +7867,7 @@
       "arr": 48999.96,
       "owner": "Antonio García",
       "cs_lead": "Antonio García",
-      "account": "Decathlon Group",
+      "account": "Decathlon",
       "created": "2022-11-14",
       "close_date": "2022-11-14",
       "start_date": "2022-10-01"
@@ -8088,7 +8088,7 @@
       "arr": 0.0,
       "owner": "Antonio García",
       "cs_lead": "Antonio García",
-      "account": "Decathlon Group",
+      "account": "Decathlon",
       "created": "2022-10-04",
       "close_date": "2022-10-10",
       "start_date": ""
@@ -8479,7 +8479,7 @@
       "arr": 48000.0,
       "owner": "Marc Caballé",
       "cs_lead": "",
-      "account": "Decathlon Group",
+      "account": "Decathlon",
       "created": "2022-05-26",
       "close_date": "2022-10-02",
       "start_date": "2022-10-01"
@@ -9346,7 +9346,7 @@
       "arr": 0.0,
       "owner": "Isabel Picon",
       "cs_lead": "Isabel Picon",
-      "account": "Decathlon Group",
+      "account": "Decathlon",
       "created": "2021-10-08",
       "close_date": "2021-11-12",
       "start_date": "2021-11-01"
@@ -9363,7 +9363,7 @@
       "arr": 48999.96,
       "owner": "Marc Caballé",
       "cs_lead": "Isabel Picon",
-      "account": "Decathlon Group",
+      "account": "Decathlon",
       "created": "2021-10-08",
       "close_date": "2021-12-14",
       "start_date": "2021-10-01"
