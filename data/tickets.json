@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-16 08:25 UTC",
+  "last_updated": "2026-04-17 08:25 UTC",
   "tickets": [
     {
       "key": "PS-5377",
@@ -180,12 +180,12 @@
     {
       "key": "PS-5363",
       "summary": "Allianz OSN – Complexity and implementation estimate",
-      "status": "In Progress",
+      "status": "Ready for review",
       "status_category": "In Progress",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-04-14",
-      "updated": "2026-04-15",
+      "updated": "2026-04-16",
       "resolutiondate": "",
       "labels": [
         "Allianz-OSN",
@@ -1113,10 +1113,10 @@
       "summary": "JetSMART - Update botonic to latest version so that we can enlable Audio transcript feature",
       "status": "To Do",
       "status_category": "To Do",
-      "assignee": "Pep Alonso",
+      "assignee": "Evgeni Slavyanov",
       "issuetype": "Task",
       "created": "2026-04-06",
-      "updated": "2026-04-13",
+      "updated": "2026-04-16",
       "resolutiondate": "",
       "labels": [
         "JetSmart"
@@ -3239,12 +3239,12 @@
     {
       "key": "PS-5132",
       "summary": "Soledad - improve ai agent prompt",
-      "status": "In Progress",
-      "status_category": "In Progress",
+      "status": "Closed",
+      "status_category": "Done",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-03-02",
-      "updated": "2026-03-23",
+      "updated": "2026-04-16",
       "resolutiondate": "",
       "labels": [
         "Soledad"
@@ -4480,12 +4480,12 @@
     {
       "key": "PS-5036",
       "summary": "Multiasistencia - Update botonic version - MULTI_FRANCIA_STAGING - 662b5c99-a812-4c41-b27c-597978890ab4",
-      "status": "In Progress",
+      "status": "Ready for review",
       "status_category": "In Progress",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-02-16",
-      "updated": "2026-04-01",
+      "updated": "2026-04-16",
       "resolutiondate": "",
       "labels": [
         "Multiasistencia"
