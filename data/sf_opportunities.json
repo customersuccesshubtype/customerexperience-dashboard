@@ -1,21 +1,21 @@
 {
-  "last_updated": "2026-04-16 08:56 UTC",
+  "last_updated": "2026-04-17 08:54 UTC",
   "opportunities": [
     {
       "id": "006Sa00000eF8G0IAK",
       "name": "2026-U-EasyJet-PolyGlot 22 additional licenses",
       "type": "Upsell",
-      "stage": "Opportunity identified",
-      "is_closed": false,
-      "is_won": false,
-      "probability": 10.0,
+      "stage": "Closed Won",
+      "is_closed": true,
+      "is_won": true,
+      "probability": 100.0,
       "amount": 6336.0,
       "arr": 6336.0,
       "owner": "Marta Marron",
       "cs_lead": "",
       "account": "Easyjet PLC",
       "created": "2026-04-14",
-      "close_date": "2024-12-09",
+      "close_date": "2026-04-16",
       "start_date": "2025-10-01"
     },
     {
