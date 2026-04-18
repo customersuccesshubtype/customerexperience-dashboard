@@ -1,6 +1,62 @@
 {
-  "last_updated": "2026-04-17 08:25 UTC",
+  "last_updated": "2026-04-18 07:58 UTC",
   "tickets": [
+    {
+      "key": "PS-5381",
+      "summary": "Assegur - New Campaign - Update personal data",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Julieta Mezza",
+      "issuetype": "Task",
+      "created": "2026-04-18",
+      "updated": "2026-04-18",
+      "resolutiondate": "",
+      "labels": [
+        "Assegur"
+      ]
+    },
+    {
+      "key": "PS-5380",
+      "summary": "Alsa - Investigation: discrepancies in tools activation ",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": null,
+      "issuetype": "Task",
+      "created": "2026-04-17",
+      "updated": "2026-04-17",
+      "resolutiondate": "",
+      "labels": [
+        "Alsa"
+      ]
+    },
+    {
+      "key": "PS-5379",
+      "summary": "Michael Kors -  Snippet web condensed",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": null,
+      "issuetype": "Task",
+      "created": "2026-04-17",
+      "updated": "2026-04-17",
+      "resolutiondate": "",
+      "labels": [
+        "Michael-Kors"
+      ]
+    },
+    {
+      "key": "PS-5378",
+      "summary": "Michael Kors - WISMO / WISMR API integration",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "María Sánchez",
+      "issuetype": "Task",
+      "created": "2026-04-17",
+      "updated": "2026-04-17",
+      "resolutiondate": "",
+      "labels": [
+        "Michael-Kors"
+      ]
+    },
     {
       "key": "PS-5377",
       "summary": "Securitas Direct - Changes requested by Miguel",
