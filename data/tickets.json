@@ -1,6 +1,20 @@
 {
-  "last_updated": "2026-04-19 08:04 UTC",
+  "last_updated": "2026-04-20 09:06 UTC",
   "tickets": [
+    {
+      "key": "PS-5384",
+      "summary": "Jetsmart - Search Flights Domain",
+      "status": "In Progress",
+      "status_category": "In Progress",
+      "assignee": "Pep Alonso",
+      "issuetype": "Task",
+      "created": "2026-04-20",
+      "updated": "2026-04-20",
+      "resolutiondate": "",
+      "labels": [
+        "JetSmart"
+      ]
+    },
     {
       "key": "PS-5382",
       "summary": "Internal - Remove Old Middlewares",
@@ -9,7 +23,7 @@
       "assignee": null,
       "issuetype": "Task",
       "created": "2026-04-18",
-      "updated": "2026-04-18",
+      "updated": "2026-04-19",
       "resolutiondate": "",
       "labels": []
     },
@@ -206,12 +220,12 @@
     {
       "key": "PS-5366",
       "summary": "Multiasistencia - Create Middleware to integrate with their API",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "In Progress",
+      "status_category": "In Progress",
       "assignee": "Evgeni Slavyanov",
       "issuetype": "Task",
       "created": "2026-04-14",
-      "updated": "2026-04-15",
+      "updated": "2026-04-20",
       "resolutiondate": "",
       "labels": [
         "Multiasistencia"
@@ -1095,12 +1109,12 @@
     {
       "key": "PS-5299",
       "summary": "Ralph Lauren: add new tool",
-      "status": "Ready for review",
+      "status": "Ready to Deliver",
       "status_category": "In Progress",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-04-08",
-      "updated": "2026-04-10",
+      "updated": "2026-04-20",
       "resolutiondate": "",
       "labels": [
         "Ralph_Lauren"
@@ -1151,12 +1165,12 @@
     {
       "key": "PS-5294",
       "summary": "Ralph Lauren: negative attributes",
-      "status": "Ready for review",
+      "status": "Ready to Deliver",
       "status_category": "In Progress",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-04-07",
-      "updated": "2026-04-07",
+      "updated": "2026-04-20",
       "resolutiondate": "",
       "labels": [
         "Ralph_Lauren"
@@ -1184,7 +1198,7 @@
       "assignee": "Evgeni Slavyanov",
       "issuetype": "Task",
       "created": "2026-04-06",
-      "updated": "2026-04-16",
+      "updated": "2026-04-20",
       "resolutiondate": "",
       "labels": [
         "JetSmart"
@@ -1425,12 +1439,12 @@
     {
       "key": "PS-5274",
       "summary": "Ralph Lauren- add exclude parameter to filter-counts",
-      "status": "Ready for review",
+      "status": "Ready to Deliver",
       "status_category": "In Progress",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-03-31",
-      "updated": "2026-04-01",
+      "updated": "2026-04-20",
       "resolutiondate": "",
       "labels": [
         "Ralph_Lauren"
@@ -4772,12 +4786,12 @@
     {
       "key": "PS-5019",
       "summary": "Verisure IT - Implement Hubtype Webhook Endpoint to Receive Opportunity ID & Contact Profile",
-      "status": "In Progress",
+      "status": "Ready for review",
       "status_category": "In Progress",
       "assignee": "Evgeni Slavyanov",
       "issuetype": "Task",
       "created": "2026-02-13",
-      "updated": "2026-04-16",
+      "updated": "2026-04-20",
       "resolutiondate": "",
       "labels": [
         "Verisure_IT"
