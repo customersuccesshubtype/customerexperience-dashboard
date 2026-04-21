@@ -1,10 +1,229 @@
 {
-  "last_updated": "2026-04-20 09:06 UTC",
+  "last_updated": "2026-04-21 08:51 UTC",
   "tickets": [
+    {
+      "key": "PS-5400",
+      "summary": "Rag & Bone - Create R&B Project + Contact Reasons",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Francisca Martelli",
+      "issuetype": "Task",
+      "created": "2026-04-21",
+      "updated": "2026-04-21",
+      "resolutiondate": "",
+      "labels": [
+        "Rag&Bone"
+      ]
+    },
+    {
+      "key": "PS-5399",
+      "summary": "Rag & Bone - Deploy 2 new R&B Bots within the Guess Dashboard (Staging and Production)",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Adrià Sastre",
+      "issuetype": "Task",
+      "created": "2026-04-21",
+      "updated": "2026-04-21",
+      "resolutiondate": "",
+      "labels": [
+        "Rag&Bone"
+      ]
+    },
+    {
+      "key": "PS-5398",
+      "summary": "Retorna - Review API Errors \"Consultar Remesa\"",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Alexander Skalatskiy",
+      "issuetype": "Task",
+      "created": "2026-04-21",
+      "updated": "2026-04-21",
+      "resolutiondate": "",
+      "labels": [
+        "Retorna"
+      ]
+    },
+    {
+      "key": "PS-5397",
+      "summary": "Occident - Make inicioConversacion API call fire & forget in SendConversationIdPlugin",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": null,
+      "issuetype": "Task",
+      "created": "2026-04-20",
+      "updated": "2026-04-20",
+      "resolutiondate": "",
+      "labels": []
+    },
+    {
+      "key": "PS-5396",
+      "summary": "Polarier - Battle Test",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "irene callejas",
+      "issuetype": "Task",
+      "created": "2026-04-20",
+      "updated": "2026-04-20",
+      "resolutiondate": "",
+      "labels": [
+        "Polarier"
+      ]
+    },
+    {
+      "key": "PS-5395",
+      "summary": "Polarier - Handle image input (AI Agent workaround)",
+      "status": "In Progress",
+      "status_category": "In Progress",
+      "assignee": "Lorena Sánchez-Toril Nicolás",
+      "issuetype": "Task",
+      "created": "2026-04-20",
+      "updated": "2026-04-21",
+      "resolutiondate": "",
+      "labels": [
+        "Polarier"
+      ]
+    },
+    {
+      "key": "PS-5394",
+      "summary": "Polarier - Issue tracker",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "irene callejas",
+      "issuetype": "Task",
+      "created": "2026-04-20",
+      "updated": "2026-04-20",
+      "resolutiondate": "",
+      "labels": [
+        "Polarier"
+      ]
+    },
+    {
+      "key": "PS-5393",
+      "summary": "Verisure Spain - List things were the name needs to be modified and change it",
+      "status": "In Progress",
+      "status_category": "In Progress",
+      "assignee": "Aitor Casas",
+      "issuetype": "Task",
+      "created": "2026-04-20",
+      "updated": "2026-04-21",
+      "resolutiondate": "",
+      "labels": []
+    },
+    {
+      "key": "PS-5392",
+      "summary": "SegurCaixa - Contact subject showing as \"undefined\" in incoming emails",
+      "status": "In Progress",
+      "status_category": "In Progress",
+      "assignee": "Adrià Sastre",
+      "issuetype": "Bug",
+      "created": "2026-04-20",
+      "updated": "2026-04-20",
+      "resolutiondate": "",
+      "labels": [
+        "SegurCaixa",
+        "bug"
+      ]
+    },
+    {
+      "key": "PS-5391",
+      "summary": "Air Europa - BUG - Modify button is not displayed when it should",
+      "status": "In production",
+      "status_category": "Done",
+      "assignee": "Alexander Skalatskiy",
+      "issuetype": "Bug",
+      "created": "2026-04-20",
+      "updated": "2026-04-20",
+      "resolutiondate": "",
+      "labels": [
+        "AirEuropa"
+      ]
+    },
+    {
+      "key": "PS-5390",
+      "summary": "Ralph Lauren - search categories for kids",
+      "status": "Ready for review",
+      "status_category": "In Progress",
+      "assignee": "Lorena Sánchez-Toril Nicolás",
+      "issuetype": "Task",
+      "created": "2026-04-20",
+      "updated": "2026-04-20",
+      "resolutiondate": "",
+      "labels": [
+        "Ralph_Lauren"
+      ]
+    },
+    {
+      "key": "PS-5389",
+      "summary": "Ralph Lauren -  (prompt) Review Kids categorization",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "irene callejas",
+      "issuetype": "Task",
+      "created": "2026-04-20",
+      "updated": "2026-04-20",
+      "resolutiondate": "",
+      "labels": [
+        "Ralph_Lauren"
+      ]
+    },
+    {
+      "key": "PS-5388",
+      "summary": "Retorna - CSAT for automated conversations (Campaigns v2)",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Adrià Sastre",
+      "issuetype": "Task",
+      "created": "2026-04-20",
+      "updated": "2026-04-20",
+      "resolutiondate": "",
+      "labels": [
+        "Retorna"
+      ]
+    },
+    {
+      "key": "PS-5387",
+      "summary": "Tendam - Dashaandstars AI Agent battle test",
+      "status": "In Progress",
+      "status_category": "In Progress",
+      "assignee": "irene callejas",
+      "issuetype": "Task",
+      "created": "2026-04-20",
+      "updated": "2026-04-20",
+      "resolutiondate": "",
+      "labels": [
+        "Tendam"
+      ]
+    },
+    {
+      "key": "PS-5386",
+      "summary": "DRAFT rough specs to share with delivery/cs --> regression&battle test shareable MVP app",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "irene callejas",
+      "issuetype": "Task",
+      "created": "2026-04-20",
+      "updated": "2026-04-20",
+      "resolutiondate": "",
+      "labels": []
+    },
+    {
+      "key": "PS-5385",
+      "summary": "Tendam - Create Dashandstarts testing WA number ",
+      "status": "Done",
+      "status_category": "Done",
+      "assignee": "Aitor Casas",
+      "issuetype": "Task",
+      "created": "2026-04-20",
+      "updated": "2026-04-20",
+      "resolutiondate": "",
+      "labels": [
+        "Tendam"
+      ]
+    },
     {
       "key": "PS-5384",
       "summary": "Jetsmart - Search Flights Domain",
-      "status": "In Progress",
+      "status": "Ready for review",
       "status_category": "In Progress",
       "assignee": "Pep Alonso",
       "issuetype": "Task",
@@ -23,7 +242,7 @@
       "assignee": null,
       "issuetype": "Task",
       "created": "2026-04-18",
-      "updated": "2026-04-19",
+      "updated": "2026-04-20",
       "resolutiondate": "",
       "labels": []
     },
@@ -60,10 +279,10 @@
       "summary": "Michael Kors -  Snippet web condensed",
       "status": "To Do",
       "status_category": "To Do",
-      "assignee": null,
+      "assignee": "Adrià Sastre",
       "issuetype": "Task",
       "created": "2026-04-17",
-      "updated": "2026-04-17",
+      "updated": "2026-04-21",
       "resolutiondate": "",
       "labels": [
         "Michael-Kors"
@@ -72,12 +291,12 @@
     {
       "key": "PS-5378",
       "summary": "Michael Kors - WISMO / WISMR API integration",
-      "status": "To Do",
+      "status": "Open",
       "status_category": "To Do",
       "assignee": "María Sánchez",
       "issuetype": "Task",
       "created": "2026-04-17",
-      "updated": "2026-04-17",
+      "updated": "2026-04-20",
       "resolutiondate": "",
       "labels": [
         "Michael-Kors"
@@ -86,12 +305,12 @@
     {
       "key": "PS-5377",
       "summary": "Securitas Direct - Changes requested by Miguel",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "In production",
+      "status_category": "Done",
       "assignee": "Adrià Sastre",
       "issuetype": "Task",
       "created": "2026-04-15",
-      "updated": "2026-04-15",
+      "updated": "2026-04-20",
       "resolutiondate": "",
       "labels": []
     },
@@ -100,10 +319,10 @@
       "summary": "TMB - Fix accessibility barriers in xatbot (WCAG audit)",
       "status": "To Do",
       "status_category": "To Do",
-      "assignee": "Andrea Talal Haidar",
+      "assignee": "Adrià Sastre",
       "issuetype": "Task",
       "created": "2026-04-15",
-      "updated": "2026-04-15",
+      "updated": "2026-04-20",
       "resolutiondate": "",
       "labels": [
         "TMB"
@@ -112,12 +331,12 @@
     {
       "key": "PS-5374",
       "summary": "Polarier - Modificar App de QR Code generation para que apunte a producción cuando salgan live",
-      "status": "Open",
-      "status_category": "To Do",
+      "status": "In production",
+      "status_category": "Done",
       "assignee": "Aitor Casas",
       "issuetype": "Task",
       "created": "2026-04-15",
-      "updated": "2026-04-15",
+      "updated": "2026-04-21",
       "resolutiondate": "",
       "labels": [
         "Polarier"
@@ -164,12 +383,12 @@
     {
       "key": "PS-5370",
       "summary": "Verisure IT - reset command that allows them to delete conversations in the staging bot",
-      "status": "To Do",
-      "status_category": "To Do",
-      "assignee": "Evgeni Slavyanov",
+      "status": "Done",
+      "status_category": "Done",
+      "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-04-15",
-      "updated": "2026-04-16",
+      "updated": "2026-04-20",
       "resolutiondate": "",
       "labels": [
         "Verisure_IT"
@@ -178,12 +397,12 @@
     {
       "key": "PS-5369",
       "summary": "Polarier - Update order item display to show BACs instead of units",
-      "status": "Ready for review",
+      "status": "Ready to Deliver",
       "status_category": "In Progress",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-04-15",
-      "updated": "2026-04-16",
+      "updated": "2026-04-20",
       "resolutiondate": "",
       "labels": [
         "Polarier"
@@ -197,7 +416,7 @@
       "assignee": "Aitor Casas",
       "issuetype": "Task",
       "created": "2026-04-15",
-      "updated": "2026-04-15",
+      "updated": "2026-04-21",
       "resolutiondate": "",
       "labels": [
         "occident"
@@ -248,12 +467,12 @@
     {
       "key": "PS-5364",
       "summary": "Segurcaixa - Adjust ID Matching Logic (CL-/CL_) ",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "In Review",
+      "status_category": "In Progress",
       "assignee": "Alexander Skalatskiy",
       "issuetype": "Task",
       "created": "2026-04-14",
-      "updated": "2026-04-15",
+      "updated": "2026-04-20",
       "resolutiondate": "",
       "labels": [
         "SegurCaixa"
@@ -319,10 +538,10 @@
       "summary": "CCMA - Update bot version so that we can include Audio transcription feature",
       "status": "To Do",
       "status_category": "To Do",
-      "assignee": null,
+      "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-04-13",
-      "updated": "2026-04-13",
+      "updated": "2026-04-21",
       "resolutiondate": "",
       "labels": [
         "ccma"
@@ -513,12 +732,12 @@
     {
       "key": "PS-5344",
       "summary": "RACC - Update botonic version so that Audio Transcript can be implemented",
-      "status": "To Do",
-      "status_category": "To Do",
-      "assignee": null,
+      "status": "Ready for review",
+      "status_category": "In Progress",
+      "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-04-13",
-      "updated": "2026-04-13",
+      "updated": "2026-04-21",
       "resolutiondate": "",
       "labels": [
         "RACC"
@@ -553,12 +772,12 @@
     {
       "key": "PS-5341",
       "summary": "Libeen - Whatsapp number migration",
-      "status": "To Do",
-      "status_category": "To Do",
-      "assignee": null,
+      "status": "In Progress",
+      "status_category": "In Progress",
+      "assignee": "Aitor Casas",
       "issuetype": "Task",
       "created": "2026-04-13",
-      "updated": "2026-04-13",
+      "updated": "2026-04-20",
       "resolutiondate": "",
       "labels": [
         "Libeen"
@@ -581,12 +800,12 @@
     {
       "key": "PS-5339",
       "summary": "Alsa - Generate CSS + javascript to embed webchat directly in web",
-      "status": "In Review",
+      "status": "Ready to Deliver",
       "status_category": "In Progress",
       "assignee": "Alexander Skalatskiy",
       "issuetype": "Task",
       "created": "2026-04-13",
-      "updated": "2026-04-15",
+      "updated": "2026-04-20",
       "resolutiondate": "",
       "labels": [
         "Alsa"
@@ -639,10 +858,10 @@
       "summary": "Libeen - Hubspot integration",
       "status": "To Do",
       "status_category": "To Do",
-      "assignee": null,
+      "assignee": "Alexander Skalatskiy",
       "issuetype": "Task",
       "created": "2026-04-10",
-      "updated": "2026-04-10",
+      "updated": "2026-04-20",
       "resolutiondate": "",
       "labels": [
         "Libeen"
@@ -777,12 +996,12 @@
     {
       "key": "PS-5323",
       "summary": "Tendam - BATTLE TEST ",
-      "status": "In Progress",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "irene callejas",
       "issuetype": "Task",
       "created": "2026-04-10",
-      "updated": "2026-04-10",
+      "updated": "2026-04-20",
       "resolutiondate": "",
       "labels": [
         "Tendam"
@@ -875,12 +1094,12 @@
     {
       "key": "PS-5316",
       "summary": "Polarier -  Update welcome / welcome back message",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Andrea Talal Haidar",
       "issuetype": "Discovery Task",
       "created": "2026-04-09",
-      "updated": "2026-04-09",
+      "updated": "2026-04-20",
       "resolutiondate": "",
       "labels": [
         "Polarier"
@@ -908,7 +1127,7 @@
       "assignee": "Evgeni Slavyanov",
       "issuetype": "Task",
       "created": "2026-04-09",
-      "updated": "2026-04-13",
+      "updated": "2026-04-20",
       "resolutiondate": "",
       "labels": [
         "WizzAir"
@@ -1013,12 +1232,12 @@
     {
       "key": "PS-5306",
       "summary": "Allianz ES - Design new webview \"Defensa del cliente\"",
-      "status": "To Do",
-      "status_category": "To Do",
-      "assignee": "Andrea Talal Haidar",
+      "status": "In Progress",
+      "status_category": "In Progress",
+      "assignee": "Vicky Correbo",
       "issuetype": "Task",
       "created": "2026-04-08",
-      "updated": "2026-04-13",
+      "updated": "2026-04-20",
       "resolutiondate": "",
       "labels": [
         "Allianz-ES"
@@ -1109,8 +1328,8 @@
     {
       "key": "PS-5299",
       "summary": "Ralph Lauren: add new tool",
-      "status": "Ready to Deliver",
-      "status_category": "In Progress",
+      "status": "In production",
+      "status_category": "Done",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-04-08",
@@ -1165,8 +1384,8 @@
     {
       "key": "PS-5294",
       "summary": "Ralph Lauren: negative attributes",
-      "status": "Ready to Deliver",
-      "status_category": "In Progress",
+      "status": "In production",
+      "status_category": "Done",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-04-07",
@@ -1291,12 +1510,12 @@
     {
       "key": "PS-5285",
       "summary": "Polarier - Gather issue info before handoff",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Closed",
+      "status_category": "Done",
       "assignee": "irene callejas",
       "issuetype": "Task",
       "created": "2026-04-01",
-      "updated": "2026-04-01",
+      "updated": "2026-04-20",
       "resolutiondate": "",
       "labels": [
         "Polarier"
@@ -1439,8 +1658,8 @@
     {
       "key": "PS-5274",
       "summary": "Ralph Lauren- add exclude parameter to filter-counts",
-      "status": "Ready to Deliver",
-      "status_category": "In Progress",
+      "status": "In production",
+      "status_category": "Done",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-03-31",
@@ -1556,7 +1775,7 @@
       "assignee": "Francisca Martelli",
       "issuetype": "Task",
       "created": "2026-03-26",
-      "updated": "2026-03-26",
+      "updated": "2026-04-20",
       "resolutiondate": "",
       "labels": [
         "Soledad"
@@ -1591,12 +1810,12 @@
     {
       "key": "PS-5263",
       "summary": "Occident - Bring hash logic to bot instead of middlwere",
-      "status": "Ready for review",
+      "status": "Ready to Deliver",
       "status_category": "In Progress",
       "assignee": "Pep Alonso",
       "issuetype": "Task",
       "created": "2026-03-26",
-      "updated": "2026-03-26",
+      "updated": "2026-04-20",
       "resolutiondate": "",
       "labels": [
         "occident"
@@ -1675,12 +1894,12 @@
     {
       "key": "PS-5256",
       "summary": "Security Audit: coches/leads/api (0C, 2H)",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Closed",
+      "status_category": "Done",
       "assignee": null,
       "issuetype": "Task",
       "created": "2026-03-24",
-      "updated": "2026-03-26",
+      "updated": "2026-04-20",
       "resolutiondate": "",
       "labels": [
         "Internal"
@@ -2201,12 +2420,12 @@
     {
       "key": "PS-5217",
       "summary": "Ralph Lauren - Store Conversation info fields in Tinybird",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Closed",
+      "status_category": "Done",
       "assignee": "Marta Marron",
       "issuetype": "Task",
       "created": "2026-03-18",
-      "updated": "2026-03-23",
+      "updated": "2026-04-20",
       "resolutiondate": "",
       "labels": [
         "Ralph_Lauren"
@@ -2479,12 +2698,12 @@
     {
       "key": "PS-5197",
       "summary": "Retorna - Image processing",
-      "status": "Open",
+      "status": "To Do",
       "status_category": "To Do",
-      "assignee": null,
+      "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Discovery Task",
       "created": "2026-03-16",
-      "updated": "2026-03-17",
+      "updated": "2026-04-20",
       "resolutiondate": "",
       "labels": [
         "Retorna"
@@ -2589,12 +2808,12 @@
     {
       "key": "PS-5187",
       "summary": "Verisure IT - When we receive the templates and capture the extra params, insert them in the existing \"conversation info fields\"",
-      "status": "Ready to Deliver",
-      "status_category": "In Progress",
+      "status": "APPROVED FOR PRODUCTION",
+      "status_category": "Done",
       "assignee": "Evgeni Slavyanov",
       "issuetype": "Task",
       "created": "2026-03-12",
-      "updated": "2026-03-17",
+      "updated": "2026-04-20",
       "resolutiondate": "",
       "labels": [
         "Verisure_IT"
@@ -2659,12 +2878,12 @@
     {
       "key": "PS-5182",
       "summary": "Multiasistencia - Automatización de la validación de pólizas y registro de siniestros (Bot Santander)",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "In Progress",
+      "status_category": "In Progress",
       "assignee": "Evgeni Slavyanov",
       "issuetype": "Epic",
       "created": "2026-03-11",
-      "updated": "2026-04-14",
+      "updated": "2026-04-20",
       "resolutiondate": "",
       "labels": [
         "Multiasistencia"
@@ -2799,12 +3018,12 @@
     {
       "key": "PS-5172",
       "summary": "Air Europa - Add logged/not logged to contact info fields",
-      "status": "To Do",
+      "status": "Open",
       "status_category": "To Do",
       "assignee": null,
       "issuetype": "Task",
       "created": "2026-03-11",
-      "updated": "2026-04-13",
+      "updated": "2026-04-20",
       "resolutiondate": "",
       "labels": [
         "AirEuropa"
@@ -2914,7 +3133,7 @@
       "assignee": "Adrià Sastre",
       "issuetype": "Task",
       "created": "2026-03-09",
-      "updated": "2026-03-09",
+      "updated": "2026-04-21",
       "resolutiondate": "",
       "labels": [
         "all_clients"
@@ -3103,12 +3322,12 @@
     {
       "key": "PS-5149",
       "summary": "Securitas Direct Lead Gen - Migrate code to Hubtype repository (currently they own the code)",
-      "status": "Ready for review",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Adrià Sastre",
       "issuetype": "Task",
       "created": "2026-03-05",
-      "updated": "2026-04-15",
+      "updated": "2026-04-21",
       "resolutiondate": "",
       "labels": [
         "Securitas-leadgen"
@@ -4567,7 +4786,7 @@
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-02-16",
-      "updated": "2026-04-16",
+      "updated": "2026-04-20",
       "resolutiondate": "",
       "labels": [
         "Multiasistencia"
@@ -4576,12 +4795,12 @@
     {
       "key": "PS-5035",
       "summary": "Multiasistencia - Update botonic version - MULTI_MUTUA_TIN_STAGING - e7d99b0c-c542-4b8d-abb0-badecc92fa6d",
-      "status": "Ready for review",
+      "status": "In Progress",
       "status_category": "In Progress",
       "assignee": "Evgeni Slavyanov",
       "issuetype": "Task",
       "created": "2026-02-16",
-      "updated": "2026-04-07",
+      "updated": "2026-04-20",
       "resolutiondate": "",
       "labels": [
         "Multiasistencia"
@@ -4604,12 +4823,12 @@
     {
       "key": "PS-5033",
       "summary": "Multiasistencia - Update botonic version - MULTI_MUTUA_MAD_STAGING - 9653eb5f-a132-489d-a797-203afecf7f94",
-      "status": "Ready for review",
+      "status": "In Progress",
       "status_category": "In Progress",
       "assignee": "Evgeni Slavyanov",
       "issuetype": "Task",
       "created": "2026-02-16",
-      "updated": "2026-03-09",
+      "updated": "2026-04-20",
       "resolutiondate": "",
       "labels": [
         "Multiasistencia"
@@ -4665,7 +4884,7 @@
       "assignee": "Evgeni Slavyanov",
       "issuetype": "Task",
       "created": "2026-02-16",
-      "updated": "2026-02-27",
+      "updated": "2026-04-20",
       "resolutiondate": "",
       "labels": [
         "Multiasistencia"
@@ -4786,8 +5005,8 @@
     {
       "key": "PS-5019",
       "summary": "Verisure IT - Implement Hubtype Webhook Endpoint to Receive Opportunity ID & Contact Profile",
-      "status": "Ready for review",
-      "status_category": "In Progress",
+      "status": "APPROVED FOR PRODUCTION",
+      "status_category": "Done",
       "assignee": "Evgeni Slavyanov",
       "issuetype": "Task",
       "created": "2026-02-13",
@@ -5405,7 +5624,7 @@
       "assignee": "Alexander Skalatskiy",
       "issuetype": "Task",
       "created": "2026-02-05",
-      "updated": "2026-02-05",
+      "updated": "2026-04-21",
       "resolutiondate": "",
       "labels": [
         "Retorna"
@@ -6981,12 +7200,12 @@
     {
       "key": "PS-4842",
       "summary": "Allianz OSN - Canal WhatsApp Ex-pats",
-      "status": "Ready to Deliver",
-      "status_category": "In Progress",
+      "status": "Closed",
+      "status_category": "Done",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-01-16",
-      "updated": "2026-02-16",
+      "updated": "2026-04-20",
       "resolutiondate": "",
       "labels": [
         "Allianz-ES"
@@ -7899,12 +8118,12 @@
     {
       "key": "PS-4768",
       "summary": "Air Europa - Activate WhatsApp in production",
-      "status": "APPROVED FOR PRODUCTION",
+      "status": "Done",
       "status_category": "Done",
       "assignee": "Aitor Casas",
       "issuetype": "Task",
       "created": "2025-12-22",
-      "updated": "2026-03-02",
+      "updated": "2026-04-20",
       "resolutiondate": "",
       "labels": [
         "AirEuropa"
@@ -32216,12 +32435,12 @@
     {
       "key": "PS-2788",
       "summary": "Easyjet - Auto Transcripts",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Closed",
+      "status_category": "Done",
       "assignee": "Adrià Sastre",
       "issuetype": "Task",
       "created": "2024-10-12",
-      "updated": "2026-03-24",
+      "updated": "2026-04-21",
       "resolutiondate": "",
       "labels": [
         "easyjet"
