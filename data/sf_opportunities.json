@@ -1,6 +1,23 @@
 {
-  "last_updated": "2026-04-20 09:18 UTC",
+  "last_updated": "2026-04-21 09:02 UTC",
   "opportunities": [
+    {
+      "id": "006Sa00000egHwgIAE",
+      "name": "2027-R-Libeen-Spain",
+      "type": "Renewal",
+      "stage": "Opportunity identified",
+      "is_closed": false,
+      "is_won": false,
+      "probability": 10.0,
+      "amount": 11300.04,
+      "arr": 10100.04,
+      "owner": "Marta Marron",
+      "cs_lead": "",
+      "account": "Libeen",
+      "created": "2026-04-21",
+      "close_date": "2027-03-10",
+      "start_date": "2027-04-10"
+    },
     {
       "id": "006Sa00000eF8G0IAK",
       "name": "2026-U-EasyJet-PolyGlot 22 additional licenses",
@@ -64,7 +81,7 @@
       "arr": 0.0,
       "owner": "Marta Marron",
       "cs_lead": "",
-      "account": "Securitas Direct by Verisure",
+      "account": "Verisure Spain Lead Gen",
       "created": "2026-04-01",
       "close_date": "2026-04-01",
       "start_date": "2026-04-01"
@@ -236,7 +253,7 @@
       "cs_lead": "María Sánchez",
       "account": "Michael Kors Group",
       "created": "2026-03-11",
-      "close_date": "2026-04-16",
+      "close_date": "2026-04-30",
       "start_date": "2026-04-16"
     },
     {
@@ -270,7 +287,7 @@
       "cs_lead": "María Sánchez",
       "account": "RACC",
       "created": "2026-03-03",
-      "close_date": "2026-03-31",
+      "close_date": "2026-04-30",
       "start_date": "2026-03-15"
     },
     {
@@ -387,7 +404,7 @@
       "arr": 0.0,
       "owner": "Marta Marron",
       "cs_lead": "Marta Marron",
-      "account": "Securitas Direct by Verisure",
+      "account": "Verisure Spain Lead Gen",
       "created": "2026-02-28",
       "close_date": "2026-03-02",
       "start_date": "2026-03-02"
@@ -574,7 +591,7 @@
       "arr": 0.0,
       "owner": "Marta Marron",
       "cs_lead": "Marta Marron",
-      "account": "Securitas Direct by Verisure",
+      "account": "Verisure Spain Lead Gen",
       "created": "2026-02-02",
       "close_date": "2026-02-10",
       "start_date": "2026-02-02"
@@ -710,7 +727,7 @@
       "arr": 24122.04,
       "owner": "Marta Marron",
       "cs_lead": "Marta Marron",
-      "account": "Securitas Direct by Verisure",
+      "account": "Verisure Spain Lead Gen",
       "created": "2026-01-22",
       "close_date": "2025-10-22",
       "start_date": "2026-03-01"
@@ -1305,7 +1322,7 @@
       "arr": 0.0,
       "owner": "Marta Marron",
       "cs_lead": "Marta Marron",
-      "account": "Securitas Direct by Verisure",
+      "account": "Verisure Spain Lead Gen",
       "created": "2025-11-04",
       "close_date": "2026-01-12",
       "start_date": "2026-01-12"
@@ -1322,7 +1339,7 @@
       "arr": 0.0,
       "owner": "Marta Marron",
       "cs_lead": "Marta Marron",
-      "account": "Securitas Direct by Verisure",
+      "account": "Verisure Spain Lead Gen",
       "created": "2025-11-04",
       "close_date": "2025-12-04",
       "start_date": "2025-12-04"
@@ -1339,7 +1356,7 @@
       "arr": 3570.0,
       "owner": "Marta Marron",
       "cs_lead": "Marta Marron",
-      "account": "Securitas Direct by Verisure",
+      "account": "Verisure Spain Lead Gen",
       "created": "2025-10-28",
       "close_date": "2025-12-15",
       "start_date": "2026-01-01"
@@ -1390,7 +1407,7 @@
       "arr": 0.0,
       "owner": "Marta Marron",
       "cs_lead": "Marta Marron",
-      "account": "Securitas Direct by Verisure",
+      "account": "Verisure Spain Lead Gen",
       "created": "2025-10-23",
       "close_date": "2025-11-04",
       "start_date": "2025-01-08"
@@ -1399,18 +1416,18 @@
       "id": "006Sa00000TWijZIAT",
       "name": "2026-U-Occident-Spain: Proyecto Agencias Roll Up",
       "type": "Upsell",
-      "stage": "Opportunity identified",
-      "is_closed": false,
-      "is_won": false,
-      "probability": 10.0,
-      "amount": 15000.0,
+      "stage": "Closed Won",
+      "is_closed": true,
+      "is_won": true,
+      "probability": 100.0,
+      "amount": 30000.0,
       "arr": 30000.0,
       "owner": "Marta Marron",
       "cs_lead": "Julieta Mezza",
       "account": "Occident",
       "created": "2025-10-23",
-      "close_date": "2026-04-15",
-      "start_date": "2026-05-18"
+      "close_date": "2026-04-20",
+      "start_date": "2026-04-18"
     },
     {
       "id": "006Sa00000TT9VRIA1",
@@ -1424,7 +1441,7 @@
       "arr": 203481.72,
       "owner": "Marta Marron",
       "cs_lead": "Marta Marron",
-      "account": "Securitas Direct by Verisure",
+      "account": "Verisure Spain Lead Gen",
       "created": "2025-10-22",
       "close_date": "2026-10-22",
       "start_date": "2027-01-01"
@@ -3447,7 +3464,7 @@
       "arr": 0.0,
       "owner": "Marta Marron",
       "cs_lead": "Marta Marron",
-      "account": "Securitas Direct by Verisure",
+      "account": "Verisure Spain Lead Gen",
       "created": "2025-01-28",
       "close_date": "2025-02-03",
       "start_date": "2025-01-29"
@@ -3668,7 +3685,7 @@
       "arr": 0.0,
       "owner": "Marta Marron",
       "cs_lead": "Marta Marron",
-      "account": "Securitas Direct by Verisure",
+      "account": "Verisure Spain Lead Gen",
       "created": "2024-12-23",
       "close_date": "2025-01-08",
       "start_date": "2025-01-08"
@@ -3889,7 +3906,7 @@
       "arr": 202971.72,
       "owner": "Marc Caballé",
       "cs_lead": "Marta Marron",
-      "account": "Securitas Direct by Verisure",
+      "account": "Verisure Spain Lead Gen",
       "created": "2024-11-14",
       "close_date": "2025-10-22",
       "start_date": "2026-01-01"
@@ -4093,7 +4110,7 @@
       "arr": 183731.76,
       "owner": "Marta Marron",
       "cs_lead": "Marta Marron",
-      "account": "Securitas Direct by Verisure",
+      "account": "Verisure Spain Lead Gen",
       "created": "2024-11-13",
       "close_date": "2024-11-14",
       "start_date": "2025-01-01"
@@ -4909,7 +4926,7 @@
       "arr": 15508.8,
       "owner": "Pau Sancho",
       "cs_lead": "Pau Sancho",
-      "account": "Securitas Direct by Verisure",
+      "account": "Verisure Spain Lead Gen",
       "created": "2024-04-25",
       "close_date": "2024-05-06",
       "start_date": "2024-05-01"
@@ -4943,7 +4960,7 @@
       "arr": 3000.0,
       "owner": "Marta Marron",
       "cs_lead": "Pau Sancho",
-      "account": "Securitas Direct by Verisure",
+      "account": "Verisure Spain Lead Gen",
       "created": "2024-04-10",
       "close_date": "2024-04-18",
       "start_date": "2024-05-01"
@@ -5147,7 +5164,7 @@
       "arr": 40339.2,
       "owner": "Pau Sancho",
       "cs_lead": "Pau Sancho",
-      "account": "Securitas Direct by Verisure",
+      "account": "Verisure Spain Lead Gen",
       "created": "2024-02-28",
       "close_date": "2024-03-20",
       "start_date": "2024-03-01"
@@ -5640,7 +5657,7 @@
       "arr": 121777.44,
       "owner": "Marc Caballé",
       "cs_lead": "Antonio García",
-      "account": "Securitas Direct by Verisure",
+      "account": "Verisure Spain Lead Gen",
       "created": "2024-02-06",
       "close_date": "2024-02-14",
       "start_date": "2024-01-01"
@@ -5827,7 +5844,7 @@
       "arr": 0.0,
       "owner": "Rodrigo Portillo",
       "cs_lead": "Pau Sancho",
-      "account": "Securitas Direct by Verisure",
+      "account": "Verisure Spain Lead Gen",
       "created": "2024-01-10",
       "close_date": "2024-01-10",
       "start_date": "2024-01-10"
@@ -5946,7 +5963,7 @@
       "arr": 142270.0,
       "owner": "Pau Sancho",
       "cs_lead": "Pau Sancho",
-      "account": "Securitas Direct by Verisure",
+      "account": "Verisure Spain Lead Gen",
       "created": "2024-01-03",
       "close_date": "2024-03-14",
       "start_date": "2023-12-14"
@@ -6048,7 +6065,7 @@
       "arr": 0.0,
       "owner": "Pau Sancho",
       "cs_lead": "Pau Sancho",
-      "account": "Securitas Direct by Verisure",
+      "account": "Verisure Spain Lead Gen",
       "created": "2023-12-14",
       "close_date": "2023-12-14",
       "start_date": "2022-09-01"
@@ -6184,7 +6201,7 @@
       "arr": 12000.0,
       "owner": "Pau Sancho",
       "cs_lead": "Pau Sancho",
-      "account": "Securitas Direct by Verisure",
+      "account": "Verisure Spain Lead Gen",
       "created": "2023-11-06",
       "close_date": "2023-11-08",
       "start_date": "2023-11-15"
@@ -6201,7 +6218,7 @@
       "arr": 34614.0,
       "owner": "Rodrigo Portillo",
       "cs_lead": "Rodrigo Portillo",
-      "account": "Securitas Direct by Verisure",
+      "account": "Verisure Spain Lead Gen",
       "created": "2023-11-03",
       "close_date": "2023-11-03",
       "start_date": "2023-06-01"
@@ -6218,7 +6235,7 @@
       "arr": 0.0,
       "owner": "Rodrigo Portillo",
       "cs_lead": "Rodrigo Portillo",
-      "account": "Securitas Direct by Verisure",
+      "account": "Verisure Spain Lead Gen",
       "created": "2023-10-27",
       "close_date": "2023-10-27",
       "start_date": "2023-12-14"
@@ -6558,7 +6575,7 @@
       "arr": 0.0,
       "owner": "Pau Sancho",
       "cs_lead": "Pau Sancho",
-      "account": "Securitas Direct by Verisure",
+      "account": "Verisure Spain Lead Gen",
       "created": "2023-09-05",
       "close_date": "2023-09-14",
       "start_date": "2022-08-01"
@@ -6694,7 +6711,7 @@
       "arr": 0.0,
       "owner": "Rodrigo Portillo",
       "cs_lead": "Rodrigo Portillo",
-      "account": "Securitas Direct by Verisure",
+      "account": "Verisure Spain Lead Gen",
       "created": "2023-07-27",
       "close_date": "2023-07-27",
       "start_date": "2023-06-01"
@@ -6745,7 +6762,7 @@
       "arr": 50004.0,
       "owner": "Rodrigo Portillo",
       "cs_lead": "Rodrigo Portillo",
-      "account": "Securitas Direct by Verisure",
+      "account": "Verisure Spain Lead Gen",
       "created": "2023-07-25",
       "close_date": "2023-09-01",
       "start_date": "2023-08-14"
@@ -6864,7 +6881,7 @@
       "arr": 26400.0,
       "owner": "Rodrigo Portillo",
       "cs_lead": "Rodrigo Portillo",
-      "account": "Securitas Direct by Verisure",
+      "account": "Verisure Spain Lead Gen",
       "created": "2023-06-28",
       "close_date": "2023-07-06",
       "start_date": "2023-07-01"
@@ -7408,7 +7425,7 @@
       "arr": 6000.0,
       "owner": "Antonio García",
       "cs_lead": "Antonio García",
-      "account": "Securitas Direct by Verisure",
+      "account": "Verisure Spain Lead Gen",
       "created": "2023-02-20",
       "close_date": "2023-03-03",
       "start_date": "2023-02-14"
@@ -7799,7 +7816,7 @@
       "arr": 69039.96,
       "owner": "Antonio García",
       "cs_lead": "Antonio García",
-      "account": "Securitas Direct by Verisure",
+      "account": "Verisure Spain Lead Gen",
       "created": "2022-11-29",
       "close_date": "2022-11-29",
       "start_date": "2023-03-01"
@@ -7833,7 +7850,7 @@
       "arr": 0.0,
       "owner": "Antonio García",
       "cs_lead": "",
-      "account": "Securitas Direct by Verisure",
+      "account": "Verisure Spain Lead Gen",
       "created": "2022-11-17",
       "close_date": "2022-12-21",
       "start_date": ""
@@ -8173,7 +8190,7 @@
       "arr": 10000.68,
       "owner": "Marc Caballé",
       "cs_lead": "Antonio García",
-      "account": "Securitas Direct by Verisure",
+      "account": "Verisure Spain Lead Gen",
       "created": "2022-09-13",
       "close_date": "2022-09-19",
       "start_date": "2022-08-01"
@@ -8241,7 +8258,7 @@
       "arr": 12000.0,
       "owner": "Antonio García",
       "cs_lead": "Antonio García",
-      "account": "Securitas Direct by Verisure",
+      "account": "Verisure Spain Lead Gen",
       "created": "2022-07-28",
       "close_date": "2022-09-19",
       "start_date": "2022-10-15"
@@ -8258,7 +8275,7 @@
       "arr": 0.0,
       "owner": "Marc Caballé",
       "cs_lead": "Sofia Muntaner",
-      "account": "Securitas Direct by Verisure",
+      "account": "Verisure Spain Lead Gen",
       "created": "2022-07-28",
       "close_date": "2022-08-02",
       "start_date": "2022-06-01"
@@ -8496,7 +8513,7 @@
       "arr": 74672.04,
       "owner": "Marc Caballé",
       "cs_lead": "",
-      "account": "Securitas Direct by Verisure",
+      "account": "Verisure Spain Lead Gen",
       "created": "2022-05-13",
       "close_date": "2022-12-20",
       "start_date": "2022-12-14"
@@ -8683,7 +8700,7 @@
       "arr": 0.0,
       "owner": "Marc Caballé",
       "cs_lead": "",
-      "account": "Securitas Direct by Verisure",
+      "account": "Verisure Spain Lead Gen",
       "created": "2022-03-14",
       "close_date": "2022-03-14",
       "start_date": ""
