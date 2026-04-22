@@ -1,6 +1,167 @@
 {
-  "last_updated": "2026-04-21 08:51 UTC",
+  "last_updated": "2026-04-22 08:28 UTC",
   "tickets": [
+    {
+      "key": "PS-5414",
+      "summary": "Ralph Lauren - Prepare for workshop",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Andrea Talal Haidar",
+      "issuetype": "Discovery Task",
+      "created": "2026-04-22",
+      "updated": "2026-04-22",
+      "resolutiondate": "",
+      "labels": []
+    },
+    {
+      "key": "PS-5413",
+      "summary": "Air Europa - Estimate improvements",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Julieta Mezza",
+      "issuetype": "Task",
+      "created": "2026-04-22",
+      "updated": "2026-04-22",
+      "resolutiondate": "",
+      "labels": [
+        "AirEuropa"
+      ]
+    },
+    {
+      "key": "PS-5412",
+      "summary": "Air Europa - Consultar Reserva improvements",
+      "status": "Open",
+      "status_category": "To Do",
+      "assignee": "Julieta Mezza",
+      "issuetype": "Epic",
+      "created": "2026-04-22",
+      "updated": "2026-04-22",
+      "resolutiondate": "",
+      "labels": [
+        "AirEuropa"
+      ]
+    },
+    {
+      "key": "PS-5411",
+      "summary": "Air Europa - Add new parameters to the \"farefamily\" detection",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Alexander Skalatskiy",
+      "issuetype": "Task",
+      "created": "2026-04-22",
+      "updated": "2026-04-22",
+      "resolutiondate": "",
+      "labels": [
+        "AirEuropa"
+      ]
+    },
+    {
+      "key": "PS-5410",
+      "summary": "RACC - Assess the impact of allowing audios in the current bot ",
+      "status": "Ready for review",
+      "status_category": "In Progress",
+      "assignee": "Aitor Casas",
+      "issuetype": "Task",
+      "created": "2026-04-22",
+      "updated": "2026-04-22",
+      "resolutiondate": "",
+      "labels": [
+        "RACC"
+      ]
+    },
+    {
+      "key": "PS-5409",
+      "summary": "Libeen - AI service blueprint + first prompt version",
+      "status": "In Progress",
+      "status_category": "In Progress",
+      "assignee": "Andrea Talal Haidar",
+      "issuetype": "Discovery Task",
+      "created": "2026-04-22",
+      "updated": "2026-04-22",
+      "resolutiondate": "",
+      "labels": []
+    },
+    {
+      "key": "PS-5408",
+      "summary": "Internal - Migrate the Bot Template to Botonic V2",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Pep Alonso",
+      "issuetype": "Task",
+      "created": "2026-04-21",
+      "updated": "2026-04-21",
+      "resolutiondate": "",
+      "labels": []
+    },
+    {
+      "key": "PS-5407",
+      "summary": "Allianz Es - Review why the data from the webviews duplicado de póliza y siniestros is not being sent",
+      "status": "In Progress",
+      "status_category": "In Progress",
+      "assignee": "Pep Alonso",
+      "issuetype": "Task",
+      "created": "2026-04-21",
+      "updated": "2026-04-22",
+      "resolutiondate": "",
+      "labels": [
+        "Allianz-ES",
+        "webviews"
+      ]
+    },
+    {
+      "key": "PS-5406",
+      "summary": "Jetsmart - Fix SSR price discrepancy by making prices API-driven",
+      "status": "In Progress",
+      "status_category": "In Progress",
+      "assignee": "Pep Alonso",
+      "issuetype": "Task",
+      "created": "2026-04-21",
+      "updated": "2026-04-22",
+      "resolutiondate": "",
+      "labels": [
+        "JetSmart"
+      ]
+    },
+    {
+      "key": "PS-5405",
+      "summary": "Assegur - Add Campaign information in the agent's notes",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Julieta Mezza",
+      "issuetype": "Task",
+      "created": "2026-04-21",
+      "updated": "2026-04-21",
+      "resolutiondate": "",
+      "labels": [
+        "Assegur"
+      ]
+    },
+    {
+      "key": "PS-5402",
+      "summary": "Assegur - New Campaign \"solicitud de datos\"",
+      "status": "Open",
+      "status_category": "To Do",
+      "assignee": "Julieta Mezza",
+      "issuetype": "Epic",
+      "created": "2026-04-21",
+      "updated": "2026-04-21",
+      "resolutiondate": "",
+      "labels": []
+    },
+    {
+      "key": "PS-5401",
+      "summary": "Ralph Lauren - WhatsApp Production Number - Modify the description of the number",
+      "status": "Done",
+      "status_category": "Done",
+      "assignee": "Aitor Casas",
+      "issuetype": "Task",
+      "created": "2026-04-21",
+      "updated": "2026-04-21",
+      "resolutiondate": "",
+      "labels": [
+        "Ralph_Lauren"
+      ]
+    },
     {
       "key": "PS-5400",
       "summary": "Rag & Bone - Create R&B Project + Contact Reasons",
@@ -72,7 +233,7 @@
     {
       "key": "PS-5395",
       "summary": "Polarier - Handle image input (AI Agent workaround)",
-      "status": "In Progress",
+      "status": "Ready to Deliver",
       "status_category": "In Progress",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
@@ -86,12 +247,12 @@
     {
       "key": "PS-5394",
       "summary": "Polarier - Issue tracker",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "In Progress",
+      "status_category": "In Progress",
       "assignee": "irene callejas",
       "issuetype": "Task",
       "created": "2026-04-20",
-      "updated": "2026-04-20",
+      "updated": "2026-04-22",
       "resolutiondate": "",
       "labels": [
         "Polarier"
@@ -112,12 +273,12 @@
     {
       "key": "PS-5392",
       "summary": "SegurCaixa - Contact subject showing as \"undefined\" in incoming emails",
-      "status": "In Progress",
+      "status": "Ready for review",
       "status_category": "In Progress",
       "assignee": "Adrià Sastre",
       "issuetype": "Bug",
       "created": "2026-04-20",
-      "updated": "2026-04-20",
+      "updated": "2026-04-21",
       "resolutiondate": "",
       "labels": [
         "SegurCaixa",
@@ -141,12 +302,12 @@
     {
       "key": "PS-5390",
       "summary": "Ralph Lauren - search categories for kids",
-      "status": "Ready for review",
-      "status_category": "In Progress",
+      "status": "In production",
+      "status_category": "Done",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-04-20",
-      "updated": "2026-04-20",
+      "updated": "2026-04-21",
       "resolutiondate": "",
       "labels": [
         "Ralph_Lauren"
@@ -155,12 +316,12 @@
     {
       "key": "PS-5389",
       "summary": "Ralph Lauren -  (prompt) Review Kids categorization",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Closed",
+      "status_category": "Done",
       "assignee": "irene callejas",
       "issuetype": "Task",
       "created": "2026-04-20",
-      "updated": "2026-04-20",
+      "updated": "2026-04-22",
       "resolutiondate": "",
       "labels": [
         "Ralph_Lauren"
@@ -183,12 +344,12 @@
     {
       "key": "PS-5387",
       "summary": "Tendam - Dashaandstars AI Agent battle test",
-      "status": "In Progress",
-      "status_category": "In Progress",
+      "status": "Closed",
+      "status_category": "Done",
       "assignee": "irene callejas",
       "issuetype": "Task",
       "created": "2026-04-20",
-      "updated": "2026-04-20",
+      "updated": "2026-04-22",
       "resolutiondate": "",
       "labels": [
         "Tendam"
@@ -249,12 +410,12 @@
     {
       "key": "PS-5381",
       "summary": "Assegur - New Campaign - Update personal data",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "In Progress",
+      "status_category": "In Progress",
       "assignee": "Julieta Mezza",
       "issuetype": "Task",
       "created": "2026-04-18",
-      "updated": "2026-04-18",
+      "updated": "2026-04-21",
       "resolutiondate": "",
       "labels": [
         "Assegur"
@@ -322,7 +483,7 @@
       "assignee": "Adrià Sastre",
       "issuetype": "Task",
       "created": "2026-04-15",
-      "updated": "2026-04-20",
+      "updated": "2026-04-21",
       "resolutiondate": "",
       "labels": [
         "TMB"
@@ -411,8 +572,8 @@
     {
       "key": "PS-5368",
       "summary": "Occident - Conversation info download ",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Aitor Casas",
       "issuetype": "Task",
       "created": "2026-04-15",
@@ -425,12 +586,12 @@
     {
       "key": "PS-5367",
       "summary": "Multiasistencia - Santander - Update the Claim webview with the integration with the Middleware",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "In Progress",
+      "status_category": "In Progress",
       "assignee": null,
       "issuetype": "Task",
       "created": "2026-04-14",
-      "updated": "2026-04-14",
+      "updated": "2026-04-21",
       "resolutiondate": "",
       "labels": [
         "Multiasistencia"
@@ -439,12 +600,12 @@
     {
       "key": "PS-5366",
       "summary": "Multiasistencia - Create Middleware to integrate with their API",
-      "status": "In Progress",
+      "status": "Ready for review",
       "status_category": "In Progress",
       "assignee": "Evgeni Slavyanov",
       "issuetype": "Task",
       "created": "2026-04-14",
-      "updated": "2026-04-20",
+      "updated": "2026-04-21",
       "resolutiondate": "",
       "labels": [
         "Multiasistencia"
@@ -486,7 +647,7 @@
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-04-14",
-      "updated": "2026-04-16",
+      "updated": "2026-04-22",
       "resolutiondate": "",
       "labels": [
         "Allianz-OSN",
@@ -536,12 +697,12 @@
     {
       "key": "PS-5359",
       "summary": "CCMA - Update bot version so that we can include Audio transcription feature",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "In Progress",
+      "status_category": "In Progress",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-04-13",
-      "updated": "2026-04-21",
+      "updated": "2026-04-22",
       "resolutiondate": "",
       "labels": [
         "ccma"
@@ -732,12 +893,12 @@
     {
       "key": "PS-5344",
       "summary": "RACC - Update botonic version so that Audio Transcript can be implemented",
-      "status": "Ready for review",
-      "status_category": "In Progress",
+      "status": "In production",
+      "status_category": "Done",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-04-13",
-      "updated": "2026-04-21",
+      "updated": "2026-04-22",
       "resolutiondate": "",
       "labels": [
         "RACC"
@@ -856,12 +1017,12 @@
     {
       "key": "PS-5333",
       "summary": "Libeen - Hubspot integration",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "In Progress",
+      "status_category": "In Progress",
       "assignee": "Alexander Skalatskiy",
       "issuetype": "Task",
       "created": "2026-04-10",
-      "updated": "2026-04-20",
+      "updated": "2026-04-21",
       "resolutiondate": "",
       "labels": [
         "Libeen"
@@ -982,12 +1143,12 @@
     {
       "key": "PS-5324",
       "summary": "Polarier - Keep testing and refining Prompt / UX ",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "In Progress",
+      "status_category": "In Progress",
       "assignee": "Andrea Talal Haidar",
       "issuetype": "Discovery Task",
       "created": "2026-04-10",
-      "updated": "2026-04-10",
+      "updated": "2026-04-22",
       "resolutiondate": "",
       "labels": [
         "Polarier"
@@ -1080,12 +1241,12 @@
     {
       "key": "PS-5317",
       "summary": "SOLEDAD - AI SERVICE BLUEPRINT",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "In Progress",
+      "status_category": "In Progress",
       "assignee": "Andrea Talal Haidar",
       "issuetype": "Discovery Task",
       "created": "2026-04-09",
-      "updated": "2026-04-09",
+      "updated": "2026-04-22",
       "resolutiondate": "",
       "labels": [
         "Soledad"
@@ -1237,7 +1398,7 @@
       "assignee": "Vicky Correbo",
       "issuetype": "Task",
       "created": "2026-04-08",
-      "updated": "2026-04-20",
+      "updated": "2026-04-21",
       "resolutiondate": "",
       "labels": [
         "Allianz-ES"
@@ -1524,12 +1685,12 @@
     {
       "key": "PS-5284",
       "summary": "Ralph Lauren - Issue tracker",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "In Progress",
+      "status_category": "In Progress",
       "assignee": "irene callejas",
       "issuetype": "Task",
       "created": "2026-04-01",
-      "updated": "2026-04-15",
+      "updated": "2026-04-22",
       "resolutiondate": "",
       "labels": [
         "Ralph_Lauren"
@@ -2698,12 +2859,12 @@
     {
       "key": "PS-5197",
       "summary": "Retorna - Image processing",
-      "status": "To Do",
+      "status": "Open",
       "status_category": "To Do",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Discovery Task",
       "created": "2026-03-16",
-      "updated": "2026-04-20",
+      "updated": "2026-04-21",
       "resolutiondate": "",
       "labels": [
         "Retorna"
@@ -2883,7 +3044,7 @@
       "assignee": "Evgeni Slavyanov",
       "issuetype": "Epic",
       "created": "2026-03-11",
-      "updated": "2026-04-20",
+      "updated": "2026-04-21",
       "resolutiondate": "",
       "labels": [
         "Multiasistencia"
@@ -3128,8 +3289,8 @@
     {
       "key": "PS-5164",
       "summary": "All clients - Review which bots would be affected by the same security issue reported by JetSMART (in webviews)",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Closed",
+      "status_category": "Done",
       "assignee": "Adrià Sastre",
       "issuetype": "Task",
       "created": "2026-03-09",
@@ -3226,12 +3387,12 @@
     {
       "key": "PS-5158",
       "summary": "Ralph Lauren - Weekly Executions March - April",
-      "status": "Ready for review",
-      "status_category": "In Progress",
+      "status": "To Do",
+      "status_category": "To Do",
       "assignee": "irene callejas",
       "issuetype": "Task",
       "created": "2026-03-06",
-      "updated": "2026-04-10",
+      "updated": "2026-04-22",
       "resolutiondate": "",
       "labels": [
         "Ralph_Lauren"
@@ -4884,7 +5045,7 @@
       "assignee": "Evgeni Slavyanov",
       "issuetype": "Task",
       "created": "2026-02-16",
-      "updated": "2026-04-20",
+      "updated": "2026-04-22",
       "resolutiondate": "",
       "labels": [
         "Multiasistencia"
@@ -5397,12 +5558,12 @@
     {
       "key": "PS-4990",
       "summary": "CCMA - Tot es mou - Revisar experiencia de usuario",
-      "status": "In Progress",
+      "status": "Ready for review",
       "status_category": "In Progress",
       "assignee": "Aitor Casas",
       "issuetype": "Task",
       "created": "2026-02-09",
-      "updated": "2026-03-02",
+      "updated": "2026-04-22",
       "resolutiondate": "",
       "labels": [
         "ccma"
