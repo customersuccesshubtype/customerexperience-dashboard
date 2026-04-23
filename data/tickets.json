@@ -1,6 +1,260 @@
 {
-  "last_updated": "2026-04-22 08:28 UTC",
+  "last_updated": "2026-04-23 08:51 UTC",
   "tickets": [
+    {
+      "key": "PS-5433",
+      "summary": "Air Europa - diferenciar iOS de Android para incluir el formato correcto del link de Brevo en Android ",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": null,
+      "issuetype": "Task",
+      "created": "2026-04-23",
+      "updated": "2026-04-23",
+      "resolutiondate": "",
+      "labels": [
+        "AirEuropa"
+      ]
+    },
+    {
+      "key": "PS-5432",
+      "summary": "Air Europa - Text and redirection changes",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": null,
+      "issuetype": "Task",
+      "created": "2026-04-23",
+      "updated": "2026-04-23",
+      "resolutiondate": "",
+      "labels": [
+        "AirEuropa"
+      ]
+    },
+    {
+      "key": "PS-5431",
+      "summary": "Air Europa - Logic changes",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": null,
+      "issuetype": "Task",
+      "created": "2026-04-23",
+      "updated": "2026-04-23",
+      "resolutiondate": "",
+      "labels": [
+        "AirEuropa"
+      ]
+    },
+    {
+      "key": "PS-5430",
+      "summary": "Air Europa - Apply design changes",
+      "status": "Open",
+      "status_category": "To Do",
+      "assignee": null,
+      "issuetype": "Task",
+      "created": "2026-04-23",
+      "updated": "2026-04-23",
+      "resolutiondate": "",
+      "labels": []
+    },
+    {
+      "key": "PS-5429",
+      "summary": "Air Europa - Flow translation to Catalan",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Julieta Mezza",
+      "issuetype": "Task",
+      "created": "2026-04-23",
+      "updated": "2026-04-23",
+      "resolutiondate": "",
+      "labels": [
+        "AirEuropa"
+      ]
+    },
+    {
+      "key": "PS-5428",
+      "summary": "Air Europa - Review why we are translating messages to Spanish before sending them to AVA",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Alexander Skalatskiy",
+      "issuetype": "Bug",
+      "created": "2026-04-23",
+      "updated": "2026-04-23",
+      "resolutiondate": "",
+      "labels": [
+        "AirEuropa"
+      ]
+    },
+    {
+      "key": "PS-5427",
+      "summary": "Michael Kors - Warranty flow data capture validation and language to be sent to Zendesk",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Lorena Sánchez-Toril Nicolás",
+      "issuetype": "Task",
+      "created": "2026-04-23",
+      "updated": "2026-04-23",
+      "resolutiondate": "",
+      "labels": [
+        "Michael-Kors"
+      ]
+    },
+    {
+      "key": "PS-5426",
+      "summary": "Michael Kors - Upgrade bot version to the latest",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": null,
+      "issuetype": "Task",
+      "created": "2026-04-23",
+      "updated": "2026-04-23",
+      "resolutiondate": "",
+      "labels": [
+        "Michael-Kors"
+      ]
+    },
+    {
+      "key": "PS-5425",
+      "summary": "RACC - Specify the response from the Aialma AI Agent",
+      "status": "Ready for review",
+      "status_category": "In Progress",
+      "assignee": "Adrià Sastre",
+      "issuetype": "Task",
+      "created": "2026-04-23",
+      "updated": "2026-04-23",
+      "resolutiondate": "",
+      "labels": []
+    },
+    {
+      "key": "PS-5424",
+      "summary": "RACC - Integrate AI Agent from Aialma",
+      "status": "Open",
+      "status_category": "To Do",
+      "assignee": null,
+      "issuetype": "Epic",
+      "created": "2026-04-23",
+      "updated": "2026-04-23",
+      "resolutiondate": "",
+      "labels": []
+    },
+    {
+      "key": "PS-5423",
+      "summary": "Guess - Implement New \"Order Number\" Field in Salesforce Integration",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Adrià Sastre",
+      "issuetype": "Task",
+      "created": "2026-04-22",
+      "updated": "2026-04-22",
+      "resolutiondate": "",
+      "labels": [
+        "Guess"
+      ]
+    },
+    {
+      "key": "PS-5422",
+      "summary": "Allianz Partners - Revisar que se estén enviando las coordenadas de geolocalización cuando se crea caso",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Adrià Sastre",
+      "issuetype": "Bug",
+      "created": "2026-04-22",
+      "updated": "2026-04-22",
+      "resolutiondate": "",
+      "labels": [
+        "AllianzPartners"
+      ]
+    },
+    {
+      "key": "PS-5421",
+      "summary": "Ralph Lauren - Read transcript ",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Andrea Talal Haidar",
+      "issuetype": "Discovery Task",
+      "created": "2026-04-22",
+      "updated": "2026-04-22",
+      "resolutiondate": "",
+      "labels": []
+    },
+    {
+      "key": "PS-5420",
+      "summary": "Soledad - Track events in webview",
+      "status": "In Progress",
+      "status_category": "In Progress",
+      "assignee": "Lorena Sánchez-Toril Nicolás",
+      "issuetype": "Task",
+      "created": "2026-04-22",
+      "updated": "2026-04-23",
+      "resolutiondate": "",
+      "labels": [
+        "Soledad"
+      ]
+    },
+    {
+      "key": "PS-5419",
+      "summary": "Air Europa - Add tracking to webviews",
+      "status": "In Progress",
+      "status_category": "In Progress",
+      "assignee": "Alexander Skalatskiy",
+      "issuetype": "Task",
+      "created": "2026-04-22",
+      "updated": "2026-04-22",
+      "resolutiondate": "",
+      "labels": []
+    },
+    {
+      "key": "PS-5418",
+      "summary": "Allianz Partners - Guardar la matrícula como Conversation Info Field y enviarlo a Tinybird",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Pep Alonso",
+      "issuetype": "Task",
+      "created": "2026-04-22",
+      "updated": "2026-04-22",
+      "resolutiondate": "",
+      "labels": [
+        "AllianzPartners"
+      ]
+    },
+    {
+      "key": "PS-5417",
+      "summary": "SEM - issue tracker",
+      "status": "In Progress",
+      "status_category": "In Progress",
+      "assignee": "irene callejas",
+      "issuetype": "Task",
+      "created": "2026-04-22",
+      "updated": "2026-04-22",
+      "resolutiondate": "",
+      "labels": [
+        "SEM"
+      ]
+    },
+    {
+      "key": "PS-5416",
+      "summary": "Air Europa - Allow all message types in default routes",
+      "status": "Ready for review",
+      "status_category": "In Progress",
+      "assignee": "Lorena Sánchez-Toril Nicolás",
+      "issuetype": "Task",
+      "created": "2026-04-22",
+      "updated": "2026-04-22",
+      "resolutiondate": "",
+      "labels": []
+    },
+    {
+      "key": "PS-5415",
+      "summary": "Michael Kors - AI Agent prompt review",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "irene callejas",
+      "issuetype": "Task",
+      "created": "2026-04-22",
+      "updated": "2026-04-22",
+      "resolutiondate": "",
+      "labels": [
+        "Michael-Kors"
+      ]
+    },
     {
       "key": "PS-5414",
       "summary": "Ralph Lauren - Prepare for workshop",
@@ -44,8 +298,8 @@
     {
       "key": "PS-5411",
       "summary": "Air Europa - Add new parameters to the \"farefamily\" detection",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Ready for review",
+      "status_category": "In Progress",
       "assignee": "Alexander Skalatskiy",
       "issuetype": "Task",
       "created": "2026-04-22",
@@ -58,8 +312,8 @@
     {
       "key": "PS-5410",
       "summary": "RACC - Assess the impact of allowing audios in the current bot ",
-      "status": "Ready for review",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Aitor Casas",
       "issuetype": "Task",
       "created": "2026-04-22",
@@ -101,7 +355,7 @@
       "assignee": "Pep Alonso",
       "issuetype": "Task",
       "created": "2026-04-21",
-      "updated": "2026-04-22",
+      "updated": "2026-04-23",
       "resolutiondate": "",
       "labels": [
         "Allianz-ES",
@@ -111,7 +365,7 @@
     {
       "key": "PS-5406",
       "summary": "Jetsmart - Fix SSR price discrepancy by making prices API-driven",
-      "status": "In Progress",
+      "status": "Ready for review",
       "status_category": "In Progress",
       "assignee": "Pep Alonso",
       "issuetype": "Task",
@@ -181,10 +435,10 @@
       "summary": "Rag & Bone - Deploy 2 new R&B Bots within the Guess Dashboard (Staging and Production)",
       "status": "To Do",
       "status_category": "To Do",
-      "assignee": "Adrià Sastre",
+      "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-04-21",
-      "updated": "2026-04-21",
+      "updated": "2026-04-22",
       "resolutiondate": "",
       "labels": [
         "Rag&Bone"
@@ -233,12 +487,12 @@
     {
       "key": "PS-5395",
       "summary": "Polarier - Handle image input (AI Agent workaround)",
-      "status": "Ready to Deliver",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-04-20",
-      "updated": "2026-04-21",
+      "updated": "2026-04-23",
       "resolutiondate": "",
       "labels": [
         "Polarier"
@@ -263,10 +517,10 @@
       "summary": "Verisure Spain - List things were the name needs to be modified and change it",
       "status": "In Progress",
       "status_category": "In Progress",
-      "assignee": "Aitor Casas",
+      "assignee": "Adrià Sastre",
       "issuetype": "Task",
       "created": "2026-04-20",
-      "updated": "2026-04-21",
+      "updated": "2026-04-23",
       "resolutiondate": "",
       "labels": []
     },
@@ -457,7 +711,7 @@
       "assignee": "María Sánchez",
       "issuetype": "Task",
       "created": "2026-04-17",
-      "updated": "2026-04-20",
+      "updated": "2026-04-22",
       "resolutiondate": "",
       "labels": [
         "Michael-Kors"
@@ -480,10 +734,10 @@
       "summary": "TMB - Fix accessibility barriers in xatbot (WCAG audit)",
       "status": "To Do",
       "status_category": "To Do",
-      "assignee": "Adrià Sastre",
+      "assignee": "Alexander Skalatskiy",
       "issuetype": "Task",
       "created": "2026-04-15",
-      "updated": "2026-04-21",
+      "updated": "2026-04-22",
       "resolutiondate": "",
       "labels": [
         "TMB"
@@ -492,12 +746,12 @@
     {
       "key": "PS-5374",
       "summary": "Polarier - Modificar App de QR Code generation para que apunte a producción cuando salgan live",
-      "status": "In production",
+      "status": "Done",
       "status_category": "Done",
       "assignee": "Aitor Casas",
       "issuetype": "Task",
       "created": "2026-04-15",
-      "updated": "2026-04-21",
+      "updated": "2026-04-23",
       "resolutiondate": "",
       "labels": [
         "Polarier"
@@ -558,12 +812,12 @@
     {
       "key": "PS-5369",
       "summary": "Polarier - Update order item display to show BACs instead of units",
-      "status": "Ready to Deliver",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-04-15",
-      "updated": "2026-04-20",
+      "updated": "2026-04-23",
       "resolutiondate": "",
       "labels": [
         "Polarier"
@@ -586,12 +840,12 @@
     {
       "key": "PS-5367",
       "summary": "Multiasistencia - Santander - Update the Claim webview with the integration with the Middleware",
-      "status": "In Progress",
+      "status": "Ready for review",
       "status_category": "In Progress",
       "assignee": null,
       "issuetype": "Task",
       "created": "2026-04-14",
-      "updated": "2026-04-21",
+      "updated": "2026-04-22",
       "resolutiondate": "",
       "labels": [
         "Multiasistencia"
@@ -642,7 +896,7 @@
     {
       "key": "PS-5363",
       "summary": "Allianz OSN – Complexity and implementation estimate",
-      "status": "Ready for review",
+      "status": "Ready to Deliver",
       "status_category": "In Progress",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
@@ -697,12 +951,12 @@
     {
       "key": "PS-5359",
       "summary": "CCMA - Update bot version so that we can include Audio transcription feature",
-      "status": "In Progress",
+      "status": "Ready for review",
       "status_category": "In Progress",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-04-13",
-      "updated": "2026-04-22",
+      "updated": "2026-04-23",
       "resolutiondate": "",
       "labels": [
         "ccma"
@@ -1087,12 +1341,12 @@
     {
       "key": "PS-5328",
       "summary": "Polarier - In hotel identification consider whether the name and ID of the hotel is included but do not require exact match to the sentence",
-      "status": "Ready to Deliver",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-04-10",
-      "updated": "2026-04-14",
+      "updated": "2026-04-23",
       "resolutiondate": "",
       "labels": [
         "Polarier"
@@ -1115,12 +1369,12 @@
     {
       "key": "PS-5326",
       "summary": "Soledad - investigate failing extracting images ",
-      "status": "Ready for review",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-04-10",
-      "updated": "2026-04-10",
+      "updated": "2026-04-22",
       "resolutiondate": "",
       "labels": [
         "Soledad"
@@ -1171,12 +1425,12 @@
     {
       "key": "PS-5322",
       "summary": "Soledad - add new parameter to confirmation API",
-      "status": "Ready for review",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-04-10",
-      "updated": "2026-04-14",
+      "updated": "2026-04-22",
       "resolutiondate": "",
       "labels": [
         "Soledad"
@@ -1185,12 +1439,12 @@
     {
       "key": "PS-5321",
       "summary": "Soledad - Implement spinners in webview",
-      "status": "Ready for review",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Sub-task",
       "created": "2026-04-10",
-      "updated": "2026-04-10",
+      "updated": "2026-04-22",
       "resolutiondate": "",
       "labels": [
         "Soledad"
@@ -1241,8 +1495,8 @@
     {
       "key": "PS-5317",
       "summary": "SOLEDAD - AI SERVICE BLUEPRINT",
-      "status": "In Progress",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Andrea Talal Haidar",
       "issuetype": "Discovery Task",
       "created": "2026-04-09",
@@ -1601,12 +1855,12 @@
     {
       "key": "PS-5290",
       "summary": "Soledad - modify last message order confirmation",
-      "status": "Ready for review",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-04-02",
-      "updated": "2026-04-02",
+      "updated": "2026-04-22",
       "resolutiondate": "",
       "labels": [
         "Soledad"
@@ -1629,12 +1883,12 @@
     {
       "key": "PS-5288",
       "summary": "Polarier - En Handoff, validar el último pedido del hotel de la API y leer la Lavandería. Ello determinará la cola a la que hacemos handoff",
-      "status": "Ready to Deliver",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-04-02",
-      "updated": "2026-04-09",
+      "updated": "2026-04-23",
       "resolutiondate": "",
       "labels": [
         "Polarier"
@@ -1643,12 +1897,12 @@
     {
       "key": "PS-5287",
       "summary": "Polarier - Validar que el ID de hotel que reportan con el QR Code exista en la API de Entidades",
-      "status": "Ready for review",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-04-02",
-      "updated": "2026-04-06",
+      "updated": "2026-04-23",
       "resolutiondate": "",
       "labels": [
         "Polarier"
@@ -1889,12 +2143,12 @@
     {
       "key": "PS-5269",
       "summary": "Soledad - implement new design step 2 webview ",
-      "status": "Ready for review",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-03-27",
-      "updated": "2026-03-31",
+      "updated": "2026-04-22",
       "resolutiondate": "",
       "labels": [
         "Soledad"
@@ -1917,12 +2171,12 @@
     {
       "key": "PS-5267",
       "summary": "Soledad - apply improvements",
-      "status": "Ready for review",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-03-26",
-      "updated": "2026-03-27",
+      "updated": "2026-04-22",
       "resolutiondate": "",
       "labels": [
         "Soledad"
@@ -1931,12 +2185,12 @@
     {
       "key": "PS-5266",
       "summary": "Soledad - Implement guardrails",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Francisca Martelli",
       "issuetype": "Task",
       "created": "2026-03-26",
-      "updated": "2026-04-20",
+      "updated": "2026-04-22",
       "resolutiondate": "",
       "labels": [
         "Soledad"
@@ -2649,12 +2903,12 @@
     {
       "key": "PS-5212",
       "summary": "Polarier - Endpoint de información por entidad (hotel)",
-      "status": "Ready for review",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-03-18",
-      "updated": "2026-03-27",
+      "updated": "2026-04-23",
       "resolutiondate": "",
       "labels": [
         "Polarier"
@@ -2733,12 +2987,12 @@
     {
       "key": "PS-5206",
       "summary": "Polarier - Capturar el ID del Hotel y el nombre del Hotel en Contact Info Field y no solicitarlo en segunda interacción",
-      "status": "Ready for review",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-03-18",
-      "updated": "2026-04-01",
+      "updated": "2026-04-23",
       "resolutiondate": "",
       "labels": [
         "Polarier"
@@ -2887,12 +3141,12 @@
     {
       "key": "PS-5194",
       "summary": "CCMA - Que los casos que cuya contact info field Denúncia = Si se les ponga automáticamente la contact reason \"Denúncies/Testimonis\"",
-      "status": "In production",
+      "status": "Done",
       "status_category": "Done",
       "assignee": "Evgeni Slavyanov",
       "issuetype": "Task",
       "created": "2026-03-15",
-      "updated": "2026-04-08",
+      "updated": "2026-04-23",
       "resolutiondate": "",
       "labels": [
         "CCMA"
@@ -2969,12 +3223,12 @@
     {
       "key": "PS-5187",
       "summary": "Verisure IT - When we receive the templates and capture the extra params, insert them in the existing \"conversation info fields\"",
-      "status": "APPROVED FOR PRODUCTION",
+      "status": "In production",
       "status_category": "Done",
       "assignee": "Evgeni Slavyanov",
       "issuetype": "Task",
       "created": "2026-03-12",
-      "updated": "2026-04-20",
+      "updated": "2026-04-23",
       "resolutiondate": "",
       "labels": [
         "Verisure_IT"
@@ -3392,7 +3646,7 @@
       "assignee": "irene callejas",
       "issuetype": "Task",
       "created": "2026-03-06",
-      "updated": "2026-04-22",
+      "updated": "2026-04-23",
       "resolutiondate": "",
       "labels": [
         "Ralph_Lauren"
@@ -3565,12 +3819,12 @@
     {
       "key": "PS-5143",
       "summary": "Soledad -  extract price when promo",
-      "status": "Ready for review",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-03-04",
-      "updated": "2026-04-13",
+      "updated": "2026-04-22",
       "resolutiondate": "",
       "labels": [
         "Soledad"
@@ -5166,12 +5420,12 @@
     {
       "key": "PS-5019",
       "summary": "Verisure IT - Implement Hubtype Webhook Endpoint to Receive Opportunity ID & Contact Profile",
-      "status": "APPROVED FOR PRODUCTION",
+      "status": "In production",
       "status_category": "Done",
       "assignee": "Evgeni Slavyanov",
       "issuetype": "Task",
       "created": "2026-02-13",
-      "updated": "2026-04-20",
+      "updated": "2026-04-23",
       "resolutiondate": "",
       "labels": [
         "Verisure_IT"
@@ -5418,12 +5672,12 @@
     {
       "key": "PS-5000",
       "summary": "Soledad: Pre-confirmation API implementation",
-      "status": "Ready for review",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-02-11",
-      "updated": "2026-03-03",
+      "updated": "2026-04-22",
       "resolutiondate": "",
       "labels": [
         "Soledad"
@@ -5558,12 +5812,12 @@
     {
       "key": "PS-4990",
       "summary": "CCMA - Tot es mou - Revisar experiencia de usuario",
-      "status": "Ready for review",
+      "status": "Ready to Deliver",
       "status_category": "In Progress",
       "assignee": "Aitor Casas",
       "issuetype": "Task",
       "created": "2026-02-09",
-      "updated": "2026-04-22",
+      "updated": "2026-04-23",
       "resolutiondate": "",
       "labels": [
         "ccma"
@@ -6144,12 +6398,12 @@
     {
       "key": "PS-4943",
       "summary": "Occident- WhatsApp Coexistence",
-      "status": "Ready for review",
-      "status_category": "In Progress",
+      "status": "Closed",
+      "status_category": "Done",
       "assignee": "Marta Marron",
       "issuetype": "Task",
       "created": "2026-02-03",
-      "updated": "2026-04-06",
+      "updated": "2026-04-23",
       "resolutiondate": "",
       "labels": [
         "occident"
@@ -7240,7 +7494,7 @@
       "assignee": "Marta Marron",
       "issuetype": "Epic",
       "created": "2026-01-18",
-      "updated": "2026-03-23",
+      "updated": "2026-04-23",
       "resolutiondate": "",
       "labels": [
         "AllianzPartners"
