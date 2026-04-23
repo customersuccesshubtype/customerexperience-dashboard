@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-22 08:57 UTC",
+  "last_updated": "2026-04-23 09:03 UTC",
   "opportunities": [
     {
       "id": "006Sa00000egHwgIAE",
@@ -1745,7 +1745,7 @@
       "probability": 100.0,
       "amount": 1200.0,
       "arr": 4800.0,
-      "owner": "Karol Sygula",
+      "owner": "GTM Ops",
       "cs_lead": "",
       "account": "Multiasistencia",
       "created": "2025-09-24",
@@ -1830,7 +1830,7 @@
       "probability": 100.0,
       "amount": 1272.38,
       "arr": 0.0,
-      "owner": "Karol Sygula",
+      "owner": "GTM Ops",
       "cs_lead": "Marta Marron",
       "account": "Multiasistencia",
       "created": "2025-09-16",
@@ -3513,7 +3513,7 @@
       "probability": 100.0,
       "amount": 174184.92,
       "arr": 174184.92,
-      "owner": "Karol Sygula",
+      "owner": "GTM Ops",
       "cs_lead": "Marta Marron",
       "account": "Multiasistencia",
       "created": "2025-01-23",
@@ -3887,7 +3887,7 @@
       "probability": 100.0,
       "amount": 133875.0,
       "arr": 107100.0,
-      "owner": "Karol Sygula",
+      "owner": "GTM Ops",
       "cs_lead": "María Sánchez",
       "account": "Alsa",
       "created": "2024-11-15",

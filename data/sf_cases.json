@@ -1,6 +1,72 @@
 {
-  "last_updated": "2026-04-22 08:57 UTC",
+  "last_updated": "2026-04-23 09:03 UTC",
   "cases": [
+    {
+      "id": "500Sa00000qMcaCIAS",
+      "case_number": "00024624",
+      "subject": "Hubtype accounts to enable",
+      "status": "Closed",
+      "priority": "Low",
+      "is_closed": true,
+      "is_escalated": false,
+      "owner": "Aitor Casas",
+      "account": "Easyjet PLC",
+      "origin": "Inbound",
+      "type": "Issue",
+      "feeling": "",
+      "issue_type": "Acceso",
+      "channel": "Email",
+      "is_critical": "L4",
+      "escalated_team": "",
+      "resolution_time": "1. <6h",
+      "created": "2026-04-22",
+      "closed": "2026-04-22",
+      "last_modified": "2026-04-22"
+    },
+    {
+      "id": "500Sa00000qLr1vIAC",
+      "case_number": "00024623",
+      "subject": "Deletion request - Identity document images",
+      "status": "Closed",
+      "priority": "Low",
+      "is_closed": true,
+      "is_escalated": false,
+      "owner": "Aitor Casas",
+      "account": "Easyjet PLC",
+      "origin": "Inbound",
+      "type": "Task",
+      "feeling": "",
+      "issue_type": "Informes",
+      "channel": "Email",
+      "is_critical": "L4",
+      "escalated_team": "",
+      "resolution_time": "1. <6h",
+      "created": "2026-04-22",
+      "closed": "2026-04-22",
+      "last_modified": "2026-04-22"
+    },
+    {
+      "id": "500Sa00000qLfqGIAS",
+      "case_number": "00024620",
+      "subject": "Incidencia Hubtype",
+      "status": "Closed",
+      "priority": "Low",
+      "is_closed": true,
+      "is_escalated": false,
+      "owner": "Aitor Casas",
+      "account": "Verisure Spain Lead Gen",
+      "origin": "Inbound",
+      "type": "Issue",
+      "feeling": "",
+      "issue_type": "System failure",
+      "channel": "Email",
+      "is_critical": "L4",
+      "escalated_team": "",
+      "resolution_time": "1. <6h",
+      "created": "2026-04-22",
+      "closed": "2026-04-22",
+      "last_modified": "2026-04-22"
+    },
     {
       "id": "500Sa00000qL4InIAK",
       "case_number": "00024618",
@@ -115,9 +181,9 @@
       "id": "500Sa00000qIEOTIA4",
       "case_number": "00024610",
       "subject": "Datos webviews duplicado de póliza y siniestros",
-      "status": "Closed",
+      "status": "Open",
       "priority": "Low",
-      "is_closed": true,
+      "is_closed": false,
       "is_escalated": false,
       "owner": "Aitor Casas",
       "account": "Allianz Spain",
@@ -128,9 +194,9 @@
       "channel": "Email",
       "is_critical": "L4",
       "escalated_team": "",
-      "resolution_time": "3. 12-24h",
+      "resolution_time": "",
       "created": "2026-04-21",
-      "closed": "2026-04-22",
+      "closed": "",
       "last_modified": "2026-04-22"
     },
     {
@@ -216,10 +282,10 @@
       "channel": "Email",
       "is_critical": "L4",
       "escalated_team": "",
-      "resolution_time": "3. 12-24h",
+      "resolution_time": "5. >36h",
       "created": "2026-04-20",
-      "closed": "2026-04-21",
-      "last_modified": "2026-04-21"
+      "closed": "2026-04-22",
+      "last_modified": "2026-04-22"
     },
     {
       "id": "500Sa00000qCIhiIAG",
@@ -3233,7 +3299,7 @@
       "resolution_time": "1. <6h",
       "created": "2026-03-18",
       "closed": "2026-03-18",
-      "last_modified": "2026-03-18"
+      "last_modified": "2026-04-23"
     },
     {
       "id": "500Sa00000o2nKoIAI",
@@ -3871,7 +3937,7 @@
       "resolution_time": "1. <6h",
       "created": "2026-03-13",
       "closed": "2026-03-13",
-      "last_modified": "2026-03-13"
+      "last_modified": "2026-04-23"
     },
     {
       "id": "500Sa00000nln2lIAA",
@@ -12824,8 +12890,8 @@
       "escalated_team": "",
       "resolution_time": "5. >36h",
       "created": "2025-12-16",
-      "closed": "2026-04-14",
-      "last_modified": "2026-04-14"
+      "closed": "2026-04-22",
+      "last_modified": "2026-04-22"
     },
     {
       "id": "500Sa00000iBVyVIAW",
@@ -64418,28 +64484,6 @@
       "last_modified": "2024-04-04"
     },
     {
-      "id": "500Sa000007Mh5WIAS",
-      "case_number": "00020203",
-      "subject": "Hubtype issue",
-      "status": "Closed",
-      "priority": "Low",
-      "is_closed": true,
-      "is_escalated": false,
-      "owner": "Aitor Casas",
-      "account": "Easyjet PLC",
-      "origin": "Inbound",
-      "type": "Issue",
-      "feeling": "",
-      "issue_type": "WhatsApp",
-      "channel": "Email",
-      "is_critical": "L4",
-      "escalated_team": "",
-      "resolution_time": "2. 6-12h",
-      "created": "2024-04-03",
-      "closed": "2024-04-04",
-      "last_modified": "2024-04-04"
-    },
-    {
       "id": "500Sa000007MULDIA4",
       "case_number": "00020202",
       "subject": "Hubtype issue",
@@ -64460,6 +64504,28 @@
       "created": "2024-04-03",
       "closed": "2024-04-03",
       "last_modified": "2024-04-03"
+    },
+    {
+      "id": "500Sa000007Mh5WIAS",
+      "case_number": "00020203",
+      "subject": "Hubtype issue",
+      "status": "Closed",
+      "priority": "Low",
+      "is_closed": true,
+      "is_escalated": false,
+      "owner": "Aitor Casas",
+      "account": "Easyjet PLC",
+      "origin": "Inbound",
+      "type": "Issue",
+      "feeling": "",
+      "issue_type": "WhatsApp",
+      "channel": "Email",
+      "is_critical": "L4",
+      "escalated_team": "",
+      "resolution_time": "2. 6-12h",
+      "created": "2024-04-03",
+      "closed": "2024-04-04",
+      "last_modified": "2024-04-04"
     },
     {
       "id": "500Sa000007MXKfIAO",
