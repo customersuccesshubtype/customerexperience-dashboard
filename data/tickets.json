@@ -1,6 +1,100 @@
 {
-  "last_updated": "2026-04-23 08:51 UTC",
+  "last_updated": "2026-04-24 08:58 UTC",
   "tickets": [
+    {
+      "key": "PS-5440",
+      "summary": "TO SELF --- MIGRATE TO LITTLELLM",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "irene callejas",
+      "issuetype": "Task",
+      "created": "2026-04-24",
+      "updated": "2026-04-24",
+      "resolutiondate": "",
+      "labels": []
+    },
+    {
+      "key": "PS-5439",
+      "summary": "SegurCaixa Adeslas - Delete SegurCaixa_Staging_Old bot and maybe SegurCaixa_test",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": null,
+      "issuetype": "Task",
+      "created": "2026-04-23",
+      "updated": "2026-04-23",
+      "resolutiondate": "",
+      "labels": [
+        "SegurCaixa"
+      ]
+    },
+    {
+      "key": "PS-5438",
+      "summary": "Verisure IT - Fix detected errors",
+      "status": "In Progress",
+      "status_category": "In Progress",
+      "assignee": "Evgeni Slavyanov",
+      "issuetype": "Task",
+      "created": "2026-04-23",
+      "updated": "2026-04-24",
+      "resolutiondate": "",
+      "labels": [
+        "Verisure_IT"
+      ]
+    },
+    {
+      "key": "PS-5437",
+      "summary": "Assegur - Upgrade Botonic version to enable audio transcription",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": null,
+      "issuetype": "Task",
+      "created": "2026-04-23",
+      "updated": "2026-04-23",
+      "resolutiondate": "",
+      "labels": [
+        "Assegur"
+      ]
+    },
+    {
+      "key": "PS-5436",
+      "summary": "GUESS - Update botonic version so as to enable Audio transcriptions",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": null,
+      "issuetype": "Task",
+      "created": "2026-04-23",
+      "updated": "2026-04-23",
+      "resolutiondate": "",
+      "labels": [
+        "Guess"
+      ]
+    },
+    {
+      "key": "PS-5435",
+      "summary": "Soledad - new updates PR",
+      "status": "Ready for review",
+      "status_category": "In Progress",
+      "assignee": "Lorena Sánchez-Toril Nicolás",
+      "issuetype": "Task",
+      "created": "2026-04-23",
+      "updated": "2026-04-23",
+      "resolutiondate": "",
+      "labels": [
+        "Soledad"
+      ]
+    },
+    {
+      "key": "PS-5434",
+      "summary": "Security Audit: soledad/aws",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": null,
+      "issuetype": "Task",
+      "created": "2026-04-23",
+      "updated": "2026-04-23",
+      "resolutiondate": "",
+      "labels": []
+    },
     {
       "key": "PS-5433",
       "summary": "Air Europa - diferenciar iOS de Android para incluir el formato correcto del link de Brevo en Android ",
@@ -86,12 +180,12 @@
     {
       "key": "PS-5427",
       "summary": "Michael Kors - Warranty flow data capture validation and language to be sent to Zendesk",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "In Progress",
+      "status_category": "In Progress",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-04-23",
-      "updated": "2026-04-23",
+      "updated": "2026-04-24",
       "resolutiondate": "",
       "labels": [
         "Michael-Kors"
@@ -178,12 +272,12 @@
     {
       "key": "PS-5420",
       "summary": "Soledad - Track events in webview",
-      "status": "In Progress",
+      "status": "Ready for review",
       "status_category": "In Progress",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-04-22",
-      "updated": "2026-04-23",
+      "updated": "2026-04-24",
       "resolutiondate": "",
       "labels": [
         "Soledad"
@@ -232,24 +326,24 @@
     {
       "key": "PS-5416",
       "summary": "Air Europa - Allow all message types in default routes",
-      "status": "Ready for review",
-      "status_category": "In Progress",
+      "status": "In production",
+      "status_category": "Done",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-04-22",
-      "updated": "2026-04-22",
+      "updated": "2026-04-24",
       "resolutiondate": "",
       "labels": []
     },
     {
       "key": "PS-5415",
       "summary": "Michael Kors - AI Agent prompt review",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "In Progress",
+      "status_category": "In Progress",
       "assignee": "irene callejas",
       "issuetype": "Task",
       "created": "2026-04-22",
-      "updated": "2026-04-22",
+      "updated": "2026-04-24",
       "resolutiondate": "",
       "labels": [
         "Michael-Kors"
@@ -289,7 +383,7 @@
       "assignee": "Julieta Mezza",
       "issuetype": "Epic",
       "created": "2026-04-22",
-      "updated": "2026-04-22",
+      "updated": "2026-04-23",
       "resolutiondate": "",
       "labels": [
         "AirEuropa"
@@ -343,19 +437,19 @@
       "assignee": "Pep Alonso",
       "issuetype": "Task",
       "created": "2026-04-21",
-      "updated": "2026-04-21",
+      "updated": "2026-04-23",
       "resolutiondate": "",
       "labels": []
     },
     {
       "key": "PS-5407",
       "summary": "Allianz Es - Review why the data from the webviews duplicado de póliza y siniestros is not being sent",
-      "status": "In Progress",
+      "status": "Ready for review",
       "status_category": "In Progress",
       "assignee": "Pep Alonso",
       "issuetype": "Task",
       "created": "2026-04-21",
-      "updated": "2026-04-23",
+      "updated": "2026-04-24",
       "resolutiondate": "",
       "labels": [
         "Allianz-ES",
@@ -527,12 +621,12 @@
     {
       "key": "PS-5392",
       "summary": "SegurCaixa - Contact subject showing as \"undefined\" in incoming emails",
-      "status": "Ready for review",
+      "status": "Ready to Deliver",
       "status_category": "In Progress",
       "assignee": "Adrià Sastre",
       "issuetype": "Bug",
       "created": "2026-04-20",
-      "updated": "2026-04-21",
+      "updated": "2026-04-24",
       "resolutiondate": "",
       "labels": [
         "SegurCaixa",
@@ -692,12 +786,12 @@
     {
       "key": "PS-5379",
       "summary": "Michael Kors -  Snippet web condensed",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Closed",
+      "status_category": "Done",
       "assignee": "Adrià Sastre",
       "issuetype": "Task",
       "created": "2026-04-17",
-      "updated": "2026-04-21",
+      "updated": "2026-04-23",
       "resolutiondate": "",
       "labels": [
         "Michael-Kors"
@@ -711,7 +805,7 @@
       "assignee": "María Sánchez",
       "issuetype": "Task",
       "created": "2026-04-17",
-      "updated": "2026-04-22",
+      "updated": "2026-04-23",
       "resolutiondate": "",
       "labels": [
         "Michael-Kors"
@@ -951,8 +1045,8 @@
     {
       "key": "PS-5359",
       "summary": "CCMA - Update bot version so that we can include Audio transcription feature",
-      "status": "Ready for review",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-04-13",
@@ -1647,12 +1741,12 @@
     {
       "key": "PS-5306",
       "summary": "Allianz ES - Design new webview \"Defensa del cliente\"",
-      "status": "In Progress",
+      "status": "Ready for review",
       "status_category": "In Progress",
       "assignee": "Vicky Correbo",
       "issuetype": "Task",
       "created": "2026-04-08",
-      "updated": "2026-04-21",
+      "updated": "2026-04-23",
       "resolutiondate": "",
       "labels": [
         "Allianz-ES"
@@ -3641,8 +3735,8 @@
     {
       "key": "PS-5158",
       "summary": "Ralph Lauren - Weekly Executions March - April",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Ready for review",
+      "status_category": "In Progress",
       "assignee": "irene callejas",
       "issuetype": "Task",
       "created": "2026-03-06",
@@ -3683,12 +3777,12 @@
     {
       "key": "PS-5154",
       "summary": "Tendam- Review AI Agents prompts based on AI QA results",
-      "status": "In Progress",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "María Sánchez",
       "issuetype": "Task",
       "created": "2026-03-06",
-      "updated": "2026-03-16",
+      "updated": "2026-04-23",
       "resolutiondate": "",
       "labels": [
         "Tendam"
@@ -8815,12 +8909,12 @@
     {
       "key": "PS-4745",
       "summary": "Jetsmart - Add extras adjustments",
-      "status": "Ready for review",
+      "status": "In Progress",
       "status_category": "In Progress",
       "assignee": "Pep Alonso",
       "issuetype": "Task",
       "created": "2025-12-16",
-      "updated": "2026-03-23",
+      "updated": "2026-04-24",
       "resolutiondate": "",
       "labels": [
         "JetSmart"
@@ -9898,12 +9992,12 @@
     {
       "key": "PS-4656",
       "summary": "Demos - Create demo with whatsapp flows",
-      "status": "Open",
-      "status_category": "To Do",
+      "status": "Closed",
+      "status_category": "Done",
       "assignee": "Pep Alonso",
       "issuetype": "Task",
       "created": "2025-11-18",
-      "updated": "2026-01-17",
+      "updated": "2026-04-23",
       "resolutiondate": "",
       "labels": [
         "Demo"
@@ -9986,12 +10080,12 @@
     {
       "key": "PS-4648",
       "summary": "Hubtype - Develop 'Create an apointment' webview",
-      "status": "Open",
-      "status_category": "To Do",
-      "assignee": null,
+      "status": "Done",
+      "status_category": "Done",
+      "assignee": "Evgeni Slavyanov",
       "issuetype": "Sub-task",
       "created": "2025-11-17",
-      "updated": "2025-11-17",
+      "updated": "2026-04-23",
       "resolutiondate": "",
       "labels": [
         "Demo"
@@ -10000,12 +10094,12 @@
     {
       "key": "PS-4647",
       "summary": "Hubtype - Develop 'Gather files' webview",
-      "status": "Open",
-      "status_category": "To Do",
+      "status": "Closed",
+      "status_category": "Done",
       "assignee": null,
       "issuetype": "Sub-task",
       "created": "2025-11-17",
-      "updated": "2025-11-17",
+      "updated": "2026-04-23",
       "resolutiondate": "",
       "labels": [
         "Demo"
@@ -10100,12 +10194,12 @@
     {
       "key": "PS-4639",
       "summary": "Hubtype - Add WA flows to a Demo",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Closed",
+      "status_category": "Done",
       "assignee": "Pep Alonso",
       "issuetype": "Task",
       "created": "2025-11-10",
-      "updated": "2025-11-10",
+      "updated": "2026-04-23",
       "resolutiondate": "",
       "labels": [
         "Demo"
@@ -10119,7 +10213,7 @@
       "assignee": "Pep Alonso",
       "issuetype": "Task",
       "created": "2025-11-10",
-      "updated": "2025-11-10",
+      "updated": "2026-04-23",
       "resolutiondate": "",
       "labels": [
         "Internal"
@@ -10128,12 +10222,12 @@
     {
       "key": "PS-4637",
       "summary": "Hubtype - Develop Webviews for sales to use",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Pep Alonso",
       "issuetype": "Task",
       "created": "2025-11-10",
-      "updated": "2025-11-10",
+      "updated": "2026-04-23",
       "resolutiondate": "",
       "labels": [
         "Demo"
@@ -10142,12 +10236,12 @@
     {
       "key": "PS-4636",
       "summary": "Hubtype - Flight Recommender demo Review",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Pep Alonso",
       "issuetype": "Task",
       "created": "2025-11-10",
-      "updated": "2025-11-10",
+      "updated": "2026-04-23",
       "resolutiondate": "",
       "labels": [
         "Demo"
