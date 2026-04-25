@@ -1,6 +1,44 @@
 {
-  "last_updated": "2026-04-24 08:58 UTC",
+  "last_updated": "2026-04-25 08:04 UTC",
   "tickets": [
+    {
+      "key": "PS-5443",
+      "summary": "Air Europa - We are displaying English version of the bot for LATAM countries in WhatsApp",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": null,
+      "issuetype": "Bug",
+      "created": "2026-04-24",
+      "updated": "2026-04-24",
+      "resolutiondate": "",
+      "labels": []
+    },
+    {
+      "key": "PS-5442",
+      "summary": "Air Europa - We are showing the same Fare in both journeys",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Alexander Skalatskiy",
+      "issuetype": "Bug",
+      "created": "2026-04-24",
+      "updated": "2026-04-24",
+      "resolutiondate": "",
+      "labels": [
+        "AirEuropa"
+      ]
+    },
+    {
+      "key": "PS-5441",
+      "summary": "TO SELF - SANITAS REVIEW",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "irene callejas",
+      "issuetype": "Task",
+      "created": "2026-04-24",
+      "updated": "2026-04-24",
+      "resolutiondate": "",
+      "labels": []
+    },
     {
       "key": "PS-5440",
       "summary": "TO SELF --- MIGRATE TO LITTLELLM",
@@ -180,7 +218,7 @@
     {
       "key": "PS-5427",
       "summary": "Michael Kors - Warranty flow data capture validation and language to be sent to Zendesk",
-      "status": "In Progress",
+      "status": "Ready for review",
       "status_category": "In Progress",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
@@ -527,12 +565,12 @@
     {
       "key": "PS-5399",
       "summary": "Rag & Bone - Deploy 2 new R&B Bots within the Guess Dashboard (Staging and Production)",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "In Progress",
+      "status_category": "In Progress",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-04-21",
-      "updated": "2026-04-22",
+      "updated": "2026-04-24",
       "resolutiondate": "",
       "labels": [
         "Rag&Bone"
@@ -600,7 +638,7 @@
       "assignee": "irene callejas",
       "issuetype": "Task",
       "created": "2026-04-20",
-      "updated": "2026-04-22",
+      "updated": "2026-04-24",
       "resolutiondate": "",
       "labels": [
         "Polarier"
@@ -609,12 +647,12 @@
     {
       "key": "PS-5393",
       "summary": "Verisure Spain - List things were the name needs to be modified and change it",
-      "status": "In Progress",
-      "status_category": "In Progress",
-      "assignee": "Adrià Sastre",
+      "status": "Done",
+      "status_category": "Done",
+      "assignee": "Marta Marron",
       "issuetype": "Task",
       "created": "2026-04-20",
-      "updated": "2026-04-23",
+      "updated": "2026-04-25",
       "resolutiondate": "",
       "labels": []
     },
@@ -1741,12 +1779,12 @@
     {
       "key": "PS-5306",
       "summary": "Allianz ES - Design new webview \"Defensa del cliente\"",
-      "status": "Ready for review",
+      "status": "In Review",
       "status_category": "In Progress",
       "assignee": "Vicky Correbo",
       "issuetype": "Task",
       "created": "2026-04-08",
-      "updated": "2026-04-23",
+      "updated": "2026-04-24",
       "resolutiondate": "",
       "labels": [
         "Allianz-ES"
@@ -2038,7 +2076,7 @@
       "assignee": "irene callejas",
       "issuetype": "Task",
       "created": "2026-04-01",
-      "updated": "2026-04-22",
+      "updated": "2026-04-24",
       "resolutiondate": "",
       "labels": [
         "Ralph_Lauren"
@@ -5388,12 +5426,12 @@
     {
       "key": "PS-5028",
       "summary": "Multiasistencia - Update botonic version MULTI_SEGURCAIXA_STAGING - 967a81d2-b847-4fce-b807-1fca97eeb26a",
-      "status": "Ready for review",
-      "status_category": "In Progress",
+      "status": "APPROVED FOR PRODUCTION",
+      "status_category": "Done",
       "assignee": "Evgeni Slavyanov",
       "issuetype": "Task",
       "created": "2026-02-16",
-      "updated": "2026-04-22",
+      "updated": "2026-04-25",
       "resolutiondate": "",
       "labels": [
         "Multiasistencia"
