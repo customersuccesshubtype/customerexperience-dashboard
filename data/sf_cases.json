@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-25 08:12 UTC",
+  "last_updated": "2026-04-26 08:37 UTC",
   "cases": [
     {
       "id": "500Sa00000qZ1JRIA0",
@@ -27,9 +27,9 @@
       "id": "500Sa00000qWVcEIAW",
       "case_number": "00024632",
       "subject": "Consulta – Chat PT entrando en cola de test",
-      "status": "Closed",
+      "status": "Open",
       "priority": "Low",
-      "is_closed": true,
+      "is_closed": false,
       "is_escalated": false,
       "owner": "Aitor Casas",
       "account": "Tendam (Cortefiel)",
@@ -40,10 +40,10 @@
       "channel": "Email",
       "is_critical": "L4",
       "escalated_team": "",
-      "resolution_time": "1. <6h",
+      "resolution_time": "",
       "created": "2026-04-24",
-      "closed": "2026-04-24",
-      "last_modified": "2026-04-24"
+      "closed": "",
+      "last_modified": "2026-04-25"
     },
     {
       "id": "500Sa00000qUzhdIAC",
