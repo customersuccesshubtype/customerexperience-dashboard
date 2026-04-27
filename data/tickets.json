@@ -1,15 +1,115 @@
 {
-  "last_updated": "2026-04-26 08:14 UTC",
+  "last_updated": "2026-04-27 09:16 UTC",
   "tickets": [
+    {
+      "key": "PS-5452",
+      "summary": "RACC - Dashboard Ahorro Energético (datos Tinybird)",
+      "status": "Open",
+      "status_category": "To Do",
+      "assignee": null,
+      "issuetype": "Epic",
+      "created": "2026-04-27",
+      "updated": "2026-04-27",
+      "resolutiondate": "",
+      "labels": []
+    },
+    {
+      "key": "PS-5451",
+      "summary": "Air Europa - Apply design changes (1)",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": null,
+      "issuetype": "Task",
+      "created": "2026-04-27",
+      "updated": "2026-04-27",
+      "resolutiondate": "",
+      "labels": [
+        "AirEuropa"
+      ]
+    },
+    {
+      "key": "PS-5449",
+      "summary": "RACC - Servei Estalvi Energètic - Clientes que siguen todo el funnel pero se quedan en la pregunta ¿Eres titular del contrato?",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Adrià Sastre",
+      "issuetype": "Task",
+      "created": "2026-04-27",
+      "updated": "2026-04-27",
+      "resolutiondate": "",
+      "labels": []
+    },
+    {
+      "key": "PS-5448",
+      "summary": "Allianz Spain - Nuevo Webview de rescate de pólizas de vida",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": null,
+      "issuetype": "Discovery Task",
+      "created": "2026-04-27",
+      "updated": "2026-04-27",
+      "resolutiondate": "",
+      "labels": []
+    },
+    {
+      "key": "PS-5447",
+      "summary": "RACC - New template and flow in Flowbuilder",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Aitor Casas",
+      "issuetype": "Task",
+      "created": "2026-04-27",
+      "updated": "2026-04-27",
+      "resolutiondate": "",
+      "labels": [
+        "RACC"
+      ]
+    },
+    {
+      "key": "PS-5446",
+      "summary": "SegurCaixa Adeslas - Dar de Baja Contentful",
+      "status": "Done",
+      "status_category": "Done",
+      "assignee": "Aitor Casas",
+      "issuetype": "Task",
+      "created": "2026-04-27",
+      "updated": "2026-04-27",
+      "resolutiondate": "",
+      "labels": []
+    },
+    {
+      "key": "PS-5445",
+      "summary": "All Clients - Automation Opportunity Spotter - Requirements and prompt review",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "irene callejas",
+      "issuetype": "Discovery Task",
+      "created": "2026-04-26",
+      "updated": "2026-04-26",
+      "resolutiondate": "",
+      "labels": []
+    },
+    {
+      "key": "PS-5444",
+      "summary": "All Clients - Automation Opportunity Spotter",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Adrià Sastre",
+      "issuetype": "Epic",
+      "created": "2026-04-26",
+      "updated": "2026-04-26",
+      "resolutiondate": "",
+      "labels": []
+    },
     {
       "key": "PS-5443",
       "summary": "Air Europa - We are displaying English version of the bot for LATAM countries in WhatsApp",
       "status": "To Do",
       "status_category": "To Do",
-      "assignee": null,
+      "assignee": "Alexander Skalatskiy",
       "issuetype": "Bug",
       "created": "2026-04-24",
-      "updated": "2026-04-24",
+      "updated": "2026-04-27",
       "resolutiondate": "",
       "labels": []
     },
@@ -73,7 +173,7 @@
       "assignee": "Evgeni Slavyanov",
       "issuetype": "Task",
       "created": "2026-04-23",
-      "updated": "2026-04-24",
+      "updated": "2026-04-27",
       "resolutiondate": "",
       "labels": [
         "Verisure_IT"
@@ -84,10 +184,10 @@
       "summary": "Assegur - Upgrade Botonic version to enable audio transcription",
       "status": "To Do",
       "status_category": "To Do",
-      "assignee": null,
+      "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-04-23",
-      "updated": "2026-04-23",
+      "updated": "2026-04-27",
       "resolutiondate": "",
       "labels": [
         "Assegur"
@@ -96,12 +196,12 @@
     {
       "key": "PS-5436",
       "summary": "GUESS - Update botonic version so as to enable Audio transcriptions",
-      "status": "To Do",
-      "status_category": "To Do",
-      "assignee": null,
+      "status": "In Progress",
+      "status_category": "In Progress",
+      "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-04-23",
-      "updated": "2026-04-23",
+      "updated": "2026-04-27",
       "resolutiondate": "",
       "labels": [
         "Guess"
@@ -155,7 +255,7 @@
       "assignee": null,
       "issuetype": "Task",
       "created": "2026-04-23",
-      "updated": "2026-04-23",
+      "updated": "2026-04-27",
       "resolutiondate": "",
       "labels": [
         "AirEuropa"
@@ -177,13 +277,13 @@
     },
     {
       "key": "PS-5430",
-      "summary": "Air Europa - Apply design changes",
+      "summary": "Air Europa - Apply design changes (2)",
       "status": "Open",
       "status_category": "To Do",
       "assignee": null,
       "issuetype": "Task",
       "created": "2026-04-23",
-      "updated": "2026-04-23",
+      "updated": "2026-04-27",
       "resolutiondate": "",
       "labels": []
     },
@@ -232,12 +332,12 @@
     {
       "key": "PS-5426",
       "summary": "Michael Kors - Upgrade bot version to the latest",
-      "status": "To Do",
-      "status_category": "To Do",
-      "assignee": null,
+      "status": "Ready for review",
+      "status_category": "In Progress",
+      "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-04-23",
-      "updated": "2026-04-23",
+      "updated": "2026-04-27",
       "resolutiondate": "",
       "labels": [
         "Michael-Kors"
@@ -263,7 +363,7 @@
       "assignee": null,
       "issuetype": "Epic",
       "created": "2026-04-23",
-      "updated": "2026-04-23",
+      "updated": "2026-04-26",
       "resolutiondate": "",
       "labels": []
     },
@@ -272,10 +372,10 @@
       "summary": "Guess - Implement New \"Order Number\" Field in Salesforce Integration",
       "status": "To Do",
       "status_category": "To Do",
-      "assignee": "Adrià Sastre",
+      "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-04-22",
-      "updated": "2026-04-22",
+      "updated": "2026-04-27",
       "resolutiondate": "",
       "labels": [
         "Guess"
@@ -324,12 +424,12 @@
     {
       "key": "PS-5419",
       "summary": "Air Europa - Add tracking to webviews",
-      "status": "In Progress",
+      "status": "Ready for review",
       "status_category": "In Progress",
       "assignee": "Alexander Skalatskiy",
       "issuetype": "Task",
       "created": "2026-04-22",
-      "updated": "2026-04-22",
+      "updated": "2026-04-27",
       "resolutiondate": "",
       "labels": []
     },
@@ -416,12 +516,12 @@
     {
       "key": "PS-5412",
       "summary": "Air Europa - Consultar Reserva improvements",
-      "status": "Open",
+      "status": "To Do",
       "status_category": "To Do",
       "assignee": "Julieta Mezza",
       "issuetype": "Epic",
       "created": "2026-04-22",
-      "updated": "2026-04-23",
+      "updated": "2026-04-27",
       "resolutiondate": "",
       "labels": [
         "AirEuropa"
@@ -435,7 +535,7 @@
       "assignee": "Alexander Skalatskiy",
       "issuetype": "Task",
       "created": "2026-04-22",
-      "updated": "2026-04-22",
+      "updated": "2026-04-27",
       "resolutiondate": "",
       "labels": [
         "AirEuropa"
@@ -502,7 +602,7 @@
       "assignee": "Pep Alonso",
       "issuetype": "Task",
       "created": "2026-04-21",
-      "updated": "2026-04-22",
+      "updated": "2026-04-27",
       "resolutiondate": "",
       "labels": [
         "JetSmart"
@@ -511,12 +611,12 @@
     {
       "key": "PS-5405",
       "summary": "Assegur - Add Campaign information in the agent's notes",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Julieta Mezza",
       "issuetype": "Task",
       "created": "2026-04-21",
-      "updated": "2026-04-21",
+      "updated": "2026-04-27",
       "resolutiondate": "",
       "labels": [
         "Assegur"
@@ -525,12 +625,12 @@
     {
       "key": "PS-5402",
       "summary": "Assegur - New Campaign \"solicitud de datos\"",
-      "status": "Open",
-      "status_category": "To Do",
+      "status": "Closed",
+      "status_category": "Done",
       "assignee": "Julieta Mezza",
       "issuetype": "Epic",
       "created": "2026-04-21",
-      "updated": "2026-04-21",
+      "updated": "2026-04-27",
       "resolutiondate": "",
       "labels": []
     },
@@ -570,7 +670,7 @@
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-04-21",
-      "updated": "2026-04-24",
+      "updated": "2026-04-27",
       "resolutiondate": "",
       "labels": [
         "Rag&Bone"
@@ -595,10 +695,10 @@
       "summary": "Occident - Make inicioConversacion API call fire & forget in SendConversationIdPlugin",
       "status": "To Do",
       "status_category": "To Do",
-      "assignee": null,
+      "assignee": "Pep Alonso",
       "issuetype": "Task",
       "created": "2026-04-20",
-      "updated": "2026-04-20",
+      "updated": "2026-04-27",
       "resolutiondate": "",
       "labels": []
     },
@@ -716,12 +816,12 @@
     {
       "key": "PS-5388",
       "summary": "Retorna - CSAT for automated conversations (Campaigns v2)",
-      "status": "To Do",
+      "status": "Open",
       "status_category": "To Do",
       "assignee": "Adrià Sastre",
       "issuetype": "Task",
       "created": "2026-04-20",
-      "updated": "2026-04-20",
+      "updated": "2026-04-27",
       "resolutiondate": "",
       "labels": [
         "Retorna"
@@ -796,12 +896,12 @@
     {
       "key": "PS-5381",
       "summary": "Assegur - New Campaign - Update personal data",
-      "status": "In Progress",
+      "status": "Ready for review",
       "status_category": "In Progress",
       "assignee": "Julieta Mezza",
       "issuetype": "Task",
       "created": "2026-04-18",
-      "updated": "2026-04-21",
+      "updated": "2026-04-27",
       "resolutiondate": "",
       "labels": [
         "Assegur"
@@ -1055,12 +1155,12 @@
     {
       "key": "PS-5361",
       "summary": "Wizz Air - review how we can identify travel agencies and take them to contact center",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "In Progress",
+      "status_category": "In Progress",
       "assignee": "Julieta Mezza",
       "issuetype": "Task",
       "created": "2026-04-14",
-      "updated": "2026-04-14",
+      "updated": "2026-04-27",
       "resolutiondate": "",
       "labels": [
         "occident"
@@ -1069,12 +1169,12 @@
     {
       "key": "PS-5360",
       "summary": "Wizz Air - Enhance Search Bar capabilities with AI",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "In Progress",
+      "status_category": "In Progress",
       "assignee": "Julieta Mezza",
       "issuetype": "Task",
       "created": "2026-04-14",
-      "updated": "2026-04-14",
+      "updated": "2026-04-27",
       "resolutiondate": "",
       "labels": [
         "WizzAir"
@@ -1324,7 +1424,7 @@
       "assignee": "Aitor Casas",
       "issuetype": "Task",
       "created": "2026-04-13",
-      "updated": "2026-04-20",
+      "updated": "2026-04-27",
       "resolutiondate": "",
       "labels": [
         "Libeen"
@@ -1756,7 +1856,7 @@
       "assignee": "Adrià Sastre",
       "issuetype": "Discovery Task",
       "created": "2026-04-09",
-      "updated": "2026-04-14",
+      "updated": "2026-04-27",
       "resolutiondate": "",
       "labels": [
         "Guess"
@@ -1964,7 +2064,7 @@
       "assignee": "Evgeni Slavyanov",
       "issuetype": "Task",
       "created": "2026-04-06",
-      "updated": "2026-04-20",
+      "updated": "2026-04-27",
       "resolutiondate": "",
       "labels": [
         "JetSmart"
@@ -3567,10 +3667,10 @@
       "summary": "Air Europa - Add logged/not logged to contact info fields",
       "status": "Open",
       "status_category": "To Do",
-      "assignee": null,
+      "assignee": "Julieta Mezza",
       "issuetype": "Task",
       "created": "2026-03-11",
-      "updated": "2026-04-20",
+      "updated": "2026-04-27",
       "resolutiondate": "",
       "labels": [
         "AirEuropa"
@@ -7509,12 +7609,12 @@
     {
       "key": "PS-4861",
       "summary": "Occident - Review how Occident can be autonomous adding Agencies phone numbers to the bot",
-      "status": "To Do",
+      "status": "Open",
       "status_category": "To Do",
       "assignee": null,
       "issuetype": "Task",
       "created": "2026-01-19",
-      "updated": "2026-01-19",
+      "updated": "2026-04-27",
       "resolutiondate": "",
       "labels": [
         "occident"
@@ -9959,7 +10059,7 @@
       "assignee": "Evgeni Slavyanov",
       "issuetype": "Task",
       "created": "2025-11-20",
-      "updated": "2026-03-10",
+      "updated": "2026-04-27",
       "resolutiondate": "",
       "labels": [
         "Demo"
