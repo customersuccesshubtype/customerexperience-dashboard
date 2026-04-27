@@ -1,6 +1,23 @@
 {
-  "last_updated": "2026-04-26 08:37 UTC",
+  "last_updated": "2026-04-27 09:29 UTC",
   "opportunities": [
+    {
+      "id": "006Sa00000ezGQeIAM",
+      "name": "2026-U-Allianz Partners-Allianz PT-CA(WA)",
+      "type": "Upsell",
+      "stage": "Proposal",
+      "is_closed": false,
+      "is_won": false,
+      "probability": 50.0,
+      "amount": 88098.0,
+      "arr": 76848.0,
+      "owner": "Marta Marron",
+      "cs_lead": "Marta Marron",
+      "account": "Allianz Partners",
+      "created": "2026-04-26",
+      "close_date": "2025-08-26",
+      "start_date": "2026-08-01"
+    },
     {
       "id": "006Sa00000egHwgIAE",
       "name": "2027-R-Libeen-Spain",
