@@ -1,6 +1,100 @@
 {
-  "last_updated": "2026-04-27 09:16 UTC",
+  "last_updated": "2026-04-28 09:19 UTC",
   "tickets": [
+    {
+      "key": "PS-5459",
+      "summary": "Allianz ES - Preparar reunión que explique las funcionalidades de AI Copilot para presentar a Judith de Allianz",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Julieta Mezza",
+      "issuetype": "Task",
+      "created": "2026-04-28",
+      "updated": "2026-04-28",
+      "resolutiondate": "",
+      "labels": [
+        "Allianz-ES"
+      ]
+    },
+    {
+      "key": "PS-5458",
+      "summary": "Verisure Spain - Inicio de conversacion, \"Por aquí\" o \"Llámame\"",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Aitor Casas",
+      "issuetype": "Task",
+      "created": "2026-04-28",
+      "updated": "2026-04-28",
+      "resolutiondate": "",
+      "labels": []
+    },
+    {
+      "key": "PS-5457",
+      "summary": "WhatsApp Campaigns - Mejorar la presentación actual de ppt",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Patrícia Sánchez",
+      "issuetype": "Task",
+      "created": "2026-04-28",
+      "updated": "2026-04-28",
+      "resolutiondate": "",
+      "labels": []
+    },
+    {
+      "key": "PS-5456",
+      "summary": "Guess + Rag & Bone - Actualizar Opp de renovación en Salesforce",
+      "status": "Done",
+      "status_category": "Done",
+      "assignee": "Francisca Martelli",
+      "issuetype": "Task",
+      "created": "2026-04-27",
+      "updated": "2026-04-28",
+      "resolutiondate": "",
+      "labels": [
+        "Guess"
+      ]
+    },
+    {
+      "key": "PS-5455",
+      "summary": "Sanitas Dental - Build flow to test solution with guided flows to show them next Thursday",
+      "status": "Ready for review",
+      "status_category": "In Progress",
+      "assignee": "Julieta Mezza",
+      "issuetype": "Task",
+      "created": "2026-04-27",
+      "updated": "2026-04-27",
+      "resolutiondate": "",
+      "labels": [
+        "Sanitas"
+      ]
+    },
+    {
+      "key": "PS-5454",
+      "summary": "Occident - Coexistence: Review how we can identify a message sent by an agent through the Whatsapp Business app",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Sergi Sorigue",
+      "issuetype": "Task",
+      "created": "2026-04-27",
+      "updated": "2026-04-27",
+      "resolutiondate": "",
+      "labels": [
+        "occident"
+      ]
+    },
+    {
+      "key": "PS-5453",
+      "summary": "RACC - Dashboard Ahorro Energético (datos Tinybird) - Estimate effort and approach",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Marta Marron",
+      "issuetype": "Discovery Task",
+      "created": "2026-04-27",
+      "updated": "2026-04-27",
+      "resolutiondate": "",
+      "labels": [
+        "RACC"
+      ]
+    },
     {
       "key": "PS-5452",
       "summary": "RACC - Dashboard Ahorro Energético (datos Tinybird)",
@@ -11,7 +105,9 @@
       "created": "2026-04-27",
       "updated": "2026-04-27",
       "resolutiondate": "",
-      "labels": []
+      "labels": [
+        "RACC"
+      ]
     },
     {
       "key": "PS-5451",
@@ -37,29 +133,33 @@
       "created": "2026-04-27",
       "updated": "2026-04-27",
       "resolutiondate": "",
-      "labels": []
+      "labels": [
+        "RACC"
+      ]
     },
     {
       "key": "PS-5448",
       "summary": "Allianz Spain - Nuevo Webview de rescate de pólizas de vida",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Closed",
+      "status_category": "Done",
       "assignee": null,
       "issuetype": "Discovery Task",
       "created": "2026-04-27",
-      "updated": "2026-04-27",
+      "updated": "2026-04-28",
       "resolutiondate": "",
-      "labels": []
+      "labels": [
+        "Allianz-ES"
+      ]
     },
     {
       "key": "PS-5447",
       "summary": "RACC - New template and flow in Flowbuilder",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "In Progress",
+      "status_category": "In Progress",
       "assignee": "Aitor Casas",
       "issuetype": "Task",
       "created": "2026-04-27",
-      "updated": "2026-04-27",
+      "updated": "2026-04-28",
       "resolutiondate": "",
       "labels": [
         "RACC"
@@ -111,7 +211,9 @@
       "created": "2026-04-24",
       "updated": "2026-04-27",
       "resolutiondate": "",
-      "labels": []
+      "labels": [
+        "AirEuropa"
+      ]
     },
     {
       "key": "PS-5442",
@@ -130,24 +232,24 @@
     {
       "key": "PS-5441",
       "summary": "TO SELF - SANITAS REVIEW",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Closed",
+      "status_category": "Done",
       "assignee": "irene callejas",
       "issuetype": "Task",
       "created": "2026-04-24",
-      "updated": "2026-04-24",
+      "updated": "2026-04-27",
       "resolutiondate": "",
       "labels": []
     },
     {
       "key": "PS-5440",
       "summary": "TO SELF --- MIGRATE TO LITTLELLM",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Closed",
+      "status_category": "Done",
       "assignee": "irene callejas",
       "issuetype": "Task",
       "created": "2026-04-24",
-      "updated": "2026-04-24",
+      "updated": "2026-04-27",
       "resolutiondate": "",
       "labels": []
     },
@@ -156,10 +258,10 @@
       "summary": "SegurCaixa Adeslas - Delete SegurCaixa_Staging_Old bot and maybe SegurCaixa_test",
       "status": "To Do",
       "status_category": "To Do",
-      "assignee": null,
+      "assignee": "Adrià Sastre",
       "issuetype": "Task",
       "created": "2026-04-23",
-      "updated": "2026-04-23",
+      "updated": "2026-04-27",
       "resolutiondate": "",
       "labels": [
         "SegurCaixa"
@@ -168,7 +270,7 @@
     {
       "key": "PS-5438",
       "summary": "Verisure IT - Fix detected errors",
-      "status": "In Progress",
+      "status": "Ready for review",
       "status_category": "In Progress",
       "assignee": "Evgeni Slavyanov",
       "issuetype": "Task",
@@ -196,12 +298,12 @@
     {
       "key": "PS-5436",
       "summary": "GUESS - Update botonic version so as to enable Audio transcriptions",
-      "status": "In Progress",
-      "status_category": "In Progress",
+      "status": "In production",
+      "status_category": "Done",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-04-23",
-      "updated": "2026-04-27",
+      "updated": "2026-04-28",
       "resolutiondate": "",
       "labels": [
         "Guess"
@@ -285,7 +387,9 @@
       "created": "2026-04-23",
       "updated": "2026-04-27",
       "resolutiondate": "",
-      "labels": []
+      "labels": [
+        "AirEuropa"
+      ]
     },
     {
       "key": "PS-5429",
@@ -304,12 +408,12 @@
     {
       "key": "PS-5428",
       "summary": "Air Europa - Review why we are translating messages to Spanish before sending them to AVA",
-      "status": "To Do",
-      "status_category": "To Do",
-      "assignee": "Alexander Skalatskiy",
+      "status": "Done",
+      "status_category": "Done",
+      "assignee": "Julieta Mezza",
       "issuetype": "Bug",
       "created": "2026-04-23",
-      "updated": "2026-04-23",
+      "updated": "2026-04-27",
       "resolutiondate": "",
       "labels": [
         "AirEuropa"
@@ -323,7 +427,7 @@
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-04-23",
-      "updated": "2026-04-24",
+      "updated": "2026-04-27",
       "resolutiondate": "",
       "labels": [
         "Michael-Kors"
@@ -346,14 +450,16 @@
     {
       "key": "PS-5425",
       "summary": "RACC - Specify the response from the Aialma AI Agent",
-      "status": "Ready for review",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Adrià Sastre",
       "issuetype": "Task",
       "created": "2026-04-23",
-      "updated": "2026-04-23",
+      "updated": "2026-04-27",
       "resolutiondate": "",
-      "labels": []
+      "labels": [
+        "RACC"
+      ]
     },
     {
       "key": "PS-5424",
@@ -363,15 +469,17 @@
       "assignee": null,
       "issuetype": "Epic",
       "created": "2026-04-23",
-      "updated": "2026-04-26",
+      "updated": "2026-04-27",
       "resolutiondate": "",
-      "labels": []
+      "labels": [
+        "RACC"
+      ]
     },
     {
       "key": "PS-5423",
       "summary": "Guess - Implement New \"Order Number\" Field in Salesforce Integration",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "In Progress",
+      "status_category": "In Progress",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-04-22",
@@ -384,12 +492,12 @@
     {
       "key": "PS-5422",
       "summary": "Allianz Partners - Revisar que se estén enviando las coordenadas de geolocalización cuando se crea caso",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Ready for review",
+      "status_category": "In Progress",
       "assignee": "Adrià Sastre",
       "issuetype": "Bug",
       "created": "2026-04-22",
-      "updated": "2026-04-22",
+      "updated": "2026-04-28",
       "resolutiondate": "",
       "labels": [
         "AllianzPartners"
@@ -403,9 +511,11 @@
       "assignee": "Andrea Talal Haidar",
       "issuetype": "Discovery Task",
       "created": "2026-04-22",
-      "updated": "2026-04-22",
+      "updated": "2026-04-27",
       "resolutiondate": "",
-      "labels": []
+      "labels": [
+        "Ralph_Lauren"
+      ]
     },
     {
       "key": "PS-5420",
@@ -431,7 +541,9 @@
       "created": "2026-04-22",
       "updated": "2026-04-27",
       "resolutiondate": "",
-      "labels": []
+      "labels": [
+        "AirEuropa"
+      ]
     },
     {
       "key": "PS-5418",
@@ -495,9 +607,11 @@
       "assignee": "Andrea Talal Haidar",
       "issuetype": "Discovery Task",
       "created": "2026-04-22",
-      "updated": "2026-04-22",
+      "updated": "2026-04-27",
       "resolutiondate": "",
-      "labels": []
+      "labels": [
+        "Ralph_Lauren"
+      ]
     },
     {
       "key": "PS-5413",
@@ -563,9 +677,11 @@
       "assignee": "Andrea Talal Haidar",
       "issuetype": "Discovery Task",
       "created": "2026-04-22",
-      "updated": "2026-04-22",
+      "updated": "2026-04-27",
       "resolutiondate": "",
-      "labels": []
+      "labels": [
+        "Libeen"
+      ]
     },
     {
       "key": "PS-5408",
@@ -651,12 +767,12 @@
     {
       "key": "PS-5400",
       "summary": "Rag & Bone - Create R&B Project + Contact Reasons",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Francisca Martelli",
       "issuetype": "Task",
       "created": "2026-04-21",
-      "updated": "2026-04-21",
+      "updated": "2026-04-27",
       "resolutiondate": "",
       "labels": [
         "Rag&Bone"
@@ -670,7 +786,7 @@
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-04-21",
-      "updated": "2026-04-27",
+      "updated": "2026-04-28",
       "resolutiondate": "",
       "labels": [
         "Rag&Bone"
@@ -679,12 +795,12 @@
     {
       "key": "PS-5398",
       "summary": "Retorna - Review API Errors \"Consultar Remesa\"",
-      "status": "To Do",
-      "status_category": "To Do",
-      "assignee": "Alexander Skalatskiy",
+      "status": "In Progress",
+      "status_category": "In Progress",
+      "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-04-21",
-      "updated": "2026-04-21",
+      "updated": "2026-04-28",
       "resolutiondate": "",
       "labels": [
         "Retorna"
@@ -700,17 +816,19 @@
       "created": "2026-04-20",
       "updated": "2026-04-27",
       "resolutiondate": "",
-      "labels": []
+      "labels": [
+        "occident"
+      ]
     },
     {
       "key": "PS-5396",
       "summary": "Polarier - Battle Test",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "irene callejas",
       "issuetype": "Task",
       "created": "2026-04-20",
-      "updated": "2026-04-20",
+      "updated": "2026-04-27",
       "resolutiondate": "",
       "labels": [
         "Polarier"
@@ -1155,8 +1273,8 @@
     {
       "key": "PS-5361",
       "summary": "Wizz Air - review how we can identify travel agencies and take them to contact center",
-      "status": "In Progress",
-      "status_category": "In Progress",
+      "status": "Open",
+      "status_category": "To Do",
       "assignee": "Julieta Mezza",
       "issuetype": "Task",
       "created": "2026-04-14",
@@ -1169,10 +1287,10 @@
     {
       "key": "PS-5360",
       "summary": "Wizz Air - Enhance Search Bar capabilities with AI",
-      "status": "In Progress",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Julieta Mezza",
-      "issuetype": "Task",
+      "issuetype": "Discovery Task",
       "created": "2026-04-14",
       "updated": "2026-04-27",
       "resolutiondate": "",
@@ -1447,12 +1565,12 @@
     {
       "key": "PS-5339",
       "summary": "Alsa - Generate CSS + javascript to embed webchat directly in web",
-      "status": "Ready to Deliver",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Alexander Skalatskiy",
       "issuetype": "Task",
       "created": "2026-04-13",
-      "updated": "2026-04-20",
+      "updated": "2026-04-27",
       "resolutiondate": "",
       "labels": [
         "Alsa"
@@ -1769,12 +1887,12 @@
     {
       "key": "PS-5314",
       "summary": "WizzAir - Fix Custom Message errors",
-      "status": "Ready for review",
-      "status_category": "In Progress",
+      "status": "APPROVED FOR PRODUCTION",
+      "status_category": "Done",
       "assignee": "Evgeni Slavyanov",
       "issuetype": "Task",
       "created": "2026-04-09",
-      "updated": "2026-04-20",
+      "updated": "2026-04-27",
       "resolutiondate": "",
       "labels": [
         "WizzAir"
@@ -3177,12 +3295,12 @@
     {
       "key": "PS-5209",
       "summary": "Polarier - Definir posible Shadowing para que puedan reportar más de una incidencia en cada conversacion",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Closed",
+      "status_category": "Done",
       "assignee": null,
       "issuetype": "Task",
       "created": "2026-03-18",
-      "updated": "2026-03-19",
+      "updated": "2026-04-27",
       "resolutiondate": "",
       "labels": [
         "Polarier"
@@ -5526,12 +5644,12 @@
     {
       "key": "PS-5028",
       "summary": "Multiasistencia - Update botonic version MULTI_SEGURCAIXA_STAGING - 967a81d2-b847-4fce-b807-1fca97eeb26a",
-      "status": "APPROVED FOR PRODUCTION",
+      "status": "In production",
       "status_category": "Done",
       "assignee": "Evgeni Slavyanov",
       "issuetype": "Task",
       "created": "2026-02-16",
-      "updated": "2026-04-25",
+      "updated": "2026-04-27",
       "resolutiondate": "",
       "labels": [
         "Multiasistencia"
@@ -9564,12 +9682,12 @@
     {
       "key": "PS-4702",
       "summary": "Retorna - Añadir posición en la cola a partir de X número en la cola",
-      "status": "Open",
-      "status_category": "To Do",
+      "status": "Closed",
+      "status_category": "Done",
       "assignee": null,
       "issuetype": "Task",
       "created": "2025-12-03",
-      "updated": "2026-02-02",
+      "updated": "2026-04-27",
       "resolutiondate": "",
       "labels": [
         "Retorna"
@@ -11429,12 +11547,12 @@
     {
       "key": "PS-4551",
       "summary": "Tendam - Update all bots to Botonic 46 (AI Agent)",
-      "status": "In Progress",
+      "status": "Ready for review",
       "status_category": "In Progress",
       "assignee": "Adrià Sastre",
       "issuetype": "Epic",
       "created": "2025-10-20",
-      "updated": "2026-03-31",
+      "updated": "2026-04-27",
       "resolutiondate": "",
       "labels": [
         "Tendam"
