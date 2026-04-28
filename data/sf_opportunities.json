@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-27 09:29 UTC",
+  "last_updated": "2026-04-28 09:34 UTC",
   "opportunities": [
     {
       "id": "006Sa00000ezGQeIAM",
@@ -1856,16 +1856,16 @@
     },
     {
       "id": "006Sa00000RSLDHIA5",
-      "name": "2026-R-Guess-CA(Webchat,Whatsapp)",
+      "name": "2026-R-Guess+R&B-CA(Webchat,Whatsapp)",
       "type": "Renewal",
-      "stage": "Opportunity identified",
+      "stage": "Executive selection",
       "is_closed": false,
       "is_won": false,
-      "probability": 10.0,
-      "amount": 138081.6,
-      "arr": 138081.6,
+      "probability": 50.0,
+      "amount": 204375.0,
+      "arr": 190275.0,
       "owner": "Marc Caballé",
-      "cs_lead": "Marta Marron",
+      "cs_lead": "Francisca Martelli",
       "account": "GUESS",
       "created": "2025-09-15",
       "close_date": "2026-04-09",
