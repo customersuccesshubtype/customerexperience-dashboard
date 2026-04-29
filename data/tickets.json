@@ -1,6 +1,144 @@
 {
-  "last_updated": "2026-04-28 09:19 UTC",
+  "last_updated": "2026-04-29 09:07 UTC",
   "tickets": [
+    {
+      "key": "PS-5469",
+      "summary": "Verisure Spain - Add Contact Reason to trigger Altitude",
+      "status": "Ready for review",
+      "status_category": "In Progress",
+      "assignee": "Adrià Sastre",
+      "issuetype": "Task",
+      "created": "2026-04-29",
+      "updated": "2026-04-29",
+      "resolutiondate": "",
+      "labels": [
+        "Verisure_ES"
+      ]
+    },
+    {
+      "key": "PS-5468",
+      "summary": "Documentación técnica: API Infotourist (Turisme de Catalunya)",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Marta Marron",
+      "issuetype": "Task",
+      "created": "2026-04-29",
+      "updated": "2026-04-29",
+      "resolutiondate": "",
+      "labels": [
+        "Generalitat-Turisme"
+      ]
+    },
+    {
+      "key": "PS-5467",
+      "summary": "Ralph Lauren - Gather fixed responses +. repetitive words stats",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "irene callejas",
+      "issuetype": "Task",
+      "created": "2026-04-28",
+      "updated": "2026-04-28",
+      "resolutiondate": "",
+      "labels": [
+        "Ralph_Lauren"
+      ]
+    },
+    {
+      "key": "PS-5466",
+      "summary": "Libeen - Battle_test _  get AI agent running",
+      "status": "In Progress",
+      "status_category": "In Progress",
+      "assignee": "irene callejas",
+      "issuetype": "Task",
+      "created": "2026-04-28",
+      "updated": "2026-04-28",
+      "resolutiondate": "",
+      "labels": [
+        "Libeen"
+      ]
+    },
+    {
+      "key": "PS-5465",
+      "summary": "Internal - Update Bot Template to use the version 0.48",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Lorena Sánchez-Toril Nicolás",
+      "issuetype": "Task",
+      "created": "2026-04-28",
+      "updated": "2026-04-28",
+      "resolutiondate": "",
+      "labels": [
+        "Internal"
+      ]
+    },
+    {
+      "key": "PS-5464",
+      "summary": "Internal - Bump internal packages to version 0.48",
+      "status": "In Progress",
+      "status_category": "In Progress",
+      "assignee": "Adrià Sastre",
+      "issuetype": "Task",
+      "created": "2026-04-28",
+      "updated": "2026-04-28",
+      "resolutiondate": "",
+      "labels": [
+        "Internal"
+      ]
+    },
+    {
+      "key": "PS-5463",
+      "summary": "Sanitas Seguros - Scaffold bot with lattest Botonic Version",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": null,
+      "issuetype": "Task",
+      "created": "2026-04-28",
+      "updated": "2026-04-28",
+      "resolutiondate": "",
+      "labels": [
+        "Sanitas"
+      ]
+    },
+    {
+      "key": "PS-5462",
+      "summary": "SegurCaixa - Fix empty date in ClinicContact webview email",
+      "status": "In production",
+      "status_category": "Done",
+      "assignee": "Adrià Sastre",
+      "issuetype": "Bug",
+      "created": "2026-04-28",
+      "updated": "2026-04-28",
+      "resolutiondate": "",
+      "labels": []
+    },
+    {
+      "key": "PS-5461",
+      "summary": "TMB - Prompting - Bus Lines",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": null,
+      "issuetype": "Task",
+      "created": "2026-04-28",
+      "updated": "2026-04-28",
+      "resolutiondate": "",
+      "labels": [
+        "TMB"
+      ]
+    },
+    {
+      "key": "PS-5460",
+      "summary": "TMB - Prompting - URLs provided by the AI Agent",
+      "status": "Open",
+      "status_category": "To Do",
+      "assignee": "Francisca Martelli",
+      "issuetype": "Task",
+      "created": "2026-04-28",
+      "updated": "2026-04-28",
+      "resolutiondate": "",
+      "labels": [
+        "TMB"
+      ]
+    },
     {
       "key": "PS-5459",
       "summary": "Allianz ES - Preparar reunión que explique las funcionalidades de AI Copilot para presentar a Judith de Allianz",
@@ -18,26 +156,30 @@
     {
       "key": "PS-5458",
       "summary": "Verisure Spain - Inicio de conversacion, \"Por aquí\" o \"Llámame\"",
-      "status": "To Do",
+      "status": "Open",
       "status_category": "To Do",
       "assignee": "Aitor Casas",
       "issuetype": "Task",
       "created": "2026-04-28",
-      "updated": "2026-04-28",
+      "updated": "2026-04-29",
       "resolutiondate": "",
-      "labels": []
+      "labels": [
+        "Verisure_ES"
+      ]
     },
     {
       "key": "PS-5457",
       "summary": "WhatsApp Campaigns - Mejorar la presentación actual de ppt",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "In Progress",
+      "status_category": "In Progress",
       "assignee": "Patrícia Sánchez",
       "issuetype": "Task",
       "created": "2026-04-28",
-      "updated": "2026-04-28",
+      "updated": "2026-04-29",
       "resolutiondate": "",
-      "labels": []
+      "labels": [
+        "all_clients"
+      ]
     },
     {
       "key": "PS-5456",
@@ -112,12 +254,12 @@
     {
       "key": "PS-5451",
       "summary": "Air Europa - Apply design changes (1)",
-      "status": "To Do",
+      "status": "Open",
       "status_category": "To Do",
       "assignee": null,
       "issuetype": "Task",
       "created": "2026-04-27",
-      "updated": "2026-04-27",
+      "updated": "2026-04-29",
       "resolutiondate": "",
       "labels": [
         "AirEuropa"
@@ -185,9 +327,11 @@
       "assignee": "irene callejas",
       "issuetype": "Discovery Task",
       "created": "2026-04-26",
-      "updated": "2026-04-26",
+      "updated": "2026-04-29",
       "resolutiondate": "",
-      "labels": []
+      "labels": [
+        "all_clients"
+      ]
     },
     {
       "key": "PS-5444",
@@ -197,9 +341,11 @@
       "assignee": "Adrià Sastre",
       "issuetype": "Epic",
       "created": "2026-04-26",
-      "updated": "2026-04-26",
+      "updated": "2026-04-29",
       "resolutiondate": "",
-      "labels": []
+      "labels": [
+        "all_clients"
+      ]
     },
     {
       "key": "PS-5443",
@@ -270,12 +416,12 @@
     {
       "key": "PS-5438",
       "summary": "Verisure IT - Fix detected errors",
-      "status": "Ready for review",
-      "status_category": "In Progress",
+      "status": "APPROVED FOR PRODUCTION",
+      "status_category": "Done",
       "assignee": "Evgeni Slavyanov",
       "issuetype": "Task",
       "created": "2026-04-23",
-      "updated": "2026-04-27",
+      "updated": "2026-04-28",
       "resolutiondate": "",
       "labels": [
         "Verisure_IT"
@@ -284,12 +430,12 @@
     {
       "key": "PS-5437",
       "summary": "Assegur - Upgrade Botonic version to enable audio transcription",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "APPROVED FOR PRODUCTION",
+      "status_category": "Done",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-04-23",
-      "updated": "2026-04-27",
+      "updated": "2026-04-29",
       "resolutiondate": "",
       "labels": [
         "Assegur"
@@ -331,19 +477,21 @@
       "assignee": null,
       "issuetype": "Task",
       "created": "2026-04-23",
-      "updated": "2026-04-23",
+      "updated": "2026-04-29",
       "resolutiondate": "",
-      "labels": []
+      "labels": [
+        "Soledad"
+      ]
     },
     {
       "key": "PS-5433",
       "summary": "Air Europa - diferenciar iOS de Android para incluir el formato correcto del link de Brevo en Android ",
-      "status": "To Do",
+      "status": "Open",
       "status_category": "To Do",
       "assignee": null,
       "issuetype": "Task",
       "created": "2026-04-23",
-      "updated": "2026-04-23",
+      "updated": "2026-04-29",
       "resolutiondate": "",
       "labels": [
         "AirEuropa"
@@ -352,12 +500,12 @@
     {
       "key": "PS-5432",
       "summary": "Air Europa - Text and redirection changes",
-      "status": "To Do",
+      "status": "Open",
       "status_category": "To Do",
       "assignee": null,
       "issuetype": "Task",
       "created": "2026-04-23",
-      "updated": "2026-04-27",
+      "updated": "2026-04-29",
       "resolutiondate": "",
       "labels": [
         "AirEuropa"
@@ -366,12 +514,12 @@
     {
       "key": "PS-5431",
       "summary": "Air Europa - Logic changes",
-      "status": "To Do",
+      "status": "Open",
       "status_category": "To Do",
       "assignee": null,
       "issuetype": "Task",
       "created": "2026-04-23",
-      "updated": "2026-04-23",
+      "updated": "2026-04-29",
       "resolutiondate": "",
       "labels": [
         "AirEuropa"
@@ -478,12 +626,12 @@
     {
       "key": "PS-5423",
       "summary": "Guess - Implement New \"Order Number\" Field in Salesforce Integration",
-      "status": "In Progress",
+      "status": "Ready for review",
       "status_category": "In Progress",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-04-22",
-      "updated": "2026-04-27",
+      "updated": "2026-04-29",
       "resolutiondate": "",
       "labels": [
         "Guess"
@@ -492,7 +640,7 @@
     {
       "key": "PS-5422",
       "summary": "Allianz Partners - Revisar que se estén enviando las coordenadas de geolocalización cuando se crea caso",
-      "status": "Ready for review",
+      "status": "Ready to Deliver",
       "status_category": "In Progress",
       "assignee": "Adrià Sastre",
       "issuetype": "Bug",
@@ -534,12 +682,12 @@
     {
       "key": "PS-5419",
       "summary": "Air Europa - Add tracking to webviews",
-      "status": "Ready for review",
+      "status": "Ready to Deliver",
       "status_category": "In Progress",
       "assignee": "Alexander Skalatskiy",
       "issuetype": "Task",
       "created": "2026-04-22",
-      "updated": "2026-04-27",
+      "updated": "2026-04-29",
       "resolutiondate": "",
       "labels": [
         "AirEuropa"
@@ -644,12 +792,12 @@
     {
       "key": "PS-5411",
       "summary": "Air Europa - Add new parameters to the \"farefamily\" detection",
-      "status": "Ready for review",
+      "status": "Ready to Deliver",
       "status_category": "In Progress",
       "assignee": "Alexander Skalatskiy",
       "issuetype": "Task",
       "created": "2026-04-22",
-      "updated": "2026-04-27",
+      "updated": "2026-04-29",
       "resolutiondate": "",
       "labels": [
         "AirEuropa"
@@ -781,7 +929,7 @@
     {
       "key": "PS-5399",
       "summary": "Rag & Bone - Deploy 2 new R&B Bots within the Guess Dashboard (Staging and Production)",
-      "status": "In Progress",
+      "status": "Ready for review",
       "status_category": "In Progress",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
@@ -795,12 +943,12 @@
     {
       "key": "PS-5398",
       "summary": "Retorna - Review API Errors \"Consultar Remesa\"",
-      "status": "In Progress",
+      "status": "Ready for review",
       "status_category": "In Progress",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-04-21",
-      "updated": "2026-04-28",
+      "updated": "2026-04-29",
       "resolutiondate": "",
       "labels": [
         "Retorna"
@@ -877,12 +1025,12 @@
     {
       "key": "PS-5392",
       "summary": "SegurCaixa - Contact subject showing as \"undefined\" in incoming emails",
-      "status": "Ready to Deliver",
-      "status_category": "In Progress",
+      "status": "In production",
+      "status_category": "Done",
       "assignee": "Adrià Sastre",
       "issuetype": "Bug",
       "created": "2026-04-20",
-      "updated": "2026-04-24",
+      "updated": "2026-04-28",
       "resolutiondate": "",
       "labels": [
         "SegurCaixa",
@@ -925,7 +1073,7 @@
       "assignee": "irene callejas",
       "issuetype": "Task",
       "created": "2026-04-20",
-      "updated": "2026-04-22",
+      "updated": "2026-04-28",
       "resolutiondate": "",
       "labels": [
         "Ralph_Lauren"
@@ -1014,12 +1162,12 @@
     {
       "key": "PS-5381",
       "summary": "Assegur - New Campaign - Update personal data",
-      "status": "Ready for review",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Julieta Mezza",
       "issuetype": "Task",
       "created": "2026-04-18",
-      "updated": "2026-04-27",
+      "updated": "2026-04-29",
       "resolutiondate": "",
       "labels": [
         "Assegur"
@@ -1232,12 +1380,12 @@
     {
       "key": "PS-5364",
       "summary": "Segurcaixa - Adjust ID Matching Logic (CL-/CL_) ",
-      "status": "In Review",
-      "status_category": "In Progress",
+      "status": "In production",
+      "status_category": "Done",
       "assignee": "Alexander Skalatskiy",
       "issuetype": "Task",
       "created": "2026-04-14",
-      "updated": "2026-04-20",
+      "updated": "2026-04-28",
       "resolutiondate": "",
       "labels": [
         "SegurCaixa"
@@ -1273,12 +1421,12 @@
     {
       "key": "PS-5361",
       "summary": "Wizz Air - review how we can identify travel agencies and take them to contact center",
-      "status": "Open",
-      "status_category": "To Do",
+      "status": "Closed",
+      "status_category": "Done",
       "assignee": "Julieta Mezza",
       "issuetype": "Task",
       "created": "2026-04-14",
-      "updated": "2026-04-27",
+      "updated": "2026-04-29",
       "resolutiondate": "",
       "labels": [
         "occident"
@@ -1483,12 +1631,12 @@
     {
       "key": "PS-5345",
       "summary": "WizzAir - Analyse potential solution to implement AI responses to thei FAQ Page",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": null,
       "issuetype": "Task",
       "created": "2026-04-13",
-      "updated": "2026-04-13",
+      "updated": "2026-04-29",
       "resolutiondate": "",
       "labels": [
         "WizzAir"
@@ -1497,12 +1645,12 @@
     {
       "key": "PS-5344",
       "summary": "RACC - Update botonic version so that Audio Transcript can be implemented",
-      "status": "In production",
+      "status": "Done",
       "status_category": "Done",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-04-13",
-      "updated": "2026-04-22",
+      "updated": "2026-04-29",
       "resolutiondate": "",
       "labels": [
         "RACC"
@@ -2011,12 +2159,12 @@
     {
       "key": "PS-5305",
       "summary": "Allianz ES - Development new webview \"Defensa del cliente\"",
-      "status": "To Do",
+      "status": "Open",
       "status_category": "To Do",
       "assignee": "Adrià Sastre",
       "issuetype": "Task",
       "created": "2026-04-08",
-      "updated": "2026-04-08",
+      "updated": "2026-04-29",
       "resolutiondate": "",
       "labels": [
         "Allianz-ES"
@@ -2079,12 +2227,12 @@
     {
       "key": "PS-5300",
       "summary": "Guess - Fix Unhandled Promise Rejection (ERROR_HTTP_503) in Salesforce Bulk API integration",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "In Progress",
+      "status_category": "In Progress",
       "assignee": "Evgeni Slavyanov",
       "issuetype": "Task",
       "created": "2026-04-08",
-      "updated": "2026-04-13",
+      "updated": "2026-04-29",
       "resolutiondate": "",
       "labels": [
         "Guess"
@@ -2121,12 +2269,12 @@
     {
       "key": "PS-5296",
       "summary": "Jetsmart - Adjust design to match the \"buy a flight\" design",
-      "status": "To Do",
+      "status": "Open",
       "status_category": "To Do",
       "assignee": null,
       "issuetype": "Task",
       "created": "2026-04-08",
-      "updated": "2026-04-08",
+      "updated": "2026-04-29",
       "resolutiondate": "",
       "labels": [
         "JetSmart"
@@ -2177,12 +2325,12 @@
     {
       "key": "PS-5292",
       "summary": "JetSMART - Update botonic to latest version so that we can enlable Audio transcript feature",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Ready for review",
+      "status_category": "In Progress",
       "assignee": "Evgeni Slavyanov",
       "issuetype": "Task",
       "created": "2026-04-06",
-      "updated": "2026-04-27",
+      "updated": "2026-04-29",
       "resolutiondate": "",
       "labels": [
         "JetSmart"
@@ -2371,12 +2519,12 @@
     {
       "key": "PS-5278",
       "summary": "Rearch and get consensus on Agent greeting best practices",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Closed",
+      "status_category": "Done",
       "assignee": "irene callejas",
       "issuetype": "Task",
       "created": "2026-04-01",
-      "updated": "2026-04-07",
+      "updated": "2026-04-28",
       "resolutiondate": "",
       "labels": []
     },
@@ -2388,7 +2536,7 @@
       "assignee": "Vicky Correbo",
       "issuetype": "Task",
       "created": "2026-04-01",
-      "updated": "2026-04-07",
+      "updated": "2026-04-29",
       "resolutiondate": "",
       "labels": [
         "JetSmart"
@@ -3573,12 +3721,12 @@
     {
       "key": "PS-5187",
       "summary": "Verisure IT - When we receive the templates and capture the extra params, insert them in the existing \"conversation info fields\"",
-      "status": "In production",
+      "status": "Done",
       "status_category": "Done",
       "assignee": "Evgeni Slavyanov",
       "issuetype": "Task",
       "created": "2026-03-12",
-      "updated": "2026-04-23",
+      "updated": "2026-04-29",
       "resolutiondate": "",
       "labels": [
         "Verisure_IT"
@@ -5644,12 +5792,12 @@
     {
       "key": "PS-5028",
       "summary": "Multiasistencia - Update botonic version MULTI_SEGURCAIXA_STAGING - 967a81d2-b847-4fce-b807-1fca97eeb26a",
-      "status": "In production",
+      "status": "Done",
       "status_category": "Done",
       "assignee": "Evgeni Slavyanov",
       "issuetype": "Task",
       "created": "2026-02-16",
-      "updated": "2026-04-27",
+      "updated": "2026-04-29",
       "resolutiondate": "",
       "labels": [
         "Multiasistencia"
@@ -5770,12 +5918,12 @@
     {
       "key": "PS-5019",
       "summary": "Verisure IT - Implement Hubtype Webhook Endpoint to Receive Opportunity ID & Contact Profile",
-      "status": "In production",
+      "status": "Done",
       "status_category": "Done",
       "assignee": "Evgeni Slavyanov",
       "issuetype": "Task",
       "created": "2026-02-13",
-      "updated": "2026-04-23",
+      "updated": "2026-04-29",
       "resolutiondate": "",
       "labels": [
         "Verisure_IT"
@@ -9784,12 +9932,12 @@
     {
       "key": "PS-4693",
       "summary": "Allianz Spain - New webview to open claim to \"Defensa del cliente\"",
-      "status": "To Do",
+      "status": "Open",
       "status_category": "To Do",
       "assignee": "Adrià Sastre",
       "issuetype": "Epic",
       "created": "2025-12-02",
-      "updated": "2026-04-15",
+      "updated": "2026-04-29",
       "resolutiondate": "",
       "labels": [
         "Allianz-ES"
@@ -10884,12 +11032,12 @@
     {
       "key": "PS-4603",
       "summary": "Occident - Proyecto Agencias",
-      "status": "Ready for review",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Julieta Mezza",
       "issuetype": "Epic",
       "created": "2025-11-04",
-      "updated": "2026-04-13",
+      "updated": "2026-04-29",
       "resolutiondate": "",
       "labels": [
         "occident"
@@ -19006,12 +19154,12 @@
     {
       "key": "PS-3932",
       "summary": "Easyjet - Move EN bot to Spanish",
-      "status": "Ready for review",
-      "status_category": "In Progress",
+      "status": "Closed",
+      "status_category": "Done",
       "assignee": "Adrià Sastre",
       "issuetype": "Task",
       "created": "2025-04-30",
-      "updated": "2026-01-24",
+      "updated": "2026-04-28",
       "resolutiondate": "",
       "labels": [
         "easyjet"
