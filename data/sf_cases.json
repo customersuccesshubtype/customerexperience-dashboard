@@ -1,6 +1,94 @@
 {
-  "last_updated": "2026-04-28 09:34 UTC",
+  "last_updated": "2026-04-29 09:24 UTC",
   "cases": [
+    {
+      "id": "500Sa00000qoMAiIAM",
+      "case_number": "00024647",
+      "subject": "Chats stuck in test status",
+      "status": "Closed",
+      "priority": "Low",
+      "is_closed": true,
+      "is_escalated": false,
+      "owner": "Aitor Casas",
+      "account": "Michael Kors Group",
+      "origin": "Inbound",
+      "type": "Question",
+      "feeling": "",
+      "issue_type": "Desk",
+      "channel": "Email",
+      "is_critical": "L4",
+      "escalated_team": "",
+      "resolution_time": "1. <6h",
+      "created": "2026-04-29",
+      "closed": "2026-04-29",
+      "last_modified": "2026-04-29"
+    },
+    {
+      "id": "500Sa00000qlqA8IAI",
+      "case_number": "00024646",
+      "subject": "Problema con traducción automática en flujo",
+      "status": "New",
+      "priority": "Low",
+      "is_closed": false,
+      "is_escalated": false,
+      "owner": "Aitor Casas",
+      "account": "JetSMART Airlines",
+      "origin": "Inbound",
+      "type": "Issue",
+      "feeling": "",
+      "issue_type": "Bot",
+      "channel": "Email",
+      "is_critical": "L4",
+      "escalated_team": "",
+      "resolution_time": "",
+      "created": "2026-04-28",
+      "closed": "",
+      "last_modified": "2026-04-29"
+    },
+    {
+      "id": "500Sa00000qle0vIAA",
+      "case_number": "00024645",
+      "subject": "Card details captured in chat",
+      "status": "Closed",
+      "priority": "Low",
+      "is_closed": true,
+      "is_escalated": false,
+      "owner": "Aitor Casas",
+      "account": "Easyjet PLC",
+      "origin": "Inbound",
+      "type": "Task",
+      "feeling": "",
+      "issue_type": "Informes",
+      "channel": "Email",
+      "is_critical": "L4",
+      "escalated_team": "",
+      "resolution_time": "3. 12-24h",
+      "created": "2026-04-28",
+      "closed": "2026-04-29",
+      "last_modified": "2026-04-29"
+    },
+    {
+      "id": "500Sa00000ql79oIAA",
+      "case_number": "00024644",
+      "subject": "RE: [EXTERNO] Reporte Semanal Eficiencia Energética — 2026-04-20 a 2026-04-27",
+      "status": "Closed",
+      "priority": "Low",
+      "is_closed": true,
+      "is_escalated": false,
+      "owner": "Aitor Casas",
+      "account": "RACC",
+      "origin": "Inbound",
+      "type": "Task",
+      "feeling": "",
+      "issue_type": "Informes",
+      "channel": "Email",
+      "is_critical": "L4",
+      "escalated_team": "",
+      "resolution_time": "3. 12-24h",
+      "created": "2026-04-28",
+      "closed": "2026-04-29",
+      "last_modified": "2026-04-29"
+    },
     {
       "id": "500Sa00000qjLIYIA2",
       "case_number": "00024643",
@@ -18,10 +106,10 @@
       "channel": "Email",
       "is_critical": "L4",
       "escalated_team": "",
-      "resolution_time": "1. <6h",
+      "resolution_time": "3. 12-24h",
       "created": "2026-04-28",
-      "closed": "2026-04-28",
-      "last_modified": "2026-04-28"
+      "closed": "2026-04-29",
+      "last_modified": "2026-04-29"
     },
     {
       "id": "500Sa00000qiExSIAU",
@@ -40,7 +128,7 @@
       "channel": "Email",
       "is_critical": "L4",
       "escalated_team": "",
-      "resolution_time": "1. <6h",
+      "resolution_time": "2. 6-12h",
       "created": "2026-04-28",
       "closed": "2026-04-28",
       "last_modified": "2026-04-28"
@@ -240,8 +328,8 @@
       "escalated_team": "",
       "resolution_time": "5. >36h",
       "created": "2026-04-24",
-      "closed": "2026-04-28",
-      "last_modified": "2026-04-28"
+      "closed": "2026-04-29",
+      "last_modified": "2026-04-29"
     },
     {
       "id": "500Sa00000qUzhdIAC",
@@ -326,10 +414,10 @@
       "channel": "Email",
       "is_critical": "L4",
       "escalated_team": "",
-      "resolution_time": "1. <6h",
+      "resolution_time": "5. >36h",
       "created": "2026-04-22",
-      "closed": "2026-04-22",
-      "last_modified": "2026-04-22"
+      "closed": "2026-04-29",
+      "last_modified": "2026-04-29"
     },
     {
       "id": "500Sa00000qLfqGIAS",
@@ -482,8 +570,8 @@
       "escalated_team": "",
       "resolution_time": "5. >36h",
       "created": "2026-04-21",
-      "closed": "2026-04-27",
-      "last_modified": "2026-04-27"
+      "closed": "2026-04-28",
+      "last_modified": "2026-04-28"
     },
     {
       "id": "500Sa00000qHLAEIA4",
@@ -504,8 +592,8 @@
       "escalated_team": "",
       "resolution_time": "5. >36h",
       "created": "2026-04-21",
-      "closed": "2026-04-27",
-      "last_modified": "2026-04-27"
+      "closed": "2026-04-28",
+      "last_modified": "2026-04-28"
     },
     {
       "id": "500Sa00000qGC7NIAW",
@@ -14767,9 +14855,9 @@
       "id": "500Sa00000hBeSsIAK",
       "case_number": "00023646",
       "subject": "Error en descarga de Case Archive",
-      "status": "Closed",
+      "status": "Open",
       "priority": "Low",
-      "is_closed": true,
+      "is_closed": false,
       "is_escalated": false,
       "owner": "Aitor Casas",
       "account": "Air Europa",
@@ -14780,10 +14868,10 @@
       "channel": "Email",
       "is_critical": "L4",
       "escalated_team": "",
-      "resolution_time": "1. <6h",
+      "resolution_time": "",
       "created": "2025-12-02",
-      "closed": "2025-12-02",
-      "last_modified": "2025-12-02"
+      "closed": "",
+      "last_modified": "2026-04-29"
     },
     {
       "id": "500Sa00000hBkMxIAK",
