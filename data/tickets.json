@@ -1,11 +1,67 @@
 {
-  "last_updated": "2026-04-29 09:07 UTC",
+  "last_updated": "2026-04-30 09:09 UTC",
   "tickets": [
+    {
+      "key": "PS-5473",
+      "summary": "Rag & Bone - Potential adjustment in csv files we deposit in Concentrix SFTP",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": null,
+      "issuetype": "Task",
+      "created": "2026-04-29",
+      "updated": "2026-04-29",
+      "resolutiondate": "",
+      "labels": [
+        "Rag&Bone"
+      ]
+    },
+    {
+      "key": "PS-5472",
+      "summary": "Rag & Bone - Prepare the Salesforce migration",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": null,
+      "issuetype": "Task",
+      "created": "2026-04-29",
+      "updated": "2026-04-29",
+      "resolutiondate": "",
+      "labels": [
+        "Rag&Bone"
+      ]
+    },
+    {
+      "key": "PS-5471",
+      "summary": "Rag & Bone - Clone the bot in staging and production",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": null,
+      "issuetype": "Task",
+      "created": "2026-04-29",
+      "updated": "2026-04-29",
+      "resolutiondate": "",
+      "labels": [
+        "Rag&Bone"
+      ]
+    },
+    {
+      "key": "PS-5470",
+      "summary": "Soledad - integrate soledad's logo on webview ",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Lorena Sánchez-Toril Nicolás",
+      "issuetype": "Task",
+      "created": "2026-04-29",
+      "updated": "2026-04-29",
+      "resolutiondate": "",
+      "labels": [
+        "Soledad"
+      ]
+    },
     {
       "key": "PS-5469",
       "summary": "Verisure Spain - Add Contact Reason to trigger Altitude",
-      "status": "Ready for review",
-      "status_category": "In Progress",
+      "status": "In production",
+      "status_category": "Done",
       "assignee": "Adrià Sastre",
       "issuetype": "Task",
       "created": "2026-04-29",
@@ -60,12 +116,12 @@
     {
       "key": "PS-5465",
       "summary": "Internal - Update Bot Template to use the version 0.48",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Ready for review",
+      "status_category": "In Progress",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-04-28",
-      "updated": "2026-04-28",
+      "updated": "2026-04-29",
       "resolutiondate": "",
       "labels": [
         "Internal"
@@ -74,12 +130,12 @@
     {
       "key": "PS-5464",
       "summary": "Internal - Bump internal packages to version 0.48",
-      "status": "In Progress",
+      "status": "Ready for review",
       "status_category": "In Progress",
       "assignee": "Adrià Sastre",
       "issuetype": "Task",
       "created": "2026-04-28",
-      "updated": "2026-04-28",
+      "updated": "2026-04-29",
       "resolutiondate": "",
       "labels": [
         "Internal"
@@ -102,12 +158,12 @@
     {
       "key": "PS-5462",
       "summary": "SegurCaixa - Fix empty date in ClinicContact webview email",
-      "status": "In production",
+      "status": "Done",
       "status_category": "Done",
       "assignee": "Adrià Sastre",
       "issuetype": "Bug",
       "created": "2026-04-28",
-      "updated": "2026-04-28",
+      "updated": "2026-04-29",
       "resolutiondate": "",
       "labels": []
     },
@@ -142,12 +198,12 @@
     {
       "key": "PS-5459",
       "summary": "Allianz ES - Preparar reunión que explique las funcionalidades de AI Copilot para presentar a Judith de Allianz",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "In Progress",
+      "status_category": "In Progress",
       "assignee": "Julieta Mezza",
       "issuetype": "Task",
       "created": "2026-04-28",
-      "updated": "2026-04-28",
+      "updated": "2026-04-29",
       "resolutiondate": "",
       "labels": [
         "Allianz-ES"
@@ -156,12 +212,12 @@
     {
       "key": "PS-5458",
       "summary": "Verisure Spain - Inicio de conversacion, \"Por aquí\" o \"Llámame\"",
-      "status": "Open",
-      "status_category": "To Do",
+      "status": "Ready for review",
+      "status_category": "In Progress",
       "assignee": "Aitor Casas",
       "issuetype": "Task",
       "created": "2026-04-28",
-      "updated": "2026-04-29",
+      "updated": "2026-04-30",
       "resolutiondate": "",
       "labels": [
         "Verisure_ES"
@@ -170,8 +226,8 @@
     {
       "key": "PS-5457",
       "summary": "WhatsApp Campaigns - Mejorar la presentación actual de ppt",
-      "status": "In Progress",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Patrícia Sánchez",
       "issuetype": "Task",
       "created": "2026-04-28",
@@ -242,10 +298,10 @@
       "summary": "RACC - Dashboard Ahorro Energético (datos Tinybird)",
       "status": "Open",
       "status_category": "To Do",
-      "assignee": null,
+      "assignee": "Marta Marron",
       "issuetype": "Epic",
       "created": "2026-04-27",
-      "updated": "2026-04-27",
+      "updated": "2026-04-29",
       "resolutiondate": "",
       "labels": [
         "RACC"
@@ -421,7 +477,7 @@
       "assignee": "Evgeni Slavyanov",
       "issuetype": "Task",
       "created": "2026-04-23",
-      "updated": "2026-04-28",
+      "updated": "2026-04-29",
       "resolutiondate": "",
       "labels": [
         "Verisure_IT"
@@ -430,7 +486,7 @@
     {
       "key": "PS-5437",
       "summary": "Assegur - Upgrade Botonic version to enable audio transcription",
-      "status": "APPROVED FOR PRODUCTION",
+      "status": "Done",
       "status_category": "Done",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
@@ -570,12 +626,12 @@
     {
       "key": "PS-5427",
       "summary": "Michael Kors - Warranty flow data capture validation and language to be sent to Zendesk",
-      "status": "Ready for review",
+      "status": "Ready to Deliver",
       "status_category": "In Progress",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-04-23",
-      "updated": "2026-04-27",
+      "updated": "2026-04-29",
       "resolutiondate": "",
       "labels": [
         "Michael-Kors"
@@ -589,7 +645,7 @@
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-04-23",
-      "updated": "2026-04-27",
+      "updated": "2026-04-30",
       "resolutiondate": "",
       "labels": [
         "Michael-Kors"
@@ -640,12 +696,12 @@
     {
       "key": "PS-5422",
       "summary": "Allianz Partners - Revisar que se estén enviando las coordenadas de geolocalización cuando se crea caso",
-      "status": "Ready to Deliver",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Adrià Sastre",
       "issuetype": "Bug",
       "created": "2026-04-22",
-      "updated": "2026-04-28",
+      "updated": "2026-04-30",
       "resolutiondate": "",
       "labels": [
         "AllianzPartners"
@@ -750,12 +806,12 @@
     {
       "key": "PS-5414",
       "summary": "Ralph Lauren - Prepare for workshop",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Andrea Talal Haidar",
       "issuetype": "Discovery Task",
       "created": "2026-04-22",
-      "updated": "2026-04-27",
+      "updated": "2026-04-29",
       "resolutiondate": "",
       "labels": [
         "Ralph_Lauren"
@@ -825,7 +881,7 @@
       "assignee": "Andrea Talal Haidar",
       "issuetype": "Discovery Task",
       "created": "2026-04-22",
-      "updated": "2026-04-27",
+      "updated": "2026-04-29",
       "resolutiondate": "",
       "labels": [
         "Libeen"
@@ -839,19 +895,21 @@
       "assignee": "Pep Alonso",
       "issuetype": "Task",
       "created": "2026-04-21",
-      "updated": "2026-04-23",
+      "updated": "2026-04-29",
       "resolutiondate": "",
-      "labels": []
+      "labels": [
+        "Internal"
+      ]
     },
     {
       "key": "PS-5407",
       "summary": "Allianz Es - Review why the data from the webviews duplicado de póliza y siniestros is not being sent",
-      "status": "Ready for review",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Pep Alonso",
       "issuetype": "Task",
       "created": "2026-04-21",
-      "updated": "2026-04-24",
+      "updated": "2026-04-29",
       "resolutiondate": "",
       "labels": [
         "Allianz-ES",
@@ -861,12 +919,12 @@
     {
       "key": "PS-5406",
       "summary": "Jetsmart - Fix SSR price discrepancy by making prices API-driven",
-      "status": "Ready for review",
-      "status_category": "In Progress",
+      "status": "To Do",
+      "status_category": "To Do",
       "assignee": "Pep Alonso",
       "issuetype": "Task",
       "created": "2026-04-21",
-      "updated": "2026-04-27",
+      "updated": "2026-04-29",
       "resolutiondate": "",
       "labels": [
         "JetSmart"
@@ -929,12 +987,12 @@
     {
       "key": "PS-5399",
       "summary": "Rag & Bone - Deploy 2 new R&B Bots within the Guess Dashboard (Staging and Production)",
-      "status": "Ready for review",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-04-21",
-      "updated": "2026-04-28",
+      "updated": "2026-04-29",
       "resolutiondate": "",
       "labels": [
         "Rag&Bone"
@@ -1115,9 +1173,11 @@
       "assignee": "irene callejas",
       "issuetype": "Task",
       "created": "2026-04-20",
-      "updated": "2026-04-20",
+      "updated": "2026-04-29",
       "resolutiondate": "",
-      "labels": []
+      "labels": [
+        "Internal"
+      ]
     },
     {
       "key": "PS-5385",
@@ -1155,9 +1215,11 @@
       "assignee": null,
       "issuetype": "Task",
       "created": "2026-04-18",
-      "updated": "2026-04-20",
+      "updated": "2026-04-29",
       "resolutiondate": "",
-      "labels": []
+      "labels": [
+        "Internal"
+      ]
     },
     {
       "key": "PS-5381",
@@ -1277,9 +1339,11 @@
       "assignee": null,
       "issuetype": "Task",
       "created": "2026-04-15",
-      "updated": "2026-04-15",
+      "updated": "2026-04-29",
       "resolutiondate": "",
-      "labels": []
+      "labels": [
+        "Internal"
+      ]
     },
     {
       "key": "PS-5371",
@@ -1289,9 +1353,11 @@
       "assignee": null,
       "issuetype": "Task",
       "created": "2026-04-15",
-      "updated": "2026-04-15",
+      "updated": "2026-04-29",
       "resolutiondate": "",
-      "labels": []
+      "labels": [
+        "Internal"
+      ]
     },
     {
       "key": "PS-5370",
@@ -1340,10 +1406,10 @@
       "summary": "Multiasistencia - Santander - Update the Claim webview with the integration with the Middleware",
       "status": "Ready for review",
       "status_category": "In Progress",
-      "assignee": null,
+      "assignee": "Evgeni Slavyanov",
       "issuetype": "Task",
       "created": "2026-04-14",
-      "updated": "2026-04-22",
+      "updated": "2026-04-29",
       "resolutiondate": "",
       "labels": [
         "Multiasistencia"
@@ -1813,10 +1879,10 @@
       "summary": "Libeen - Project 1st Phase",
       "status": "Open",
       "status_category": "To Do",
-      "assignee": null,
+      "assignee": "Marta Marron",
       "issuetype": "Epic",
       "created": "2026-04-10",
-      "updated": "2026-04-13",
+      "updated": "2026-04-29",
       "resolutiondate": "",
       "labels": [
         "Libeen"
@@ -1895,12 +1961,12 @@
     {
       "key": "PS-5324",
       "summary": "Polarier - Keep testing and refining Prompt / UX ",
-      "status": "In Progress",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Andrea Talal Haidar",
       "issuetype": "Discovery Task",
       "created": "2026-04-10",
-      "updated": "2026-04-22",
+      "updated": "2026-04-29",
       "resolutiondate": "",
       "labels": [
         "Polarier"
@@ -2035,12 +2101,12 @@
     {
       "key": "PS-5314",
       "summary": "WizzAir - Fix Custom Message errors",
-      "status": "APPROVED FOR PRODUCTION",
+      "status": "In production",
       "status_category": "Done",
       "assignee": "Evgeni Slavyanov",
       "issuetype": "Task",
       "created": "2026-04-09",
-      "updated": "2026-04-27",
+      "updated": "2026-04-29",
       "resolutiondate": "",
       "labels": [
         "WizzAir"
@@ -2206,19 +2272,21 @@
       "assignee": null,
       "issuetype": "Task",
       "created": "2026-04-08",
-      "updated": "2026-04-08",
+      "updated": "2026-04-29",
       "resolutiondate": "",
-      "labels": []
+      "labels": [
+        "Internal"
+      ]
     },
     {
       "key": "PS-5301",
       "summary": "Rag&Bone - Fix Unhandled Promise Rejection (ERROR_HTTP_503) in Salesforce Bulk API integration",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "In Progress",
+      "status_category": "In Progress",
       "assignee": "Evgeni Slavyanov",
       "issuetype": "Task",
       "created": "2026-04-08",
-      "updated": "2026-04-13",
+      "updated": "2026-04-30",
       "resolutiondate": "",
       "labels": [
         "Rag&Bone"
@@ -2227,7 +2295,7 @@
     {
       "key": "PS-5300",
       "summary": "Guess - Fix Unhandled Promise Rejection (ERROR_HTTP_503) in Salesforce Bulk API integration",
-      "status": "In Progress",
+      "status": "Ready for review",
       "status_category": "In Progress",
       "assignee": "Evgeni Slavyanov",
       "issuetype": "Task",
@@ -2716,9 +2784,11 @@
       "assignee": "Pep Alonso",
       "issuetype": "Discovery Task",
       "created": "2026-03-26",
-      "updated": "2026-03-26",
+      "updated": "2026-04-29",
       "resolutiondate": "",
-      "labels": []
+      "labels": [
+        "Internal"
+      ]
     },
     {
       "key": "PS-5263",
@@ -3120,9 +3190,11 @@
       "assignee": null,
       "issuetype": "Epic",
       "created": "2026-03-24",
-      "updated": "2026-03-25",
+      "updated": "2026-04-29",
       "resolutiondate": "",
-      "labels": []
+      "labels": [
+        "Internal"
+      ]
     },
     {
       "key": "PS-5233",
