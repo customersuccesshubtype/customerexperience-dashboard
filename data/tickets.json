@@ -1,6 +1,88 @@
 {
-  "last_updated": "2026-04-30 09:09 UTC",
+  "last_updated": "2026-05-01 08:58 UTC",
   "tickets": [
+    {
+      "key": "PS-5480",
+      "summary": "Allianz - Modificación en el webview de Claims",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": null,
+      "issuetype": "Discovery Task",
+      "created": "2026-04-30",
+      "updated": "2026-04-30",
+      "resolutiondate": "",
+      "labels": [
+        "Allianz"
+      ]
+    },
+    {
+      "key": "PS-5479",
+      "summary": "Soledad - Include branding in the web view ",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Vicky Correbo",
+      "issuetype": "Discovery Task",
+      "created": "2026-04-30",
+      "updated": "2026-04-30",
+      "resolutiondate": "",
+      "labels": []
+    },
+    {
+      "key": "PS-5478",
+      "summary": "Retorna - Fix bug contact info fields",
+      "status": "Ready for review",
+      "status_category": "In Progress",
+      "assignee": "Lorena Sánchez-Toril Nicolás",
+      "issuetype": "Task",
+      "created": "2026-04-30",
+      "updated": "2026-04-30",
+      "resolutiondate": "",
+      "labels": [
+        "Retorna"
+      ]
+    },
+    {
+      "key": "PS-5477",
+      "summary": "Alsa - Analizar qué criterio de MAUs se usa en su Dashboard de Looker",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Aitor Casas",
+      "issuetype": "Task",
+      "created": "2026-04-30",
+      "updated": "2026-04-30",
+      "resolutiondate": "",
+      "labels": [
+        "Alsa"
+      ]
+    },
+    {
+      "key": "PS-5475",
+      "summary": "Soledad - feedback changes",
+      "status": "In Progress",
+      "status_category": "In Progress",
+      "assignee": "Lorena Sánchez-Toril Nicolás",
+      "issuetype": "Task",
+      "created": "2026-04-30",
+      "updated": "2026-04-30",
+      "resolutiondate": "",
+      "labels": [
+        "Soledad"
+      ]
+    },
+    {
+      "key": "PS-5474",
+      "summary": "Soledad _ prompt improvements from feedback",
+      "status": "Done",
+      "status_category": "Done",
+      "assignee": "Lorena Sánchez-Toril Nicolás",
+      "issuetype": "Task",
+      "created": "2026-04-30",
+      "updated": "2026-04-30",
+      "resolutiondate": "",
+      "labels": [
+        "Soledad"
+      ]
+    },
     {
       "key": "PS-5473",
       "summary": "Rag & Bone - Potential adjustment in csv files we deposit in Concentrix SFTP",
@@ -88,12 +170,12 @@
     {
       "key": "PS-5467",
       "summary": "Ralph Lauren - Gather fixed responses +. repetitive words stats",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "irene callejas",
       "issuetype": "Task",
       "created": "2026-04-28",
-      "updated": "2026-04-28",
+      "updated": "2026-04-30",
       "resolutiondate": "",
       "labels": [
         "Ralph_Lauren"
@@ -102,12 +184,12 @@
     {
       "key": "PS-5466",
       "summary": "Libeen - Battle_test _  get AI agent running",
-      "status": "In Progress",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "irene callejas",
       "issuetype": "Task",
       "created": "2026-04-28",
-      "updated": "2026-04-28",
+      "updated": "2026-04-30",
       "resolutiondate": "",
       "labels": [
         "Libeen"
@@ -406,12 +488,12 @@
     {
       "key": "PS-5443",
       "summary": "Air Europa - We are displaying English version of the bot for LATAM countries in WhatsApp",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "In Progress",
+      "status_category": "In Progress",
       "assignee": "Alexander Skalatskiy",
       "issuetype": "Bug",
       "created": "2026-04-24",
-      "updated": "2026-04-27",
+      "updated": "2026-04-30",
       "resolutiondate": "",
       "labels": [
         "AirEuropa"
@@ -626,12 +708,12 @@
     {
       "key": "PS-5427",
       "summary": "Michael Kors - Warranty flow data capture validation and language to be sent to Zendesk",
-      "status": "Ready to Deliver",
-      "status_category": "In Progress",
+      "status": "In production",
+      "status_category": "Done",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-04-23",
-      "updated": "2026-04-29",
+      "updated": "2026-04-30",
       "resolutiondate": "",
       "labels": [
         "Michael-Kors"
@@ -640,8 +722,8 @@
     {
       "key": "PS-5426",
       "summary": "Michael Kors - Upgrade bot version to the latest",
-      "status": "Ready for review",
-      "status_category": "In Progress",
+      "status": "In production",
+      "status_category": "Done",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-04-23",
@@ -687,7 +769,7 @@
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-04-22",
-      "updated": "2026-04-29",
+      "updated": "2026-04-30",
       "resolutiondate": "",
       "labels": [
         "Guess"
@@ -1001,12 +1083,12 @@
     {
       "key": "PS-5398",
       "summary": "Retorna - Review API Errors \"Consultar Remesa\"",
-      "status": "Ready for review",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-04-21",
-      "updated": "2026-04-29",
+      "updated": "2026-04-30",
       "resolutiondate": "",
       "labels": [
         "Retorna"
@@ -1840,7 +1922,7 @@
       "assignee": "Alexander Skalatskiy",
       "issuetype": "Task",
       "created": "2026-04-10",
-      "updated": "2026-04-21",
+      "updated": "2026-04-30",
       "resolutiondate": "",
       "labels": [
         "Libeen"
@@ -2281,7 +2363,7 @@
     {
       "key": "PS-5301",
       "summary": "Rag&Bone - Fix Unhandled Promise Rejection (ERROR_HTTP_503) in Salesforce Bulk API integration",
-      "status": "In Progress",
+      "status": "Ready for review",
       "status_category": "In Progress",
       "assignee": "Evgeni Slavyanov",
       "issuetype": "Task",
