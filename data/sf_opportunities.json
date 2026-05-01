@@ -1,6 +1,40 @@
 {
-  "last_updated": "2026-04-30 09:26 UTC",
+  "last_updated": "2026-05-01 09:10 UTC",
   "opportunities": [
+    {
+      "id": "006Sa00000fJaRaIAK",
+      "name": "2026-U-SegurcaixaAdeslas- Extra MAUs April 2026",
+      "type": "Upsell",
+      "stage": "Closed Won",
+      "is_closed": true,
+      "is_won": true,
+      "probability": 100.0,
+      "amount": 246.0,
+      "arr": 0.0,
+      "owner": "Marta Marron",
+      "cs_lead": "",
+      "account": "SegurCaixa Adeslas",
+      "created": "2026-05-01",
+      "close_date": "2026-05-01",
+      "start_date": "2026-05-01"
+    },
+    {
+      "id": "006Sa00000fJPhTIAW",
+      "name": "2026-U-Securitas (Lead Gen)- Extra MAUs April 2026",
+      "type": "Upsell",
+      "stage": "Closed Won",
+      "is_closed": true,
+      "is_won": true,
+      "probability": 100.0,
+      "amount": 803.67,
+      "arr": 0.0,
+      "owner": "Marta Marron",
+      "cs_lead": "",
+      "account": "Verisure Spain Lead Gen",
+      "created": "2026-05-01",
+      "close_date": "2026-05-01",
+      "start_date": "2026-05-01"
+    },
     {
       "id": "006Sa00000ezGQeIAM",
       "name": "2026-U-Allianz Partners-Allianz PT-CA(WA)",
@@ -1156,23 +1190,6 @@
       "created": "2025-12-04",
       "close_date": "2026-01-07",
       "start_date": "2026-01-07"
-    },
-    {
-      "id": "006Sa00000WfSypIAF",
-      "name": "2026-R-Rag&Bone-CA(Webchat,Whatsapp)",
-      "type": "Renewal",
-      "stage": "Opportunity identified",
-      "is_closed": false,
-      "is_won": false,
-      "probability": 10.0,
-      "amount": 37944.0,
-      "arr": 37944.0,
-      "owner": "Francisca Martelli",
-      "cs_lead": "Marta Marron",
-      "account": "Rag&Bone",
-      "created": "2025-12-03",
-      "close_date": "2026-05-30",
-      "start_date": "2026-07-01"
     },
     {
       "id": "006Sa00000WXciQIAT",
