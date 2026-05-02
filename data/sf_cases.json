@@ -1,6 +1,28 @@
 {
-  "last_updated": "2026-05-01 09:10 UTC",
+  "last_updated": "2026-05-02 08:43 UTC",
   "cases": [
+    {
+      "id": "500Sa00000qxUCLIA2",
+      "case_number": "00024660",
+      "subject": "Profile error: Unable to assign queues",
+      "status": "New",
+      "priority": "Low",
+      "is_closed": false,
+      "is_escalated": false,
+      "owner": "Aitor Casas",
+      "account": "",
+      "origin": "Inbound",
+      "type": "",
+      "feeling": "",
+      "issue_type": "",
+      "channel": "Email",
+      "is_critical": "L4",
+      "escalated_team": "",
+      "resolution_time": "",
+      "created": "2026-05-01",
+      "closed": "",
+      "last_modified": "2026-05-01"
+    },
     {
       "id": "500Sa00000qvv22IAA",
       "case_number": "00024659",
