@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-03 08:57 UTC",
+  "last_updated": "2026-05-04 09:31 UTC",
   "opportunities": [
     {
       "id": "006Sa00000fJaRaIAK",
@@ -974,17 +974,17 @@
       "id": "006Sa00000Y9q5RIAR",
       "name": "2026-R-AirEuropa-CA(WA, Webchat)",
       "type": "Renewal",
-      "stage": "Procurement",
-      "is_closed": false,
-      "is_won": false,
-      "probability": 70.0,
+      "stage": "Closed Won",
+      "is_closed": true,
+      "is_won": true,
+      "probability": 100.0,
       "amount": 98108.04,
       "arr": 97508.04,
       "owner": "Marta Marron",
       "cs_lead": "Julieta Mezza",
       "account": "Air Europa",
       "created": "2026-01-04",
-      "close_date": "2026-05-02",
+      "close_date": "2026-05-04",
       "start_date": "2026-05-01"
     },
     {
