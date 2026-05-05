@@ -1,23 +1,37 @@
 {
-  "last_updated": "2026-05-04 09:15 UTC",
+  "last_updated": "2026-05-05 09:05 UTC",
   "tickets": [
     {
-      "key": "PS-5485",
-      "summary": "RACC START - Modificar el OOO de WhatsApp para permitir creación de casos",
+      "key": "PS-5497",
+      "summary": "Ralph Lauren - Work on the AI Agent Prompt so that it avoids repetitive words",
       "status": "To Do",
       "status_category": "To Do",
-      "assignee": "Aitor Casas",
+      "assignee": "irene callejas",
       "issuetype": "Task",
       "created": "2026-05-04",
       "updated": "2026-05-04",
       "resolutiondate": "",
       "labels": [
-        "RACC_START"
+        "Ralph_Lauren"
       ]
     },
     {
-      "key": "PS-5484",
-      "summary": "EcoPiezas - Deploy bot staging and prod",
+      "key": "PS-5496",
+      "summary": "Demos - Update Automated + General Demos to 0.48.0",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": null,
+      "issuetype": "Task",
+      "created": "2026-05-04",
+      "updated": "2026-05-04",
+      "resolutiondate": "",
+      "labels": [
+        "Demo"
+      ]
+    },
+    {
+      "key": "PS-5495",
+      "summary": "EcoPiezas - Create Project and queues and dashboard settings (SLA, ....)",
       "status": "To Do",
       "status_category": "To Do",
       "assignee": null,
@@ -30,10 +44,160 @@
       ]
     },
     {
-      "key": "PS-5483",
-      "summary": "Ecopiezas - Create Organization_id",
+      "key": "PS-5494",
+      "summary": "Multiasistencia - Remove Orange and Generali bots",
       "status": "To Do",
       "status_category": "To Do",
+      "assignee": null,
+      "issuetype": "Task",
+      "created": "2026-05-04",
+      "updated": "2026-05-04",
+      "resolutiondate": "",
+      "labels": []
+    },
+    {
+      "key": "PS-5493",
+      "summary": "Soledad - Filter out tires with Stock = 1",
+      "status": "Ready to Deliver",
+      "status_category": "In Progress",
+      "assignee": "Lorena Sánchez-Toril Nicolás",
+      "issuetype": "Task",
+      "created": "2026-05-04",
+      "updated": "2026-05-05",
+      "resolutiondate": "",
+      "labels": [
+        "Soledad"
+      ]
+    },
+    {
+      "key": "PS-5492",
+      "summary": "Jetsmart - Fix the response when user is sending media files",
+      "status": "Done",
+      "status_category": "Done",
+      "assignee": "Pep Alonso",
+      "issuetype": "Task",
+      "created": "2026-05-04",
+      "updated": "2026-05-04",
+      "resolutiondate": "",
+      "labels": [
+        "JetSmart"
+      ]
+    },
+    {
+      "key": "PS-5491",
+      "summary": "Rag&Bone - Create new snippet with new App ID and WhatsApp option",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": null,
+      "issuetype": "Task",
+      "created": "2026-05-04",
+      "updated": "2026-05-04",
+      "resolutiondate": "",
+      "labels": [
+        "Rag&Bone"
+      ]
+    },
+    {
+      "key": "PS-5490",
+      "summary": "Rag & Bone - Connect the WhatsApp number to the new bot in Guess Dashboard",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Aitor Casas",
+      "issuetype": "Task",
+      "created": "2026-05-04",
+      "updated": "2026-05-04",
+      "resolutiondate": "",
+      "labels": [
+        "Rag&Bone"
+      ]
+    },
+    {
+      "key": "PS-5489",
+      "summary": "Air Europa - Delete in staging the code adjustment meant to send specific message to users sending audios",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Alexander Skalatskiy",
+      "issuetype": "Task",
+      "created": "2026-05-04",
+      "updated": "2026-05-04",
+      "resolutiondate": "",
+      "labels": []
+    },
+    {
+      "key": "PS-5488",
+      "summary": "Air Europa - Activate audio transcription and review if the input is automatically sent to AVA",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Julieta Mezza",
+      "issuetype": "Task",
+      "created": "2026-05-04",
+      "updated": "2026-05-04",
+      "resolutiondate": "",
+      "labels": [
+        "AirEuropa"
+      ]
+    },
+    {
+      "key": "PS-5487",
+      "summary": "LIBEEN - TEST AND REVIEW UX",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Andrea Talal Haidar",
+      "issuetype": "Discovery Task",
+      "created": "2026-05-04",
+      "updated": "2026-05-05",
+      "resolutiondate": "",
+      "labels": [
+        "Libeen"
+      ]
+    },
+    {
+      "key": "PS-5486",
+      "summary": "Occident - Coexistence: Detect \"'whatsapp_business_app_echo': True}\" in conversation's extra data and do a Handoff",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Adrià Sastre",
+      "issuetype": "Task",
+      "created": "2026-05-04",
+      "updated": "2026-05-04",
+      "resolutiondate": "",
+      "labels": [
+        "occident"
+      ]
+    },
+    {
+      "key": "PS-5485",
+      "summary": "RACC START - Modificar el OOO de WhatsApp para permitir creación de casos",
+      "status": "In production",
+      "status_category": "Done",
+      "assignee": "Aitor Casas",
+      "issuetype": "Task",
+      "created": "2026-05-04",
+      "updated": "2026-05-04",
+      "resolutiondate": "",
+      "labels": [
+        "RACC_START"
+      ]
+    },
+    {
+      "key": "PS-5484",
+      "summary": "EcoPiezas - Deploy bot staging and prod",
+      "status": "Done",
+      "status_category": "Done",
+      "assignee": "Lorena Sánchez-Toril Nicolás",
+      "issuetype": "Task",
+      "created": "2026-05-04",
+      "updated": "2026-05-04",
+      "resolutiondate": "",
+      "labels": [
+        "EcoPiezas"
+      ]
+    },
+    {
+      "key": "PS-5483",
+      "summary": "Ecopiezas - Create Organization_id",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Aitor Casas",
       "issuetype": "Task",
       "created": "2026-05-04",
@@ -46,8 +210,8 @@
     {
       "key": "PS-5482",
       "summary": "EcoPiezas - Project 1st phase",
-      "status": "Open",
-      "status_category": "To Do",
+      "status": "In Progress",
+      "status_category": "In Progress",
       "assignee": null,
       "issuetype": "Epic",
       "created": "2026-05-04",
@@ -72,12 +236,12 @@
     {
       "key": "PS-5480",
       "summary": "Allianz - Modificación en el webview de Claims",
-      "status": "To Do",
-      "status_category": "To Do",
-      "assignee": null,
-      "issuetype": "Discovery Task",
+      "status": "APPROVED FOR PRODUCTION",
+      "status_category": "Done",
+      "assignee": "Lorena Sánchez-Toril Nicolás",
+      "issuetype": "Task",
       "created": "2026-04-30",
-      "updated": "2026-04-30",
+      "updated": "2026-05-05",
       "resolutiondate": "",
       "labels": [
         "Allianz"
@@ -86,8 +250,8 @@
     {
       "key": "PS-5479",
       "summary": "Soledad - Include branding in the web view ",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "In Progress",
+      "status_category": "In Progress",
       "assignee": "Vicky Correbo",
       "issuetype": "Discovery Task",
       "created": "2026-04-30",
@@ -128,12 +292,12 @@
     {
       "key": "PS-5475",
       "summary": "Soledad - feedback changes",
-      "status": "In Progress",
+      "status": "Ready for review",
       "status_category": "In Progress",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-04-30",
-      "updated": "2026-04-30",
+      "updated": "2026-05-04",
       "resolutiondate": "",
       "labels": [
         "Soledad"
@@ -172,10 +336,10 @@
       "summary": "Rag & Bone - Prepare the Salesforce migration",
       "status": "To Do",
       "status_category": "To Do",
-      "assignee": null,
+      "assignee": "Pep Alonso",
       "issuetype": "Task",
       "created": "2026-04-29",
-      "updated": "2026-04-29",
+      "updated": "2026-05-04",
       "resolutiondate": "",
       "labels": [
         "Rag&Bone"
@@ -186,10 +350,10 @@
       "summary": "Rag & Bone - Clone the bot in staging and production",
       "status": "To Do",
       "status_category": "To Do",
-      "assignee": null,
+      "assignee": "Pep Alonso",
       "issuetype": "Task",
       "created": "2026-04-29",
-      "updated": "2026-04-29",
+      "updated": "2026-05-04",
       "resolutiondate": "",
       "labels": [
         "Rag&Bone"
@@ -226,12 +390,12 @@
     {
       "key": "PS-5468",
       "summary": "Documentación técnica: API Infotourist (Turisme de Catalunya)",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Marta Marron",
       "issuetype": "Task",
       "created": "2026-04-29",
-      "updated": "2026-04-29",
+      "updated": "2026-05-05",
       "resolutiondate": "",
       "labels": [
         "Generalitat-Turisme"
@@ -420,12 +584,12 @@
     {
       "key": "PS-5454",
       "summary": "Occident - Coexistence: Review how we can identify a message sent by an agent through the Whatsapp Business app",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Sergi Sorigue",
       "issuetype": "Task",
       "created": "2026-04-27",
-      "updated": "2026-04-27",
+      "updated": "2026-05-04",
       "resolutiondate": "",
       "labels": [
         "occident"
@@ -434,12 +598,12 @@
     {
       "key": "PS-5453",
       "summary": "RACC - Dashboard Ahorro Energético (datos Tinybird) - Estimate effort and approach",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Marta Marron",
       "issuetype": "Discovery Task",
       "created": "2026-04-27",
-      "updated": "2026-04-27",
+      "updated": "2026-05-05",
       "resolutiondate": "",
       "labels": [
         "RACC"
@@ -448,12 +612,12 @@
     {
       "key": "PS-5452",
       "summary": "RACC - Dashboard Ahorro Energético (datos Tinybird)",
-      "status": "Open",
-      "status_category": "To Do",
+      "status": "Closed",
+      "status_category": "Done",
       "assignee": "Marta Marron",
       "issuetype": "Epic",
       "created": "2026-04-27",
-      "updated": "2026-04-29",
+      "updated": "2026-05-05",
       "resolutiondate": "",
       "labels": [
         "RACC"
@@ -504,12 +668,12 @@
     {
       "key": "PS-5447",
       "summary": "RACC - New template and flow in Flowbuilder",
-      "status": "In Progress",
+      "status": "Ready to Deliver",
       "status_category": "In Progress",
       "assignee": "Aitor Casas",
       "issuetype": "Task",
       "created": "2026-04-27",
-      "updated": "2026-04-28",
+      "updated": "2026-05-04",
       "resolutiondate": "",
       "labels": [
         "RACC"
@@ -615,7 +779,7 @@
       "assignee": "Adrià Sastre",
       "issuetype": "Task",
       "created": "2026-04-23",
-      "updated": "2026-04-27",
+      "updated": "2026-05-04",
       "resolutiondate": "",
       "labels": [
         "SegurCaixa"
@@ -671,7 +835,7 @@
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-04-23",
-      "updated": "2026-04-23",
+      "updated": "2026-05-04",
       "resolutiondate": "",
       "labels": [
         "Soledad"
@@ -713,7 +877,7 @@
       "assignee": null,
       "issuetype": "Task",
       "created": "2026-04-23",
-      "updated": "2026-04-29",
+      "updated": "2026-05-05",
       "resolutiondate": "",
       "labels": [
         "AirEuropa"
@@ -750,12 +914,12 @@
     {
       "key": "PS-5429",
       "summary": "Air Europa - Flow translation to Catalan",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "In Review",
+      "status_category": "In Progress",
       "assignee": "Julieta Mezza",
       "issuetype": "Task",
       "created": "2026-04-23",
-      "updated": "2026-04-23",
+      "updated": "2026-05-04",
       "resolutiondate": "",
       "labels": [
         "AirEuropa"
@@ -834,7 +998,7 @@
     {
       "key": "PS-5423",
       "summary": "Guess - Implement New \"Order Number\" Field in Salesforce Integration",
-      "status": "Ready for review",
+      "status": "Ready to Deliver",
       "status_category": "In Progress",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
@@ -890,12 +1054,12 @@
     {
       "key": "PS-5419",
       "summary": "Air Europa - Add tracking to webviews",
-      "status": "Ready to Deliver",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Alexander Skalatskiy",
       "issuetype": "Task",
       "created": "2026-04-22",
-      "updated": "2026-04-29",
+      "updated": "2026-05-04",
       "resolutiondate": "",
       "labels": [
         "AirEuropa"
@@ -904,12 +1068,12 @@
     {
       "key": "PS-5418",
       "summary": "Allianz Partners - Guardar la matrícula como Conversation Info Field y enviarlo a Tinybird",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Closed",
+      "status_category": "Done",
       "assignee": "Pep Alonso",
       "issuetype": "Task",
       "created": "2026-04-22",
-      "updated": "2026-04-22",
+      "updated": "2026-05-04",
       "resolutiondate": "",
       "labels": [
         "AllianzPartners"
@@ -932,12 +1096,12 @@
     {
       "key": "PS-5416",
       "summary": "Air Europa - Allow all message types in default routes",
-      "status": "In production",
+      "status": "Done",
       "status_category": "Done",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-04-22",
-      "updated": "2026-04-24",
+      "updated": "2026-05-04",
       "resolutiondate": "",
       "labels": []
     },
@@ -972,12 +1136,12 @@
     {
       "key": "PS-5413",
       "summary": "Air Europa - Estimate improvements",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Julieta Mezza",
       "issuetype": "Task",
       "created": "2026-04-22",
-      "updated": "2026-04-22",
+      "updated": "2026-05-05",
       "resolutiondate": "",
       "labels": [
         "AirEuropa"
@@ -1028,12 +1192,12 @@
     {
       "key": "PS-5409",
       "summary": "Libeen - AI service blueprint + first prompt version",
-      "status": "In Progress",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Andrea Talal Haidar",
       "issuetype": "Discovery Task",
       "created": "2026-04-22",
-      "updated": "2026-04-29",
+      "updated": "2026-05-04",
       "resolutiondate": "",
       "labels": [
         "Libeen"
@@ -1071,12 +1235,12 @@
     {
       "key": "PS-5406",
       "summary": "Jetsmart - Fix SSR price discrepancy by making prices API-driven",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "In Review",
+      "status_category": "In Progress",
       "assignee": "Pep Alonso",
       "issuetype": "Task",
       "created": "2026-04-21",
-      "updated": "2026-04-29",
+      "updated": "2026-05-04",
       "resolutiondate": "",
       "labels": [
         "JetSmart"
@@ -1250,12 +1414,12 @@
     {
       "key": "PS-5391",
       "summary": "Air Europa - BUG - Modify button is not displayed when it should",
-      "status": "In production",
+      "status": "Done",
       "status_category": "Done",
       "assignee": "Alexander Skalatskiy",
       "issuetype": "Bug",
       "created": "2026-04-20",
-      "updated": "2026-04-20",
+      "updated": "2026-05-04",
       "resolutiondate": "",
       "labels": [
         "AirEuropa"
@@ -1472,12 +1636,12 @@
     {
       "key": "PS-5373",
       "summary": "Air Europa - Remove follow up content on webview closing",
-      "status": "In production",
+      "status": "Done",
       "status_category": "Done",
       "assignee": "Alexander Skalatskiy",
       "issuetype": "Task",
       "created": "2026-04-15",
-      "updated": "2026-04-15",
+      "updated": "2026-05-04",
       "resolutiondate": "",
       "labels": [
         "AirEuropa"
@@ -1627,12 +1791,12 @@
     {
       "key": "PS-5362",
       "summary": "Air Europa - Restore ShouldShowRating action",
-      "status": "In production",
+      "status": "Done",
       "status_category": "Done",
       "assignee": "Adrià Sastre",
       "issuetype": "Bug",
       "created": "2026-04-14",
-      "updated": "2026-04-14",
+      "updated": "2026-05-04",
       "resolutiondate": "",
       "labels": []
     },
@@ -1889,12 +2053,12 @@
     {
       "key": "PS-5342",
       "summary": "Air Europa - Make Integration Buttons Great Again",
-      "status": "In production",
+      "status": "Done",
       "status_category": "Done",
       "assignee": "Alexander Skalatskiy",
       "issuetype": "Task",
       "created": "2026-04-13",
-      "updated": "2026-04-15",
+      "updated": "2026-05-04",
       "resolutiondate": "",
       "labels": [
         "AirEuropa"
@@ -2029,12 +2193,12 @@
     {
       "key": "PS-5330",
       "summary": "Libeen - Project 1st Phase",
-      "status": "Open",
-      "status_category": "To Do",
+      "status": "In Progress",
+      "status_category": "In Progress",
       "assignee": "Marta Marron",
       "issuetype": "Epic",
       "created": "2026-04-10",
-      "updated": "2026-04-29",
+      "updated": "2026-05-05",
       "resolutiondate": "",
       "labels": [
         "Libeen"
@@ -2545,8 +2709,8 @@
     {
       "key": "PS-5292",
       "summary": "JetSMART - Update botonic to latest version so that we can enlable Audio transcript feature",
-      "status": "Ready to Deliver",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Evgeni Slavyanov",
       "issuetype": "Task",
       "created": "2026-04-06",
@@ -5766,10 +5930,10 @@
       "summary": "Generalitat - Turisme - Include AI Agent with Prompt and test it responds",
       "status": "In Progress",
       "status_category": "In Progress",
-      "assignee": "Francisca Martelli",
+      "assignee": "Patrícia Sánchez",
       "issuetype": "Task",
       "created": "2026-02-17",
-      "updated": "2026-03-09",
+      "updated": "2026-05-04",
       "resolutiondate": "",
       "labels": [
         "Generalitat-Turisme"
@@ -5932,12 +6096,12 @@
     {
       "key": "PS-5035",
       "summary": "Multiasistencia - Update botonic version - MULTI_MUTUA_TIN_STAGING - e7d99b0c-c542-4b8d-abb0-badecc92fa6d",
-      "status": "In Progress",
+      "status": "Ready for review",
       "status_category": "In Progress",
       "assignee": "Evgeni Slavyanov",
       "issuetype": "Task",
       "created": "2026-02-16",
-      "updated": "2026-04-20",
+      "updated": "2026-05-04",
       "resolutiondate": "",
       "labels": [
         "Multiasistencia"
@@ -6044,12 +6208,12 @@
     {
       "key": "PS-5026",
       "summary": "Multiasistencia - Update botonic version for all bots",
-      "status": "Open",
-      "status_category": "To Do",
-      "assignee": null,
+      "status": "In Progress",
+      "status_category": "In Progress",
+      "assignee": "Marta Marron",
       "issuetype": "Epic",
       "created": "2026-02-16",
-      "updated": "2026-02-16",
+      "updated": "2026-05-05",
       "resolutiondate": "",
       "labels": [
         "Multiasistencia"
@@ -6761,7 +6925,7 @@
       "assignee": "Alexander Skalatskiy",
       "issuetype": "Task",
       "created": "2026-02-05",
-      "updated": "2026-04-21",
+      "updated": "2026-05-04",
       "resolutiondate": "",
       "labels": [
         "Retorna"
@@ -9537,12 +9701,12 @@
     {
       "key": "PS-4745",
       "summary": "Jetsmart - Add extras adjustments",
-      "status": "In Progress",
+      "status": "In Review",
       "status_category": "In Progress",
       "assignee": "Pep Alonso",
       "issuetype": "Task",
       "created": "2025-12-16",
-      "updated": "2026-04-24",
+      "updated": "2026-05-04",
       "resolutiondate": "",
       "labels": [
         "JetSmart"
