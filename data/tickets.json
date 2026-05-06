@@ -1,6 +1,47 @@
 {
-  "last_updated": "2026-05-05 09:05 UTC",
+  "last_updated": "2026-05-06 09:21 UTC",
   "tickets": [
+    {
+      "key": "PS-5500",
+      "summary": "WizzAir - Update bot to 0.48",
+      "status": "In Progress",
+      "status_category": "In Progress",
+      "assignee": "Lorena Sánchez-Toril Nicolás",
+      "issuetype": "Task",
+      "created": "2026-05-06",
+      "updated": "2026-05-06",
+      "resolutiondate": "",
+      "labels": [
+        "WizzAir"
+      ]
+    },
+    {
+      "key": "PS-5499",
+      "summary": "Bug - Michael Kors - Restart conversation button in DE switches language back to EN",
+      "status": "Done",
+      "status_category": "Done",
+      "assignee": "Lorena Sánchez-Toril Nicolás",
+      "issuetype": "Bug",
+      "created": "2026-05-05",
+      "updated": "2026-05-05",
+      "resolutiondate": "",
+      "labels": [
+        "Bug",
+        "Michael-Kors"
+      ]
+    },
+    {
+      "key": "PS-5498",
+      "summary": "Internal - Archive all coches.com bots",
+      "status": "Ready for review",
+      "status_category": "In Progress",
+      "assignee": "Lorena Sánchez-Toril Nicolás",
+      "issuetype": "Task",
+      "created": "2026-05-05",
+      "updated": "2026-05-06",
+      "resolutiondate": "",
+      "labels": []
+    },
     {
       "key": "PS-5497",
       "summary": "Ralph Lauren - Work on the AI Agent Prompt so that it avoids repetitive words",
@@ -34,10 +75,10 @@
       "summary": "EcoPiezas - Create Project and queues and dashboard settings (SLA, ....)",
       "status": "To Do",
       "status_category": "To Do",
-      "assignee": null,
+      "assignee": "Patrícia Sánchez",
       "issuetype": "Task",
       "created": "2026-05-04",
-      "updated": "2026-05-04",
+      "updated": "2026-05-05",
       "resolutiondate": "",
       "labels": [
         "EcoPiezas"
@@ -236,12 +277,12 @@
     {
       "key": "PS-5480",
       "summary": "Allianz - Modificación en el webview de Claims",
-      "status": "APPROVED FOR PRODUCTION",
+      "status": "Done",
       "status_category": "Done",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-04-30",
-      "updated": "2026-05-05",
+      "updated": "2026-05-06",
       "resolutiondate": "",
       "labels": [
         "Allianz"
@@ -264,12 +305,12 @@
     {
       "key": "PS-5478",
       "summary": "Retorna - Fix bug contact info fields",
-      "status": "Ready for review",
-      "status_category": "In Progress",
+      "status": "In production",
+      "status_category": "Done",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-04-30",
-      "updated": "2026-04-30",
+      "updated": "2026-05-05",
       "resolutiondate": "",
       "labels": [
         "Retorna"
@@ -462,10 +503,10 @@
       "summary": "Sanitas Seguros - Scaffold bot with lattest Botonic Version",
       "status": "To Do",
       "status_category": "To Do",
-      "assignee": null,
+      "assignee": "Evgeni Slavyanov",
       "issuetype": "Task",
       "created": "2026-04-28",
-      "updated": "2026-04-28",
+      "updated": "2026-05-05",
       "resolutiondate": "",
       "labels": [
         "Sanitas"
@@ -774,12 +815,12 @@
     {
       "key": "PS-5439",
       "summary": "SegurCaixa Adeslas - Delete SegurCaixa_Staging_Old bot and maybe SegurCaixa_test",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "In Progress",
+      "status_category": "In Progress",
       "assignee": "Adrià Sastre",
       "issuetype": "Task",
       "created": "2026-04-23",
-      "updated": "2026-05-04",
+      "updated": "2026-05-05",
       "resolutiondate": "",
       "labels": [
         "SegurCaixa"
@@ -1087,7 +1128,7 @@
       "assignee": "irene callejas",
       "issuetype": "Task",
       "created": "2026-04-22",
-      "updated": "2026-04-22",
+      "updated": "2026-05-06",
       "resolutiondate": "",
       "labels": [
         "SEM"
@@ -1206,12 +1247,12 @@
     {
       "key": "PS-5408",
       "summary": "Internal - Migrate the Bot Template to Botonic V2",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "In Progress",
+      "status_category": "In Progress",
       "assignee": "Pep Alonso",
       "issuetype": "Task",
       "created": "2026-04-21",
-      "updated": "2026-04-29",
+      "updated": "2026-05-06",
       "resolutiondate": "",
       "labels": [
         "Internal"
@@ -1587,7 +1628,7 @@
       "assignee": "María Sánchez",
       "issuetype": "Task",
       "created": "2026-04-17",
-      "updated": "2026-04-23",
+      "updated": "2026-05-06",
       "resolutiondate": "",
       "labels": [
         "Michael-Kors"
@@ -1943,12 +1984,12 @@
     {
       "key": "PS-5351",
       "summary": "Jetsmart - Select bundle To include Step UI",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "In Progress",
+      "status_category": "In Progress",
       "assignee": "Pep Alonso",
       "issuetype": "Task",
       "created": "2026-04-13",
-      "updated": "2026-04-13",
+      "updated": "2026-05-05",
       "resolutiondate": "",
       "labels": [
         "JetSmart"
@@ -2151,12 +2192,12 @@
     {
       "key": "PS-5333",
       "summary": "Libeen - Hubspot integration",
-      "status": "In Progress",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Alexander Skalatskiy",
       "issuetype": "Task",
       "created": "2026-04-10",
-      "updated": "2026-04-30",
+      "updated": "2026-05-05",
       "resolutiondate": "",
       "labels": [
         "Libeen"
@@ -2532,7 +2573,7 @@
       "assignee": "Vicky Correbo",
       "issuetype": "Task",
       "created": "2026-04-08",
-      "updated": "2026-05-04",
+      "updated": "2026-05-05",
       "resolutiondate": "",
       "labels": [
         "Allianz-ES"
@@ -6320,12 +6361,12 @@
     {
       "key": "PS-5018",
       "summary": "Verisure IT - Implement Alis Callback API – Notify Alis When Case Goes to Attending",
-      "status": "Ready for review",
+      "status": "Ready to Deliver",
       "status_category": "In Progress",
       "assignee": "Evgeni Slavyanov",
       "issuetype": "Task",
       "created": "2026-02-13",
-      "updated": "2026-03-20",
+      "updated": "2026-05-05",
       "resolutiondate": "",
       "labels": [
         "Verisure_IT"
@@ -8640,13 +8681,13 @@
     },
     {
       "key": "PS-4831",
-      "summary": "Custom Component Inventory",
-      "status": "In Progress",
-      "status_category": "In Progress",
+      "summary": "Custom Component Inventory = Phase 1",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Vicky Correbo",
       "issuetype": "Task",
       "created": "2026-01-15",
-      "updated": "2026-02-26",
+      "updated": "2026-05-05",
       "resolutiondate": "",
       "labels": [
         "Internal"
