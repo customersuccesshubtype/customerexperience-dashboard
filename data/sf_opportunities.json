@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-05 09:20 UTC",
+  "last_updated": "2026-05-06 09:36 UTC",
   "opportunities": [
     {
       "id": "006Sa00000fQvuNIAS",
@@ -3473,10 +3473,10 @@
       "id": "006Sa00000GrTXMIA3",
       "name": "2026-U-Wizz Air-Agent AI Copilot",
       "type": "Upsell",
-      "stage": "Waiting for signature",
-      "is_closed": false,
-      "is_won": false,
-      "probability": 90.0,
+      "stage": "Closed Won",
+      "is_closed": true,
+      "is_won": true,
+      "probability": 100.0,
       "amount": 6624.0,
       "arr": 39744.0,
       "owner": "Marta Marron",
