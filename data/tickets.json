@@ -1,15 +1,123 @@
 {
-  "last_updated": "2026-05-06 09:21 UTC",
+  "last_updated": "2026-05-07 09:29 UTC",
   "tickets": [
     {
-      "key": "PS-5500",
-      "summary": "WizzAir - Update bot to 0.48",
+      "key": "PS-5508",
+      "summary": "Allianz ES - Estimate cost and timings of updating the look and feel for all current forms (webviews)",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Adrià Sastre",
+      "issuetype": "Discovery Task",
+      "created": "2026-05-06",
+      "updated": "2026-05-07",
+      "resolutiondate": "",
+      "labels": [
+        "Allianz-ES"
+      ]
+    },
+    {
+      "key": "PS-5507",
+      "summary": "Michael Kors - Review the previous IVR deflection we had in the past",
+      "status": "Ready for review",
+      "status_category": "In Progress",
+      "assignee": "Aitor Casas",
+      "issuetype": "Task",
+      "created": "2026-05-06",
+      "updated": "2026-05-07",
+      "resolutiondate": "",
+      "labels": [
+        "MichaelKors"
+      ]
+    },
+    {
+      "key": "PS-5506",
+      "summary": "Michael Kors - Check whether the CSAT conditional for Contact Reason = \"No Response\" is implemented",
+      "status": "Ready for review",
+      "status_category": "In Progress",
+      "assignee": "Aitor Casas",
+      "issuetype": "Task",
+      "created": "2026-05-06",
+      "updated": "2026-05-07",
+      "resolutiondate": "",
+      "labels": [
+        "MichaelKors"
+      ]
+    },
+    {
+      "key": "PS-5505",
+      "summary": "JetSMART - Bugs detectados en compra de opcionales",
+      "status": "In Progress",
+      "status_category": "In Progress",
+      "assignee": "Pep Alonso",
+      "issuetype": "Bug",
+      "created": "2026-05-06",
+      "updated": "2026-05-07",
+      "resolutiondate": "",
+      "labels": [
+        "JetSMART"
+      ]
+    },
+    {
+      "key": "PS-5504",
+      "summary": "Rag & Bone - Implement New \"Order Number\" Field in Salesforce Integration",
+      "status": "Open",
+      "status_category": "To Do",
+      "assignee": null,
+      "issuetype": "Task",
+      "created": "2026-05-06",
+      "updated": "2026-05-06",
+      "resolutiondate": "",
+      "labels": [
+        "Rag&Bone"
+      ]
+    },
+    {
+      "key": "PS-5503",
+      "summary": "Michael Kors - Replace AI Data Capture (email) with non-AI capture for Michael Kors",
       "status": "In Progress",
       "status_category": "In Progress",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-05-06",
       "updated": "2026-05-06",
+      "resolutiondate": "",
+      "labels": [
+        "Michael-Kors"
+      ]
+    },
+    {
+      "key": "PS-5502",
+      "summary": "Alsa - Display initial message in webchat only at the beginning",
+      "status": "Done",
+      "status_category": "Done",
+      "assignee": "Lorena Sánchez-Toril Nicolás",
+      "issuetype": "Task",
+      "created": "2026-05-06",
+      "updated": "2026-05-07",
+      "resolutiondate": "",
+      "labels": []
+    },
+    {
+      "key": "PS-5501",
+      "summary": "Tendam - Set correct language by country",
+      "status": "In production",
+      "status_category": "Done",
+      "assignee": "Adrià Sastre",
+      "issuetype": "Bug",
+      "created": "2026-05-06",
+      "updated": "2026-05-06",
+      "resolutiondate": "",
+      "labels": []
+    },
+    {
+      "key": "PS-5500",
+      "summary": "WizzAir - Update bot to 0.48",
+      "status": "Ready for review",
+      "status_category": "In Progress",
+      "assignee": "Lorena Sánchez-Toril Nicolás",
+      "issuetype": "Task",
+      "created": "2026-05-06",
+      "updated": "2026-05-07",
       "resolutiondate": "",
       "labels": [
         "WizzAir"
@@ -33,8 +141,8 @@
     {
       "key": "PS-5498",
       "summary": "Internal - Archive all coches.com bots",
-      "status": "Ready for review",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-05-05",
@@ -45,12 +153,12 @@
     {
       "key": "PS-5497",
       "summary": "Ralph Lauren - Work on the AI Agent Prompt so that it avoids repetitive words",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Ready for review",
+      "status_category": "In Progress",
       "assignee": "irene callejas",
       "issuetype": "Task",
       "created": "2026-05-04",
-      "updated": "2026-05-04",
+      "updated": "2026-05-06",
       "resolutiondate": "",
       "labels": [
         "Ralph_Lauren"
@@ -291,12 +399,12 @@
     {
       "key": "PS-5479",
       "summary": "Soledad - Include branding in the web view ",
-      "status": "In Progress",
+      "status": "In Review",
       "status_category": "In Progress",
       "assignee": "Vicky Correbo",
       "issuetype": "Discovery Task",
       "created": "2026-04-30",
-      "updated": "2026-05-04",
+      "updated": "2026-05-06",
       "resolutiondate": "",
       "labels": [
         "Soledad"
@@ -403,12 +511,12 @@
     {
       "key": "PS-5470",
       "summary": "Soledad - integrate soledad's logo on webview ",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "In Progress",
+      "status_category": "In Progress",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-04-29",
-      "updated": "2026-04-29",
+      "updated": "2026-05-07",
       "resolutiondate": "",
       "labels": [
         "Soledad"
@@ -501,12 +609,12 @@
     {
       "key": "PS-5463",
       "summary": "Sanitas Seguros - Scaffold bot with lattest Botonic Version",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Ready for review",
+      "status_category": "In Progress",
       "assignee": "Evgeni Slavyanov",
       "issuetype": "Task",
       "created": "2026-04-28",
-      "updated": "2026-05-05",
+      "updated": "2026-05-07",
       "resolutiondate": "",
       "labels": [
         "Sanitas"
@@ -777,12 +885,12 @@
     {
       "key": "PS-5442",
       "summary": "Air Europa - We are showing the same Fare in both journeys",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Ready for review",
+      "status_category": "In Progress",
       "assignee": "Alexander Skalatskiy",
       "issuetype": "Bug",
       "created": "2026-04-24",
-      "updated": "2026-04-24",
+      "updated": "2026-05-06",
       "resolutiondate": "",
       "labels": [
         "AirEuropa"
@@ -1044,7 +1152,7 @@
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-04-22",
-      "updated": "2026-05-04",
+      "updated": "2026-05-06",
       "resolutiondate": "",
       "labels": [
         "Guess"
@@ -1625,7 +1733,7 @@
       "summary": "Michael Kors - WISMO / WISMR API integration",
       "status": "Open",
       "status_category": "To Do",
-      "assignee": "María Sánchez",
+      "assignee": "Adrià Sastre",
       "issuetype": "Task",
       "created": "2026-04-17",
       "updated": "2026-05-06",
@@ -1649,12 +1757,12 @@
     {
       "key": "PS-5375",
       "summary": "TMB - Fix accessibility barriers in xatbot (WCAG audit)",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Ready for review",
+      "status_category": "In Progress",
       "assignee": "Alexander Skalatskiy",
       "issuetype": "Task",
       "created": "2026-04-15",
-      "updated": "2026-04-22",
+      "updated": "2026-05-07",
       "resolutiondate": "",
       "labels": [
         "TMB"
@@ -4225,7 +4333,7 @@
       "assignee": "Evgeni Slavyanov",
       "issuetype": "Epic",
       "created": "2026-03-11",
-      "updated": "2026-04-21",
+      "updated": "2026-05-06",
       "resolutiondate": "",
       "labels": [
         "Multiasistencia"
@@ -6165,12 +6273,12 @@
     {
       "key": "PS-5033",
       "summary": "Multiasistencia - Update botonic version - MULTI_MUTUA_MAD_STAGING - 9653eb5f-a132-489d-a797-203afecf7f94",
-      "status": "In Progress",
+      "status": "Ready for review",
       "status_category": "In Progress",
       "assignee": "Evgeni Slavyanov",
       "issuetype": "Task",
       "created": "2026-02-16",
-      "updated": "2026-04-20",
+      "updated": "2026-05-06",
       "resolutiondate": "",
       "labels": [
         "Multiasistencia"
@@ -8488,10 +8596,10 @@
       "summary": "Michael Kors - Migrate from Knowledge Bases to AI Agent",
       "status": "Ready to Deliver",
       "status_category": "In Progress",
-      "assignee": "María Sánchez",
+      "assignee": "Marta Marron",
       "issuetype": "Task",
       "created": "2026-01-17",
-      "updated": "2026-03-02",
+      "updated": "2026-05-06",
       "resolutiondate": "",
       "labels": [
         "Michael-Kors"
@@ -10352,7 +10460,7 @@
       "assignee": "Jonatan Rojas",
       "issuetype": "Discovery Task",
       "created": "2025-12-02",
-      "updated": "2025-12-09",
+      "updated": "2026-05-06",
       "resolutiondate": "",
       "labels": [
         "estimation"
@@ -10360,13 +10468,13 @@
     },
     {
       "key": "PS-4693",
-      "summary": "Allianz Spain - New webview to open claim to \"Defensa del cliente\"",
+      "summary": "Allianz Spain - New webview to open claim to \"Defensa del asegurado\"",
       "status": "Open",
       "status_category": "To Do",
       "assignee": "Adrià Sastre",
       "issuetype": "Epic",
       "created": "2025-12-02",
-      "updated": "2026-04-29",
+      "updated": "2026-05-06",
       "resolutiondate": "",
       "labels": [
         "Allianz-ES"
