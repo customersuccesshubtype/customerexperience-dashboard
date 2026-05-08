@@ -1,6 +1,172 @@
 {
-  "last_updated": "2026-05-07 09:29 UTC",
+  "last_updated": "2026-05-08 08:20 UTC",
   "tickets": [
+    {
+      "key": "PS-5520",
+      "summary": "SegurCaixa - Fix sent emails with empty data",
+      "status": "In Progress",
+      "status_category": "In Progress",
+      "assignee": "Adrià Sastre",
+      "issuetype": "Bug",
+      "created": "2026-05-08",
+      "updated": "2026-05-08",
+      "resolutiondate": "",
+      "labels": []
+    },
+    {
+      "key": "PS-5519",
+      "summary": "Alsa - Update to Botonic 48 to include language detection",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Alexander Skalatskiy",
+      "issuetype": "Task",
+      "created": "2026-05-07",
+      "updated": "2026-05-08",
+      "resolutiondate": "",
+      "labels": [
+        "Alsa"
+      ]
+    },
+    {
+      "key": "PS-5518",
+      "summary": "Wizz Air - Review API documentation to confirm whether the agency username/login can be captured to identify agencies",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Adrià Sastre",
+      "issuetype": "Task",
+      "created": "2026-05-07",
+      "updated": "2026-05-07",
+      "resolutiondate": "",
+      "labels": [
+        "WizzAir"
+      ]
+    },
+    {
+      "key": "PS-5517",
+      "summary": "Soledad - Petición de nuevas funcionalidades (filtros adicionales)",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Adrià Sastre",
+      "issuetype": "Task",
+      "created": "2026-05-07",
+      "updated": "2026-05-07",
+      "resolutiondate": "",
+      "labels": [
+        "Soledad"
+      ]
+    },
+    {
+      "key": "PS-5516",
+      "summary": "Michael Kors - Implement Middleware to handle WISMO/WISMR calls from webview and bot",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Alexander Skalatskiy",
+      "issuetype": "Task",
+      "created": "2026-05-07",
+      "updated": "2026-05-07",
+      "resolutiondate": "",
+      "labels": [
+        "Michael-Kors"
+      ]
+    },
+    {
+      "key": "PS-5515",
+      "summary": "Multiasistencia - Santander - Integrate Middleware to Claim webview",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": null,
+      "issuetype": "Task",
+      "created": "2026-05-07",
+      "updated": "2026-05-07",
+      "resolutiondate": "",
+      "labels": [
+        "Multiasistencia"
+      ]
+    },
+    {
+      "key": "PS-5514",
+      "summary": "Multiasistencia - Santander - Design spinner in Claim webview",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Vicky Correbo",
+      "issuetype": "Task",
+      "created": "2026-05-07",
+      "updated": "2026-05-08",
+      "resolutiondate": "",
+      "labels": [
+        "Multiasistencia"
+      ]
+    },
+    {
+      "key": "PS-5513",
+      "summary": "Multiasistencia - Add validation logic to Middleware endpoints",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": null,
+      "issuetype": "Task",
+      "created": "2026-05-07",
+      "updated": "2026-05-07",
+      "resolutiondate": "",
+      "labels": [
+        "Multiasistencia"
+      ]
+    },
+    {
+      "key": "PS-5512",
+      "summary": "Multiasistencia - Unify Middleware endpoints + add missing API calls",
+      "status": "In Progress",
+      "status_category": "In Progress",
+      "assignee": "Lorena Sánchez-Toril Nicolás",
+      "issuetype": "Task",
+      "created": "2026-05-07",
+      "updated": "2026-05-08",
+      "resolutiondate": "",
+      "labels": [
+        "Multiasistencia"
+      ]
+    },
+    {
+      "key": "PS-5511",
+      "summary": "Michael Kors - Impelement WISMO/WISMR flow and bot responses",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": null,
+      "issuetype": "Task",
+      "created": "2026-05-07",
+      "updated": "2026-05-07",
+      "resolutiondate": "",
+      "labels": [
+        "Michael-Kors"
+      ]
+    },
+    {
+      "key": "PS-5510",
+      "summary": "Michael Kors - Implement WISMO/WISMR webview/s",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": null,
+      "issuetype": "Task",
+      "created": "2026-05-07",
+      "updated": "2026-05-07",
+      "resolutiondate": "",
+      "labels": [
+        "Michael-Kors"
+      ]
+    },
+    {
+      "key": "PS-5509",
+      "summary": "Michael Kors - Design WISMO/WISMR webview/s and flow",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Vicky Correbo",
+      "issuetype": "Task",
+      "created": "2026-05-07",
+      "updated": "2026-05-08",
+      "resolutiondate": "",
+      "labels": [
+        "Michael-Kors"
+      ]
+    },
     {
       "key": "PS-5508",
       "summary": "Allianz ES - Estimate cost and timings of updating the look and feel for all current forms (webviews)",
@@ -18,7 +184,7 @@
     {
       "key": "PS-5507",
       "summary": "Michael Kors - Review the previous IVR deflection we had in the past",
-      "status": "Ready for review",
+      "status": "Ready to Deliver",
       "status_category": "In Progress",
       "assignee": "Aitor Casas",
       "issuetype": "Task",
@@ -153,12 +319,12 @@
     {
       "key": "PS-5497",
       "summary": "Ralph Lauren - Work on the AI Agent Prompt so that it avoids repetitive words",
-      "status": "Ready for review",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "irene callejas",
       "issuetype": "Task",
       "created": "2026-05-04",
-      "updated": "2026-05-06",
+      "updated": "2026-05-08",
       "resolutiondate": "",
       "labels": [
         "Ralph_Lauren"
@@ -197,10 +363,10 @@
       "summary": "Multiasistencia - Remove Orange and Generali bots",
       "status": "To Do",
       "status_category": "To Do",
-      "assignee": null,
+      "assignee": "Evgeni Slavyanov",
       "issuetype": "Task",
       "created": "2026-05-04",
-      "updated": "2026-05-04",
+      "updated": "2026-05-07",
       "resolutiondate": "",
       "labels": []
     },
@@ -249,12 +415,12 @@
     {
       "key": "PS-5490",
       "summary": "Rag & Bone - Connect the WhatsApp number to the new bot in Guess Dashboard",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "In Progress",
+      "status_category": "In Progress",
       "assignee": "Aitor Casas",
       "issuetype": "Task",
       "created": "2026-05-04",
-      "updated": "2026-05-04",
+      "updated": "2026-05-08",
       "resolutiondate": "",
       "labels": [
         "Rag&Bone"
@@ -263,12 +429,12 @@
     {
       "key": "PS-5489",
       "summary": "Air Europa - Delete in staging the code adjustment meant to send specific message to users sending audios",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Ready for review",
+      "status_category": "In Progress",
       "assignee": "Alexander Skalatskiy",
       "issuetype": "Task",
       "created": "2026-05-04",
-      "updated": "2026-05-04",
+      "updated": "2026-05-08",
       "resolutiondate": "",
       "labels": []
     },
@@ -399,12 +565,12 @@
     {
       "key": "PS-5479",
       "summary": "Soledad - Include branding in the web view ",
-      "status": "In Review",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Vicky Correbo",
       "issuetype": "Discovery Task",
       "created": "2026-04-30",
-      "updated": "2026-05-06",
+      "updated": "2026-05-08",
       "resolutiondate": "",
       "labels": [
         "Soledad"
@@ -483,12 +649,12 @@
     {
       "key": "PS-5472",
       "summary": "Rag & Bone - Prepare the Salesforce migration",
-      "status": "To Do",
-      "status_category": "To Do",
-      "assignee": "Pep Alonso",
+      "status": "Ready for review",
+      "status_category": "In Progress",
+      "assignee": "Adrià Sastre",
       "issuetype": "Task",
       "created": "2026-04-29",
-      "updated": "2026-05-04",
+      "updated": "2026-05-07",
       "resolutiondate": "",
       "labels": [
         "Rag&Bone"
@@ -511,12 +677,12 @@
     {
       "key": "PS-5470",
       "summary": "Soledad - integrate soledad's logo on webview ",
-      "status": "In Progress",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-04-29",
-      "updated": "2026-05-07",
+      "updated": "2026-05-08",
       "resolutiondate": "",
       "labels": [
         "Soledad"
@@ -609,8 +775,8 @@
     {
       "key": "PS-5463",
       "summary": "Sanitas Seguros - Scaffold bot with lattest Botonic Version",
-      "status": "Ready for review",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Evgeni Slavyanov",
       "issuetype": "Task",
       "created": "2026-04-28",
@@ -640,7 +806,7 @@
       "assignee": "Francisca Martelli",
       "issuetype": "Task",
       "created": "2026-04-28",
-      "updated": "2026-05-04",
+      "updated": "2026-05-08",
       "resolutiondate": "",
       "labels": [
         "TMB"
@@ -794,7 +960,7 @@
       "assignee": "Adrià Sastre",
       "issuetype": "Task",
       "created": "2026-04-27",
-      "updated": "2026-04-27",
+      "updated": "2026-05-08",
       "resolutiondate": "",
       "labels": [
         "RACC"
@@ -885,12 +1051,12 @@
     {
       "key": "PS-5442",
       "summary": "Air Europa - We are showing the same Fare in both journeys",
-      "status": "Ready for review",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Alexander Skalatskiy",
       "issuetype": "Bug",
       "created": "2026-04-24",
-      "updated": "2026-05-06",
+      "updated": "2026-05-07",
       "resolutiondate": "",
       "labels": [
         "AirEuropa"
@@ -923,12 +1089,12 @@
     {
       "key": "PS-5439",
       "summary": "SegurCaixa Adeslas - Delete SegurCaixa_Staging_Old bot and maybe SegurCaixa_test",
-      "status": "In Progress",
+      "status": "Ready for review",
       "status_category": "In Progress",
       "assignee": "Adrià Sastre",
       "issuetype": "Task",
       "created": "2026-04-23",
-      "updated": "2026-05-05",
+      "updated": "2026-05-07",
       "resolutiondate": "",
       "labels": [
         "SegurCaixa"
@@ -1677,10 +1843,10 @@
       "summary": "Internal - Remove Old Middlewares",
       "status": "To Do",
       "status_category": "To Do",
-      "assignee": null,
+      "assignee": "Evgeni Slavyanov",
       "issuetype": "Task",
       "created": "2026-04-18",
-      "updated": "2026-04-29",
+      "updated": "2026-05-07",
       "resolutiondate": "",
       "labels": [
         "Internal"
@@ -1731,12 +1897,12 @@
     {
       "key": "PS-5378",
       "summary": "Michael Kors - WISMO / WISMR API integration",
-      "status": "Open",
-      "status_category": "To Do",
+      "status": "In Progress",
+      "status_category": "In Progress",
       "assignee": "Adrià Sastre",
-      "issuetype": "Task",
+      "issuetype": "Epic",
       "created": "2026-04-17",
-      "updated": "2026-05-06",
+      "updated": "2026-05-07",
       "resolutiondate": "",
       "labels": [
         "Michael-Kors"
@@ -1799,12 +1965,12 @@
     {
       "key": "PS-5372",
       "summary": "Skills - Create a skill for PR title naming",
-      "status": "To Do",
-      "status_category": "To Do",
-      "assignee": null,
+      "status": "Done",
+      "status_category": "Done",
+      "assignee": "Alexander Skalatskiy",
       "issuetype": "Task",
       "created": "2026-04-15",
-      "updated": "2026-04-29",
+      "updated": "2026-05-07",
       "resolutiondate": "",
       "labels": [
         "Internal"
@@ -1813,12 +1979,12 @@
     {
       "key": "PS-5371",
       "summary": "Skills - Create a skill for branch naming",
-      "status": "To Do",
-      "status_category": "To Do",
-      "assignee": null,
+      "status": "Done",
+      "status_category": "Done",
+      "assignee": "Alexander Skalatskiy",
       "issuetype": "Task",
       "created": "2026-04-15",
-      "updated": "2026-04-29",
+      "updated": "2026-05-07",
       "resolutiondate": "",
       "labels": [
         "Internal"
@@ -1930,7 +2096,7 @@
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-04-14",
-      "updated": "2026-04-22",
+      "updated": "2026-05-08",
       "resolutiondate": "",
       "labels": [
         "Allianz-OSN",
@@ -2634,12 +2800,12 @@
     {
       "key": "PS-5309",
       "summary": "Rag&Bone - Migrate R&B bots to Guess organization",
-      "status": "Ready for review",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Adrià Sastre",
       "issuetype": "Discovery Task",
       "created": "2026-04-09",
-      "updated": "2026-04-15",
+      "updated": "2026-05-07",
       "resolutiondate": "",
       "labels": [
         "Rag&Bone"
@@ -3064,12 +3230,12 @@
     {
       "key": "PS-5277",
       "summary": "JetSMART - Design Seat Selection Flow for Multi-leg Flights",
-      "status": "In Progress",
+      "status": "Ready to Deliver",
       "status_category": "In Progress",
       "assignee": "Vicky Correbo",
       "issuetype": "Task",
       "created": "2026-04-01",
-      "updated": "2026-04-29",
+      "updated": "2026-05-07",
       "resolutiondate": "",
       "labels": [
         "JetSmart"
@@ -4330,10 +4496,10 @@
       "summary": "Multiasistencia - Automatización de la validación de pólizas y registro de siniestros (Bot Santander)",
       "status": "In Progress",
       "status_category": "In Progress",
-      "assignee": "Evgeni Slavyanov",
+      "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Epic",
       "created": "2026-03-11",
-      "updated": "2026-05-06",
+      "updated": "2026-05-07",
       "resolutiondate": "",
       "labels": [
         "Multiasistencia"
@@ -4676,12 +4842,12 @@
     {
       "key": "PS-5158",
       "summary": "Ralph Lauren - Weekly Executions March - April",
-      "status": "Ready for review",
+      "status": "In Progress",
       "status_category": "In Progress",
       "assignee": "irene callejas",
       "issuetype": "Task",
       "created": "2026-03-06",
-      "updated": "2026-04-23",
+      "updated": "2026-05-07",
       "resolutiondate": "",
       "labels": [
         "Ralph_Lauren"
@@ -7069,12 +7235,12 @@
     {
       "key": "PS-4973",
       "summary": "Retorna - Address Code Improvements",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Ready for review",
+      "status_category": "In Progress",
       "assignee": "Alexander Skalatskiy",
       "issuetype": "Task",
       "created": "2026-02-05",
-      "updated": "2026-05-04",
+      "updated": "2026-05-07",
       "resolutiondate": "",
       "labels": [
         "Retorna"
