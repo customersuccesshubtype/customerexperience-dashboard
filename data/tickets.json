@@ -1,11 +1,111 @@
 {
-  "last_updated": "2026-05-08 08:20 UTC",
+  "last_updated": "2026-05-09 08:25 UTC",
   "tickets": [
+    {
+      "key": "PS-5528",
+      "summary": "RACC START - Crear token de organization (para poder invocar API)",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Aitor Casas",
+      "issuetype": "Task",
+      "created": "2026-05-08",
+      "updated": "2026-05-08",
+      "resolutiondate": "",
+      "labels": [
+        "RACC_START"
+      ]
+    },
+    {
+      "key": "PS-5527",
+      "summary": "Air Europa - Create a transcript to input plugin",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Alexander Skalatskiy",
+      "issuetype": "Task",
+      "created": "2026-05-08",
+      "updated": "2026-05-08",
+      "resolutiondate": "",
+      "labels": []
+    },
+    {
+      "key": "PS-5526",
+      "summary": "Fenie Energia - Deploy bot in Staging and Prod",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Evgeni Slavyanov",
+      "issuetype": "Task",
+      "created": "2026-05-08",
+      "updated": "2026-05-08",
+      "resolutiondate": "",
+      "labels": []
+    },
+    {
+      "key": "PS-5525",
+      "summary": "Fenie Energia - Create Organization",
+      "status": "Ready for review",
+      "status_category": "In Progress",
+      "assignee": "Aitor Casas",
+      "issuetype": "Task",
+      "created": "2026-05-08",
+      "updated": "2026-05-08",
+      "resolutiondate": "",
+      "labels": []
+    },
+    {
+      "key": "PS-5524",
+      "summary": "Fenie Energia - 1st Phase",
+      "status": "Open",
+      "status_category": "To Do",
+      "assignee": "Francisca Martelli",
+      "issuetype": "Epic",
+      "created": "2026-05-08",
+      "updated": "2026-05-08",
+      "resolutiondate": "",
+      "labels": []
+    },
+    {
+      "key": "PS-5523",
+      "summary": "Alsa - Button URLs the AI Agent displays do not work in their APP (they work for WhatsApp and Webbrowser)",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Adrià Sastre",
+      "issuetype": "Bug",
+      "created": "2026-05-08",
+      "updated": "2026-05-08",
+      "resolutiondate": "",
+      "labels": [
+        "Alsa"
+      ]
+    },
+    {
+      "key": "PS-5522",
+      "summary": "Air Europa - Update bot to latest version",
+      "status": "In Progress",
+      "status_category": "In Progress",
+      "assignee": "Alexander Skalatskiy",
+      "issuetype": "Task",
+      "created": "2026-05-08",
+      "updated": "2026-05-08",
+      "resolutiondate": "",
+      "labels": []
+    },
+    {
+      "key": "PS-5521",
+      "summary": "WizzAir - Refactor code to fully use @hubtype/bot-core ",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Alexander Skalatskiy",
+      "issuetype": "Task",
+      "created": "2026-05-08",
+      "updated": "2026-05-08",
+      "resolutiondate": "",
+      "labels": []
+    },
     {
       "key": "PS-5520",
       "summary": "SegurCaixa - Fix sent emails with empty data",
-      "status": "In Progress",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Adrià Sastre",
       "issuetype": "Bug",
       "created": "2026-05-08",
@@ -44,12 +144,12 @@
     {
       "key": "PS-5517",
       "summary": "Soledad - Petición de nuevas funcionalidades (filtros adicionales)",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "In Progress",
+      "status_category": "In Progress",
       "assignee": "Adrià Sastre",
       "issuetype": "Task",
       "created": "2026-05-07",
-      "updated": "2026-05-07",
+      "updated": "2026-05-08",
       "resolutiondate": "",
       "labels": [
         "Soledad"
@@ -102,10 +202,10 @@
       "summary": "Multiasistencia - Add validation logic to Middleware endpoints",
       "status": "To Do",
       "status_category": "To Do",
-      "assignee": null,
+      "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-05-07",
-      "updated": "2026-05-07",
+      "updated": "2026-05-08",
       "resolutiondate": "",
       "labels": [
         "Multiasistencia"
@@ -114,7 +214,7 @@
     {
       "key": "PS-5512",
       "summary": "Multiasistencia - Unify Middleware endpoints + add missing API calls",
-      "status": "In Progress",
+      "status": "Ready for review",
       "status_category": "In Progress",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
@@ -170,12 +270,12 @@
     {
       "key": "PS-5508",
       "summary": "Allianz ES - Estimate cost and timings of updating the look and feel for all current forms (webviews)",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Adrià Sastre",
       "issuetype": "Discovery Task",
       "created": "2026-05-06",
-      "updated": "2026-05-07",
+      "updated": "2026-05-08",
       "resolutiondate": "",
       "labels": [
         "Allianz-ES"
@@ -198,12 +298,12 @@
     {
       "key": "PS-5506",
       "summary": "Michael Kors - Check whether the CSAT conditional for Contact Reason = \"No Response\" is implemented",
-      "status": "Ready for review",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Aitor Casas",
       "issuetype": "Task",
       "created": "2026-05-06",
-      "updated": "2026-05-07",
+      "updated": "2026-05-08",
       "resolutiondate": "",
       "labels": [
         "MichaelKors"
@@ -212,12 +312,12 @@
     {
       "key": "PS-5505",
       "summary": "JetSMART - Bugs detectados en compra de opcionales",
-      "status": "In Progress",
+      "status": "Ready for review",
       "status_category": "In Progress",
       "assignee": "Pep Alonso",
       "issuetype": "Bug",
       "created": "2026-05-06",
-      "updated": "2026-05-07",
+      "updated": "2026-05-08",
       "resolutiondate": "",
       "labels": [
         "JetSMART"
@@ -240,12 +340,12 @@
     {
       "key": "PS-5503",
       "summary": "Michael Kors - Replace AI Data Capture (email) with non-AI capture for Michael Kors",
-      "status": "In Progress",
-      "status_category": "In Progress",
+      "status": "APPROVED FOR PRODUCTION",
+      "status_category": "Done",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-05-06",
-      "updated": "2026-05-06",
+      "updated": "2026-05-08",
       "resolutiondate": "",
       "labels": [
         "Michael-Kors"
@@ -266,24 +366,24 @@
     {
       "key": "PS-5501",
       "summary": "Tendam - Set correct language by country",
-      "status": "In production",
+      "status": "Done",
       "status_category": "Done",
       "assignee": "Adrià Sastre",
       "issuetype": "Bug",
       "created": "2026-05-06",
-      "updated": "2026-05-06",
+      "updated": "2026-05-08",
       "resolutiondate": "",
       "labels": []
     },
     {
       "key": "PS-5500",
       "summary": "WizzAir - Update bot to 0.48",
-      "status": "Ready for review",
-      "status_category": "In Progress",
+      "status": "APPROVED FOR PRODUCTION",
+      "status_category": "Done",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-05-06",
-      "updated": "2026-05-07",
+      "updated": "2026-05-08",
       "resolutiondate": "",
       "labels": [
         "WizzAir"
@@ -361,12 +461,12 @@
     {
       "key": "PS-5494",
       "summary": "Multiasistencia - Remove Orange and Generali bots",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Ready for review",
+      "status_category": "In Progress",
       "assignee": "Evgeni Slavyanov",
       "issuetype": "Task",
       "created": "2026-05-04",
-      "updated": "2026-05-07",
+      "updated": "2026-05-08",
       "resolutiondate": "",
       "labels": []
     },
@@ -747,12 +847,12 @@
     {
       "key": "PS-5465",
       "summary": "Internal - Update Bot Template to use the version 0.48",
-      "status": "Ready for review",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-04-28",
-      "updated": "2026-04-29",
+      "updated": "2026-05-08",
       "resolutiondate": "",
       "labels": [
         "Internal"
@@ -1841,12 +1941,12 @@
     {
       "key": "PS-5382",
       "summary": "Internal - Remove Old Middlewares",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Evgeni Slavyanov",
       "issuetype": "Task",
       "created": "2026-04-18",
-      "updated": "2026-05-07",
+      "updated": "2026-05-08",
       "resolutiondate": "",
       "labels": [
         "Internal"
@@ -2035,12 +2135,12 @@
     {
       "key": "PS-5367",
       "summary": "Multiasistencia - Santander - Update the Claim webview with the integration with the Middleware",
-      "status": "Ready for review",
-      "status_category": "In Progress",
+      "status": "Closed",
+      "status_category": "Done",
       "assignee": "Evgeni Slavyanov",
       "issuetype": "Task",
       "created": "2026-04-14",
-      "updated": "2026-04-29",
+      "updated": "2026-05-08",
       "resolutiondate": "",
       "labels": [
         "Multiasistencia"
