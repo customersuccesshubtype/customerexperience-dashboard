@@ -1,6 +1,28 @@
 {
-  "last_updated": "2026-05-09 08:52 UTC",
+  "last_updated": "2026-05-10 09:01 UTC",
   "cases": [
+    {
+      "id": "500Sa00000rTcubIAC",
+      "case_number": "00024690",
+      "subject": "Licenses [Mixpanel Alert Triggered]",
+      "status": "New",
+      "priority": "Low",
+      "is_closed": false,
+      "is_escalated": false,
+      "owner": "Aitor Casas",
+      "account": "",
+      "origin": "Inbound",
+      "type": "",
+      "feeling": "",
+      "issue_type": "",
+      "channel": "Email",
+      "is_critical": "L4",
+      "escalated_team": "",
+      "resolution_time": "",
+      "created": "2026-05-10",
+      "closed": "",
+      "last_modified": "2026-05-10"
+    },
     {
       "id": "500Sa00000rOSPeIAO",
       "case_number": "00024689",
