@@ -1,15 +1,177 @@
 {
-  "last_updated": "2026-05-10 08:51 UTC",
+  "last_updated": "2026-05-11 10:36 UTC",
   "tickets": [
+    {
+      "key": "PS-5540",
+      "summary": "Occident - Replace parameter NUMPERS y REFPERS for \"codigoUsuario\" in Inicio de Conversación",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": null,
+      "issuetype": "Task",
+      "created": "2026-05-11",
+      "updated": "2026-05-11",
+      "resolutiondate": "",
+      "labels": [
+        "occident"
+      ]
+    },
+    {
+      "key": "PS-5539",
+      "summary": "Occident - Review if we are receiving hash y refreshhash as a response in \"Inicio de conversación\"",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Pep Alonso",
+      "issuetype": "Task",
+      "created": "2026-05-11",
+      "updated": "2026-05-11",
+      "resolutiondate": "",
+      "labels": [
+        "occident"
+      ]
+    },
+    {
+      "key": "PS-5538",
+      "summary": "Verisure Spain - Create project and queues",
+      "status": "In Progress",
+      "status_category": "In Progress",
+      "assignee": "Aitor Casas",
+      "issuetype": "Task",
+      "created": "2026-05-11",
+      "updated": "2026-05-11",
+      "resolutiondate": "",
+      "labels": [
+        "verisure-spain-televentas"
+      ]
+    },
+    {
+      "key": "PS-5537",
+      "summary": "Retorna - Quote CSAT developmet",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Adrià Sastre",
+      "issuetype": "Task",
+      "created": "2026-05-11",
+      "updated": "2026-05-11",
+      "resolutiondate": "",
+      "labels": [
+        "Retorna"
+      ]
+    },
+    {
+      "key": "PS-5536",
+      "summary": "Verisure Spain Televentas - Poner num test twilio en bot staging",
+      "status": "Done",
+      "status_category": "Done",
+      "assignee": "Aitor Casas",
+      "issuetype": "Task",
+      "created": "2026-05-11",
+      "updated": "2026-05-11",
+      "resolutiondate": "",
+      "labels": [
+        "verisure-spain-televentas"
+      ]
+    },
+    {
+      "key": "PS-5535",
+      "summary": "Ralph Lauren : add blockers to email dead loop",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "irene callejas",
+      "issuetype": "Task",
+      "created": "2026-05-11",
+      "updated": "2026-05-11",
+      "resolutiondate": "",
+      "labels": [
+        "Ralph_Lauren"
+      ]
+    },
+    {
+      "key": "PS-5534",
+      "summary": "PREPARE FOR PRODUCT PLANNING",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Andrea Talal Haidar",
+      "issuetype": "Discovery Task",
+      "created": "2026-05-11",
+      "updated": "2026-05-11",
+      "resolutiondate": "",
+      "labels": []
+    },
+    {
+      "key": "PS-5533",
+      "summary": "PREPARE SLIDES FOR RL WORKSHOP",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Andrea Talal Haidar",
+      "issuetype": "Discovery Task",
+      "created": "2026-05-11",
+      "updated": "2026-05-11",
+      "resolutiondate": "",
+      "labels": []
+    },
+    {
+      "key": "PS-5532",
+      "summary": "TMB - DEFINE WHATSAPP EXPERIENCE FOR TICKET CREATIION USE CASE",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Andrea Talal Haidar",
+      "issuetype": "Discovery Task",
+      "created": "2026-05-11",
+      "updated": "2026-05-11",
+      "resolutiondate": "",
+      "labels": []
+    },
+    {
+      "key": "PS-5531",
+      "summary": "Assegur - Investigar recepción de las 3 extracciones diarias",
+      "status": "Done",
+      "status_category": "Done",
+      "assignee": "Aitor Casas",
+      "issuetype": "Task",
+      "created": "2026-05-11",
+      "updated": "2026-05-11",
+      "resolutiondate": "",
+      "labels": [
+        "Assegur"
+      ]
+    },
+    {
+      "key": "PS-5530",
+      "summary": "Libeen - Crear token de acceso a la API",
+      "status": "Done",
+      "status_category": "Done",
+      "assignee": "Aitor Casas",
+      "issuetype": "Task",
+      "created": "2026-05-11",
+      "updated": "2026-05-11",
+      "resolutiondate": "",
+      "labels": [
+        "Libeen"
+      ]
+    },
+    {
+      "key": "PS-5529",
+      "summary": "RACC - Activar un AI Agent en entorno staging para demo",
+      "status": "Done",
+      "status_category": "Done",
+      "assignee": "Aitor Casas",
+      "issuetype": "Task",
+      "created": "2026-05-10",
+      "updated": "2026-05-11",
+      "resolutiondate": "",
+      "labels": [
+        "RACC"
+      ]
+    },
     {
       "key": "PS-5528",
       "summary": "RACC START - Crear token de organization (para poder invocar API)",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Aitor Casas",
       "issuetype": "Task",
       "created": "2026-05-08",
-      "updated": "2026-05-08",
+      "updated": "2026-05-11",
       "resolutiondate": "",
       "labels": [
         "RACC_START"
@@ -18,36 +180,36 @@
     {
       "key": "PS-5527",
       "summary": "Air Europa - Create a transcript to input plugin",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "In Progress",
+      "status_category": "In Progress",
       "assignee": "Alexander Skalatskiy",
       "issuetype": "Task",
       "created": "2026-05-08",
-      "updated": "2026-05-08",
+      "updated": "2026-05-11",
       "resolutiondate": "",
       "labels": []
     },
     {
       "key": "PS-5526",
-      "summary": "Fenie Energia - Deploy bot in Staging and Prod",
-      "status": "To Do",
-      "status_category": "To Do",
+      "summary": "Fenie Energia - Deploy bots in Staging and Prod",
+      "status": "Ready for review",
+      "status_category": "In Progress",
       "assignee": "Evgeni Slavyanov",
       "issuetype": "Task",
       "created": "2026-05-08",
-      "updated": "2026-05-08",
+      "updated": "2026-05-11",
       "resolutiondate": "",
       "labels": []
     },
     {
       "key": "PS-5525",
       "summary": "Fenie Energia - Create Organization",
-      "status": "Ready for review",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Aitor Casas",
       "issuetype": "Task",
       "created": "2026-05-08",
-      "updated": "2026-05-08",
+      "updated": "2026-05-11",
       "resolutiondate": "",
       "labels": []
     },
@@ -68,10 +230,10 @@
       "summary": "Alsa - Button URLs the AI Agent displays do not work in their APP (they work for WhatsApp and Webbrowser)",
       "status": "To Do",
       "status_category": "To Do",
-      "assignee": "Adrià Sastre",
+      "assignee": "Alexander Skalatskiy",
       "issuetype": "Bug",
       "created": "2026-05-08",
-      "updated": "2026-05-08",
+      "updated": "2026-05-11",
       "resolutiondate": "",
       "labels": [
         "Alsa"
@@ -80,12 +242,12 @@
     {
       "key": "PS-5522",
       "summary": "Air Europa - Update bot to latest version",
-      "status": "In Progress",
+      "status": "Ready to Deliver",
       "status_category": "In Progress",
       "assignee": "Alexander Skalatskiy",
       "issuetype": "Task",
       "created": "2026-05-08",
-      "updated": "2026-05-08",
+      "updated": "2026-05-11",
       "resolutiondate": "",
       "labels": []
     },
@@ -116,12 +278,12 @@
     {
       "key": "PS-5519",
       "summary": "Alsa - Update to Botonic 48 to include language detection",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "APPROVED FOR PRODUCTION",
+      "status_category": "Done",
       "assignee": "Alexander Skalatskiy",
       "issuetype": "Task",
       "created": "2026-05-07",
-      "updated": "2026-05-08",
+      "updated": "2026-05-11",
       "resolutiondate": "",
       "labels": [
         "Alsa"
@@ -149,7 +311,7 @@
       "assignee": "Adrià Sastre",
       "issuetype": "Task",
       "created": "2026-05-07",
-      "updated": "2026-05-08",
+      "updated": "2026-05-11",
       "resolutiondate": "",
       "labels": [
         "Soledad"
@@ -186,12 +348,12 @@
     {
       "key": "PS-5514",
       "summary": "Multiasistencia - Santander - Design spinner in Claim webview",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "In Progress",
+      "status_category": "In Progress",
       "assignee": "Vicky Correbo",
       "issuetype": "Task",
       "created": "2026-05-07",
-      "updated": "2026-05-08",
+      "updated": "2026-05-11",
       "resolutiondate": "",
       "labels": [
         "Multiasistencia"
@@ -200,12 +362,12 @@
     {
       "key": "PS-5513",
       "summary": "Multiasistencia - Add validation logic to Middleware endpoints",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "In Progress",
+      "status_category": "In Progress",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-05-07",
-      "updated": "2026-05-08",
+      "updated": "2026-05-11",
       "resolutiondate": "",
       "labels": [
         "Multiasistencia"
@@ -340,12 +502,12 @@
     {
       "key": "PS-5503",
       "summary": "Michael Kors - Replace AI Data Capture (email) with non-AI capture for Michael Kors",
-      "status": "APPROVED FOR PRODUCTION",
+      "status": "Done",
       "status_category": "Done",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-05-06",
-      "updated": "2026-05-08",
+      "updated": "2026-05-11",
       "resolutiondate": "",
       "labels": [
         "Michael-Kors"
@@ -378,12 +540,12 @@
     {
       "key": "PS-5500",
       "summary": "WizzAir - Update bot to 0.48",
-      "status": "APPROVED FOR PRODUCTION",
+      "status": "In production",
       "status_category": "Done",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-05-06",
-      "updated": "2026-05-08",
+      "updated": "2026-05-11",
       "resolutiondate": "",
       "labels": [
         "WizzAir"
@@ -461,12 +623,12 @@
     {
       "key": "PS-5494",
       "summary": "Multiasistencia - Remove Orange and Generali bots",
-      "status": "Ready for review",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Evgeni Slavyanov",
       "issuetype": "Task",
       "created": "2026-05-04",
-      "updated": "2026-05-08",
+      "updated": "2026-05-11",
       "resolutiondate": "",
       "labels": []
     },
@@ -529,24 +691,24 @@
     {
       "key": "PS-5489",
       "summary": "Air Europa - Delete in staging the code adjustment meant to send specific message to users sending audios",
-      "status": "Ready for review",
+      "status": "Ready to Deliver",
       "status_category": "In Progress",
       "assignee": "Alexander Skalatskiy",
       "issuetype": "Task",
       "created": "2026-05-04",
-      "updated": "2026-05-08",
+      "updated": "2026-05-11",
       "resolutiondate": "",
       "labels": []
     },
     {
       "key": "PS-5488",
       "summary": "Air Europa - Activate audio transcription and review if the input is automatically sent to AVA",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Julieta Mezza",
       "issuetype": "Task",
       "created": "2026-05-04",
-      "updated": "2026-05-04",
+      "updated": "2026-05-11",
       "resolutiondate": "",
       "labels": [
         "AirEuropa"
@@ -1043,10 +1205,10 @@
       "summary": "Air Europa - Apply design changes (1)",
       "status": "Open",
       "status_category": "To Do",
-      "assignee": null,
+      "assignee": "Evgeni Slavyanov",
       "issuetype": "Task",
       "created": "2026-04-27",
-      "updated": "2026-04-29",
+      "updated": "2026-05-11",
       "resolutiondate": "",
       "labels": [
         "AirEuropa"
@@ -1189,12 +1351,12 @@
     {
       "key": "PS-5439",
       "summary": "SegurCaixa Adeslas - Delete SegurCaixa_Staging_Old bot and maybe SegurCaixa_test",
-      "status": "Ready for review",
+      "status": "Ready to Deliver",
       "status_category": "In Progress",
       "assignee": "Adrià Sastre",
       "issuetype": "Task",
       "created": "2026-04-23",
-      "updated": "2026-05-07",
+      "updated": "2026-05-11",
       "resolutiondate": "",
       "labels": [
         "SegurCaixa"
@@ -1303,10 +1465,10 @@
       "summary": "Air Europa - Logic changes",
       "status": "Open",
       "status_category": "To Do",
-      "assignee": null,
+      "assignee": "Alexander Skalatskiy",
       "issuetype": "Task",
       "created": "2026-04-23",
-      "updated": "2026-04-29",
+      "updated": "2026-05-11",
       "resolutiondate": "",
       "labels": [
         "AirEuropa"
@@ -1317,10 +1479,10 @@
       "summary": "Air Europa - Apply design changes (2)",
       "status": "Open",
       "status_category": "To Do",
-      "assignee": null,
+      "assignee": "Evgeni Slavyanov",
       "issuetype": "Task",
       "created": "2026-04-23",
-      "updated": "2026-04-27",
+      "updated": "2026-05-11",
       "resolutiondate": "",
       "labels": [
         "AirEuropa"
@@ -1329,12 +1491,12 @@
     {
       "key": "PS-5429",
       "summary": "Air Europa - Flow translation to Catalan",
-      "status": "In Review",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Julieta Mezza",
       "issuetype": "Task",
       "created": "2026-04-23",
-      "updated": "2026-05-04",
+      "updated": "2026-05-11",
       "resolutiondate": "",
       "labels": [
         "AirEuropa"
@@ -1528,7 +1690,7 @@
       "assignee": "irene callejas",
       "issuetype": "Task",
       "created": "2026-04-22",
-      "updated": "2026-04-24",
+      "updated": "2026-05-11",
       "resolutiondate": "",
       "labels": [
         "Michael-Kors"
@@ -1788,12 +1950,12 @@
     {
       "key": "PS-5394",
       "summary": "Polarier - Issue tracker",
-      "status": "In Progress",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "irene callejas",
       "issuetype": "Task",
       "created": "2026-04-20",
-      "updated": "2026-04-24",
+      "updated": "2026-05-11",
       "resolutiondate": "",
       "labels": [
         "Polarier"
@@ -2028,7 +2190,7 @@
       "assignee": "Alexander Skalatskiy",
       "issuetype": "Task",
       "created": "2026-04-15",
-      "updated": "2026-05-07",
+      "updated": "2026-05-11",
       "resolutiondate": "",
       "labels": [
         "TMB"
@@ -2191,12 +2353,12 @@
     {
       "key": "PS-5363",
       "summary": "Allianz OSN – Complexity and implementation estimate",
-      "status": "Ready to Deliver",
-      "status_category": "In Progress",
+      "status": "APPROVED FOR PRODUCTION",
+      "status_category": "Done",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-04-14",
-      "updated": "2026-05-08",
+      "updated": "2026-05-11",
       "resolutiondate": "",
       "labels": [
         "Allianz-OSN",
@@ -3305,13 +3467,13 @@
     },
     {
       "key": "PS-5279",
-      "summary": "Securitas Televentas - Deploy staging and production bots with latest versions organization id 61cd13d8-c7a8-4c11-8859-1f0a17e34d6f",
+      "summary": "Verisure Spain Televentas - Deploy staging and production bots with latest versions organization id 61cd13d8-c7a8-4c11-8859-1f0a17e34d6f",
       "status": "Done",
       "status_category": "Done",
       "assignee": "Evgeni Slavyanov",
       "issuetype": "Task",
       "created": "2026-04-01",
-      "updated": "2026-04-06",
+      "updated": "2026-05-11",
       "resolutiondate": "",
       "labels": []
     },
@@ -3343,28 +3505,28 @@
     },
     {
       "key": "PS-5276",
-      "summary": "Securitas Televentas - Create Organization with Flowbuilder",
+      "summary": "Verisure Spain Televentas - Create Organization with Flowbuilder",
       "status": "Done",
       "status_category": "Done",
       "assignee": "Aitor Casas",
       "issuetype": "Task",
       "created": "2026-03-31",
-      "updated": "2026-04-01",
+      "updated": "2026-05-11",
       "resolutiondate": "",
       "labels": []
     },
     {
       "key": "PS-5275",
-      "summary": "Securitas Televenta - 1st Phase Project",
-      "status": "Done",
-      "status_category": "Done",
+      "summary": "Verisure Spain Televenta - 1st Phase Project",
+      "status": "In Progress",
+      "status_category": "In Progress",
       "assignee": "Marta Marron",
       "issuetype": "Epic",
       "created": "2026-03-31",
-      "updated": "2026-04-06",
+      "updated": "2026-05-11",
       "resolutiondate": "",
       "labels": [
-        "Securitas-leadgen"
+        "verisure-spain-televentas"
       ]
     },
     {
@@ -4942,12 +5104,12 @@
     {
       "key": "PS-5158",
       "summary": "Ralph Lauren - Weekly Executions March - April",
-      "status": "In Progress",
+      "status": "Ready for review",
       "status_category": "In Progress",
       "assignee": "irene callejas",
       "issuetype": "Task",
       "created": "2026-03-06",
-      "updated": "2026-05-07",
+      "updated": "2026-05-11",
       "resolutiondate": "",
       "labels": [
         "Ralph_Lauren"
