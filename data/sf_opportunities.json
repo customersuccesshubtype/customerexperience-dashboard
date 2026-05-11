@@ -1,6 +1,23 @@
 {
-  "last_updated": "2026-05-10 09:01 UTC",
+  "last_updated": "2026-05-11 10:44 UTC",
   "opportunities": [
+    {
+      "id": "006Sa00000fnwRSIAY",
+      "name": "2026-U-Assegur-Desk licenses 3",
+      "type": "Upsell",
+      "stage": "Opportunity identified",
+      "is_closed": false,
+      "is_won": false,
+      "probability": 10.0,
+      "amount": 192.0,
+      "arr": 288.0,
+      "owner": "Julieta Mezza",
+      "cs_lead": "Antonio García",
+      "account": "Assegur",
+      "created": "2026-05-11",
+      "close_date": "2026-05-19",
+      "start_date": "2026-06-01"
+    },
     {
       "id": "006Sa00000fQvuNIAS",
       "name": "2026-C-GUESS-Salesforce integration (mandar order number)",
