@@ -1,6 +1,28 @@
 {
-  "last_updated": "2026-05-11 10:44 UTC",
+  "last_updated": "2026-05-12 09:48 UTC",
   "cases": [
+    {
+      "id": "500Sa00000rYpPnIAK",
+      "case_number": "00024701",
+      "subject": "Posible incidencia en citas que deberían ser cancelables",
+      "status": "Open",
+      "priority": "Low",
+      "is_closed": false,
+      "is_escalated": false,
+      "owner": "Aitor Casas",
+      "account": "SegurCaixa Adeslas",
+      "origin": "Inbound",
+      "type": "Issue",
+      "feeling": "",
+      "issue_type": "Bot",
+      "channel": "Email",
+      "is_critical": "L4",
+      "escalated_team": "Services",
+      "resolution_time": "",
+      "created": "2026-05-11",
+      "closed": "",
+      "last_modified": "2026-05-12"
+    },
     {
       "id": "500Sa00000rWb9EIAS",
       "case_number": "00024695",
@@ -153,7 +175,7 @@
       "resolution_time": "",
       "created": "2026-05-08",
       "closed": "",
-      "last_modified": "2026-05-08"
+      "last_modified": "2026-05-11"
     },
     {
       "id": "500Sa00000rOPF0IAO",
