@@ -1,12 +1,94 @@
 {
-  "last_updated": "2026-05-11 10:36 UTC",
+  "last_updated": "2026-05-12 09:35 UTC",
   "tickets": [
+    {
+      "key": "PS-5547",
+      "summary": "Libeen - Skip welcome on prefilled message",
+      "status": "In Progress",
+      "status_category": "In Progress",
+      "assignee": "Alexander Skalatskiy",
+      "issuetype": "Task",
+      "created": "2026-05-12",
+      "updated": "2026-05-12",
+      "resolutiondate": "",
+      "labels": [
+        "Libeen"
+      ]
+    },
+    {
+      "key": "PS-5545",
+      "summary": "Verisure Televenta - Implement logic into the bot",
+      "status": "In Progress",
+      "status_category": "In Progress",
+      "assignee": "Evgeni Slavyanov",
+      "issuetype": "Task",
+      "created": "2026-05-11",
+      "updated": "2026-05-12",
+      "resolutiondate": "",
+      "labels": [
+        "verisure-spain-televentas"
+      ]
+    },
+    {
+      "key": "PS-5544",
+      "summary": "RL - ADD INACTIVITY LOGIC TO FLOW BUILDER",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Lorena Sánchez-Toril Nicolás",
+      "issuetype": "Discovery Task",
+      "created": "2026-05-11",
+      "updated": "2026-05-12",
+      "resolutiondate": "",
+      "labels": []
+    },
+    {
+      "key": "PS-5543",
+      "summary": "Soledad - new filters and reorganize tires",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Lorena Sánchez-Toril Nicolás",
+      "issuetype": "Task",
+      "created": "2026-05-11",
+      "updated": "2026-05-11",
+      "resolutiondate": "",
+      "labels": [
+        "Soledad"
+      ]
+    },
+    {
+      "key": "PS-5542",
+      "summary": "TMB - Prepare WhatsApp Demo",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Francisca Martelli",
+      "issuetype": "Task",
+      "created": "2026-05-11",
+      "updated": "2026-05-11",
+      "resolutiondate": "",
+      "labels": [
+        "TMB"
+      ]
+    },
+    {
+      "key": "PS-5541",
+      "summary": "Fenie Energia - Create Project, Queue, Review Settings",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Francisca Martelli",
+      "issuetype": "Task",
+      "created": "2026-05-11",
+      "updated": "2026-05-11",
+      "resolutiondate": "",
+      "labels": [
+        "Fenie_Energia"
+      ]
+    },
     {
       "key": "PS-5540",
       "summary": "Occident - Replace parameter NUMPERS y REFPERS for \"codigoUsuario\" in Inicio de Conversación",
       "status": "To Do",
       "status_category": "To Do",
-      "assignee": null,
+      "assignee": "Evgeni Slavyanov",
       "issuetype": "Task",
       "created": "2026-05-11",
       "updated": "2026-05-11",
@@ -31,7 +113,7 @@
     },
     {
       "key": "PS-5538",
-      "summary": "Verisure Spain - Create project and queues",
+      "summary": "Verisure Spain Televentas - Create project and queues",
       "status": "In Progress",
       "status_category": "In Progress",
       "assignee": "Aitor Casas",
@@ -49,7 +131,7 @@
       "status": "To Do",
       "status_category": "To Do",
       "assignee": "Adrià Sastre",
-      "issuetype": "Task",
+      "issuetype": "Discovery Task",
       "created": "2026-05-11",
       "updated": "2026-05-11",
       "resolutiondate": "",
@@ -100,8 +182,8 @@
     {
       "key": "PS-5533",
       "summary": "PREPARE SLIDES FOR RL WORKSHOP",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Closed",
+      "status_category": "Done",
       "assignee": "Andrea Talal Haidar",
       "issuetype": "Discovery Task",
       "created": "2026-05-11",
@@ -119,7 +201,9 @@
       "created": "2026-05-11",
       "updated": "2026-05-11",
       "resolutiondate": "",
-      "labels": []
+      "labels": [
+        "TMB"
+      ]
     },
     {
       "key": "PS-5531",
@@ -180,20 +264,22 @@
     {
       "key": "PS-5527",
       "summary": "Air Europa - Create a transcript to input plugin",
-      "status": "In Progress",
+      "status": "Ready for review",
       "status_category": "In Progress",
       "assignee": "Alexander Skalatskiy",
       "issuetype": "Task",
       "created": "2026-05-08",
       "updated": "2026-05-11",
       "resolutiondate": "",
-      "labels": []
+      "labels": [
+        "AirEuropa"
+      ]
     },
     {
       "key": "PS-5526",
       "summary": "Fenie Energia - Deploy bots in Staging and Prod",
-      "status": "Ready for review",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Evgeni Slavyanov",
       "issuetype": "Task",
       "created": "2026-05-08",
@@ -216,20 +302,22 @@
     {
       "key": "PS-5524",
       "summary": "Fenie Energia - 1st Phase",
-      "status": "Open",
-      "status_category": "To Do",
+      "status": "In Progress",
+      "status_category": "In Progress",
       "assignee": "Francisca Martelli",
       "issuetype": "Epic",
       "created": "2026-05-08",
-      "updated": "2026-05-08",
+      "updated": "2026-05-11",
       "resolutiondate": "",
-      "labels": []
+      "labels": [
+        "Fenie_Energia"
+      ]
     },
     {
       "key": "PS-5523",
       "summary": "Alsa - Button URLs the AI Agent displays do not work in their APP (they work for WhatsApp and Webbrowser)",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Ready for review",
+      "status_category": "In Progress",
       "assignee": "Alexander Skalatskiy",
       "issuetype": "Bug",
       "created": "2026-05-08",
@@ -259,9 +347,11 @@
       "assignee": "Alexander Skalatskiy",
       "issuetype": "Task",
       "created": "2026-05-08",
-      "updated": "2026-05-08",
+      "updated": "2026-05-11",
       "resolutiondate": "",
-      "labels": []
+      "labels": [
+        "WizzAir"
+      ]
     },
     {
       "key": "PS-5520",
@@ -665,10 +755,10 @@
       "summary": "Rag&Bone - Create new snippet with new App ID and WhatsApp option",
       "status": "To Do",
       "status_category": "To Do",
-      "assignee": null,
+      "assignee": "Evgeni Slavyanov",
       "issuetype": "Task",
       "created": "2026-05-04",
-      "updated": "2026-05-04",
+      "updated": "2026-05-11",
       "resolutiondate": "",
       "labels": [
         "Rag&Bone"
@@ -801,12 +891,12 @@
     {
       "key": "PS-5481",
       "summary": "DESIGN CUSTOMER EXPERIENCE WORKFLOW ",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Closed",
+      "status_category": "Done",
       "assignee": "Andrea Talal Haidar",
       "issuetype": "Discovery Task",
       "created": "2026-05-04",
-      "updated": "2026-05-04",
+      "updated": "2026-05-11",
       "resolutiondate": "",
       "labels": []
     },
@@ -860,7 +950,7 @@
       "assignee": "Aitor Casas",
       "issuetype": "Task",
       "created": "2026-04-30",
-      "updated": "2026-05-04",
+      "updated": "2026-05-12",
       "resolutiondate": "",
       "labels": [
         "Alsa"
@@ -930,7 +1020,7 @@
       "assignee": "Pep Alonso",
       "issuetype": "Task",
       "created": "2026-04-29",
-      "updated": "2026-05-04",
+      "updated": "2026-05-11",
       "resolutiondate": "",
       "labels": [
         "Rag&Bone"
@@ -1063,12 +1153,12 @@
     {
       "key": "PS-5461",
       "summary": "TMB - Prompting - Bus Lines",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "In Progress",
+      "status_category": "In Progress",
       "assignee": "Francisca Martelli",
       "issuetype": "Task",
       "created": "2026-04-28",
-      "updated": "2026-05-08",
+      "updated": "2026-05-11",
       "resolutiondate": "",
       "labels": [
         "TMB"
@@ -1091,12 +1181,12 @@
     {
       "key": "PS-5459",
       "summary": "Allianz ES - Preparar reunión que explique las funcionalidades de AI Copilot para presentar a Judith de Allianz",
-      "status": "In Progress",
+      "status": "Ready for review",
       "status_category": "In Progress",
       "assignee": "Julieta Mezza",
       "issuetype": "Task",
       "created": "2026-04-28",
-      "updated": "2026-04-29",
+      "updated": "2026-05-11",
       "resolutiondate": "",
       "labels": [
         "Allianz-ES"
@@ -1365,12 +1455,12 @@
     {
       "key": "PS-5438",
       "summary": "Verisure IT - Fix detected errors",
-      "status": "In production",
+      "status": "Done",
       "status_category": "Done",
       "assignee": "Evgeni Slavyanov",
       "issuetype": "Task",
       "created": "2026-04-23",
-      "updated": "2026-05-04",
+      "updated": "2026-05-11",
       "resolutiondate": "",
       "labels": [
         "Verisure_IT"
@@ -1685,7 +1775,7 @@
     {
       "key": "PS-5415",
       "summary": "Michael Kors - AI Agent prompt review",
-      "status": "In Progress",
+      "status": "Ready for review",
       "status_category": "In Progress",
       "assignee": "irene callejas",
       "issuetype": "Task",
@@ -2033,12 +2123,12 @@
     {
       "key": "PS-5388",
       "summary": "Retorna - CSAT for automated conversations (Campaigns v2)",
-      "status": "Open",
+      "status": "To Do",
       "status_category": "To Do",
       "assignee": "Adrià Sastre",
       "issuetype": "Task",
       "created": "2026-04-20",
-      "updated": "2026-04-27",
+      "updated": "2026-05-11",
       "resolutiondate": "",
       "labels": [
         "Retorna"
@@ -2185,8 +2275,8 @@
     {
       "key": "PS-5375",
       "summary": "TMB - Fix accessibility barriers in xatbot (WCAG audit)",
-      "status": "Ready for review",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Alexander Skalatskiy",
       "issuetype": "Task",
       "created": "2026-04-15",
@@ -2644,12 +2734,12 @@
     {
       "key": "PS-5341",
       "summary": "Libeen - Whatsapp number migration",
-      "status": "In Progress",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Aitor Casas",
       "issuetype": "Task",
       "created": "2026-04-13",
-      "updated": "2026-04-27",
+      "updated": "2026-05-11",
       "resolutiondate": "",
       "labels": [
         "Libeen"
@@ -2770,12 +2860,12 @@
     {
       "key": "PS-5330",
       "summary": "Libeen - Project 1st Phase",
-      "status": "In Progress",
+      "status": "Ready for review",
       "status_category": "In Progress",
       "assignee": "Marta Marron",
       "issuetype": "Epic",
       "created": "2026-04-10",
-      "updated": "2026-05-05",
+      "updated": "2026-05-11",
       "resolutiondate": "",
       "labels": [
         "Libeen"
@@ -5186,12 +5276,12 @@
     {
       "key": "PS-5151",
       "summary": "SEM - Mensaje de espera en cola de enfermeras",
-      "status": "To Do",
+      "status": "Open",
       "status_category": "To Do",
       "assignee": null,
       "issuetype": "Task",
       "created": "2026-03-06",
-      "updated": "2026-03-16",
+      "updated": "2026-05-11",
       "resolutiondate": "",
       "labels": [
         "SEM"
@@ -6664,7 +6754,7 @@
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-02-16",
-      "updated": "2026-04-20",
+      "updated": "2026-05-11",
       "resolutiondate": "",
       "labels": [
         "Multiasistencia"
@@ -6678,7 +6768,7 @@
       "assignee": "Evgeni Slavyanov",
       "issuetype": "Task",
       "created": "2026-02-16",
-      "updated": "2026-05-04",
+      "updated": "2026-05-11",
       "resolutiondate": "",
       "labels": [
         "Multiasistencia"
@@ -7275,12 +7365,12 @@
     {
       "key": "PS-4990",
       "summary": "CCMA - Tot es mou - Revisar experiencia de usuario",
-      "status": "Ready to Deliver",
-      "status_category": "In Progress",
+      "status": "Closed",
+      "status_category": "Done",
       "assignee": "Aitor Casas",
       "issuetype": "Task",
       "created": "2026-02-09",
-      "updated": "2026-04-23",
+      "updated": "2026-05-11",
       "resolutiondate": "",
       "labels": [
         "ccma"
@@ -8294,12 +8384,12 @@
     {
       "key": "PS-4906",
       "summary": "Polarier - Project 1st Phase",
-      "status": "In Progress",
+      "status": "Ready for review",
       "status_category": "In Progress",
       "assignee": "Patrícia Sánchez",
       "issuetype": "Epic",
       "created": "2026-01-26",
-      "updated": "2026-03-20",
+      "updated": "2026-05-11",
       "resolutiondate": "",
       "labels": [
         "Polarier"
