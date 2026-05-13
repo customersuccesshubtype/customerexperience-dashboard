@@ -1,15 +1,127 @@
 {
-  "last_updated": "2026-05-12 09:35 UTC",
+  "last_updated": "2026-05-13 09:42 UTC",
   "tickets": [
     {
-      "key": "PS-5547",
-      "summary": "Libeen - Skip welcome on prefilled message",
+      "key": "PS-5556",
+      "summary": "RACC START - Subir a la versión última de botonic para poder añadir Audio transcription",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": null,
+      "issuetype": "Task",
+      "created": "2026-05-12",
+      "updated": "2026-05-12",
+      "resolutiondate": "",
+      "labels": [
+        "RACC"
+      ]
+    },
+    {
+      "key": "PS-5554",
+      "summary": "Tendam - Activar idioma Rumano en el bot Tendam WS Simpl",
+      "status": "Open",
+      "status_category": "To Do",
+      "assignee": null,
+      "issuetype": "Task",
+      "created": "2026-05-12",
+      "updated": "2026-05-12",
+      "resolutiondate": "",
+      "labels": [
+        "Tendam"
+      ]
+    },
+    {
+      "key": "PS-5553",
+      "summary": "Tendam - Activar idioma Rumano en el bot Tendam SPF Simpl",
+      "status": "Open",
+      "status_category": "To Do",
+      "assignee": null,
+      "issuetype": "Task",
+      "created": "2026-05-12",
+      "updated": "2026-05-12",
+      "resolutiondate": "",
+      "labels": [
+        "Tendam"
+      ]
+    },
+    {
+      "key": "PS-5552",
+      "summary": "Libeen - Update AI Agent tools/prompt ",
       "status": "In Progress",
       "status_category": "In Progress",
       "assignee": "Alexander Skalatskiy",
       "issuetype": "Task",
       "created": "2026-05-12",
+      "updated": "2026-05-13",
+      "resolutiondate": "",
+      "labels": [
+        "Libeen"
+      ]
+    },
+    {
+      "key": "PS-5551",
+      "summary": "Ralph Lauren - jump to ai agent",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Lorena Sánchez-Toril Nicolás",
+      "issuetype": "Task",
+      "created": "2026-05-12",
       "updated": "2026-05-12",
+      "resolutiondate": "",
+      "labels": [
+        "Ralph_Lauren"
+      ]
+    },
+    {
+      "key": "PS-5550",
+      "summary": "Occident - Execute Battle",
+      "status": "Done",
+      "status_category": "Done",
+      "assignee": "irene callejas",
+      "issuetype": "Task",
+      "created": "2026-05-12",
+      "updated": "2026-05-12",
+      "resolutiondate": "",
+      "labels": [
+        "occident"
+      ]
+    },
+    {
+      "key": "PS-5549",
+      "summary": "Michael Kors - Create contact reason \"No Response\" and conditional for CSAT",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Aitor Casas",
+      "issuetype": "Task",
+      "created": "2026-05-12",
+      "updated": "2026-05-12",
+      "resolutiondate": "",
+      "labels": [
+        "MichaelKors"
+      ]
+    },
+    {
+      "key": "PS-5548",
+      "summary": "Fenie Energia - Twilio test numbers",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Aitor Casas",
+      "issuetype": "Task",
+      "created": "2026-05-12",
+      "updated": "2026-05-12",
+      "resolutiondate": "",
+      "labels": [
+        "Fenie_Energia"
+      ]
+    },
+    {
+      "key": "PS-5547",
+      "summary": "Libeen - Skip welcome on prefilled message",
+      "status": "Closed",
+      "status_category": "Done",
+      "assignee": "Alexander Skalatskiy",
+      "issuetype": "Task",
+      "created": "2026-05-12",
+      "updated": "2026-05-13",
       "resolutiondate": "",
       "labels": [
         "Libeen"
@@ -18,7 +130,7 @@
     {
       "key": "PS-5545",
       "summary": "Verisure Televenta - Implement logic into the bot",
-      "status": "In Progress",
+      "status": "Ready for review",
       "status_category": "In Progress",
       "assignee": "Evgeni Slavyanov",
       "issuetype": "Task",
@@ -32,24 +144,26 @@
     {
       "key": "PS-5544",
       "summary": "RL - ADD INACTIVITY LOGIC TO FLOW BUILDER",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Ready for review",
+      "status_category": "In Progress",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Discovery Task",
       "created": "2026-05-11",
       "updated": "2026-05-12",
       "resolutiondate": "",
-      "labels": []
+      "labels": [
+        "Ralph_Lauren"
+      ]
     },
     {
       "key": "PS-5543",
       "summary": "Soledad - new filters and reorganize tires",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Ready for review",
+      "status_category": "In Progress",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-05-11",
-      "updated": "2026-05-11",
+      "updated": "2026-05-13",
       "resolutiondate": "",
       "labels": [
         "Soledad"
@@ -86,12 +200,12 @@
     {
       "key": "PS-5540",
       "summary": "Occident - Replace parameter NUMPERS y REFPERS for \"codigoUsuario\" in Inicio de Conversación",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Ready for review",
+      "status_category": "In Progress",
       "assignee": "Evgeni Slavyanov",
       "issuetype": "Task",
       "created": "2026-05-11",
-      "updated": "2026-05-11",
+      "updated": "2026-05-13",
       "resolutiondate": "",
       "labels": [
         "occident"
@@ -130,10 +244,10 @@
       "summary": "Retorna - Quote CSAT developmet",
       "status": "To Do",
       "status_category": "To Do",
-      "assignee": "Adrià Sastre",
+      "assignee": "Marta Marron",
       "issuetype": "Discovery Task",
       "created": "2026-05-11",
-      "updated": "2026-05-11",
+      "updated": "2026-05-12",
       "resolutiondate": "",
       "labels": [
         "Retorna"
@@ -321,7 +435,7 @@
       "assignee": "Alexander Skalatskiy",
       "issuetype": "Bug",
       "created": "2026-05-08",
-      "updated": "2026-05-11",
+      "updated": "2026-05-13",
       "resolutiondate": "",
       "labels": [
         "Alsa"
@@ -368,12 +482,12 @@
     {
       "key": "PS-5519",
       "summary": "Alsa - Update to Botonic 48 to include language detection",
-      "status": "APPROVED FOR PRODUCTION",
+      "status": "In production",
       "status_category": "Done",
       "assignee": "Alexander Skalatskiy",
       "issuetype": "Task",
       "created": "2026-05-07",
-      "updated": "2026-05-11",
+      "updated": "2026-05-12",
       "resolutiondate": "",
       "labels": [
         "Alsa"
@@ -396,12 +510,12 @@
     {
       "key": "PS-5517",
       "summary": "Soledad - Petición de nuevas funcionalidades (filtros adicionales)",
-      "status": "In Progress",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Adrià Sastre",
-      "issuetype": "Task",
+      "issuetype": "Discovery Task",
       "created": "2026-05-07",
-      "updated": "2026-05-11",
+      "updated": "2026-05-12",
       "resolutiondate": "",
       "labels": [
         "Soledad"
@@ -415,7 +529,7 @@
       "assignee": "Alexander Skalatskiy",
       "issuetype": "Task",
       "created": "2026-05-07",
-      "updated": "2026-05-07",
+      "updated": "2026-05-12",
       "resolutiondate": "",
       "labels": [
         "Michael-Kors"
@@ -426,10 +540,10 @@
       "summary": "Multiasistencia - Santander - Integrate Middleware to Claim webview",
       "status": "To Do",
       "status_category": "To Do",
-      "assignee": null,
+      "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-05-07",
-      "updated": "2026-05-07",
+      "updated": "2026-05-13",
       "resolutiondate": "",
       "labels": [
         "Multiasistencia"
@@ -438,12 +552,12 @@
     {
       "key": "PS-5514",
       "summary": "Multiasistencia - Santander - Design spinner in Claim webview",
-      "status": "In Progress",
+      "status": "Ready for review",
       "status_category": "In Progress",
       "assignee": "Vicky Correbo",
       "issuetype": "Task",
       "created": "2026-05-07",
-      "updated": "2026-05-11",
+      "updated": "2026-05-12",
       "resolutiondate": "",
       "labels": [
         "Multiasistencia"
@@ -457,7 +571,7 @@
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-05-07",
-      "updated": "2026-05-11",
+      "updated": "2026-05-13",
       "resolutiondate": "",
       "labels": [
         "Multiasistencia"
@@ -1998,12 +2112,12 @@
     {
       "key": "PS-5397",
       "summary": "Occident - Make inicioConversacion API call fire & forget in SendConversationIdPlugin",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Pep Alonso",
       "issuetype": "Task",
       "created": "2026-04-20",
-      "updated": "2026-05-04",
+      "updated": "2026-05-12",
       "resolutiondate": "",
       "labels": [
         "occident"
@@ -2118,20 +2232,6 @@
       "resolutiondate": "",
       "labels": [
         "Ralph_Lauren"
-      ]
-    },
-    {
-      "key": "PS-5388",
-      "summary": "Retorna - CSAT for automated conversations (Campaigns v2)",
-      "status": "To Do",
-      "status_category": "To Do",
-      "assignee": "Adrià Sastre",
-      "issuetype": "Task",
-      "created": "2026-04-20",
-      "updated": "2026-05-11",
-      "resolutiondate": "",
-      "labels": [
-        "Retorna"
       ]
     },
     {
@@ -2443,12 +2543,12 @@
     {
       "key": "PS-5363",
       "summary": "Allianz OSN – Complexity and implementation estimate",
-      "status": "APPROVED FOR PRODUCTION",
+      "status": "Done",
       "status_category": "Done",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-04-14",
-      "updated": "2026-05-11",
+      "updated": "2026-05-13",
       "resolutiondate": "",
       "labels": [
         "Allianz-OSN",
@@ -3098,12 +3198,12 @@
     {
       "key": "PS-5313",
       "summary": "Design loading transitions/animations",
-      "status": "In Progress",
+      "status": "Ready for review",
       "status_category": "In Progress",
       "assignee": "Vicky Correbo",
       "issuetype": "Discovery Task",
       "created": "2026-04-09",
-      "updated": "2026-04-14",
+      "updated": "2026-05-12",
       "resolutiondate": "",
       "labels": [
         "DesignSystem"
@@ -3776,12 +3876,12 @@
     {
       "key": "PS-5263",
       "summary": "Occident - Bring hash logic to bot instead of middlwere",
-      "status": "Ready to Deliver",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Pep Alonso",
       "issuetype": "Task",
       "created": "2026-03-26",
-      "updated": "2026-04-20",
+      "updated": "2026-05-12",
       "resolutiondate": "",
       "labels": [
         "occident"
@@ -4680,12 +4780,12 @@
     {
       "key": "PS-5196",
       "summary": "RACC START - Integration of new driving schools",
-      "status": "Open",
-      "status_category": "To Do",
+      "status": "Closed",
+      "status_category": "Done",
       "assignee": "María Sánchez",
       "issuetype": "Task",
       "created": "2026-03-16",
-      "updated": "2026-03-16",
+      "updated": "2026-05-12",
       "resolutiondate": "",
       "labels": [
         "RACC_START"
@@ -11375,12 +11475,12 @@
     {
       "key": "PS-4663",
       "summary": "Creating a demo using whatsapp flow about personalised offer",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "In Progress",
+      "status_category": "In Progress",
       "assignee": "Evgeni Slavyanov",
       "issuetype": "Task",
       "created": "2025-11-20",
-      "updated": "2026-04-27",
+      "updated": "2026-05-13",
       "resolutiondate": "",
       "labels": [
         "Demo"
