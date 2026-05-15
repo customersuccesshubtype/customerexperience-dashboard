@@ -1,6 +1,105 @@
 {
-  "last_updated": "2026-05-14 09:32 UTC",
+  "last_updated": "2026-05-15 09:46 UTC",
   "tickets": [
+    {
+      "key": "PS-5571",
+      "summary": "JetSMART - Review JSON of the new Consulta de Casos API",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Julieta Mezza",
+      "issuetype": "Task",
+      "created": "2026-05-14",
+      "updated": "2026-05-14",
+      "resolutiondate": "",
+      "labels": [
+        "JetSMART"
+      ]
+    },
+    {
+      "key": "PS-5570",
+      "summary": "Integració AiAlma amb chatbots WhatsApp per oferir informació proactiva als socis amb assistències en curs",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": null,
+      "issuetype": "Discovery Task",
+      "created": "2026-05-14",
+      "updated": "2026-05-14",
+      "resolutiondate": "",
+      "labels": [
+        "RACC"
+      ]
+    },
+    {
+      "key": "PS-5569",
+      "summary": "GUESS - Change name of staging bot to add the word GUESS",
+      "status": "Done",
+      "status_category": "Done",
+      "assignee": "Lorena Sánchez-Toril Nicolás",
+      "issuetype": "Task",
+      "created": "2026-05-14",
+      "updated": "2026-05-14",
+      "resolutiondate": "",
+      "labels": [
+        "Guess"
+      ]
+    },
+    {
+      "key": "PS-5568",
+      "summary": "EcoPiezas - IVR / Call Deflection to WhatsApp Integration",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": null,
+      "issuetype": "Task",
+      "created": "2026-05-14",
+      "updated": "2026-05-14",
+      "resolutiondate": "",
+      "labels": [
+        "EcoPiezas"
+      ]
+    },
+    {
+      "key": "PS-5567",
+      "summary": "Task - Contact Reason Array Check Plugin",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Adrià Sastre",
+      "issuetype": "Task",
+      "created": "2026-05-14",
+      "updated": "2026-05-14",
+      "resolutiondate": "",
+      "labels": [
+        "EcoPiezas",
+        "Task"
+      ]
+    },
+    {
+      "key": "PS-5566",
+      "summary": "EcoPiezas - Add WhatsApp number to staging bot",
+      "status": "Done",
+      "status_category": "Done",
+      "assignee": "Aitor Casas",
+      "issuetype": "Task",
+      "created": "2026-05-14",
+      "updated": "2026-05-15",
+      "resolutiondate": "",
+      "labels": [
+        "EcoPiezas"
+      ]
+    },
+    {
+      "key": "PS-5565",
+      "summary": "Jetsmart - Update bot (48) to activate the automatic language detection",
+      "status": "In Review",
+      "status_category": "In Progress",
+      "assignee": "Pep Alonso",
+      "issuetype": "Task",
+      "created": "2026-05-14",
+      "updated": "2026-05-14",
+      "resolutiondate": "",
+      "labels": [
+        "JetSMART"
+      ]
+    },
     {
       "key": "PS-5564",
       "summary": "ATM - Add Conversation IDs to monthly report for Bot evaluations",
@@ -11,7 +110,9 @@
       "created": "2026-05-14",
       "updated": "2026-05-14",
       "resolutiondate": "",
-      "labels": []
+      "labels": [
+        "ATM"
+      ]
     },
     {
       "key": "PS-5563",
@@ -30,7 +131,7 @@
     {
       "key": "PS-5562",
       "summary": "Assegur - Review why we are not saving info Assegur is sending in AWS",
-      "status": "In Progress",
+      "status": "Ready for review",
       "status_category": "In Progress",
       "assignee": "Adrià Sastre",
       "issuetype": "Bug",
@@ -44,12 +145,12 @@
     {
       "key": "PS-5561",
       "summary": "Libeen - Get SDR slug from contact info to create meetings",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Ready for review",
+      "status_category": "In Progress",
       "assignee": "Alexander Skalatskiy",
       "issuetype": "Task",
       "created": "2026-05-13",
-      "updated": "2026-05-13",
+      "updated": "2026-05-15",
       "resolutiondate": "",
       "labels": [
         "Libeen"
@@ -58,12 +159,12 @@
     {
       "key": "PS-5560",
       "summary": "Air Europa - Adjust the initial flow to enable users to write even if they haven't click on the accept button",
-      "status": "To Do",
-      "status_category": "To Do",
-      "assignee": "Alexander Skalatskiy",
+      "status": "In Review",
+      "status_category": "In Progress",
+      "assignee": "Evgeni Slavyanov",
       "issuetype": "Task",
       "created": "2026-05-13",
-      "updated": "2026-05-13",
+      "updated": "2026-05-14",
       "resolutiondate": "",
       "labels": [
         "AirEuropa"
@@ -116,10 +217,10 @@
       "summary": "RACC START - Subir a la versión última de botonic para poder añadir Audio transcription",
       "status": "To Do",
       "status_category": "To Do",
-      "assignee": null,
+      "assignee": "Evgeni Slavyanov",
       "issuetype": "Task",
       "created": "2026-05-12",
-      "updated": "2026-05-13",
+      "updated": "2026-05-14",
       "resolutiondate": "",
       "labels": [
         "RACC"
@@ -144,10 +245,10 @@
       "summary": "Tendam - Activar idioma Rumano en el bot Tendam SPF Simpl",
       "status": "Open",
       "status_category": "To Do",
-      "assignee": null,
-      "issuetype": "Task",
+      "assignee": "Adrià Sastre",
+      "issuetype": "Discovery Task",
       "created": "2026-05-12",
-      "updated": "2026-05-12",
+      "updated": "2026-05-14",
       "resolutiondate": "",
       "labels": [
         "Tendam"
@@ -156,12 +257,12 @@
     {
       "key": "PS-5552",
       "summary": "Libeen - Update AI Agent tools/prompt ",
-      "status": "In Progress",
+      "status": "Ready for review",
       "status_category": "In Progress",
       "assignee": "Alexander Skalatskiy",
       "issuetype": "Task",
       "created": "2026-05-12",
-      "updated": "2026-05-13",
+      "updated": "2026-05-15",
       "resolutiondate": "",
       "labels": [
         "Libeen"
@@ -540,8 +641,8 @@
     {
       "key": "PS-5523",
       "summary": "Alsa - Button URLs the AI Agent displays do not work in their APP (they work for WhatsApp and Webbrowser)",
-      "status": "Ready for review",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Alexander Skalatskiy",
       "issuetype": "Bug",
       "created": "2026-05-08",
@@ -695,7 +796,7 @@
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-05-07",
-      "updated": "2026-05-08",
+      "updated": "2026-05-14",
       "resolutiondate": "",
       "labels": [
         "Multiasistencia"
@@ -923,12 +1024,12 @@
     {
       "key": "PS-5495",
       "summary": "EcoPiezas - Create Project and queues and dashboard settings (SLA, ....)",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "In Progress",
+      "status_category": "In Progress",
       "assignee": "Patrícia Sánchez",
       "issuetype": "Task",
       "created": "2026-05-04",
-      "updated": "2026-05-05",
+      "updated": "2026-05-14",
       "resolutiondate": "",
       "labels": [
         "EcoPiezas"
@@ -977,12 +1078,12 @@
     {
       "key": "PS-5491",
       "summary": "Rag&Bone - Create new snippet with new App ID and WhatsApp option",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Ready to Deliver",
+      "status_category": "In Progress",
       "assignee": "Evgeni Slavyanov",
       "issuetype": "Task",
       "created": "2026-05-04",
-      "updated": "2026-05-14",
+      "updated": "2026-05-15",
       "resolutiondate": "",
       "labels": [
         "Rag&Bone"
@@ -1239,12 +1340,12 @@
     {
       "key": "PS-5471",
       "summary": "Rag & Bone - Clone the bot in staging and production",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Pep Alonso",
       "issuetype": "Task",
       "created": "2026-04-29",
-      "updated": "2026-05-11",
+      "updated": "2026-05-15",
       "resolutiondate": "",
       "labels": [
         "Rag&Bone"
