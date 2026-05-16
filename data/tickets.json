@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-15 09:46 UTC",
+  "last_updated": "2026-05-16 08:46 UTC",
   "tickets": [
     {
       "key": "PS-5571",
@@ -105,10 +105,10 @@
       "summary": "ATM - Add Conversation IDs to monthly report for Bot evaluations",
       "status": "To Do",
       "status_category": "To Do",
-      "assignee": "Francisca Martelli",
+      "assignee": "Aitor Casas",
       "issuetype": "Task",
       "created": "2026-05-14",
-      "updated": "2026-05-14",
+      "updated": "2026-05-15",
       "resolutiondate": "",
       "labels": [
         "ATM"
@@ -131,12 +131,12 @@
     {
       "key": "PS-5562",
       "summary": "Assegur - Review why we are not saving info Assegur is sending in AWS",
-      "status": "Ready for review",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Adrià Sastre",
       "issuetype": "Bug",
       "created": "2026-05-13",
-      "updated": "2026-05-14",
+      "updated": "2026-05-15",
       "resolutiondate": "",
       "labels": [
         "Assegur"
@@ -242,13 +242,13 @@
     },
     {
       "key": "PS-5553",
-      "summary": "Tendam - Activar idioma Rumano en el bot Tendam SPF Simpl",
-      "status": "Open",
+      "summary": "Tendam - Activar idioma Rumano en el bot Tendam SPF Simpl + Women Secret Simpl",
+      "status": "To Do",
       "status_category": "To Do",
-      "assignee": "Adrià Sastre",
+      "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Discovery Task",
       "created": "2026-05-12",
-      "updated": "2026-05-14",
+      "updated": "2026-05-15",
       "resolutiondate": "",
       "labels": [
         "Tendam"
@@ -257,7 +257,7 @@
     {
       "key": "PS-5552",
       "summary": "Libeen - Update AI Agent tools/prompt ",
-      "status": "Ready for review",
+      "status": "In Progress",
       "status_category": "In Progress",
       "assignee": "Alexander Skalatskiy",
       "issuetype": "Task",
@@ -346,7 +346,7 @@
       "assignee": "Evgeni Slavyanov",
       "issuetype": "Task",
       "created": "2026-05-11",
-      "updated": "2026-05-12",
+      "updated": "2026-05-15",
       "resolutiondate": "",
       "labels": [
         "verisure-spain-televentas"
@@ -424,13 +424,13 @@
     },
     {
       "key": "PS-5539",
-      "summary": "Occident - Review if we are receiving hash y refreshhash as a response in \"Inicio de conversación\"",
-      "status": "To Do",
-      "status_category": "To Do",
+      "summary": "Occident - Review if we are receiving hash y refreshhash in \"store-data\"",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Pep Alonso",
       "issuetype": "Task",
       "created": "2026-05-11",
-      "updated": "2026-05-11",
+      "updated": "2026-05-15",
       "resolutiondate": "",
       "labels": [
         "occident"
@@ -707,12 +707,12 @@
     {
       "key": "PS-5518",
       "summary": "Wizz Air - Review API documentation to confirm whether the agency username/login can be captured to identify agencies",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "In Progress",
+      "status_category": "In Progress",
       "assignee": "Adrià Sastre",
       "issuetype": "Task",
       "created": "2026-05-07",
-      "updated": "2026-05-07",
+      "updated": "2026-05-15",
       "resolutiondate": "",
       "labels": [
         "WizzAir"
@@ -1438,12 +1438,12 @@
     {
       "key": "PS-5464",
       "summary": "Internal - Bump internal packages to version 0.48",
-      "status": "Ready for review",
+      "status": "Ready to Deliver",
       "status_category": "In Progress",
       "assignee": "Adrià Sastre",
       "issuetype": "Task",
       "created": "2026-04-28",
-      "updated": "2026-04-29",
+      "updated": "2026-05-15",
       "resolutiondate": "",
       "labels": [
         "Internal"
@@ -1632,12 +1632,12 @@
     {
       "key": "PS-5449",
       "summary": "RACC - Servei Estalvi Energètic - Clientes que siguen todo el funnel pero se quedan en la pregunta ¿Eres titular del contrato?",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Ready for review",
+      "status_category": "In Progress",
       "assignee": "Adrià Sastre",
-      "issuetype": "Task",
+      "issuetype": "Discovery Task",
       "created": "2026-04-27",
-      "updated": "2026-05-08",
+      "updated": "2026-05-15",
       "resolutiondate": "",
       "labels": [
         "RACC"
@@ -5372,7 +5372,7 @@
       "assignee": "Julieta Mezza",
       "issuetype": "Epic",
       "created": "2026-03-10",
-      "updated": "2026-04-06",
+      "updated": "2026-05-15",
       "resolutiondate": "",
       "labels": [
         "occident"
