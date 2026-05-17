@@ -1,6 +1,28 @@
 {
-  "last_updated": "2026-05-16 09:01 UTC",
+  "last_updated": "2026-05-17 09:13 UTC",
   "cases": [
+    {
+      "id": "500Sa00000rxi6YIAQ",
+      "case_number": "00024730",
+      "subject": "Integration Token Expiring in 30 days - Marketing Demos",
+      "status": "New",
+      "priority": "Low",
+      "is_closed": false,
+      "is_escalated": false,
+      "owner": "Aitor Casas",
+      "account": "",
+      "origin": "Inbound",
+      "type": "",
+      "feeling": "",
+      "issue_type": "",
+      "channel": "Email",
+      "is_critical": "L4",
+      "escalated_team": "",
+      "resolution_time": "",
+      "created": "2026-05-17",
+      "closed": "",
+      "last_modified": "2026-05-17"
+    },
     {
       "id": "500Sa00000rsXbhIAE",
       "case_number": "00024729",
