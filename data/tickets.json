@@ -1,6 +1,104 @@
 {
-  "last_updated": "2026-05-18 11:05 UTC",
+  "last_updated": "2026-05-19 10:35 UTC",
   "tickets": [
+    {
+      "key": "PS-5584",
+      "summary": "Libeen - Update eligible values to 2,200 EUR ingresos mínimos ",
+      "status": "In production",
+      "status_category": "Done",
+      "assignee": "Alexander Skalatskiy",
+      "issuetype": "Task",
+      "created": "2026-05-18",
+      "updated": "2026-05-19",
+      "resolutiondate": "",
+      "labels": [
+        "Libeen"
+      ]
+    },
+    {
+      "key": "PS-5583",
+      "summary": "Air Europa - Update AVA endpoint in stg",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Julieta Mezza",
+      "issuetype": "Task",
+      "created": "2026-05-18",
+      "updated": "2026-05-18",
+      "resolutiondate": "",
+      "labels": [
+        "AirEuropa"
+      ]
+    },
+    {
+      "key": "PS-5582",
+      "summary": "Verisure Televenta - Change bot logic",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Evgeni Slavyanov",
+      "issuetype": "Task",
+      "created": "2026-05-18",
+      "updated": "2026-05-18",
+      "resolutiondate": "",
+      "labels": [
+        "verisure-spain-televentas"
+      ]
+    },
+    {
+      "key": "PS-5581",
+      "summary": "Libeen - Add qualified value tracking to tinyBird",
+      "status": "In Progress",
+      "status_category": "In Progress",
+      "assignee": "Alexander Skalatskiy",
+      "issuetype": "Task",
+      "created": "2026-05-18",
+      "updated": "2026-05-18",
+      "resolutiondate": "",
+      "labels": [
+        "Libeen"
+      ]
+    },
+    {
+      "key": "PS-5580",
+      "summary": "Libeen - Update eligible values",
+      "status": "In production",
+      "status_category": "Done",
+      "assignee": "Alexander Skalatskiy",
+      "issuetype": "Task",
+      "created": "2026-05-18",
+      "updated": "2026-05-19",
+      "resolutiondate": "",
+      "labels": [
+        "Libeen"
+      ]
+    },
+    {
+      "key": "PS-5579",
+      "summary": "Fenie Energia - SFDC Integration OnResolve",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Adrià Sastre",
+      "issuetype": "Task",
+      "created": "2026-05-18",
+      "updated": "2026-05-19",
+      "resolutiondate": "",
+      "labels": [
+        "Fenie_Energia"
+      ]
+    },
+    {
+      "key": "PS-5578",
+      "summary": "Libeen - Send PDF WhatsApp transcript to Hubspot",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Adrià Sastre",
+      "issuetype": "Task",
+      "created": "2026-05-18",
+      "updated": "2026-05-18",
+      "resolutiondate": "",
+      "labels": [
+        "Libeen"
+      ]
+    },
     {
       "key": "PS-5577",
       "summary": "Soledad - leave PROD bot ready ",
@@ -32,12 +130,12 @@
     {
       "key": "PS-5575",
       "summary": "Wizz Air - Review staging endopoints \"emailValidation\" and \"refundStatus\"",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "In Review",
+      "status_category": "In Progress",
       "assignee": "Alexander Skalatskiy",
       "issuetype": "Task",
       "created": "2026-05-18",
-      "updated": "2026-05-18",
+      "updated": "2026-05-19",
       "resolutiondate": "",
       "labels": [
         "WizzAir"
@@ -46,8 +144,8 @@
     {
       "key": "PS-5574",
       "summary": "Ralph Lauren: new sizing APIS",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "In Progress",
+      "status_category": "In Progress",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-05-18",
@@ -60,8 +158,8 @@
     {
       "key": "PS-5573",
       "summary": "Ralph Lauren - sizing tags normalization ",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Ready for review",
+      "status_category": "In Progress",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-05-18",
@@ -74,7 +172,7 @@
     {
       "key": "PS-5572",
       "summary": "Ralph Lauren - add filters of the AI tags",
-      "status": "In Progress",
+      "status": "Ready for review",
       "status_category": "In Progress",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
@@ -88,12 +186,12 @@
     {
       "key": "PS-5571",
       "summary": "JetSMART - Review JSON of the new Consulta de Casos API",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "In Progress",
+      "status_category": "In Progress",
       "assignee": "Julieta Mezza",
       "issuetype": "Task",
       "created": "2026-05-14",
-      "updated": "2026-05-14",
+      "updated": "2026-05-18",
       "resolutiondate": "",
       "labels": [
         "JetSMART"
@@ -173,7 +271,7 @@
     {
       "key": "PS-5565",
       "summary": "Jetsmart - Update bot (48) to activate the automatic language detection",
-      "status": "APPROVED FOR PRODUCTION",
+      "status": "In production",
       "status_category": "Done",
       "assignee": "Pep Alonso",
       "issuetype": "Task",
@@ -187,12 +285,12 @@
     {
       "key": "PS-5564",
       "summary": "ATM - Add Conversation IDs to monthly report for Bot evaluations",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Ready for review",
+      "status_category": "In Progress",
       "assignee": "Aitor Casas",
       "issuetype": "Task",
       "created": "2026-05-14",
-      "updated": "2026-05-15",
+      "updated": "2026-05-19",
       "resolutiondate": "",
       "labels": [
         "ATM"
@@ -201,12 +299,12 @@
     {
       "key": "PS-5563",
       "summary": "Ralph Lauren - New sign up flow for internal users",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "In Progress",
+      "status_category": "In Progress",
       "assignee": "Andrea Talal Haidar",
       "issuetype": "Task",
       "created": "2026-05-14",
-      "updated": "2026-05-14",
+      "updated": "2026-05-19",
       "resolutiondate": "",
       "labels": [
         "RalphLauren"
@@ -229,12 +327,12 @@
     {
       "key": "PS-5561",
       "summary": "Libeen - Get SDR slug from contact info to create meetings",
-      "status": "Ready for review",
-      "status_category": "In Progress",
+      "status": "In production",
+      "status_category": "Done",
       "assignee": "Alexander Skalatskiy",
       "issuetype": "Task",
       "created": "2026-05-13",
-      "updated": "2026-05-15",
+      "updated": "2026-05-18",
       "resolutiondate": "",
       "labels": [
         "Libeen"
@@ -243,12 +341,12 @@
     {
       "key": "PS-5560",
       "summary": "Air Europa - Adjust the initial flow to enable users to write even if they haven't click on the accept button",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Ready for review",
+      "status_category": "In Progress",
       "assignee": "Evgeni Slavyanov",
       "issuetype": "Task",
       "created": "2026-05-13",
-      "updated": "2026-05-18",
+      "updated": "2026-05-19",
       "resolutiondate": "",
       "labels": [
         "AirEuropa"
@@ -271,8 +369,8 @@
     {
       "key": "PS-5558",
       "summary": "Assegur - Error in the message for users without opened claims",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Closed",
+      "status_category": "Done",
       "assignee": "Adrià Sastre",
       "issuetype": "Bug",
       "created": "2026-05-13",
@@ -341,8 +439,8 @@
     {
       "key": "PS-5552",
       "summary": "Libeen - Update AI Agent tools/prompt ",
-      "status": "Ready for review",
-      "status_category": "In Progress",
+      "status": "In production",
+      "status_category": "Done",
       "assignee": "Alexander Skalatskiy",
       "issuetype": "Task",
       "created": "2026-05-12",
@@ -383,7 +481,7 @@
     {
       "key": "PS-5549",
       "summary": "Michael Kors - Create contact reason \"No Response\" and conditional for CSAT",
-      "status": "In Progress",
+      "status": "Ready for review",
       "status_category": "In Progress",
       "assignee": "Evgeni Slavyanov",
       "issuetype": "Task",
@@ -439,12 +537,12 @@
     {
       "key": "PS-5544",
       "summary": "RL - ADD INACTIVITY LOGIC TO FLOW BUILDER",
-      "status": "APPROVED FOR PRODUCTION",
+      "status": "In production",
       "status_category": "Done",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Discovery Task",
       "created": "2026-05-11",
-      "updated": "2026-05-18",
+      "updated": "2026-05-19",
       "resolutiondate": "",
       "labels": [
         "Ralph_Lauren"
@@ -481,12 +579,12 @@
     {
       "key": "PS-5541",
       "summary": "Fenie Energia - Create Project, Queue, Review Settings",
-      "status": "In Progress",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Francisca Martelli",
       "issuetype": "Task",
       "created": "2026-05-11",
-      "updated": "2026-05-13",
+      "updated": "2026-05-18",
       "resolutiondate": "",
       "labels": [
         "Fenie_Energia"
@@ -565,12 +663,12 @@
     {
       "key": "PS-5535",
       "summary": "Ralph Lauren : add blockers to email dead loop",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "In Progress",
+      "status_category": "In Progress",
       "assignee": "irene callejas",
       "issuetype": "Task",
       "created": "2026-05-11",
-      "updated": "2026-05-11",
+      "updated": "2026-05-19",
       "resolutiondate": "",
       "labels": [
         "Ralph_Lauren"
@@ -579,12 +677,12 @@
     {
       "key": "PS-5534",
       "summary": "PREPARE FOR PRODUCT PLANNING",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Closed",
+      "status_category": "Done",
       "assignee": "Andrea Talal Haidar",
       "issuetype": "Discovery Task",
       "created": "2026-05-11",
-      "updated": "2026-05-11",
+      "updated": "2026-05-18",
       "resolutiondate": "",
       "labels": []
     },
@@ -1108,12 +1206,12 @@
     {
       "key": "PS-5495",
       "summary": "EcoPiezas - Create Project and queues and dashboard settings (SLA, ....)",
-      "status": "In Progress",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Patrícia Sánchez",
       "issuetype": "Task",
       "created": "2026-05-04",
-      "updated": "2026-05-14",
+      "updated": "2026-05-18",
       "resolutiondate": "",
       "labels": [
         "EcoPiezas"
@@ -1216,12 +1314,12 @@
     {
       "key": "PS-5487",
       "summary": "LIBEEN - TEST AND REVIEW UX",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Closed",
+      "status_category": "Done",
       "assignee": "Andrea Talal Haidar",
       "issuetype": "Discovery Task",
       "created": "2026-05-04",
-      "updated": "2026-05-05",
+      "updated": "2026-05-18",
       "resolutiondate": "",
       "labels": [
         "Libeen"
@@ -1967,7 +2065,7 @@
       "assignee": "Alexander Skalatskiy",
       "issuetype": "Task",
       "created": "2026-04-23",
-      "updated": "2026-05-11",
+      "updated": "2026-05-18",
       "resolutiondate": "",
       "labels": [
         "AirEuropa"
@@ -2311,12 +2409,12 @@
     {
       "key": "PS-5406",
       "summary": "Jetsmart - Fix SSR price discrepancy by making prices API-driven",
-      "status": "In Review",
+      "status": "Ready to Deliver",
       "status_category": "In Progress",
       "assignee": "Pep Alonso",
       "issuetype": "Task",
       "created": "2026-04-21",
-      "updated": "2026-05-04",
+      "updated": "2026-05-19",
       "resolutiondate": "",
       "labels": [
         "JetSmart"
@@ -2546,12 +2644,12 @@
     {
       "key": "PS-5386",
       "summary": "DRAFT rough specs to share with delivery/cs --> regression&battle test shareable MVP app",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Closed",
+      "status_category": "Done",
       "assignee": "irene callejas",
       "issuetype": "Task",
       "created": "2026-04-20",
-      "updated": "2026-04-29",
+      "updated": "2026-05-19",
       "resolutiondate": "",
       "labels": [
         "Internal"
@@ -3255,12 +3353,12 @@
     {
       "key": "PS-5330",
       "summary": "Libeen - Project 1st Phase",
-      "status": "Ready for review",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Marta Marron",
       "issuetype": "Epic",
       "created": "2026-04-10",
-      "updated": "2026-05-11",
+      "updated": "2026-05-18",
       "resolutiondate": "",
       "labels": [
         "Libeen"
@@ -3533,12 +3631,12 @@
     {
       "key": "PS-5310",
       "summary": "Rag & Bone - Migration to Guess Dashboard",
-      "status": "Open",
-      "status_category": "To Do",
+      "status": "In Progress",
+      "status_category": "In Progress",
       "assignee": null,
       "issuetype": "Epic",
       "created": "2026-04-09",
-      "updated": "2026-04-09",
+      "updated": "2026-05-18",
       "resolutiondate": "",
       "labels": [
         "Rag&Bone"
@@ -5451,12 +5549,12 @@
     {
       "key": "PS-5167",
       "summary": "Occident - Implement changes in the way we are communicating data",
-      "status": "Ready for review",
+      "status": "Ready to Deliver",
       "status_category": "In Progress",
       "assignee": "Julieta Mezza",
       "issuetype": "Epic",
       "created": "2026-03-10",
-      "updated": "2026-05-15",
+      "updated": "2026-05-18",
       "resolutiondate": "",
       "labels": [
         "occident"
@@ -8276,12 +8374,12 @@
     {
       "key": "PS-4949",
       "summary": "Multiasistencia - Baja de Bots y Número de Generali",
-      "status": "Open",
-      "status_category": "To Do",
+      "status": "Closed",
+      "status_category": "Done",
       "assignee": "Marta Marron",
       "issuetype": "Task",
       "created": "2026-02-03",
-      "updated": "2026-02-13",
+      "updated": "2026-05-18",
       "resolutiondate": "",
       "labels": [
         "Multiasistencia"
@@ -8947,12 +9045,12 @@
     {
       "key": "PS-4890",
       "summary": "Rag & Bone - Launch WhatsApp channel",
-      "status": "Open",
-      "status_category": "To Do",
+      "status": "In Progress",
+      "status_category": "In Progress",
       "assignee": "Francisca Martelli",
       "issuetype": "Epic",
       "created": "2026-01-25",
-      "updated": "2026-01-25",
+      "updated": "2026-05-18",
       "resolutiondate": "",
       "labels": [
         "Rag&Bone"
@@ -11381,13 +11479,13 @@
     },
     {
       "key": "PS-4693",
-      "summary": "Allianz Spain - New webview to open claim to \"Defensa del asegurado\"",
-      "status": "Open",
-      "status_category": "To Do",
+      "summary": "Allianz Spain - New webview to open claim to \"Defensor del asegurado\"",
+      "status": "In Progress",
+      "status_category": "In Progress",
       "assignee": "Adrià Sastre",
       "issuetype": "Epic",
       "created": "2025-12-02",
-      "updated": "2026-05-06",
+      "updated": "2026-05-18",
       "resolutiondate": "",
       "labels": [
         "Allianz-ES"
@@ -12272,12 +12370,12 @@
     {
       "key": "PS-4619",
       "summary": "Soledad - Project 1st Phase",
-      "status": "In Progress",
+      "status": "Ready to Deliver",
       "status_category": "In Progress",
       "assignee": "Francisca Martelli",
       "issuetype": "Epic",
       "created": "2025-11-06",
-      "updated": "2026-01-17",
+      "updated": "2026-05-18",
       "resolutiondate": "",
       "labels": [
         "Soledad"
@@ -13145,12 +13243,12 @@
     {
       "key": "PS-4551",
       "summary": "Tendam - Update all bots to Botonic 46 (AI Agent)",
-      "status": "Ready for review",
+      "status": "Ready to Deliver",
       "status_category": "In Progress",
       "assignee": "Adrià Sastre",
       "issuetype": "Epic",
       "created": "2025-10-20",
-      "updated": "2026-04-27",
+      "updated": "2026-05-18",
       "resolutiondate": "",
       "labels": [
         "Tendam"
@@ -14238,12 +14336,12 @@
     {
       "key": "PS-4460",
       "summary": "Rag & Bone - WhatsApp - IVR Deflection",
-      "status": "Open",
+      "status": "To Do",
       "status_category": "To Do",
       "assignee": "Francisca Martelli",
       "issuetype": "Task",
       "created": "2025-09-28",
-      "updated": "2026-01-25",
+      "updated": "2026-05-18",
       "resolutiondate": "",
       "labels": [
         "Rag&Bone"
@@ -18658,12 +18756,12 @@
     {
       "key": "PS-4087",
       "summary": "Rag & Bone - WhatsApp templates 24 h",
-      "status": "Open",
+      "status": "To Do",
       "status_category": "To Do",
       "assignee": "Francisca Martelli",
       "issuetype": "Task",
       "created": "2025-06-12",
-      "updated": "2026-01-25",
+      "updated": "2026-05-18",
       "resolutiondate": "",
       "labels": [
         "Rag&Bone"
