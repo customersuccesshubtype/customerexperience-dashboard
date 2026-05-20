@@ -1,6 +1,50 @@
 {
-  "last_updated": "2026-05-19 10:44 UTC",
+  "last_updated": "2026-05-20 10:28 UTC",
   "cases": [
+    {
+      "id": "500Sa00000sDHOxIAO",
+      "case_number": "00024741",
+      "subject": "Remove EN Conversation Bar",
+      "status": "New",
+      "priority": "Low",
+      "is_closed": false,
+      "is_escalated": false,
+      "owner": "Aitor Casas",
+      "account": "Easyjet PLC",
+      "origin": "Inbound",
+      "type": "",
+      "feeling": "",
+      "issue_type": "",
+      "channel": "Email",
+      "is_critical": "L4",
+      "escalated_team": "",
+      "resolution_time": "",
+      "created": "2026-05-20",
+      "closed": "",
+      "last_modified": "2026-05-20"
+    },
+    {
+      "id": "500Sa00000s9NclIAE",
+      "case_number": "00024740",
+      "subject": "RV: Propuesta de Valor CORR 2026 - OSN",
+      "status": "Closed",
+      "priority": "Low",
+      "is_closed": true,
+      "is_escalated": false,
+      "owner": "Aitor Casas",
+      "account": "Allianz Spain",
+      "origin": "Inbound",
+      "type": "Task",
+      "feeling": "",
+      "issue_type": "Informes",
+      "channel": "Email",
+      "is_critical": "L4",
+      "escalated_team": "",
+      "resolution_time": "3. 12-24h",
+      "created": "2026-05-19",
+      "closed": "2026-05-20",
+      "last_modified": "2026-05-20"
+    },
     {
       "id": "500Sa00000s84XDIAY",
       "case_number": "00024738",
@@ -106,10 +150,10 @@
       "channel": "Email",
       "is_critical": "L4",
       "escalated_team": "",
-      "resolution_time": "1. <6h",
+      "resolution_time": "3. 12-24h",
       "created": "2026-05-19",
-      "closed": "2026-05-19",
-      "last_modified": "2026-05-19"
+      "closed": "2026-05-20",
+      "last_modified": "2026-05-20"
     },
     {
       "id": "500Sa00000s6tfVIAQ",
@@ -150,10 +194,10 @@
       "channel": "Email",
       "is_critical": "L4",
       "escalated_team": "",
-      "resolution_time": "3. 12-24h",
+      "resolution_time": "5. >36h",
       "created": "2026-05-18",
-      "closed": "2026-05-19",
-      "last_modified": "2026-05-19"
+      "closed": "2026-05-20",
+      "last_modified": "2026-05-20"
     },
     {
       "id": "500Sa00000rsXbhIAE",

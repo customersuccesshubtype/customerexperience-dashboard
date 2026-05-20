@@ -1,6 +1,23 @@
 {
-  "last_updated": "2026-05-19 10:44 UTC",
+  "last_updated": "2026-05-20 10:28 UTC",
   "opportunities": [
+    {
+      "id": "006Sa00000gLRzXIAW",
+      "name": "2026-C-Ralph Lauren-UK - Set up Fee Product AI Tagging",
+      "type": "Consultancy",
+      "stage": "Opportunity identified",
+      "is_closed": false,
+      "is_won": false,
+      "probability": 10.0,
+      "amount": 3500.0,
+      "arr": 0.0,
+      "owner": "Marta Marron",
+      "cs_lead": "",
+      "account": "Ralph Lauren UK",
+      "created": "2026-05-20",
+      "close_date": "2025-10-28",
+      "start_date": "2026-05-20"
+    },
     {
       "id": "006Sa00000gEG8EIAW",
       "name": "2027-R-Guess+R&B-CA(Webchat,Whatsapp)",
@@ -9,8 +26,8 @@
       "is_closed": false,
       "is_won": false,
       "probability": 50.0,
-      "amount": 204375.0,
-      "arr": 190275.0,
+      "amount": 210525.0,
+      "arr": 196425.0,
       "owner": "Francisca Martelli",
       "cs_lead": "Francisca Martelli",
       "account": "GUESS",
