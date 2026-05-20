@@ -1,10 +1,108 @@
 {
-  "last_updated": "2026-05-19 10:35 UTC",
+  "last_updated": "2026-05-20 10:23 UTC",
   "tickets": [
     {
+      "key": "PS-5591",
+      "summary": "Soledad - adapt message for confirmation orders",
+      "status": "Ready for review",
+      "status_category": "In Progress",
+      "assignee": "Lorena Sánchez-Toril Nicolás",
+      "issuetype": "Task",
+      "created": "2026-05-20",
+      "updated": "2026-05-20",
+      "resolutiondate": "",
+      "labels": [
+        "Soledad"
+      ]
+    },
+    {
+      "key": "PS-5590",
+      "summary": "Turisme - En el 1 Password pone Generalitat Turismes (con s final) podemos eliminar la s?",
+      "status": "Done",
+      "status_category": "Done",
+      "assignee": "Aitor Casas",
+      "issuetype": "Bug",
+      "created": "2026-05-20",
+      "updated": "2026-05-20",
+      "resolutiondate": "",
+      "labels": [
+        "Generalitat-Turisme"
+      ]
+    },
+    {
+      "key": "PS-5589",
+      "summary": "Allianz Spain - Link de política de privacidad es un bitly que no se lee (revisar opciones para que se lea)",
+      "status": "In Progress",
+      "status_category": "In Progress",
+      "assignee": "Aitor Casas",
+      "issuetype": "Bug",
+      "created": "2026-05-20",
+      "updated": "2026-05-20",
+      "resolutiondate": "",
+      "labels": [
+        "Allianz-ES"
+      ]
+    },
+    {
+      "key": "PS-5588",
+      "summary": "Libeen - Conversations with only message_sent_by_user but no response from the bot",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Alexander Skalatskiy",
+      "issuetype": "Bug",
+      "created": "2026-05-19",
+      "updated": "2026-05-19",
+      "resolutiondate": "",
+      "labels": [
+        "Libeen"
+      ]
+    },
+    {
+      "key": "PS-5587",
+      "summary": "Ecopiezas y Libeen - Añadir Powered by Hubtype en su perfil del número de WhatsApp",
+      "status": "Ready for review",
+      "status_category": "In Progress",
+      "assignee": "Aitor Casas",
+      "issuetype": "Task",
+      "created": "2026-05-19",
+      "updated": "2026-05-20",
+      "resolutiondate": "",
+      "labels": [
+        "EcoPiezas"
+      ]
+    },
+    {
+      "key": "PS-5586",
+      "summary": "Ralph Lauren - enrich experience",
+      "status": "In Progress",
+      "status_category": "In Progress",
+      "assignee": "irene callejas",
+      "issuetype": "Task",
+      "created": "2026-05-19",
+      "updated": "2026-05-20",
+      "resolutiondate": "",
+      "labels": [
+        "Ralph_Lauren"
+      ]
+    },
+    {
+      "key": "PS-5585",
+      "summary": "Apply Design changes Air Europa ",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Vicky Correbo",
+      "issuetype": "Task",
+      "created": "2026-05-19",
+      "updated": "2026-05-19",
+      "resolutiondate": "",
+      "labels": [
+        "AirEuropa"
+      ]
+    },
+    {
       "key": "PS-5584",
-      "summary": "Libeen - Update eligible values to 2,200 EUR ingresos mínimos ",
-      "status": "In production",
+      "summary": "Libeen - Update eligible values to 2,100 EUR ingresos mínimos ",
+      "status": "Done",
       "status_category": "Done",
       "assignee": "Alexander Skalatskiy",
       "issuetype": "Task",
@@ -20,10 +118,10 @@
       "summary": "Air Europa - Update AVA endpoint in stg",
       "status": "To Do",
       "status_category": "To Do",
-      "assignee": "Julieta Mezza",
+      "assignee": "Alexander Skalatskiy",
       "issuetype": "Task",
       "created": "2026-05-18",
-      "updated": "2026-05-18",
+      "updated": "2026-05-19",
       "resolutiondate": "",
       "labels": [
         "AirEuropa"
@@ -32,12 +130,12 @@
     {
       "key": "PS-5582",
       "summary": "Verisure Televenta - Change bot logic",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "In Progress",
+      "status_category": "In Progress",
       "assignee": "Evgeni Slavyanov",
       "issuetype": "Task",
       "created": "2026-05-18",
-      "updated": "2026-05-18",
+      "updated": "2026-05-20",
       "resolutiondate": "",
       "labels": [
         "verisure-spain-televentas"
@@ -60,7 +158,7 @@
     {
       "key": "PS-5580",
       "summary": "Libeen - Update eligible values",
-      "status": "In production",
+      "status": "Done",
       "status_category": "Done",
       "assignee": "Alexander Skalatskiy",
       "issuetype": "Task",
@@ -107,7 +205,7 @@
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-05-18",
-      "updated": "2026-05-18",
+      "updated": "2026-05-20",
       "resolutiondate": "",
       "labels": [
         "Soledad"
@@ -177,7 +275,7 @@
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-05-18",
-      "updated": "2026-05-18",
+      "updated": "2026-05-19",
       "resolutiondate": "",
       "labels": [
         "Ralph_Lauren"
@@ -191,7 +289,7 @@
       "assignee": "Julieta Mezza",
       "issuetype": "Task",
       "created": "2026-05-14",
-      "updated": "2026-05-18",
+      "updated": "2026-05-19",
       "resolutiondate": "",
       "labels": [
         "JetSMART"
@@ -271,12 +369,12 @@
     {
       "key": "PS-5565",
       "summary": "Jetsmart - Update bot (48) to activate the automatic language detection",
-      "status": "In production",
+      "status": "Done",
       "status_category": "Done",
       "assignee": "Pep Alonso",
       "issuetype": "Task",
       "created": "2026-05-14",
-      "updated": "2026-05-18",
+      "updated": "2026-05-19",
       "resolutiondate": "",
       "labels": [
         "JetSMART"
@@ -327,12 +425,12 @@
     {
       "key": "PS-5561",
       "summary": "Libeen - Get SDR slug from contact info to create meetings",
-      "status": "In production",
+      "status": "Done",
       "status_category": "Done",
       "assignee": "Alexander Skalatskiy",
       "issuetype": "Task",
       "created": "2026-05-13",
-      "updated": "2026-05-18",
+      "updated": "2026-05-19",
       "resolutiondate": "",
       "labels": [
         "Libeen"
@@ -397,12 +495,12 @@
     {
       "key": "PS-5556",
       "summary": "RACC START - Subir a la versión última de botonic para poder añadir Audio transcription",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Ready for review",
+      "status_category": "In Progress",
       "assignee": "Evgeni Slavyanov",
       "issuetype": "Task",
       "created": "2026-05-12",
-      "updated": "2026-05-18",
+      "updated": "2026-05-19",
       "resolutiondate": "",
       "labels": [
         "RACC"
@@ -425,12 +523,12 @@
     {
       "key": "PS-5553",
       "summary": "Tendam - Activar idioma Rumano en el bot Tendam SPF Simpl + Women Secret Simpl",
-      "status": "In Progress",
+      "status": "Ready for review",
       "status_category": "In Progress",
       "assignee": "Lorena Sánchez-Toril Nicolás",
-      "issuetype": "Discovery Task",
+      "issuetype": "Task",
       "created": "2026-05-12",
-      "updated": "2026-05-18",
+      "updated": "2026-05-20",
       "resolutiondate": "",
       "labels": [
         "Tendam"
@@ -439,12 +537,12 @@
     {
       "key": "PS-5552",
       "summary": "Libeen - Update AI Agent tools/prompt ",
-      "status": "In production",
+      "status": "Done",
       "status_category": "Done",
       "assignee": "Alexander Skalatskiy",
       "issuetype": "Task",
       "created": "2026-05-12",
-      "updated": "2026-05-18",
+      "updated": "2026-05-19",
       "resolutiondate": "",
       "labels": [
         "Libeen"
@@ -481,12 +579,12 @@
     {
       "key": "PS-5549",
       "summary": "Michael Kors - Create contact reason \"No Response\" and conditional for CSAT",
-      "status": "Ready for review",
-      "status_category": "In Progress",
+      "status": "In production",
+      "status_category": "Done",
       "assignee": "Evgeni Slavyanov",
       "issuetype": "Task",
       "created": "2026-05-12",
-      "updated": "2026-05-18",
+      "updated": "2026-05-20",
       "resolutiondate": "",
       "labels": [
         "MichaelKors"
@@ -2060,12 +2158,12 @@
     {
       "key": "PS-5431",
       "summary": "Air Europa - Logic changes",
-      "status": "Open",
+      "status": "To Do",
       "status_category": "To Do",
       "assignee": "Alexander Skalatskiy",
       "issuetype": "Task",
       "created": "2026-04-23",
-      "updated": "2026-05-18",
+      "updated": "2026-05-19",
       "resolutiondate": "",
       "labels": [
         "AirEuropa"
@@ -2747,7 +2845,7 @@
       "assignee": "Adrià Sastre",
       "issuetype": "Epic",
       "created": "2026-04-17",
-      "updated": "2026-05-17",
+      "updated": "2026-05-20",
       "resolutiondate": "",
       "labels": [
         "Michael-Kors"
@@ -3591,12 +3689,12 @@
     {
       "key": "PS-5313",
       "summary": "Design loading transitions/animations",
-      "status": "Ready for review",
+      "status": "In Review",
       "status_category": "In Progress",
       "assignee": "Vicky Correbo",
       "issuetype": "Discovery Task",
       "created": "2026-04-09",
-      "updated": "2026-05-12",
+      "updated": "2026-05-20",
       "resolutiondate": "",
       "labels": [
         "DesignSystem"
@@ -8080,12 +8178,12 @@
     {
       "key": "PS-4973",
       "summary": "Retorna - Address Code Improvements",
-      "status": "Ready for review",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Alexander Skalatskiy",
       "issuetype": "Task",
       "created": "2026-02-05",
-      "updated": "2026-05-07",
+      "updated": "2026-05-19",
       "resolutiondate": "",
       "labels": [
         "Retorna"
