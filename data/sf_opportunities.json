@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-20 10:28 UTC",
+  "last_updated": "2026-05-21 10:48 UTC",
   "opportunities": [
     {
       "id": "006Sa00000gLRzXIAW",
@@ -3014,17 +3014,17 @@
       "id": "006Sa00000JILzGIAX",
       "name": "2026-R-Generalitat (ATM)-CA(Webchat)",
       "type": "Renewal",
-      "stage": "Waiting for signature",
-      "is_closed": false,
-      "is_won": false,
-      "probability": 90.0,
+      "stage": "Closed Won",
+      "is_closed": true,
+      "is_won": true,
+      "probability": 100.0,
       "amount": 14700.0,
       "arr": 14700.0,
       "owner": "Marta Marron",
       "cs_lead": "Marta Marron",
       "account": "Generalitat de Catalunya",
       "created": "2025-04-02",
-      "close_date": "2026-02-02",
+      "close_date": "2026-05-21",
       "start_date": "2026-04-01"
     },
     {
