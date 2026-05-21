@@ -1,6 +1,149 @@
 {
-  "last_updated": "2026-05-20 10:23 UTC",
+  "last_updated": "2026-05-21 10:38 UTC",
   "tickets": [
+    {
+      "key": "PS-5601",
+      "summary": "Allianz ES - Claims Webview - Email sent without the necessary information",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Pep Alonso",
+      "issuetype": "Bug",
+      "created": "2026-05-21",
+      "updated": "2026-05-21",
+      "resolutiondate": "",
+      "labels": [
+        "Allianz-ES",
+        "webviews"
+      ]
+    },
+    {
+      "key": "PS-5600",
+      "summary": "WizzAir - Bug - Autoclose Offline Cases with more than 5 min not working",
+      "status": "In Progress",
+      "status_category": "In Progress",
+      "assignee": "Evgeni Slavyanov",
+      "issuetype": "Bug",
+      "created": "2026-05-21",
+      "updated": "2026-05-21",
+      "resolutiondate": "",
+      "labels": [
+        "Bug",
+        "WizzAir"
+      ]
+    },
+    {
+      "key": "PS-5599",
+      "summary": "Multiasistencia - Bot Santander - casos resueltos reabren a formulario de 2ª gestión pero se enrutan a la cola \"Declarar siniestro\"",
+      "status": "Ready for review",
+      "status_category": "In Progress",
+      "assignee": "Aitor Casas",
+      "issuetype": "Task",
+      "created": "2026-05-21",
+      "updated": "2026-05-21",
+      "resolutiondate": "",
+      "labels": [
+        "Multiasistencia"
+      ]
+    },
+    {
+      "key": "PS-5598",
+      "summary": "Generalitat Turisme - Configurar fluxos diferenciats: atenció humana en horari d'oficina i chatbot - AI Agent - fora d'horari.",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Marta Marron",
+      "issuetype": "Task",
+      "created": "2026-05-20",
+      "updated": "2026-05-20",
+      "resolutiondate": "",
+      "labels": [
+        "Generalitat-Turisme"
+      ]
+    },
+    {
+      "key": "PS-5597",
+      "summary": "RACC - Update to version 48 to include automatic language detection",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": null,
+      "issuetype": "Task",
+      "created": "2026-05-20",
+      "updated": "2026-05-20",
+      "resolutiondate": "",
+      "labels": [
+        "RACC"
+      ]
+    },
+    {
+      "key": "PS-5596",
+      "summary": "Michael Kors - AI Agent Language adherence issue",
+      "status": "In Progress",
+      "status_category": "In Progress",
+      "assignee": "irene callejas",
+      "issuetype": "Bug",
+      "created": "2026-05-20",
+      "updated": "2026-05-21",
+      "resolutiondate": "",
+      "labels": [
+        "Michael-Kors"
+      ]
+    },
+    {
+      "key": "PS-5595",
+      "summary": "Generalitat-Turisme - Añadir la base de datos de centros de atención en el conocimiento del bot",
+      "status": "In Progress",
+      "status_category": "In Progress",
+      "assignee": "Marta Marron",
+      "issuetype": "Task",
+      "created": "2026-05-20",
+      "updated": "2026-05-21",
+      "resolutiondate": "",
+      "labels": [
+        "Generalitat-Turisme"
+      ]
+    },
+    {
+      "key": "PS-5594",
+      "summary": "Air Europa - Verify if we still needing gdprAccepted param in the code.",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": null,
+      "issuetype": "Task",
+      "created": "2026-05-20",
+      "updated": "2026-05-20",
+      "resolutiondate": "",
+      "labels": [
+        "AirEuropa",
+        "Backlog"
+      ]
+    },
+    {
+      "key": "PS-5593",
+      "summary": "Generalitat Turisme - actualizar version bot 48 para poner language autodetection",
+      "status": "Ready for review",
+      "status_category": "In Progress",
+      "assignee": "Evgeni Slavyanov",
+      "issuetype": "Task",
+      "created": "2026-05-20",
+      "updated": "2026-05-21",
+      "resolutiondate": "",
+      "labels": [
+        "Generalitat-Turisme"
+      ]
+    },
+    {
+      "key": "PS-5592",
+      "summary": "Generalitat Turisme - Crear una URL de Netlify que tenga el webchat de staging",
+      "status": "Done",
+      "status_category": "Done",
+      "assignee": "Adrià Sastre",
+      "issuetype": "Task",
+      "created": "2026-05-20",
+      "updated": "2026-05-20",
+      "resolutiondate": "",
+      "labels": [
+        "Generalitat-Turisme"
+      ]
+    },
     {
       "key": "PS-5591",
       "summary": "Soledad - adapt message for confirmation orders",
@@ -32,8 +175,8 @@
     {
       "key": "PS-5589",
       "summary": "Allianz Spain - Link de política de privacidad es un bitly que no se lee (revisar opciones para que se lea)",
-      "status": "In Progress",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Aitor Casas",
       "issuetype": "Bug",
       "created": "2026-05-20",
@@ -46,12 +189,12 @@
     {
       "key": "PS-5588",
       "summary": "Libeen - Conversations with only message_sent_by_user but no response from the bot",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "In Progress",
+      "status_category": "In Progress",
       "assignee": "Alexander Skalatskiy",
       "issuetype": "Bug",
       "created": "2026-05-19",
-      "updated": "2026-05-19",
+      "updated": "2026-05-20",
       "resolutiondate": "",
       "labels": [
         "Libeen"
@@ -60,8 +203,8 @@
     {
       "key": "PS-5587",
       "summary": "Ecopiezas y Libeen - Añadir Powered by Hubtype en su perfil del número de WhatsApp",
-      "status": "Ready for review",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Aitor Casas",
       "issuetype": "Task",
       "created": "2026-05-19",
@@ -116,12 +259,12 @@
     {
       "key": "PS-5583",
       "summary": "Air Europa - Update AVA endpoint in stg",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Ready for review",
+      "status_category": "In Progress",
       "assignee": "Alexander Skalatskiy",
       "issuetype": "Task",
       "created": "2026-05-18",
-      "updated": "2026-05-19",
+      "updated": "2026-05-20",
       "resolutiondate": "",
       "labels": [
         "AirEuropa"
@@ -130,7 +273,7 @@
     {
       "key": "PS-5582",
       "summary": "Verisure Televenta - Change bot logic",
-      "status": "In Progress",
+      "status": "Ready for review",
       "status_category": "In Progress",
       "assignee": "Evgeni Slavyanov",
       "issuetype": "Task",
@@ -177,7 +320,7 @@
       "assignee": "Adrià Sastre",
       "issuetype": "Task",
       "created": "2026-05-18",
-      "updated": "2026-05-19",
+      "updated": "2026-05-21",
       "resolutiondate": "",
       "labels": [
         "Fenie_Energia"
@@ -247,7 +390,7 @@
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-05-18",
-      "updated": "2026-05-18",
+      "updated": "2026-05-21",
       "resolutiondate": "",
       "labels": [
         "Ralph_Lauren"
@@ -340,12 +483,12 @@
     {
       "key": "PS-5567",
       "summary": "EcoPiezas - Contact Reason Array Check Plugin",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Ready for review",
+      "status_category": "In Progress",
       "assignee": "Evgeni Slavyanov",
       "issuetype": "Task",
       "created": "2026-05-14",
-      "updated": "2026-05-18",
+      "updated": "2026-05-21",
       "resolutiondate": "",
       "labels": [
         "EcoPiezas",
@@ -444,7 +587,7 @@
       "assignee": "Evgeni Slavyanov",
       "issuetype": "Task",
       "created": "2026-05-13",
-      "updated": "2026-05-19",
+      "updated": "2026-05-20",
       "resolutiondate": "",
       "labels": [
         "AirEuropa"
@@ -495,12 +638,12 @@
     {
       "key": "PS-5556",
       "summary": "RACC START - Subir a la versión última de botonic para poder añadir Audio transcription",
-      "status": "Ready for review",
-      "status_category": "In Progress",
+      "status": "In production",
+      "status_category": "Done",
       "assignee": "Evgeni Slavyanov",
       "issuetype": "Task",
       "created": "2026-05-12",
-      "updated": "2026-05-19",
+      "updated": "2026-05-20",
       "resolutiondate": "",
       "labels": [
         "RACC"
@@ -528,7 +671,7 @@
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-05-12",
-      "updated": "2026-05-20",
+      "updated": "2026-05-21",
       "resolutiondate": "",
       "labels": [
         "Tendam"
@@ -766,7 +909,7 @@
       "assignee": "irene callejas",
       "issuetype": "Task",
       "created": "2026-05-11",
-      "updated": "2026-05-19",
+      "updated": "2026-05-21",
       "resolutiondate": "",
       "labels": [
         "Ralph_Lauren"
@@ -973,12 +1116,12 @@
     {
       "key": "PS-5519",
       "summary": "Alsa - Update to Botonic 48 to include language detection",
-      "status": "In production",
+      "status": "Done",
       "status_category": "Done",
       "assignee": "Alexander Skalatskiy",
       "issuetype": "Task",
       "created": "2026-05-07",
-      "updated": "2026-05-12",
+      "updated": "2026-05-21",
       "resolutiondate": "",
       "labels": [
         "Alsa"
@@ -1020,7 +1163,7 @@
       "assignee": "Alexander Skalatskiy",
       "issuetype": "Task",
       "created": "2026-05-07",
-      "updated": "2026-05-12",
+      "updated": "2026-05-21",
       "resolutiondate": "",
       "labels": [
         "Michael-Kors"
@@ -1358,12 +1501,12 @@
     {
       "key": "PS-5491",
       "summary": "Rag&Bone - Create new snippet with new App ID and WhatsApp option",
-      "status": "Ready to Deliver",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Evgeni Slavyanov",
       "issuetype": "Task",
       "created": "2026-05-04",
-      "updated": "2026-05-15",
+      "updated": "2026-05-21",
       "resolutiondate": "",
       "labels": [
         "Rag&Bone"
@@ -1372,12 +1515,12 @@
     {
       "key": "PS-5490",
       "summary": "Rag & Bone - Connect the WhatsApp number to the new bot in Guess Dashboard",
-      "status": "In Progress",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Aitor Casas",
       "issuetype": "Task",
       "created": "2026-05-04",
-      "updated": "2026-05-18",
+      "updated": "2026-05-21",
       "resolutiondate": "",
       "labels": [
         "Rag&Bone"
