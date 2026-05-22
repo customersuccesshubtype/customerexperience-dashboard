@@ -1,6 +1,116 @@
 {
-  "last_updated": "2026-05-21 10:38 UTC",
+  "last_updated": "2026-05-22 10:22 UTC",
   "tickets": [
+    {
+      "key": "PS-5609",
+      "summary": "Tendam - The Smart intent to request an agent is triggered when there is no agent request",
+      "status": "In Progress",
+      "status_category": "In Progress",
+      "assignee": "irene callejas",
+      "issuetype": "Bug",
+      "created": "2026-05-22",
+      "updated": "2026-05-22",
+      "resolutiondate": "",
+      "labels": [
+        "Tendam"
+      ]
+    },
+    {
+      "key": "PS-5608",
+      "summary": "Internal - Create internal package to manage AWS resources",
+      "status": "Ready for review",
+      "status_category": "In Progress",
+      "assignee": "Adrià Sastre",
+      "issuetype": "Task",
+      "created": "2026-05-21",
+      "updated": "2026-05-21",
+      "resolutiondate": "",
+      "labels": [
+        "Internal"
+      ]
+    },
+    {
+      "key": "PS-5607",
+      "summary": "WizzAir - Migrate the close case logic to an external lambda (cron)",
+      "status": "In Progress",
+      "status_category": "In Progress",
+      "assignee": "Evgeni Slavyanov",
+      "issuetype": "Task",
+      "created": "2026-05-21",
+      "updated": "2026-05-22",
+      "resolutiondate": "",
+      "labels": [
+        "WizzAir"
+      ]
+    },
+    {
+      "key": "PS-5606",
+      "summary": "Jetsmart - Use of @hubtype/hubtype-sdk for all Hubtype API calls",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Pep Alonso",
+      "issuetype": "Task",
+      "created": "2026-05-21",
+      "updated": "2026-05-21",
+      "resolutiondate": "",
+      "labels": [
+        "JetSMART"
+      ]
+    },
+    {
+      "key": "PS-5605",
+      "summary": "Internal - Add missing endpoints in @hubtype/hubtype-sdk",
+      "status": "Ready for review",
+      "status_category": "In Progress",
+      "assignee": "Adrià Sastre",
+      "issuetype": "Task",
+      "created": "2026-05-21",
+      "updated": "2026-05-21",
+      "resolutiondate": "",
+      "labels": []
+    },
+    {
+      "key": "PS-5604",
+      "summary": "Libeen - Implement  DOC w varied Feedback",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "irene callejas",
+      "issuetype": "Task",
+      "created": "2026-05-21",
+      "updated": "2026-05-21",
+      "resolutiondate": "",
+      "labels": [
+        "Libeen"
+      ]
+    },
+    {
+      "key": "PS-5603",
+      "summary": "Libeen - Adjust prompt & KB to new Requirements",
+      "status": "In Progress",
+      "status_category": "In Progress",
+      "assignee": "irene callejas",
+      "issuetype": "Task",
+      "created": "2026-05-21",
+      "updated": "2026-05-21",
+      "resolutiondate": "",
+      "labels": [
+        "Libeen"
+      ]
+    },
+    {
+      "key": "PS-5602",
+      "summary": "Libeen - Update Age (42) and Savings values (12900)",
+      "status": "In Review",
+      "status_category": "In Progress",
+      "assignee": "Alexander Skalatskiy",
+      "issuetype": "Task",
+      "created": "2026-05-21",
+      "updated": "2026-05-21",
+      "resolutiondate": "",
+      "labels": [
+        "Libeen"
+      ]
+    },
     {
       "key": "PS-5601",
       "summary": "Allianz ES - Claims Webview - Email sent without the necessary information",
@@ -19,8 +129,8 @@
     {
       "key": "PS-5600",
       "summary": "WizzAir - Bug - Autoclose Offline Cases with more than 5 min not working",
-      "status": "In Progress",
-      "status_category": "In Progress",
+      "status": "Closed",
+      "status_category": "Done",
       "assignee": "Evgeni Slavyanov",
       "issuetype": "Bug",
       "created": "2026-05-21",
@@ -34,7 +144,7 @@
     {
       "key": "PS-5599",
       "summary": "Multiasistencia - Bot Santander - casos resueltos reabren a formulario de 2ª gestión pero se enrutan a la cola \"Declarar siniestro\"",
-      "status": "Ready for review",
+      "status": "Ready to Deliver",
       "status_category": "In Progress",
       "assignee": "Aitor Casas",
       "issuetype": "Task",
@@ -62,12 +172,12 @@
     {
       "key": "PS-5597",
       "summary": "RACC - Update to version 48 to include automatic language detection",
-      "status": "To Do",
-      "status_category": "To Do",
-      "assignee": null,
+      "status": "Ready for review",
+      "status_category": "In Progress",
+      "assignee": "Evgeni Slavyanov",
       "issuetype": "Task",
       "created": "2026-05-20",
-      "updated": "2026-05-20",
+      "updated": "2026-05-22",
       "resolutiondate": "",
       "labels": [
         "RACC"
@@ -119,8 +229,8 @@
     {
       "key": "PS-5593",
       "summary": "Generalitat Turisme - actualizar version bot 48 para poner language autodetection",
-      "status": "Ready for review",
-      "status_category": "In Progress",
+      "status": "In production",
+      "status_category": "Done",
       "assignee": "Evgeni Slavyanov",
       "issuetype": "Task",
       "created": "2026-05-20",
@@ -231,12 +341,12 @@
     {
       "key": "PS-5585",
       "summary": "Apply Design changes Air Europa ",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "In Progress",
+      "status_category": "In Progress",
       "assignee": "Vicky Correbo",
       "issuetype": "Task",
       "created": "2026-05-19",
-      "updated": "2026-05-19",
+      "updated": "2026-05-22",
       "resolutiondate": "",
       "labels": [
         "AirEuropa"
@@ -343,12 +453,12 @@
     {
       "key": "PS-5577",
       "summary": "Soledad - leave PROD bot ready ",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Ready for review",
+      "status_category": "In Progress",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-05-18",
-      "updated": "2026-05-20",
+      "updated": "2026-05-21",
       "resolutiondate": "",
       "labels": [
         "Soledad"
@@ -357,12 +467,12 @@
     {
       "key": "PS-5576",
       "summary": "Wizz Air - Preview in Flow Builder is always displaying in Spanish",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "In Progress",
+      "status_category": "In Progress",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-05-18",
-      "updated": "2026-05-18",
+      "updated": "2026-05-21",
       "resolutiondate": "",
       "labels": [
         "WizzAir"
@@ -385,7 +495,7 @@
     {
       "key": "PS-5574",
       "summary": "Ralph Lauren: new sizing APIS",
-      "status": "In Progress",
+      "status": "Ready for review",
       "status_category": "In Progress",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
@@ -582,12 +692,12 @@
     {
       "key": "PS-5560",
       "summary": "Air Europa - Adjust the initial flow to enable users to write even if they haven't click on the accept button",
-      "status": "Ready for review",
+      "status": "In Progress",
       "status_category": "In Progress",
       "assignee": "Evgeni Slavyanov",
       "issuetype": "Task",
       "created": "2026-05-13",
-      "updated": "2026-05-20",
+      "updated": "2026-05-22",
       "resolutiondate": "",
       "labels": [
         "AirEuropa"
@@ -778,12 +888,12 @@
     {
       "key": "PS-5544",
       "summary": "RL - ADD INACTIVITY LOGIC TO FLOW BUILDER",
-      "status": "In production",
+      "status": "Done",
       "status_category": "Done",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Discovery Task",
       "created": "2026-05-11",
-      "updated": "2026-05-19",
+      "updated": "2026-05-21",
       "resolutiondate": "",
       "labels": [
         "Ralph_Lauren"
@@ -1012,12 +1122,12 @@
     {
       "key": "PS-5527",
       "summary": "Air Europa - Create a transcript to input plugin",
-      "status": "Ready to Deliver",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Alexander Skalatskiy",
       "issuetype": "Task",
       "created": "2026-05-08",
-      "updated": "2026-05-18",
+      "updated": "2026-05-21",
       "resolutiondate": "",
       "labels": [
         "AirEuropa"
@@ -1130,12 +1240,12 @@
     {
       "key": "PS-5518",
       "summary": "Wizz Air - Review API documentation to confirm whether the agency username/login can be captured to identify agencies",
-      "status": "In Progress",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Adrià Sastre",
       "issuetype": "Task",
       "created": "2026-05-07",
-      "updated": "2026-05-15",
+      "updated": "2026-05-21",
       "resolutiondate": "",
       "labels": [
         "WizzAir"
@@ -1186,12 +1296,12 @@
     {
       "key": "PS-5514",
       "summary": "Multiasistencia - Santander - Design spinner in Claim webview",
-      "status": "In Review",
+      "status": "Ready to Deliver",
       "status_category": "In Progress",
       "assignee": "Vicky Correbo",
       "issuetype": "Task",
       "created": "2026-05-07",
-      "updated": "2026-05-13",
+      "updated": "2026-05-21",
       "resolutiondate": "",
       "labels": [
         "Multiasistencia"
@@ -1256,12 +1366,12 @@
     {
       "key": "PS-5509",
       "summary": "Michael Kors - Design WISMO/WISMR webview/s and flow",
-      "status": "In Progress",
+      "status": "Ready for review",
       "status_category": "In Progress",
       "assignee": "Vicky Correbo",
       "issuetype": "Task",
       "created": "2026-05-07",
-      "updated": "2026-05-13",
+      "updated": "2026-05-21",
       "resolutiondate": "",
       "labels": [
         "Michael-Kors"
@@ -2441,12 +2551,12 @@
     {
       "key": "PS-5421",
       "summary": "Ralph Lauren - Read transcript ",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Closed",
+      "status_category": "Done",
       "assignee": "Andrea Talal Haidar",
       "issuetype": "Discovery Task",
       "created": "2026-04-22",
-      "updated": "2026-04-27",
+      "updated": "2026-05-21",
       "resolutiondate": "",
       "labels": [
         "Ralph_Lauren"
@@ -2843,12 +2953,12 @@
     {
       "key": "PS-5390",
       "summary": "Ralph Lauren - search categories for kids",
-      "status": "In production",
+      "status": "Done",
       "status_category": "Done",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-04-20",
-      "updated": "2026-04-21",
+      "updated": "2026-05-21",
       "resolutiondate": "",
       "labels": [
         "Ralph_Lauren"
@@ -4026,12 +4136,12 @@
     {
       "key": "PS-5299",
       "summary": "Ralph Lauren: add new tool",
-      "status": "In production",
+      "status": "Done",
       "status_category": "Done",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-04-08",
-      "updated": "2026-04-20",
+      "updated": "2026-05-21",
       "resolutiondate": "",
       "labels": [
         "Ralph_Lauren"
@@ -4082,12 +4192,12 @@
     {
       "key": "PS-5294",
       "summary": "Ralph Lauren: negative attributes",
-      "status": "In production",
+      "status": "Done",
       "status_category": "Done",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-04-07",
-      "updated": "2026-04-20",
+      "updated": "2026-05-21",
       "resolutiondate": "",
       "labels": [
         "Ralph_Lauren"
@@ -4356,12 +4466,12 @@
     {
       "key": "PS-5274",
       "summary": "Ralph Lauren- add exclude parameter to filter-counts",
-      "status": "In production",
+      "status": "Done",
       "status_category": "Done",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-03-31",
-      "updated": "2026-04-20",
+      "updated": "2026-05-21",
       "resolutiondate": "",
       "labels": [
         "Ralph_Lauren"
@@ -4664,12 +4774,12 @@
     {
       "key": "PS-5251",
       "summary": "Security Audit: bot-template/aws (0C, 5H) - Template Hardening",
-      "status": "To Do",
-      "status_category": "To Do",
-      "assignee": null,
+      "status": "In Progress",
+      "status_category": "In Progress",
+      "assignee": "Adrià Sastre",
       "issuetype": "Task",
       "created": "2026-03-24",
-      "updated": "2026-03-26",
+      "updated": "2026-05-21",
       "resolutiondate": "",
       "labels": [
         "Internal"
@@ -12109,12 +12219,12 @@
     {
       "key": "PS-4663",
       "summary": "Creating a demo using whatsapp flow about personalised offer",
-      "status": "In Progress",
+      "status": "Ready for review",
       "status_category": "In Progress",
       "assignee": "Evgeni Slavyanov",
       "issuetype": "Task",
       "created": "2025-11-20",
-      "updated": "2026-05-13",
+      "updated": "2026-05-21",
       "resolutiondate": "",
       "labels": [
         "Demo"
@@ -32111,12 +32221,12 @@
     {
       "key": "PS-3051",
       "summary": "Internal: investigate more in AI errors analyzer",
-      "status": "Open",
-      "status_category": "To Do",
+      "status": "Closed",
+      "status_category": "Done",
       "assignee": null,
       "issuetype": "Task",
       "created": "2024-11-19",
-      "updated": "2025-09-02",
+      "updated": "2026-05-21",
       "resolutiondate": "",
       "labels": [
         "Hubtype"
