@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-24 09:25 UTC",
+  "last_updated": "2026-05-25 11:16 UTC",
   "cases": [
     {
       "id": "500Sa00000sWaJBIA0",
@@ -137,9 +137,9 @@
       "id": "500Sa00000sQfGZIA0",
       "case_number": "00024759",
       "subject": "Re: Hubtype-Air Europa: follow up meeting 21-05-26",
-      "status": "Closed",
+      "status": "Open",
       "priority": "Low",
-      "is_closed": true,
+      "is_closed": false,
       "is_escalated": false,
       "owner": "Aitor Casas",
       "account": "Hubtype",
@@ -150,10 +150,10 @@
       "channel": "Email",
       "is_critical": "L4",
       "escalated_team": "",
-      "resolution_time": "1. <6h",
+      "resolution_time": "",
       "created": "2026-05-22",
-      "closed": "2026-05-22",
-      "last_modified": "2026-05-22"
+      "closed": "",
+      "last_modified": "2026-05-25"
     },
     {
       "id": "500Sa00000sQLWPIA4",
