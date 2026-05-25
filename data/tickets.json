@@ -1,6 +1,60 @@
 {
-  "last_updated": "2026-05-24 09:20 UTC",
+  "last_updated": "2026-05-25 11:08 UTC",
   "tickets": [
+    {
+      "key": "PS-5618",
+      "summary": "Verisure Televenta - Stop storing Contact Profile as Contact Info Field and store it as a Case note",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Evgeni Slavyanov",
+      "issuetype": "Task",
+      "created": "2026-05-25",
+      "updated": "2026-05-25",
+      "resolutiondate": "",
+      "labels": []
+    },
+    {
+      "key": "PS-5617",
+      "summary": "Soledad - limit quantities to two or more",
+      "status": "Ready for review",
+      "status_category": "In Progress",
+      "assignee": "Lorena Sánchez-Toril Nicolás",
+      "issuetype": "Task",
+      "created": "2026-05-25",
+      "updated": "2026-05-25",
+      "resolutiondate": "",
+      "labels": [
+        "Soledad"
+      ]
+    },
+    {
+      "key": "PS-5616",
+      "summary": "Soledad - remove order number paramer on confirmation",
+      "status": "Ready for review",
+      "status_category": "In Progress",
+      "assignee": "Lorena Sánchez-Toril Nicolás",
+      "issuetype": "Task",
+      "created": "2026-05-25",
+      "updated": "2026-05-25",
+      "resolutiondate": "",
+      "labels": [
+        "Soledad"
+      ]
+    },
+    {
+      "key": "PS-5615",
+      "summary": "Soledad - deactivate in staging confirm api ",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Lorena Sánchez-Toril Nicolás",
+      "issuetype": "Task",
+      "created": "2026-05-25",
+      "updated": "2026-05-25",
+      "resolutiondate": "",
+      "labels": [
+        "Soledad"
+      ]
+    },
     {
       "key": "PS-5614",
       "summary": "Tendam – Enviar a Fátima la lista de pedidos en standby (casos \"not found\" API)",
@@ -48,10 +102,10 @@
       "summary": "Generalitat 012 - Update bot version to latest possible ",
       "status": "To Do",
       "status_category": "To Do",
-      "assignee": null,
+      "assignee": "Evgeni Slavyanov",
       "issuetype": "Task",
       "created": "2026-05-22",
-      "updated": "2026-05-22",
+      "updated": "2026-05-25",
       "resolutiondate": "",
       "labels": [
         "Generalitat-012"
@@ -60,12 +114,12 @@
     {
       "key": "PS-5610",
       "summary": "Ralph Lauren - Update tools with new API endpoints",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Ready for review",
+      "status_category": "In Progress",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-05-22",
-      "updated": "2026-05-22",
+      "updated": "2026-05-25",
       "resolutiondate": "",
       "labels": [
         "Ralph_Lauren"
@@ -542,7 +596,7 @@
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-05-18",
-      "updated": "2026-05-21",
+      "updated": "2026-05-25",
       "resolutiondate": "",
       "labels": [
         "WizzAir"
@@ -846,12 +900,12 @@
     {
       "key": "PS-5553",
       "summary": "Tendam - Activar idioma Rumano en el bot Tendam SPF Simpl + Women Secret Simpl",
-      "status": "APPROVED FOR PRODUCTION",
+      "status": "In production",
       "status_category": "Done",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-05-12",
-      "updated": "2026-05-22",
+      "updated": "2026-05-25",
       "resolutiondate": "",
       "labels": [
         "Tendam"
@@ -4124,10 +4178,10 @@
       "summary": "Allianz ES - Development new webview \"Defensa del cliente\"",
       "status": "To Do",
       "status_category": "To Do",
-      "assignee": "Adrià Sastre",
+      "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-04-08",
-      "updated": "2026-05-18",
+      "updated": "2026-05-25",
       "resolutiondate": "",
       "labels": [
         "Allianz-ES"
@@ -5585,7 +5639,7 @@
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Discovery Task",
       "created": "2026-03-16",
-      "updated": "2026-04-21",
+      "updated": "2026-05-25",
       "resolutiondate": "",
       "labels": [
         "Retorna"
@@ -14320,12 +14374,12 @@
     {
       "key": "PS-4496",
       "summary": "Wizz Air - Fix how system_locale is set in the frontend",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "In Progress",
+      "status_category": "In Progress",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2025-10-07",
-      "updated": "2026-05-18",
+      "updated": "2026-05-25",
       "resolutiondate": "",
       "labels": [
         "WizzAir"
