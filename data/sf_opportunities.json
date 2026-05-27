@@ -1,6 +1,23 @@
 {
-  "last_updated": "2026-05-25 11:16 UTC",
+  "last_updated": "2026-05-27 11:01 UTC",
   "opportunities": [
+    {
+      "id": "006Sa00000gdZc4IAE",
+      "name": "2026-U-JetSMART Airlines-Chile-8 Desk License",
+      "type": "Upsell",
+      "stage": "Closed Won",
+      "is_closed": true,
+      "is_won": true,
+      "probability": 100.0,
+      "amount": 1600.0,
+      "arr": 3840.0,
+      "owner": "Marta Marron",
+      "cs_lead": "Julieta Mezza",
+      "account": "JetSMART Airlines",
+      "created": "2026-05-25",
+      "close_date": "2026-05-25",
+      "start_date": "2026-05-15"
+    },
     {
       "id": "006Sa00000gTWnbIAG",
       "name": "2027-R-Generalitat (ATM)-CA(Webchat)",
