@@ -1,6 +1,104 @@
 {
-  "last_updated": "2026-05-27 10:53 UTC",
+  "last_updated": "2026-05-28 10:54 UTC",
   "tickets": [
+    {
+      "key": "PS-5653",
+      "summary": "Fifty - revisar smart intent 'hello'",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "irene callejas",
+      "issuetype": "Task",
+      "created": "2026-05-28",
+      "updated": "2026-05-28",
+      "resolutiondate": "",
+      "labels": [
+        "FIFTY"
+      ]
+    },
+    {
+      "key": "PS-5652",
+      "summary": "Occident - Templates modifications",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Aitor Casas",
+      "issuetype": "Task",
+      "created": "2026-05-28",
+      "updated": "2026-05-28",
+      "resolutiondate": "",
+      "labels": [
+        "occident"
+      ]
+    },
+    {
+      "key": "PS-5651",
+      "summary": "Alsa – Monitor impact of agent capacity increase (3→4 simultaneous cases) and updated coverage hours on June metrics",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Marta Marron",
+      "issuetype": "Task",
+      "created": "2026-05-27",
+      "updated": "2026-05-27",
+      "resolutiondate": "",
+      "labels": [
+        "Alsa"
+      ]
+    },
+    {
+      "key": "PS-5650",
+      "summary": "Alsa – Analyse timetable queries where getOrigin/getDestination return incomplete and present conclusions",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Marta Marron",
+      "issuetype": "Task",
+      "created": "2026-05-27",
+      "updated": "2026-05-27",
+      "resolutiondate": "",
+      "labels": [
+        "Alsa"
+      ]
+    },
+    {
+      "key": "PS-5649",
+      "summary": "WizzAir - Update @botonic and @hubtype packages to latest version",
+      "status": "Ready for review",
+      "status_category": "In Progress",
+      "assignee": "Lorena Sánchez-Toril Nicolás",
+      "issuetype": "Task",
+      "created": "2026-05-27",
+      "updated": "2026-05-28",
+      "resolutiondate": "",
+      "labels": [
+        "WizzAir"
+      ]
+    },
+    {
+      "key": "PS-5648",
+      "summary": "RACC Start - Update @botonic and @hubtype packages to latest version",
+      "status": "Ready for review",
+      "status_category": "In Progress",
+      "assignee": "Evgeni Slavyanov",
+      "issuetype": "Task",
+      "created": "2026-05-27",
+      "updated": "2026-05-28",
+      "resolutiondate": "",
+      "labels": [
+        "RACC_START"
+      ]
+    },
+    {
+      "key": "PS-5647",
+      "summary": "Occident - Update @botonic and @hubtype packages to latest version",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Pep Alonso",
+      "issuetype": "Task",
+      "created": "2026-05-27",
+      "updated": "2026-05-27",
+      "resolutiondate": "",
+      "labels": [
+        "occident"
+      ]
+    },
     {
       "key": "PS-5646",
       "summary": "Wizz Air - Refund status review",
@@ -32,12 +130,12 @@
     {
       "key": "PS-5644",
       "summary": "Ralph Lauren - WA flow ",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Ready for review",
+      "status_category": "In Progress",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-05-27",
-      "updated": "2026-05-27",
+      "updated": "2026-05-28",
       "resolutiondate": "",
       "labels": [
         "Ralph_Lauren"
@@ -46,12 +144,12 @@
     {
       "key": "PS-5643",
       "summary": "Alsa - updating the bot packages to their latest version",
-      "status": "To Do",
-      "status_category": "To Do",
-      "assignee": "Aitor Casas",
+      "status": "Ready for review",
+      "status_category": "In Progress",
+      "assignee": "Alexander Skalatskiy",
       "issuetype": "Task",
       "created": "2026-05-27",
-      "updated": "2026-05-27",
+      "updated": "2026-05-28",
       "resolutiondate": "",
       "labels": [
         "Alsa"
@@ -154,12 +252,12 @@
     {
       "key": "PS-5635",
       "summary": "Ralph Lauren - Manual Testing and Tool Validation",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "In Progress",
+      "status_category": "In Progress",
       "assignee": "irene callejas",
       "issuetype": "Task",
       "created": "2026-05-26",
-      "updated": "2026-05-26",
+      "updated": "2026-05-28",
       "resolutiondate": "",
       "labels": [
         "Ralph_Lauren"
@@ -182,12 +280,12 @@
     {
       "key": "PS-5633",
       "summary": "SEM - enrich CAT sampling",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Ready to Deliver",
+      "status_category": "In Progress",
       "assignee": "irene callejas",
       "issuetype": "Task",
       "created": "2026-05-26",
-      "updated": "2026-05-26",
+      "updated": "2026-05-28",
       "resolutiondate": "",
       "labels": [
         "SEM"
@@ -201,7 +299,7 @@
       "assignee": "Andrea Talal Haidar",
       "issuetype": "Discovery Task",
       "created": "2026-05-26",
-      "updated": "2026-05-27",
+      "updated": "2026-05-28",
       "resolutiondate": "",
       "labels": []
     },
@@ -486,12 +584,12 @@
     {
       "key": "PS-5611",
       "summary": "Generalitat 012 - Update bot version to latest possible ",
-      "status": "Ready for review",
-      "status_category": "In Progress",
+      "status": "In production",
+      "status_category": "Done",
       "assignee": "Evgeni Slavyanov",
       "issuetype": "Task",
       "created": "2026-05-22",
-      "updated": "2026-05-27",
+      "updated": "2026-05-28",
       "resolutiondate": "",
       "labels": [
         "Generalitat-012"
@@ -982,7 +1080,7 @@
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-05-18",
-      "updated": "2026-05-26",
+      "updated": "2026-05-28",
       "resolutiondate": "",
       "labels": [
         "WizzAir"
@@ -1202,12 +1300,12 @@
     {
       "key": "PS-5560",
       "summary": "Air Europa - Adjust the initial flow to enable users to write even if they haven't click on the accept button",
-      "status": "Ready for review",
-      "status_category": "In Progress",
+      "status": "To Do",
+      "status_category": "To Do",
       "assignee": "Evgeni Slavyanov",
       "issuetype": "Task",
       "created": "2026-05-13",
-      "updated": "2026-05-26",
+      "updated": "2026-05-28",
       "resolutiondate": "",
       "labels": [
         "AirEuropa"
@@ -1792,12 +1890,12 @@
     {
       "key": "PS-5515",
       "summary": "Multiasistencia - Santander - Integrate Middleware to Claim webview",
-      "status": "In Progress",
-      "status_category": "In Progress",
+      "status": "To Do",
+      "status_category": "To Do",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-05-07",
-      "updated": "2026-05-27",
+      "updated": "2026-05-28",
       "resolutiondate": "",
       "labels": [
         "Multiasistencia"
@@ -1881,7 +1979,7 @@
       "assignee": "Vicky Correbo",
       "issuetype": "Task",
       "created": "2026-05-07",
-      "updated": "2026-05-26",
+      "updated": "2026-05-28",
       "resolutiondate": "",
       "labels": [
         "Michael-Kors"
@@ -4567,7 +4665,7 @@
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-04-08",
-      "updated": "2026-05-26",
+      "updated": "2026-05-28",
       "resolutiondate": "",
       "labels": [
         "Allianz-ES"
