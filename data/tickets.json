@@ -1,6 +1,34 @@
 {
-  "last_updated": "2026-05-28 10:54 UTC",
+  "last_updated": "2026-05-29 10:43 UTC",
   "tickets": [
+    {
+      "key": "PS-5655",
+      "summary": "Occident - Introduce new agencias in the code",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Adrià Sastre",
+      "issuetype": "Task",
+      "created": "2026-05-29",
+      "updated": "2026-05-29",
+      "resolutiondate": "",
+      "labels": [
+        "occident"
+      ]
+    },
+    {
+      "key": "PS-5654",
+      "summary": "Ralph Lauren - simplify get product details ",
+      "status": "In Progress",
+      "status_category": "In Progress",
+      "assignee": "Lorena Sánchez-Toril Nicolás",
+      "issuetype": "Task",
+      "created": "2026-05-29",
+      "updated": "2026-05-29",
+      "resolutiondate": "",
+      "labels": [
+        "Ralph_Lauren"
+      ]
+    },
     {
       "key": "PS-5653",
       "summary": "Fifty - revisar smart intent 'hello'",
@@ -116,12 +144,12 @@
     {
       "key": "PS-5645",
       "summary": "Air Europa - Review new structure of AVA call",
-      "status": "To Do",
-      "status_category": "To Do",
-      "assignee": null,
+      "status": "Done",
+      "status_category": "Done",
+      "assignee": "Adrià Sastre",
       "issuetype": "Task",
       "created": "2026-05-27",
-      "updated": "2026-05-27",
+      "updated": "2026-05-28",
       "resolutiondate": "",
       "labels": [
         "AirEuropa"
@@ -198,12 +226,12 @@
     {
       "key": "PS-5639",
       "summary": "TMB - Produce a time estimate for the Zendesk integration under a conservative assumption (build from scratch, possible middleware needed).",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Closed",
+      "status_category": "Done",
       "assignee": "Adrià Sastre",
       "issuetype": "Discovery Task",
       "created": "2026-05-26",
-      "updated": "2026-05-26",
+      "updated": "2026-05-29",
       "resolutiondate": "",
       "labels": [
         "TMB"
@@ -226,12 +254,12 @@
     {
       "key": "PS-5637",
       "summary": "GUESS - Polyglot configuration",
-      "status": "Ready for review",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Aitor Casas",
       "issuetype": "Task",
       "created": "2026-05-26",
-      "updated": "2026-05-27",
+      "updated": "2026-05-29",
       "resolutiondate": "",
       "labels": []
     },
@@ -280,8 +308,8 @@
     {
       "key": "PS-5633",
       "summary": "SEM - enrich CAT sampling",
-      "status": "Ready to Deliver",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "irene callejas",
       "issuetype": "Task",
       "created": "2026-05-26",
@@ -556,12 +584,12 @@
     {
       "key": "PS-5613",
       "summary": "Tendam - Automatically close cases in Waiting created 24 h ago with a specific message once closed.",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "In Progress",
+      "status_category": "In Progress",
       "assignee": "Adrià Sastre",
       "issuetype": "Discovery Task",
       "created": "2026-05-22",
-      "updated": "2026-05-22",
+      "updated": "2026-05-28",
       "resolutiondate": "",
       "labels": [
         "Tendam"
@@ -570,12 +598,12 @@
     {
       "key": "PS-5612",
       "summary": "Tendam - Assess the possibility to configure Idle cases to close automatically and ensure info is sent to InConcert",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "In Progress",
+      "status_category": "In Progress",
       "assignee": "Adrià Sastre",
       "issuetype": "Discovery Task",
       "created": "2026-05-22",
-      "updated": "2026-05-22",
+      "updated": "2026-05-29",
       "resolutiondate": "",
       "labels": [
         "Tendam"
@@ -584,7 +612,7 @@
     {
       "key": "PS-5611",
       "summary": "Generalitat 012 - Update bot version to latest possible ",
-      "status": "In production",
+      "status": "Done",
       "status_category": "Done",
       "assignee": "Evgeni Slavyanov",
       "issuetype": "Task",
@@ -2759,12 +2787,12 @@
     {
       "key": "PS-5451",
       "summary": "Air Europa - Apply design changes (1)",
-      "status": "Open",
-      "status_category": "To Do",
+      "status": "In Progress",
+      "status_category": "In Progress",
       "assignee": "Evgeni Slavyanov",
       "issuetype": "Task",
       "created": "2026-04-27",
-      "updated": "2026-05-11",
+      "updated": "2026-05-28",
       "resolutiondate": "",
       "labels": [
         "AirEuropa"
@@ -3922,12 +3950,12 @@
     {
       "key": "PS-5361",
       "summary": "Wizz Air - review how we can identify travel agencies and take them to contact center",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Adrià Sastre",
       "issuetype": "Task",
       "created": "2026-04-14",
-      "updated": "2026-05-22",
+      "updated": "2026-05-29",
       "resolutiondate": "",
       "labels": [
         "occident"
@@ -13539,12 +13567,12 @@
     {
       "key": "PS-4603",
       "summary": "Occident - Proyecto Agencias",
-      "status": "Done",
-      "status_category": "Done",
+      "status": "In Progress",
+      "status_category": "In Progress",
       "assignee": "Julieta Mezza",
       "issuetype": "Epic",
       "created": "2025-11-04",
-      "updated": "2026-04-29",
+      "updated": "2026-05-29",
       "resolutiondate": "",
       "labels": [
         "occident"
