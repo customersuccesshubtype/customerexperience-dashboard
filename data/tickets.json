@@ -1,6 +1,160 @@
 {
-  "last_updated": "2026-05-29 10:43 UTC",
+  "last_updated": "2026-05-30 09:12 UTC",
   "tickets": [
+    {
+      "key": "PS-5666",
+      "summary": "Tendam - Configure automatic closure of idle cases after 3 hours (WS)",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Adrià Sastre",
+      "issuetype": "Task",
+      "created": "2026-05-29",
+      "updated": "2026-05-29",
+      "resolutiondate": "",
+      "labels": [
+        "Tendam"
+      ]
+    },
+    {
+      "key": "PS-5665",
+      "summary": "Ralph Lauren - Build a WhatsApp feedback flow (multiple choice plus open text) for the soft-launch feedback programme",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": null,
+      "issuetype": "Task",
+      "created": "2026-05-29",
+      "updated": "2026-05-29",
+      "resolutiondate": "",
+      "labels": [
+        "Ralph_Lauren"
+      ]
+    },
+    {
+      "key": "PS-5664",
+      "summary": "Ralph Lauren - Modify welcome message to \"I'm your Ralph Lauren WhatsApp concierge...\" in the different onboarding flows",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Andrea Talal Haidar",
+      "issuetype": "Task",
+      "created": "2026-05-29",
+      "updated": "2026-05-29",
+      "resolutiondate": "",
+      "labels": [
+        "Ralph_Lauren"
+      ]
+    },
+    {
+      "key": "PS-5663",
+      "summary": "Soledad - Apply feedback changes ",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Lorena Sánchez-Toril Nicolás",
+      "issuetype": "Task",
+      "created": "2026-05-29",
+      "updated": "2026-05-29",
+      "resolutiondate": "",
+      "labels": [
+        "Soledad"
+      ]
+    },
+    {
+      "key": "PS-5662",
+      "summary": "Verisure France - Fix style issue with bot messages",
+      "status": "Done",
+      "status_category": "Done",
+      "assignee": "Adrià Sastre",
+      "issuetype": "Task",
+      "created": "2026-05-29",
+      "updated": "2026-05-29",
+      "resolutiondate": "",
+      "labels": [
+        "Verisure-FR"
+      ]
+    },
+    {
+      "key": "PS-5661",
+      "summary": "Guess - Amend Rating Flow",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Adrià Sastre",
+      "issuetype": "Task",
+      "created": "2026-05-29",
+      "updated": "2026-05-29",
+      "resolutiondate": "",
+      "labels": [
+        "Guess"
+      ]
+    },
+    {
+      "key": "PS-5660",
+      "summary": "Tendam - Casos que no se han integrado en InConcert",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Adrià Sastre",
+      "issuetype": "Discovery Task",
+      "created": "2026-05-29",
+      "updated": "2026-05-29",
+      "resolutiondate": "",
+      "labels": [
+        "Tendam"
+      ]
+    },
+    {
+      "key": "PS-5659",
+      "summary": "Ralph Lauren - Update prompt to recognize is saving size in wrap up",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "irene callejas",
+      "issuetype": "Task",
+      "created": "2026-05-29",
+      "updated": "2026-05-29",
+      "resolutiondate": "",
+      "labels": [
+        "Ralph_Lauren"
+      ]
+    },
+    {
+      "key": "PS-5658",
+      "summary": "Soledad- delivery time on carousel ",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Lorena Sánchez-Toril Nicolás",
+      "issuetype": "Task",
+      "created": "2026-05-29",
+      "updated": "2026-05-29",
+      "resolutiondate": "",
+      "labels": [
+        "Soledad"
+      ]
+    },
+    {
+      "key": "PS-5657",
+      "summary": "Soledad - open and dowload images from webview ",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Lorena Sánchez-Toril Nicolás",
+      "issuetype": "Task",
+      "created": "2026-05-29",
+      "updated": "2026-05-29",
+      "resolutiondate": "",
+      "labels": [
+        "Soledad"
+      ]
+    },
+    {
+      "key": "PS-5656",
+      "summary": "Soledad- colours on webview delivery time",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Lorena Sánchez-Toril Nicolás",
+      "issuetype": "Task",
+      "created": "2026-05-29",
+      "updated": "2026-05-29",
+      "resolutiondate": "",
+      "labels": [
+        "Soledad"
+      ]
+    },
     {
       "key": "PS-5655",
       "summary": "Occident - Introduce new agencias in the code",
@@ -18,7 +172,7 @@
     {
       "key": "PS-5654",
       "summary": "Ralph Lauren - simplify get product details ",
-      "status": "In Progress",
+      "status": "Ready for review",
       "status_category": "In Progress",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
@@ -172,12 +326,12 @@
     {
       "key": "PS-5643",
       "summary": "Alsa - updating the bot packages to their latest version",
-      "status": "Ready for review",
-      "status_category": "In Progress",
+      "status": "APPROVED FOR PRODUCTION",
+      "status_category": "Done",
       "assignee": "Alexander Skalatskiy",
       "issuetype": "Task",
       "created": "2026-05-27",
-      "updated": "2026-05-28",
+      "updated": "2026-05-29",
       "resolutiondate": "",
       "labels": [
         "Alsa"
@@ -186,12 +340,12 @@
     {
       "key": "PS-5642",
       "summary": "Libeen - Search new meeting slots working as expected",
-      "status": "In Progress",
+      "status": "Ready for review",
       "status_category": "In Progress",
       "assignee": "Alexander Skalatskiy",
       "issuetype": "Task",
       "created": "2026-05-27",
-      "updated": "2026-05-27",
+      "updated": "2026-05-29",
       "resolutiondate": "",
       "labels": [
         "Libeen"
@@ -240,12 +394,12 @@
     {
       "key": "PS-5638",
       "summary": "Ralph Lauren - Create new google form for testing",
-      "status": "In Progress",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Andrea Talal Haidar",
       "issuetype": "Task",
       "created": "2026-05-26",
-      "updated": "2026-05-27",
+      "updated": "2026-05-29",
       "resolutiondate": "",
       "labels": [
         "Ralph_Lauren"
@@ -589,7 +743,7 @@
       "assignee": "Adrià Sastre",
       "issuetype": "Discovery Task",
       "created": "2026-05-22",
-      "updated": "2026-05-28",
+      "updated": "2026-05-29",
       "resolutiondate": "",
       "labels": [
         "Tendam"
@@ -1038,7 +1192,7 @@
       "assignee": "Alexander Skalatskiy",
       "issuetype": "Task",
       "created": "2026-05-18",
-      "updated": "2026-05-18",
+      "updated": "2026-05-29",
       "resolutiondate": "",
       "labels": [
         "Libeen"
@@ -1061,12 +1215,12 @@
     {
       "key": "PS-5579",
       "summary": "Fenie Energia - SFDC Integration OnResolve",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "In Progress",
+      "status_category": "In Progress",
       "assignee": "Adrià Sastre",
       "issuetype": "Task",
       "created": "2026-05-18",
-      "updated": "2026-05-21",
+      "updated": "2026-05-29",
       "resolutiondate": "",
       "labels": [
         "Fenie_Energia"
@@ -1333,7 +1487,7 @@
       "assignee": "Evgeni Slavyanov",
       "issuetype": "Task",
       "created": "2026-05-13",
-      "updated": "2026-05-28",
+      "updated": "2026-05-29",
       "resolutiondate": "",
       "labels": [
         "AirEuropa"
@@ -3047,12 +3201,12 @@
     {
       "key": "PS-5431",
       "summary": "Air Europa - Logic changes",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "In Progress",
+      "status_category": "In Progress",
       "assignee": "Alexander Skalatskiy",
       "issuetype": "Task",
       "created": "2026-04-23",
-      "updated": "2026-05-19",
+      "updated": "2026-05-29",
       "resolutiondate": "",
       "labels": [
         "AirEuropa"
@@ -7658,12 +7812,12 @@
     {
       "key": "PS-5083",
       "summary": "SEM - Definir prompt de AI Agent en Staging y conectarle sources",
-      "status": "Ready for review",
+      "status": "Ready to Deliver",
       "status_category": "In Progress",
-      "assignee": "Patrícia Sánchez",
+      "assignee": "Marta Marron",
       "issuetype": "Task",
       "created": "2026-02-21",
-      "updated": "2026-03-20",
+      "updated": "2026-05-29",
       "resolutiondate": "",
       "labels": [
         "SEM"
@@ -9543,10 +9697,10 @@
       "summary": "Hubtype Support Bots - Create Knowledge Base for AI Agent",
       "status": "In Progress",
       "status_category": "In Progress",
-      "assignee": "Patrícia Sánchez",
+      "assignee": "Marta Marron",
       "issuetype": "Task",
       "created": "2026-02-02",
-      "updated": "2026-02-25",
+      "updated": "2026-05-29",
       "resolutiondate": "",
       "labels": [
         "all_clients"
