@@ -1,6 +1,90 @@
 {
-  "last_updated": "2026-06-01 12:34 UTC",
+  "last_updated": "2026-06-02 11:15 UTC",
   "tickets": [
+    {
+      "key": "PS-5674",
+      "summary": "Alsa - Review \"Me han cobrado dos veces\" use case",
+      "status": "Done",
+      "status_category": "Done",
+      "assignee": "irene callejas",
+      "issuetype": "Task",
+      "created": "2026-06-02",
+      "updated": "2026-06-02",
+      "resolutiondate": "",
+      "labels": [
+        "Alsa"
+      ]
+    },
+    {
+      "key": "PS-5673",
+      "summary": "Air Europa - AVA is not receiving input ",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": null,
+      "issuetype": "Bug",
+      "created": "2026-06-02",
+      "updated": "2026-06-02",
+      "resolutiondate": "",
+      "labels": [
+        "AirEuropa"
+      ]
+    },
+    {
+      "key": "PS-5672",
+      "summary": "Verisure Spain - Add 3 more phone-origin relations",
+      "status": "Ready for review",
+      "status_category": "In Progress",
+      "assignee": "Adrià Sastre",
+      "issuetype": "Task",
+      "created": "2026-06-01",
+      "updated": "2026-06-02",
+      "resolutiondate": "",
+      "labels": [
+        "Verisure_ES"
+      ]
+    },
+    {
+      "key": "PS-5671",
+      "summary": "Air Europa - Review if we can change de language of the bot from \"ca-ES\" to \"ca\" to match Meta's logic",
+      "status": "Done",
+      "status_category": "Done",
+      "assignee": "Aitor Casas",
+      "issuetype": "Task",
+      "created": "2026-06-01",
+      "updated": "2026-06-01",
+      "resolutiondate": "",
+      "labels": [
+        "AirEuropa"
+      ]
+    },
+    {
+      "key": "PS-5670",
+      "summary": "Air Europa - Share PNRs with Booking errors",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Julieta Mezza",
+      "issuetype": "Task",
+      "created": "2026-06-01",
+      "updated": "2026-06-01",
+      "resolutiondate": "",
+      "labels": [
+        "AirEuropa"
+      ]
+    },
+    {
+      "key": "PS-5669",
+      "summary": "Air Europa - Provide a quote for adding a bot message after certain time in idle",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Adrià Sastre",
+      "issuetype": "Task",
+      "created": "2026-06-01",
+      "updated": "2026-06-01",
+      "resolutiondate": "",
+      "labels": [
+        "AirEuropa"
+      ]
+    },
     {
       "key": "PS-5668",
       "summary": "Ralph Lauren- create for production action 90min delay ",
@@ -18,12 +102,12 @@
     {
       "key": "PS-5667",
       "summary": "Verisure Spain - 3 teléfonos bot landings",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Closed",
+      "status_category": "Done",
       "assignee": "Adrià Sastre",
       "issuetype": "Task",
       "created": "2026-06-01",
-      "updated": "2026-06-01",
+      "updated": "2026-06-02",
       "resolutiondate": "",
       "labels": [
         "Verisure_ES"
@@ -74,12 +158,12 @@
     {
       "key": "PS-5663",
       "summary": "Soledad - Apply feedback changes ",
-      "status": "In Progress",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-05-29",
-      "updated": "2026-06-01",
+      "updated": "2026-06-02",
       "resolutiondate": "",
       "labels": [
         "Soledad"
@@ -130,12 +214,12 @@
     {
       "key": "PS-5659",
       "summary": "Ralph Lauren - Update prompt to recognize is saving size in wrap up",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "In Progress",
+      "status_category": "In Progress",
       "assignee": "irene callejas",
       "issuetype": "Task",
       "created": "2026-05-29",
-      "updated": "2026-05-29",
+      "updated": "2026-06-02",
       "resolutiondate": "",
       "labels": [
         "Ralph_Lauren"
@@ -144,12 +228,12 @@
     {
       "key": "PS-5658",
       "summary": "Soledad- delivery time on carousel ",
-      "status": "Ready for review",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-05-29",
-      "updated": "2026-06-01",
+      "updated": "2026-06-02",
       "resolutiondate": "",
       "labels": [
         "Soledad"
@@ -158,12 +242,12 @@
     {
       "key": "PS-5657",
       "summary": "Soledad - open and dowload images from webview ",
-      "status": "In Progress",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-05-29",
-      "updated": "2026-06-01",
+      "updated": "2026-06-02",
       "resolutiondate": "",
       "labels": [
         "Soledad"
@@ -172,12 +256,12 @@
     {
       "key": "PS-5656",
       "summary": "Soledad- colours on webview delivery time",
-      "status": "Ready for review",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-05-29",
-      "updated": "2026-06-01",
+      "updated": "2026-06-02",
       "resolutiondate": "",
       "labels": [
         "Soledad"
@@ -186,12 +270,12 @@
     {
       "key": "PS-5655",
       "summary": "Occident - Introduce new agencias in the code",
-      "status": "To Do",
-      "status_category": "To Do",
-      "assignee": "Adrià Sastre",
+      "status": "Ready for review",
+      "status_category": "In Progress",
+      "assignee": "Pep Alonso",
       "issuetype": "Task",
       "created": "2026-05-29",
-      "updated": "2026-05-29",
+      "updated": "2026-06-02",
       "resolutiondate": "",
       "labels": [
         "occident"
@@ -256,12 +340,12 @@
     {
       "key": "PS-5650",
       "summary": "Alsa – Analyse timetable queries where getOrigin/getDestination return incomplete and present conclusions",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Marta Marron",
       "issuetype": "Task",
       "created": "2026-05-27",
-      "updated": "2026-05-27",
+      "updated": "2026-06-01",
       "resolutiondate": "",
       "labels": [
         "Alsa"
@@ -504,12 +588,12 @@
     {
       "key": "PS-5632",
       "summary": "Include \"Powered by Hubtype\" in the footer of first interaction",
-      "status": "Ready for review",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Andrea Talal Haidar",
       "issuetype": "Discovery Task",
       "created": "2026-05-26",
-      "updated": "2026-05-28",
+      "updated": "2026-06-02",
       "resolutiondate": "",
       "labels": []
     },
@@ -2665,12 +2749,12 @@
     {
       "key": "PS-5473",
       "summary": "Rag & Bone - Potential adjustment in csv files we deposit in Concentrix SFTP",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Ready for review",
+      "status_category": "In Progress",
       "assignee": "Adrià Sastre",
       "issuetype": "Task",
       "created": "2026-04-29",
-      "updated": "2026-05-26",
+      "updated": "2026-06-01",
       "resolutiondate": "",
       "labels": [
         "Rag&Bone"
@@ -4246,12 +4330,12 @@
     {
       "key": "PS-5353",
       "summary": "Jetsmart - Bags Ssr step UI",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "In Progress",
+      "status_category": "In Progress",
       "assignee": "Pep Alonso",
       "issuetype": "Task",
       "created": "2026-04-13",
-      "updated": "2026-04-13",
+      "updated": "2026-06-02",
       "resolutiondate": "",
       "labels": [
         "JetSmart"
@@ -4260,12 +4344,12 @@
     {
       "key": "PS-5352",
       "summary": "Jetsmart - Flight Purchasse Summary Step UI",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Ready for review",
+      "status_category": "In Progress",
       "assignee": "Pep Alonso",
       "issuetype": "Task",
       "created": "2026-04-13",
-      "updated": "2026-04-13",
+      "updated": "2026-06-02",
       "resolutiondate": "",
       "labels": [
         "JetSmart"
@@ -4928,12 +5012,12 @@
     {
       "key": "PS-5301",
       "summary": "Rag&Bone - Fix Unhandled Promise Rejection (ERROR_HTTP_503) in Salesforce Bulk API integration",
-      "status": "Ready for review",
-      "status_category": "In Progress",
+      "status": "In production",
+      "status_category": "Done",
       "assignee": "Evgeni Slavyanov",
       "issuetype": "Task",
       "created": "2026-04-08",
-      "updated": "2026-04-30",
+      "updated": "2026-06-01",
       "resolutiondate": "",
       "labels": [
         "Rag&Bone"
