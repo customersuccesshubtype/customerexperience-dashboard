@@ -1,6 +1,213 @@
 {
-  "last_updated": "2026-06-02 11:15 UTC",
+  "last_updated": "2026-06-03 11:54 UTC",
   "tickets": [
+    {
+      "key": "PS-5689",
+      "summary": "Ralph Lauren - update code with the WAflow ID",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Lorena Sánchez-Toril Nicolás",
+      "issuetype": "Task",
+      "created": "2026-06-03",
+      "updated": "2026-06-03",
+      "resolutiondate": "",
+      "labels": [
+        "Ralph_Lauren"
+      ]
+    },
+    {
+      "key": "PS-5688",
+      "summary": "Air Europa - Bug - Ava error response is triggering the Otherwise fallback flow for text message",
+      "status": "In Progress",
+      "status_category": "In Progress",
+      "assignee": "Alexander Skalatskiy",
+      "issuetype": "Bug",
+      "created": "2026-06-03",
+      "updated": "2026-06-03",
+      "resolutiondate": "",
+      "labels": [
+        "AirEuropa",
+        "Bug"
+      ]
+    },
+    {
+      "key": "PS-5687",
+      "summary": "Air Europa - Review why we are not displaying rating",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Alexander Skalatskiy",
+      "issuetype": "Bug",
+      "created": "2026-06-03",
+      "updated": "2026-06-03",
+      "resolutiondate": "",
+      "labels": [
+        "AirEuropa"
+      ]
+    },
+    {
+      "key": "PS-5686",
+      "summary": "Rag & Bone - Update bot version",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Adrià Sastre",
+      "issuetype": "Task",
+      "created": "2026-06-03",
+      "updated": "2026-06-03",
+      "resolutiondate": "",
+      "labels": [
+        "Rag&Bone"
+      ]
+    },
+    {
+      "key": "PS-5685",
+      "summary": "Include latest feedback in AI Agent delivery proposal",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Andrea Talal Haidar",
+      "issuetype": "Discovery Task",
+      "created": "2026-06-03",
+      "updated": "2026-06-03",
+      "resolutiondate": "",
+      "labels": []
+    },
+    {
+      "key": "PS-5684",
+      "summary": "Create usability test script ",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Andrea Talal Haidar",
+      "issuetype": "Discovery Task",
+      "created": "2026-06-03",
+      "updated": "2026-06-03",
+      "resolutiondate": "",
+      "labels": []
+    },
+    {
+      "key": "PS-5683",
+      "summary": "Soledad - delivery time webview",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Lorena Sánchez-Toril Nicolás",
+      "issuetype": "Task",
+      "created": "2026-06-03",
+      "updated": "2026-06-03",
+      "resolutiondate": "",
+      "labels": [
+        "Soledad"
+      ]
+    },
+    {
+      "key": "PS-5682",
+      "summary": "Ralph Lauren - Adjust Zendesk Integration",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Pep Alonso",
+      "issuetype": "Task",
+      "created": "2026-06-03",
+      "updated": "2026-06-03",
+      "resolutiondate": "",
+      "labels": [
+        "Ralph_Lauren"
+      ]
+    },
+    {
+      "key": "PS-5681",
+      "summary": "Consum - Flow Builder migration",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Pep Alonso",
+      "issuetype": "Task",
+      "created": "2026-06-02",
+      "updated": "2026-06-03",
+      "resolutiondate": "",
+      "labels": [
+        "Consum"
+      ]
+    },
+    {
+      "key": "PS-5680",
+      "summary": "Ralph Lauren - Update store directory",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "irene callejas",
+      "issuetype": "Task",
+      "created": "2026-06-02",
+      "updated": "2026-06-02",
+      "resolutiondate": "",
+      "labels": [
+        "Ralph_Lauren"
+      ]
+    },
+    {
+      "key": "PS-5679",
+      "summary": "Air Europa - Improve the way how first interaction is managed.",
+      "status": "In production",
+      "status_category": "Done",
+      "assignee": "Alexander Skalatskiy",
+      "issuetype": "Task",
+      "created": "2026-06-02",
+      "updated": "2026-06-03",
+      "resolutiondate": "",
+      "labels": [
+        "AirEuropa"
+      ]
+    },
+    {
+      "key": "PS-5678",
+      "summary": "Air Europa - Respond to user input after Meta Template (IVR)",
+      "status": "In production",
+      "status_category": "Done",
+      "assignee": "Alexander Skalatskiy",
+      "issuetype": "Task",
+      "created": "2026-06-02",
+      "updated": "2026-06-03",
+      "resolutiondate": "",
+      "labels": [
+        "AirEuropa"
+      ]
+    },
+    {
+      "key": "PS-5677",
+      "summary": "Dev Mode workshop for Delivery team",
+      "status": "In Progress",
+      "status_category": "In Progress",
+      "assignee": "Vicky Correbo",
+      "issuetype": "Task",
+      "created": "2026-06-02",
+      "updated": "2026-06-02",
+      "resolutiondate": "",
+      "labels": [
+        "Internal"
+      ]
+    },
+    {
+      "key": "PS-5676",
+      "summary": "Expired Webview design",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Vicky Correbo",
+      "issuetype": "Task",
+      "created": "2026-06-02",
+      "updated": "2026-06-02",
+      "resolutiondate": "",
+      "labels": [
+        "Internal"
+      ]
+    },
+    {
+      "key": "PS-5675",
+      "summary": "Libeen - Send chat ID to HubSpot",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Alexander Skalatskiy",
+      "issuetype": "Task",
+      "created": "2026-06-02",
+      "updated": "2026-06-02",
+      "resolutiondate": "",
+      "labels": [
+        "Libeen"
+      ]
+    },
     {
       "key": "PS-5674",
       "summary": "Alsa - Review \"Me han cobrado dos veces\" use case",
@@ -17,13 +224,13 @@
     },
     {
       "key": "PS-5673",
-      "summary": "Air Europa - AVA is not receiving input ",
-      "status": "To Do",
-      "status_category": "To Do",
-      "assignee": null,
+      "summary": "Air Europa - AVA is not receiving input sometimes",
+      "status": "In Progress",
+      "status_category": "In Progress",
+      "assignee": "Alexander Skalatskiy",
       "issuetype": "Bug",
       "created": "2026-06-02",
-      "updated": "2026-06-02",
+      "updated": "2026-06-03",
       "resolutiondate": "",
       "labels": [
         "AirEuropa"
@@ -32,8 +239,8 @@
     {
       "key": "PS-5672",
       "summary": "Verisure Spain - Add 3 more phone-origin relations",
-      "status": "Ready for review",
-      "status_category": "In Progress",
+      "status": "In production",
+      "status_category": "Done",
       "assignee": "Adrià Sastre",
       "issuetype": "Task",
       "created": "2026-06-01",
@@ -116,12 +323,12 @@
     {
       "key": "PS-5666",
       "summary": "Tendam - Configure automatic closure of idle cases after 3 hours (WS)",
-      "status": "To Do",
-      "status_category": "To Do",
-      "assignee": "Adrià Sastre",
+      "status": "In Progress",
+      "status_category": "In Progress",
+      "assignee": "Evgeni Slavyanov",
       "issuetype": "Task",
       "created": "2026-05-29",
-      "updated": "2026-05-29",
+      "updated": "2026-06-03",
       "resolutiondate": "",
       "labels": [
         "Tendam"
@@ -132,10 +339,10 @@
       "summary": "Ralph Lauren - Build a WhatsApp feedback flow (multiple choice plus open text) for the soft-launch feedback programme",
       "status": "To Do",
       "status_category": "To Do",
-      "assignee": null,
+      "assignee": "Andrea Talal Haidar",
       "issuetype": "Task",
       "created": "2026-05-29",
-      "updated": "2026-05-29",
+      "updated": "2026-06-02",
       "resolutiondate": "",
       "labels": [
         "Ralph_Lauren"
@@ -270,8 +477,8 @@
     {
       "key": "PS-5655",
       "summary": "Occident - Introduce new agencias in the code",
-      "status": "Ready for review",
-      "status_category": "In Progress",
+      "status": "In production",
+      "status_category": "Done",
       "assignee": "Pep Alonso",
       "issuetype": "Task",
       "created": "2026-05-29",
@@ -298,12 +505,12 @@
     {
       "key": "PS-5653",
       "summary": "Fifty - revisar smart intent 'hello'",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Ready for review",
+      "status_category": "In Progress",
       "assignee": "irene callejas",
       "issuetype": "Task",
       "created": "2026-05-28",
-      "updated": "2026-05-28",
+      "updated": "2026-06-02",
       "resolutiondate": "",
       "labels": [
         "FIFTY"
@@ -368,12 +575,12 @@
     {
       "key": "PS-5648",
       "summary": "RACC Start - Update @botonic and @hubtype packages to latest version",
-      "status": "APPROVED FOR PRODUCTION",
+      "status": "In production",
       "status_category": "Done",
       "assignee": "Evgeni Slavyanov",
       "issuetype": "Task",
       "created": "2026-05-27",
-      "updated": "2026-06-01",
+      "updated": "2026-06-02",
       "resolutiondate": "",
       "labels": [
         "RACC_START"
@@ -600,12 +807,12 @@
     {
       "key": "PS-5631",
       "summary": "Rag & Bone - Ensure R&B agent accounts are linked to the Guess dashboard",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Aitor Casas",
       "issuetype": "Task",
       "created": "2026-05-26",
-      "updated": "2026-05-26",
+      "updated": "2026-06-03",
       "resolutiondate": "",
       "labels": [
         "Rag&Bone"
@@ -869,7 +1076,7 @@
       "assignee": "Adrià Sastre",
       "issuetype": "Discovery Task",
       "created": "2026-05-22",
-      "updated": "2026-05-29",
+      "updated": "2026-06-02",
       "resolutiondate": "",
       "labels": [
         "Tendam"
@@ -1074,12 +1281,12 @@
     {
       "key": "PS-5597",
       "summary": "RACC - Update to version 48 to include automatic language detection",
-      "status": "APPROVED FOR PRODUCTION",
+      "status": "In production",
       "status_category": "Done",
       "assignee": "Evgeni Slavyanov",
       "issuetype": "Task",
       "created": "2026-05-20",
-      "updated": "2026-05-27",
+      "updated": "2026-06-02",
       "resolutiondate": "",
       "labels": [
         "RACC"
@@ -1270,13 +1477,13 @@
     },
     {
       "key": "PS-5583",
-      "summary": "Air Europa - Update AVA endpoint in stg",
-      "status": "Ready to Deliver",
-      "status_category": "In Progress",
+      "summary": "Air Europa - Update AVA endpoint to v2",
+      "status": "APPROVED FOR PRODUCTION",
+      "status_category": "Done",
       "assignee": "Alexander Skalatskiy",
       "issuetype": "Task",
       "created": "2026-05-18",
-      "updated": "2026-05-26",
+      "updated": "2026-06-03",
       "resolutiondate": "",
       "labels": [
         "AirEuropa"
@@ -1594,12 +1801,12 @@
     {
       "key": "PS-5560",
       "summary": "Air Europa - Adjust the initial flow to enable users to write even if they haven't click on the accept button",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "In production",
+      "status_category": "Done",
       "assignee": "Evgeni Slavyanov",
       "issuetype": "Task",
       "created": "2026-05-13",
-      "updated": "2026-05-29",
+      "updated": "2026-06-03",
       "resolutiondate": "",
       "labels": [
         "AirEuropa"
@@ -3315,12 +3522,12 @@
     {
       "key": "PS-5431",
       "summary": "Air Europa - Logic changes",
-      "status": "In Progress",
-      "status_category": "In Progress",
+      "status": "To Do",
+      "status_category": "To Do",
       "assignee": "Alexander Skalatskiy",
       "issuetype": "Task",
       "created": "2026-04-23",
-      "updated": "2026-06-01",
+      "updated": "2026-06-03",
       "resolutiondate": "",
       "labels": [
         "AirEuropa"
@@ -4961,7 +5168,7 @@
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-04-08",
-      "updated": "2026-05-28",
+      "updated": "2026-06-03",
       "resolutiondate": "",
       "labels": [
         "Allianz-ES"
@@ -23500,10 +23707,10 @@
       "summary": "Air Europa - Consultar reserva - API Review",
       "status": "Done",
       "status_category": "Done",
-      "assignee": "Jonatan Rojas",
+      "assignee": null,
       "issuetype": "Task",
       "created": "2025-04-08",
-      "updated": "2025-09-15",
+      "updated": "2026-06-02",
       "resolutiondate": "",
       "labels": [
         "AirEuropa"
