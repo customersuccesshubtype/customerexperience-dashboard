@@ -1,15 +1,155 @@
 {
-  "last_updated": "2026-06-03 11:54 UTC",
+  "last_updated": "2026-06-04 10:37 UTC",
   "tickets": [
     {
-      "key": "PS-5689",
-      "summary": "Ralph Lauren - update code with the WAflow ID",
+      "key": "PS-5699",
+      "summary": "Rag & Bone - Review WhatsApp not working in R&B App",
       "status": "To Do",
       "status_category": "To Do",
-      "assignee": "Lorena Sánchez-Toril Nicolás",
+      "assignee": "Adrià Sastre",
+      "issuetype": "Task",
+      "created": "2026-06-04",
+      "updated": "2026-06-04",
+      "resolutiondate": "",
+      "labels": [
+        "Rag&Bone"
+      ]
+    },
+    {
+      "key": "PS-5698",
+      "summary": "TMB - Accesibilidad: corrección de errores detectados",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Adrià Sastre",
+      "issuetype": "Task",
+      "created": "2026-06-04",
+      "updated": "2026-06-04",
+      "resolutiondate": "",
+      "labels": [
+        "TMB"
+      ]
+    },
+    {
+      "key": "PS-5697",
+      "summary": "Occident - New Agency",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Pep Alonso",
+      "issuetype": "Task",
+      "created": "2026-06-04",
+      "updated": "2026-06-04",
+      "resolutiondate": "",
+      "labels": [
+        "occident"
+      ]
+    },
+    {
+      "key": "PS-5696",
+      "summary": "Libeen – Facilitar instrucciones para enviar templates vía API",
+      "status": "Ready for review",
+      "status_category": "In Progress",
+      "assignee": "Aitor Casas",
+      "issuetype": "Task",
+      "created": "2026-06-03",
+      "updated": "2026-06-04",
+      "resolutiondate": "",
+      "labels": [
+        "Libeen"
+      ]
+    },
+    {
+      "key": "PS-5695",
+      "summary": "Libeen – Integrar los owners de HubSpot en los mensajes de confirmación de cita",
+      "status": "In Progress",
+      "status_category": "In Progress",
+      "assignee": "Alexander Skalatskiy",
+      "issuetype": "Task",
+      "created": "2026-06-03",
+      "updated": "2026-06-04",
+      "resolutiondate": "",
+      "labels": [
+        "Libeen"
+      ]
+    },
+    {
+      "key": "PS-5694",
+      "summary": "Libeen – Revisar formato de los botones de agendamiento",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Andrea Talal Haidar",
       "issuetype": "Task",
       "created": "2026-06-03",
       "updated": "2026-06-03",
+      "resolutiondate": "",
+      "labels": [
+        "Libeen"
+      ]
+    },
+    {
+      "key": "PS-5693",
+      "summary": "Michael Kors – Compare usage volumes of order-issues vs warranty flow for consolidation",
+      "status": "In Progress",
+      "status_category": "In Progress",
+      "assignee": "Marta Marron",
+      "issuetype": "Task",
+      "created": "2026-06-03",
+      "updated": "2026-06-03",
+      "resolutiondate": "",
+      "labels": [
+        "MichaelKors"
+      ]
+    },
+    {
+      "key": "PS-5692",
+      "summary": "Michael Kors – Analyse WhatsApp fallback rate driven by images",
+      "status": "Done",
+      "status_category": "Done",
+      "assignee": "Marta Marron",
+      "issuetype": "Task",
+      "created": "2026-06-03",
+      "updated": "2026-06-04",
+      "resolutiondate": "",
+      "labels": [
+        "MichaelKors"
+      ]
+    },
+    {
+      "key": "PS-5691",
+      "summary": "Soledad - Adjust format sizes in webview",
+      "status": "Ready for review",
+      "status_category": "In Progress",
+      "assignee": "Vicky Correbo",
+      "issuetype": "Task",
+      "created": "2026-06-03",
+      "updated": "2026-06-03",
+      "resolutiondate": "",
+      "labels": [
+        "Soledad"
+      ]
+    },
+    {
+      "key": "PS-5690",
+      "summary": "Michael Kors - Update bot version so we can enable Automatic Language detection and Audio transcript",
+      "status": "In Progress",
+      "status_category": "In Progress",
+      "assignee": "Evgeni Slavyanov",
+      "issuetype": "Task",
+      "created": "2026-06-03",
+      "updated": "2026-06-04",
+      "resolutiondate": "",
+      "labels": [
+        "Michael-Kors"
+      ]
+    },
+    {
+      "key": "PS-5689",
+      "summary": "Ralph Lauren - update code with the WAflow ID",
+      "status": "In production",
+      "status_category": "Done",
+      "assignee": "Lorena Sánchez-Toril Nicolás",
+      "issuetype": "Task",
+      "created": "2026-06-03",
+      "updated": "2026-06-04",
       "resolutiondate": "",
       "labels": [
         "Ralph_Lauren"
@@ -18,12 +158,12 @@
     {
       "key": "PS-5688",
       "summary": "Air Europa - Bug - Ava error response is triggering the Otherwise fallback flow for text message",
-      "status": "In Progress",
-      "status_category": "In Progress",
+      "status": "APPROVED FOR PRODUCTION",
+      "status_category": "Done",
       "assignee": "Alexander Skalatskiy",
       "issuetype": "Bug",
       "created": "2026-06-03",
-      "updated": "2026-06-03",
+      "updated": "2026-06-04",
       "resolutiondate": "",
       "labels": [
         "AirEuropa",
@@ -33,12 +173,12 @@
     {
       "key": "PS-5687",
       "summary": "Air Europa - Review why we are not displaying rating",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "In Progress",
+      "status_category": "In Progress",
       "assignee": "Alexander Skalatskiy",
       "issuetype": "Bug",
       "created": "2026-06-03",
-      "updated": "2026-06-03",
+      "updated": "2026-06-04",
       "resolutiondate": "",
       "labels": [
         "AirEuropa"
@@ -68,7 +208,9 @@
       "created": "2026-06-03",
       "updated": "2026-06-03",
       "resolutiondate": "",
-      "labels": []
+      "labels": [
+        "Internal"
+      ]
     },
     {
       "key": "PS-5684",
@@ -80,17 +222,19 @@
       "created": "2026-06-03",
       "updated": "2026-06-03",
       "resolutiondate": "",
-      "labels": []
+      "labels": [
+        "Internal"
+      ]
     },
     {
       "key": "PS-5683",
       "summary": "Soledad - delivery time webview",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "In Progress",
+      "status_category": "In Progress",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-06-03",
-      "updated": "2026-06-03",
+      "updated": "2026-06-04",
       "resolutiondate": "",
       "labels": [
         "Soledad"
@@ -99,8 +243,8 @@
     {
       "key": "PS-5682",
       "summary": "Ralph Lauren - Adjust Zendesk Integration",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Pep Alonso",
       "issuetype": "Task",
       "created": "2026-06-03",
@@ -127,12 +271,12 @@
     {
       "key": "PS-5680",
       "summary": "Ralph Lauren - Update store directory",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "irene callejas",
       "issuetype": "Task",
       "created": "2026-06-02",
-      "updated": "2026-06-02",
+      "updated": "2026-06-03",
       "resolutiondate": "",
       "labels": [
         "Ralph_Lauren"
@@ -141,7 +285,7 @@
     {
       "key": "PS-5679",
       "summary": "Air Europa - Improve the way how first interaction is managed.",
-      "status": "In production",
+      "status": "Done",
       "status_category": "Done",
       "assignee": "Alexander Skalatskiy",
       "issuetype": "Task",
@@ -155,7 +299,7 @@
     {
       "key": "PS-5678",
       "summary": "Air Europa - Respond to user input after Meta Template (IVR)",
-      "status": "In production",
+      "status": "Done",
       "status_category": "Done",
       "assignee": "Alexander Skalatskiy",
       "issuetype": "Task",
@@ -197,12 +341,12 @@
     {
       "key": "PS-5675",
       "summary": "Libeen - Send chat ID to HubSpot",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Ready for review",
+      "status_category": "In Progress",
       "assignee": "Alexander Skalatskiy",
       "issuetype": "Task",
       "created": "2026-06-02",
-      "updated": "2026-06-02",
+      "updated": "2026-06-04",
       "resolutiondate": "",
       "labels": [
         "Libeen"
@@ -230,7 +374,7 @@
       "assignee": "Alexander Skalatskiy",
       "issuetype": "Bug",
       "created": "2026-06-02",
-      "updated": "2026-06-03",
+      "updated": "2026-06-04",
       "resolutiondate": "",
       "labels": [
         "AirEuropa"
@@ -239,12 +383,12 @@
     {
       "key": "PS-5672",
       "summary": "Verisure Spain - Add 3 more phone-origin relations",
-      "status": "In production",
+      "status": "Done",
       "status_category": "Done",
       "assignee": "Adrià Sastre",
       "issuetype": "Task",
       "created": "2026-06-01",
-      "updated": "2026-06-02",
+      "updated": "2026-06-03",
       "resolutiondate": "",
       "labels": [
         "Verisure_ES"
@@ -281,12 +425,12 @@
     {
       "key": "PS-5669",
       "summary": "Air Europa - Provide a quote for adding a bot message after certain time in idle",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Adrià Sastre",
-      "issuetype": "Task",
+      "issuetype": "Discovery Task",
       "created": "2026-06-01",
-      "updated": "2026-06-01",
+      "updated": "2026-06-04",
       "resolutiondate": "",
       "labels": [
         "AirEuropa"
@@ -323,12 +467,12 @@
     {
       "key": "PS-5666",
       "summary": "Tendam - Configure automatic closure of idle cases after 3 hours (WS)",
-      "status": "In Progress",
+      "status": "Ready for review",
       "status_category": "In Progress",
       "assignee": "Evgeni Slavyanov",
       "issuetype": "Task",
       "created": "2026-05-29",
-      "updated": "2026-06-03",
+      "updated": "2026-06-04",
       "resolutiondate": "",
       "labels": [
         "Tendam"
@@ -421,12 +565,12 @@
     {
       "key": "PS-5659",
       "summary": "Ralph Lauren - Update prompt to recognize is saving size in wrap up",
-      "status": "In Progress",
+      "status": "Ready for review",
       "status_category": "In Progress",
       "assignee": "irene callejas",
       "issuetype": "Task",
       "created": "2026-05-29",
-      "updated": "2026-06-02",
+      "updated": "2026-06-03",
       "resolutiondate": "",
       "labels": [
         "Ralph_Lauren"
@@ -477,12 +621,12 @@
     {
       "key": "PS-5655",
       "summary": "Occident - Introduce new agencias in the code",
-      "status": "In production",
+      "status": "Done",
       "status_category": "Done",
       "assignee": "Pep Alonso",
       "issuetype": "Task",
       "created": "2026-05-29",
-      "updated": "2026-06-02",
+      "updated": "2026-06-03",
       "resolutiondate": "",
       "labels": [
         "occident"
@@ -491,12 +635,12 @@
     {
       "key": "PS-5654",
       "summary": "Ralph Lauren - simplify get product details ",
-      "status": "Ready for review",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-05-29",
-      "updated": "2026-05-29",
+      "updated": "2026-06-04",
       "resolutiondate": "",
       "labels": [
         "Ralph_Lauren"
@@ -505,12 +649,12 @@
     {
       "key": "PS-5653",
       "summary": "Fifty - revisar smart intent 'hello'",
-      "status": "Ready for review",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "irene callejas",
       "issuetype": "Task",
       "created": "2026-05-28",
-      "updated": "2026-06-02",
+      "updated": "2026-06-03",
       "resolutiondate": "",
       "labels": [
         "FIFTY"
@@ -561,12 +705,12 @@
     {
       "key": "PS-5649",
       "summary": "WizzAir - Update @botonic and @hubtype packages to latest version",
-      "status": "In production",
+      "status": "Done",
       "status_category": "Done",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-05-27",
-      "updated": "2026-06-01",
+      "updated": "2026-06-03",
       "resolutiondate": "",
       "labels": [
         "WizzAir"
@@ -575,12 +719,12 @@
     {
       "key": "PS-5648",
       "summary": "RACC Start - Update @botonic and @hubtype packages to latest version",
-      "status": "In production",
+      "status": "Done",
       "status_category": "Done",
       "assignee": "Evgeni Slavyanov",
       "issuetype": "Task",
       "created": "2026-05-27",
-      "updated": "2026-06-02",
+      "updated": "2026-06-03",
       "resolutiondate": "",
       "labels": [
         "RACC_START"
@@ -589,12 +733,12 @@
     {
       "key": "PS-5647",
       "summary": "Occident - Update @botonic and @hubtype packages to latest version",
-      "status": "In production",
+      "status": "Done",
       "status_category": "Done",
       "assignee": "Pep Alonso",
       "issuetype": "Task",
       "created": "2026-05-27",
-      "updated": "2026-06-01",
+      "updated": "2026-06-03",
       "resolutiondate": "",
       "labels": [
         "occident"
@@ -631,12 +775,12 @@
     {
       "key": "PS-5644",
       "summary": "Ralph Lauren - WA flow ",
-      "status": "Ready for review",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-05-27",
-      "updated": "2026-05-28",
+      "updated": "2026-06-04",
       "resolutiondate": "",
       "labels": [
         "Ralph_Lauren"
@@ -659,12 +803,12 @@
     {
       "key": "PS-5642",
       "summary": "Libeen - Search new meeting slots working as expected",
-      "status": "In production",
+      "status": "Done",
       "status_category": "Done",
       "assignee": "Alexander Skalatskiy",
       "issuetype": "Task",
       "created": "2026-05-27",
-      "updated": "2026-06-01",
+      "updated": "2026-06-03",
       "resolutiondate": "",
       "labels": [
         "Libeen"
@@ -753,12 +897,12 @@
     {
       "key": "PS-5635",
       "summary": "Ralph Lauren - Manual Testing and Tool Validation",
-      "status": "In Progress",
+      "status": "Ready for review",
       "status_category": "In Progress",
       "assignee": "irene callejas",
       "issuetype": "Task",
       "created": "2026-05-26",
-      "updated": "2026-05-28",
+      "updated": "2026-06-03",
       "resolutiondate": "",
       "labels": [
         "Ralph_Lauren"
@@ -821,12 +965,12 @@
     {
       "key": "PS-5630",
       "summary": "Ralph Lauren- use new endpoints",
-      "status": "Ready to Deliver",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-05-26",
-      "updated": "2026-05-26",
+      "updated": "2026-06-04",
       "resolutiondate": "",
       "labels": [
         "Ralph_Lauren"
@@ -1099,12 +1243,12 @@
     {
       "key": "PS-5610",
       "summary": "Ralph Lauren - Update tools with new API endpoints",
-      "status": "Ready for review",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-05-22",
-      "updated": "2026-05-25",
+      "updated": "2026-06-04",
       "resolutiondate": "",
       "labels": [
         "Ralph_Lauren"
@@ -1141,12 +1285,12 @@
     {
       "key": "PS-5607",
       "summary": "WizzAir - Migrate the close case logic to an external lambda (cron)",
-      "status": "Ready for review",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Evgeni Slavyanov",
       "issuetype": "Task",
       "created": "2026-05-21",
-      "updated": "2026-05-26",
+      "updated": "2026-06-04",
       "resolutiondate": "",
       "labels": [
         "WizzAir"
@@ -1155,12 +1299,12 @@
     {
       "key": "PS-5606",
       "summary": "Jetsmart - Use of @hubtype/hubtype-sdk for all Hubtype API calls",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Ready for review",
+      "status_category": "In Progress",
       "assignee": "Pep Alonso",
       "issuetype": "Task",
       "created": "2026-05-21",
-      "updated": "2026-05-21",
+      "updated": "2026-06-03",
       "resolutiondate": "",
       "labels": [
         "JetSMART"
@@ -1281,12 +1425,12 @@
     {
       "key": "PS-5597",
       "summary": "RACC - Update to version 48 to include automatic language detection",
-      "status": "In production",
+      "status": "Done",
       "status_category": "Done",
       "assignee": "Evgeni Slavyanov",
       "issuetype": "Task",
       "created": "2026-05-20",
-      "updated": "2026-06-02",
+      "updated": "2026-06-03",
       "resolutiondate": "",
       "labels": [
         "RACC"
@@ -1338,12 +1482,12 @@
     {
       "key": "PS-5593",
       "summary": "Generalitat Turisme - actualizar version bot 48 para poner language autodetection",
-      "status": "In production",
+      "status": "Done",
       "status_category": "Done",
       "assignee": "Evgeni Slavyanov",
       "issuetype": "Task",
       "created": "2026-05-20",
-      "updated": "2026-05-21",
+      "updated": "2026-06-03",
       "resolutiondate": "",
       "labels": [
         "Generalitat-Turisme"
@@ -1604,12 +1748,12 @@
     {
       "key": "PS-5574",
       "summary": "Ralph Lauren: new sizing APIS",
-      "status": "Ready for review",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-05-18",
-      "updated": "2026-05-21",
+      "updated": "2026-06-04",
       "resolutiondate": "",
       "labels": [
         "Ralph_Lauren"
@@ -1618,12 +1762,12 @@
     {
       "key": "PS-5573",
       "summary": "Ralph Lauren - sizing tags normalization ",
-      "status": "Ready for review",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-05-18",
-      "updated": "2026-05-18",
+      "updated": "2026-06-04",
       "resolutiondate": "",
       "labels": [
         "Ralph_Lauren"
@@ -1632,12 +1776,12 @@
     {
       "key": "PS-5572",
       "summary": "Ralph Lauren - add filters of the AI tags",
-      "status": "Ready for review",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-05-18",
-      "updated": "2026-05-19",
+      "updated": "2026-06-04",
       "resolutiondate": "",
       "labels": [
         "Ralph_Lauren"
@@ -1801,7 +1945,7 @@
     {
       "key": "PS-5560",
       "summary": "Air Europa - Adjust the initial flow to enable users to write even if they haven't click on the accept button",
-      "status": "In production",
+      "status": "Done",
       "status_category": "Done",
       "assignee": "Evgeni Slavyanov",
       "issuetype": "Task",
@@ -1857,12 +2001,12 @@
     {
       "key": "PS-5556",
       "summary": "RACC START - Subir a la versión última de botonic para poder añadir Audio transcription",
-      "status": "In production",
+      "status": "Done",
       "status_category": "Done",
       "assignee": "Evgeni Slavyanov",
       "issuetype": "Task",
       "created": "2026-05-12",
-      "updated": "2026-05-20",
+      "updated": "2026-06-03",
       "resolutiondate": "",
       "labels": [
         "RACC"
@@ -1885,12 +2029,12 @@
     {
       "key": "PS-5553",
       "summary": "Tendam - Activar idioma Rumano en el bot Tendam SPF Simpl + Women Secret Simpl",
-      "status": "In production",
+      "status": "Done",
       "status_category": "Done",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-05-12",
-      "updated": "2026-05-25",
+      "updated": "2026-06-03",
       "resolutiondate": "",
       "labels": [
         "Tendam"
@@ -1941,12 +2085,12 @@
     {
       "key": "PS-5549",
       "summary": "Michael Kors - Create contact reason \"No Response\" and conditional for CSAT",
-      "status": "In production",
+      "status": "Done",
       "status_category": "Done",
       "assignee": "Evgeni Slavyanov",
       "issuetype": "Task",
       "created": "2026-05-12",
-      "updated": "2026-05-20",
+      "updated": "2026-06-03",
       "resolutiondate": "",
       "labels": [
         "MichaelKors"
@@ -2503,12 +2647,12 @@
     {
       "key": "PS-5507",
       "summary": "Michael Kors - Review the previous IVR deflection we had in the past",
-      "status": "Ready to Deliver",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Aitor Casas",
       "issuetype": "Task",
       "created": "2026-05-06",
-      "updated": "2026-05-07",
+      "updated": "2026-06-03",
       "resolutiondate": "",
       "labels": [
         "MichaelKors"
@@ -2597,12 +2741,12 @@
     {
       "key": "PS-5500",
       "summary": "WizzAir - Update bot to 0.48",
-      "status": "In production",
+      "status": "Done",
       "status_category": "Done",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-05-06",
-      "updated": "2026-05-11",
+      "updated": "2026-06-03",
       "resolutiondate": "",
       "labels": [
         "WizzAir"
@@ -2804,12 +2948,12 @@
     {
       "key": "PS-5485",
       "summary": "RACC START - Modificar el OOO de WhatsApp para permitir creación de casos",
-      "status": "In production",
+      "status": "Done",
       "status_category": "Done",
       "assignee": "Aitor Casas",
       "issuetype": "Task",
       "created": "2026-05-04",
-      "updated": "2026-05-04",
+      "updated": "2026-06-03",
       "resolutiondate": "",
       "labels": [
         "RACC_START"
@@ -2900,12 +3044,12 @@
     {
       "key": "PS-5478",
       "summary": "Retorna - Fix bug contact info fields",
-      "status": "In production",
+      "status": "Done",
       "status_category": "Done",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-04-30",
-      "updated": "2026-05-05",
+      "updated": "2026-06-03",
       "resolutiondate": "",
       "labels": [
         "Retorna"
@@ -3012,12 +3156,12 @@
     {
       "key": "PS-5469",
       "summary": "Verisure Spain - Add Contact Reason to trigger Altitude",
-      "status": "In production",
+      "status": "Done",
       "status_category": "Done",
       "assignee": "Adrià Sastre",
       "issuetype": "Task",
       "created": "2026-04-29",
-      "updated": "2026-04-29",
+      "updated": "2026-06-03",
       "resolutiondate": "",
       "labels": [
         "Verisure_ES"
@@ -3452,12 +3596,12 @@
     {
       "key": "PS-5436",
       "summary": "GUESS - Update botonic version so as to enable Audio transcriptions",
-      "status": "In production",
+      "status": "Done",
       "status_category": "Done",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-04-23",
-      "updated": "2026-04-28",
+      "updated": "2026-06-03",
       "resolutiondate": "",
       "labels": [
         "Guess"
@@ -3578,12 +3722,12 @@
     {
       "key": "PS-5427",
       "summary": "Michael Kors - Warranty flow data capture validation and language to be sent to Zendesk",
-      "status": "In production",
+      "status": "Done",
       "status_category": "Done",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-04-23",
-      "updated": "2026-04-30",
+      "updated": "2026-06-03",
       "resolutiondate": "",
       "labels": [
         "Michael-Kors"
@@ -3592,12 +3736,12 @@
     {
       "key": "PS-5426",
       "summary": "Michael Kors - Upgrade bot version to the latest",
-      "status": "In production",
+      "status": "Done",
       "status_category": "Done",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-04-23",
-      "updated": "2026-04-30",
+      "updated": "2026-06-03",
       "resolutiondate": "",
       "labels": [
         "Michael-Kors"
@@ -4035,12 +4179,12 @@
     {
       "key": "PS-5392",
       "summary": "SegurCaixa - Contact subject showing as \"undefined\" in incoming emails",
-      "status": "In production",
+      "status": "Done",
       "status_category": "Done",
       "assignee": "Adrià Sastre",
       "issuetype": "Bug",
       "created": "2026-04-20",
-      "updated": "2026-04-28",
+      "updated": "2026-06-03",
       "resolutiondate": "",
       "labels": [
         "SegurCaixa",
@@ -4218,12 +4362,12 @@
     {
       "key": "PS-5377",
       "summary": "Securitas Direct - Changes requested by Miguel",
-      "status": "In production",
+      "status": "Done",
       "status_category": "Done",
       "assignee": "Adrià Sastre",
       "issuetype": "Task",
       "created": "2026-04-15",
-      "updated": "2026-04-20",
+      "updated": "2026-06-03",
       "resolutiondate": "",
       "labels": []
     },
@@ -4384,12 +4528,12 @@
     {
       "key": "PS-5364",
       "summary": "Segurcaixa - Adjust ID Matching Logic (CL-/CL_) ",
-      "status": "In production",
+      "status": "Done",
       "status_category": "Done",
       "assignee": "Alexander Skalatskiy",
       "issuetype": "Task",
       "created": "2026-04-14",
-      "updated": "2026-04-28",
+      "updated": "2026-06-03",
       "resolutiondate": "",
       "labels": [
         "SegurCaixa"
@@ -4829,12 +4973,12 @@
     {
       "key": "PS-5329",
       "summary": "Improvement: Get contents from Flow Builder instead of local contents",
-      "status": "In production",
+      "status": "Done",
       "status_category": "Done",
       "assignee": "Alexander Skalatskiy",
       "issuetype": "Sub-task",
       "created": "2026-04-10",
-      "updated": "2026-04-15",
+      "updated": "2026-06-03",
       "resolutiondate": "",
       "labels": [
         "TMB"
@@ -5039,12 +5183,12 @@
     {
       "key": "PS-5314",
       "summary": "WizzAir - Fix Custom Message errors",
-      "status": "In production",
+      "status": "Done",
       "status_category": "Done",
       "assignee": "Evgeni Slavyanov",
       "issuetype": "Task",
       "created": "2026-04-09",
-      "updated": "2026-04-29",
+      "updated": "2026-06-03",
       "resolutiondate": "",
       "labels": [
         "WizzAir"
@@ -5067,12 +5211,12 @@
     {
       "key": "PS-5312",
       "summary": "CCMA Tot es Mou - Fix how the Denuncia cases are detected",
-      "status": "In production",
+      "status": "Done",
       "status_category": "Done",
       "assignee": "Adrià Sastre",
       "issuetype": "Task",
       "created": "2026-04-09",
-      "updated": "2026-04-09",
+      "updated": "2026-06-03",
       "resolutiondate": "",
       "labels": []
     },
@@ -5093,12 +5237,12 @@
     {
       "key": "PS-5310",
       "summary": "Rag & Bone - Migration to Guess Dashboard",
-      "status": "In Progress",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": null,
       "issuetype": "Epic",
       "created": "2026-04-09",
-      "updated": "2026-05-18",
+      "updated": "2026-06-03",
       "resolutiondate": "",
       "labels": [
         "Rag&Bone"
@@ -5219,12 +5363,12 @@
     {
       "key": "PS-5301",
       "summary": "Rag&Bone - Fix Unhandled Promise Rejection (ERROR_HTTP_503) in Salesforce Bulk API integration",
-      "status": "In production",
+      "status": "Done",
       "status_category": "Done",
       "assignee": "Evgeni Slavyanov",
       "issuetype": "Task",
       "created": "2026-04-08",
-      "updated": "2026-06-01",
+      "updated": "2026-06-03",
       "resolutiondate": "",
       "labels": [
         "Rag&Bone"
@@ -7149,12 +7293,12 @@
     {
       "key": "PS-5158",
       "summary": "Ralph Lauren - Weekly Executions March - April -May",
-      "status": "In Progress",
+      "status": "Ready for review",
       "status_category": "In Progress",
       "assignee": "irene callejas",
       "issuetype": "Task",
       "created": "2026-03-06",
-      "updated": "2026-06-01",
+      "updated": "2026-06-03",
       "resolutiondate": "",
       "labels": [
         "Ralph_Lauren"
@@ -11067,12 +11211,12 @@
     {
       "key": "PS-4846",
       "summary": "Michael Kors - Migrate from Knowledge Bases to AI Agent",
-      "status": "In production",
+      "status": "Done",
       "status_category": "Done",
       "assignee": "Marta Marron",
       "issuetype": "Task",
       "created": "2026-01-17",
-      "updated": "2026-05-13",
+      "updated": "2026-06-03",
       "resolutiondate": "",
       "labels": [
         "Michael-Kors"
@@ -12323,12 +12467,12 @@
     {
       "key": "PS-4745",
       "summary": "Jetsmart - Add extras adjustments",
-      "status": "In Review",
-      "status_category": "In Progress",
+      "status": "In production",
+      "status_category": "Done",
       "assignee": "Pep Alonso",
       "issuetype": "Task",
       "created": "2025-12-16",
-      "updated": "2026-05-04",
+      "updated": "2026-06-04",
       "resolutiondate": "",
       "labels": [
         "JetSmart"
@@ -14595,12 +14739,12 @@
     {
       "key": "PS-4560",
       "summary": "Tendam - Update Pedro del Hierro to Botonic Latest version",
-      "status": "Ready to Deliver",
-      "status_category": "In Progress",
+      "status": "In production",
+      "status_category": "Done",
       "assignee": "Adrià Sastre",
       "issuetype": "Task",
       "created": "2025-10-21",
-      "updated": "2026-03-23",
+      "updated": "2026-06-04",
       "resolutiondate": "",
       "labels": [
         "Tendam"
@@ -14623,12 +14767,12 @@
     {
       "key": "PS-4558",
       "summary": "Tendam - Update Dash&Stars to Botonic Latest version",
-      "status": "Ready to Deliver",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Adrià Sastre",
       "issuetype": "Task",
       "created": "2025-10-21",
-      "updated": "2026-05-18",
+      "updated": "2026-06-03",
       "resolutiondate": "",
       "labels": [
         "Tendam"
@@ -14663,12 +14807,12 @@
     {
       "key": "PS-4555",
       "summary": "Tendam - Update Fifty to Botonic Latest version",
-      "status": "Ready to Deliver",
-      "status_category": "In Progress",
+      "status": "In production",
+      "status_category": "Done",
       "assignee": "Adrià Sastre",
       "issuetype": "Task",
       "created": "2025-10-21",
-      "updated": "2026-03-23",
+      "updated": "2026-06-04",
       "resolutiondate": "",
       "labels": [
         "Tendam"
@@ -14705,12 +14849,12 @@
     {
       "key": "PS-4551",
       "summary": "Tendam - Update all bots to Botonic 46 (AI Agent)",
-      "status": "Ready to Deliver",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Adrià Sastre",
       "issuetype": "Epic",
       "created": "2025-10-20",
-      "updated": "2026-05-18",
+      "updated": "2026-06-03",
       "resolutiondate": "",
       "labels": [
         "Tendam"
@@ -15361,12 +15505,12 @@
     {
       "key": "PS-4496",
       "summary": "Wizz Air - Fix how system_locale is set in the frontend",
-      "status": "In production",
+      "status": "Done",
       "status_category": "Done",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2025-10-07",
-      "updated": "2026-06-01",
+      "updated": "2026-06-03",
       "resolutiondate": "",
       "labels": [
         "WizzAir"
