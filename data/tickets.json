@@ -1,6 +1,90 @@
 {
-  "last_updated": "2026-06-04 10:37 UTC",
+  "last_updated": "2026-06-05 10:44 UTC",
   "tickets": [
+    {
+      "key": "PS-5705",
+      "summary": "Soledad - error on client prod investigate ",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Lorena Sánchez-Toril Nicolás",
+      "issuetype": "Task",
+      "created": "2026-06-05",
+      "updated": "2026-06-05",
+      "resolutiondate": "",
+      "labels": [
+        "Soledad"
+      ]
+    },
+    {
+      "key": "PS-5704",
+      "summary": "All Clients - hilos duplicados en Salesforce (Email-to-Case)",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Aitor Casas",
+      "issuetype": "Task",
+      "created": "2026-06-05",
+      "updated": "2026-06-05",
+      "resolutiondate": "",
+      "labels": [
+        "all_clients"
+      ]
+    },
+    {
+      "key": "PS-5703",
+      "summary": "Ralph Lauren - new improvements",
+      "status": "In Progress",
+      "status_category": "In Progress",
+      "assignee": "Lorena Sánchez-Toril Nicolás",
+      "issuetype": "Task",
+      "created": "2026-06-05",
+      "updated": "2026-06-05",
+      "resolutiondate": "",
+      "labels": [
+        "Ralph_Lauren"
+      ]
+    },
+    {
+      "key": "PS-5702",
+      "summary": "Air Europa - Update bot for language automatic detection",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Evgeni Slavyanov",
+      "issuetype": "Task",
+      "created": "2026-06-05",
+      "updated": "2026-06-05",
+      "resolutiondate": "",
+      "labels": [
+        "AirEuropa"
+      ]
+    },
+    {
+      "key": "PS-5701",
+      "summary": "Soledad - remove webview titles",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Lorena Sánchez-Toril Nicolás",
+      "issuetype": "Task",
+      "created": "2026-06-05",
+      "updated": "2026-06-05",
+      "resolutiondate": "",
+      "labels": [
+        "Soledad"
+      ]
+    },
+    {
+      "key": "PS-5700",
+      "summary": "RACC - Analizar qué cambios tenemos que hacer en Flowbuilder para que autodetect language mejore experiencia",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Aitor Casas",
+      "issuetype": "Task",
+      "created": "2026-06-04",
+      "updated": "2026-06-04",
+      "resolutiondate": "",
+      "labels": [
+        "RACC"
+      ]
+    },
     {
       "key": "PS-5699",
       "summary": "Rag & Bone - Review WhatsApp not working in R&B App",
@@ -46,8 +130,8 @@
     {
       "key": "PS-5696",
       "summary": "Libeen – Facilitar instrucciones para enviar templates vía API",
-      "status": "Ready for review",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Aitor Casas",
       "issuetype": "Task",
       "created": "2026-06-03",
@@ -130,7 +214,7 @@
     {
       "key": "PS-5690",
       "summary": "Michael Kors - Update bot version so we can enable Automatic Language detection and Audio transcript",
-      "status": "In Progress",
+      "status": "Ready for review",
       "status_category": "In Progress",
       "assignee": "Evgeni Slavyanov",
       "issuetype": "Task",
@@ -144,7 +228,7 @@
     {
       "key": "PS-5689",
       "summary": "Ralph Lauren - update code with the WAflow ID",
-      "status": "In production",
+      "status": "Done",
       "status_category": "Done",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
@@ -158,7 +242,7 @@
     {
       "key": "PS-5688",
       "summary": "Air Europa - Bug - Ava error response is triggering the Otherwise fallback flow for text message",
-      "status": "APPROVED FOR PRODUCTION",
+      "status": "Done",
       "status_category": "Done",
       "assignee": "Alexander Skalatskiy",
       "issuetype": "Bug",
@@ -229,7 +313,7 @@
     {
       "key": "PS-5683",
       "summary": "Soledad - delivery time webview",
-      "status": "In Progress",
+      "status": "Ready for review",
       "status_category": "In Progress",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
@@ -467,7 +551,7 @@
     {
       "key": "PS-5666",
       "summary": "Tendam - Configure automatic closure of idle cases after 3 hours (WS)",
-      "status": "Ready for review",
+      "status": "Ready to Deliver",
       "status_category": "In Progress",
       "assignee": "Evgeni Slavyanov",
       "issuetype": "Task",
@@ -551,12 +635,12 @@
     {
       "key": "PS-5660",
       "summary": "Tendam - Casos que no se han integrado en InConcert",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Ready for review",
+      "status_category": "In Progress",
       "assignee": "Adrià Sastre",
       "issuetype": "Discovery Task",
       "created": "2026-05-29",
-      "updated": "2026-05-29",
+      "updated": "2026-06-05",
       "resolutiondate": "",
       "labels": [
         "Tendam"
@@ -1215,12 +1299,12 @@
     {
       "key": "PS-5612",
       "summary": "Tendam - Assess the possibility to configure Idle cases to close automatically and ensure info is sent to InConcert",
-      "status": "In Progress",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Adrià Sastre",
       "issuetype": "Discovery Task",
       "created": "2026-05-22",
-      "updated": "2026-06-02",
+      "updated": "2026-06-05",
       "resolutiondate": "",
       "labels": [
         "Tendam"
@@ -1313,12 +1397,12 @@
     {
       "key": "PS-5605",
       "summary": "Internal - Add missing endpoints in @hubtype/hubtype-sdk",
-      "status": "Ready for review",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Adrià Sastre",
       "issuetype": "Task",
       "created": "2026-05-21",
-      "updated": "2026-05-21",
+      "updated": "2026-06-05",
       "resolutiondate": "",
       "labels": []
     },
@@ -2939,7 +3023,7 @@
       "assignee": "Adrià Sastre",
       "issuetype": "Task",
       "created": "2026-05-04",
-      "updated": "2026-05-04",
+      "updated": "2026-06-05",
       "resolutiondate": "",
       "labels": [
         "occident"
@@ -3114,12 +3198,12 @@
     {
       "key": "PS-5472",
       "summary": "Rag & Bone - Prepare the Salesforce migration",
-      "status": "Ready for review",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Adrià Sastre",
       "issuetype": "Task",
       "created": "2026-04-29",
-      "updated": "2026-05-07",
+      "updated": "2026-06-05",
       "resolutiondate": "",
       "labels": [
         "Rag&Bone"
@@ -3226,12 +3310,12 @@
     {
       "key": "PS-5464",
       "summary": "Internal - Bump internal packages to version 0.48",
-      "status": "Ready to Deliver",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Adrià Sastre",
       "issuetype": "Task",
       "created": "2026-04-28",
-      "updated": "2026-05-15",
+      "updated": "2026-06-05",
       "resolutiondate": "",
       "labels": [
         "Internal"
@@ -8251,10 +8335,10 @@
       "summary": "Alsa - API Gestión de billetes",
       "status": "Open",
       "status_category": "To Do",
-      "assignee": "María Sánchez",
+      "assignee": null,
       "issuetype": "Task",
       "created": "2026-02-21",
-      "updated": "2026-04-07",
+      "updated": "2026-06-04",
       "resolutiondate": "",
       "labels": [
         "Alsa"
@@ -12467,12 +12551,12 @@
     {
       "key": "PS-4745",
       "summary": "Jetsmart - Add extras adjustments",
-      "status": "In production",
-      "status_category": "Done",
+      "status": "Ready to Deliver",
+      "status_category": "In Progress",
       "assignee": "Pep Alonso",
       "issuetype": "Task",
       "created": "2025-12-16",
-      "updated": "2026-06-04",
+      "updated": "2026-06-05",
       "resolutiondate": "",
       "labels": [
         "JetSmart"
@@ -14739,7 +14823,7 @@
     {
       "key": "PS-4560",
       "summary": "Tendam - Update Pedro del Hierro to Botonic Latest version",
-      "status": "In production",
+      "status": "Done",
       "status_category": "Done",
       "assignee": "Adrià Sastre",
       "issuetype": "Task",
@@ -14807,7 +14891,7 @@
     {
       "key": "PS-4555",
       "summary": "Tendam - Update Fifty to Botonic Latest version",
-      "status": "In production",
+      "status": "Done",
       "status_category": "Done",
       "assignee": "Adrià Sastre",
       "issuetype": "Task",
@@ -20248,10 +20332,10 @@
       "summary": "Verisure FR - Coordinar con Juan Sanchez el que se active SSO (lo tienen por contrato)",
       "status": "Open",
       "status_category": "To Do",
-      "assignee": "María Sánchez",
+      "assignee": "Marta Marron",
       "issuetype": "Task",
       "created": "2025-06-13",
-      "updated": "2026-02-19",
+      "updated": "2026-06-04",
       "resolutiondate": "",
       "labels": [
         "Verisure-FR"
