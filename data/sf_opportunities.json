@@ -1,6 +1,23 @@
 {
-  "last_updated": "2026-06-04 10:44 UTC",
+  "last_updated": "2026-06-05 10:54 UTC",
   "opportunities": [
+    {
+      "id": "006Sa00000hRebkIAC",
+      "name": "2026-C-AirEuropa-Message in \"IDLE\"",
+      "type": "Consultancy",
+      "stage": "Opportunity identified",
+      "is_closed": false,
+      "is_won": false,
+      "probability": 10.0,
+      "amount": 480.0,
+      "arr": 0.0,
+      "owner": "Julieta Mezza",
+      "cs_lead": "Julieta Mezza",
+      "account": "Air Europa",
+      "created": "2026-06-05",
+      "close_date": "2026-06-12",
+      "start_date": "2026-06-12"
+    },
     {
       "id": "006Sa00000h3WU5IAM",
       "name": "2026-U-RACC-CA(WhatsApp, Webchat)-Smart Intents",
