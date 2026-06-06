@@ -1,6 +1,76 @@
 {
-  "last_updated": "2026-06-05 10:44 UTC",
+  "last_updated": "2026-06-06 09:23 UTC",
   "tickets": [
+    {
+      "key": "PS-5710",
+      "summary": "Michael Kors - Analysis of images causing fallbacks to identify repetition",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Marta Marron",
+      "issuetype": "Task",
+      "created": "2026-06-05",
+      "updated": "2026-06-05",
+      "resolutiondate": "",
+      "labels": [
+        "MichaelKors"
+      ]
+    },
+    {
+      "key": "PS-5709",
+      "summary": "Air Europa - Add values to AVA call",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Alexander Skalatskiy",
+      "issuetype": "Task",
+      "created": "2026-06-05",
+      "updated": "2026-06-05",
+      "resolutiondate": "",
+      "labels": [
+        "AirEuropa"
+      ]
+    },
+    {
+      "key": "PS-5708",
+      "summary": "ATM - Update bot version",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Evgeni Slavyanov",
+      "issuetype": "Task",
+      "created": "2026-06-05",
+      "updated": "2026-06-05",
+      "resolutiondate": "",
+      "labels": [
+        "ATM"
+      ]
+    },
+    {
+      "key": "PS-5707",
+      "summary": "Occident - Coexistence: Review how we can display the right contact information",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Adrià Sastre",
+      "issuetype": "Task",
+      "created": "2026-06-05",
+      "updated": "2026-06-05",
+      "resolutiondate": "",
+      "labels": [
+        "occident"
+      ]
+    },
+    {
+      "key": "PS-5706",
+      "summary": "Air Europa - Falla envío estado de user_logged en chatcontext a AVA",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Alexander Skalatskiy",
+      "issuetype": "Bug",
+      "created": "2026-06-05",
+      "updated": "2026-06-05",
+      "resolutiondate": "",
+      "labels": [
+        "AirEuropa"
+      ]
+    },
     {
       "key": "PS-5705",
       "summary": "Soledad - error on client prod investigate ",
@@ -32,7 +102,7 @@
     {
       "key": "PS-5703",
       "summary": "Ralph Lauren - new improvements",
-      "status": "In Progress",
+      "status": "Ready for review",
       "status_category": "In Progress",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
@@ -60,8 +130,8 @@
     {
       "key": "PS-5701",
       "summary": "Soledad - remove webview titles",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "In Progress",
+      "status_category": "In Progress",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-06-05",
@@ -74,12 +144,12 @@
     {
       "key": "PS-5700",
       "summary": "RACC - Analizar qué cambios tenemos que hacer en Flowbuilder para que autodetect language mejore experiencia",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "APPROVED FOR PRODUCTION",
+      "status_category": "Done",
       "assignee": "Aitor Casas",
       "issuetype": "Task",
       "created": "2026-06-04",
-      "updated": "2026-06-04",
+      "updated": "2026-06-05",
       "resolutiondate": "",
       "labels": [
         "RACC"
@@ -115,13 +185,13 @@
     },
     {
       "key": "PS-5697",
-      "summary": "Occident - New Agency",
+      "summary": "Occident - New Agency \"Atocha\"",
       "status": "To Do",
       "status_category": "To Do",
       "assignee": "Pep Alonso",
       "issuetype": "Task",
       "created": "2026-06-04",
-      "updated": "2026-06-04",
+      "updated": "2026-06-05",
       "resolutiondate": "",
       "labels": [
         "occident"
@@ -158,12 +228,12 @@
     {
       "key": "PS-5694",
       "summary": "Libeen – Revisar formato de los botones de agendamiento",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "In Progress",
+      "status_category": "In Progress",
       "assignee": "Andrea Talal Haidar",
       "issuetype": "Task",
       "created": "2026-06-03",
-      "updated": "2026-06-03",
+      "updated": "2026-06-05",
       "resolutiondate": "",
       "labels": [
         "Libeen"
@@ -285,12 +355,12 @@
     {
       "key": "PS-5685",
       "summary": "Include latest feedback in AI Agent delivery proposal",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Andrea Talal Haidar",
       "issuetype": "Discovery Task",
       "created": "2026-06-03",
-      "updated": "2026-06-03",
+      "updated": "2026-06-05",
       "resolutiondate": "",
       "labels": [
         "Internal"
@@ -299,12 +369,12 @@
     {
       "key": "PS-5684",
       "summary": "Create usability test script ",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Andrea Talal Haidar",
       "issuetype": "Discovery Task",
       "created": "2026-06-03",
-      "updated": "2026-06-03",
+      "updated": "2026-06-05",
       "resolutiondate": "",
       "labels": [
         "Internal"
@@ -565,12 +635,12 @@
     {
       "key": "PS-5665",
       "summary": "Ralph Lauren - Build a WhatsApp feedback flow (multiple choice plus open text) for the soft-launch feedback programme",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "In Progress",
+      "status_category": "In Progress",
       "assignee": "Andrea Talal Haidar",
       "issuetype": "Task",
       "created": "2026-05-29",
-      "updated": "2026-06-02",
+      "updated": "2026-06-06",
       "resolutiondate": "",
       "labels": [
         "Ralph_Lauren"
@@ -710,7 +780,7 @@
       "assignee": "Pep Alonso",
       "issuetype": "Task",
       "created": "2026-05-29",
-      "updated": "2026-06-03",
+      "updated": "2026-06-05",
       "resolutiondate": "",
       "labels": [
         "occident"
