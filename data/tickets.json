@@ -1,6 +1,104 @@
 {
-  "last_updated": "2026-06-07 09:58 UTC",
+  "last_updated": "2026-06-08 11:55 UTC",
   "tickets": [
+    {
+      "key": "PS-5717",
+      "summary": "Fenie Energia - Interacción con un AI Agent propio",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": null,
+      "issuetype": "Discovery Task",
+      "created": "2026-06-08",
+      "updated": "2026-06-08",
+      "resolutiondate": "",
+      "labels": [
+        "FenieEnergia"
+      ]
+    },
+    {
+      "key": "PS-5716",
+      "summary": "Tendam- Springfield - Update bot version and Configure automatic closing of idle cases after 3 hours",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Evgeni Slavyanov",
+      "issuetype": "Task",
+      "created": "2026-06-08",
+      "updated": "2026-06-08",
+      "resolutiondate": "",
+      "labels": [
+        "Tendam"
+      ]
+    },
+    {
+      "key": "PS-5715",
+      "summary": "Tendam - Cortefiel - Update bot version and Configure Automatic Closing of idle cases after 3 hours",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Evgeni Slavyanov",
+      "issuetype": "Task",
+      "created": "2026-06-08",
+      "updated": "2026-06-08",
+      "resolutiondate": "",
+      "labels": [
+        "Tendam"
+      ]
+    },
+    {
+      "key": "PS-5714",
+      "summary": "Tendam - Configure Automatic Idle Closing for all Tendam Bots",
+      "status": "In Progress",
+      "status_category": "In Progress",
+      "assignee": null,
+      "issuetype": "Epic",
+      "created": "2026-06-08",
+      "updated": "2026-06-08",
+      "resolutiondate": "",
+      "labels": [
+        "Tendam"
+      ]
+    },
+    {
+      "key": "PS-5713",
+      "summary": "Occident - New WhatsApp number (Coexistence) to Tot Risc Catalunya(\"Vendrell\" office)",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Pep Alonso",
+      "issuetype": "Task",
+      "created": "2026-06-08",
+      "updated": "2026-06-08",
+      "resolutiondate": "",
+      "labels": [
+        "occident"
+      ]
+    },
+    {
+      "key": "PS-5712",
+      "summary": "Air Europa - Send initial greeting with gdpr policy to people that don't accepted in the past",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Alexander Skalatskiy",
+      "issuetype": "Task",
+      "created": "2026-06-08",
+      "updated": "2026-06-08",
+      "resolutiondate": "",
+      "labels": [
+        "AirEuropa"
+      ]
+    },
+    {
+      "key": "PS-5711",
+      "summary": "Wizz Air - Distinguish between automatic assignment of casas vs manual",
+      "status": "In Progress",
+      "status_category": "In Progress",
+      "assignee": "Julieta Mezza",
+      "issuetype": "Task",
+      "created": "2026-06-08",
+      "updated": "2026-06-08",
+      "resolutiondate": "",
+      "labels": [
+        "WizzAir"
+      ]
+    },
     {
       "key": "PS-5710",
       "summary": "Michael Kors - Analysis of images causing fallbacks to identify repetition",
@@ -18,12 +116,12 @@
     {
       "key": "PS-5709",
       "summary": "Air Europa - Add values to AVA call",
-      "status": "To Do",
+      "status": "Open",
       "status_category": "To Do",
       "assignee": "Alexander Skalatskiy",
       "issuetype": "Task",
       "created": "2026-06-05",
-      "updated": "2026-06-05",
+      "updated": "2026-06-08",
       "resolutiondate": "",
       "labels": [
         "AirEuropa"
@@ -32,12 +130,12 @@
     {
       "key": "PS-5708",
       "summary": "ATM - Update bot version",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "APPROVED FOR PRODUCTION",
+      "status_category": "Done",
       "assignee": "Evgeni Slavyanov",
       "issuetype": "Task",
       "created": "2026-06-05",
-      "updated": "2026-06-05",
+      "updated": "2026-06-08",
       "resolutiondate": "",
       "labels": [
         "ATM"
@@ -51,7 +149,7 @@
       "assignee": "Adrià Sastre",
       "issuetype": "Task",
       "created": "2026-06-05",
-      "updated": "2026-06-05",
+      "updated": "2026-06-08",
       "resolutiondate": "",
       "labels": [
         "occident"
@@ -65,7 +163,7 @@
       "assignee": "Alexander Skalatskiy",
       "issuetype": "Bug",
       "created": "2026-06-05",
-      "updated": "2026-06-05",
+      "updated": "2026-06-08",
       "resolutiondate": "",
       "labels": [
         "AirEuropa"
@@ -74,12 +172,12 @@
     {
       "key": "PS-5705",
       "summary": "Soledad - error on client prod investigate ",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "In Progress",
+      "status_category": "In Progress",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-06-05",
-      "updated": "2026-06-05",
+      "updated": "2026-06-08",
       "resolutiondate": "",
       "labels": [
         "Soledad"
@@ -130,12 +228,12 @@
     {
       "key": "PS-5701",
       "summary": "Soledad - remove webview titles",
-      "status": "In Progress",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-06-05",
-      "updated": "2026-06-05",
+      "updated": "2026-06-08",
       "resolutiondate": "",
       "labels": [
         "Soledad"
@@ -144,12 +242,12 @@
     {
       "key": "PS-5700",
       "summary": "RACC - Analizar qué cambios tenemos que hacer en Flowbuilder para que autodetect language mejore experiencia",
-      "status": "APPROVED FOR PRODUCTION",
+      "status": "Done",
       "status_category": "Done",
       "assignee": "Aitor Casas",
       "issuetype": "Task",
       "created": "2026-06-04",
-      "updated": "2026-06-05",
+      "updated": "2026-06-08",
       "resolutiondate": "",
       "labels": [
         "RACC"
@@ -158,12 +256,12 @@
     {
       "key": "PS-5699",
       "summary": "Rag & Bone - Review WhatsApp not working in R&B App",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Ready for review",
+      "status_category": "In Progress",
       "assignee": "Adrià Sastre",
       "issuetype": "Task",
       "created": "2026-06-04",
-      "updated": "2026-06-04",
+      "updated": "2026-06-08",
       "resolutiondate": "",
       "labels": [
         "Rag&Bone"
@@ -174,10 +272,10 @@
       "summary": "TMB - Accesibilidad: corrección de errores detectados",
       "status": "To Do",
       "status_category": "To Do",
-      "assignee": "Adrià Sastre",
+      "assignee": "Alexander Skalatskiy",
       "issuetype": "Task",
       "created": "2026-06-04",
-      "updated": "2026-06-04",
+      "updated": "2026-06-08",
       "resolutiondate": "",
       "labels": [
         "TMB"
@@ -186,12 +284,12 @@
     {
       "key": "PS-5697",
       "summary": "Occident - New Agency \"Atocha\"",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Ready to Deliver",
+      "status_category": "In Progress",
       "assignee": "Pep Alonso",
       "issuetype": "Task",
       "created": "2026-06-04",
-      "updated": "2026-06-05",
+      "updated": "2026-06-08",
       "resolutiondate": "",
       "labels": [
         "occident"
@@ -270,12 +368,12 @@
     {
       "key": "PS-5691",
       "summary": "Soledad - Adjust format sizes in webview",
-      "status": "Ready for review",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Vicky Correbo",
       "issuetype": "Task",
       "created": "2026-06-03",
-      "updated": "2026-06-03",
+      "updated": "2026-06-08",
       "resolutiondate": "",
       "labels": [
         "Soledad"
@@ -284,12 +382,12 @@
     {
       "key": "PS-5690",
       "summary": "Michael Kors - Update bot version so we can enable Automatic Language detection and Audio transcript",
-      "status": "Ready for review",
+      "status": "Ready to Deliver",
       "status_category": "In Progress",
       "assignee": "Evgeni Slavyanov",
       "issuetype": "Task",
       "created": "2026-06-03",
-      "updated": "2026-06-04",
+      "updated": "2026-06-08",
       "resolutiondate": "",
       "labels": [
         "Michael-Kors"
@@ -343,10 +441,10 @@
       "summary": "Rag & Bone - Update bot version",
       "status": "To Do",
       "status_category": "To Do",
-      "assignee": "Adrià Sastre",
+      "assignee": "Evgeni Slavyanov",
       "issuetype": "Task",
       "created": "2026-06-03",
-      "updated": "2026-06-03",
+      "updated": "2026-06-08",
       "resolutiondate": "",
       "labels": [
         "Rag&Bone"
@@ -383,12 +481,12 @@
     {
       "key": "PS-5683",
       "summary": "Soledad - delivery time webview",
-      "status": "Ready for review",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-06-03",
-      "updated": "2026-06-04",
+      "updated": "2026-06-08",
       "resolutiondate": "",
       "labels": [
         "Soledad"
@@ -495,12 +593,12 @@
     {
       "key": "PS-5675",
       "summary": "Libeen - Send chat ID to HubSpot",
-      "status": "Ready for review",
-      "status_category": "In Progress",
+      "status": "APPROVED FOR PRODUCTION",
+      "status_category": "Done",
       "assignee": "Alexander Skalatskiy",
       "issuetype": "Task",
       "created": "2026-06-02",
-      "updated": "2026-06-04",
+      "updated": "2026-06-08",
       "resolutiondate": "",
       "labels": [
         "Libeen"
@@ -565,12 +663,12 @@
     {
       "key": "PS-5670",
       "summary": "Air Europa - Share PNRs with Booking errors",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Julieta Mezza",
       "issuetype": "Task",
       "created": "2026-06-01",
-      "updated": "2026-06-01",
+      "updated": "2026-06-08",
       "resolutiondate": "",
       "labels": [
         "AirEuropa"
@@ -620,13 +718,13 @@
     },
     {
       "key": "PS-5666",
-      "summary": "Tendam - Configure automatic closure of idle cases after 3 hours (WS)",
-      "status": "Ready to Deliver",
-      "status_category": "In Progress",
+      "summary": "Tendam - Update bot version and Configure automatic closure of idle cases after 3 hours (WS)",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Evgeni Slavyanov",
       "issuetype": "Task",
       "created": "2026-05-29",
-      "updated": "2026-06-04",
+      "updated": "2026-06-08",
       "resolutiondate": "",
       "labels": [
         "Tendam"
@@ -780,7 +878,7 @@
       "assignee": "Pep Alonso",
       "issuetype": "Task",
       "created": "2026-05-29",
-      "updated": "2026-06-05",
+      "updated": "2026-06-08",
       "resolutiondate": "",
       "labels": [
         "occident"
@@ -817,12 +915,12 @@
     {
       "key": "PS-5652",
       "summary": "Occident - Templates modifications",
-      "status": "In Progress",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Aitor Casas",
       "issuetype": "Task",
       "created": "2026-05-28",
-      "updated": "2026-06-01",
+      "updated": "2026-06-08",
       "resolutiondate": "",
       "labels": [
         "occident"
@@ -901,12 +999,12 @@
     {
       "key": "PS-5646",
       "summary": "Wizz Air - Refund status review",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Closed",
+      "status_category": "Done",
       "assignee": "Adrià Sastre",
       "issuetype": "Task",
       "created": "2026-05-27",
-      "updated": "2026-05-27",
+      "updated": "2026-06-08",
       "resolutiondate": "",
       "labels": [
         "WizzAir"
@@ -1065,12 +1163,12 @@
     {
       "key": "PS-5634",
       "summary": "TMB - Upgrade Bot Version to 0.49",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Ready for review",
+      "status_category": "In Progress",
       "assignee": "Evgeni Slavyanov",
       "issuetype": "Task",
       "created": "2026-05-26",
-      "updated": "2026-06-01",
+      "updated": "2026-06-08",
       "resolutiondate": "",
       "labels": [
         "TMB"
@@ -1133,12 +1231,12 @@
     {
       "key": "PS-5629",
       "summary": "SEM - Update botonic version to 48 to include automatic language detection",
-      "status": "Ready for review",
-      "status_category": "In Progress",
+      "status": "APPROVED FOR PRODUCTION",
+      "status_category": "Done",
       "assignee": "Evgeni Slavyanov",
       "issuetype": "Task",
       "created": "2026-05-25",
-      "updated": "2026-05-27",
+      "updated": "2026-06-08",
       "resolutiondate": "",
       "labels": [
         "SEM"
@@ -1152,7 +1250,7 @@
       "assignee": "Adrià Sastre",
       "issuetype": "Task",
       "created": "2026-05-25",
-      "updated": "2026-05-25",
+      "updated": "2026-06-08",
       "resolutiondate": "",
       "labels": [
         "Libeen"
@@ -1160,13 +1258,13 @@
     },
     {
       "key": "PS-5627",
-      "summary": "Tendam - Bot Fifty - Update 48",
+      "summary": "Tendam - Bot Fifty - Update bot version and Configure automatic closure of idle cases after 3 hours (WS)",
       "status": "To Do",
       "status_category": "To Do",
       "assignee": null,
       "issuetype": "Task",
       "created": "2026-05-25",
-      "updated": "2026-05-25",
+      "updated": "2026-06-08",
       "resolutiondate": "",
       "labels": [
         "Tendam"
@@ -1174,13 +1272,13 @@
     },
     {
       "key": "PS-5626",
-      "summary": "Tendam - Bot Dash & Starts - Update 48",
+      "summary": "Tendam - Bot Dash & Starts - Update bot version and Configure automatic closure of idle cases after 3 hours (WS)",
       "status": "To Do",
       "status_category": "To Do",
       "assignee": null,
       "issuetype": "Task",
       "created": "2026-05-25",
-      "updated": "2026-05-25",
+      "updated": "2026-06-08",
       "resolutiondate": "",
       "labels": [
         "Tendam"
@@ -1188,13 +1286,13 @@
     },
     {
       "key": "PS-5625",
-      "summary": "Tendam - Bot Hoss Intropia - Update 48",
+      "summary": "Tendam - Bot Hoss Intropia - Update bot version and Configure automatic closure of idle cases after 3 hours (WS)",
       "status": "To Do",
       "status_category": "To Do",
       "assignee": null,
       "issuetype": "Task",
       "created": "2026-05-25",
-      "updated": "2026-05-25",
+      "updated": "2026-06-08",
       "resolutiondate": "",
       "labels": [
         "Tendam"
@@ -1202,13 +1300,13 @@
     },
     {
       "key": "PS-5624",
-      "summary": "Tendam - Bot Slowlove - Update 48",
+      "summary": "Tendam - Bot Slowlove - Update bot version and Configure automatic closure of idle cases after 3 hours (WS)",
       "status": "To Do",
       "status_category": "To Do",
       "assignee": null,
       "issuetype": "Task",
       "created": "2026-05-25",
-      "updated": "2026-05-25",
+      "updated": "2026-06-08",
       "resolutiondate": "",
       "labels": [
         "Tendam"
@@ -1217,12 +1315,12 @@
     {
       "key": "PS-5623",
       "summary": "Tendam - Bot Cortefield - Update 48",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Closed",
+      "status_category": "Done",
       "assignee": null,
       "issuetype": "Task",
       "created": "2026-05-25",
-      "updated": "2026-05-25",
+      "updated": "2026-06-08",
       "resolutiondate": "",
       "labels": [
         "Tendam"
@@ -1231,12 +1329,12 @@
     {
       "key": "PS-5622",
       "summary": "Tendam - Bot SPF - update 48",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Closed",
+      "status_category": "Done",
       "assignee": null,
       "issuetype": "Task",
       "created": "2026-05-25",
-      "updated": "2026-05-25",
+      "updated": "2026-06-08",
       "resolutiondate": "",
       "labels": [
         "Tendam"
@@ -1245,12 +1343,12 @@
     {
       "key": "PS-5621",
       "summary": "Tendam - Bot Women'secret - update 48",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Closed",
+      "status_category": "Done",
       "assignee": null,
       "issuetype": "Task",
       "created": "2026-05-25",
-      "updated": "2026-05-25",
+      "updated": "2026-06-08",
       "resolutiondate": "",
       "labels": [
         "Tendam"
@@ -1259,12 +1357,12 @@
     {
       "key": "PS-5620",
       "summary": "Tendam - Actualizar todos los bots a la versión 48 mínimo para poder poner Language Detection",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Closed",
+      "status_category": "Done",
       "assignee": null,
       "issuetype": "Epic",
       "created": "2026-05-25",
-      "updated": "2026-06-01",
+      "updated": "2026-06-08",
       "resolutiondate": "",
       "labels": [
         "Tendam"
@@ -1341,12 +1439,12 @@
     {
       "key": "PS-5614",
       "summary": "Tendam – Enviar a Fátima la lista de pedidos en standby (casos \"not found\" API)",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Marta Marron",
       "issuetype": "Task",
       "created": "2026-05-22",
-      "updated": "2026-05-22",
+      "updated": "2026-06-08",
       "resolutiondate": "",
       "labels": [
         "Tendam"
@@ -1753,7 +1851,7 @@
       "assignee": "Vicky Correbo",
       "issuetype": "Task",
       "created": "2026-05-19",
-      "updated": "2026-05-22",
+      "updated": "2026-06-08",
       "resolutiondate": "",
       "labels": [
         "AirEuropa"
@@ -1776,12 +1874,12 @@
     {
       "key": "PS-5583",
       "summary": "Air Europa - Update AVA endpoint to v2",
-      "status": "APPROVED FOR PRODUCTION",
+      "status": "Done",
       "status_category": "Done",
       "assignee": "Alexander Skalatskiy",
       "issuetype": "Task",
       "created": "2026-05-18",
-      "updated": "2026-06-03",
+      "updated": "2026-06-08",
       "resolutiondate": "",
       "labels": [
         "AirEuropa"
@@ -1804,12 +1902,12 @@
     {
       "key": "PS-5581",
       "summary": "Libeen - Add qualified value tracking to tinyBird",
-      "status": "In Progress",
-      "status_category": "In Progress",
+      "status": "Open",
+      "status_category": "To Do",
       "assignee": "Alexander Skalatskiy",
       "issuetype": "Task",
       "created": "2026-05-18",
-      "updated": "2026-05-29",
+      "updated": "2026-06-08",
       "resolutiondate": "",
       "labels": [
         "Libeen"
@@ -1837,7 +1935,7 @@
       "assignee": "Adrià Sastre",
       "issuetype": "Task",
       "created": "2026-05-18",
-      "updated": "2026-05-29",
+      "updated": "2026-06-08",
       "resolutiondate": "",
       "labels": [
         "Fenie_Energia"
@@ -2323,12 +2421,12 @@
     {
       "key": "PS-5542",
       "summary": "TMB - Prepare WhatsApp Demo",
-      "status": "In Progress",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Francisca Martelli",
       "issuetype": "Task",
       "created": "2026-05-11",
-      "updated": "2026-05-26",
+      "updated": "2026-06-08",
       "resolutiondate": "",
       "labels": [
         "TMB"
@@ -2680,7 +2778,7 @@
       "assignee": "Alexander Skalatskiy",
       "issuetype": "Task",
       "created": "2026-05-07",
-      "updated": "2026-05-21",
+      "updated": "2026-06-08",
       "resolutiondate": "",
       "labels": [
         "Michael-Kors"
@@ -2750,7 +2848,7 @@
       "assignee": "Alexander Skalatskiy",
       "issuetype": "Task",
       "created": "2026-05-07",
-      "updated": "2026-06-01",
+      "updated": "2026-06-08",
       "resolutiondate": "",
       "labels": [
         "Michael-Kors"
@@ -2764,7 +2862,7 @@
       "assignee": "Alexander Skalatskiy",
       "issuetype": "Task",
       "created": "2026-05-07",
-      "updated": "2026-06-01",
+      "updated": "2026-06-08",
       "resolutiondate": "",
       "labels": [
         "Michael-Kors"
@@ -2829,12 +2927,12 @@
     {
       "key": "PS-5505",
       "summary": "JetSMART - Bugs detectados en compra de opcionales",
-      "status": "In Review",
+      "status": "Ready to Deliver",
       "status_category": "In Progress",
       "assignee": "Pep Alonso",
       "issuetype": "Bug",
       "created": "2026-05-06",
-      "updated": "2026-05-18",
+      "updated": "2026-06-08",
       "resolutiondate": "",
       "labels": [
         "JetSMART"
@@ -3046,12 +3144,12 @@
     {
       "key": "PS-5489",
       "summary": "Air Europa - Delete in staging the code adjustment meant to send specific message to users sending audios",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Alexander Skalatskiy",
       "issuetype": "Task",
       "created": "2026-05-04",
-      "updated": "2026-06-01",
+      "updated": "2026-06-08",
       "resolutiondate": "",
       "labels": [
         "AirEuropa"
@@ -3254,12 +3352,12 @@
     {
       "key": "PS-5473",
       "summary": "Rag & Bone - Potential adjustment in csv files we deposit in Concentrix SFTP",
-      "status": "Ready for review",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Adrià Sastre",
       "issuetype": "Task",
       "created": "2026-04-29",
-      "updated": "2026-06-01",
+      "updated": "2026-06-08",
       "resolutiondate": "",
       "labels": [
         "Rag&Bone"
@@ -3420,12 +3518,12 @@
     {
       "key": "PS-5461",
       "summary": "TMB - Prompting - Bus Lines",
-      "status": "In Progress",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Francisca Martelli",
       "issuetype": "Task",
       "created": "2026-04-28",
-      "updated": "2026-05-11",
+      "updated": "2026-06-08",
       "resolutiondate": "",
       "labels": [
         "TMB"
@@ -3602,12 +3700,12 @@
     {
       "key": "PS-5447",
       "summary": "RACC - New template and flow in Flowbuilder",
-      "status": "Ready to Deliver",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Aitor Casas",
       "issuetype": "Task",
       "created": "2026-04-27",
-      "updated": "2026-05-04",
+      "updated": "2026-06-08",
       "resolutiondate": "",
       "labels": [
         "RACC"
@@ -3811,7 +3909,7 @@
       "assignee": null,
       "issuetype": "Task",
       "created": "2026-04-23",
-      "updated": "2026-05-05",
+      "updated": "2026-06-08",
       "resolutiondate": "",
       "labels": [
         "AirEuropa"
@@ -3839,7 +3937,7 @@
       "assignee": "Evgeni Slavyanov",
       "issuetype": "Task",
       "created": "2026-04-23",
-      "updated": "2026-06-01",
+      "updated": "2026-06-08",
       "resolutiondate": "",
       "labels": [
         "AirEuropa"
@@ -4474,12 +4572,12 @@
     {
       "key": "PS-5380",
       "summary": "Alsa - Investigation: discrepancies in tools activation ",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Closed",
+      "status_category": "Done",
       "assignee": null,
       "issuetype": "Task",
       "created": "2026-04-17",
-      "updated": "2026-04-17",
+      "updated": "2026-06-08",
       "resolutiondate": "",
       "labels": [
         "Alsa"
@@ -7244,7 +7342,7 @@
       "assignee": "Julieta Mezza",
       "issuetype": "Task",
       "created": "2026-03-11",
-      "updated": "2026-04-27",
+      "updated": "2026-06-08",
       "resolutiondate": "",
       "labels": [
         "AirEuropa"
@@ -10805,12 +10903,12 @@
     {
       "key": "PS-4890",
       "summary": "Rag & Bone - Launch WhatsApp channel",
-      "status": "In Progress",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Francisca Martelli",
       "issuetype": "Epic",
       "created": "2026-01-25",
-      "updated": "2026-05-18",
+      "updated": "2026-06-08",
       "resolutiondate": "",
       "labels": [
         "Rag&Bone"
@@ -11183,12 +11281,12 @@
     {
       "key": "PS-4861",
       "summary": "Occident - Review how Occident can be autonomous adding Agencies phone numbers to the bot",
-      "status": "Open",
+      "status": "To Do",
       "status_category": "To Do",
-      "assignee": null,
+      "assignee": "Adrià Sastre",
       "issuetype": "Task",
       "created": "2026-01-19",
-      "updated": "2026-04-27",
+      "updated": "2026-06-08",
       "resolutiondate": "",
       "labels": [
         "occident"
@@ -24005,10 +24103,10 @@
       "summary": "Air Europa - Consultar reserva - API Review",
       "status": "Done",
       "status_category": "Done",
-      "assignee": null,
+      "assignee": "Julieta Mezza",
       "issuetype": "Task",
       "created": "2025-04-08",
-      "updated": "2026-06-02",
+      "updated": "2026-06-08",
       "resolutiondate": "",
       "labels": [
         "AirEuropa"
