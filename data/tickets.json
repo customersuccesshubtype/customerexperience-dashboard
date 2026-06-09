@@ -1,6 +1,62 @@
 {
-  "last_updated": "2026-06-08 11:55 UTC",
+  "last_updated": "2026-06-09 10:32 UTC",
   "tickets": [
+    {
+      "key": "PS-5721",
+      "summary": "Ralph Lauren. ai tags",
+      "status": "In Progress",
+      "status_category": "In Progress",
+      "assignee": "Lorena Sánchez-Toril Nicolás",
+      "issuetype": "Task",
+      "created": "2026-06-09",
+      "updated": "2026-06-09",
+      "resolutiondate": "",
+      "labels": [
+        "Ralph_Lauren"
+      ]
+    },
+    {
+      "key": "PS-5720",
+      "summary": "TMB - Upgrade Open AI Model to 5.4",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Pep Alonso",
+      "issuetype": "Task",
+      "created": "2026-06-09",
+      "updated": "2026-06-09",
+      "resolutiondate": "",
+      "labels": [
+        "TMB"
+      ]
+    },
+    {
+      "key": "PS-5719",
+      "summary": "Tendam- WS Simpl - Update bot version and Configure automatic closing of idle cases after 3 hours",
+      "status": "In production",
+      "status_category": "Done",
+      "assignee": "Evgeni Slavyanov",
+      "issuetype": "Task",
+      "created": "2026-06-08",
+      "updated": "2026-06-09",
+      "resolutiondate": "",
+      "labels": [
+        "Tendam"
+      ]
+    },
+    {
+      "key": "PS-5718",
+      "summary": "RACC - Cuando ponen las keywords no siempre les llevamos a menu de ahorro energético",
+      "status": "Done",
+      "status_category": "Done",
+      "assignee": "Adrià Sastre",
+      "issuetype": "Bug",
+      "created": "2026-06-08",
+      "updated": "2026-06-09",
+      "resolutiondate": "",
+      "labels": [
+        "RACC"
+      ]
+    },
     {
       "key": "PS-5717",
       "summary": "Fenie Energia - Interacción con un AI Agent propio",
@@ -20,7 +76,7 @@
       "summary": "Tendam- Springfield - Update bot version and Configure automatic closing of idle cases after 3 hours",
       "status": "To Do",
       "status_category": "To Do",
-      "assignee": "Evgeni Slavyanov",
+      "assignee": null,
       "issuetype": "Task",
       "created": "2026-06-08",
       "updated": "2026-06-08",
@@ -34,7 +90,7 @@
       "summary": "Tendam - Cortefiel - Update bot version and Configure Automatic Closing of idle cases after 3 hours",
       "status": "To Do",
       "status_category": "To Do",
-      "assignee": "Evgeni Slavyanov",
+      "assignee": null,
       "issuetype": "Task",
       "created": "2026-06-08",
       "updated": "2026-06-08",
@@ -74,12 +130,12 @@
     {
       "key": "PS-5712",
       "summary": "Air Europa - Send initial greeting with gdpr policy to people that don't accepted in the past",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Ready for review",
+      "status_category": "In Progress",
       "assignee": "Alexander Skalatskiy",
       "issuetype": "Task",
       "created": "2026-06-08",
-      "updated": "2026-06-08",
+      "updated": "2026-06-09",
       "resolutiondate": "",
       "labels": [
         "AirEuropa"
@@ -172,12 +228,12 @@
     {
       "key": "PS-5705",
       "summary": "Soledad - error on client prod investigate ",
-      "status": "In Progress",
+      "status": "Ready for review",
       "status_category": "In Progress",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-06-05",
-      "updated": "2026-06-08",
+      "updated": "2026-06-09",
       "resolutiondate": "",
       "labels": [
         "Soledad"
@@ -214,12 +270,12 @@
     {
       "key": "PS-5702",
       "summary": "Air Europa - Update bot for language automatic detection",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Ready for review",
+      "status_category": "In Progress",
       "assignee": "Evgeni Slavyanov",
       "issuetype": "Task",
       "created": "2026-06-05",
-      "updated": "2026-06-05",
+      "updated": "2026-06-09",
       "resolutiondate": "",
       "labels": [
         "AirEuropa"
@@ -284,8 +340,8 @@
     {
       "key": "PS-5697",
       "summary": "Occident - New Agency \"Atocha\"",
-      "status": "Ready to Deliver",
-      "status_category": "In Progress",
+      "status": "APPROVED FOR PRODUCTION",
+      "status_category": "Done",
       "assignee": "Pep Alonso",
       "issuetype": "Task",
       "created": "2026-06-04",
@@ -382,12 +438,12 @@
     {
       "key": "PS-5690",
       "summary": "Michael Kors - Update bot version so we can enable Automatic Language detection and Audio transcript",
-      "status": "Ready to Deliver",
-      "status_category": "In Progress",
+      "status": "APPROVED FOR PRODUCTION",
+      "status_category": "Done",
       "assignee": "Evgeni Slavyanov",
       "issuetype": "Task",
       "created": "2026-06-03",
-      "updated": "2026-06-08",
+      "updated": "2026-06-09",
       "resolutiondate": "",
       "labels": [
         "Michael-Kors"
@@ -439,12 +495,12 @@
     {
       "key": "PS-5686",
       "summary": "Rag & Bone - Update bot version",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "In Progress",
+      "status_category": "In Progress",
       "assignee": "Evgeni Slavyanov",
       "issuetype": "Task",
       "created": "2026-06-03",
-      "updated": "2026-06-08",
+      "updated": "2026-06-09",
       "resolutiondate": "",
       "labels": [
         "Rag&Bone"
@@ -873,7 +929,7 @@
     {
       "key": "PS-5655",
       "summary": "Occident - Introduce new agencias in the code",
-      "status": "Done",
+      "status": "APPROVED FOR PRODUCTION",
       "status_category": "Done",
       "assignee": "Pep Alonso",
       "issuetype": "Task",
@@ -2449,12 +2505,12 @@
     {
       "key": "PS-5540",
       "summary": "Occident - Replace parameter NUMPERS y REFPERS for \"codigoUsuario\" in Inicio de Conversación",
-      "status": "Ready to Deliver",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Evgeni Slavyanov",
       "issuetype": "Task",
       "created": "2026-05-11",
-      "updated": "2026-05-18",
+      "updated": "2026-06-09",
       "resolutiondate": "",
       "labels": [
         "occident"
@@ -3186,12 +3242,12 @@
     {
       "key": "PS-5486",
       "summary": "Occident - Coexistence: Detect \"'whatsapp_business_app_echo': True}\" in conversation's extra data and do a Handoff",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "In Progress",
+      "status_category": "In Progress",
       "assignee": "Adrià Sastre",
       "issuetype": "Task",
       "created": "2026-05-04",
-      "updated": "2026-06-05",
+      "updated": "2026-06-08",
       "resolutiondate": "",
       "labels": [
         "occident"
@@ -4933,12 +4989,12 @@
     {
       "key": "PS-5353",
       "summary": "Jetsmart - Bags Ssr step UI",
-      "status": "In Progress",
+      "status": "Ready for review",
       "status_category": "In Progress",
       "assignee": "Pep Alonso",
       "issuetype": "Task",
       "created": "2026-04-13",
-      "updated": "2026-06-02",
+      "updated": "2026-06-08",
       "resolutiondate": "",
       "labels": [
         "JetSmart"
@@ -7379,12 +7435,12 @@
     {
       "key": "PS-5169",
       "summary": "Occident - Implement adjustments in the way we are communicating with their systems",
-      "status": "Ready to Deliver",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Pep Alonso",
       "issuetype": "Task",
       "created": "2026-03-10",
-      "updated": "2026-04-07",
+      "updated": "2026-06-09",
       "resolutiondate": "",
       "labels": [
         "occident"
@@ -7407,12 +7463,12 @@
     {
       "key": "PS-5167",
       "summary": "Occident - Implement changes in the way we are communicating data",
-      "status": "Ready to Deliver",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Julieta Mezza",
       "issuetype": "Epic",
       "created": "2026-03-10",
-      "updated": "2026-05-18",
+      "updated": "2026-06-09",
       "resolutiondate": "",
       "labels": [
         "occident"
