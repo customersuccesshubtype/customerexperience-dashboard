@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-10 11:03 UTC",
+  "last_updated": "2026-06-11 11:48 UTC",
   "opportunities": [
     {
       "id": "006Sa00000hitOJIAY",
@@ -1501,18 +1501,18 @@
       "id": "006Sa00000WPITyIAP",
       "name": "2026-R-Retorna-Chile",
       "type": "Renewal",
-      "stage": "Waiting for signature",
-      "is_closed": false,
-      "is_won": false,
-      "probability": 90.0,
+      "stage": "Closed Won",
+      "is_closed": true,
+      "is_won": true,
+      "probability": 100.0,
       "amount": 50234.76,
       "arr": 50234.76,
       "owner": "Marta Marron",
       "cs_lead": "Francisca Martelli",
       "account": "Retorna",
       "created": "2025-11-30",
-      "close_date": "2026-05-28",
-      "start_date": "2026-06-10"
+      "close_date": "2026-06-10",
+      "start_date": "2026-06-12"
     },
     {
       "id": "006Sa00000VojuXIAR",
