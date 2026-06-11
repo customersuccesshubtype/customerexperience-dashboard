@@ -1,15 +1,125 @@
 {
-  "last_updated": "2026-06-10 10:53 UTC",
+  "last_updated": "2026-06-11 11:21 UTC",
   "tickets": [
     {
+      "key": "PS-5734",
+      "summary": "Libeen - Modify monthly income treshold and minimum savings Euros",
+      "status": "Ready for review",
+      "status_category": "In Progress",
+      "assignee": "Alexander Skalatskiy",
+      "issuetype": "Task",
+      "created": "2026-06-11",
+      "updated": "2026-06-11",
+      "resolutiondate": "",
+      "labels": [
+        "Libeen"
+      ]
+    },
+    {
+      "key": "PS-5733",
+      "summary": "Libeen - Create Meta Template",
+      "status": "Done",
+      "status_category": "Done",
+      "assignee": "Aitor Casas",
+      "issuetype": "Task",
+      "created": "2026-06-11",
+      "updated": "2026-06-11",
+      "resolutiondate": "",
+      "labels": []
+    },
+    {
+      "key": "PS-5732",
+      "summary": "Verisure FR - Create Meta Templates",
+      "status": "Done",
+      "status_category": "Done",
+      "assignee": "Aitor Casas",
+      "issuetype": "Task",
+      "created": "2026-06-10",
+      "updated": "2026-06-11",
+      "resolutiondate": "",
+      "labels": [
+        "Verisure-FR"
+      ]
+    },
+    {
+      "key": "PS-5731",
+      "summary": "Ralph Lauren - Include final onboarding video sent by Shalini",
+      "status": "Done",
+      "status_category": "Done",
+      "assignee": "Andrea Talal Haidar",
+      "issuetype": "Task",
+      "created": "2026-06-10",
+      "updated": "2026-06-11",
+      "resolutiondate": "",
+      "labels": [
+        "Ralph_Lauren"
+      ]
+    },
+    {
+      "key": "PS-5730",
+      "summary": "Michael Kors - bot is already updated to support Language selection - review which changes we would need to do at flow level",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Aitor Casas",
+      "issuetype": "Task",
+      "created": "2026-06-10",
+      "updated": "2026-06-10",
+      "resolutiondate": "",
+      "labels": [
+        "Michael-Kors"
+      ]
+    },
+    {
+      "key": "PS-5729",
+      "summary": "EcoPiezas — Facilitar documentación técnica para envío de WhatsApp vía API tras llamada perdida",
+      "status": "Done",
+      "status_category": "Done",
+      "assignee": "Aitor Casas",
+      "issuetype": "Task",
+      "created": "2026-06-10",
+      "updated": "2026-06-11",
+      "resolutiondate": "",
+      "labels": [
+        "EcoPiezas"
+      ]
+    },
+    {
+      "key": "PS-5728",
+      "summary": "Verisure Spain - Bot_id Mapfre incorrect automatic transfer",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Pep Alonso",
+      "issuetype": "Task",
+      "created": "2026-06-10",
+      "updated": "2026-06-11",
+      "resolutiondate": "",
+      "labels": [
+        "Verisure"
+      ]
+    },
+    {
+      "key": "PS-5727",
+      "summary": "Occident - Tasks Mataró Coexistence ",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Aitor Casas",
+      "issuetype": "Task",
+      "created": "2026-06-10",
+      "updated": "2026-06-10",
+      "resolutiondate": "",
+      "labels": [
+        "occident"
+      ]
+    },
+    {
       "key": "PS-5726",
-      "summary": "Libeen - Error when booking and phone field not being sent to HubSpot (this happens to new clients that do not exist in Hubspot)",
+      "summary": "Libeen - Error when booking\"phone field not being sent to HubSpot\" (this happens to new clients that do not exist in Hubspot)",
       "status": "To Do",
       "status_category": "To Do",
       "assignee": "Adrià Sastre",
       "issuetype": "Discovery Task",
       "created": "2026-06-09",
-      "updated": "2026-06-09",
+      "updated": "2026-06-10",
       "resolutiondate": "",
       "labels": [
         "Libeen"
@@ -18,12 +128,12 @@
     {
       "key": "PS-5725",
       "summary": "Tendam - Tendam SPF Simpl - Update bot version and Configure automatic closing of idle cases after 3 hours",
-      "status": "To Do",
-      "status_category": "To Do",
-      "assignee": null,
+      "status": "Ready for review",
+      "status_category": "In Progress",
+      "assignee": "Evgeni Slavyanov",
       "issuetype": "Task",
       "created": "2026-06-09",
-      "updated": "2026-06-09",
+      "updated": "2026-06-11",
       "resolutiondate": "",
       "labels": [
         "Tendam"
@@ -145,12 +255,12 @@
     {
       "key": "PS-5716",
       "summary": "Tendam- Springfield - Update bot version and Configure automatic closing of idle cases after 3 hours",
-      "status": "To Do",
-      "status_category": "To Do",
-      "assignee": null,
+      "status": "Ready for review",
+      "status_category": "In Progress",
+      "assignee": "Evgeni Slavyanov",
       "issuetype": "Task",
       "created": "2026-06-08",
-      "updated": "2026-06-08",
+      "updated": "2026-06-11",
       "resolutiondate": "",
       "labels": [
         "Tendam"
@@ -159,12 +269,12 @@
     {
       "key": "PS-5715",
       "summary": "Tendam - Cortefiel - Update bot version and Configure Automatic Closing of idle cases after 3 hours",
-      "status": "Ready for review",
-      "status_category": "In Progress",
+      "status": "In production",
+      "status_category": "Done",
       "assignee": "Evgeni Slavyanov",
       "issuetype": "Task",
       "created": "2026-06-08",
-      "updated": "2026-06-10",
+      "updated": "2026-06-11",
       "resolutiondate": "",
       "labels": [
         "Tendam"
@@ -187,12 +297,12 @@
     {
       "key": "PS-5713",
       "summary": "Occident - New WhatsApp number (Coexistence) to Tot Risc Catalunya(\"Vendrell\" office)",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Pep Alonso",
       "issuetype": "Task",
       "created": "2026-06-08",
-      "updated": "2026-06-09",
+      "updated": "2026-06-11",
       "resolutiondate": "",
       "labels": [
         "occident"
@@ -411,12 +521,12 @@
     {
       "key": "PS-5697",
       "summary": "Occident - New Agency \"Atocha\"",
-      "status": "APPROVED FOR PRODUCTION",
+      "status": "Done",
       "status_category": "Done",
       "assignee": "Pep Alonso",
       "issuetype": "Task",
       "created": "2026-06-04",
-      "updated": "2026-06-08",
+      "updated": "2026-06-11",
       "resolutiondate": "",
       "labels": [
         "occident"
@@ -509,12 +619,12 @@
     {
       "key": "PS-5690",
       "summary": "Michael Kors - Update bot version so we can enable Automatic Language detection and Audio transcript",
-      "status": "APPROVED FOR PRODUCTION",
+      "status": "Done",
       "status_category": "Done",
       "assignee": "Evgeni Slavyanov",
       "issuetype": "Task",
       "created": "2026-06-03",
-      "updated": "2026-06-09",
+      "updated": "2026-06-10",
       "resolutiondate": "",
       "labels": [
         "Michael-Kors"
@@ -552,12 +662,12 @@
     {
       "key": "PS-5687",
       "summary": "Air Europa - Review why we are not displaying rating",
-      "status": "In Progress",
+      "status": "Ready for review",
       "status_category": "In Progress",
       "assignee": "Alexander Skalatskiy",
       "issuetype": "Bug",
       "created": "2026-06-03",
-      "updated": "2026-06-09",
+      "updated": "2026-06-11",
       "resolutiondate": "",
       "labels": [
         "AirEuropa"
@@ -566,12 +676,12 @@
     {
       "key": "PS-5686",
       "summary": "Rag & Bone - Update bot version",
-      "status": "Ready for review",
-      "status_category": "In Progress",
+      "status": "APPROVED FOR PRODUCTION",
+      "status_category": "Done",
       "assignee": "Evgeni Slavyanov",
       "issuetype": "Task",
       "created": "2026-06-03",
-      "updated": "2026-06-09",
+      "updated": "2026-06-10",
       "resolutiondate": "",
       "labels": [
         "Rag&Bone"
@@ -720,7 +830,7 @@
     {
       "key": "PS-5675",
       "summary": "Libeen - Send chat ID to HubSpot",
-      "status": "In production",
+      "status": "Done",
       "status_category": "Done",
       "assignee": "Alexander Skalatskiy",
       "issuetype": "Task",
@@ -748,12 +858,12 @@
     {
       "key": "PS-5673",
       "summary": "Air Europa - AVA is not receiving input sometimes",
-      "status": "In Progress",
+      "status": "Ready for review",
       "status_category": "In Progress",
       "assignee": "Alexander Skalatskiy",
       "issuetype": "Bug",
       "created": "2026-06-02",
-      "updated": "2026-06-09",
+      "updated": "2026-06-11",
       "resolutiondate": "",
       "labels": [
         "AirEuropa"
@@ -865,7 +975,7 @@
       "assignee": "Andrea Talal Haidar",
       "issuetype": "Task",
       "created": "2026-05-29",
-      "updated": "2026-06-06",
+      "updated": "2026-06-10",
       "resolutiondate": "",
       "labels": [
         "Ralph_Lauren"
@@ -1000,12 +1110,12 @@
     {
       "key": "PS-5655",
       "summary": "Occident - Introduce new agencias in the code",
-      "status": "APPROVED FOR PRODUCTION",
+      "status": "Done",
       "status_category": "Done",
       "assignee": "Pep Alonso",
       "issuetype": "Task",
       "created": "2026-05-29",
-      "updated": "2026-06-08",
+      "updated": "2026-06-11",
       "resolutiondate": "",
       "labels": [
         "occident"
@@ -2282,12 +2392,12 @@
     {
       "key": "PS-5563",
       "summary": "Ralph Lauren - New sign up flow for internal users",
-      "status": "Ready to Deliver",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Andrea Talal Haidar",
       "issuetype": "Task",
       "created": "2026-05-14",
-      "updated": "2026-05-27",
+      "updated": "2026-06-10",
       "resolutiondate": "",
       "labels": [
         "RalphLauren"
@@ -2914,12 +3024,12 @@
     {
       "key": "PS-5515",
       "summary": "Multiasistencia - Santander - Integrate Middleware to Claim webview",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "In Progress",
+      "status_category": "In Progress",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-05-07",
-      "updated": "2026-05-28",
+      "updated": "2026-06-11",
       "resolutiondate": "",
       "labels": [
         "Multiasistencia"
@@ -5686,12 +5796,12 @@
     {
       "key": "PS-5305",
       "summary": "Allianz ES - Development new webview \"Defensor del asegurado\"",
-      "status": "In Progress",
+      "status": "In Review",
       "status_category": "In Progress",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-04-08",
-      "updated": "2026-06-03",
+      "updated": "2026-06-11",
       "resolutiondate": "",
       "labels": [
         "Allianz-ES"
@@ -7329,7 +7439,7 @@
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Epic",
       "created": "2026-03-11",
-      "updated": "2026-05-07",
+      "updated": "2026-06-11",
       "resolutiondate": "",
       "labels": [
         "Multiasistencia"
@@ -13465,12 +13575,12 @@
     {
       "key": "PS-4693",
       "summary": "Allianz Spain - New webview to open claim to \"Defensor del asegurado\"",
-      "status": "In Progress",
+      "status": "Ready for review",
       "status_category": "In Progress",
       "assignee": "Adrià Sastre",
       "issuetype": "Epic",
       "created": "2025-12-02",
-      "updated": "2026-05-22",
+      "updated": "2026-06-11",
       "resolutiondate": "",
       "labels": [
         "Allianz-ES"
@@ -14570,7 +14680,7 @@
       "assignee": "Julieta Mezza",
       "issuetype": "Epic",
       "created": "2025-11-04",
-      "updated": "2026-05-29",
+      "updated": "2026-06-11",
       "resolutiondate": "",
       "labels": [
         "occident"
