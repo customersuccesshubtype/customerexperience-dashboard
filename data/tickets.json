@@ -1,11 +1,67 @@
 {
-  "last_updated": "2026-06-11 11:21 UTC",
+  "last_updated": "2026-06-12 10:59 UTC",
   "tickets": [
+    {
+      "key": "PS-5738",
+      "summary": "Libeen - Eliminar el requisito de trabajar y vivir en España (no preguntarlo y no requisito para cualificar)",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": null,
+      "issuetype": "Task",
+      "created": "2026-06-11",
+      "updated": "2026-06-11",
+      "resolutiondate": "",
+      "labels": [
+        "Libeen"
+      ]
+    },
+    {
+      "key": "PS-5737",
+      "summary": "Michael Kors - Desactivar audio transcriptions y modificar el flow para que los audios vayan a fallback",
+      "status": "Ready for review",
+      "status_category": "In Progress",
+      "assignee": "Aitor Casas",
+      "issuetype": "Task",
+      "created": "2026-06-11",
+      "updated": "2026-06-12",
+      "resolutiondate": "",
+      "labels": [
+        "Michael-Kors"
+      ]
+    },
+    {
+      "key": "PS-5736",
+      "summary": "Ralph Lauren - Zendesk integration adjustment",
+      "status": "Done",
+      "status_category": "Done",
+      "assignee": "Pep Alonso",
+      "issuetype": "Task",
+      "created": "2026-06-11",
+      "updated": "2026-06-11",
+      "resolutiondate": "",
+      "labels": [
+        "RalphLauren"
+      ]
+    },
+    {
+      "key": "PS-5735",
+      "summary": "Air Europa - Link success event with Flow Builder node so we can see it in conversations analytics",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Alexander Skalatskiy",
+      "issuetype": "Bug",
+      "created": "2026-06-11",
+      "updated": "2026-06-11",
+      "resolutiondate": "",
+      "labels": [
+        "AirEuropa"
+      ]
+    },
     {
       "key": "PS-5734",
       "summary": "Libeen - Modify monthly income treshold and minimum savings Euros",
-      "status": "Ready for review",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Alexander Skalatskiy",
       "issuetype": "Task",
       "created": "2026-06-11",
@@ -25,7 +81,9 @@
       "created": "2026-06-11",
       "updated": "2026-06-11",
       "resolutiondate": "",
-      "labels": []
+      "labels": [
+        "Libeen"
+      ]
     },
     {
       "key": "PS-5732",
@@ -44,8 +102,8 @@
     {
       "key": "PS-5731",
       "summary": "Ralph Lauren - Include final onboarding video sent by Shalini",
-      "status": "Done",
-      "status_category": "Done",
+      "status": "In Progress",
+      "status_category": "In Progress",
       "assignee": "Andrea Talal Haidar",
       "issuetype": "Task",
       "created": "2026-06-10",
@@ -86,8 +144,8 @@
     {
       "key": "PS-5728",
       "summary": "Verisure Spain - Bot_id Mapfre incorrect automatic transfer",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Pep Alonso",
       "issuetype": "Task",
       "created": "2026-06-10",
@@ -116,10 +174,10 @@
       "summary": "Libeen - Error when booking\"phone field not being sent to HubSpot\" (this happens to new clients that do not exist in Hubspot)",
       "status": "To Do",
       "status_category": "To Do",
-      "assignee": "Adrià Sastre",
+      "assignee": "Alexander Skalatskiy",
       "issuetype": "Discovery Task",
       "created": "2026-06-09",
-      "updated": "2026-06-10",
+      "updated": "2026-06-12",
       "resolutiondate": "",
       "labels": [
         "Libeen"
@@ -229,10 +287,10 @@
       "summary": "RACC - Cuando ponen las keywords no siempre les llevamos a menu de ahorro energético",
       "status": "Done",
       "status_category": "Done",
-      "assignee": "Adrià Sastre",
+      "assignee": "Aitor Casas",
       "issuetype": "Bug",
       "created": "2026-06-08",
-      "updated": "2026-06-09",
+      "updated": "2026-06-12",
       "resolutiondate": "",
       "labels": [
         "RACC"
@@ -269,7 +327,7 @@
     {
       "key": "PS-5715",
       "summary": "Tendam - Cortefiel - Update bot version and Configure Automatic Closing of idle cases after 3 hours",
-      "status": "In production",
+      "status": "Done",
       "status_category": "Done",
       "assignee": "Evgeni Slavyanov",
       "issuetype": "Task",
@@ -285,10 +343,10 @@
       "summary": "Tendam - Configure Automatic Idle Closing for all Tendam Bots",
       "status": "In Progress",
       "status_category": "In Progress",
-      "assignee": null,
+      "assignee": "Marta Marron",
       "issuetype": "Epic",
       "created": "2026-06-08",
-      "updated": "2026-06-08",
+      "updated": "2026-06-11",
       "resolutiondate": "",
       "labels": [
         "Tendam"
@@ -311,12 +369,12 @@
     {
       "key": "PS-5712",
       "summary": "Air Europa - Send initial greeting with gdpr policy to people that don't accepted in the past",
-      "status": "Ready to Deliver",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Alexander Skalatskiy",
       "issuetype": "Task",
       "created": "2026-06-08",
-      "updated": "2026-06-09",
+      "updated": "2026-06-11",
       "resolutiondate": "",
       "labels": [
         "AirEuropa"
@@ -451,12 +509,12 @@
     {
       "key": "PS-5702",
       "summary": "Air Europa - Update bot for language automatic detection",
-      "status": "Ready for review",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Evgeni Slavyanov",
       "issuetype": "Task",
       "created": "2026-06-05",
-      "updated": "2026-06-09",
+      "updated": "2026-06-11",
       "resolutiondate": "",
       "labels": [
         "AirEuropa"
@@ -667,7 +725,7 @@
       "assignee": "Alexander Skalatskiy",
       "issuetype": "Bug",
       "created": "2026-06-03",
-      "updated": "2026-06-11",
+      "updated": "2026-06-12",
       "resolutiondate": "",
       "labels": [
         "AirEuropa"
@@ -1040,12 +1098,12 @@
     {
       "key": "PS-5660",
       "summary": "Tendam - Casos que no se han integrado en InConcert",
-      "status": "Ready for review",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Adrià Sastre",
       "issuetype": "Discovery Task",
       "created": "2026-05-29",
-      "updated": "2026-06-05",
+      "updated": "2026-06-12",
       "resolutiondate": "",
       "labels": [
         "Tendam"
@@ -1498,10 +1556,10 @@
       "summary": "Tendam - Bot Fifty - Update bot version and Configure automatic closure of idle cases after 3 hours (WS)",
       "status": "To Do",
       "status_category": "To Do",
-      "assignee": null,
+      "assignee": "Evgeni Slavyanov",
       "issuetype": "Task",
       "created": "2026-05-25",
-      "updated": "2026-06-08",
+      "updated": "2026-06-11",
       "resolutiondate": "",
       "labels": [
         "Tendam"
@@ -1510,12 +1568,12 @@
     {
       "key": "PS-5626",
       "summary": "Tendam - Bot Dash & Starts - Update bot version and Configure automatic closure of idle cases after 3 hours (WS)",
-      "status": "To Do",
-      "status_category": "To Do",
-      "assignee": null,
+      "status": "In Progress",
+      "status_category": "In Progress",
+      "assignee": "Evgeni Slavyanov",
       "issuetype": "Task",
       "created": "2026-05-25",
-      "updated": "2026-06-08",
+      "updated": "2026-06-12",
       "resolutiondate": "",
       "labels": [
         "Tendam"
@@ -1524,12 +1582,12 @@
     {
       "key": "PS-5625",
       "summary": "Tendam - Bot Hoss Intropia - Update bot version and Configure automatic closure of idle cases after 3 hours (WS)",
-      "status": "To Do",
-      "status_category": "To Do",
-      "assignee": null,
+      "status": "Ready for review",
+      "status_category": "In Progress",
+      "assignee": "Evgeni Slavyanov",
       "issuetype": "Task",
       "created": "2026-05-25",
-      "updated": "2026-06-08",
+      "updated": "2026-06-12",
       "resolutiondate": "",
       "labels": [
         "Tendam"
@@ -1538,12 +1596,12 @@
     {
       "key": "PS-5624",
       "summary": "Tendam - Bot Slowlove - Update bot version and Configure automatic closure of idle cases after 3 hours (WS)",
-      "status": "To Do",
-      "status_category": "To Do",
-      "assignee": null,
+      "status": "Ready for review",
+      "status_category": "In Progress",
+      "assignee": "Evgeni Slavyanov",
       "issuetype": "Task",
       "created": "2026-05-25",
-      "updated": "2026-06-08",
+      "updated": "2026-06-12",
       "resolutiondate": "",
       "labels": [
         "Tendam"
@@ -5128,12 +5186,12 @@
     {
       "key": "PS-5356",
       "summary": "Jetsmart - Extra SSRs step UI",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Ready for review",
+      "status_category": "In Progress",
       "assignee": "Pep Alonso",
       "issuetype": "Task",
       "created": "2026-04-13",
-      "updated": "2026-04-13",
+      "updated": "2026-06-11",
       "resolutiondate": "",
       "labels": [
         "JetSmart"
@@ -5142,12 +5200,12 @@
     {
       "key": "PS-5355",
       "summary": "Jetsmart - FlexiSmart Selection Step UI",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Ready for review",
+      "status_category": "In Progress",
       "assignee": "Pep Alonso",
       "issuetype": "Task",
       "created": "2026-04-13",
-      "updated": "2026-04-13",
+      "updated": "2026-06-11",
       "resolutiondate": "",
       "labels": [
         "JetSmart"
@@ -5156,12 +5214,12 @@
     {
       "key": "PS-5354",
       "summary": "Jetsmart - Seat Selection Step UI",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Ready for review",
+      "status_category": "In Progress",
       "assignee": "Pep Alonso",
       "issuetype": "Task",
       "created": "2026-04-13",
-      "updated": "2026-04-13",
+      "updated": "2026-06-11",
       "resolutiondate": "",
       "labels": [
         "JetSmart"
@@ -11812,12 +11870,12 @@
     {
       "key": "PS-4838",
       "summary": "Retorna - Implement Phone Number custom condition",
-      "status": "In Progress",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Evgeni Slavyanov",
       "issuetype": "Task",
       "created": "2026-01-16",
-      "updated": "2026-06-10",
+      "updated": "2026-06-12",
       "resolutiondate": "",
       "labels": [
         "Retorna"
