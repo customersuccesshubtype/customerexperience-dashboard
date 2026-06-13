@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-12 11:09 UTC",
+  "last_updated": "2026-06-13 10:07 UTC",
   "opportunities": [
     {
       "id": "006Sa00000hitOJIAY",
@@ -957,17 +957,17 @@
       "id": "006Sa00000ZcFMsIAN",
       "name": "2026-U-SegurcaixaAdeslas-AI Copilot",
       "type": "Upsell",
-      "stage": "Opportunity identified",
-      "is_closed": false,
-      "is_won": false,
-      "probability": 10.0,
+      "stage": "Closed Won",
+      "is_closed": true,
+      "is_won": true,
+      "probability": 100.0,
       "amount": 5880.6,
       "arr": 7056.72,
       "owner": "María Sánchez",
       "cs_lead": "",
       "account": "SegurCaixa Adeslas",
       "created": "2026-01-29",
-      "close_date": "2026-04-30",
+      "close_date": "2026-06-12",
       "start_date": "2026-03-01"
     },
     {
