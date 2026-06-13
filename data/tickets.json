@@ -1,6 +1,64 @@
 {
-  "last_updated": "2026-06-12 10:59 UTC",
+  "last_updated": "2026-06-13 09:55 UTC",
   "tickets": [
+    {
+      "key": "PS-5742",
+      "summary": "Ralph Lauren - modify text WA flow ",
+      "status": "Ready for review",
+      "status_category": "In Progress",
+      "assignee": "Lorena Sánchez-Toril Nicolás",
+      "issuetype": "Task",
+      "created": "2026-06-12",
+      "updated": "2026-06-12",
+      "resolutiondate": "",
+      "labels": [
+        "Ralph_Lauren"
+      ]
+    },
+    {
+      "key": "PS-5741",
+      "summary": "Tendam - Cambios hacia atrás en la posición de la cola",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Adrià Sastre",
+      "issuetype": "Task",
+      "created": "2026-06-12",
+      "updated": "2026-06-12",
+      "resolutiondate": "",
+      "labels": [
+        "Tendam"
+      ]
+    },
+    {
+      "key": "PS-5740",
+      "summary": "IN-STORE ONBOARDING - FINAL VERSION",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Andrea Talal Haidar",
+      "issuetype": "Discovery Task",
+      "created": "2026-06-12",
+      "updated": "2026-06-12",
+      "resolutiondate": "",
+      "labels": [
+        "Ralph_Lauren"
+      ]
+    },
+    {
+      "key": "PS-5739",
+      "summary": "WizzAir - Bug -Webchat button error on specific website section",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Alexander Skalatskiy",
+      "issuetype": "Bug",
+      "created": "2026-06-12",
+      "updated": "2026-06-12",
+      "resolutiondate": "",
+      "labels": [
+        "Bug",
+        "WizzAir",
+        "webchat"
+      ]
+    },
     {
       "key": "PS-5738",
       "summary": "Libeen - Eliminar el requisito de trabajar y vivir en España (no preguntarlo y no requisito para cualificar)",
@@ -172,8 +230,8 @@
     {
       "key": "PS-5726",
       "summary": "Libeen - Error when booking\"phone field not being sent to HubSpot\" (this happens to new clients that do not exist in Hubspot)",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "In Progress",
+      "status_category": "In Progress",
       "assignee": "Alexander Skalatskiy",
       "issuetype": "Discovery Task",
       "created": "2026-06-09",
@@ -301,10 +359,10 @@
       "summary": "Fenie Energia - Interacción con un AI Agent propio",
       "status": "To Do",
       "status_category": "To Do",
-      "assignee": null,
+      "assignee": "Adrià Sastre",
       "issuetype": "Discovery Task",
       "created": "2026-06-08",
-      "updated": "2026-06-08",
+      "updated": "2026-06-12",
       "resolutiondate": "",
       "labels": [
         "FenieEnergia"
@@ -1554,12 +1612,12 @@
     {
       "key": "PS-5627",
       "summary": "Tendam - Bot Fifty - Update bot version and Configure automatic closure of idle cases after 3 hours (WS)",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Ready for review",
+      "status_category": "In Progress",
       "assignee": "Evgeni Slavyanov",
       "issuetype": "Task",
       "created": "2026-05-25",
-      "updated": "2026-06-11",
+      "updated": "2026-06-12",
       "resolutiondate": "",
       "labels": [
         "Tendam"
@@ -1568,7 +1626,7 @@
     {
       "key": "PS-5626",
       "summary": "Tendam - Bot Dash & Starts - Update bot version and Configure automatic closure of idle cases after 3 hours (WS)",
-      "status": "In Progress",
+      "status": "Ready for review",
       "status_category": "In Progress",
       "assignee": "Evgeni Slavyanov",
       "issuetype": "Task",
@@ -3068,12 +3126,12 @@
     {
       "key": "PS-5516",
       "summary": "Michael Kors - Implement Middleware to handle WISMO/WISMR calls from webview and bot",
-      "status": "In Progress",
+      "status": "Ready for review",
       "status_category": "In Progress",
       "assignee": "Alexander Skalatskiy",
       "issuetype": "Task",
       "created": "2026-05-07",
-      "updated": "2026-06-09",
+      "updated": "2026-06-12",
       "resolutiondate": "",
       "labels": [
         "Michael-Kors"
