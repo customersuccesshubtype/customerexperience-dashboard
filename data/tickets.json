@@ -1,6 +1,48 @@
 {
-  "last_updated": "2026-06-13 09:55 UTC",
+  "last_updated": "2026-06-14 10:22 UTC",
   "tickets": [
+    {
+      "key": "PS-5745",
+      "summary": "Euroriente - Deploy staging and production bots",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": null,
+      "issuetype": "Task",
+      "created": "2026-06-13",
+      "updated": "2026-06-13",
+      "resolutiondate": "",
+      "labels": [
+        "Euroriente"
+      ]
+    },
+    {
+      "key": "PS-5744",
+      "summary": "Euroriente - Create Organization",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": null,
+      "issuetype": "Task",
+      "created": "2026-06-13",
+      "updated": "2026-06-13",
+      "resolutiondate": "",
+      "labels": [
+        "Euroriente"
+      ]
+    },
+    {
+      "key": "PS-5743",
+      "summary": "Euroriente - 1st Phase",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": null,
+      "issuetype": "Epic",
+      "created": "2026-06-13",
+      "updated": "2026-06-13",
+      "resolutiondate": "",
+      "labels": [
+        "Euroriente"
+      ]
+    },
     {
       "key": "PS-5742",
       "summary": "Ralph Lauren - modify text WA flow ",
