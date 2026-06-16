@@ -1,6 +1,154 @@
 {
-  "last_updated": "2026-06-15 13:10 UTC",
+  "last_updated": "2026-06-16 12:10 UTC",
   "tickets": [
+    {
+      "key": "PS-5762",
+      "summary": "Allianz Partners -  Preparar video para mostrar como funciona la asistencia en carretera",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Vicky Correbo",
+      "issuetype": "Task",
+      "created": "2026-06-16",
+      "updated": "2026-06-16",
+      "resolutiondate": "",
+      "labels": [
+        "AllianzPartners"
+      ]
+    },
+    {
+      "key": "PS-5761",
+      "summary": "Design a web view for offer T&Cs",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Vicky Correbo",
+      "issuetype": "Discovery Task",
+      "created": "2026-06-16",
+      "updated": "2026-06-16",
+      "resolutiondate": "",
+      "labels": []
+    },
+    {
+      "key": "PS-5760",
+      "summary": "Finalize AI Agent delivery proposal --> include Juan's latest feedback",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Andrea Talal Haidar",
+      "issuetype": "Discovery Task",
+      "created": "2026-06-16",
+      "updated": "2026-06-16",
+      "resolutiondate": "",
+      "labels": []
+    },
+    {
+      "key": "PS-5759",
+      "summary": "Verisure Spain - Delete the italian bot and the related code",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Marta Marron",
+      "issuetype": "Task",
+      "created": "2026-06-16",
+      "updated": "2026-06-16",
+      "resolutiondate": "",
+      "labels": [
+        "Verisure_ES"
+      ]
+    },
+    {
+      "key": "PS-5758",
+      "summary": "Allianz Spain - Assess effort for 2 new use cases",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Adrià Sastre",
+      "issuetype": "Discovery Task",
+      "created": "2026-06-16",
+      "updated": "2026-06-16",
+      "resolutiondate": "",
+      "labels": [
+        "Allianz-ES"
+      ]
+    },
+    {
+      "key": "PS-5757",
+      "summary": "Ralph Lauren - carousels for marketing campaign ",
+      "status": "Ready for review",
+      "status_category": "In Progress",
+      "assignee": "Lorena Sánchez-Toril Nicolás",
+      "issuetype": "Task",
+      "created": "2026-06-16",
+      "updated": "2026-06-16",
+      "resolutiondate": "",
+      "labels": [
+        "Ralph_Lauren"
+      ]
+    },
+    {
+      "key": "PS-5756",
+      "summary": "Tendam - Springfield SIMPL - Revisar como el AI Agent hace Handoff",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Aitor Casas",
+      "issuetype": "Task",
+      "created": "2026-06-16",
+      "updated": "2026-06-16",
+      "resolutiondate": "",
+      "labels": [
+        "tendam"
+      ]
+    },
+    {
+      "key": "PS-5755",
+      "summary": "Jetsmart - Develop Final Summary Step",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": null,
+      "issuetype": "Task",
+      "created": "2026-06-15",
+      "updated": "2026-06-15",
+      "resolutiondate": "",
+      "labels": [
+        "JetSmart"
+      ]
+    },
+    {
+      "key": "PS-5754",
+      "summary": "Internal - Migrate demo creation process into a skill",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Pep Alonso",
+      "issuetype": "Task",
+      "created": "2026-06-15",
+      "updated": "2026-06-15",
+      "resolutiondate": "",
+      "labels": []
+    },
+    {
+      "key": "PS-5753",
+      "summary": "Crossing_World - Create Organization",
+      "status": "Done",
+      "status_category": "Done",
+      "assignee": "Aitor Casas",
+      "issuetype": "Task",
+      "created": "2026-06-15",
+      "updated": "2026-06-16",
+      "resolutiondate": "",
+      "labels": [
+        "Crossing_World"
+      ]
+    },
+    {
+      "key": "PS-5752",
+      "summary": "Crossing_World - 1st Phase",
+      "status": "Open",
+      "status_category": "To Do",
+      "assignee": "Wei Wu",
+      "issuetype": "Epic",
+      "created": "2026-06-15",
+      "updated": "2026-06-15",
+      "resolutiondate": "",
+      "labels": [
+        "Crossing_World"
+      ]
+    },
     {
       "key": "PS-5751",
       "summary": "SegurCaixa - Incluir el origen de la cita",
@@ -18,8 +166,8 @@
     {
       "key": "PS-5750",
       "summary": "El campo número de teléfono debe ser obligatorio al hacer Book a meeting",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Closed",
+      "status_category": "Done",
       "assignee": "Alexander Skalatskiy",
       "issuetype": "Task",
       "created": "2026-06-15",
@@ -130,12 +278,12 @@
     {
       "key": "PS-5742",
       "summary": "Ralph Lauren - modify text WA flow ",
-      "status": "Ready for review",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-06-12",
-      "updated": "2026-06-12",
+      "updated": "2026-06-16",
       "resolutiondate": "",
       "labels": [
         "Ralph_Lauren"
@@ -230,12 +378,12 @@
     {
       "key": "PS-5735",
       "summary": "Air Europa - Link success event with Flow Builder node so we can see it in conversations analytics",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "In production",
+      "status_category": "Done",
       "assignee": "Alexander Skalatskiy",
       "issuetype": "Bug",
       "created": "2026-06-11",
-      "updated": "2026-06-15",
+      "updated": "2026-06-16",
       "resolutiondate": "",
       "labels": [
         "AirEuropa"
@@ -300,12 +448,12 @@
     {
       "key": "PS-5730",
       "summary": "Michael Kors - bot is already updated to support Language selection - review which changes we would need to do at flow level",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Aitor Casas",
       "issuetype": "Task",
       "created": "2026-06-10",
-      "updated": "2026-06-10",
+      "updated": "2026-06-15",
       "resolutiondate": "",
       "labels": [
         "Michael-Kors"
@@ -356,12 +504,12 @@
     {
       "key": "PS-5726",
       "summary": "Libeen - Error when booking\"phone field not being sent to HubSpot\" (this happens to new clients that do not exist in Hubspot)",
-      "status": "In Progress",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Alexander Skalatskiy",
       "issuetype": "Discovery Task",
       "created": "2026-06-09",
-      "updated": "2026-06-12",
+      "updated": "2026-06-15",
       "resolutiondate": "",
       "labels": [
         "Libeen"
@@ -370,7 +518,7 @@
     {
       "key": "PS-5725",
       "summary": "Tendam - Tendam SPF Simpl - Update bot version and Configure automatic closing of idle cases after 3 hours",
-      "status": "In production",
+      "status": "Done",
       "status_category": "Done",
       "assignee": "Evgeni Slavyanov",
       "issuetype": "Task",
@@ -427,12 +575,12 @@
     {
       "key": "PS-5721",
       "summary": "Ralph Lauren. ai tags",
-      "status": "Ready for review",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-06-09",
-      "updated": "2026-06-09",
+      "updated": "2026-06-16",
       "resolutiondate": "",
       "labels": [
         "Ralph_Lauren"
@@ -497,7 +645,7 @@
     {
       "key": "PS-5716",
       "summary": "Tendam- Springfield - Update bot version and Configure automatic closing of idle cases after 3 hours",
-      "status": "In production",
+      "status": "Done",
       "status_category": "Done",
       "assignee": "Evgeni Slavyanov",
       "issuetype": "Task",
@@ -609,12 +757,12 @@
     {
       "key": "PS-5708",
       "summary": "ATM - Update bot version",
-      "status": "APPROVED FOR PRODUCTION",
+      "status": "In production",
       "status_category": "Done",
       "assignee": "Evgeni Slavyanov",
       "issuetype": "Task",
       "created": "2026-06-05",
-      "updated": "2026-06-08",
+      "updated": "2026-06-16",
       "resolutiondate": "",
       "labels": [
         "ATM"
@@ -642,7 +790,7 @@
       "assignee": "Alexander Skalatskiy",
       "issuetype": "Bug",
       "created": "2026-06-05",
-      "updated": "2026-06-09",
+      "updated": "2026-06-15",
       "resolutiondate": "",
       "labels": [
         "AirEuropa"
@@ -679,12 +827,12 @@
     {
       "key": "PS-5703",
       "summary": "Ralph Lauren - new improvements",
-      "status": "Ready for review",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-06-05",
-      "updated": "2026-06-05",
+      "updated": "2026-06-16",
       "resolutiondate": "",
       "labels": [
         "Ralph_Lauren"
@@ -810,7 +958,7 @@
       "assignee": "Andrea Talal Haidar",
       "issuetype": "Task",
       "created": "2026-06-03",
-      "updated": "2026-06-15",
+      "updated": "2026-06-16",
       "resolutiondate": "",
       "labels": [
         "Libeen"
@@ -1044,12 +1192,12 @@
     {
       "key": "PS-5677",
       "summary": "Dev Mode workshop for Delivery team",
-      "status": "Ready for review",
+      "status": "In Review",
       "status_category": "In Progress",
       "assignee": "Vicky Correbo",
       "issuetype": "Task",
       "created": "2026-06-02",
-      "updated": "2026-06-09",
+      "updated": "2026-06-16",
       "resolutiondate": "",
       "labels": [
         "Internal"
@@ -1175,7 +1323,7 @@
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-06-01",
-      "updated": "2026-06-01",
+      "updated": "2026-06-16",
       "resolutiondate": "",
       "labels": [
         "Ralph_Lauren"
@@ -1217,7 +1365,7 @@
       "assignee": "Andrea Talal Haidar",
       "issuetype": "Task",
       "created": "2026-05-29",
-      "updated": "2026-06-10",
+      "updated": "2026-06-16",
       "resolutiondate": "",
       "labels": [
         "Ralph_Lauren"
@@ -1710,12 +1858,12 @@
     {
       "key": "PS-5629",
       "summary": "SEM - Update botonic version to 48 to include automatic language detection",
-      "status": "APPROVED FOR PRODUCTION",
+      "status": "In production",
       "status_category": "Done",
       "assignee": "Evgeni Slavyanov",
       "issuetype": "Task",
       "created": "2026-05-25",
-      "updated": "2026-06-08",
+      "updated": "2026-06-16",
       "resolutiondate": "",
       "labels": [
         "SEM"
@@ -1738,7 +1886,7 @@
     {
       "key": "PS-5627",
       "summary": "Tendam - Bot Fifty - Update bot version and Configure automatic closure of idle cases after 3 hours (WS)",
-      "status": "In production",
+      "status": "Done",
       "status_category": "Done",
       "assignee": "Evgeni Slavyanov",
       "issuetype": "Task",
@@ -1752,7 +1900,7 @@
     {
       "key": "PS-5626",
       "summary": "Tendam - Bot Dash & Starts - Update bot version and Configure automatic closure of idle cases after 3 hours (WS)",
-      "status": "In production",
+      "status": "Done",
       "status_category": "Done",
       "assignee": "Evgeni Slavyanov",
       "issuetype": "Task",
@@ -1766,7 +1914,7 @@
     {
       "key": "PS-5625",
       "summary": "Tendam - Bot Hoss Intropia - Update bot version and Configure automatic closure of idle cases after 3 hours (WS)",
-      "status": "In production",
+      "status": "Done",
       "status_category": "Done",
       "assignee": "Evgeni Slavyanov",
       "issuetype": "Task",
@@ -1780,7 +1928,7 @@
     {
       "key": "PS-5624",
       "summary": "Tendam - Bot Slowlove - Update bot version and Configure automatic closure of idle cases after 3 hours (WS)",
-      "status": "In production",
+      "status": "Done",
       "status_category": "Done",
       "assignee": "Evgeni Slavyanov",
       "issuetype": "Task",
@@ -5356,7 +5504,7 @@
     {
       "key": "PS-5357",
       "summary": "Jetsmart - Passanger Details Step UI",
-      "status": "In Progress",
+      "status": "Ready for review",
       "status_category": "In Progress",
       "assignee": "Pep Alonso",
       "issuetype": "Task",
@@ -13203,7 +13351,7 @@
       "assignee": "Pep Alonso",
       "issuetype": "Task",
       "created": "2025-12-16",
-      "updated": "2026-06-05",
+      "updated": "2026-06-15",
       "resolutiondate": "",
       "labels": [
         "JetSmart"
