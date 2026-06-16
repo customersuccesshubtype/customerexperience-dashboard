@@ -1,6 +1,40 @@
 {
-  "last_updated": "2026-06-15 13:26 UTC",
+  "last_updated": "2026-06-16 12:22 UTC",
   "opportunities": [
+    {
+      "id": "006Sa00000iFVTZIA4",
+      "name": "2026-U-RACC-CA(WhatsApp) - Integración AI de AiAlma",
+      "type": "Upsell",
+      "stage": "Closed Won",
+      "is_closed": true,
+      "is_won": true,
+      "probability": 100.0,
+      "amount": 10560.0,
+      "arr": 2400.0,
+      "owner": "Marta Marron",
+      "cs_lead": "Marta Marron",
+      "account": "RACC",
+      "created": "2026-06-16",
+      "close_date": "2026-06-16",
+      "start_date": "2026-06-01"
+    },
+    {
+      "id": "006Sa00000iAUGPIA4",
+      "name": "2026-U-Tendam-20 licenses up from June 2026",
+      "type": "Upsell",
+      "stage": "Closed Won",
+      "is_closed": true,
+      "is_won": true,
+      "probability": 100.0,
+      "amount": 1269.6,
+      "arr": 7617.6,
+      "owner": "Marta Marron",
+      "cs_lead": "Marta Marron",
+      "account": "Tendam (Cortefiel)",
+      "created": "2026-06-15",
+      "close_date": "2026-06-15",
+      "start_date": "2026-05-12"
+    },
     {
       "id": "006Sa00000i2ecuIAA",
       "name": "2027-R-Euroriente Travel-Turkey",
@@ -1074,7 +1108,7 @@
     },
     {
       "id": "006Sa00000YzKJCIA3",
-      "name": "2026-R-Verisure(IT)-Lead Gen(Wa)",
+      "name": "2027-R-Verisure(IT)-Lead Gen(Wa)",
       "type": "Renewal",
       "stage": "Opportunity identified",
       "is_closed": false,
@@ -1189,7 +1223,7 @@
       "account": "Verisure Italy",
       "created": "2026-01-04",
       "close_date": "2025-12-27",
-      "start_date": "2026-12-01"
+      "start_date": "2025-12-01"
     },
     {
       "id": "006Sa00000Y9nVmIAJ",
