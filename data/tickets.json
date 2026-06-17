@@ -1,15 +1,85 @@
 {
-  "last_updated": "2026-06-16 12:10 UTC",
+  "last_updated": "2026-06-17 11:45 UTC",
   "tickets": [
+    {
+      "key": "PS-5767",
+      "summary": "Air Europa - Since june 11th they are receiving lots of errors coming from WhatsApp (release date)",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Alexander Skalatskiy",
+      "issuetype": "Bug",
+      "created": "2026-06-17",
+      "updated": "2026-06-17",
+      "resolutiondate": "",
+      "labels": [
+        "AirEuropa"
+      ]
+    },
+    {
+      "key": "PS-5766",
+      "summary": "Ralph Lauren: event type aiAgent ",
+      "status": "In Progress",
+      "status_category": "In Progress",
+      "assignee": "Lorena Sánchez-Toril Nicolás",
+      "issuetype": "Task",
+      "created": "2026-06-17",
+      "updated": "2026-06-17",
+      "resolutiondate": "",
+      "labels": [
+        "Ralph_Lauren"
+      ]
+    },
+    {
+      "key": "PS-5765",
+      "summary": "Michael Kors - Connect WISMO/WISMR webview with middleware",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Alexander Skalatskiy",
+      "issuetype": "Task",
+      "created": "2026-06-17",
+      "updated": "2026-06-17",
+      "resolutiondate": "",
+      "labels": [
+        "Michael-Kors"
+      ]
+    },
+    {
+      "key": "PS-5764",
+      "summary": "Air Europa - Review why we are showing data of an already flown flight",
+      "status": "Closed",
+      "status_category": "Done",
+      "assignee": "Alexander Skalatskiy",
+      "issuetype": "Bug",
+      "created": "2026-06-16",
+      "updated": "2026-06-17",
+      "resolutiondate": "",
+      "labels": [
+        "AirEuropa"
+      ]
+    },
+    {
+      "key": "PS-5763",
+      "summary": "Crossing_World - Deploy bot for staging and production (org_id bc60eb6e-2b6c-4d57-874e-8910018204ae)",
+      "status": "Ready for review",
+      "status_category": "In Progress",
+      "assignee": "Evgeni Slavyanov",
+      "issuetype": "Task",
+      "created": "2026-06-16",
+      "updated": "2026-06-17",
+      "resolutiondate": "",
+      "labels": [
+        "Crossing_World"
+      ]
+    },
     {
       "key": "PS-5762",
       "summary": "Allianz Partners -  Preparar video para mostrar como funciona la asistencia en carretera",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "In Progress",
+      "status_category": "In Progress",
       "assignee": "Vicky Correbo",
       "issuetype": "Task",
       "created": "2026-06-16",
-      "updated": "2026-06-16",
+      "updated": "2026-06-17",
       "resolutiondate": "",
       "labels": [
         "AllianzPartners"
@@ -70,8 +140,8 @@
     {
       "key": "PS-5757",
       "summary": "Ralph Lauren - carousels for marketing campaign ",
-      "status": "Ready for review",
-      "status_category": "In Progress",
+      "status": "In production",
+      "status_category": "Done",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-06-16",
@@ -84,12 +154,12 @@
     {
       "key": "PS-5756",
       "summary": "Tendam - Springfield SIMPL - Revisar como el AI Agent hace Handoff",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Ready for review",
+      "status_category": "In Progress",
       "assignee": "Aitor Casas",
       "issuetype": "Task",
       "created": "2026-06-16",
-      "updated": "2026-06-16",
+      "updated": "2026-06-17",
       "resolutiondate": "",
       "labels": [
         "tendam"
@@ -180,12 +250,12 @@
     {
       "key": "PS-5749",
       "summary": "Ralph Lauren - include min price ",
-      "status": "Ready for review",
-      "status_category": "In Progress",
+      "status": "In production",
+      "status_category": "Done",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-06-15",
-      "updated": "2026-06-15",
+      "updated": "2026-06-16",
       "resolutiondate": "",
       "labels": [
         "Ralph_Lauren"
@@ -236,12 +306,12 @@
     {
       "key": "PS-5745",
       "summary": "Euroriente - Deploy staging and production bots (org_id = 0bab9556-165e-423e-8352-8635bd5b2f24)",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "In production",
+      "status_category": "Done",
       "assignee": "Evgeni Slavyanov",
       "issuetype": "Task",
       "created": "2026-06-13",
-      "updated": "2026-06-15",
+      "updated": "2026-06-17",
       "resolutiondate": "",
       "labels": [
         "Euroriente"
@@ -771,12 +841,12 @@
     {
       "key": "PS-5707",
       "summary": "Occident - Coexistence: Review how we can display the right contact information",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "In Progress",
+      "status_category": "In Progress",
       "assignee": "Adrià Sastre",
-      "issuetype": "Task",
+      "issuetype": "Discovery Task",
       "created": "2026-06-05",
-      "updated": "2026-06-08",
+      "updated": "2026-06-17",
       "resolutiondate": "",
       "labels": [
         "occident"
@@ -883,12 +953,12 @@
     {
       "key": "PS-5699",
       "summary": "Rag & Bone - Review WhatsApp not working in R&B App",
-      "status": "Ready for review",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Adrià Sastre",
       "issuetype": "Task",
       "created": "2026-06-04",
-      "updated": "2026-06-08",
+      "updated": "2026-06-17",
       "resolutiondate": "",
       "labels": [
         "Rag&Bone"
@@ -1066,12 +1136,12 @@
     {
       "key": "PS-5686",
       "summary": "Rag & Bone - Update bot version",
-      "status": "In Progress",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Evgeni Slavyanov",
       "issuetype": "Task",
       "created": "2026-06-03",
-      "updated": "2026-06-15",
+      "updated": "2026-06-17",
       "resolutiondate": "",
       "labels": [
         "Rag&Bone"
@@ -1790,12 +1860,12 @@
     {
       "key": "PS-5634",
       "summary": "TMB - Upgrade Bot Version to 0.49",
-      "status": "In Progress",
+      "status": "Ready for review",
       "status_category": "In Progress",
       "assignee": "Evgeni Slavyanov",
       "issuetype": "Task",
       "created": "2026-05-26",
-      "updated": "2026-06-15",
+      "updated": "2026-06-17",
       "resolutiondate": "",
       "labels": [
         "TMB"
@@ -3484,12 +3554,12 @@
     {
       "key": "PS-5510",
       "summary": "Michael Kors - Implement WISMO/WISMR webview/s",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "In Progress",
+      "status_category": "In Progress",
       "assignee": "Alexander Skalatskiy",
       "issuetype": "Task",
       "created": "2026-05-07",
-      "updated": "2026-06-08",
+      "updated": "2026-06-16",
       "resolutiondate": "",
       "labels": [
         "Michael-Kors"
@@ -3554,12 +3624,12 @@
     {
       "key": "PS-5505",
       "summary": "JetSMART - Bugs detectados en compra de opcionales",
-      "status": "Ready to Deliver",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Pep Alonso",
       "issuetype": "Bug",
       "created": "2026-05-06",
-      "updated": "2026-06-08",
+      "updated": "2026-06-17",
       "resolutiondate": "",
       "labels": [
         "JetSMART"
@@ -4894,12 +4964,12 @@
     {
       "key": "PS-5406",
       "summary": "Jetsmart - Fix SSR price discrepancy by making prices API-driven",
-      "status": "Ready to Deliver",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Pep Alonso",
       "issuetype": "Task",
       "created": "2026-04-21",
-      "updated": "2026-05-19",
+      "updated": "2026-06-17",
       "resolutiondate": "",
       "labels": [
         "JetSmart"
@@ -13346,12 +13416,12 @@
     {
       "key": "PS-4745",
       "summary": "Jetsmart - Add extras adjustments",
-      "status": "Ready to Deliver",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Pep Alonso",
       "issuetype": "Task",
       "created": "2025-12-16",
-      "updated": "2026-06-15",
+      "updated": "2026-06-17",
       "resolutiondate": "",
       "labels": [
         "JetSmart"
