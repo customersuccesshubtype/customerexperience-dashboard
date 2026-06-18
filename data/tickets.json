@@ -1,13 +1,53 @@
 {
-  "last_updated": "2026-06-17 11:45 UTC",
+  "last_updated": "2026-06-18 11:07 UTC",
   "tickets": [
     {
-      "key": "PS-5767",
-      "summary": "Air Europa - Since june 11th they are receiving lots of errors coming from WhatsApp (release date)",
+      "key": "PS-5773",
+      "summary": "Assegur - Update bot for the automatic language detection",
       "status": "To Do",
       "status_category": "To Do",
-      "assignee": "Alexander Skalatskiy",
-      "issuetype": "Bug",
+      "assignee": "Evgeni Slavyanov",
+      "issuetype": "Task",
+      "created": "2026-06-18",
+      "updated": "2026-06-18",
+      "resolutiondate": "",
+      "labels": [
+        "Assegur"
+      ]
+    },
+    {
+      "key": "PS-5772",
+      "summary": "Retorna - Review Salesforce documentation",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Adrià Sastre",
+      "issuetype": "Discovery Task",
+      "created": "2026-06-18",
+      "updated": "2026-06-18",
+      "resolutiondate": "",
+      "labels": [
+        "Retorna"
+      ]
+    },
+    {
+      "key": "PS-5771",
+      "summary": "Michael Kors - WISMO/WISMR - Slides con el Journey para compartir con el cliente",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Vicky Correbo",
+      "issuetype": "Task",
+      "created": "2026-06-17",
+      "updated": "2026-06-17",
+      "resolutiondate": "",
+      "labels": []
+    },
+    {
+      "key": "PS-5770",
+      "summary": "Air Europa - AVA call changes",
+      "status": "Open",
+      "status_category": "To Do",
+      "assignee": "Julieta Mezza",
+      "issuetype": "Epic",
       "created": "2026-06-17",
       "updated": "2026-06-17",
       "resolutiondate": "",
@@ -16,14 +56,56 @@
       ]
     },
     {
+      "key": "PS-5769",
+      "summary": "Assegur - Link the area code of Andorra to the Catalan language",
+      "status": "Ready for review",
+      "status_category": "In Progress",
+      "assignee": "Evgeni Slavyanov",
+      "issuetype": "Task",
+      "created": "2026-06-17",
+      "updated": "2026-06-18",
+      "resolutiondate": "",
+      "labels": [
+        "Assegur"
+      ]
+    },
+    {
+      "key": "PS-5768",
+      "summary": "RACC - Deploy new bot in RACC called \"Seguros de viaje staging\"",
+      "status": "Done",
+      "status_category": "Done",
+      "assignee": "Evgeni Slavyanov",
+      "issuetype": "Task",
+      "created": "2026-06-17",
+      "updated": "2026-06-18",
+      "resolutiondate": "",
+      "labels": [
+        "RACC"
+      ]
+    },
+    {
+      "key": "PS-5767",
+      "summary": "Air Europa - Since june 11th they are receiving lots of errors coming from WhatsApp (release date)",
+      "status": "Done",
+      "status_category": "Done",
+      "assignee": "Alexander Skalatskiy",
+      "issuetype": "Bug",
+      "created": "2026-06-17",
+      "updated": "2026-06-18",
+      "resolutiondate": "",
+      "labels": [
+        "AirEuropa"
+      ]
+    },
+    {
       "key": "PS-5766",
       "summary": "Ralph Lauren: event type aiAgent ",
-      "status": "In Progress",
-      "status_category": "In Progress",
+      "status": "In production",
+      "status_category": "Done",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-06-17",
-      "updated": "2026-06-17",
+      "updated": "2026-06-18",
       "resolutiondate": "",
       "labels": [
         "Ralph_Lauren"
@@ -32,8 +114,8 @@
     {
       "key": "PS-5765",
       "summary": "Michael Kors - Connect WISMO/WISMR webview with middleware",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Ready for review",
+      "status_category": "In Progress",
       "assignee": "Alexander Skalatskiy",
       "issuetype": "Task",
       "created": "2026-06-17",
@@ -60,12 +142,12 @@
     {
       "key": "PS-5763",
       "summary": "Crossing_World - Deploy bot for staging and production (org_id bc60eb6e-2b6c-4d57-874e-8910018204ae)",
-      "status": "Ready for review",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Evgeni Slavyanov",
       "issuetype": "Task",
       "created": "2026-06-16",
-      "updated": "2026-06-17",
+      "updated": "2026-06-18",
       "resolutiondate": "",
       "labels": [
         "Crossing_World"
@@ -93,7 +175,7 @@
       "assignee": "Vicky Correbo",
       "issuetype": "Discovery Task",
       "created": "2026-06-16",
-      "updated": "2026-06-16",
+      "updated": "2026-06-17",
       "resolutiondate": "",
       "labels": []
     },
@@ -126,12 +208,12 @@
     {
       "key": "PS-5758",
       "summary": "Allianz Spain - Assess effort for 2 new use cases",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Closed",
+      "status_category": "Done",
       "assignee": "Adrià Sastre",
       "issuetype": "Discovery Task",
       "created": "2026-06-16",
-      "updated": "2026-06-16",
+      "updated": "2026-06-17",
       "resolutiondate": "",
       "labels": [
         "Allianz-ES"
@@ -154,8 +236,8 @@
     {
       "key": "PS-5756",
       "summary": "Tendam - Springfield SIMPL - Revisar como el AI Agent hace Handoff",
-      "status": "Ready for review",
-      "status_category": "In Progress",
+      "status": "In production",
+      "status_category": "Done",
       "assignee": "Aitor Casas",
       "issuetype": "Task",
       "created": "2026-06-16",
@@ -250,12 +332,12 @@
     {
       "key": "PS-5749",
       "summary": "Ralph Lauren - include min price ",
-      "status": "In production",
+      "status": "Done",
       "status_category": "Done",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-06-15",
-      "updated": "2026-06-16",
+      "updated": "2026-06-17",
       "resolutiondate": "",
       "labels": [
         "Ralph_Lauren"
@@ -306,7 +388,7 @@
     {
       "key": "PS-5745",
       "summary": "Euroriente - Deploy staging and production bots (org_id = 0bab9556-165e-423e-8352-8635bd5b2f24)",
-      "status": "In production",
+      "status": "Done",
       "status_category": "Done",
       "assignee": "Evgeni Slavyanov",
       "issuetype": "Task",
@@ -504,12 +586,12 @@
     {
       "key": "PS-5731",
       "summary": "Ralph Lauren - Include final onboarding video sent by Shalini",
-      "status": "In Progress",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Andrea Talal Haidar",
       "issuetype": "Task",
       "created": "2026-06-10",
-      "updated": "2026-06-11",
+      "updated": "2026-06-17",
       "resolutiondate": "",
       "labels": [
         "Ralph_Lauren"
@@ -841,12 +923,12 @@
     {
       "key": "PS-5707",
       "summary": "Occident - Coexistence: Review how we can display the right contact information",
-      "status": "In Progress",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Adrià Sastre",
       "issuetype": "Discovery Task",
       "created": "2026-06-05",
-      "updated": "2026-06-17",
+      "updated": "2026-06-18",
       "resolutiondate": "",
       "labels": [
         "occident"
@@ -883,12 +965,12 @@
     {
       "key": "PS-5704",
       "summary": "All Clients - hilos duplicados en Salesforce (Email-to-Case)",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "In Progress",
+      "status_category": "In Progress",
       "assignee": "Aitor Casas",
       "issuetype": "Task",
       "created": "2026-06-05",
-      "updated": "2026-06-05",
+      "updated": "2026-06-18",
       "resolutiondate": "",
       "labels": [
         "all_clients"
@@ -1262,12 +1344,12 @@
     {
       "key": "PS-5677",
       "summary": "Dev Mode workshop for Delivery team",
-      "status": "In Review",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Vicky Correbo",
       "issuetype": "Task",
       "created": "2026-06-02",
-      "updated": "2026-06-16",
+      "updated": "2026-06-18",
       "resolutiondate": "",
       "labels": [
         "Internal"
@@ -1715,7 +1797,7 @@
       "assignee": "Adrià Sastre",
       "issuetype": "Task",
       "created": "2026-05-27",
-      "updated": "2026-05-28",
+      "updated": "2026-06-18",
       "resolutiondate": "",
       "labels": [
         "AirEuropa"
@@ -3554,12 +3636,12 @@
     {
       "key": "PS-5510",
       "summary": "Michael Kors - Implement WISMO/WISMR webview/s",
-      "status": "In Progress",
+      "status": "Ready for review",
       "status_category": "In Progress",
       "assignee": "Alexander Skalatskiy",
       "issuetype": "Task",
       "created": "2026-05-07",
-      "updated": "2026-06-16",
+      "updated": "2026-06-17",
       "resolutiondate": "",
       "labels": [
         "Michael-Kors"
@@ -4940,7 +5022,7 @@
       "assignee": "Pep Alonso",
       "issuetype": "Task",
       "created": "2026-04-21",
-      "updated": "2026-05-06",
+      "updated": "2026-06-17",
       "resolutiondate": "",
       "labels": [
         "Internal"
@@ -5565,7 +5647,7 @@
       "assignee": "Pep Alonso",
       "issuetype": "Task",
       "created": "2026-04-13",
-      "updated": "2026-04-13",
+      "updated": "2026-06-18",
       "resolutiondate": "",
       "labels": [
         "JetSmart"
@@ -13402,12 +13484,12 @@
     {
       "key": "PS-4746",
       "summary": "Jetsmart - Develop buy a flight ",
-      "status": "In Progress",
-      "status_category": "In Progress",
+      "status": "To Do",
+      "status_category": "To Do",
       "assignee": "Pep Alonso",
       "issuetype": "Task",
       "created": "2025-12-16",
-      "updated": "2026-03-24",
+      "updated": "2026-06-18",
       "resolutiondate": "",
       "labels": [
         "JetSmart"
@@ -18919,12 +19001,12 @@
     {
       "key": "PS-4288",
       "summary": "Jetsmart - API Review \"Yuno\" (link de pago)",
-      "status": "Done",
-      "status_category": "Done",
-      "assignee": "Jonatan Rojas",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Pep Alonso",
       "issuetype": "Task",
       "created": "2025-08-12",
-      "updated": "2025-08-25",
+      "updated": "2026-06-18",
       "resolutiondate": "",
       "labels": [
         "JetSmart"
