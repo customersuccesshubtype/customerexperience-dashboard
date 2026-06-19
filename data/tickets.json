@@ -1,15 +1,97 @@
 {
-  "last_updated": "2026-06-18 11:07 UTC",
+  "last_updated": "2026-06-19 11:19 UTC",
   "tickets": [
     {
-      "key": "PS-5773",
-      "summary": "Assegur - Update bot for the automatic language detection",
+      "key": "PS-5779",
+      "summary": "Soledad - webview add margin to price",
       "status": "To Do",
       "status_category": "To Do",
-      "assignee": "Evgeni Slavyanov",
+      "assignee": "Lorena Sánchez-Toril Nicolás",
+      "issuetype": "Task",
+      "created": "2026-06-19",
+      "updated": "2026-06-19",
+      "resolutiondate": "",
+      "labels": [
+        "Soledad"
+      ]
+    },
+    {
+      "key": "PS-5778",
+      "summary": "Air Europa - Review why we are displayin the English version of the bot if the country code is Argentinian",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Alexander Skalatskiy",
+      "issuetype": "Bug",
+      "created": "2026-06-19",
+      "updated": "2026-06-19",
+      "resolutiondate": "",
+      "labels": [
+        "AirEuropa"
+      ]
+    },
+    {
+      "key": "PS-5777",
+      "summary": "WizzAir - Deliver information about the Salesforce integration for case status review (similar to Retorna)",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": null,
+      "issuetype": "Discovery Task",
+      "created": "2026-06-18",
+      "updated": "2026-06-18",
+      "resolutiondate": "",
+      "labels": [
+        "WizzAir"
+      ]
+    },
+    {
+      "key": "PS-5776",
+      "summary": "Verisure FR - Once a template is received, store fields in a yellow note (same as Verisure IT)",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": null,
       "issuetype": "Task",
       "created": "2026-06-18",
       "updated": "2026-06-18",
+      "resolutiondate": "",
+      "labels": []
+    },
+    {
+      "key": "PS-5775",
+      "summary": "Verisure FR - Project to send templates, record fields and do handoff",
+      "status": "Open",
+      "status_category": "To Do",
+      "assignee": null,
+      "issuetype": "Epic",
+      "created": "2026-06-18",
+      "updated": "2026-06-18",
+      "resolutiondate": "",
+      "labels": [
+        "Verisure-FR"
+      ]
+    },
+    {
+      "key": "PS-5774",
+      "summary": "Ralph Lauren - Webview T&C's",
+      "status": "Ready for review",
+      "status_category": "In Progress",
+      "assignee": "Lorena Sánchez-Toril Nicolás",
+      "issuetype": "Task",
+      "created": "2026-06-18",
+      "updated": "2026-06-19",
+      "resolutiondate": "",
+      "labels": [
+        "Ralph_Lauren"
+      ]
+    },
+    {
+      "key": "PS-5773",
+      "summary": "Assegur - Update bot for the automatic language detection",
+      "status": "Ready for review",
+      "status_category": "In Progress",
+      "assignee": "Evgeni Slavyanov",
+      "issuetype": "Task",
+      "created": "2026-06-18",
+      "updated": "2026-06-19",
       "resolutiondate": "",
       "labels": [
         "Assegur"
@@ -100,7 +182,7 @@
     {
       "key": "PS-5766",
       "summary": "Ralph Lauren: event type aiAgent ",
-      "status": "In production",
+      "status": "Done",
       "status_category": "Done",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
@@ -156,12 +238,12 @@
     {
       "key": "PS-5762",
       "summary": "Allianz Partners -  Preparar video para mostrar como funciona la asistencia en carretera",
-      "status": "In Progress",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Vicky Correbo",
       "issuetype": "Task",
       "created": "2026-06-16",
-      "updated": "2026-06-17",
+      "updated": "2026-06-18",
       "resolutiondate": "",
       "labels": [
         "AllianzPartners"
@@ -170,12 +252,12 @@
     {
       "key": "PS-5761",
       "summary": "Design a web view for offer T&Cs",
-      "status": "To Do",
-      "status_category": "To Do",
-      "assignee": "Vicky Correbo",
+      "status": "Done",
+      "status_category": "Done",
+      "assignee": "Andrea Talal Haidar",
       "issuetype": "Discovery Task",
       "created": "2026-06-16",
-      "updated": "2026-06-17",
+      "updated": "2026-06-18",
       "resolutiondate": "",
       "labels": []
     },
@@ -196,10 +278,10 @@
       "summary": "Verisure Spain - Delete the italian bot and the related code",
       "status": "To Do",
       "status_category": "To Do",
-      "assignee": "Marta Marron",
+      "assignee": "Evgeni Slavyanov",
       "issuetype": "Task",
       "created": "2026-06-16",
-      "updated": "2026-06-16",
+      "updated": "2026-06-19",
       "resolutiondate": "",
       "labels": [
         "Verisure_ES"
@@ -222,12 +304,12 @@
     {
       "key": "PS-5757",
       "summary": "Ralph Lauren - carousels for marketing campaign ",
-      "status": "In production",
+      "status": "Done",
       "status_category": "Done",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-06-16",
-      "updated": "2026-06-16",
+      "updated": "2026-06-18",
       "resolutiondate": "",
       "labels": [
         "Ralph_Lauren"
@@ -236,12 +318,12 @@
     {
       "key": "PS-5756",
       "summary": "Tendam - Springfield SIMPL - Revisar como el AI Agent hace Handoff",
-      "status": "In production",
+      "status": "Done",
       "status_category": "Done",
       "assignee": "Aitor Casas",
       "issuetype": "Task",
       "created": "2026-06-16",
-      "updated": "2026-06-17",
+      "updated": "2026-06-18",
       "resolutiondate": "",
       "labels": [
         "tendam"
@@ -530,12 +612,12 @@
     {
       "key": "PS-5735",
       "summary": "Air Europa - Link success event with Flow Builder node so we can see it in conversations analytics",
-      "status": "In production",
+      "status": "Done",
       "status_category": "Done",
       "assignee": "Alexander Skalatskiy",
       "issuetype": "Bug",
       "created": "2026-06-11",
-      "updated": "2026-06-16",
+      "updated": "2026-06-18",
       "resolutiondate": "",
       "labels": [
         "AirEuropa"
@@ -825,12 +907,12 @@
     {
       "key": "PS-5714",
       "summary": "Tendam - Configure Automatic Idle Closing for all Tendam Bots",
-      "status": "In Progress",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Marta Marron",
       "issuetype": "Epic",
       "created": "2026-06-08",
-      "updated": "2026-06-11",
+      "updated": "2026-06-18",
       "resolutiondate": "",
       "labels": [
         "Tendam"
@@ -881,12 +963,12 @@
     {
       "key": "PS-5710",
       "summary": "Michael Kors - Analysis of images causing fallbacks to identify repetition",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Marta Marron",
       "issuetype": "Task",
       "created": "2026-06-05",
-      "updated": "2026-06-05",
+      "updated": "2026-06-18",
       "resolutiondate": "",
       "labels": [
         "MichaelKors"
@@ -1119,12 +1201,12 @@
     {
       "key": "PS-5693",
       "summary": "Michael Kors – Compare usage volumes of order-issues vs warranty flow for consolidation",
-      "status": "In Progress",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Marta Marron",
       "issuetype": "Task",
       "created": "2026-06-03",
-      "updated": "2026-06-03",
+      "updated": "2026-06-18",
       "resolutiondate": "",
       "labels": [
         "MichaelKors"
@@ -3557,7 +3639,7 @@
       "assignee": "Alexander Skalatskiy",
       "issuetype": "Task",
       "created": "2026-05-07",
-      "updated": "2026-06-12",
+      "updated": "2026-06-18",
       "resolutiondate": "",
       "labels": [
         "Michael-Kors"
@@ -4437,12 +4519,12 @@
     {
       "key": "PS-5451",
       "summary": "Air Europa - Apply design changes (1)",
-      "status": "In Progress",
+      "status": "Ready for review",
       "status_category": "In Progress",
       "assignee": "Evgeni Slavyanov",
       "issuetype": "Task",
       "created": "2026-04-27",
-      "updated": "2026-06-01",
+      "updated": "2026-06-19",
       "resolutiondate": "",
       "labels": [
         "AirEuropa"
@@ -4711,12 +4793,12 @@
     {
       "key": "PS-5430",
       "summary": "Air Europa - Apply design changes (2)",
-      "status": "Open",
-      "status_category": "To Do",
+      "status": "In Progress",
+      "status_category": "In Progress",
       "assignee": "Evgeni Slavyanov",
       "issuetype": "Task",
       "created": "2026-04-23",
-      "updated": "2026-06-08",
+      "updated": "2026-06-19",
       "resolutiondate": "",
       "labels": [
         "AirEuropa"
