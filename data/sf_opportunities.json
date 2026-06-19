@@ -1,6 +1,40 @@
 {
-  "last_updated": "2026-06-18 11:17 UTC",
+  "last_updated": "2026-06-19 11:41 UTC",
   "opportunities": [
+    {
+      "id": "006Sa00000iRSWjIAO",
+      "name": "2026-C-Verisure FR - API to send templates and specific handoff",
+      "type": "Consultancy",
+      "stage": "Opportunity identified",
+      "is_closed": false,
+      "is_won": false,
+      "probability": 10.0,
+      "amount": 3200.0,
+      "arr": 0.0,
+      "owner": "Marta Marron",
+      "cs_lead": "Marta Marron",
+      "account": "Verisure France",
+      "created": "2026-06-18",
+      "close_date": "2026-04-15",
+      "start_date": "2026-06-30"
+    },
+    {
+      "id": "006Sa00000iQtSdIAK",
+      "name": "2027-R-Crossing World Group-Spain",
+      "type": "Renewal",
+      "stage": "Opportunity identified",
+      "is_closed": false,
+      "is_won": false,
+      "probability": 10.0,
+      "amount": 9337.08,
+      "arr": 9337.08,
+      "owner": "Wei Wu",
+      "cs_lead": "Wei Wu",
+      "account": "Crossing World Group",
+      "created": "2026-06-18",
+      "close_date": "2027-05-16",
+      "start_date": "2026-06-15"
+    },
     {
       "id": "006Sa00000iFVTZIA4",
       "name": "2026-U-RACC-CA(WhatsApp) - Integración AI de AiAlma",
@@ -49,7 +83,7 @@
       "cs_lead": "Wei Wu",
       "account": "Euroriente Travel",
       "created": "2026-06-15",
-      "close_date": "2026-06-11",
+      "close_date": "2026-05-11",
       "start_date": "2027-06-10"
     },
     {
@@ -1108,7 +1142,7 @@
     },
     {
       "id": "006Sa00000YzKJCIA3",
-      "name": "2027-R-Verisure(IT)-Lead Gen(Wa)",
+      "name": "2026-R-Verisure(IT)-Lead Gen(Wa)",
       "type": "Renewal",
       "stage": "Opportunity identified",
       "is_closed": false,
@@ -1210,19 +1244,19 @@
     },
     {
       "id": "006Sa00000Y9jwoIAB",
-      "name": "2026-R-Verisure(IT)-Lead Gen(Wa)",
-      "type": "Renewal",
-      "stage": "Opportunity identified",
-      "is_closed": false,
-      "is_won": false,
-      "probability": 10.0,
+      "name": "2025-U-Verisure(IT)-Lead Gen(Wa)",
+      "type": "Upsell",
+      "stage": "Closed Won",
+      "is_closed": true,
+      "is_won": true,
+      "probability": 100.0,
       "amount": 38000.0,
       "arr": 30000.0,
       "owner": "Marta Marron",
       "cs_lead": "Marta Marron",
       "account": "Verisure Italy",
       "created": "2026-01-04",
-      "close_date": "2025-12-27",
+      "close_date": "2026-06-19",
       "start_date": "2025-12-01"
     },
     {
