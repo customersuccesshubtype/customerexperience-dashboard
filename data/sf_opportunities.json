@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-19 11:41 UTC",
+  "last_updated": "2026-06-20 10:13 UTC",
   "opportunities": [
     {
       "id": "006Sa00000iRSWjIAO",
@@ -83,7 +83,7 @@
       "cs_lead": "Wei Wu",
       "account": "Euroriente Travel",
       "created": "2026-06-15",
-      "close_date": "2026-05-11",
+      "close_date": "2027-05-11",
       "start_date": "2027-06-10"
     },
     {
@@ -632,7 +632,7 @@
     },
     {
       "id": "006Sa00000cFM0jIAG",
-      "name": "2027 - R-  Tendam - CA (WA,Webchat)",
+      "name": "2027-R-Tendam - CA (WA,Webchat)",
       "type": "Renewal",
       "stage": "Opportunity identified",
       "is_closed": false,
