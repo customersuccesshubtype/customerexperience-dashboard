@@ -1,6 +1,48 @@
 {
-  "last_updated": "2026-06-19 11:19 UTC",
+  "last_updated": "2026-06-20 10:07 UTC",
   "tickets": [
+    {
+      "key": "PS-5782",
+      "summary": "ATM - Revisar si hay que hacer ajustes al bot para que funcione el autodetect language",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Aitor Casas",
+      "issuetype": "Task",
+      "created": "2026-06-19",
+      "updated": "2026-06-19",
+      "resolutiondate": "",
+      "labels": [
+        "ATM"
+      ]
+    },
+    {
+      "key": "PS-5781",
+      "summary": "Verisure Spain - Nuevo Bot Whatsapp Telecierre",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Adrià Sastre",
+      "issuetype": "Task",
+      "created": "2026-06-19",
+      "updated": "2026-06-19",
+      "resolutiondate": "",
+      "labels": [
+        "Verisure_ES"
+      ]
+    },
+    {
+      "key": "PS-5780",
+      "summary": "Michael Kors - Add webview event tracking",
+      "status": "In Review",
+      "status_category": "In Progress",
+      "assignee": "Alexander Skalatskiy",
+      "issuetype": "Task",
+      "created": "2026-06-19",
+      "updated": "2026-06-19",
+      "resolutiondate": "",
+      "labels": [
+        "Michael-Kors"
+      ]
+    },
     {
       "key": "PS-5779",
       "summary": "Soledad - webview add margin to price",
@@ -72,8 +114,8 @@
     {
       "key": "PS-5774",
       "summary": "Ralph Lauren - Webview T&C's",
-      "status": "Ready for review",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-06-18",
@@ -114,12 +156,12 @@
     {
       "key": "PS-5771",
       "summary": "Michael Kors - WISMO/WISMR - Slides con el Journey para compartir con el cliente",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "In Review",
+      "status_category": "In Progress",
       "assignee": "Vicky Correbo",
       "issuetype": "Task",
       "created": "2026-06-17",
-      "updated": "2026-06-17",
+      "updated": "2026-06-19",
       "resolutiondate": "",
       "labels": []
     },
@@ -196,12 +238,12 @@
     {
       "key": "PS-5765",
       "summary": "Michael Kors - Connect WISMO/WISMR webview with middleware",
-      "status": "Ready for review",
+      "status": "In Review",
       "status_category": "In Progress",
       "assignee": "Alexander Skalatskiy",
       "issuetype": "Task",
       "created": "2026-06-17",
-      "updated": "2026-06-17",
+      "updated": "2026-06-19",
       "resolutiondate": "",
       "labels": [
         "Michael-Kors"
@@ -386,12 +428,12 @@
     {
       "key": "PS-5751",
       "summary": "SegurCaixa - Incluir el origen de la cita",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Ready for review",
+      "status_category": "In Progress",
       "assignee": "Adrià Sastre",
       "issuetype": "Discovery Task",
       "created": "2026-06-15",
-      "updated": "2026-06-15",
+      "updated": "2026-06-19",
       "resolutiondate": "",
       "labels": [
         "SegurCaixa"
@@ -991,12 +1033,12 @@
     {
       "key": "PS-5708",
       "summary": "ATM - Update bot version",
-      "status": "In production",
+      "status": "Done",
       "status_category": "Done",
       "assignee": "Evgeni Slavyanov",
       "issuetype": "Task",
       "created": "2026-06-05",
-      "updated": "2026-06-16",
+      "updated": "2026-06-19",
       "resolutiondate": "",
       "labels": [
         "ATM"
@@ -2092,12 +2134,12 @@
     {
       "key": "PS-5629",
       "summary": "SEM - Update botonic version to 48 to include automatic language detection",
-      "status": "In production",
+      "status": "Done",
       "status_category": "Done",
       "assignee": "Evgeni Slavyanov",
       "issuetype": "Task",
       "created": "2026-05-25",
-      "updated": "2026-06-16",
+      "updated": "2026-06-19",
       "resolutiondate": "",
       "labels": [
         "SEM"
@@ -3634,12 +3676,12 @@
     {
       "key": "PS-5516",
       "summary": "Michael Kors - Implement Middleware to handle WISMO/WISMR calls from webview and bot",
-      "status": "Ready for review",
+      "status": "In Review",
       "status_category": "In Progress",
       "assignee": "Alexander Skalatskiy",
       "issuetype": "Task",
       "created": "2026-05-07",
-      "updated": "2026-06-18",
+      "updated": "2026-06-19",
       "resolutiondate": "",
       "labels": [
         "Michael-Kors"
@@ -3718,12 +3760,12 @@
     {
       "key": "PS-5510",
       "summary": "Michael Kors - Implement WISMO/WISMR webview/s",
-      "status": "Ready for review",
+      "status": "In Review",
       "status_category": "In Progress",
       "assignee": "Alexander Skalatskiy",
       "issuetype": "Task",
       "created": "2026-05-07",
-      "updated": "2026-06-17",
+      "updated": "2026-06-19",
       "resolutiondate": "",
       "labels": [
         "Michael-Kors"
@@ -3732,12 +3774,12 @@
     {
       "key": "PS-5509",
       "summary": "Michael Kors - Design WISMO/WISMR webview/s and flow",
-      "status": "In Review",
+      "status": "Ready to Deliver",
       "status_category": "In Progress",
       "assignee": "Vicky Correbo",
       "issuetype": "Task",
       "created": "2026-05-07",
-      "updated": "2026-05-28",
+      "updated": "2026-06-19",
       "resolutiondate": "",
       "labels": [
         "Michael-Kors"
@@ -5724,12 +5766,12 @@
     {
       "key": "PS-5358",
       "summary": "Jetsmart - Payment step UI",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Ready for review",
+      "status_category": "In Progress",
       "assignee": "Pep Alonso",
       "issuetype": "Task",
       "created": "2026-04-13",
-      "updated": "2026-06-18",
+      "updated": "2026-06-19",
       "resolutiondate": "",
       "labels": [
         "JetSmart"
