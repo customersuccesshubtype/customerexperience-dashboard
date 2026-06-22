@@ -1,15 +1,127 @@
 {
-  "last_updated": "2026-06-21 10:27 UTC",
+  "last_updated": "2026-06-22 12:47 UTC",
   "tickets": [
+    {
+      "key": "PS-5790",
+      "summary": "Ralph Lauren : Adjust prompt to tech updates",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "irene callejas",
+      "issuetype": "Task",
+      "created": "2026-06-22",
+      "updated": "2026-06-22",
+      "resolutiondate": "",
+      "labels": [
+        "Ralph_Lauren"
+      ]
+    },
+    {
+      "key": "PS-5789",
+      "summary": "Michael Kors - Transition from Smart Intent to Agent handling order requests ",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "irene callejas",
+      "issuetype": "Task",
+      "created": "2026-06-22",
+      "updated": "2026-06-22",
+      "resolutiondate": "",
+      "labels": [
+        "Michael-Kors"
+      ]
+    },
+    {
+      "key": "PS-5788",
+      "summary": "Libeen - R3minder:: Delete Spain Residency & coordinate w delivery",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "irene callejas",
+      "issuetype": "Task",
+      "created": "2026-06-22",
+      "updated": "2026-06-22",
+      "resolutiondate": "",
+      "labels": [
+        "Libeen"
+      ]
+    },
+    {
+      "key": "PS-5787",
+      "summary": "Tendam - Closed cases not reaching InConcert",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Adrià Sastre",
+      "issuetype": "Bug",
+      "created": "2026-06-22",
+      "updated": "2026-06-22",
+      "resolutiondate": "",
+      "labels": [
+        "tendam"
+      ]
+    },
+    {
+      "key": "PS-5786",
+      "summary": "Soledad - Design Configuration webview",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Andrea Talal Haidar",
+      "issuetype": "Task",
+      "created": "2026-06-22",
+      "updated": "2026-06-22",
+      "resolutiondate": "",
+      "labels": [
+        "Soledad"
+      ]
+    },
+    {
+      "key": "PS-5785",
+      "summary": "Jetsmart - Estimate YUNO implementation",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Pep Alonso",
+      "issuetype": "Discovery Task",
+      "created": "2026-06-22",
+      "updated": "2026-06-22",
+      "resolutiondate": "",
+      "labels": [
+        "JetSmart"
+      ]
+    },
+    {
+      "key": "PS-5784",
+      "summary": "Verisure FR - Preparar documento que explique como pueden enviar templates usando la API en test y en producción",
+      "status": "Done",
+      "status_category": "Done",
+      "assignee": "Aitor Casas",
+      "issuetype": "Task",
+      "created": "2026-06-22",
+      "updated": "2026-06-22",
+      "resolutiondate": "",
+      "labels": [
+        "Verisure-FR"
+      ]
+    },
+    {
+      "key": "PS-5783",
+      "summary": "Ralph Lauren - Conversational experience Feedback",
+      "status": "In Progress",
+      "status_category": "In Progress",
+      "assignee": "irene callejas",
+      "issuetype": "Task",
+      "created": "2026-06-22",
+      "updated": "2026-06-22",
+      "resolutiondate": "",
+      "labels": [
+        "Ralph_Lauren"
+      ]
+    },
     {
       "key": "PS-5782",
       "summary": "ATM - Revisar si hay que hacer ajustes al bot para que funcione el autodetect language",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Aitor Casas",
       "issuetype": "Task",
       "created": "2026-06-19",
-      "updated": "2026-06-19",
+      "updated": "2026-06-22",
       "resolutiondate": "",
       "labels": [
         "ATM"
@@ -18,12 +130,12 @@
     {
       "key": "PS-5781",
       "summary": "Verisure Spain - Nuevo Bot Whatsapp Telecierre",
-      "status": "To Do",
-      "status_category": "To Do",
-      "assignee": "Adrià Sastre",
+      "status": "Ready for review",
+      "status_category": "In Progress",
+      "assignee": "Evgeni Slavyanov",
       "issuetype": "Task",
       "created": "2026-06-19",
-      "updated": "2026-06-19",
+      "updated": "2026-06-22",
       "resolutiondate": "",
       "labels": [
         "Verisure_ES"
@@ -51,7 +163,7 @@
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-06-19",
-      "updated": "2026-06-19",
+      "updated": "2026-06-22",
       "resolutiondate": "",
       "labels": [
         "Soledad"
@@ -65,7 +177,7 @@
       "assignee": "Alexander Skalatskiy",
       "issuetype": "Bug",
       "created": "2026-06-19",
-      "updated": "2026-06-19",
+      "updated": "2026-06-22",
       "resolutiondate": "",
       "labels": [
         "AirEuropa"
@@ -147,7 +259,7 @@
       "assignee": "Adrià Sastre",
       "issuetype": "Discovery Task",
       "created": "2026-06-18",
-      "updated": "2026-06-18",
+      "updated": "2026-06-22",
       "resolutiondate": "",
       "labels": [
         "Retorna"
@@ -173,7 +285,7 @@
       "assignee": "Julieta Mezza",
       "issuetype": "Epic",
       "created": "2026-06-17",
-      "updated": "2026-06-17",
+      "updated": "2026-06-22",
       "resolutiondate": "",
       "labels": [
         "AirEuropa"
@@ -374,12 +486,12 @@
     {
       "key": "PS-5755",
       "summary": "Jetsmart - Develop Final Summary Step",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Ready for review",
+      "status_category": "In Progress",
       "assignee": null,
       "issuetype": "Task",
       "created": "2026-06-15",
-      "updated": "2026-06-15",
+      "updated": "2026-06-22",
       "resolutiondate": "",
       "labels": [
         "JetSmart"
@@ -433,7 +545,7 @@
       "assignee": "Adrià Sastre",
       "issuetype": "Discovery Task",
       "created": "2026-06-15",
-      "updated": "2026-06-19",
+      "updated": "2026-06-22",
       "resolutiondate": "",
       "labels": [
         "SegurCaixa"
@@ -614,10 +726,10 @@
       "summary": "Libeen - Eliminar el requisito de trabajar y vivir en España (no preguntarlo y no requisito para cualificar)",
       "status": "To Do",
       "status_category": "To Do",
-      "assignee": null,
+      "assignee": "Alexander Skalatskiy",
       "issuetype": "Task",
       "created": "2026-06-11",
-      "updated": "2026-06-11",
+      "updated": "2026-06-22",
       "resolutiondate": "",
       "labels": [
         "Libeen"
@@ -766,12 +878,12 @@
     {
       "key": "PS-5727",
       "summary": "Occident - Tasks Mataró Coexistence ",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Aitor Casas",
       "issuetype": "Task",
       "created": "2026-06-10",
-      "updated": "2026-06-15",
+      "updated": "2026-06-22",
       "resolutiondate": "",
       "labels": [
         "occident"
@@ -991,12 +1103,12 @@
     {
       "key": "PS-5711",
       "summary": "Wizz Air - Distinguish between automatic assignment of casas vs manual",
-      "status": "In Progress",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Julieta Mezza",
       "issuetype": "Task",
       "created": "2026-06-08",
-      "updated": "2026-06-08",
+      "updated": "2026-06-22",
       "resolutiondate": "",
       "labels": [
         "WizzAir"
@@ -1412,12 +1524,12 @@
     {
       "key": "PS-5681",
       "summary": "Consum - Flow Builder migration",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "In Progress",
+      "status_category": "In Progress",
       "assignee": "Pep Alonso",
       "issuetype": "Task",
       "created": "2026-06-02",
-      "updated": "2026-06-03",
+      "updated": "2026-06-22",
       "resolutiondate": "",
       "labels": [
         "Consum"
@@ -1594,12 +1706,12 @@
     {
       "key": "PS-5668",
       "summary": "Ralph Lauren- create for production action 90min delay ",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "In Progress",
+      "status_category": "In Progress",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-06-01",
-      "updated": "2026-06-16",
+      "updated": "2026-06-22",
       "resolutiondate": "",
       "labels": [
         "Ralph_Lauren"
@@ -1641,7 +1753,7 @@
       "assignee": "Andrea Talal Haidar",
       "issuetype": "Task",
       "created": "2026-05-29",
-      "updated": "2026-06-16",
+      "updated": "2026-06-22",
       "resolutiondate": "",
       "labels": [
         "Ralph_Lauren"
@@ -2749,12 +2861,12 @@
     {
       "key": "PS-5585",
       "summary": "Apply Design changes Air Europa ",
-      "status": "In Progress",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Vicky Correbo",
       "issuetype": "Task",
       "created": "2026-05-19",
-      "updated": "2026-06-15",
+      "updated": "2026-06-22",
       "resolutiondate": "",
       "labels": [
         "AirEuropa"
@@ -3746,12 +3858,12 @@
     {
       "key": "PS-5511",
       "summary": "Michael Kors - Implement WISMO/WISMR flow and bot responses",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "In Progress",
+      "status_category": "In Progress",
       "assignee": "Alexander Skalatskiy",
       "issuetype": "Task",
       "created": "2026-05-07",
-      "updated": "2026-06-08",
+      "updated": "2026-06-22",
       "resolutiondate": "",
       "labels": [
         "Michael-Kors"
@@ -4826,7 +4938,7 @@
       "assignee": "Alexander Skalatskiy",
       "issuetype": "Task",
       "created": "2026-04-23",
-      "updated": "2026-06-15",
+      "updated": "2026-06-22",
       "resolutiondate": "",
       "labels": [
         "AirEuropa"
@@ -4835,12 +4947,12 @@
     {
       "key": "PS-5430",
       "summary": "Air Europa - Apply design changes (2)",
-      "status": "In Progress",
+      "status": "Ready for review",
       "status_category": "In Progress",
       "assignee": "Evgeni Slavyanov",
       "issuetype": "Task",
       "created": "2026-04-23",
-      "updated": "2026-06-19",
+      "updated": "2026-06-22",
       "resolutiondate": "",
       "labels": [
         "AirEuropa"
@@ -6579,7 +6691,7 @@
       "assignee": null,
       "issuetype": "Task",
       "created": "2026-04-08",
-      "updated": "2026-04-29",
+      "updated": "2026-06-22",
       "resolutiondate": "",
       "labels": [
         "JetSmart"
@@ -11371,12 +11483,12 @@
     {
       "key": "PS-4931",
       "summary": "Jetsmart - Complex use case \"Buy a flight\"",
-      "status": "In Progress",
+      "status": "Ready for review",
       "status_category": "In Progress",
       "assignee": "Pep Alonso",
       "issuetype": "Epic",
       "created": "2026-01-30",
-      "updated": "2026-04-07",
+      "updated": "2026-06-22",
       "resolutiondate": "",
       "labels": [
         "JetSmart"
@@ -12184,12 +12296,12 @@
     {
       "key": "PS-4861",
       "summary": "Occident - Review how Occident can be autonomous adding Agencies phone numbers to the bot",
-      "status": "To Do",
+      "status": "Open",
       "status_category": "To Do",
       "assignee": "Adrià Sastre",
       "issuetype": "Task",
       "created": "2026-01-19",
-      "updated": "2026-06-15",
+      "updated": "2026-06-22",
       "resolutiondate": "",
       "labels": [
         "occident"
@@ -13608,12 +13720,12 @@
     {
       "key": "PS-4746",
       "summary": "Jetsmart - Develop buy a flight ",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Ready for review",
+      "status_category": "In Progress",
       "assignee": "Pep Alonso",
       "issuetype": "Task",
       "created": "2025-12-16",
-      "updated": "2026-06-18",
+      "updated": "2026-06-22",
       "resolutiondate": "",
       "labels": [
         "JetSmart"
@@ -19125,12 +19237,12 @@
     {
       "key": "PS-4288",
       "summary": "Jetsmart - API Review \"Yuno\" (link de pago)",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Pep Alonso",
       "issuetype": "Task",
       "created": "2025-08-12",
-      "updated": "2026-06-18",
+      "updated": "2026-06-22",
       "resolutiondate": "",
       "labels": [
         "JetSmart"
