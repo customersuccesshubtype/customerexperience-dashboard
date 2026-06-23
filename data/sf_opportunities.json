@@ -1,21 +1,21 @@
 {
-  "last_updated": "2026-06-22 13:05 UTC",
+  "last_updated": "2026-06-23 10:43 UTC",
   "opportunities": [
     {
       "id": "006Sa00000iRSWjIAO",
       "name": "2026-C-Verisure FR - API to send templates and specific handoff",
       "type": "Consultancy",
-      "stage": "Opportunity identified",
-      "is_closed": false,
-      "is_won": false,
-      "probability": 10.0,
+      "stage": "Closed Won",
+      "is_closed": true,
+      "is_won": true,
+      "probability": 100.0,
       "amount": 3200.0,
       "arr": 0.0,
       "owner": "Marta Marron",
       "cs_lead": "Marta Marron",
       "account": "Verisure France",
       "created": "2026-06-18",
-      "close_date": "2026-04-15",
+      "close_date": "2026-06-23",
       "start_date": "2026-06-30"
     },
     {
