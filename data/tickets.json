@@ -1,6 +1,90 @@
 {
-  "last_updated": "2026-06-22 12:47 UTC",
+  "last_updated": "2026-06-23 10:35 UTC",
   "tickets": [
+    {
+      "key": "PS-5796",
+      "summary": "SegurCaixa - Incluir el origen de la cita",
+      "status": "In Progress",
+      "status_category": "In Progress",
+      "assignee": "Evgeni Slavyanov",
+      "issuetype": "Task",
+      "created": "2026-06-22",
+      "updated": "2026-06-23",
+      "resolutiondate": "",
+      "labels": [
+        "SegurCaixa"
+      ]
+    },
+    {
+      "key": "PS-5795",
+      "summary": "SEM - Review if we can implement Autolanguage detection",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Marta Marron",
+      "issuetype": "Task",
+      "created": "2026-06-22",
+      "updated": "2026-06-22",
+      "resolutiondate": "",
+      "labels": [
+        "SEM"
+      ]
+    },
+    {
+      "key": "PS-5794",
+      "summary": "Ralph Lauren - The AI Agent uses the filter New Arrivals when it is not a request from clients",
+      "status": "Ready for review",
+      "status_category": "In Progress",
+      "assignee": "irene callejas",
+      "issuetype": "Task",
+      "created": "2026-06-22",
+      "updated": "2026-06-22",
+      "resolutiondate": "",
+      "labels": [
+        "Ralph_Lauren"
+      ]
+    },
+    {
+      "key": "PS-5793",
+      "summary": "Ralph Lauren - Prohibit the agent to use the word filter",
+      "status": "Ready for review",
+      "status_category": "In Progress",
+      "assignee": "irene callejas",
+      "issuetype": "Task",
+      "created": "2026-06-22",
+      "updated": "2026-06-22",
+      "resolutiondate": "",
+      "labels": [
+        "Ralph_Lauren"
+      ]
+    },
+    {
+      "key": "PS-5792",
+      "summary": "Ralph Lauren - AI Agent sometimes gets confused when asked about availability",
+      "status": "In Progress",
+      "status_category": "In Progress",
+      "assignee": "irene callejas",
+      "issuetype": "Task",
+      "created": "2026-06-22",
+      "updated": "2026-06-23",
+      "resolutiondate": "",
+      "labels": [
+        "Ralph_Lauren"
+      ]
+    },
+    {
+      "key": "PS-5791",
+      "summary": "Ralph Lauren - The AI Agent sometimes hallucinates when providing info on stores",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Marta Marron",
+      "issuetype": "Task",
+      "created": "2026-06-22",
+      "updated": "2026-06-22",
+      "resolutiondate": "",
+      "labels": [
+        "Ralph_Lauren"
+      ]
+    },
     {
       "key": "PS-5790",
       "summary": "Ralph Lauren : Adjust prompt to tech updates",
@@ -46,12 +130,12 @@
     {
       "key": "PS-5787",
       "summary": "Tendam - Closed cases not reaching InConcert",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Ready to Deliver",
+      "status_category": "In Progress",
       "assignee": "Adrià Sastre",
       "issuetype": "Bug",
       "created": "2026-06-22",
-      "updated": "2026-06-22",
+      "updated": "2026-06-23",
       "resolutiondate": "",
       "labels": [
         "tendam"
@@ -130,12 +214,12 @@
     {
       "key": "PS-5781",
       "summary": "Verisure Spain - Nuevo Bot Whatsapp Telecierre",
-      "status": "Ready for review",
+      "status": "Ready to Deliver",
       "status_category": "In Progress",
       "assignee": "Evgeni Slavyanov",
       "issuetype": "Task",
       "created": "2026-06-19",
-      "updated": "2026-06-22",
+      "updated": "2026-06-23",
       "resolutiondate": "",
       "labels": [
         "Verisure_ES"
@@ -254,8 +338,8 @@
     {
       "key": "PS-5772",
       "summary": "Retorna - Review Salesforce documentation",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Ready for review",
+      "status_category": "In Progress",
       "assignee": "Adrià Sastre",
       "issuetype": "Discovery Task",
       "created": "2026-06-18",
@@ -430,12 +514,12 @@
     {
       "key": "PS-5759",
       "summary": "Verisure Spain - Delete the italian bot and the related code",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Ready for review",
+      "status_category": "In Progress",
       "assignee": "Evgeni Slavyanov",
       "issuetype": "Task",
       "created": "2026-06-16",
-      "updated": "2026-06-19",
+      "updated": "2026-06-23",
       "resolutiondate": "",
       "labels": [
         "Verisure_ES"
@@ -1285,12 +1369,12 @@
     {
       "key": "PS-5698",
       "summary": "TMB - Accesibilidad: corrección de errores detectados",
-      "status": "To Do",
-      "status_category": "To Do",
-      "assignee": "Alexander Skalatskiy",
+      "status": "In Progress",
+      "status_category": "In Progress",
+      "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-06-04",
-      "updated": "2026-06-08",
+      "updated": "2026-06-23",
       "resolutiondate": "",
       "labels": [
         "TMB"
@@ -1706,7 +1790,7 @@
     {
       "key": "PS-5668",
       "summary": "Ralph Lauren- create for production action 90min delay ",
-      "status": "In Progress",
+      "status": "Ready for review",
       "status_category": "In Progress",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
@@ -1832,12 +1916,12 @@
     {
       "key": "PS-5659",
       "summary": "Ralph Lauren - Update prompt to recognize is saving size in wrap up",
-      "status": "Ready for review",
+      "status": "In Progress",
       "status_category": "In Progress",
       "assignee": "irene callejas",
       "issuetype": "Task",
       "created": "2026-05-29",
-      "updated": "2026-06-03",
+      "updated": "2026-06-23",
       "resolutiondate": "",
       "labels": [
         "Ralph_Lauren"
@@ -2468,12 +2552,12 @@
     {
       "key": "PS-5613",
       "summary": "Tendam - Automatically close cases in Waiting created 24 h ago with a specific message once closed.",
-      "status": "In Progress",
-      "status_category": "In Progress",
+      "status": "Closed",
+      "status_category": "Done",
       "assignee": "Adrià Sastre",
       "issuetype": "Discovery Task",
       "created": "2026-05-22",
-      "updated": "2026-05-29",
+      "updated": "2026-06-22",
       "resolutiondate": "",
       "labels": [
         "Tendam"
@@ -3858,7 +3942,7 @@
     {
       "key": "PS-5511",
       "summary": "Michael Kors - Implement WISMO/WISMR flow and bot responses",
-      "status": "In Progress",
+      "status": "Ready for review",
       "status_category": "In Progress",
       "assignee": "Alexander Skalatskiy",
       "issuetype": "Task",
@@ -10120,7 +10204,7 @@
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-02-16",
-      "updated": "2026-05-11",
+      "updated": "2026-06-22",
       "resolutiondate": "",
       "labels": [
         "Multiasistencia"
@@ -10134,7 +10218,7 @@
       "assignee": "Evgeni Slavyanov",
       "issuetype": "Task",
       "created": "2026-02-16",
-      "updated": "2026-05-11",
+      "updated": "2026-06-22",
       "resolutiondate": "",
       "labels": [
         "Multiasistencia"
