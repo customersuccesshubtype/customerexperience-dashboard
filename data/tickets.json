@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-23 10:35 UTC",
+  "last_updated": "2026-06-24 10:21 UTC",
   "tickets": [
     {
       "key": "PS-5796",
@@ -60,7 +60,7 @@
     {
       "key": "PS-5792",
       "summary": "Ralph Lauren - AI Agent sometimes gets confused when asked about availability",
-      "status": "In Progress",
+      "status": "Ready for review",
       "status_category": "In Progress",
       "assignee": "irene callejas",
       "issuetype": "Task",
@@ -74,12 +74,12 @@
     {
       "key": "PS-5791",
       "summary": "Ralph Lauren - The AI Agent sometimes hallucinates when providing info on stores",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "In Progress",
+      "status_category": "In Progress",
       "assignee": "Marta Marron",
       "issuetype": "Task",
       "created": "2026-06-22",
-      "updated": "2026-06-22",
+      "updated": "2026-06-23",
       "resolutiondate": "",
       "labels": [
         "Ralph_Lauren"
@@ -144,12 +144,12 @@
     {
       "key": "PS-5786",
       "summary": "Soledad - Design Configuration webview",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "In Progress",
+      "status_category": "In Progress",
       "assignee": "Andrea Talal Haidar",
       "issuetype": "Task",
       "created": "2026-06-22",
-      "updated": "2026-06-22",
+      "updated": "2026-06-23",
       "resolutiondate": "",
       "labels": [
         "Soledad"
@@ -256,12 +256,12 @@
     {
       "key": "PS-5778",
       "summary": "Air Europa - Review why we are displayin the English version of the bot if the country code is Argentinian",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "APPROVED FOR PRODUCTION",
+      "status_category": "Done",
       "assignee": "Alexander Skalatskiy",
       "issuetype": "Bug",
       "created": "2026-06-19",
-      "updated": "2026-06-22",
+      "updated": "2026-06-23",
       "resolutiondate": "",
       "labels": [
         "AirEuropa"
@@ -792,12 +792,12 @@
     {
       "key": "PS-5739",
       "summary": "WizzAir - Bug -Webchat button error on specific website section",
-      "status": "In Progress",
-      "status_category": "In Progress",
+      "status": "Closed",
+      "status_category": "Done",
       "assignee": "Alexander Skalatskiy",
       "issuetype": "Bug",
       "created": "2026-06-12",
-      "updated": "2026-06-15",
+      "updated": "2026-06-23",
       "resolutiondate": "",
       "labels": [
         "Bug",
@@ -1509,12 +1509,12 @@
     {
       "key": "PS-5688",
       "summary": "Air Europa - Bug - Ava error response is triggering the Otherwise fallback flow for text message",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Ready for review",
+      "status_category": "In Progress",
       "assignee": "Alexander Skalatskiy",
       "issuetype": "Bug",
       "created": "2026-06-03",
-      "updated": "2026-06-15",
+      "updated": "2026-06-23",
       "resolutiondate": "",
       "labels": [
         "AirEuropa",
@@ -3942,12 +3942,12 @@
     {
       "key": "PS-5511",
       "summary": "Michael Kors - Implement WISMO/WISMR flow and bot responses",
-      "status": "Ready for review",
+      "status": "In Review",
       "status_category": "In Progress",
       "assignee": "Alexander Skalatskiy",
       "issuetype": "Task",
       "created": "2026-05-07",
-      "updated": "2026-06-22",
+      "updated": "2026-06-23",
       "resolutiondate": "",
       "labels": [
         "Michael-Kors"
@@ -4290,7 +4290,7 @@
       "assignee": "Adrià Sastre",
       "issuetype": "Task",
       "created": "2026-05-04",
-      "updated": "2026-06-08",
+      "updated": "2026-06-23",
       "resolutiondate": "",
       "labels": [
         "occident"
@@ -4757,12 +4757,12 @@
     {
       "key": "PS-5451",
       "summary": "Air Europa - Apply design changes (1)",
-      "status": "Ready for review",
+      "status": "In Review",
       "status_category": "In Progress",
       "assignee": "Evgeni Slavyanov",
       "issuetype": "Task",
       "created": "2026-04-27",
-      "updated": "2026-06-19",
+      "updated": "2026-06-23",
       "resolutiondate": "",
       "labels": [
         "AirEuropa"
@@ -5036,7 +5036,7 @@
       "assignee": "Evgeni Slavyanov",
       "issuetype": "Task",
       "created": "2026-04-23",
-      "updated": "2026-06-22",
+      "updated": "2026-06-23",
       "resolutiondate": "",
       "labels": [
         "AirEuropa"
@@ -11572,7 +11572,7 @@
       "assignee": "Pep Alonso",
       "issuetype": "Epic",
       "created": "2026-01-30",
-      "updated": "2026-06-22",
+      "updated": "2026-06-23",
       "resolutiondate": "",
       "labels": [
         "JetSmart"
