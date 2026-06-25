@@ -1,6 +1,62 @@
 {
-  "last_updated": "2026-06-24 10:21 UTC",
+  "last_updated": "2026-06-25 10:13 UTC",
   "tickets": [
+    {
+      "key": "PS-5800",
+      "summary": "SegurCaixa - Campanya revisions i higiene",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Evgeni Slavyanov",
+      "issuetype": "Task",
+      "created": "2026-06-25",
+      "updated": "2026-06-25",
+      "resolutiondate": "",
+      "labels": [
+        "SegurCaixa"
+      ]
+    },
+    {
+      "key": "PS-5799",
+      "summary": "Wizz Air - Test new production URL",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Lorena Sánchez-Toril Nicolás",
+      "issuetype": "Task",
+      "created": "2026-06-25",
+      "updated": "2026-06-25",
+      "resolutiondate": "",
+      "labels": [
+        "WizzAir"
+      ]
+    },
+    {
+      "key": "PS-5798",
+      "summary": "Ralph Lauren - add seasonless tag",
+      "status": "Ready for review",
+      "status_category": "In Progress",
+      "assignee": "Lorena Sánchez-Toril Nicolás",
+      "issuetype": "Task",
+      "created": "2026-06-25",
+      "updated": "2026-06-25",
+      "resolutiondate": "",
+      "labels": [
+        "Ralph_Lauren"
+      ]
+    },
+    {
+      "key": "PS-5797",
+      "summary": "Guess - Clean old messages in webchat after 24h of inactivity",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": null,
+      "issuetype": "Task",
+      "created": "2026-06-24",
+      "updated": "2026-06-25",
+      "resolutiondate": "",
+      "labels": [
+        "Guess"
+      ]
+    },
     {
       "key": "PS-5796",
       "summary": "SegurCaixa - Incluir el origen de la cita",
@@ -1374,7 +1430,7 @@
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-06-04",
-      "updated": "2026-06-23",
+      "updated": "2026-06-25",
       "resolutiondate": "",
       "labels": [
         "TMB"
@@ -2194,12 +2250,12 @@
     {
       "key": "PS-5639",
       "summary": "TMB - Produce a time estimate for the Zendesk integration under a conservative assumption (build from scratch, possible middleware needed).",
-      "status": "Closed",
-      "status_category": "Done",
+      "status": "To Do",
+      "status_category": "To Do",
       "assignee": "Adrià Sastre",
       "issuetype": "Discovery Task",
       "created": "2026-05-26",
-      "updated": "2026-05-29",
+      "updated": "2026-06-25",
       "resolutiondate": "",
       "labels": [
         "TMB"
@@ -2622,12 +2678,12 @@
     {
       "key": "PS-5608",
       "summary": "Internal - Create internal package to manage AWS resources",
-      "status": "Ready for review",
+      "status": "In Progress",
       "status_category": "In Progress",
       "assignee": "Adrià Sastre",
       "issuetype": "Task",
       "created": "2026-05-21",
-      "updated": "2026-05-21",
+      "updated": "2026-06-24",
       "resolutiondate": "",
       "labels": [
         "Internal"
@@ -7385,7 +7441,7 @@
       "assignee": "Adrià Sastre",
       "issuetype": "Task",
       "created": "2026-03-24",
-      "updated": "2026-05-21",
+      "updated": "2026-06-24",
       "resolutiondate": "",
       "labels": [
         "Internal"
@@ -7623,7 +7679,7 @@
       "assignee": null,
       "issuetype": "Epic",
       "created": "2026-03-24",
-      "updated": "2026-04-29",
+      "updated": "2026-06-24",
       "resolutiondate": "",
       "labels": [
         "Internal"
@@ -10199,12 +10255,12 @@
     {
       "key": "PS-5036",
       "summary": "Multiasistencia - Update botonic version - MULTI_FRANCIA_STAGING - 662b5c99-a812-4c41-b27c-597978890ab4",
-      "status": "Ready for review",
-      "status_category": "In Progress",
+      "status": "In production",
+      "status_category": "Done",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-02-16",
-      "updated": "2026-06-22",
+      "updated": "2026-06-25",
       "resolutiondate": "",
       "labels": [
         "Multiasistencia"
