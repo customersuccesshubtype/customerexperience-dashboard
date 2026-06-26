@@ -1,6 +1,23 @@
 {
-  "last_updated": "2026-06-25 10:20 UTC",
+  "last_updated": "2026-06-26 10:28 UTC",
   "opportunities": [
+    {
+      "id": "006Sa00000isFX1IAM",
+      "name": "2026-C-GUESS-Changes in Webchat",
+      "type": "Consultancy",
+      "stage": "Opportunity identified",
+      "is_closed": false,
+      "is_won": false,
+      "probability": 10.0,
+      "amount": 300.0,
+      "arr": 0.0,
+      "owner": "Marta Marron",
+      "cs_lead": "Francisca Martelli",
+      "account": "GUESS",
+      "created": "2026-06-25",
+      "close_date": "2026-06-11",
+      "start_date": "2026-07-04"
+    },
     {
       "id": "006Sa00000iRSWjIAO",
       "name": "2026-C-Verisure FR - API to send templates and specific handoff",
