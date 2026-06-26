@@ -1,6 +1,146 @@
 {
-  "last_updated": "2026-06-25 10:13 UTC",
+  "last_updated": "2026-06-26 10:21 UTC",
   "tickets": [
+    {
+      "key": "PS-5812",
+      "summary": "Air Europa - Interprete \"HubtypeAction\" and trigger flow builder with AVA response",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Adrià Sastre",
+      "issuetype": "Task",
+      "created": "2026-06-26",
+      "updated": "2026-06-26",
+      "resolutiondate": "",
+      "labels": [
+        "AirEuropa"
+      ]
+    },
+    {
+      "key": "PS-5811",
+      "summary": "Ralph Lauren - v3 endpoint /search ",
+      "status": "Ready for review",
+      "status_category": "In Progress",
+      "assignee": "Lorena Sánchez-Toril Nicolás",
+      "issuetype": "Task",
+      "created": "2026-06-26",
+      "updated": "2026-06-26",
+      "resolutiondate": "",
+      "labels": [
+        "Ralph_Lauren"
+      ]
+    },
+    {
+      "key": "PS-5810",
+      "summary": "Ralph Lauren - WA flow feedback",
+      "status": "In Progress",
+      "status_category": "In Progress",
+      "assignee": "Lorena Sánchez-Toril Nicolás",
+      "issuetype": "Task",
+      "created": "2026-06-26",
+      "updated": "2026-06-26",
+      "resolutiondate": "",
+      "labels": [
+        "Ralph_Lauren"
+      ]
+    },
+    {
+      "key": "PS-5809",
+      "summary": "Verisure FR - Once a case is resolved we need to send information to a Verisure FR endpoint",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Adrià Sastre",
+      "issuetype": "Task",
+      "created": "2026-06-25",
+      "updated": "2026-06-25",
+      "resolutiondate": "",
+      "labels": [
+        "Verisure-FR"
+      ]
+    },
+    {
+      "key": "PS-5808",
+      "summary": "Alsa- Update bot version so that we can include an Agent Router (to orchestrate conversations to specialists agents)",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": null,
+      "issuetype": "Task",
+      "created": "2026-06-25",
+      "updated": "2026-06-25",
+      "resolutiondate": "",
+      "labels": [
+        "Alsa"
+      ]
+    },
+    {
+      "key": "PS-5806",
+      "summary": "VGRS - Create organization if its not already created",
+      "status": "Closed",
+      "status_category": "Done",
+      "assignee": "Aitor Casas",
+      "issuetype": "Task",
+      "created": "2026-06-25",
+      "updated": "2026-06-25",
+      "resolutiondate": "",
+      "labels": [
+        "VGRS"
+      ]
+    },
+    {
+      "key": "PS-5805",
+      "summary": "VGRS - Review alternatives for the scoring process",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Julieta Mezza",
+      "issuetype": "Task",
+      "created": "2026-06-25",
+      "updated": "2026-06-25",
+      "resolutiondate": "",
+      "labels": [
+        "VGRS"
+      ]
+    },
+    {
+      "key": "PS-5804",
+      "summary": "VGRS - HelpDesk Initial Configuration (agents, proyect and queues)",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Aitor Casas",
+      "issuetype": "Task",
+      "created": "2026-06-25",
+      "updated": "2026-06-25",
+      "resolutiondate": "",
+      "labels": [
+        "VGRS"
+      ]
+    },
+    {
+      "key": "PS-5803",
+      "summary": "VGRS - Integrate whatsapp numbers Volkswagen and Audi",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Aitor Casas",
+      "issuetype": "Task",
+      "created": "2026-06-25",
+      "updated": "2026-06-25",
+      "resolutiondate": "",
+      "labels": [
+        "VGRS"
+      ]
+    },
+    {
+      "key": "PS-5802",
+      "summary": "VGRS - Deploy 2 bots",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Evgeni Slavyanov",
+      "issuetype": "Task",
+      "created": "2026-06-25",
+      "updated": "2026-06-25",
+      "resolutiondate": "",
+      "labels": [
+        "VGRS"
+      ]
+    },
     {
       "key": "PS-5800",
       "summary": "SegurCaixa - Campanya revisions i higiene",
@@ -23,7 +163,7 @@
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-06-25",
-      "updated": "2026-06-25",
+      "updated": "2026-06-26",
       "resolutiondate": "",
       "labels": [
         "WizzAir"
@@ -60,12 +200,12 @@
     {
       "key": "PS-5796",
       "summary": "SegurCaixa - Incluir el origen de la cita",
-      "status": "In Progress",
+      "status": "Ready for review",
       "status_category": "In Progress",
       "assignee": "Evgeni Slavyanov",
       "issuetype": "Task",
       "created": "2026-06-22",
-      "updated": "2026-06-23",
+      "updated": "2026-06-26",
       "resolutiondate": "",
       "labels": [
         "SegurCaixa"
@@ -205,7 +345,7 @@
       "assignee": "Andrea Talal Haidar",
       "issuetype": "Task",
       "created": "2026-06-22",
-      "updated": "2026-06-23",
+      "updated": "2026-06-26",
       "resolutiondate": "",
       "labels": [
         "Soledad"
@@ -242,12 +382,12 @@
     {
       "key": "PS-5783",
       "summary": "Ralph Lauren - Conversational experience Feedback",
-      "status": "In Progress",
+      "status": "Ready for review",
       "status_category": "In Progress",
       "assignee": "irene callejas",
       "issuetype": "Task",
       "created": "2026-06-22",
-      "updated": "2026-06-22",
+      "updated": "2026-06-25",
       "resolutiondate": "",
       "labels": [
         "Ralph_Lauren"
@@ -312,12 +452,12 @@
     {
       "key": "PS-5778",
       "summary": "Air Europa - Review why we are displayin the English version of the bot if the country code is Argentinian",
-      "status": "APPROVED FOR PRODUCTION",
+      "status": "In production",
       "status_category": "Done",
       "assignee": "Alexander Skalatskiy",
       "issuetype": "Bug",
       "created": "2026-06-19",
-      "updated": "2026-06-23",
+      "updated": "2026-06-25",
       "resolutiondate": "",
       "labels": [
         "AirEuropa"
@@ -342,22 +482,22 @@
       "summary": "Verisure FR - Once a template is received, store fields in a yellow note (same as Verisure IT)",
       "status": "To Do",
       "status_category": "To Do",
-      "assignee": null,
+      "assignee": "Adrià Sastre",
       "issuetype": "Task",
       "created": "2026-06-18",
-      "updated": "2026-06-18",
+      "updated": "2026-06-25",
       "resolutiondate": "",
       "labels": []
     },
     {
       "key": "PS-5775",
       "summary": "Verisure FR - Project to send templates, record fields and do handoff",
-      "status": "Open",
-      "status_category": "To Do",
-      "assignee": null,
+      "status": "In Progress",
+      "status_category": "In Progress",
+      "assignee": "Marta Marron",
       "issuetype": "Epic",
       "created": "2026-06-18",
-      "updated": "2026-06-18",
+      "updated": "2026-06-25",
       "resolutiondate": "",
       "labels": [
         "Verisure-FR"
@@ -394,12 +534,12 @@
     {
       "key": "PS-5772",
       "summary": "Retorna - Review Salesforce documentation",
-      "status": "Ready for review",
+      "status": "In Progress",
       "status_category": "In Progress",
       "assignee": "Adrià Sastre",
       "issuetype": "Discovery Task",
       "created": "2026-06-18",
-      "updated": "2026-06-22",
+      "updated": "2026-06-25",
       "resolutiondate": "",
       "labels": [
         "Retorna"
@@ -570,12 +710,12 @@
     {
       "key": "PS-5759",
       "summary": "Verisure Spain - Delete the italian bot and the related code",
-      "status": "Ready for review",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Evgeni Slavyanov",
       "issuetype": "Task",
       "created": "2026-06-16",
-      "updated": "2026-06-23",
+      "updated": "2026-06-25",
       "resolutiondate": "",
       "labels": [
         "Verisure_ES"
@@ -1270,13 +1410,13 @@
     },
     {
       "key": "PS-5709",
-      "summary": "Air Europa - Add values to AVA call",
+      "summary": "Air Europa - Add values to AVA call (2)",
       "status": "Open",
       "status_category": "To Do",
-      "assignee": "Alexander Skalatskiy",
+      "assignee": "Julieta Mezza",
       "issuetype": "Task",
       "created": "2026-06-05",
-      "updated": "2026-06-08",
+      "updated": "2026-06-26",
       "resolutiondate": "",
       "labels": [
         "AirEuropa"
@@ -1313,12 +1453,12 @@
     {
       "key": "PS-5706",
       "summary": "Air Europa - Falla envío estado de user_logged en chatcontext a AVA",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Ready for review",
+      "status_category": "In Progress",
       "assignee": "Alexander Skalatskiy",
       "issuetype": "Bug",
       "created": "2026-06-05",
-      "updated": "2026-06-15",
+      "updated": "2026-06-26",
       "resolutiondate": "",
       "labels": [
         "AirEuropa"
@@ -1425,7 +1565,7 @@
     {
       "key": "PS-5698",
       "summary": "TMB - Accesibilidad: corrección de errores detectados",
-      "status": "In Progress",
+      "status": "Ready for review",
       "status_category": "In Progress",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
@@ -1893,7 +2033,7 @@
       "assignee": "Andrea Talal Haidar",
       "issuetype": "Task",
       "created": "2026-05-29",
-      "updated": "2026-06-22",
+      "updated": "2026-06-26",
       "resolutiondate": "",
       "labels": [
         "Ralph_Lauren"
@@ -5073,12 +5213,12 @@
     {
       "key": "PS-5431",
       "summary": "Air Europa - Logic changes",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "In Progress",
+      "status_category": "In Progress",
       "assignee": "Alexander Skalatskiy",
       "issuetype": "Task",
       "created": "2026-04-23",
-      "updated": "2026-06-22",
+      "updated": "2026-06-26",
       "resolutiondate": "",
       "labels": [
         "AirEuropa"
@@ -10269,12 +10409,12 @@
     {
       "key": "PS-5035",
       "summary": "Multiasistencia - Update botonic version - MULTI_MUTUA_TIN_STAGING - e7d99b0c-c542-4b8d-abb0-badecc92fa6d",
-      "status": "Ready for review",
-      "status_category": "In Progress",
+      "status": "In production",
+      "status_category": "Done",
       "assignee": "Evgeni Slavyanov",
       "issuetype": "Task",
       "created": "2026-02-16",
-      "updated": "2026-06-22",
+      "updated": "2026-06-26",
       "resolutiondate": "",
       "labels": [
         "Multiasistencia"
@@ -12315,7 +12455,7 @@
       "assignee": "Marta Marron",
       "issuetype": "Epic",
       "created": "2026-01-21",
-      "updated": "2026-03-23",
+      "updated": "2026-06-25",
       "resolutiondate": "",
       "labels": [
         "VGRS"
@@ -22689,7 +22829,7 @@
       "assignee": "Jonatan Rojas",
       "issuetype": "Epic",
       "created": "2025-05-26",
-      "updated": "2025-12-22",
+      "updated": "2026-06-26",
       "resolutiondate": "",
       "labels": [
         "AirEuropa"
