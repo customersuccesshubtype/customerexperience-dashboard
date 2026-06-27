@@ -1,6 +1,34 @@
 {
-  "last_updated": "2026-06-26 10:21 UTC",
+  "last_updated": "2026-06-27 09:26 UTC",
   "tickets": [
+    {
+      "key": "PS-5814",
+      "summary": "Alsa - Revisar contenidos del bot para caso de uso \"Cambiar el idioma de la APP de Alsa\"",
+      "status": "APPROVED FOR PRODUCTION",
+      "status_category": "Done",
+      "assignee": "irene callejas",
+      "issuetype": "Task",
+      "created": "2026-06-26",
+      "updated": "2026-06-26",
+      "resolutiondate": "",
+      "labels": [
+        "Alsa"
+      ]
+    },
+    {
+      "key": "PS-5813",
+      "summary": "Occident - Review how we are using information for autoservicios in webchat",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Pep Alonso",
+      "issuetype": "Task",
+      "created": "2026-06-26",
+      "updated": "2026-06-26",
+      "resolutiondate": "",
+      "labels": [
+        "occident"
+      ]
+    },
     {
       "key": "PS-5812",
       "summary": "Air Europa - Interprete \"HubtypeAction\" and trigger flow builder with AVA response",
@@ -32,8 +60,8 @@
     {
       "key": "PS-5810",
       "summary": "Ralph Lauren - WA flow feedback",
-      "status": "In Progress",
-      "status_category": "In Progress",
+      "status": "To Do",
+      "status_category": "To Do",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-06-26",
@@ -51,7 +79,7 @@
       "assignee": "Adrià Sastre",
       "issuetype": "Task",
       "created": "2026-06-25",
-      "updated": "2026-06-25",
+      "updated": "2026-06-26",
       "resolutiondate": "",
       "labels": [
         "Verisure-FR"
@@ -65,7 +93,7 @@
       "assignee": null,
       "issuetype": "Task",
       "created": "2026-06-25",
-      "updated": "2026-06-25",
+      "updated": "2026-06-26",
       "resolutiondate": "",
       "labels": [
         "Alsa"
@@ -130,12 +158,12 @@
     {
       "key": "PS-5802",
       "summary": "VGRS - Deploy 2 bots",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "In Progress",
+      "status_category": "In Progress",
       "assignee": "Evgeni Slavyanov",
       "issuetype": "Task",
       "created": "2026-06-25",
-      "updated": "2026-06-25",
+      "updated": "2026-06-26",
       "resolutiondate": "",
       "labels": [
         "VGRS"
@@ -158,8 +186,8 @@
     {
       "key": "PS-5799",
       "summary": "Wizz Air - Test new production URL",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "In Progress",
+      "status_category": "In Progress",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-06-25",
@@ -284,12 +312,12 @@
     {
       "key": "PS-5790",
       "summary": "Ralph Lauren : Adjust prompt to tech updates",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Ready for review",
+      "status_category": "In Progress",
       "assignee": "irene callejas",
       "issuetype": "Task",
       "created": "2026-06-22",
-      "updated": "2026-06-22",
+      "updated": "2026-06-26",
       "resolutiondate": "",
       "labels": [
         "Ralph_Lauren"
@@ -298,12 +326,12 @@
     {
       "key": "PS-5789",
       "summary": "Michael Kors - Transition from Smart Intent to Agent handling order requests ",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "In Progress",
+      "status_category": "In Progress",
       "assignee": "irene callejas",
       "issuetype": "Task",
       "created": "2026-06-22",
-      "updated": "2026-06-22",
+      "updated": "2026-06-26",
       "resolutiondate": "",
       "labels": [
         "Michael-Kors"
@@ -331,7 +359,7 @@
       "assignee": "Adrià Sastre",
       "issuetype": "Bug",
       "created": "2026-06-22",
-      "updated": "2026-06-23",
+      "updated": "2026-06-26",
       "resolutiondate": "",
       "labels": [
         "tendam"
@@ -452,12 +480,12 @@
     {
       "key": "PS-5778",
       "summary": "Air Europa - Review why we are displayin the English version of the bot if the country code is Argentinian",
-      "status": "In production",
+      "status": "Done",
       "status_category": "Done",
       "assignee": "Alexander Skalatskiy",
       "issuetype": "Bug",
       "created": "2026-06-19",
-      "updated": "2026-06-25",
+      "updated": "2026-06-26",
       "resolutiondate": "",
       "labels": [
         "AirEuropa"
@@ -485,7 +513,7 @@
       "assignee": "Adrià Sastre",
       "issuetype": "Task",
       "created": "2026-06-18",
-      "updated": "2026-06-25",
+      "updated": "2026-06-26",
       "resolutiondate": "",
       "labels": []
     },
@@ -534,12 +562,12 @@
     {
       "key": "PS-5772",
       "summary": "Retorna - Review Salesforce documentation",
-      "status": "In Progress",
+      "status": "Ready for review",
       "status_category": "In Progress",
       "assignee": "Adrià Sastre",
       "issuetype": "Discovery Task",
       "created": "2026-06-18",
-      "updated": "2026-06-25",
+      "updated": "2026-06-26",
       "resolutiondate": "",
       "labels": [
         "Retorna"
@@ -607,7 +635,7 @@
       "assignee": "Alexander Skalatskiy",
       "issuetype": "Bug",
       "created": "2026-06-17",
-      "updated": "2026-06-18",
+      "updated": "2026-06-26",
       "resolutiondate": "",
       "labels": [
         "AirEuropa"
@@ -649,7 +677,7 @@
       "assignee": "Alexander Skalatskiy",
       "issuetype": "Bug",
       "created": "2026-06-16",
-      "updated": "2026-06-17",
+      "updated": "2026-06-26",
       "resolutiondate": "",
       "labels": [
         "AirEuropa"
@@ -993,7 +1021,7 @@
       "assignee": "Alexander Skalatskiy",
       "issuetype": "Bug",
       "created": "2026-06-12",
-      "updated": "2026-06-23",
+      "updated": "2026-06-26",
       "resolutiondate": "",
       "labels": [
         "Bug",
@@ -1051,7 +1079,7 @@
       "assignee": "Alexander Skalatskiy",
       "issuetype": "Bug",
       "created": "2026-06-11",
-      "updated": "2026-06-18",
+      "updated": "2026-06-26",
       "resolutiondate": "",
       "labels": [
         "AirEuropa"
@@ -1233,7 +1261,7 @@
       "assignee": "Evgeni Slavyanov",
       "issuetype": "Bug",
       "created": "2026-06-09",
-      "updated": "2026-06-15",
+      "updated": "2026-06-26",
       "resolutiondate": "",
       "labels": [
         "Bug",
@@ -1290,7 +1318,7 @@
       "assignee": "Aitor Casas",
       "issuetype": "Bug",
       "created": "2026-06-08",
-      "updated": "2026-06-12",
+      "updated": "2026-06-26",
       "resolutiondate": "",
       "labels": [
         "RACC"
@@ -1705,12 +1733,12 @@
     {
       "key": "PS-5688",
       "summary": "Air Europa - Bug - Ava error response is triggering the Otherwise fallback flow for text message",
-      "status": "Ready for review",
-      "status_category": "In Progress",
+      "status": "APPROVED FOR PRODUCTION",
+      "status_category": "Done",
       "assignee": "Alexander Skalatskiy",
       "issuetype": "Bug",
       "created": "2026-06-03",
-      "updated": "2026-06-23",
+      "updated": "2026-06-26",
       "resolutiondate": "",
       "labels": [
         "AirEuropa",
@@ -1725,7 +1753,7 @@
       "assignee": "Alexander Skalatskiy",
       "issuetype": "Bug",
       "created": "2026-06-03",
-      "updated": "2026-06-15",
+      "updated": "2026-06-26",
       "resolutiondate": "",
       "labels": [
         "AirEuropa"
@@ -1921,7 +1949,7 @@
       "assignee": "Alexander Skalatskiy",
       "issuetype": "Bug",
       "created": "2026-06-02",
-      "updated": "2026-06-15",
+      "updated": "2026-06-26",
       "resolutiondate": "",
       "labels": [
         "AirEuropa"
@@ -2809,7 +2837,7 @@
       "assignee": "irene callejas",
       "issuetype": "Bug",
       "created": "2026-05-22",
-      "updated": "2026-05-22",
+      "updated": "2026-06-26",
       "resolutiondate": "",
       "labels": [
         "Tendam"
@@ -2919,7 +2947,7 @@
       "assignee": "Pep Alonso",
       "issuetype": "Bug",
       "created": "2026-05-21",
-      "updated": "2026-06-01",
+      "updated": "2026-06-26",
       "resolutiondate": "",
       "labels": [
         "Allianz-ES",
@@ -2934,7 +2962,7 @@
       "assignee": "Evgeni Slavyanov",
       "issuetype": "Bug",
       "created": "2026-05-21",
-      "updated": "2026-05-21",
+      "updated": "2026-06-26",
       "resolutiondate": "",
       "labels": [
         "Bug",
@@ -2991,7 +3019,7 @@
       "assignee": "irene callejas",
       "issuetype": "Bug",
       "created": "2026-05-20",
-      "updated": "2026-05-26",
+      "updated": "2026-06-26",
       "resolutiondate": "",
       "labels": [
         "Michael-Kors"
@@ -3074,9 +3102,9 @@
       "status": "Done",
       "status_category": "Done",
       "assignee": "Aitor Casas",
-      "issuetype": "Bug",
+      "issuetype": "Task",
       "created": "2026-05-20",
-      "updated": "2026-05-20",
+      "updated": "2026-06-26",
       "resolutiondate": "",
       "labels": [
         "Generalitat-Turisme"
@@ -3090,7 +3118,7 @@
       "assignee": "Aitor Casas",
       "issuetype": "Bug",
       "created": "2026-05-20",
-      "updated": "2026-05-20",
+      "updated": "2026-06-26",
       "resolutiondate": "",
       "labels": [
         "Allianz-ES"
@@ -3104,7 +3132,7 @@
       "assignee": "Alexander Skalatskiy",
       "issuetype": "Bug",
       "created": "2026-05-19",
-      "updated": "2026-05-25",
+      "updated": "2026-06-26",
       "resolutiondate": "",
       "labels": [
         "Libeen"
@@ -3469,7 +3497,7 @@
       "assignee": "Adrià Sastre",
       "issuetype": "Bug",
       "created": "2026-05-13",
-      "updated": "2026-05-15",
+      "updated": "2026-06-26",
       "resolutiondate": "",
       "labels": [
         "Assegur"
@@ -3525,7 +3553,7 @@
       "assignee": "Adrià Sastre",
       "issuetype": "Bug",
       "created": "2026-05-13",
-      "updated": "2026-05-18",
+      "updated": "2026-06-26",
       "resolutiondate": "",
       "labels": [
         "Assegur"
@@ -3539,7 +3567,7 @@
       "assignee": "Aitor Casas",
       "issuetype": "Bug",
       "created": "2026-05-13",
-      "updated": "2026-05-13",
+      "updated": "2026-06-26",
       "resolutiondate": "",
       "labels": [
         "Verisure_Italy"
@@ -3979,7 +4007,7 @@
       "assignee": "Alexander Skalatskiy",
       "issuetype": "Bug",
       "created": "2026-05-08",
-      "updated": "2026-05-14",
+      "updated": "2026-06-26",
       "resolutiondate": "",
       "labels": [
         "Alsa"
@@ -4019,7 +4047,7 @@
       "assignee": "Adrià Sastre",
       "issuetype": "Bug",
       "created": "2026-05-08",
-      "updated": "2026-05-08",
+      "updated": "2026-06-26",
       "resolutiondate": "",
       "labels": []
     },
@@ -4227,7 +4255,7 @@
       "assignee": "Pep Alonso",
       "issuetype": "Bug",
       "created": "2026-05-06",
-      "updated": "2026-06-17",
+      "updated": "2026-06-26",
       "resolutiondate": "",
       "labels": [
         "JetSMART"
@@ -4281,7 +4309,7 @@
       "assignee": "Adrià Sastre",
       "issuetype": "Bug",
       "created": "2026-05-06",
-      "updated": "2026-05-08",
+      "updated": "2026-06-26",
       "resolutiondate": "",
       "labels": []
     },
@@ -4307,7 +4335,7 @@
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Bug",
       "created": "2026-05-05",
-      "updated": "2026-05-05",
+      "updated": "2026-06-26",
       "resolutiondate": "",
       "labels": [
         "Bug",
@@ -4806,7 +4834,7 @@
       "assignee": "Adrià Sastre",
       "issuetype": "Bug",
       "created": "2026-04-28",
-      "updated": "2026-04-29",
+      "updated": "2026-06-26",
       "resolutiondate": "",
       "labels": []
     },
@@ -5054,7 +5082,7 @@
       "assignee": "Alexander Skalatskiy",
       "issuetype": "Bug",
       "created": "2026-04-24",
-      "updated": "2026-05-04",
+      "updated": "2026-06-26",
       "resolutiondate": "",
       "labels": [
         "AirEuropa"
@@ -5068,7 +5096,7 @@
       "assignee": "Alexander Skalatskiy",
       "issuetype": "Bug",
       "created": "2026-04-24",
-      "updated": "2026-05-07",
+      "updated": "2026-06-26",
       "resolutiondate": "",
       "labels": [
         "AirEuropa"
@@ -5260,7 +5288,7 @@
       "assignee": "Julieta Mezza",
       "issuetype": "Bug",
       "created": "2026-04-23",
-      "updated": "2026-04-27",
+      "updated": "2026-06-26",
       "resolutiondate": "",
       "labels": [
         "AirEuropa"
@@ -5344,7 +5372,7 @@
       "assignee": "Adrià Sastre",
       "issuetype": "Bug",
       "created": "2026-04-22",
-      "updated": "2026-04-30",
+      "updated": "2026-06-26",
       "resolutiondate": "",
       "labels": [
         "AllianzPartners"
@@ -5731,7 +5759,7 @@
       "assignee": "Adrià Sastre",
       "issuetype": "Bug",
       "created": "2026-04-20",
-      "updated": "2026-06-03",
+      "updated": "2026-06-26",
       "resolutiondate": "",
       "labels": [
         "SegurCaixa",
@@ -5746,7 +5774,7 @@
       "assignee": "Alexander Skalatskiy",
       "issuetype": "Bug",
       "created": "2026-04-20",
-      "updated": "2026-05-04",
+      "updated": "2026-06-26",
       "resolutiondate": "",
       "labels": [
         "AirEuropa"
@@ -6109,7 +6137,7 @@
       "assignee": "Adrià Sastre",
       "issuetype": "Bug",
       "created": "2026-04-14",
-      "updated": "2026-05-04",
+      "updated": "2026-06-26",
       "resolutiondate": "",
       "labels": []
     },
@@ -7915,7 +7943,7 @@
       "assignee": "irene callejas",
       "issuetype": "Bug",
       "created": "2026-03-23",
-      "updated": "2026-03-25",
+      "updated": "2026-06-26",
       "resolutiondate": "",
       "labels": [
         "Ralph_Lauren"
@@ -8289,7 +8317,7 @@
       "assignee": "Adrià Sastre",
       "issuetype": "Bug",
       "created": "2026-03-17",
-      "updated": "2026-03-18",
+      "updated": "2026-06-26",
       "resolutiondate": "",
       "labels": [
         "SEM"
@@ -8373,7 +8401,7 @@
       "assignee": "Alexander Skalatskiy",
       "issuetype": "Bug",
       "created": "2026-03-13",
-      "updated": "2026-03-18",
+      "updated": "2026-06-26",
       "resolutiondate": "",
       "labels": [
         "AirEuropa"
@@ -8595,7 +8623,7 @@
       "assignee": "Adrià Sastre",
       "issuetype": "Bug",
       "created": "2026-03-11",
-      "updated": "2026-03-11",
+      "updated": "2026-06-26",
       "resolutiondate": "",
       "labels": [
         "JetSmart"
@@ -8735,7 +8763,7 @@
       "assignee": "Adrià Sastre",
       "issuetype": "Bug",
       "created": "2026-03-09",
-      "updated": "2026-03-09",
+      "updated": "2026-06-26",
       "resolutiondate": "",
       "labels": []
     },
@@ -8915,7 +8943,7 @@
       "assignee": "Alexander Skalatskiy",
       "issuetype": "Bug",
       "created": "2026-03-06",
-      "updated": "2026-04-07",
+      "updated": "2026-06-26",
       "resolutiondate": "",
       "labels": []
     },
@@ -9133,7 +9161,7 @@
       "assignee": "Adrià Sastre",
       "issuetype": "Bug",
       "created": "2026-03-02",
-      "updated": "2026-03-04",
+      "updated": "2026-06-26",
       "resolutiondate": "",
       "labels": []
     },
@@ -10395,12 +10423,12 @@
     {
       "key": "PS-5036",
       "summary": "Multiasistencia - Update botonic version - MULTI_FRANCIA_STAGING - 662b5c99-a812-4c41-b27c-597978890ab4",
-      "status": "In production",
+      "status": "Done",
       "status_category": "Done",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-02-16",
-      "updated": "2026-06-25",
+      "updated": "2026-06-26",
       "resolutiondate": "",
       "labels": [
         "Multiasistencia"
@@ -10409,7 +10437,7 @@
     {
       "key": "PS-5035",
       "summary": "Multiasistencia - Update botonic version - MULTI_MUTUA_TIN_STAGING - e7d99b0c-c542-4b8d-abb0-badecc92fa6d",
-      "status": "In production",
+      "status": "Done",
       "status_category": "Done",
       "assignee": "Evgeni Slavyanov",
       "issuetype": "Task",
@@ -11156,7 +11184,7 @@
       "assignee": "Alexander Skalatskiy",
       "issuetype": "Bug",
       "created": "2026-02-09",
-      "updated": "2026-02-09",
+      "updated": "2026-06-26",
       "resolutiondate": "",
       "labels": []
     },
@@ -11182,7 +11210,7 @@
       "assignee": "Adrià Sastre",
       "issuetype": "Bug",
       "created": "2026-02-08",
-      "updated": "2026-02-12",
+      "updated": "2026-06-26",
       "resolutiondate": "",
       "labels": [
         "Alsa"
@@ -11224,7 +11252,7 @@
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Bug",
       "created": "2026-02-06",
-      "updated": "2026-02-13",
+      "updated": "2026-06-26",
       "resolutiondate": "",
       "labels": [
         "occident"
@@ -11392,7 +11420,7 @@
       "assignee": "Alexander Skalatskiy",
       "issuetype": "Bug",
       "created": "2026-02-04",
-      "updated": "2026-02-16",
+      "updated": "2026-06-26",
       "resolutiondate": "",
       "labels": [
         "AirEuropa"
@@ -11700,7 +11728,7 @@
       "assignee": "Julieta Mezza",
       "issuetype": "Bug",
       "created": "2026-02-02",
-      "updated": "2026-02-02",
+      "updated": "2026-06-26",
       "resolutiondate": "",
       "labels": []
     },
@@ -11824,7 +11852,7 @@
       "assignee": "Alexander Skalatskiy",
       "issuetype": "Bug",
       "created": "2026-01-29",
-      "updated": "2026-02-13",
+      "updated": "2026-06-26",
       "resolutiondate": "",
       "labels": [
         "AirEuropa"
@@ -11852,7 +11880,7 @@
       "assignee": "Alexander Skalatskiy",
       "issuetype": "Bug",
       "created": "2026-01-29",
-      "updated": "2026-02-15",
+      "updated": "2026-06-26",
       "resolutiondate": "",
       "labels": [
         "Alsa"
@@ -12231,7 +12259,7 @@
       "assignee": "Pep Alonso",
       "issuetype": "Bug",
       "created": "2026-01-24",
-      "updated": "2026-02-05",
+      "updated": "2026-06-26",
       "resolutiondate": "",
       "labels": [
         "Guess"
@@ -13001,7 +13029,7 @@
       "assignee": "Alexander Skalatskiy",
       "issuetype": "Bug",
       "created": "2026-01-15",
-      "updated": "2026-01-26",
+      "updated": "2026-06-26",
       "resolutiondate": "",
       "labels": [
         "Tendam"
@@ -13549,7 +13577,7 @@
       "assignee": "Alexander Skalatskiy",
       "issuetype": "Bug",
       "created": "2025-12-29",
-      "updated": "2026-02-26",
+      "updated": "2026-06-26",
       "resolutiondate": "",
       "labels": [
         "AirEuropa"
@@ -13577,7 +13605,7 @@
       "assignee": "Alexander Skalatskiy",
       "issuetype": "Bug",
       "created": "2025-12-29",
-      "updated": "2025-12-29",
+      "updated": "2026-06-26",
       "resolutiondate": "",
       "labels": []
     },
@@ -13953,7 +13981,7 @@
       "assignee": "Pep Alonso",
       "issuetype": "Bug",
       "created": "2025-12-16",
-      "updated": "2025-12-30",
+      "updated": "2026-06-26",
       "resolutiondate": "",
       "labels": []
     },
@@ -14033,7 +14061,7 @@
       "assignee": "Pep Alonso",
       "issuetype": "Bug",
       "created": "2025-12-16",
-      "updated": "2025-12-23",
+      "updated": "2026-06-26",
       "resolutiondate": "",
       "labels": [
         "Bug",
@@ -14870,7 +14898,7 @@
       "assignee": "Pep Alonso",
       "issuetype": "Bug",
       "created": "2025-11-25",
-      "updated": "2026-01-26",
+      "updated": "2026-06-26",
       "resolutiondate": "",
       "labels": [
         "Assegur"
@@ -14884,7 +14912,7 @@
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Bug",
       "created": "2025-11-25",
-      "updated": "2026-01-22",
+      "updated": "2026-06-26",
       "resolutiondate": "",
       "labels": [
         "occident"
@@ -14940,7 +14968,7 @@
       "assignee": "Alexander Skalatskiy",
       "issuetype": "Bug",
       "created": "2025-11-24",
-      "updated": "2026-01-20",
+      "updated": "2026-06-26",
       "resolutiondate": "",
       "labels": [
         "AirEuropa"
@@ -15064,7 +15092,7 @@
       "assignee": "Pep Alonso",
       "issuetype": "Bug",
       "created": "2025-11-19",
-      "updated": "2025-12-02",
+      "updated": "2026-06-26",
       "resolutiondate": "",
       "labels": []
     },
@@ -20817,12 +20845,12 @@
     {
       "key": "PS-4177",
       "summary": "Consum - Migration to Flowbuilder",
-      "status": "To Do",
-      "status_category": "To Do",
-      "assignee": null,
+      "status": "In Progress",
+      "status_category": "In Progress",
+      "assignee": "Pep Alonso",
       "issuetype": "Epic",
       "created": "2025-07-07",
-      "updated": "2026-06-01",
+      "updated": "2026-06-26",
       "resolutiondate": "",
       "labels": [
         "Consum"
