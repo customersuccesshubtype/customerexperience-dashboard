@@ -20252,5 +20252,174 @@
       }
     },
     "date": "2026-06-27"
+  },
+  {
+    "total_open": 206,
+    "total_done": 4038,
+    "total": 4244,
+    "by_status": {
+      "APPROVED FOR PRODUCTION": 2,
+      "To Do": 73,
+      "Ready for review": 51,
+      "Closed": 780,
+      "In Progress": 27,
+      "Ready to Deliver": 15,
+      "Done": 3258,
+      "In Review": 8,
+      "Open": 40
+    },
+    "by_assignee": {
+      "irene callejas": {
+        "open": 13,
+        "done": 56,
+        "in_progress": 2
+      },
+      "Pep Alonso": {
+        "open": 24,
+        "done": 220,
+        "in_progress": 4
+      },
+      "Adrià Sastre": {
+        "open": 16,
+        "done": 731,
+        "in_progress": 7
+      },
+      "Lorena Sánchez-Toril Nicolás": {
+        "open": 10,
+        "done": 227,
+        "in_progress": 3
+      },
+      "Unassigned": {
+        "open": 66,
+        "done": 340,
+        "in_progress": 0
+      },
+      "Aitor Casas": {
+        "open": 4,
+        "done": 310,
+        "in_progress": 1
+      },
+      "Julieta Mezza": {
+        "open": 8,
+        "done": 76,
+        "in_progress": 1
+      },
+      "Evgeni Slavyanov": {
+        "open": 16,
+        "done": 94,
+        "in_progress": 1
+      },
+      "Marta Marron": {
+        "open": 7,
+        "done": 139,
+        "in_progress": 4
+      },
+      "Andrea Talal Haidar": {
+        "open": 4,
+        "done": 123,
+        "in_progress": 2
+      },
+      "Alexander Skalatskiy": {
+        "open": 11,
+        "done": 132,
+        "in_progress": 2
+      },
+      "Vicky Correbo": {
+        "open": 5,
+        "done": 15,
+        "in_progress": 0
+      },
+      "Wei Wu": {
+        "open": 1,
+        "done": 0,
+        "in_progress": 0
+      },
+      "Francisca Martelli": {
+        "open": 4,
+        "done": 31,
+        "in_progress": 0
+      },
+      "Patrícia Sánchez": {
+        "open": 0,
+        "done": 11,
+        "in_progress": 0
+      },
+      "Sergi Sorigue": {
+        "open": 0,
+        "done": 1,
+        "in_progress": 0
+      },
+      "María Sánchez": {
+        "open": 0,
+        "done": 43,
+        "in_progress": 0
+      },
+      "Marçal Garcia": {
+        "open": 0,
+        "done": 1,
+        "in_progress": 0
+      },
+      "eric": {
+        "open": 0,
+        "done": 3,
+        "in_progress": 0
+      },
+      "Jonatan Rojas": {
+        "open": 0,
+        "done": 290,
+        "in_progress": 0
+      },
+      "Albert Gomariz": {
+        "open": 0,
+        "done": 455,
+        "in_progress": 0
+      },
+      "Adonai Domínguez": {
+        "open": 0,
+        "done": 191,
+        "in_progress": 0
+      },
+      "Alex Gimenez Saludes": {
+        "open": 0,
+        "done": 209,
+        "in_progress": 0
+      },
+      "aplanas": {
+        "open": 0,
+        "done": 123,
+        "in_progress": 0
+      },
+      "Eric Lozano": {
+        "open": 0,
+        "done": 2,
+        "in_progress": 0
+      },
+      "mftoro": {
+        "open": 0,
+        "done": 97,
+        "in_progress": 0
+      },
+      "Pau": {
+        "open": 0,
+        "done": 9,
+        "in_progress": 0
+      },
+      "Carlos Lorenzo": {
+        "open": 0,
+        "done": 104,
+        "in_progress": 0
+      },
+      "Francesc Corden": {
+        "open": 0,
+        "done": 3,
+        "in_progress": 0
+      },
+      "Oriol Raventos": {
+        "open": 0,
+        "done": 2,
+        "in_progress": 0
+      }
+    },
+    "date": "2026-06-28"
   }
 ]
