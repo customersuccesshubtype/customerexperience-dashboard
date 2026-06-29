@@ -1,15 +1,57 @@
 {
-  "last_updated": "2026-06-28 09:55 UTC",
+  "last_updated": "2026-06-29 11:56 UTC",
   "tickets": [
+    {
+      "key": "PS-5817",
+      "summary": "Ralph Lauren - Reminder  -  Suki feedback 290626 on patterns",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": null,
+      "issuetype": "Task",
+      "created": "2026-06-29",
+      "updated": "2026-06-29",
+      "resolutiondate": "",
+      "labels": [
+        "Ralph_Lauren"
+      ]
+    },
+    {
+      "key": "PS-5816",
+      "summary": "Michael Kors - Warranty Flow - Review if it can be improved",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Vicky Correbo",
+      "issuetype": "Task",
+      "created": "2026-06-29",
+      "updated": "2026-06-29",
+      "resolutiondate": "",
+      "labels": [
+        "Michael-Kors"
+      ]
+    },
+    {
+      "key": "PS-5815",
+      "summary": "Ralph Lauren: review Shalini feedback on double welcome - others",
+      "status": "In Progress",
+      "status_category": "In Progress",
+      "assignee": "irene callejas",
+      "issuetype": "Task",
+      "created": "2026-06-29",
+      "updated": "2026-06-29",
+      "resolutiondate": "",
+      "labels": [
+        "Ralph_Lauren"
+      ]
+    },
     {
       "key": "PS-5814",
       "summary": "Alsa - Revisar contenidos del bot para caso de uso \"Cambiar el idioma de la APP de Alsa\"",
-      "status": "APPROVED FOR PRODUCTION",
+      "status": "In production",
       "status_category": "Done",
       "assignee": "irene callejas",
       "issuetype": "Task",
       "created": "2026-06-26",
-      "updated": "2026-06-26",
+      "updated": "2026-06-28",
       "resolutiondate": "",
       "labels": [
         "Alsa"
@@ -34,10 +76,10 @@
       "summary": "Air Europa - Interprete \"HubtypeAction\" and trigger flow builder with AVA response",
       "status": "To Do",
       "status_category": "To Do",
-      "assignee": "Adrià Sastre",
+      "assignee": "Alexander Skalatskiy",
       "issuetype": "Task",
       "created": "2026-06-26",
-      "updated": "2026-06-26",
+      "updated": "2026-06-29",
       "resolutiondate": "",
       "labels": [
         "AirEuropa"
@@ -60,12 +102,12 @@
     {
       "key": "PS-5810",
       "summary": "Ralph Lauren - WA flow feedback",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Ready for review",
+      "status_category": "In Progress",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-06-26",
-      "updated": "2026-06-26",
+      "updated": "2026-06-29",
       "resolutiondate": "",
       "labels": [
         "Ralph_Lauren"
@@ -76,10 +118,10 @@
       "summary": "Verisure FR - Once a case is resolved we need to send information to a Verisure FR endpoint",
       "status": "To Do",
       "status_category": "To Do",
-      "assignee": "Adrià Sastre",
+      "assignee": "Evgeni Slavyanov",
       "issuetype": "Task",
       "created": "2026-06-25",
-      "updated": "2026-06-26",
+      "updated": "2026-06-29",
       "resolutiondate": "",
       "labels": [
         "Verisure-FR"
@@ -88,12 +130,12 @@
     {
       "key": "PS-5808",
       "summary": "Alsa- Update bot version so that we can include an Agent Router (to orchestrate conversations to specialists agents)",
-      "status": "To Do",
-      "status_category": "To Do",
-      "assignee": null,
+      "status": "Ready for review",
+      "status_category": "In Progress",
+      "assignee": "Evgeni Slavyanov",
       "issuetype": "Task",
       "created": "2026-06-25",
-      "updated": "2026-06-26",
+      "updated": "2026-06-29",
       "resolutiondate": "",
       "labels": [
         "Alsa"
@@ -158,12 +200,12 @@
     {
       "key": "PS-5802",
       "summary": "VGRS - Deploy 2 bots",
-      "status": "In Progress",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Evgeni Slavyanov",
       "issuetype": "Task",
       "created": "2026-06-25",
-      "updated": "2026-06-26",
+      "updated": "2026-06-29",
       "resolutiondate": "",
       "labels": [
         "VGRS"
@@ -172,12 +214,12 @@
     {
       "key": "PS-5800",
       "summary": "SegurCaixa - Campanya revisions i higiene",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "In Progress",
+      "status_category": "In Progress",
       "assignee": "Evgeni Slavyanov",
       "issuetype": "Task",
       "created": "2026-06-25",
-      "updated": "2026-06-25",
+      "updated": "2026-06-29",
       "resolutiondate": "",
       "labels": [
         "SegurCaixa"
@@ -191,7 +233,7 @@
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-06-25",
-      "updated": "2026-06-26",
+      "updated": "2026-06-29",
       "resolutiondate": "",
       "labels": [
         "WizzAir"
@@ -244,10 +286,10 @@
       "summary": "SEM - Review if we can implement Autolanguage detection",
       "status": "To Do",
       "status_category": "To Do",
-      "assignee": "Marta Marron",
+      "assignee": "Aitor Casas",
       "issuetype": "Task",
       "created": "2026-06-22",
-      "updated": "2026-06-22",
+      "updated": "2026-06-29",
       "resolutiondate": "",
       "labels": [
         "SEM"
@@ -382,12 +424,12 @@
     {
       "key": "PS-5785",
       "summary": "Jetsmart - Estimate YUNO implementation",
-      "status": "To Do",
+      "status": "Open",
       "status_category": "To Do",
-      "assignee": "Pep Alonso",
+      "assignee": "Julieta Mezza",
       "issuetype": "Discovery Task",
       "created": "2026-06-22",
-      "updated": "2026-06-22",
+      "updated": "2026-06-29",
       "resolutiondate": "",
       "labels": [
         "JetSmart"
@@ -438,12 +480,12 @@
     {
       "key": "PS-5781",
       "summary": "Verisure Spain - Nuevo Bot Whatsapp Telecierre",
-      "status": "Ready to Deliver",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Evgeni Slavyanov",
       "issuetype": "Task",
       "created": "2026-06-19",
-      "updated": "2026-06-23",
+      "updated": "2026-06-29",
       "resolutiondate": "",
       "labels": [
         "Verisure_ES"
@@ -499,7 +541,7 @@
       "assignee": null,
       "issuetype": "Discovery Task",
       "created": "2026-06-18",
-      "updated": "2026-06-18",
+      "updated": "2026-06-29",
       "resolutiondate": "",
       "labels": [
         "WizzAir"
@@ -510,10 +552,10 @@
       "summary": "Verisure FR - Once a template is received, store fields in a yellow note (same as Verisure IT)",
       "status": "To Do",
       "status_category": "To Do",
-      "assignee": "Adrià Sastre",
+      "assignee": "Evgeni Slavyanov",
       "issuetype": "Task",
       "created": "2026-06-18",
-      "updated": "2026-06-26",
+      "updated": "2026-06-29",
       "resolutiondate": "",
       "labels": []
     },
@@ -548,12 +590,12 @@
     {
       "key": "PS-5773",
       "summary": "Assegur - Update bot for the automatic language detection",
-      "status": "Ready for review",
-      "status_category": "In Progress",
+      "status": "APPROVED FOR PRODUCTION",
+      "status_category": "Done",
       "assignee": "Evgeni Slavyanov",
       "issuetype": "Task",
       "created": "2026-06-18",
-      "updated": "2026-06-19",
+      "updated": "2026-06-29",
       "resolutiondate": "",
       "labels": [
         "Assegur"
@@ -562,12 +604,12 @@
     {
       "key": "PS-5772",
       "summary": "Retorna - Review Salesforce documentation",
-      "status": "Ready for review",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Adrià Sastre",
       "issuetype": "Discovery Task",
       "created": "2026-06-18",
-      "updated": "2026-06-26",
+      "updated": "2026-06-29",
       "resolutiondate": "",
       "labels": [
         "Retorna"
@@ -576,12 +618,12 @@
     {
       "key": "PS-5771",
       "summary": "Michael Kors - WISMO/WISMR - Slides con el Journey para compartir con el cliente",
-      "status": "In Review",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Vicky Correbo",
       "issuetype": "Task",
       "created": "2026-06-17",
-      "updated": "2026-06-19",
+      "updated": "2026-06-29",
       "resolutiondate": "",
       "labels": []
     },
@@ -602,12 +644,12 @@
     {
       "key": "PS-5769",
       "summary": "Assegur - Link the area code of Andorra to the Catalan language",
-      "status": "Ready for review",
-      "status_category": "In Progress",
+      "status": "APPROVED FOR PRODUCTION",
+      "status_category": "Done",
       "assignee": "Evgeni Slavyanov",
       "issuetype": "Task",
       "created": "2026-06-17",
-      "updated": "2026-06-18",
+      "updated": "2026-06-29",
       "resolutiondate": "",
       "labels": [
         "Assegur"
@@ -794,12 +836,12 @@
     {
       "key": "PS-5755",
       "summary": "Jetsmart - Develop Final Summary Step",
-      "status": "Ready for review",
+      "status": "In Review",
       "status_category": "In Progress",
       "assignee": null,
       "issuetype": "Task",
       "created": "2026-06-15",
-      "updated": "2026-06-22",
+      "updated": "2026-06-29",
       "resolutiondate": "",
       "labels": [
         "JetSmart"
@@ -920,10 +962,10 @@
       "summary": "Air Europa - New message for IDLE cases",
       "status": "To Do",
       "status_category": "To Do",
-      "assignee": "Julieta Mezza",
+      "assignee": "Alexander Skalatskiy",
       "issuetype": "Task",
       "created": "2026-06-15",
-      "updated": "2026-06-15",
+      "updated": "2026-06-29",
       "resolutiondate": "",
       "labels": [
         "AirEuropa"
@@ -1046,12 +1088,12 @@
     {
       "key": "PS-5737",
       "summary": "Michael Kors - Desactivar audio transcriptions y modificar el flow para que los audios vayan a fallback",
-      "status": "Ready for review",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Aitor Casas",
       "issuetype": "Task",
       "created": "2026-06-11",
-      "updated": "2026-06-12",
+      "updated": "2026-06-29",
       "resolutiondate": "",
       "labels": [
         "Michael-Kors"
@@ -1228,12 +1270,12 @@
     {
       "key": "PS-5724",
       "summary": "GUESS - Update bot to bot version 0.50",
-      "status": "Ready for review",
+      "status": "Ready to Deliver",
       "status_category": "In Progress",
       "assignee": "Evgeni Slavyanov",
       "issuetype": "Task",
       "created": "2026-06-09",
-      "updated": "2026-06-15",
+      "updated": "2026-06-29",
       "resolutiondate": "",
       "labels": [
         "Guess"
@@ -1481,12 +1523,12 @@
     {
       "key": "PS-5706",
       "summary": "Air Europa - Falla envío estado de user_logged en chatcontext a AVA",
-      "status": "Ready for review",
-      "status_category": "In Progress",
+      "status": "APPROVED FOR PRODUCTION",
+      "status_category": "Done",
       "assignee": "Alexander Skalatskiy",
       "issuetype": "Bug",
       "created": "2026-06-05",
-      "updated": "2026-06-26",
+      "updated": "2026-06-29",
       "resolutiondate": "",
       "labels": [
         "AirEuropa"
@@ -1509,12 +1551,12 @@
     {
       "key": "PS-5704",
       "summary": "All Clients - hilos duplicados en Salesforce (Email-to-Case)",
-      "status": "In Progress",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Aitor Casas",
       "issuetype": "Task",
       "created": "2026-06-05",
-      "updated": "2026-06-18",
+      "updated": "2026-06-29",
       "resolutiondate": "",
       "labels": [
         "all_clients"
@@ -1907,7 +1949,7 @@
       "assignee": "Vicky Correbo",
       "issuetype": "Task",
       "created": "2026-06-02",
-      "updated": "2026-06-02",
+      "updated": "2026-06-29",
       "resolutiondate": "",
       "labels": [
         "Internal"
@@ -2486,12 +2528,12 @@
     {
       "key": "PS-5634",
       "summary": "TMB - Upgrade Bot Version to 0.49",
-      "status": "Ready for review",
-      "status_category": "In Progress",
+      "status": "In production",
+      "status_category": "Done",
       "assignee": "Evgeni Slavyanov",
       "issuetype": "Task",
       "created": "2026-05-26",
-      "updated": "2026-06-17",
+      "updated": "2026-06-29",
       "resolutiondate": "",
       "labels": [
         "TMB"
@@ -4124,12 +4166,12 @@
     {
       "key": "PS-5514",
       "summary": "Multiasistencia - Santander - Design spinner in Claim webview",
-      "status": "Ready to Deliver",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Vicky Correbo",
       "issuetype": "Task",
       "created": "2026-05-07",
-      "updated": "2026-05-21",
+      "updated": "2026-06-29",
       "resolutiondate": "",
       "labels": [
         "Multiasistencia"
@@ -4194,12 +4236,12 @@
     {
       "key": "PS-5509",
       "summary": "Michael Kors - Design WISMO/WISMR webview/s and flow",
-      "status": "Ready to Deliver",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Vicky Correbo",
       "issuetype": "Task",
       "created": "2026-05-07",
-      "updated": "2026-06-19",
+      "updated": "2026-06-29",
       "resolutiondate": "",
       "labels": [
         "Michael-Kors"
@@ -5000,7 +5042,7 @@
       "assignee": "Adrià Sastre",
       "issuetype": "Discovery Task",
       "created": "2026-04-27",
-      "updated": "2026-05-15",
+      "updated": "2026-06-29",
       "resolutiondate": "",
       "labels": [
         "RACC"
@@ -5255,12 +5297,12 @@
     {
       "key": "PS-5430",
       "summary": "Air Europa - Apply design changes (2)",
-      "status": "Ready for review",
+      "status": "In Review",
       "status_category": "In Progress",
       "assignee": "Evgeni Slavyanov",
       "issuetype": "Task",
       "created": "2026-04-23",
-      "updated": "2026-06-23",
+      "updated": "2026-06-29",
       "resolutiondate": "",
       "labels": [
         "AirEuropa"
@@ -5853,12 +5895,12 @@
     {
       "key": "PS-5384",
       "summary": "Jetsmart - Search Flights Domain",
-      "status": "Ready for review",
+      "status": "In Review",
       "status_category": "In Progress",
       "assignee": "Pep Alonso",
       "issuetype": "Task",
       "created": "2026-04-20",
-      "updated": "2026-04-20",
+      "updated": "2026-06-29",
       "resolutiondate": "",
       "labels": [
         "JetSmart"
@@ -5923,12 +5965,12 @@
     {
       "key": "PS-5378",
       "summary": "Michael Kors - WISMO / WISMR API integration",
-      "status": "In Progress",
+      "status": "Ready for review",
       "status_category": "In Progress",
       "assignee": "Adrià Sastre",
       "issuetype": "Epic",
       "created": "2026-04-17",
-      "updated": "2026-06-01",
+      "updated": "2026-06-29",
       "resolutiondate": "",
       "labels": [
         "Michael-Kors"
@@ -6186,12 +6228,12 @@
     {
       "key": "PS-5358",
       "summary": "Jetsmart - Payment step UI",
-      "status": "Ready for review",
+      "status": "In Review",
       "status_category": "In Progress",
       "assignee": "Pep Alonso",
       "issuetype": "Task",
       "created": "2026-04-13",
-      "updated": "2026-06-19",
+      "updated": "2026-06-29",
       "resolutiondate": "",
       "labels": [
         "JetSmart"
@@ -6200,12 +6242,12 @@
     {
       "key": "PS-5357",
       "summary": "Jetsmart - Passanger Details Step UI",
-      "status": "Ready for review",
+      "status": "In Review",
       "status_category": "In Progress",
       "assignee": "Pep Alonso",
       "issuetype": "Task",
       "created": "2026-04-13",
-      "updated": "2026-06-15",
+      "updated": "2026-06-29",
       "resolutiondate": "",
       "labels": [
         "JetSmart"
@@ -6214,12 +6256,12 @@
     {
       "key": "PS-5356",
       "summary": "Jetsmart - Extra SSRs step UI",
-      "status": "Ready for review",
+      "status": "In Review",
       "status_category": "In Progress",
       "assignee": "Pep Alonso",
       "issuetype": "Task",
       "created": "2026-04-13",
-      "updated": "2026-06-11",
+      "updated": "2026-06-29",
       "resolutiondate": "",
       "labels": [
         "JetSmart"
@@ -6228,12 +6270,12 @@
     {
       "key": "PS-5355",
       "summary": "Jetsmart - FlexiSmart Selection Step UI",
-      "status": "Ready for review",
+      "status": "In Review",
       "status_category": "In Progress",
       "assignee": "Pep Alonso",
       "issuetype": "Task",
       "created": "2026-04-13",
-      "updated": "2026-06-11",
+      "updated": "2026-06-29",
       "resolutiondate": "",
       "labels": [
         "JetSmart"
@@ -6242,12 +6284,12 @@
     {
       "key": "PS-5354",
       "summary": "Jetsmart - Seat Selection Step UI",
-      "status": "Ready for review",
+      "status": "In Review",
       "status_category": "In Progress",
       "assignee": "Pep Alonso",
       "issuetype": "Task",
       "created": "2026-04-13",
-      "updated": "2026-06-11",
+      "updated": "2026-06-29",
       "resolutiondate": "",
       "labels": [
         "JetSmart"
@@ -6256,12 +6298,12 @@
     {
       "key": "PS-5353",
       "summary": "Jetsmart - Bags Ssr step UI",
-      "status": "Ready for review",
+      "status": "In Review",
       "status_category": "In Progress",
       "assignee": "Pep Alonso",
       "issuetype": "Task",
       "created": "2026-04-13",
-      "updated": "2026-06-08",
+      "updated": "2026-06-29",
       "resolutiondate": "",
       "labels": [
         "JetSmart"
@@ -6270,12 +6312,12 @@
     {
       "key": "PS-5352",
       "summary": "Jetsmart - Flight Purchasse Summary Step UI",
-      "status": "Ready for review",
+      "status": "In Review",
       "status_category": "In Progress",
       "assignee": "Pep Alonso",
       "issuetype": "Task",
       "created": "2026-04-13",
-      "updated": "2026-06-02",
+      "updated": "2026-06-29",
       "resolutiondate": "",
       "labels": [
         "JetSmart"
@@ -6284,12 +6326,12 @@
     {
       "key": "PS-5351",
       "summary": "Jetsmart - Select bundle To include Step UI",
-      "status": "Ready for review",
+      "status": "In Review",
       "status_category": "In Progress",
       "assignee": "Pep Alonso",
       "issuetype": "Task",
       "created": "2026-04-13",
-      "updated": "2026-05-26",
+      "updated": "2026-06-29",
       "resolutiondate": "",
       "labels": [
         "JetSmart"
@@ -6298,12 +6340,12 @@
     {
       "key": "PS-5350",
       "summary": "Jetsmart - Select flight to purchase UI",
-      "status": "Ready for review",
+      "status": "In Review",
       "status_category": "In Progress",
       "assignee": "Pep Alonso",
       "issuetype": "Task",
       "created": "2026-04-13",
-      "updated": "2026-04-15",
+      "updated": "2026-06-29",
       "resolutiondate": "",
       "labels": [
         "JetSmart"
@@ -6312,12 +6354,12 @@
     {
       "key": "PS-5349",
       "summary": "Jetsmart - Select Passanger number Step UI",
-      "status": "Ready for review",
+      "status": "In Review",
       "status_category": "In Progress",
       "assignee": "Pep Alonso",
       "issuetype": "Task",
       "created": "2026-04-13",
-      "updated": "2026-04-14",
+      "updated": "2026-06-29",
       "resolutiondate": "",
       "labels": [
         "JetSmart"
@@ -6688,12 +6730,12 @@
     {
       "key": "PS-5319",
       "summary": "Jetsmart - Buy a flight webview - Select dates Step UI",
-      "status": "Ready for review",
+      "status": "In Review",
       "status_category": "In Progress",
       "assignee": "Pep Alonso",
       "issuetype": "Task",
       "created": "2026-04-09",
-      "updated": "2026-04-09",
+      "updated": "2026-06-29",
       "resolutiondate": "",
       "labels": [
         "JetSmart"
@@ -6702,12 +6744,12 @@
     {
       "key": "PS-5318",
       "summary": "Jetsmart - Buy a Flight - Select Setations Step UI",
-      "status": "Ready for review",
+      "status": "In Review",
       "status_category": "In Progress",
       "assignee": "Pep Alonso",
       "issuetype": "Task",
       "created": "2026-04-09",
-      "updated": "2026-04-13",
+      "updated": "2026-06-29",
       "resolutiondate": "",
       "labels": [
         "JetSmart"
@@ -7204,12 +7246,12 @@
     {
       "key": "PS-5281",
       "summary": "Jetsmart - Buy a Flight Webview Structure + steps",
-      "status": "Ready for review",
+      "status": "In Review",
       "status_category": "In Progress",
       "assignee": "Pep Alonso",
       "issuetype": "Task",
       "created": "2026-04-01",
-      "updated": "2026-04-07",
+      "updated": "2026-06-29",
       "resolutiondate": "",
       "labels": [
         "JetSmart"
@@ -7338,12 +7380,12 @@
     {
       "key": "PS-5271",
       "summary": "Jetsmart - New endpoints on middlwere for buy a Flight Webview",
-      "status": "Ready for review",
+      "status": "In Review",
       "status_category": "In Progress",
       "assignee": "Pep Alonso",
       "issuetype": "Task",
       "created": "2026-03-27",
-      "updated": "2026-03-27",
+      "updated": "2026-06-29",
       "resolutiondate": "",
       "labels": [
         "JetSmart"
@@ -8950,12 +8992,12 @@
     {
       "key": "PS-5151",
       "summary": "SEM - Mensaje de espera en cola de enfermeras",
-      "status": "Open",
-      "status_category": "To Do",
+      "status": "Closed",
+      "status_category": "Done",
       "assignee": null,
       "issuetype": "Task",
       "created": "2026-03-06",
-      "updated": "2026-05-11",
+      "updated": "2026-06-28",
       "resolutiondate": "",
       "labels": [
         "SEM"
@@ -9824,12 +9866,12 @@
     {
       "key": "PS-5085",
       "summary": "Alsa - API Gestión de billetes",
-      "status": "Open",
-      "status_category": "To Do",
+      "status": "Closed",
+      "status_category": "Done",
       "assignee": null,
       "issuetype": "Task",
       "created": "2026-02-21",
-      "updated": "2026-06-04",
+      "updated": "2026-06-28",
       "resolutiondate": "",
       "labels": [
         "Alsa"
@@ -10470,7 +10512,7 @@
       "assignee": "Evgeni Slavyanov",
       "issuetype": "Task",
       "created": "2026-02-16",
-      "updated": "2026-05-06",
+      "updated": "2026-06-29",
       "resolutiondate": "",
       "labels": [
         "Multiasistencia"
@@ -14028,12 +14070,12 @@
     {
       "key": "PS-4746",
       "summary": "Jetsmart - Develop buy a flight ",
-      "status": "Ready for review",
+      "status": "In Review",
       "status_category": "In Progress",
       "assignee": "Pep Alonso",
       "issuetype": "Task",
       "created": "2025-12-16",
-      "updated": "2026-06-22",
+      "updated": "2026-06-29",
       "resolutiondate": "",
       "labels": [
         "JetSmart"
