@@ -1,6 +1,90 @@
 {
-  "last_updated": "2026-06-29 11:56 UTC",
+  "last_updated": "2026-06-30 10:29 UTC",
   "tickets": [
+    {
+      "key": "PS-5823",
+      "summary": "Ralph Lauren -  Safe category implementation",
+      "status": "In Progress",
+      "status_category": "In Progress",
+      "assignee": "irene callejas",
+      "issuetype": "Task",
+      "created": "2026-06-30",
+      "updated": "2026-06-30",
+      "resolutiondate": "",
+      "labels": [
+        "Ralph_Lauren"
+      ]
+    },
+    {
+      "key": "PS-5822",
+      "summary": "Internal - Update Bot Template to 0.51 packages",
+      "status": "Ready to Deliver",
+      "status_category": "In Progress",
+      "assignee": "Pep Alonso",
+      "issuetype": "Task",
+      "created": "2026-06-29",
+      "updated": "2026-06-30",
+      "resolutiondate": "",
+      "labels": [
+        "Internal"
+      ]
+    },
+    {
+      "key": "PS-5821",
+      "summary": "Verisure Spain - Create demo in staging so that Agents can display a calendar in shadowing",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Adrià Sastre",
+      "issuetype": "Task",
+      "created": "2026-06-29",
+      "updated": "2026-06-30",
+      "resolutiondate": "",
+      "labels": [
+        "Verisure_ES"
+      ]
+    },
+    {
+      "key": "PS-5820",
+      "summary": "Internal - Update all internal packages to version 0.51",
+      "status": "Ready to Deliver",
+      "status_category": "In Progress",
+      "assignee": "Pep Alonso",
+      "issuetype": "Task",
+      "created": "2026-06-29",
+      "updated": "2026-06-30",
+      "resolutiondate": "",
+      "labels": [
+        "Internal"
+      ]
+    },
+    {
+      "key": "PS-5819",
+      "summary": "Tendam - Springfield - Incluir en staging el que si el usuario ha dado el order number en WISMO no se le pregunte al hacer handoff",
+      "status": "In Progress",
+      "status_category": "In Progress",
+      "assignee": "Aitor Casas",
+      "issuetype": "Task",
+      "created": "2026-06-29",
+      "updated": "2026-06-30",
+      "resolutiondate": "",
+      "labels": [
+        "tendam"
+      ]
+    },
+    {
+      "key": "PS-5818",
+      "summary": "Ralph Lauren - Feedback from Suki on specific conversations",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "irene callejas",
+      "issuetype": "Task",
+      "created": "2026-06-29",
+      "updated": "2026-06-29",
+      "resolutiondate": "",
+      "labels": [
+        "Ralph_Lauren"
+      ]
+    },
     {
       "key": "PS-5817",
       "summary": "Ralph Lauren - Reminder  -  Suki feedback 290626 on patterns",
@@ -18,12 +102,12 @@
     {
       "key": "PS-5816",
       "summary": "Michael Kors - Warranty Flow - Review if it can be improved",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "In Progress",
+      "status_category": "In Progress",
       "assignee": "Vicky Correbo",
       "issuetype": "Task",
       "created": "2026-06-29",
-      "updated": "2026-06-29",
+      "updated": "2026-06-30",
       "resolutiondate": "",
       "labels": [
         "Michael-Kors"
@@ -46,12 +130,12 @@
     {
       "key": "PS-5814",
       "summary": "Alsa - Revisar contenidos del bot para caso de uso \"Cambiar el idioma de la APP de Alsa\"",
-      "status": "In production",
+      "status": "Done",
       "status_category": "Done",
       "assignee": "irene callejas",
       "issuetype": "Task",
       "created": "2026-06-26",
-      "updated": "2026-06-28",
+      "updated": "2026-06-29",
       "resolutiondate": "",
       "labels": [
         "Alsa"
@@ -60,12 +144,12 @@
     {
       "key": "PS-5813",
       "summary": "Occident - Review how we are using information for autoservicios in webchat",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Ready for review",
+      "status_category": "In Progress",
       "assignee": "Pep Alonso",
       "issuetype": "Task",
       "created": "2026-06-26",
-      "updated": "2026-06-26",
+      "updated": "2026-06-29",
       "resolutiondate": "",
       "labels": [
         "occident"
@@ -88,12 +172,12 @@
     {
       "key": "PS-5811",
       "summary": "Ralph Lauren - v3 endpoint /search ",
-      "status": "Ready for review",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-06-26",
-      "updated": "2026-06-26",
+      "updated": "2026-06-30",
       "resolutiondate": "",
       "labels": [
         "Ralph_Lauren"
@@ -102,12 +186,12 @@
     {
       "key": "PS-5810",
       "summary": "Ralph Lauren - WA flow feedback",
-      "status": "Ready for review",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-06-26",
-      "updated": "2026-06-29",
+      "updated": "2026-06-30",
       "resolutiondate": "",
       "labels": [
         "Ralph_Lauren"
@@ -214,12 +298,12 @@
     {
       "key": "PS-5800",
       "summary": "SegurCaixa - Campanya revisions i higiene",
-      "status": "In Progress",
+      "status": "Ready for review",
       "status_category": "In Progress",
       "assignee": "Evgeni Slavyanov",
       "issuetype": "Task",
       "created": "2026-06-25",
-      "updated": "2026-06-29",
+      "updated": "2026-06-30",
       "resolutiondate": "",
       "labels": [
         "SegurCaixa"
@@ -228,8 +312,8 @@
     {
       "key": "PS-5799",
       "summary": "Wizz Air - Test new production URL",
-      "status": "In Progress",
-      "status_category": "In Progress",
+      "status": "APPROVED FOR PRODUCTION",
+      "status_category": "Done",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-06-25",
@@ -242,12 +326,12 @@
     {
       "key": "PS-5798",
       "summary": "Ralph Lauren - add seasonless tag",
-      "status": "Ready for review",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-06-25",
-      "updated": "2026-06-25",
+      "updated": "2026-06-30",
       "resolutiondate": "",
       "labels": [
         "Ralph_Lauren"
@@ -284,12 +368,12 @@
     {
       "key": "PS-5795",
       "summary": "SEM - Review if we can implement Autolanguage detection",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "In production",
+      "status_category": "Done",
       "assignee": "Aitor Casas",
       "issuetype": "Task",
       "created": "2026-06-22",
-      "updated": "2026-06-29",
+      "updated": "2026-06-30",
       "resolutiondate": "",
       "labels": [
         "SEM"
@@ -494,12 +578,12 @@
     {
       "key": "PS-5780",
       "summary": "Michael Kors - Add webview event tracking",
-      "status": "In Review",
+      "status": "Ready to Deliver",
       "status_category": "In Progress",
       "assignee": "Alexander Skalatskiy",
       "issuetype": "Task",
       "created": "2026-06-19",
-      "updated": "2026-06-19",
+      "updated": "2026-06-29",
       "resolutiondate": "",
       "labels": [
         "Michael-Kors"
@@ -508,12 +592,12 @@
     {
       "key": "PS-5779",
       "summary": "Soledad - webview add margin to price",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "In Progress",
+      "status_category": "In Progress",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-06-19",
-      "updated": "2026-06-22",
+      "updated": "2026-06-30",
       "resolutiondate": "",
       "labels": [
         "Soledad"
@@ -590,12 +674,12 @@
     {
       "key": "PS-5773",
       "summary": "Assegur - Update bot for the automatic language detection",
-      "status": "APPROVED FOR PRODUCTION",
+      "status": "In production",
       "status_category": "Done",
       "assignee": "Evgeni Slavyanov",
       "issuetype": "Task",
       "created": "2026-06-18",
-      "updated": "2026-06-29",
+      "updated": "2026-06-30",
       "resolutiondate": "",
       "labels": [
         "Assegur"
@@ -644,12 +728,12 @@
     {
       "key": "PS-5769",
       "summary": "Assegur - Link the area code of Andorra to the Catalan language",
-      "status": "APPROVED FOR PRODUCTION",
+      "status": "In production",
       "status_category": "Done",
       "assignee": "Evgeni Slavyanov",
       "issuetype": "Task",
       "created": "2026-06-17",
-      "updated": "2026-06-29",
+      "updated": "2026-06-30",
       "resolutiondate": "",
       "labels": [
         "Assegur"
@@ -700,12 +784,12 @@
     {
       "key": "PS-5765",
       "summary": "Michael Kors - Connect WISMO/WISMR webview with middleware",
-      "status": "In Review",
+      "status": "Ready to Deliver",
       "status_category": "In Progress",
       "assignee": "Alexander Skalatskiy",
       "issuetype": "Task",
       "created": "2026-06-17",
-      "updated": "2026-06-19",
+      "updated": "2026-06-29",
       "resolutiondate": "",
       "labels": [
         "Michael-Kors"
@@ -1275,7 +1359,7 @@
       "assignee": "Evgeni Slavyanov",
       "issuetype": "Task",
       "created": "2026-06-09",
-      "updated": "2026-06-29",
+      "updated": "2026-06-30",
       "resolutiondate": "",
       "labels": [
         "Guess"
@@ -1523,7 +1607,7 @@
     {
       "key": "PS-5706",
       "summary": "Air Europa - Falla envío estado de user_logged en chatcontext a AVA",
-      "status": "APPROVED FOR PRODUCTION",
+      "status": "Done",
       "status_category": "Done",
       "assignee": "Alexander Skalatskiy",
       "issuetype": "Bug",
@@ -1775,12 +1859,12 @@
     {
       "key": "PS-5688",
       "summary": "Air Europa - Bug - Ava error response is triggering the Otherwise fallback flow for text message",
-      "status": "APPROVED FOR PRODUCTION",
+      "status": "Done",
       "status_category": "Done",
       "assignee": "Alexander Skalatskiy",
       "issuetype": "Bug",
       "created": "2026-06-03",
-      "updated": "2026-06-26",
+      "updated": "2026-06-29",
       "resolutiondate": "",
       "labels": [
         "AirEuropa",
@@ -1879,7 +1963,7 @@
       "assignee": "Pep Alonso",
       "issuetype": "Task",
       "created": "2026-06-02",
-      "updated": "2026-06-22",
+      "updated": "2026-06-30",
       "resolutiondate": "",
       "labels": [
         "Consum"
@@ -2056,12 +2140,12 @@
     {
       "key": "PS-5668",
       "summary": "Ralph Lauren- create for production action 90min delay ",
-      "status": "Ready for review",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-06-01",
-      "updated": "2026-06-22",
+      "updated": "2026-06-30",
       "resolutiondate": "",
       "labels": [
         "Ralph_Lauren"
@@ -4138,12 +4222,12 @@
     {
       "key": "PS-5516",
       "summary": "Michael Kors - Implement Middleware to handle WISMO/WISMR calls from webview and bot",
-      "status": "In Review",
+      "status": "Ready to Deliver",
       "status_category": "In Progress",
       "assignee": "Alexander Skalatskiy",
       "issuetype": "Task",
       "created": "2026-05-07",
-      "updated": "2026-06-19",
+      "updated": "2026-06-29",
       "resolutiondate": "",
       "labels": [
         "Michael-Kors"
@@ -4208,12 +4292,12 @@
     {
       "key": "PS-5511",
       "summary": "Michael Kors - Implement WISMO/WISMR flow and bot responses",
-      "status": "In Review",
+      "status": "Ready to Deliver",
       "status_category": "In Progress",
       "assignee": "Alexander Skalatskiy",
       "issuetype": "Task",
       "created": "2026-05-07",
-      "updated": "2026-06-23",
+      "updated": "2026-06-29",
       "resolutiondate": "",
       "labels": [
         "Michael-Kors"
@@ -4222,12 +4306,12 @@
     {
       "key": "PS-5510",
       "summary": "Michael Kors - Implement WISMO/WISMR webview/s",
-      "status": "In Review",
+      "status": "Ready to Deliver",
       "status_category": "In Progress",
       "assignee": "Alexander Skalatskiy",
       "issuetype": "Task",
       "created": "2026-05-07",
-      "updated": "2026-06-19",
+      "updated": "2026-06-29",
       "resolutiondate": "",
       "labels": [
         "Michael-Kors"
@@ -4925,12 +5009,12 @@
     {
       "key": "PS-5458",
       "summary": "Verisure Spain - Inicio de conversacion, \"Por aquí\" o \"Llámame\"",
-      "status": "Ready to Deliver",
-      "status_category": "In Progress",
+      "status": "Closed",
+      "status_category": "Done",
       "assignee": "Aitor Casas",
       "issuetype": "Task",
       "created": "2026-04-28",
-      "updated": "2026-05-04",
+      "updated": "2026-06-30",
       "resolutiondate": "",
       "labels": [
         "Verisure_ES"
@@ -5037,8 +5121,8 @@
     {
       "key": "PS-5449",
       "summary": "RACC - Servei Estalvi Energètic - Clientes que siguen todo el funnel pero se quedan en la pregunta ¿Eres titular del contrato?",
-      "status": "Ready for review",
-      "status_category": "In Progress",
+      "status": "Closed",
+      "status_category": "Done",
       "assignee": "Adrià Sastre",
       "issuetype": "Discovery Task",
       "created": "2026-04-27",
@@ -5965,7 +6049,7 @@
     {
       "key": "PS-5378",
       "summary": "Michael Kors - WISMO / WISMR API integration",
-      "status": "Ready for review",
+      "status": "Ready to Deliver",
       "status_category": "In Progress",
       "assignee": "Adrià Sastre",
       "issuetype": "Epic",
@@ -18328,7 +18412,7 @@
       "assignee": "Adrià Sastre",
       "issuetype": "Bug",
       "created": "2025-09-10",
-      "updated": "2026-02-23",
+      "updated": "2026-06-29",
       "resolutiondate": "",
       "labels": [
         "WizzAir"
