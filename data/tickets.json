@@ -1,10 +1,72 @@
 {
-  "last_updated": "2026-06-30 10:29 UTC",
+  "last_updated": "2026-07-01 10:43 UTC",
   "tickets": [
+    {
+      "key": "PS-5828",
+      "summary": "Ralph Lauren - change liks of carousels to products",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Lorena Sánchez-Toril Nicolás",
+      "issuetype": "Task",
+      "created": "2026-07-01",
+      "updated": "2026-07-01",
+      "resolutiondate": "",
+      "labels": [
+        "Ralph_Lauren"
+      ]
+    },
+    {
+      "key": "PS-5827",
+      "summary": "Ralph Lauren Reminder - Adjust black tie prompt (suki's feedback)",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "irene callejas",
+      "issuetype": "Task",
+      "created": "2026-07-01",
+      "updated": "2026-07-01",
+      "resolutiondate": "",
+      "labels": []
+    },
+    {
+      "key": "PS-5826",
+      "summary": "Air Europa: update design changes on implementation",
+      "status": "In Progress",
+      "status_category": "In Progress",
+      "assignee": "Vicky Correbo",
+      "issuetype": "Task",
+      "created": "2026-06-30",
+      "updated": "2026-06-30",
+      "resolutiondate": "",
+      "labels": []
+    },
+    {
+      "key": "PS-5825",
+      "summary": "Allianz ES: applied changes on the categories of Polizas/Siniestros",
+      "status": "In Review",
+      "status_category": "In Progress",
+      "assignee": "Vicky Correbo",
+      "issuetype": "Task",
+      "created": "2026-06-30",
+      "updated": "2026-06-30",
+      "resolutiondate": "",
+      "labels": []
+    },
+    {
+      "key": "PS-5824",
+      "summary": "Jetsmart: update design of new optionals",
+      "status": "In Progress",
+      "status_category": "In Progress",
+      "assignee": "Vicky Correbo",
+      "issuetype": "Task",
+      "created": "2026-06-30",
+      "updated": "2026-06-30",
+      "resolutiondate": "",
+      "labels": []
+    },
     {
       "key": "PS-5823",
       "summary": "Ralph Lauren -  Safe category implementation",
-      "status": "In Progress",
+      "status": "Ready for review",
       "status_category": "In Progress",
       "assignee": "irene callejas",
       "issuetype": "Task",
@@ -88,12 +150,12 @@
     {
       "key": "PS-5817",
       "summary": "Ralph Lauren - Reminder  -  Suki feedback 290626 on patterns",
-      "status": "To Do",
-      "status_category": "To Do",
-      "assignee": null,
+      "status": "Ready for review",
+      "status_category": "In Progress",
+      "assignee": "irene callejas",
       "issuetype": "Task",
       "created": "2026-06-29",
-      "updated": "2026-06-29",
+      "updated": "2026-06-30",
       "resolutiondate": "",
       "labels": [
         "Ralph_Lauren"
@@ -104,10 +166,10 @@
       "summary": "Michael Kors - Warranty Flow - Review if it can be improved",
       "status": "In Progress",
       "status_category": "In Progress",
-      "assignee": "Vicky Correbo",
+      "assignee": "Andrea Talal Haidar",
       "issuetype": "Task",
       "created": "2026-06-29",
-      "updated": "2026-06-30",
+      "updated": "2026-07-01",
       "resolutiondate": "",
       "labels": [
         "Michael-Kors"
@@ -116,12 +178,12 @@
     {
       "key": "PS-5815",
       "summary": "Ralph Lauren: review Shalini feedback on double welcome - others",
-      "status": "In Progress",
+      "status": "Ready for review",
       "status_category": "In Progress",
       "assignee": "irene callejas",
       "issuetype": "Task",
       "created": "2026-06-29",
-      "updated": "2026-06-29",
+      "updated": "2026-06-30",
       "resolutiondate": "",
       "labels": [
         "Ralph_Lauren"
@@ -158,12 +220,12 @@
     {
       "key": "PS-5812",
       "summary": "Air Europa - Interprete \"HubtypeAction\" and trigger flow builder with AVA response",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "In Progress",
+      "status_category": "In Progress",
       "assignee": "Alexander Skalatskiy",
       "issuetype": "Task",
       "created": "2026-06-26",
-      "updated": "2026-06-29",
+      "updated": "2026-06-30",
       "resolutiondate": "",
       "labels": [
         "AirEuropa"
@@ -205,7 +267,7 @@
       "assignee": "Evgeni Slavyanov",
       "issuetype": "Task",
       "created": "2026-06-25",
-      "updated": "2026-06-29",
+      "updated": "2026-07-01",
       "resolutiondate": "",
       "labels": [
         "Verisure-FR"
@@ -312,12 +374,12 @@
     {
       "key": "PS-5799",
       "summary": "Wizz Air - Test new production URL",
-      "status": "APPROVED FOR PRODUCTION",
+      "status": "Done",
       "status_category": "Done",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-06-25",
-      "updated": "2026-06-29",
+      "updated": "2026-07-01",
       "resolutiondate": "",
       "labels": [
         "WizzAir"
@@ -359,7 +421,7 @@
       "assignee": "Evgeni Slavyanov",
       "issuetype": "Task",
       "created": "2026-06-22",
-      "updated": "2026-06-26",
+      "updated": "2026-07-01",
       "resolutiondate": "",
       "labels": [
         "SegurCaixa"
@@ -426,10 +488,10 @@
       "summary": "Ralph Lauren - The AI Agent sometimes hallucinates when providing info on stores",
       "status": "In Progress",
       "status_category": "In Progress",
-      "assignee": "Marta Marron",
+      "assignee": "irene callejas",
       "issuetype": "Task",
       "created": "2026-06-22",
-      "updated": "2026-06-23",
+      "updated": "2026-06-30",
       "resolutiondate": "",
       "labels": [
         "Ralph_Lauren"
@@ -485,7 +547,7 @@
       "assignee": "Adrià Sastre",
       "issuetype": "Bug",
       "created": "2026-06-22",
-      "updated": "2026-06-26",
+      "updated": "2026-07-01",
       "resolutiondate": "",
       "labels": [
         "tendam"
@@ -496,10 +558,10 @@
       "summary": "Soledad - Design Configuration webview",
       "status": "In Progress",
       "status_category": "In Progress",
-      "assignee": "Andrea Talal Haidar",
+      "assignee": "Vicky Correbo",
       "issuetype": "Task",
       "created": "2026-06-22",
-      "updated": "2026-06-26",
+      "updated": "2026-07-01",
       "resolutiondate": "",
       "labels": [
         "Soledad"
@@ -592,7 +654,7 @@
     {
       "key": "PS-5779",
       "summary": "Soledad - webview add margin to price",
-      "status": "In Progress",
+      "status": "Ready for review",
       "status_category": "In Progress",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
@@ -674,7 +736,7 @@
     {
       "key": "PS-5773",
       "summary": "Assegur - Update bot for the automatic language detection",
-      "status": "In production",
+      "status": "Done",
       "status_category": "Done",
       "assignee": "Evgeni Slavyanov",
       "issuetype": "Task",
@@ -728,7 +790,7 @@
     {
       "key": "PS-5769",
       "summary": "Assegur - Link the area code of Andorra to the Catalan language",
-      "status": "In production",
+      "status": "Done",
       "status_category": "Done",
       "assignee": "Evgeni Slavyanov",
       "issuetype": "Task",
@@ -1158,12 +1220,12 @@
     {
       "key": "PS-5738",
       "summary": "Libeen - Eliminar el requisito de trabajar y vivir en España (no preguntarlo y no requisito para cualificar)",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Ready for review",
+      "status_category": "In Progress",
       "assignee": "Alexander Skalatskiy",
       "issuetype": "Task",
       "created": "2026-06-11",
-      "updated": "2026-06-22",
+      "updated": "2026-06-30",
       "resolutiondate": "",
       "labels": [
         "Libeen"
@@ -1719,12 +1781,12 @@
     {
       "key": "PS-5698",
       "summary": "TMB - Accesibilidad: corrección de errores detectados",
-      "status": "Ready for review",
-      "status_category": "In Progress",
+      "status": "In production",
+      "status_category": "Done",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-06-04",
-      "updated": "2026-06-25",
+      "updated": "2026-07-01",
       "resolutiondate": "",
       "labels": [
         "TMB"
@@ -1958,7 +2020,7 @@
     {
       "key": "PS-5681",
       "summary": "Consum - Flow Builder migration",
-      "status": "In Progress",
+      "status": "Ready for review",
       "status_category": "In Progress",
       "assignee": "Pep Alonso",
       "issuetype": "Task",
@@ -2182,12 +2244,12 @@
     {
       "key": "PS-5665",
       "summary": "Ralph Lauren - Build a WhatsApp feedback flow (multiple choice plus open text) for the soft-launch feedback programme",
-      "status": "In Progress",
+      "status": "Ready for review",
       "status_category": "In Progress",
       "assignee": "Andrea Talal Haidar",
       "issuetype": "Task",
       "created": "2026-05-29",
-      "updated": "2026-06-26",
+      "updated": "2026-07-01",
       "resolutiondate": "",
       "labels": [
         "Ralph_Lauren"
@@ -5367,12 +5429,12 @@
     {
       "key": "PS-5431",
       "summary": "Air Europa - Logic changes",
-      "status": "In Progress",
+      "status": "Ready for review",
       "status_category": "In Progress",
       "assignee": "Alexander Skalatskiy",
       "issuetype": "Task",
       "created": "2026-04-23",
-      "updated": "2026-06-26",
+      "updated": "2026-06-30",
       "resolutiondate": "",
       "labels": [
         "AirEuropa"
