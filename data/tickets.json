@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-07-01 10:43 UTC",
+  "last_updated": "2026-07-02 10:08 UTC",
   "tickets": [
+    {
+      "key": "PS-5829",
+      "summary": "RACC viajes - update prompt con feedback de cliente",
+      "status": "Done",
+      "status_category": "Done",
+      "assignee": "irene callejas",
+      "issuetype": "Task",
+      "created": "2026-07-01",
+      "updated": "2026-07-01",
+      "resolutiondate": "",
+      "labels": [
+        "RACC_START"
+      ]
+    },
     {
       "key": "PS-5828",
       "summary": "Ralph Lauren - change liks of carousels to products",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "In Progress",
+      "status_category": "In Progress",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-07-01",
@@ -18,24 +32,26 @@
     {
       "key": "PS-5827",
       "summary": "Ralph Lauren Reminder - Adjust black tie prompt (suki's feedback)",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Ready for review",
+      "status_category": "In Progress",
       "assignee": "irene callejas",
       "issuetype": "Task",
       "created": "2026-07-01",
-      "updated": "2026-07-01",
+      "updated": "2026-07-02",
       "resolutiondate": "",
-      "labels": []
+      "labels": [
+        "Ralph_Lauren"
+      ]
     },
     {
       "key": "PS-5826",
       "summary": "Air Europa: update design changes on implementation",
-      "status": "In Progress",
+      "status": "Ready for review",
       "status_category": "In Progress",
       "assignee": "Vicky Correbo",
       "issuetype": "Task",
       "created": "2026-06-30",
-      "updated": "2026-06-30",
+      "updated": "2026-07-01",
       "resolutiondate": "",
       "labels": []
     },
@@ -96,10 +112,10 @@
       "summary": "Verisure Spain - Create demo in staging so that Agents can display a calendar in shadowing",
       "status": "To Do",
       "status_category": "To Do",
-      "assignee": "Adrià Sastre",
+      "assignee": "Alexander Skalatskiy",
       "issuetype": "Task",
       "created": "2026-06-29",
-      "updated": "2026-06-30",
+      "updated": "2026-07-02",
       "resolutiondate": "",
       "labels": [
         "Verisure_ES"
@@ -220,12 +236,12 @@
     {
       "key": "PS-5812",
       "summary": "Air Europa - Interprete \"HubtypeAction\" and trigger flow builder with AVA response",
-      "status": "In Progress",
+      "status": "Ready for review",
       "status_category": "In Progress",
       "assignee": "Alexander Skalatskiy",
       "issuetype": "Task",
       "created": "2026-06-26",
-      "updated": "2026-06-30",
+      "updated": "2026-07-01",
       "resolutiondate": "",
       "labels": [
         "AirEuropa"
@@ -430,12 +446,12 @@
     {
       "key": "PS-5795",
       "summary": "SEM - Review if we can implement Autolanguage detection",
-      "status": "In production",
+      "status": "Done",
       "status_category": "Done",
       "assignee": "Aitor Casas",
       "issuetype": "Task",
       "created": "2026-06-22",
-      "updated": "2026-06-30",
+      "updated": "2026-07-02",
       "resolutiondate": "",
       "labels": [
         "SEM"
@@ -556,7 +572,7 @@
     {
       "key": "PS-5786",
       "summary": "Soledad - Design Configuration webview",
-      "status": "In Progress",
+      "status": "Ready to Deliver",
       "status_category": "In Progress",
       "assignee": "Vicky Correbo",
       "issuetype": "Task",
@@ -1421,7 +1437,7 @@
       "assignee": "Evgeni Slavyanov",
       "issuetype": "Task",
       "created": "2026-06-09",
-      "updated": "2026-06-30",
+      "updated": "2026-07-01",
       "resolutiondate": "",
       "labels": [
         "Guess"
@@ -1781,7 +1797,7 @@
     {
       "key": "PS-5698",
       "summary": "TMB - Accesibilidad: corrección de errores detectados",
-      "status": "In production",
+      "status": "Done",
       "status_category": "Done",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
@@ -1950,12 +1966,12 @@
     {
       "key": "PS-5686",
       "summary": "Rag & Bone - Update bot version",
-      "status": "Done",
-      "status_category": "Done",
+      "status": "To Do",
+      "status_category": "To Do",
       "assignee": "Evgeni Slavyanov",
       "issuetype": "Task",
       "created": "2026-06-03",
-      "updated": "2026-06-17",
+      "updated": "2026-07-01",
       "resolutiondate": "",
       "labels": [
         "Rag&Bone"
@@ -2025,7 +2041,7 @@
       "assignee": "Pep Alonso",
       "issuetype": "Task",
       "created": "2026-06-02",
-      "updated": "2026-06-30",
+      "updated": "2026-07-01",
       "resolutiondate": "",
       "labels": [
         "Consum"
