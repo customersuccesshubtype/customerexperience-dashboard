@@ -1,6 +1,76 @@
 {
-  "last_updated": "2026-07-02 10:08 UTC",
+  "last_updated": "2026-07-03 09:55 UTC",
   "tickets": [
+    {
+      "key": "PS-5834",
+      "summary": "Ralph Lauren - update negative values on enum",
+      "status": "Ready for review",
+      "status_category": "In Progress",
+      "assignee": "Lorena Sánchez-Toril Nicolás",
+      "issuetype": "Task",
+      "created": "2026-07-03",
+      "updated": "2026-07-03",
+      "resolutiondate": "",
+      "labels": [
+        "Ralph_Lauren"
+      ]
+    },
+    {
+      "key": "PS-5833",
+      "summary": "Verisure ES - Eliminar bots \"Staging\" y \"Production\"",
+      "status": "Open",
+      "status_category": "To Do",
+      "assignee": null,
+      "issuetype": "Task",
+      "created": "2026-07-02",
+      "updated": "2026-07-02",
+      "resolutiondate": "",
+      "labels": [
+        "Verisure_ES"
+      ]
+    },
+    {
+      "key": "PS-5832",
+      "summary": "Verisure ES - Nuevo bot \"Confirmadas\" para campana de confirmacion de cita",
+      "status": "Open",
+      "status_category": "To Do",
+      "assignee": null,
+      "issuetype": "Task",
+      "created": "2026-07-02",
+      "updated": "2026-07-02",
+      "resolutiondate": "",
+      "labels": [
+        "Verisure_ES"
+      ]
+    },
+    {
+      "key": "PS-5831",
+      "summary": "Ralph Lauren - update to version 0.51",
+      "status": "Ready for review",
+      "status_category": "In Progress",
+      "assignee": "Lorena Sánchez-Toril Nicolás",
+      "issuetype": "Task",
+      "created": "2026-07-02",
+      "updated": "2026-07-03",
+      "resolutiondate": "",
+      "labels": [
+        "Ralph_Lauren"
+      ]
+    },
+    {
+      "key": "PS-5830",
+      "summary": "Soledad - add keyword to eliminate marginvalue",
+      "status": "Ready for review",
+      "status_category": "In Progress",
+      "assignee": "Lorena Sánchez-Toril Nicolás",
+      "issuetype": "Task",
+      "created": "2026-07-02",
+      "updated": "2026-07-03",
+      "resolutiondate": "",
+      "labels": [
+        "Soledad"
+      ]
+    },
     {
       "key": "PS-5829",
       "summary": "RACC viajes - update prompt con feedback de cliente",
@@ -18,12 +88,12 @@
     {
       "key": "PS-5828",
       "summary": "Ralph Lauren - change liks of carousels to products",
-      "status": "In Progress",
-      "status_category": "In Progress",
+      "status": "Closed",
+      "status_category": "Done",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-07-01",
-      "updated": "2026-07-01",
+      "updated": "2026-07-03",
       "resolutiondate": "",
       "labels": [
         "Ralph_Lauren"
@@ -182,10 +252,10 @@
       "summary": "Michael Kors - Warranty Flow - Review if it can be improved",
       "status": "In Progress",
       "status_category": "In Progress",
-      "assignee": "Andrea Talal Haidar",
+      "assignee": "Vicky Correbo",
       "issuetype": "Task",
       "created": "2026-06-29",
-      "updated": "2026-07-01",
+      "updated": "2026-07-03",
       "resolutiondate": "",
       "labels": [
         "Michael-Kors"
@@ -283,7 +353,7 @@
       "assignee": "Evgeni Slavyanov",
       "issuetype": "Task",
       "created": "2026-06-25",
-      "updated": "2026-07-01",
+      "updated": "2026-07-03",
       "resolutiondate": "",
       "labels": [
         "Verisure-FR"
@@ -717,7 +787,7 @@
       "assignee": "Evgeni Slavyanov",
       "issuetype": "Task",
       "created": "2026-06-18",
-      "updated": "2026-06-29",
+      "updated": "2026-07-03",
       "resolutiondate": "",
       "labels": []
     },
@@ -729,7 +799,7 @@
       "assignee": "Marta Marron",
       "issuetype": "Epic",
       "created": "2026-06-18",
-      "updated": "2026-06-25",
+      "updated": "2026-07-03",
       "resolutiondate": "",
       "labels": [
         "Verisure-FR"
@@ -1122,12 +1192,12 @@
     {
       "key": "PS-5746",
       "summary": "Air Europa - New message for IDLE cases",
-      "status": "To Do",
+      "status": "Open",
       "status_category": "To Do",
       "assignee": "Alexander Skalatskiy",
       "issuetype": "Task",
       "created": "2026-06-15",
-      "updated": "2026-06-29",
+      "updated": "2026-07-02",
       "resolutiondate": "",
       "labels": [
         "AirEuropa"
@@ -1839,12 +1909,12 @@
     {
       "key": "PS-5695",
       "summary": "Libeen – Integrar los owners de HubSpot en los mensajes de confirmación de cita",
-      "status": "In Progress",
-      "status_category": "In Progress",
+      "status": "To Do",
+      "status_category": "To Do",
       "assignee": "Alexander Skalatskiy",
       "issuetype": "Task",
       "created": "2026-06-03",
-      "updated": "2026-06-15",
+      "updated": "2026-07-02",
       "resolutiondate": "",
       "labels": [
         "Libeen"
@@ -5417,12 +5487,12 @@
     {
       "key": "PS-5433",
       "summary": "Air Europa - diferenciar iOS de Android para incluir el formato correcto del link de Brevo en Android ",
-      "status": "Open",
+      "status": "To Do",
       "status_category": "To Do",
-      "assignee": null,
+      "assignee": "Alexander Skalatskiy",
       "issuetype": "Task",
       "created": "2026-04-23",
-      "updated": "2026-04-29",
+      "updated": "2026-07-02",
       "resolutiondate": "",
       "labels": [
         "AirEuropa"
@@ -5431,12 +5501,12 @@
     {
       "key": "PS-5432",
       "summary": "Air Europa - Text and redirection changes",
-      "status": "Open",
-      "status_category": "To Do",
-      "assignee": null,
+      "status": "In Progress",
+      "status_category": "In Progress",
+      "assignee": "Alexander Skalatskiy",
       "issuetype": "Task",
       "created": "2026-04-23",
-      "updated": "2026-06-08",
+      "updated": "2026-07-03",
       "resolutiondate": "",
       "labels": [
         "AirEuropa"
@@ -5445,12 +5515,12 @@
     {
       "key": "PS-5431",
       "summary": "Air Europa - Logic changes",
-      "status": "Ready for review",
+      "status": "In Review",
       "status_category": "In Progress",
       "assignee": "Alexander Skalatskiy",
       "issuetype": "Task",
       "created": "2026-04-23",
-      "updated": "2026-06-30",
+      "updated": "2026-07-03",
       "resolutiondate": "",
       "labels": [
         "AirEuropa"
@@ -5714,7 +5784,7 @@
       "assignee": "Julieta Mezza",
       "issuetype": "Epic",
       "created": "2026-04-22",
-      "updated": "2026-06-01",
+      "updated": "2026-07-03",
       "resolutiondate": "",
       "labels": [
         "AirEuropa"
@@ -13558,12 +13628,12 @@
     {
       "key": "PS-4803",
       "summary": "Shark Tank Demo",
-      "status": "In Progress",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Pep Alonso",
       "issuetype": "Epic",
       "created": "2026-01-08",
-      "updated": "2026-01-17",
+      "updated": "2026-07-02",
       "resolutiondate": "",
       "labels": [
         "Internal"
@@ -21352,7 +21422,7 @@
       "assignee": "Francisca Martelli",
       "issuetype": "Task",
       "created": "2025-06-27",
-      "updated": "2025-09-19",
+      "updated": "2026-07-02",
       "resolutiondate": "",
       "labels": [
         "Hubtype"
@@ -55034,12 +55104,12 @@
     {
       "key": "PS-1296",
       "summary": "Easyjet - Chatbot developments",
-      "status": "In Progress",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Adrià Sastre",
       "issuetype": "Epic",
       "created": "2023-11-30",
-      "updated": "2025-03-29",
+      "updated": "2026-07-02",
       "resolutiondate": "",
       "labels": [
         "easyjet"
