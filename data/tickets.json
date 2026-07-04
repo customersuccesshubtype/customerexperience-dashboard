@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-03 09:55 UTC",
+  "last_updated": "2026-07-04 09:20 UTC",
   "tickets": [
     {
       "key": "PS-5834",
@@ -140,12 +140,12 @@
     {
       "key": "PS-5824",
       "summary": "Jetsmart: update design of new optionals",
-      "status": "In Progress",
+      "status": "Ready for review",
       "status_category": "In Progress",
       "assignee": "Vicky Correbo",
       "issuetype": "Task",
       "created": "2026-06-30",
-      "updated": "2026-06-30",
+      "updated": "2026-07-03",
       "resolutiondate": "",
       "labels": []
     },
@@ -348,8 +348,8 @@
     {
       "key": "PS-5809",
       "summary": "Verisure FR - Once a case is resolved we need to send information to a Verisure FR endpoint",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "In Progress",
+      "status_category": "In Progress",
       "assignee": "Evgeni Slavyanov",
       "issuetype": "Task",
       "created": "2026-06-25",
@@ -782,8 +782,8 @@
     {
       "key": "PS-5776",
       "summary": "Verisure FR - Once a template is received, store fields in a yellow note (same as Verisure IT)",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "In Progress",
+      "status_category": "In Progress",
       "assignee": "Evgeni Slavyanov",
       "issuetype": "Task",
       "created": "2026-06-18",
@@ -1262,12 +1262,12 @@
     {
       "key": "PS-5741",
       "summary": "Tendam - Cambios hacia atrás en la posición de la cola",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "In Progress",
+      "status_category": "In Progress",
       "assignee": "Adrià Sastre",
       "issuetype": "Task",
       "created": "2026-06-12",
-      "updated": "2026-06-12",
+      "updated": "2026-07-03",
       "resolutiondate": "",
       "labels": [
         "Tendam"
@@ -5487,20 +5487,6 @@
     {
       "key": "PS-5433",
       "summary": "Air Europa - diferenciar iOS de Android para incluir el formato correcto del link de Brevo en Android ",
-      "status": "To Do",
-      "status_category": "To Do",
-      "assignee": "Alexander Skalatskiy",
-      "issuetype": "Task",
-      "created": "2026-04-23",
-      "updated": "2026-07-02",
-      "resolutiondate": "",
-      "labels": [
-        "AirEuropa"
-      ]
-    },
-    {
-      "key": "PS-5432",
-      "summary": "Air Europa - Text and redirection changes",
       "status": "In Progress",
       "status_category": "In Progress",
       "assignee": "Alexander Skalatskiy",
@@ -5513,9 +5499,23 @@
       ]
     },
     {
+      "key": "PS-5432",
+      "summary": "Air Europa - Text and redirection changes",
+      "status": "APPROVED FOR PRODUCTION",
+      "status_category": "Done",
+      "assignee": "Alexander Skalatskiy",
+      "issuetype": "Task",
+      "created": "2026-04-23",
+      "updated": "2026-07-03",
+      "resolutiondate": "",
+      "labels": [
+        "AirEuropa"
+      ]
+    },
+    {
       "key": "PS-5431",
       "summary": "Air Europa - Logic changes",
-      "status": "In Review",
+      "status": "Ready to Deliver",
       "status_category": "In Progress",
       "assignee": "Alexander Skalatskiy",
       "issuetype": "Task",
@@ -7226,12 +7226,12 @@
     {
       "key": "PS-5300",
       "summary": "Guess - Fix Unhandled Promise Rejection (ERROR_HTTP_503) in Salesforce Bulk API integration",
-      "status": "Ready for review",
+      "status": "Ready to Deliver",
       "status_category": "In Progress",
       "assignee": "Evgeni Slavyanov",
       "issuetype": "Task",
       "created": "2026-04-08",
-      "updated": "2026-04-29",
+      "updated": "2026-07-03",
       "resolutiondate": "",
       "labels": [
         "Guess"
