@@ -1,6 +1,23 @@
 {
-  "last_updated": "2026-07-05 09:46 UTC",
+  "last_updated": "2026-07-06 11:43 UTC",
   "opportunities": [
+    {
+      "id": "006Sa00000jaHTSIA2",
+      "name": "2026-U-Fenie Energia-Extra MAUs June 2026",
+      "type": "Upsell",
+      "stage": "Opportunity identified",
+      "is_closed": false,
+      "is_won": false,
+      "probability": 10.0,
+      "amount": 317.2,
+      "arr": 0.0,
+      "owner": "Francisca Martelli",
+      "cs_lead": "Marta Marron",
+      "account": "Fenie Energia",
+      "created": "2026-07-06",
+      "close_date": "2026-07-01",
+      "start_date": "2026-05-04"
+    },
     {
       "id": "006Sa00000jWIW9IAO",
       "name": "2025-U-Verisure(IT)-Lead Gen(Wa)-Upgrade Maus Tier  5,000 MAUS",
