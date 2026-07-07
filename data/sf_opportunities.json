@@ -1,6 +1,23 @@
 {
-  "last_updated": "2026-07-06 11:43 UTC",
+  "last_updated": "2026-07-07 10:31 UTC",
   "opportunities": [
+    {
+      "id": "006Sa00000jg9rPIAQ",
+      "name": "2026-R-Optim Vision-Spain",
+      "type": "Renewal",
+      "stage": "Proposal",
+      "is_closed": false,
+      "is_won": false,
+      "probability": 50.0,
+      "amount": 6500.04,
+      "arr": 6500.04,
+      "owner": "Wei Wu",
+      "cs_lead": "Marta Marron",
+      "account": "Optim Vision",
+      "created": "2026-07-07",
+      "close_date": "2027-06-01",
+      "start_date": "2026-07-01"
+    },
     {
       "id": "006Sa00000jaHTSIA2",
       "name": "2026-U-Fenie Energia-Extra MAUs June 2026",
