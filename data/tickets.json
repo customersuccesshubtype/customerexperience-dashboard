@@ -1,17 +1,47 @@
 {
-  "last_updated": "2026-07-06 11:25 UTC",
+  "last_updated": "2026-07-07 10:23 UTC",
   "tickets": [
+    {
+      "key": "PS-5842",
+      "summary": "Verisure FR - Adjust the style of the variables displayed for the agent",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Evgeni Slavyanov",
+      "issuetype": "Task",
+      "created": "2026-07-07",
+      "updated": "2026-07-07",
+      "resolutiondate": "",
+      "labels": [
+        "Verisure-FR"
+      ]
+    },
+    {
+      "key": "PS-5841",
+      "summary": "Allianz Spain - Error en pantalla 6 DNI y Fecha de Nacimiento",
+      "status": "Done",
+      "status_category": "Done",
+      "assignee": "Pep Alonso",
+      "issuetype": "Bug",
+      "created": "2026-07-07",
+      "updated": "2026-07-07",
+      "resolutiondate": "",
+      "labels": [
+        "Allianz"
+      ]
+    },
     {
       "key": "PS-5840",
       "summary": "OptimVision - Deploy bot for staging and production (org_id 4a635732-34e5-45d1-8cf6-36a28bd372df)",
       "status": "To Do",
       "status_category": "To Do",
-      "assignee": null,
+      "assignee": "Evgeni Slavyanov",
       "issuetype": "Task",
       "created": "2026-07-06",
       "updated": "2026-07-06",
       "resolutiondate": "",
-      "labels": []
+      "labels": [
+        "OptimVision"
+      ]
     },
     {
       "key": "PS-5839",
@@ -72,12 +102,12 @@
     {
       "key": "PS-5834",
       "summary": "Ralph Lauren - update negative values on enum",
-      "status": "Ready for review",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-07-03",
-      "updated": "2026-07-03",
+      "updated": "2026-07-07",
       "resolutiondate": "",
       "labels": [
         "Ralph_Lauren"
@@ -86,8 +116,8 @@
     {
       "key": "PS-5832",
       "summary": "Verisure ES - Nuevo bot \"Confirmadas\" para campana de confirmacion de cita",
-      "status": "Ready for review",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Evgeni Slavyanov",
       "issuetype": "Task",
       "created": "2026-07-02",
@@ -100,12 +130,12 @@
     {
       "key": "PS-5831",
       "summary": "Ralph Lauren - update to version 0.51",
-      "status": "Ready for review",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-07-02",
-      "updated": "2026-07-03",
+      "updated": "2026-07-07",
       "resolutiondate": "",
       "labels": [
         "Ralph_Lauren"
@@ -506,12 +536,12 @@
     {
       "key": "PS-5800",
       "summary": "SegurCaixa - Campanya revisions i higiene",
-      "status": "Ready for review",
+      "status": "Ready to Deliver",
       "status_category": "In Progress",
       "assignee": "Evgeni Slavyanov",
       "issuetype": "Task",
       "created": "2026-06-25",
-      "updated": "2026-06-30",
+      "updated": "2026-07-07",
       "resolutiondate": "",
       "labels": [
         "SegurCaixa"
@@ -562,12 +592,12 @@
     {
       "key": "PS-5796",
       "summary": "SegurCaixa - Incluir el origen de la cita",
-      "status": "Ready for review",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Evgeni Slavyanov",
       "issuetype": "Task",
       "created": "2026-06-22",
-      "updated": "2026-07-01",
+      "updated": "2026-07-07",
       "resolutiondate": "",
       "labels": [
         "SegurCaixa"
@@ -2752,12 +2782,12 @@
     {
       "key": "PS-5639",
       "summary": "TMB - Produce a time estimate for the Zendesk integration under a conservative assumption (build from scratch, possible middleware needed).",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "In Progress",
+      "status_category": "In Progress",
       "assignee": "Adrià Sastre",
       "issuetype": "Discovery Task",
       "created": "2026-05-26",
-      "updated": "2026-06-25",
+      "updated": "2026-07-06",
       "resolutiondate": "",
       "labels": [
         "TMB"
@@ -2820,12 +2850,12 @@
     {
       "key": "PS-5634",
       "summary": "TMB - Upgrade Bot Version to 0.49",
-      "status": "In production",
+      "status": "Done",
       "status_category": "Done",
       "assignee": "Evgeni Slavyanov",
       "issuetype": "Task",
       "created": "2026-05-26",
-      "updated": "2026-06-29",
+      "updated": "2026-07-07",
       "resolutiondate": "",
       "labels": [
         "TMB"
@@ -5566,7 +5596,7 @@
       "assignee": "Alexander Skalatskiy",
       "issuetype": "Task",
       "created": "2026-04-23",
-      "updated": "2026-07-06",
+      "updated": "2026-07-07",
       "resolutiondate": "",
       "labels": [
         "AirEuropa"
@@ -5575,12 +5605,12 @@
     {
       "key": "PS-5431",
       "summary": "Air Europa - Logic changes",
-      "status": "Ready to Deliver",
+      "status": "In Progress",
       "status_category": "In Progress",
       "assignee": "Alexander Skalatskiy",
       "issuetype": "Task",
       "created": "2026-04-23",
-      "updated": "2026-07-03",
+      "updated": "2026-07-07",
       "resolutiondate": "",
       "labels": [
         "AirEuropa"
@@ -5687,12 +5717,12 @@
     {
       "key": "PS-5423",
       "summary": "Guess - Implement New \"Order Number\" Field in Salesforce Integration",
-      "status": "Ready to Deliver",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-04-22",
-      "updated": "2026-05-06",
+      "updated": "2026-07-07",
       "resolutiondate": "",
       "labels": [
         "Guess"
@@ -10799,12 +10829,12 @@
     {
       "key": "PS-5033",
       "summary": "Multiasistencia - Update botonic version - MULTI_MUTUA_MAD_STAGING - 9653eb5f-a132-489d-a797-203afecf7f94",
-      "status": "In production",
+      "status": "Done",
       "status_category": "Done",
       "assignee": "Evgeni Slavyanov",
       "issuetype": "Task",
       "created": "2026-02-16",
-      "updated": "2026-07-06",
+      "updated": "2026-07-07",
       "resolutiondate": "",
       "labels": [
         "Multiasistencia"
@@ -12130,7 +12160,7 @@
       "assignee": "Pep Alonso",
       "issuetype": "Epic",
       "created": "2026-01-30",
-      "updated": "2026-06-23",
+      "updated": "2026-07-06",
       "resolutiondate": "",
       "labels": [
         "JetSmart"
