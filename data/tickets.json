@@ -1,15 +1,183 @@
 {
-  "last_updated": "2026-07-07 10:23 UTC",
+  "last_updated": "2026-07-08 09:23 UTC",
   "tickets": [
     {
-      "key": "PS-5842",
-      "summary": "Verisure FR - Adjust the style of the variables displayed for the agent",
+      "key": "PS-5855",
+      "summary": "Concentra - Activate Campaign Module",
       "status": "To Do",
       "status_category": "To Do",
-      "assignee": "Evgeni Slavyanov",
+      "assignee": "Aitor Casas",
+      "issuetype": "Task",
+      "created": "2026-07-08",
+      "updated": "2026-07-08",
+      "resolutiondate": "",
+      "labels": []
+    },
+    {
+      "key": "PS-5854",
+      "summary": "Concentra - Configure HelpDesk (agents, projects and queues)",
+      "status": "Open",
+      "status_category": "To Do",
+      "assignee": null,
+      "issuetype": "Task",
+      "created": "2026-07-08",
+      "updated": "2026-07-08",
+      "resolutiondate": "",
+      "labels": []
+    },
+    {
+      "key": "PS-5853",
+      "summary": "Concentra - Create FB Flows ",
+      "status": "Open",
+      "status_category": "To Do",
+      "assignee": null,
+      "issuetype": "Task",
+      "created": "2026-07-08",
+      "updated": "2026-07-08",
+      "resolutiondate": "",
+      "labels": []
+    },
+    {
+      "key": "PS-5852",
+      "summary": "Concentra - Integrate WhatsApp number ",
+      "status": "Open",
+      "status_category": "To Do",
+      "assignee": null,
+      "issuetype": "Task",
+      "created": "2026-07-08",
+      "updated": "2026-07-08",
+      "resolutiondate": "",
+      "labels": []
+    },
+    {
+      "key": "PS-5851",
+      "summary": "Concentra - Create staging and production bots",
+      "status": "Open",
+      "status_category": "To Do",
+      "assignee": null,
+      "issuetype": "Task",
+      "created": "2026-07-08",
+      "updated": "2026-07-08",
+      "resolutiondate": "",
+      "labels": []
+    },
+    {
+      "key": "PS-5850",
+      "summary": "Concentra - Create Organization_id",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Aitor Casas",
+      "issuetype": "Task",
+      "created": "2026-07-08",
+      "updated": "2026-07-08",
+      "resolutiondate": "",
+      "labels": []
+    },
+    {
+      "key": "PS-5849",
+      "summary": "Grupo Concentra - 1st Phase",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Julieta Mezza",
+      "issuetype": "Epic",
+      "created": "2026-07-08",
+      "updated": "2026-07-08",
+      "resolutiondate": "",
+      "labels": []
+    },
+    {
+      "key": "PS-5848",
+      "summary": "Michael Kors - Store environment value in UserData to use it in Flow Builder",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Alexander Skalatskiy",
+      "issuetype": "Task",
+      "created": "2026-07-08",
+      "updated": "2026-07-08",
+      "resolutiondate": "",
+      "labels": [
+        "Michael-Kors"
+      ]
+    },
+    {
+      "key": "PS-5847",
+      "summary": "Libeen - Send Hubspot an indication that a client is not interested (campo uptail_status)",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Adrià Sastre",
       "issuetype": "Task",
       "created": "2026-07-07",
       "updated": "2026-07-07",
+      "resolutiondate": "",
+      "labels": [
+        "Libeen"
+      ]
+    },
+    {
+      "key": "PS-5846",
+      "summary": "Air Europa - Stop sending images URL to AVA",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": null,
+      "issuetype": "Task",
+      "created": "2026-07-07",
+      "updated": "2026-07-07",
+      "resolutiondate": "",
+      "labels": [
+        "AirEuropa"
+      ]
+    },
+    {
+      "key": "PS-5845",
+      "summary": "RACC - Deploy bot \"Seguros de viaje Prod\"",
+      "status": "In Progress",
+      "status_category": "In Progress",
+      "assignee": "Evgeni Slavyanov",
+      "issuetype": "Task",
+      "created": "2026-07-07",
+      "updated": "2026-07-08",
+      "resolutiondate": "",
+      "labels": [
+        "RACC"
+      ]
+    },
+    {
+      "key": "PS-5844",
+      "summary": "RACC - Seguros de Viaje - 1a Fase",
+      "status": "Open",
+      "status_category": "To Do",
+      "assignee": null,
+      "issuetype": "Epic",
+      "created": "2026-07-07",
+      "updated": "2026-07-07",
+      "resolutiondate": "",
+      "labels": [
+        "RACC"
+      ]
+    },
+    {
+      "key": "PS-5843",
+      "summary": "Libeen - Eliminate Bot Staging (Libeen Staging 2) which is not in use",
+      "status": "Done",
+      "status_category": "Done",
+      "assignee": "Evgeni Slavyanov",
+      "issuetype": "Task",
+      "created": "2026-07-07",
+      "updated": "2026-07-08",
+      "resolutiondate": "",
+      "labels": [
+        "Libeen"
+      ]
+    },
+    {
+      "key": "PS-5842",
+      "summary": "Verisure FR - Adjust the style of the variables displayed for the agent",
+      "status": "In Progress",
+      "status_category": "In Progress",
+      "assignee": "Evgeni Slavyanov",
+      "issuetype": "Task",
+      "created": "2026-07-07",
+      "updated": "2026-07-08",
       "resolutiondate": "",
       "labels": [
         "Verisure-FR"
@@ -32,12 +200,12 @@
     {
       "key": "PS-5840",
       "summary": "OptimVision - Deploy bot for staging and production (org_id 4a635732-34e5-45d1-8cf6-36a28bd372df)",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Ready for review",
+      "status_category": "In Progress",
       "assignee": "Evgeni Slavyanov",
       "issuetype": "Task",
       "created": "2026-07-06",
-      "updated": "2026-07-06",
+      "updated": "2026-07-08",
       "resolutiondate": "",
       "labels": [
         "OptimVision"
@@ -340,12 +508,12 @@
     {
       "key": "PS-5816",
       "summary": "Michael Kors - Warranty Flow - Review if it can be improved",
-      "status": "In Progress",
+      "status": "Ready for review",
       "status_category": "In Progress",
       "assignee": "Vicky Correbo",
       "issuetype": "Task",
       "created": "2026-06-29",
-      "updated": "2026-07-03",
+      "updated": "2026-07-07",
       "resolutiondate": "",
       "labels": [
         "Michael-Kors"
@@ -396,12 +564,12 @@
     {
       "key": "PS-5812",
       "summary": "Air Europa - Interprete \"HubtypeAction\" and trigger flow builder with AVA response",
-      "status": "Ready to Deliver",
-      "status_category": "In Progress",
+      "status": "APPROVED FOR PRODUCTION",
+      "status_category": "Done",
       "assignee": "Alexander Skalatskiy",
       "issuetype": "Task",
       "created": "2026-06-26",
-      "updated": "2026-07-06",
+      "updated": "2026-07-07",
       "resolutiondate": "",
       "labels": [
         "AirEuropa"
@@ -702,20 +870,6 @@
       ]
     },
     {
-      "key": "PS-5788",
-      "summary": "Libeen - R3minder:: Delete Spain Residency & coordinate w delivery",
-      "status": "To Do",
-      "status_category": "To Do",
-      "assignee": "irene callejas",
-      "issuetype": "Task",
-      "created": "2026-06-22",
-      "updated": "2026-06-22",
-      "resolutiondate": "",
-      "labels": [
-        "Libeen"
-      ]
-    },
-    {
       "key": "PS-5787",
       "summary": "Tendam - Closed cases not reaching InConcert",
       "status": "Ready to Deliver",
@@ -985,7 +1139,7 @@
       "assignee": "Evgeni Slavyanov",
       "issuetype": "Task",
       "created": "2026-06-17",
-      "updated": "2026-06-18",
+      "updated": "2026-07-07",
       "resolutiondate": "",
       "labels": [
         "RACC"
@@ -1396,12 +1550,12 @@
     {
       "key": "PS-5738",
       "summary": "Libeen - Eliminar el requisito de trabajar y vivir en España (no preguntarlo y no requisito para cualificar)",
-      "status": "Ready for review",
-      "status_category": "In Progress",
+      "status": "In production",
+      "status_category": "Done",
       "assignee": "Alexander Skalatskiy",
       "issuetype": "Task",
       "created": "2026-06-11",
-      "updated": "2026-06-30",
+      "updated": "2026-07-07",
       "resolutiondate": "",
       "labels": [
         "Libeen"
@@ -2126,12 +2280,12 @@
     {
       "key": "PS-5686",
       "summary": "Rag & Bone - Update bot version",
-      "status": "APPROVED FOR PRODUCTION",
+      "status": "Done",
       "status_category": "Done",
       "assignee": "Evgeni Slavyanov",
       "issuetype": "Task",
       "created": "2026-06-03",
-      "updated": "2026-07-06",
+      "updated": "2026-07-08",
       "resolutiondate": "",
       "labels": [
         "Rag&Bone"
@@ -2782,12 +2936,12 @@
     {
       "key": "PS-5639",
       "summary": "TMB - Produce a time estimate for the Zendesk integration under a conservative assumption (build from scratch, possible middleware needed).",
-      "status": "In Progress",
+      "status": "Ready for review",
       "status_category": "In Progress",
       "assignee": "Adrià Sastre",
       "issuetype": "Discovery Task",
       "created": "2026-05-26",
-      "updated": "2026-07-06",
+      "updated": "2026-07-07",
       "resolutiondate": "",
       "labels": [
         "TMB"
@@ -5345,12 +5499,12 @@
     {
       "key": "PS-5451",
       "summary": "Air Europa - Apply design changes (1)",
-      "status": "Ready to Deliver",
+      "status": "In Progress",
       "status_category": "In Progress",
       "assignee": "Evgeni Slavyanov",
       "issuetype": "Task",
       "created": "2026-04-27",
-      "updated": "2026-07-06",
+      "updated": "2026-07-07",
       "resolutiondate": "",
       "labels": [
         "AirEuropa"
@@ -5577,12 +5731,12 @@
     {
       "key": "PS-5433",
       "summary": "Air Europa - diferenciar iOS de Android para incluir el formato correcto del link de Brevo en Android ",
-      "status": "In Progress",
-      "status_category": "In Progress",
+      "status": "Closed",
+      "status_category": "Done",
       "assignee": "Alexander Skalatskiy",
       "issuetype": "Task",
       "created": "2026-04-23",
-      "updated": "2026-07-06",
+      "updated": "2026-07-07",
       "resolutiondate": "",
       "labels": [
         "AirEuropa"
@@ -10913,12 +11067,12 @@
     {
       "key": "PS-5026",
       "summary": "Multiasistencia - Update botonic version for all bots",
-      "status": "In Progress",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Marta Marron",
       "issuetype": "Epic",
       "created": "2026-02-16",
-      "updated": "2026-05-05",
+      "updated": "2026-07-07",
       "resolutiondate": "",
       "labels": [
         "Multiasistencia"
@@ -15149,12 +15303,12 @@
     {
       "key": "PS-4684",
       "summary": "Bot Core - Add audio transcript plugin",
-      "status": "Ready for review",
-      "status_category": "In Progress",
+      "status": "Closed",
+      "status_category": "Done",
       "assignee": "Pep Alonso",
       "issuetype": "Task",
       "created": "2025-11-27",
-      "updated": "2026-01-19",
+      "updated": "2026-07-07",
       "resolutiondate": "",
       "labels": [
         "Internal"
