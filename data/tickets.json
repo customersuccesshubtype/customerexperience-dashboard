@@ -1,6 +1,174 @@
 {
-  "last_updated": "2026-07-08 09:23 UTC",
+  "last_updated": "2026-07-09 10:22 UTC",
   "tickets": [
+    {
+      "key": "PS-5868",
+      "summary": "Assegur - Review if we are receiving new data about \"arag\" and \"europ assistance\"",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Adrià Sastre",
+      "issuetype": "Task",
+      "created": "2026-07-09",
+      "updated": "2026-07-09",
+      "resolutiondate": "",
+      "labels": [
+        "Assegur"
+      ]
+    },
+    {
+      "key": "PS-5867",
+      "summary": "Assegur - Fix wrong language assigned for Andorra",
+      "status": "Ready for review",
+      "status_category": "In Progress",
+      "assignee": "Evgeni Slavyanov",
+      "issuetype": "Bug",
+      "created": "2026-07-09",
+      "updated": "2026-07-09",
+      "resolutiondate": "",
+      "labels": [
+        "Assegur"
+      ]
+    },
+    {
+      "key": "PS-5866",
+      "summary": "RACC START - Reiniciar todos los usuarios para que todos sean first interaction",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Adrià Sastre",
+      "issuetype": "Task",
+      "created": "2026-07-09",
+      "updated": "2026-07-09",
+      "resolutiondate": "",
+      "labels": [
+        "RACC_START"
+      ]
+    },
+    {
+      "key": "PS-5865",
+      "summary": "Air Europa - Add tests to cover all business logic",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": null,
+      "issuetype": "Task",
+      "created": "2026-07-09",
+      "updated": "2026-07-09",
+      "resolutiondate": "",
+      "labels": [
+        "AirEuropa"
+      ]
+    },
+    {
+      "key": "PS-5864",
+      "summary": "Air Europa - Investigate and gather all business logic from code",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": null,
+      "issuetype": "Discovery Task",
+      "created": "2026-07-09",
+      "updated": "2026-07-09",
+      "resolutiondate": "",
+      "labels": [
+        "AirEuropa"
+      ]
+    },
+    {
+      "key": "PS-5863",
+      "summary": "Air Europa - Add coverage for all business logic in the code",
+      "status": "Open",
+      "status_category": "To Do",
+      "assignee": null,
+      "issuetype": "Epic",
+      "created": "2026-07-09",
+      "updated": "2026-07-09",
+      "resolutiondate": "",
+      "labels": [
+        "AirEuropa"
+      ]
+    },
+    {
+      "key": "PS-5862",
+      "summary": "Crossing_World - Add Custom Condition/Condition variable: is_first_interaction",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Adrià Sastre",
+      "issuetype": "Task",
+      "created": "2026-07-08",
+      "updated": "2026-07-08",
+      "resolutiondate": "",
+      "labels": [
+        "Crossing_World"
+      ]
+    },
+    {
+      "key": "PS-5861",
+      "summary": "Internal - Update Bot Template to latest 0.51.X packages",
+      "status": "Ready for review",
+      "status_category": "In Progress",
+      "assignee": "Evgeni Slavyanov",
+      "issuetype": "Task",
+      "created": "2026-07-08",
+      "updated": "2026-07-09",
+      "resolutiondate": "",
+      "labels": [
+        "Internal"
+      ]
+    },
+    {
+      "key": "PS-5860",
+      "summary": "Michael Kors - WhatsAppDefaultLanguagePlugin overrides language detection - bot responds in Spanish to English-speaking users",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Alexander Skalatskiy",
+      "issuetype": "Bug",
+      "created": "2026-07-08",
+      "updated": "2026-07-08",
+      "resolutiondate": "",
+      "labels": [
+        "Michael-Kors"
+      ]
+    },
+    {
+      "key": "PS-5859",
+      "summary": "Verisure FR - Once the client responds the case goes to handoff but bot messages continue to appear (fallback message triggers)",
+      "status": "In Progress",
+      "status_category": "In Progress",
+      "assignee": "Evgeni Slavyanov",
+      "issuetype": "Task",
+      "created": "2026-07-08",
+      "updated": "2026-07-09",
+      "resolutiondate": "",
+      "labels": [
+        "Verisure-FR"
+      ]
+    },
+    {
+      "key": "PS-5858",
+      "summary": "Soledad - Allow \"Tarjeta\" & \"Bizum\" as new payment options",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Lorena Sánchez-Toril Nicolás",
+      "issuetype": "Task",
+      "created": "2026-07-08",
+      "updated": "2026-07-09",
+      "resolutiondate": "",
+      "labels": [
+        "Soledad"
+      ]
+    },
+    {
+      "key": "PS-5856",
+      "summary": "RACC - Facilitar el json que espera recibir Hubtype ",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Adrià Sastre",
+      "issuetype": "Task",
+      "created": "2026-07-08",
+      "updated": "2026-07-08",
+      "resolutiondate": "",
+      "labels": [
+        "RACC"
+      ]
+    },
     {
       "key": "PS-5855",
       "summary": "Concentra - Activate Campaign Module",
@@ -11,7 +179,9 @@
       "created": "2026-07-08",
       "updated": "2026-07-08",
       "resolutiondate": "",
-      "labels": []
+      "labels": [
+        "Concentra"
+      ]
     },
     {
       "key": "PS-5854",
@@ -23,7 +193,9 @@
       "created": "2026-07-08",
       "updated": "2026-07-08",
       "resolutiondate": "",
-      "labels": []
+      "labels": [
+        "Concentra"
+      ]
     },
     {
       "key": "PS-5853",
@@ -35,7 +207,9 @@
       "created": "2026-07-08",
       "updated": "2026-07-08",
       "resolutiondate": "",
-      "labels": []
+      "labels": [
+        "Concentra"
+      ]
     },
     {
       "key": "PS-5852",
@@ -47,7 +221,9 @@
       "created": "2026-07-08",
       "updated": "2026-07-08",
       "resolutiondate": "",
-      "labels": []
+      "labels": [
+        "Concentra"
+      ]
     },
     {
       "key": "PS-5851",
@@ -59,7 +235,9 @@
       "created": "2026-07-08",
       "updated": "2026-07-08",
       "resolutiondate": "",
-      "labels": []
+      "labels": [
+        "Concentra"
+      ]
     },
     {
       "key": "PS-5850",
@@ -71,7 +249,9 @@
       "created": "2026-07-08",
       "updated": "2026-07-08",
       "resolutiondate": "",
-      "labels": []
+      "labels": [
+        "Concentra"
+      ]
     },
     {
       "key": "PS-5849",
@@ -83,13 +263,15 @@
       "created": "2026-07-08",
       "updated": "2026-07-08",
       "resolutiondate": "",
-      "labels": []
+      "labels": [
+        "Concentra"
+      ]
     },
     {
       "key": "PS-5848",
       "summary": "Michael Kors - Store environment value in UserData to use it in Flow Builder",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "In Progress",
+      "status_category": "In Progress",
       "assignee": "Alexander Skalatskiy",
       "issuetype": "Task",
       "created": "2026-07-08",
@@ -130,8 +312,8 @@
     {
       "key": "PS-5845",
       "summary": "RACC - Deploy bot \"Seguros de viaje Prod\"",
-      "status": "In Progress",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Evgeni Slavyanov",
       "issuetype": "Task",
       "created": "2026-07-07",
@@ -144,12 +326,12 @@
     {
       "key": "PS-5844",
       "summary": "RACC - Seguros de Viaje - 1a Fase",
-      "status": "Open",
+      "status": "To Do",
       "status_category": "To Do",
-      "assignee": null,
+      "assignee": "Marta Marron",
       "issuetype": "Epic",
       "created": "2026-07-07",
-      "updated": "2026-07-07",
+      "updated": "2026-07-08",
       "resolutiondate": "",
       "labels": [
         "RACC"
@@ -172,7 +354,7 @@
     {
       "key": "PS-5842",
       "summary": "Verisure FR - Adjust the style of the variables displayed for the agent",
-      "status": "In Progress",
+      "status": "Ready for review",
       "status_category": "In Progress",
       "assignee": "Evgeni Slavyanov",
       "issuetype": "Task",
@@ -200,8 +382,8 @@
     {
       "key": "PS-5840",
       "summary": "OptimVision - Deploy bot for staging and production (org_id 4a635732-34e5-45d1-8cf6-36a28bd372df)",
-      "status": "Ready for review",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Evgeni Slavyanov",
       "issuetype": "Task",
       "created": "2026-07-06",
@@ -228,12 +410,12 @@
     {
       "key": "PS-5838",
       "summary": "OptimVision - 1st Phase",
-      "status": "Open",
+      "status": "To Do",
       "status_category": "To Do",
       "assignee": "Wei Wu",
       "issuetype": "Epic",
       "created": "2026-07-06",
-      "updated": "2026-07-06",
+      "updated": "2026-07-08",
       "resolutiondate": "",
       "labels": [
         "OptimVision"
@@ -1550,12 +1732,12 @@
     {
       "key": "PS-5738",
       "summary": "Libeen - Eliminar el requisito de trabajar y vivir en España (no preguntarlo y no requisito para cualificar)",
-      "status": "In production",
+      "status": "Done",
       "status_category": "Done",
       "assignee": "Alexander Skalatskiy",
       "issuetype": "Task",
       "created": "2026-06-11",
-      "updated": "2026-07-07",
+      "updated": "2026-07-08",
       "resolutiondate": "",
       "labels": [
         "Libeen"
@@ -3743,12 +3925,12 @@
     {
       "key": "PS-5581",
       "summary": "Libeen - Add qualified value tracking to tinyBird",
-      "status": "Open",
-      "status_category": "To Do",
+      "status": "Closed",
+      "status_category": "Done",
       "assignee": "Alexander Skalatskiy",
       "issuetype": "Task",
       "created": "2026-05-18",
-      "updated": "2026-06-08",
+      "updated": "2026-07-08",
       "resolutiondate": "",
       "labels": [
         "Libeen"
@@ -5499,12 +5681,12 @@
     {
       "key": "PS-5451",
       "summary": "Air Europa - Apply design changes (1)",
-      "status": "In Progress",
+      "status": "Ready to Deliver",
       "status_category": "In Progress",
       "assignee": "Evgeni Slavyanov",
       "issuetype": "Task",
       "created": "2026-04-27",
-      "updated": "2026-07-07",
+      "updated": "2026-07-08",
       "resolutiondate": "",
       "labels": [
         "AirEuropa"
@@ -5759,12 +5941,12 @@
     {
       "key": "PS-5431",
       "summary": "Air Europa - Logic changes",
-      "status": "In Progress",
+      "status": "Ready to Deliver",
       "status_category": "In Progress",
       "assignee": "Alexander Skalatskiy",
       "issuetype": "Task",
       "created": "2026-04-23",
-      "updated": "2026-07-07",
+      "updated": "2026-07-09",
       "resolutiondate": "",
       "labels": [
         "AirEuropa"
@@ -5773,12 +5955,12 @@
     {
       "key": "PS-5430",
       "summary": "Air Europa - Apply design changes (2)",
-      "status": "In Review",
+      "status": "Ready to Deliver",
       "status_category": "In Progress",
       "assignee": "Evgeni Slavyanov",
       "issuetype": "Task",
       "created": "2026-04-23",
-      "updated": "2026-06-29",
+      "updated": "2026-07-08",
       "resolutiondate": "",
       "labels": [
         "AirEuropa"
@@ -5857,12 +6039,12 @@
     {
       "key": "PS-5424",
       "summary": "RACC - Integrate AI Agent from Aialma",
-      "status": "Open",
+      "status": "To Do",
       "status_category": "To Do",
-      "assignee": null,
+      "assignee": "Adrià Sastre",
       "issuetype": "Epic",
       "created": "2026-04-23",
-      "updated": "2026-04-27",
+      "updated": "2026-07-08",
       "resolutiondate": "",
       "labels": [
         "RACC"
@@ -21661,12 +21843,12 @@
     {
       "key": "PS-4153",
       "summary": "Bots - Script to manage bots secrets",
-      "status": "Ready for review",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Francisca Martelli",
       "issuetype": "Task",
       "created": "2025-06-27",
-      "updated": "2026-07-02",
+      "updated": "2026-07-08",
       "resolutiondate": "",
       "labels": [
         "Hubtype"
