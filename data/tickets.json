@@ -1,6 +1,424 @@
 {
-  "last_updated": "2026-07-09 10:22 UTC",
+  "last_updated": "2026-07-10 10:21 UTC",
   "tickets": [
+    {
+      "key": "PS-5898",
+      "summary": "All Clients - Review with product that Success can do as many tasks possible on Grapelli",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Aitor Casas",
+      "issuetype": "Task",
+      "created": "2026-07-10",
+      "updated": "2026-07-10",
+      "resolutiondate": "",
+      "labels": [
+        "all_clients"
+      ]
+    },
+    {
+      "key": "PS-5897",
+      "summary": "SEM - Ajustes solicitados por el cliente dado el resultado de las pruebas",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "irene callejas",
+      "issuetype": "Task",
+      "created": "2026-07-09",
+      "updated": "2026-07-09",
+      "resolutiondate": "",
+      "labels": [
+        "SEM"
+      ]
+    },
+    {
+      "key": "PS-5896",
+      "summary": "Michael Kors - Facilitar al equipo de la web el snippet correcto que tienen que poner en el entorno UAT",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Adrià Sastre",
+      "issuetype": "Task",
+      "created": "2026-07-09",
+      "updated": "2026-07-09",
+      "resolutiondate": "",
+      "labels": [
+        "Michael-Kors"
+      ]
+    },
+    {
+      "key": "PS-5895",
+      "summary": "Ralph Lauren - Andrea to schedule the tester survey feedback push.",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Andrea Talal Haidar",
+      "issuetype": "Task",
+      "created": "2026-07-09",
+      "updated": "2026-07-09",
+      "resolutiondate": "",
+      "labels": [
+        "Ralph_Lauren"
+      ]
+    },
+    {
+      "key": "PS-5894",
+      "summary": "Ralph Lauren - Remove unused flows from Ralph Lauren",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Andrea Talal Haidar",
+      "issuetype": "Task",
+      "created": "2026-07-09",
+      "updated": "2026-07-09",
+      "resolutiondate": "",
+      "labels": [
+        "Ralph_Lauren"
+      ]
+    },
+    {
+      "key": "PS-5893",
+      "summary": "Fenie Energía - Atencion - Migrate phone number from provider_id to username",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Alexander Skalatskiy",
+      "issuetype": "Task",
+      "created": "2026-07-09",
+      "updated": "2026-07-10",
+      "resolutiondate": "",
+      "labels": [
+        "FenieEnergia"
+      ]
+    },
+    {
+      "key": "PS-5892",
+      "summary": "Fenie Energía - Ventas - Migrate phone number from provider_id to username",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Alexander Skalatskiy",
+      "issuetype": "Task",
+      "created": "2026-07-09",
+      "updated": "2026-07-10",
+      "resolutiondate": "",
+      "labels": [
+        "FenieEnergia"
+      ]
+    },
+    {
+      "key": "PS-5891",
+      "summary": "RACC - redirect-to-support - Migrate phone number from provider_id to username",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Alexander Skalatskiy",
+      "issuetype": "Task",
+      "created": "2026-07-09",
+      "updated": "2026-07-10",
+      "resolutiondate": "",
+      "labels": [
+        "RACC"
+      ]
+    },
+    {
+      "key": "PS-5890",
+      "summary": "RACC - Migrate phone number from provider_id to username",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Alexander Skalatskiy",
+      "issuetype": "Task",
+      "created": "2026-07-09",
+      "updated": "2026-07-10",
+      "resolutiondate": "",
+      "labels": [
+        "RACC"
+      ]
+    },
+    {
+      "key": "PS-5889",
+      "summary": "Guess - Migrate phone number from provider_id to username",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Evgeni Slavyanov",
+      "issuetype": "Task",
+      "created": "2026-07-09",
+      "updated": "2026-07-10",
+      "resolutiondate": "",
+      "labels": [
+        "Guess"
+      ]
+    },
+    {
+      "key": "PS-5888",
+      "summary": "Consum - Migrate phone number from provider_id to username",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Pep Alonso",
+      "issuetype": "Task",
+      "created": "2026-07-09",
+      "updated": "2026-07-10",
+      "resolutiondate": "",
+      "labels": [
+        "Consum"
+      ]
+    },
+    {
+      "key": "PS-5887",
+      "summary": "Allianz ES - Migrate phone number from provider_id to username",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Pep Alonso",
+      "issuetype": "Task",
+      "created": "2026-07-09",
+      "updated": "2026-07-10",
+      "resolutiondate": "",
+      "labels": [
+        "Allianz-ES"
+      ]
+    },
+    {
+      "key": "PS-5886",
+      "summary": "Allianz OSN - Migrate phone number from provider_id to username",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Pep Alonso",
+      "issuetype": "Task",
+      "created": "2026-07-09",
+      "updated": "2026-07-10",
+      "resolutiondate": "",
+      "labels": [
+        "Allianz-OSN"
+      ]
+    },
+    {
+      "key": "PS-5885",
+      "summary": "Wizz Air - Offer direct handoff to a specific partner and prioritize its case",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Adrià Sastre",
+      "issuetype": "Task",
+      "created": "2026-07-09",
+      "updated": "2026-07-09",
+      "resolutiondate": "",
+      "labels": [
+        "WizzAir"
+      ]
+    },
+    {
+      "key": "PS-5884",
+      "summary": "Alsa - Convertir respuesta única del AI Agent en recuperación de cuenta Alsa Plus en flujo conversacional",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "irene callejas",
+      "issuetype": "Task",
+      "created": "2026-07-09",
+      "updated": "2026-07-09",
+      "resolutiondate": "",
+      "labels": [
+        "Alsa"
+      ]
+    },
+    {
+      "key": "PS-5883",
+      "summary": "Verisure Italy - Migrate phone number from provider_id to username",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Evgeni Slavyanov",
+      "issuetype": "Task",
+      "created": "2026-07-09",
+      "updated": "2026-07-10",
+      "resolutiondate": "",
+      "labels": [
+        "Verisure_IT"
+      ]
+    },
+    {
+      "key": "PS-5882",
+      "summary": "Tendam - Migrate phone number from provider_id to username",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Evgeni Slavyanov",
+      "issuetype": "Task",
+      "created": "2026-07-09",
+      "updated": "2026-07-10",
+      "resolutiondate": "",
+      "labels": [
+        "tendam"
+      ]
+    },
+    {
+      "key": "PS-5881",
+      "summary": "Air Europa - Migrate phone number from provider_id to username",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Alexander Skalatskiy",
+      "issuetype": "Task",
+      "created": "2026-07-09",
+      "updated": "2026-07-10",
+      "resolutiondate": "",
+      "labels": [
+        "AirEuropa"
+      ]
+    },
+    {
+      "key": "PS-5880",
+      "summary": "SegurCaixa - Migrate phone number from provider_id to username",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Pep Alonso",
+      "issuetype": "Task",
+      "created": "2026-07-09",
+      "updated": "2026-07-10",
+      "resolutiondate": "",
+      "labels": [
+        "SegurCaixa"
+      ]
+    },
+    {
+      "key": "PS-5879",
+      "summary": "Sanitas Mayores - Migrate phone number from provider_id to username",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Alexander Skalatskiy",
+      "issuetype": "Task",
+      "created": "2026-07-09",
+      "updated": "2026-07-10",
+      "resolutiondate": "",
+      "labels": [
+        "sanitasmayores"
+      ]
+    },
+    {
+      "key": "PS-5878",
+      "summary": "Rag&Bone - Migrate phone number from provider_id to username",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Evgeni Slavyanov",
+      "issuetype": "Task",
+      "created": "2026-07-09",
+      "updated": "2026-07-10",
+      "resolutiondate": "",
+      "labels": [
+        "Rag&Bone"
+      ]
+    },
+    {
+      "key": "PS-5877",
+      "summary": "Ralph Lauren - Migrate phone number from provider_id to username",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Pep Alonso",
+      "issuetype": "Task",
+      "created": "2026-07-09",
+      "updated": "2026-07-10",
+      "resolutiondate": "",
+      "labels": [
+        "Ralph_Lauren"
+      ]
+    },
+    {
+      "key": "PS-5876",
+      "summary": "Soledad - Migrate phone number from provider_id to username",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Pep Alonso",
+      "issuetype": "Task",
+      "created": "2026-07-09",
+      "updated": "2026-07-10",
+      "resolutiondate": "",
+      "labels": [
+        "Soledad"
+      ]
+    },
+    {
+      "key": "PS-5875",
+      "summary": "Retorna - Migrate phone number from provider_id to username",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Alexander Skalatskiy",
+      "issuetype": "Task",
+      "created": "2026-07-09",
+      "updated": "2026-07-10",
+      "resolutiondate": "",
+      "labels": [
+        "Retorna"
+      ]
+    },
+    {
+      "key": "PS-5874",
+      "summary": "Libeen - Migrate phone number from provider_id to username",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Alexander Skalatskiy",
+      "issuetype": "Task",
+      "created": "2026-07-09",
+      "updated": "2026-07-10",
+      "resolutiondate": "",
+      "labels": [
+        "Libeen"
+      ]
+    },
+    {
+      "key": "PS-5873",
+      "summary": "Assegur - Migrate phone number from provider_id to username",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Evgeni Slavyanov",
+      "issuetype": "Task",
+      "created": "2026-07-09",
+      "updated": "2026-07-10",
+      "resolutiondate": "",
+      "labels": [
+        "Assegur"
+      ]
+    },
+    {
+      "key": "PS-5872",
+      "summary": "Occident - Migrate phone number from provider_id to username",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Pep Alonso",
+      "issuetype": "Task",
+      "created": "2026-07-09",
+      "updated": "2026-07-10",
+      "resolutiondate": "",
+      "labels": [
+        "occident"
+      ]
+    },
+    {
+      "key": "PS-5871",
+      "summary": "Migrate WhatsApp phone number from provider_id to username",
+      "status": "Open",
+      "status_category": "To Do",
+      "assignee": null,
+      "issuetype": "Epic",
+      "created": "2026-07-09",
+      "updated": "2026-07-09",
+      "resolutiondate": "",
+      "labels": []
+    },
+    {
+      "key": "PS-5870",
+      "summary": "Alsa - Adjustment in response about bono regional",
+      "status": "Ready to Deliver",
+      "status_category": "In Progress",
+      "assignee": "irene callejas",
+      "issuetype": "Task",
+      "created": "2026-07-09",
+      "updated": "2026-07-09",
+      "resolutiondate": "",
+      "labels": [
+        "Alsa"
+      ]
+    },
+    {
+      "key": "PS-5869",
+      "summary": "All Clients - Clientes con AI Language Detector y canal WA- Revisar si siguen necesitando Plug in de Country Code",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Adrià Sastre",
+      "issuetype": "Task",
+      "created": "2026-07-09",
+      "updated": "2026-07-09",
+      "resolutiondate": "",
+      "labels": [
+        "all_clients"
+      ]
+    },
     {
       "key": "PS-5868",
       "summary": "Assegur - Review if we are receiving new data about \"arag\" and \"europ assistance\"",
@@ -18,8 +436,8 @@
     {
       "key": "PS-5867",
       "summary": "Assegur - Fix wrong language assigned for Andorra",
-      "status": "Ready for review",
-      "status_category": "In Progress",
+      "status": "In production",
+      "status_category": "Done",
       "assignee": "Evgeni Slavyanov",
       "issuetype": "Bug",
       "created": "2026-07-09",
@@ -116,12 +534,12 @@
     {
       "key": "PS-5860",
       "summary": "Michael Kors - WhatsAppDefaultLanguagePlugin overrides language detection - bot responds in Spanish to English-speaking users",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Ready for review",
+      "status_category": "In Progress",
       "assignee": "Alexander Skalatskiy",
       "issuetype": "Bug",
       "created": "2026-07-08",
-      "updated": "2026-07-08",
+      "updated": "2026-07-09",
       "resolutiondate": "",
       "labels": [
         "Michael-Kors"
@@ -130,7 +548,7 @@
     {
       "key": "PS-5859",
       "summary": "Verisure FR - Once the client responds the case goes to handoff but bot messages continue to appear (fallback message triggers)",
-      "status": "In Progress",
+      "status": "Ready to Deliver",
       "status_category": "In Progress",
       "assignee": "Evgeni Slavyanov",
       "issuetype": "Task",
@@ -270,12 +688,12 @@
     {
       "key": "PS-5848",
       "summary": "Michael Kors - Store environment value in UserData to use it in Flow Builder",
-      "status": "In Progress",
+      "status": "Ready for review",
       "status_category": "In Progress",
       "assignee": "Alexander Skalatskiy",
       "issuetype": "Task",
       "created": "2026-07-08",
-      "updated": "2026-07-08",
+      "updated": "2026-07-09",
       "resolutiondate": "",
       "labels": [
         "Michael-Kors"
@@ -424,12 +842,12 @@
     {
       "key": "PS-5836",
       "summary": "Allianz Spain - Quote & Buy - Prima orientativa",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Ready for review",
+      "status_category": "In Progress",
       "assignee": "Adrià Sastre",
       "issuetype": "Discovery Task",
       "created": "2026-07-05",
-      "updated": "2026-07-05",
+      "updated": "2026-07-10",
       "resolutiondate": "",
       "labels": [
         "Allianz"
@@ -443,7 +861,7 @@
       "assignee": "Marta Marron",
       "issuetype": "Epic",
       "created": "2026-07-05",
-      "updated": "2026-07-05",
+      "updated": "2026-07-10",
       "resolutiondate": "",
       "labels": [
         "Allianz"
@@ -578,12 +996,12 @@
     {
       "key": "PS-5824",
       "summary": "Jetsmart: update design of new optionals",
-      "status": "Ready for review",
+      "status": "In Review",
       "status_category": "In Progress",
       "assignee": "Vicky Correbo",
       "issuetype": "Task",
       "created": "2026-06-30",
-      "updated": "2026-07-06",
+      "updated": "2026-07-09",
       "resolutiondate": "",
       "labels": [
         "JetSmart"
@@ -620,12 +1038,12 @@
     {
       "key": "PS-5821",
       "summary": "Verisure Spain - Create demo in staging so that Agents can display a calendar in shadowing",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "In Progress",
+      "status_category": "In Progress",
       "assignee": "Alexander Skalatskiy",
       "issuetype": "Task",
       "created": "2026-06-29",
-      "updated": "2026-07-02",
+      "updated": "2026-07-09",
       "resolutiondate": "",
       "labels": [
         "Verisure_ES"
@@ -690,12 +1108,12 @@
     {
       "key": "PS-5816",
       "summary": "Michael Kors - Warranty Flow - Review if it can be improved",
-      "status": "Ready for review",
+      "status": "In Progress",
       "status_category": "In Progress",
       "assignee": "Vicky Correbo",
       "issuetype": "Task",
       "created": "2026-06-29",
-      "updated": "2026-07-07",
+      "updated": "2026-07-10",
       "resolutiondate": "",
       "labels": [
         "Michael-Kors"
@@ -933,7 +1351,7 @@
       "assignee": null,
       "issuetype": "Task",
       "created": "2026-06-24",
-      "updated": "2026-07-06",
+      "updated": "2026-07-09",
       "resolutiondate": "",
       "labels": [
         "Guess"
@@ -7587,7 +8005,7 @@
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-04-08",
-      "updated": "2026-06-15",
+      "updated": "2026-07-09",
       "resolutiondate": "",
       "labels": [
         "Allianz-ES"
