@@ -1,6 +1,40 @@
 {
-  "last_updated": "2026-07-09 10:31 UTC",
+  "last_updated": "2026-07-10 10:29 UTC",
   "opportunities": [
+    {
+      "id": "006Sa00000jv7KoIAI",
+      "name": "2027-R-Allianz Partners-Allianz ES-CA(WA)",
+      "type": "Renewal",
+      "stage": "Proposal",
+      "is_closed": false,
+      "is_won": false,
+      "probability": 50.0,
+      "amount": 25000.08,
+      "arr": 25000.08,
+      "owner": "Marta Marron",
+      "cs_lead": "Marta Marron",
+      "account": "Allianz Partners",
+      "created": "2026-07-10",
+      "close_date": "2026-06-29",
+      "start_date": "2027-08-01"
+    },
+    {
+      "id": "006Sa00000ju2wTIAQ",
+      "name": "2026-U-RACC-CA(WhatsApp) - Bot Assegurances Viatge",
+      "type": "Upsell",
+      "stage": "Opportunity identified",
+      "is_closed": false,
+      "is_won": false,
+      "probability": 10.0,
+      "amount": 7611.78,
+      "arr": 9583.56,
+      "owner": "Marta Marron",
+      "cs_lead": "Marta Marron",
+      "account": "RACC",
+      "created": "2026-07-09",
+      "close_date": "2026-06-16",
+      "start_date": "2026-07-01"
+    },
     {
       "id": "006Sa00000jhSSEIA2",
       "name": "2026-U-Alsa-Salesforce integration",
@@ -33,7 +67,7 @@
       "account": "Optim Vision",
       "created": "2026-07-07",
       "close_date": "2027-06-01",
-      "start_date": "2026-07-01"
+      "start_date": "2027-07-01"
     },
     {
       "id": "006Sa00000jaHTSIA2",
@@ -3966,17 +4000,17 @@
       "id": "006Sa00000Grm3hIAB",
       "name": "2026-R-Wizz Air-CA-RFP",
       "type": "Renewal",
-      "stage": "Opportunity identified",
-      "is_closed": false,
-      "is_won": false,
-      "probability": 10.0,
+      "stage": "Closed Won",
+      "is_closed": true,
+      "is_won": true,
+      "probability": 100.0,
       "amount": 443145.24,
       "arr": 443145.24,
       "owner": "Marta Marron",
       "cs_lead": "Marta Marron",
       "account": "Wizz Air",
       "created": "2025-02-04",
-      "close_date": "2026-06-04",
+      "close_date": "2026-07-09",
       "start_date": "2026-07-08"
     },
     {
