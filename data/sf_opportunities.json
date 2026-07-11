@@ -1,6 +1,40 @@
 {
-  "last_updated": "2026-07-10 10:29 UTC",
+  "last_updated": "2026-07-11 08:58 UTC",
   "opportunities": [
+    {
+      "id": "006Sa00000jwxnPIAQ",
+      "name": "2026-C-GUESS-Webchat Reset",
+      "type": "Consultancy",
+      "stage": "Opportunity identified",
+      "is_closed": false,
+      "is_won": false,
+      "probability": 10.0,
+      "amount": 300.0,
+      "arr": 0.0,
+      "owner": "Francisca Martelli",
+      "cs_lead": "Francisca Martelli",
+      "account": "GUESS",
+      "created": "2026-07-10",
+      "close_date": "2026-07-10",
+      "start_date": "2026-07-10"
+    },
+    {
+      "id": "006Sa00000jwZOVIA2",
+      "name": "2026-R-Wizz Air-CA-RFP",
+      "type": "Renewal",
+      "stage": "Opportunity identified",
+      "is_closed": false,
+      "is_won": false,
+      "probability": 10.0,
+      "amount": 443145.24,
+      "arr": 0.0,
+      "owner": "Marta Marron",
+      "cs_lead": "Julieta Mezza",
+      "account": "Wizz Air",
+      "created": "2026-07-10",
+      "close_date": "2026-07-09",
+      "start_date": "2027-07-08"
+    },
     {
       "id": "006Sa00000jv7KoIAI",
       "name": "2027-R-Allianz Partners-Allianz ES-CA(WA)",
@@ -237,7 +271,7 @@
       "account": "Crossing World Group",
       "created": "2026-06-18",
       "close_date": "2027-05-16",
-      "start_date": "2026-06-15"
+      "start_date": "2027-06-15"
     },
     {
       "id": "006Sa00000iFVTZIA4",
