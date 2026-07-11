@@ -1,6 +1,90 @@
 {
-  "last_updated": "2026-07-10 10:21 UTC",
+  "last_updated": "2026-07-11 08:44 UTC",
   "tickets": [
+    {
+      "key": "PS-5904",
+      "summary": "Michael Kors - Adjust prompt so Bot Answers on specific questions",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "irene callejas",
+      "issuetype": "Task",
+      "created": "2026-07-10",
+      "updated": "2026-07-10",
+      "resolutiondate": "",
+      "labels": [
+        "Michael-Kors"
+      ]
+    },
+    {
+      "key": "PS-5903",
+      "summary": "Segurcaixa - Revisar performance del bot",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Adrià Sastre",
+      "issuetype": "Task",
+      "created": "2026-07-10",
+      "updated": "2026-07-10",
+      "resolutiondate": "",
+      "labels": [
+        "SegurCaixa"
+      ]
+    },
+    {
+      "key": "PS-5902",
+      "summary": "Retorna - Apply Code Fix for SECONDARY_PHONE_MESSAGE component",
+      "status": "Ready for review",
+      "status_category": "In Progress",
+      "assignee": "Pep Alonso",
+      "issuetype": "Task",
+      "created": "2026-07-10",
+      "updated": "2026-07-10",
+      "resolutiondate": "",
+      "labels": [
+        "Retorna"
+      ]
+    },
+    {
+      "key": "PS-5901",
+      "summary": "Wizz Air - Update bot to automatic language detection",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Adrià Sastre",
+      "issuetype": "Task",
+      "created": "2026-07-10",
+      "updated": "2026-07-10",
+      "resolutiondate": "",
+      "labels": [
+        "WizzAir"
+      ]
+    },
+    {
+      "key": "PS-5900",
+      "summary": "Wizz Air - Review Refund Status complex use case in Staging",
+      "status": "Closed",
+      "status_category": "Done",
+      "assignee": "Pep Alonso",
+      "issuetype": "Task",
+      "created": "2026-07-10",
+      "updated": "2026-07-10",
+      "resolutiondate": "",
+      "labels": [
+        "WizzAir"
+      ]
+    },
+    {
+      "key": "PS-5899",
+      "summary": "Air Europa - Review AVA communication (Marco's email)",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Alexander Skalatskiy",
+      "issuetype": "Task",
+      "created": "2026-07-10",
+      "updated": "2026-07-10",
+      "resolutiondate": "",
+      "labels": [
+        "AirEuropa"
+      ]
+    },
     {
       "key": "PS-5898",
       "summary": "All Clients - Review with product that Success can do as many tasks possible on Grapelli",
@@ -200,12 +284,12 @@
     {
       "key": "PS-5884",
       "summary": "Alsa - Convertir respuesta única del AI Agent en recuperación de cuenta Alsa Plus en flujo conversacional",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "irene callejas",
       "issuetype": "Task",
       "created": "2026-07-09",
-      "updated": "2026-07-09",
+      "updated": "2026-07-10",
       "resolutiondate": "",
       "labels": [
         "Alsa"
@@ -466,10 +550,10 @@
       "summary": "Air Europa - Add tests to cover all business logic",
       "status": "To Do",
       "status_category": "To Do",
-      "assignee": null,
+      "assignee": "Alexander Skalatskiy",
       "issuetype": "Task",
       "created": "2026-07-09",
-      "updated": "2026-07-09",
+      "updated": "2026-07-10",
       "resolutiondate": "",
       "labels": [
         "AirEuropa"
@@ -480,10 +564,10 @@
       "summary": "Air Europa - Investigate and gather all business logic from code",
       "status": "To Do",
       "status_category": "To Do",
-      "assignee": null,
+      "assignee": "Alexander Skalatskiy",
       "issuetype": "Discovery Task",
       "created": "2026-07-09",
-      "updated": "2026-07-09",
+      "updated": "2026-07-10",
       "resolutiondate": "",
       "labels": [
         "AirEuropa"
@@ -576,12 +660,12 @@
     {
       "key": "PS-5856",
       "summary": "RACC - Facilitar el json que espera recibir Hubtype ",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Adrià Sastre",
       "issuetype": "Task",
       "created": "2026-07-08",
-      "updated": "2026-07-08",
+      "updated": "2026-07-10",
       "resolutiondate": "",
       "labels": [
         "RACC"
@@ -1164,12 +1248,12 @@
     {
       "key": "PS-5812",
       "summary": "Air Europa - Interprete \"HubtypeAction\" and trigger flow builder with AVA response",
-      "status": "APPROVED FOR PRODUCTION",
-      "status_category": "Done",
+      "status": "Ready to Deliver",
+      "status_category": "In Progress",
       "assignee": "Alexander Skalatskiy",
       "issuetype": "Task",
       "created": "2026-06-26",
-      "updated": "2026-07-07",
+      "updated": "2026-07-10",
       "resolutiondate": "",
       "labels": [
         "AirEuropa"
@@ -2758,7 +2842,7 @@
       "assignee": "Alexander Skalatskiy",
       "issuetype": "Task",
       "created": "2026-06-03",
-      "updated": "2026-07-02",
+      "updated": "2026-07-10",
       "resolutiondate": "",
       "labels": [
         "Libeen"
@@ -6364,7 +6448,7 @@
       "assignee": "Alexander Skalatskiy",
       "issuetype": "Task",
       "created": "2026-04-23",
-      "updated": "2026-07-09",
+      "updated": "2026-07-10",
       "resolutiondate": "",
       "labels": [
         "AirEuropa"
