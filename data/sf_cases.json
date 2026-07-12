@@ -1,6 +1,28 @@
 {
-  "last_updated": "2026-07-11 08:58 UTC",
+  "last_updated": "2026-07-12 09:15 UTC",
   "cases": [
+    {
+      "id": "500Sa00000wVy89IAC",
+      "case_number": "00025123",
+      "subject": "Integration Token Expiring TODAY or TOMORROW - Acceptance",
+      "status": "New",
+      "priority": "Low",
+      "is_closed": false,
+      "is_escalated": false,
+      "owner": "Aitor Casas",
+      "account": "",
+      "origin": "Inbound",
+      "type": "",
+      "feeling": "",
+      "issue_type": "",
+      "channel": "Email",
+      "is_critical": "L4",
+      "escalated_team": "",
+      "resolution_time": "",
+      "created": "2026-07-12",
+      "closed": "",
+      "last_modified": "2026-07-12"
+    },
     {
       "id": "500Sa00000wRUBvIAO",
       "case_number": "00025122",
