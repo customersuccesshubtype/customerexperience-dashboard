@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-12 09:00 UTC",
+  "last_updated": "2026-07-13 10:22 UTC",
   "tickets": [
     {
       "key": "PS-5904",
@@ -102,12 +102,12 @@
     {
       "key": "PS-5897",
       "summary": "SEM - Ajustes solicitados por el cliente dado el resultado de las pruebas",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "In Progress",
+      "status_category": "In Progress",
       "assignee": "irene callejas",
       "issuetype": "Task",
       "created": "2026-07-09",
-      "updated": "2026-07-09",
+      "updated": "2026-07-13",
       "resolutiondate": "",
       "labels": [
         "SEM"
@@ -214,12 +214,12 @@
     {
       "key": "PS-5889",
       "summary": "Guess - Migrate phone number from provider_id to username",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Ready for review",
+      "status_category": "In Progress",
       "assignee": "Evgeni Slavyanov",
       "issuetype": "Task",
       "created": "2026-07-09",
-      "updated": "2026-07-10",
+      "updated": "2026-07-13",
       "resolutiondate": "",
       "labels": [
         "Guess"
@@ -298,12 +298,12 @@
     {
       "key": "PS-5883",
       "summary": "Verisure Italy - Migrate phone number from provider_id to username",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "In Progress",
+      "status_category": "In Progress",
       "assignee": "Evgeni Slavyanov",
       "issuetype": "Task",
       "created": "2026-07-09",
-      "updated": "2026-07-10",
+      "updated": "2026-07-13",
       "resolutiondate": "",
       "labels": [
         "Verisure_IT"
@@ -478,12 +478,12 @@
     {
       "key": "PS-5870",
       "summary": "Alsa - Adjustment in response about bono regional",
-      "status": "Ready to Deliver",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "irene callejas",
       "issuetype": "Task",
       "created": "2026-07-09",
-      "updated": "2026-07-09",
+      "updated": "2026-07-13",
       "resolutiondate": "",
       "labels": [
         "Alsa"
