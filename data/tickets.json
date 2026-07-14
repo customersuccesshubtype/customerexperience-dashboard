@@ -1,6 +1,18 @@
 {
-  "last_updated": "2026-07-13 10:22 UTC",
+  "last_updated": "2026-07-14 09:02 UTC",
   "tickets": [
+    {
+      "key": "PS-5905",
+      "summary": "Ralph Lauren - session.user.contact_info.-First Name appears like this in conversations where the field has not been captured",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Pep Alonso",
+      "issuetype": "Bug",
+      "created": "2026-07-14",
+      "updated": "2026-07-14",
+      "resolutiondate": "",
+      "labels": []
+    },
     {
       "key": "PS-5904",
       "summary": "Michael Kors - Adjust prompt so Bot Answers on specific questions",
@@ -32,12 +44,12 @@
     {
       "key": "PS-5902",
       "summary": "Retorna - Apply Code Fix for SECONDARY_PHONE_MESSAGE component",
-      "status": "Ready for review",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Pep Alonso",
       "issuetype": "Task",
       "created": "2026-07-10",
-      "updated": "2026-07-10",
+      "updated": "2026-07-13",
       "resolutiondate": "",
       "labels": [
         "Retorna"
@@ -298,12 +310,12 @@
     {
       "key": "PS-5883",
       "summary": "Verisure Italy - Migrate phone number from provider_id to username",
-      "status": "In Progress",
+      "status": "Ready for review",
       "status_category": "In Progress",
       "assignee": "Evgeni Slavyanov",
       "issuetype": "Task",
       "created": "2026-07-09",
-      "updated": "2026-07-13",
+      "updated": "2026-07-14",
       "resolutiondate": "",
       "labels": [
         "Verisure_IT"
@@ -312,12 +324,12 @@
     {
       "key": "PS-5882",
       "summary": "Tendam - Migrate phone number from provider_id to username",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Ready for review",
+      "status_category": "In Progress",
       "assignee": "Evgeni Slavyanov",
       "issuetype": "Task",
       "created": "2026-07-09",
-      "updated": "2026-07-10",
+      "updated": "2026-07-14",
       "resolutiondate": "",
       "labels": [
         "tendam"
@@ -326,12 +338,12 @@
     {
       "key": "PS-5881",
       "summary": "Air Europa - Migrate phone number from provider_id to username",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "In Progress",
+      "status_category": "In Progress",
       "assignee": "Alexander Skalatskiy",
       "issuetype": "Task",
       "created": "2026-07-09",
-      "updated": "2026-07-10",
+      "updated": "2026-07-13",
       "resolutiondate": "",
       "labels": [
         "AirEuropa"
@@ -368,12 +380,12 @@
     {
       "key": "PS-5878",
       "summary": "Rag&Bone - Migrate phone number from provider_id to username",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Ready for review",
+      "status_category": "In Progress",
       "assignee": "Evgeni Slavyanov",
       "issuetype": "Task",
       "created": "2026-07-09",
-      "updated": "2026-07-10",
+      "updated": "2026-07-14",
       "resolutiondate": "",
       "labels": [
         "Rag&Bone"
@@ -424,12 +436,12 @@
     {
       "key": "PS-5874",
       "summary": "Libeen - Migrate phone number from provider_id to username",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "In Progress",
+      "status_category": "In Progress",
       "assignee": "Alexander Skalatskiy",
       "issuetype": "Task",
       "created": "2026-07-09",
-      "updated": "2026-07-10",
+      "updated": "2026-07-13",
       "resolutiondate": "",
       "labels": [
         "Libeen"
@@ -438,12 +450,12 @@
     {
       "key": "PS-5873",
       "summary": "Assegur - Migrate phone number from provider_id to username",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Ready for review",
+      "status_category": "In Progress",
       "assignee": "Evgeni Slavyanov",
       "issuetype": "Task",
       "created": "2026-07-09",
-      "updated": "2026-07-10",
+      "updated": "2026-07-14",
       "resolutiondate": "",
       "labels": [
         "Assegur"
@@ -604,12 +616,12 @@
     {
       "key": "PS-5861",
       "summary": "Internal - Update Bot Template to latest 0.51.X packages",
-      "status": "Ready for review",
+      "status": "Ready to Deliver",
       "status_category": "In Progress",
       "assignee": "Evgeni Slavyanov",
       "issuetype": "Task",
       "created": "2026-07-08",
-      "updated": "2026-07-09",
+      "updated": "2026-07-14",
       "resolutiondate": "",
       "labels": [
         "Internal"
@@ -632,12 +644,12 @@
     {
       "key": "PS-5859",
       "summary": "Verisure FR - Once the client responds the case goes to handoff but bot messages continue to appear (fallback message triggers)",
-      "status": "Ready to Deliver",
-      "status_category": "In Progress",
+      "status": "In production",
+      "status_category": "Done",
       "assignee": "Evgeni Slavyanov",
       "issuetype": "Task",
       "created": "2026-07-08",
-      "updated": "2026-07-09",
+      "updated": "2026-07-13",
       "resolutiondate": "",
       "labels": [
         "Verisure-FR"
@@ -679,7 +691,7 @@
       "assignee": "Aitor Casas",
       "issuetype": "Task",
       "created": "2026-07-08",
-      "updated": "2026-07-08",
+      "updated": "2026-07-13",
       "resolutiondate": "",
       "labels": [
         "Concentra"
@@ -688,12 +700,12 @@
     {
       "key": "PS-5854",
       "summary": "Concentra - Configure HelpDesk (agents, projects and queues)",
-      "status": "Open",
+      "status": "To Do",
       "status_category": "To Do",
-      "assignee": null,
+      "assignee": "Francisca Martelli",
       "issuetype": "Task",
       "created": "2026-07-08",
-      "updated": "2026-07-08",
+      "updated": "2026-07-13",
       "resolutiondate": "",
       "labels": [
         "Concentra"
@@ -716,12 +728,12 @@
     {
       "key": "PS-5852",
       "summary": "Concentra - Integrate WhatsApp number ",
-      "status": "Open",
+      "status": "To Do",
       "status_category": "To Do",
-      "assignee": null,
+      "assignee": "Aitor Casas",
       "issuetype": "Task",
       "created": "2026-07-08",
-      "updated": "2026-07-08",
+      "updated": "2026-07-13",
       "resolutiondate": "",
       "labels": [
         "Concentra"
@@ -730,12 +742,12 @@
     {
       "key": "PS-5851",
       "summary": "Concentra - Create staging and production bots",
-      "status": "Open",
-      "status_category": "To Do",
-      "assignee": null,
+      "status": "Done",
+      "status_category": "Done",
+      "assignee": "Evgeni Slavyanov",
       "issuetype": "Task",
       "created": "2026-07-08",
-      "updated": "2026-07-08",
+      "updated": "2026-07-14",
       "resolutiondate": "",
       "labels": [
         "Concentra"
@@ -744,12 +756,12 @@
     {
       "key": "PS-5850",
       "summary": "Concentra - Create Organization_id",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Aitor Casas",
       "issuetype": "Task",
       "created": "2026-07-08",
-      "updated": "2026-07-08",
+      "updated": "2026-07-13",
       "resolutiondate": "",
       "labels": [
         "Concentra"
@@ -856,12 +868,12 @@
     {
       "key": "PS-5842",
       "summary": "Verisure FR - Adjust the style of the variables displayed for the agent",
-      "status": "Ready for review",
-      "status_category": "In Progress",
+      "status": "In production",
+      "status_category": "Done",
       "assignee": "Evgeni Slavyanov",
       "issuetype": "Task",
       "created": "2026-07-07",
-      "updated": "2026-07-08",
+      "updated": "2026-07-13",
       "resolutiondate": "",
       "labels": [
         "Verisure-FR"
@@ -996,12 +1008,12 @@
     {
       "key": "PS-5830",
       "summary": "Soledad - add keyword to eliminate marginvalue",
-      "status": "Ready for review",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-07-02",
-      "updated": "2026-07-03",
+      "updated": "2026-07-13",
       "resolutiondate": "",
       "labels": [
         "Soledad"
@@ -1122,12 +1134,12 @@
     {
       "key": "PS-5821",
       "summary": "Verisure Spain - Create demo in staging so that Agents can display a calendar in shadowing",
-      "status": "In Progress",
+      "status": "Ready for review",
       "status_category": "In Progress",
       "assignee": "Alexander Skalatskiy",
       "issuetype": "Task",
       "created": "2026-06-29",
-      "updated": "2026-07-09",
+      "updated": "2026-07-14",
       "resolutiondate": "",
       "labels": [
         "Verisure_ES"
@@ -1192,12 +1204,12 @@
     {
       "key": "PS-5816",
       "summary": "Michael Kors - Warranty Flow - Review if it can be improved",
-      "status": "In Progress",
+      "status": "Ready for review",
       "status_category": "In Progress",
       "assignee": "Vicky Correbo",
       "issuetype": "Task",
       "created": "2026-06-29",
-      "updated": "2026-07-10",
+      "updated": "2026-07-13",
       "resolutiondate": "",
       "labels": [
         "Michael-Kors"
@@ -1290,12 +1302,12 @@
     {
       "key": "PS-5809",
       "summary": "Verisure FR - Once a case is resolved we need to send information to a Verisure FR endpoint",
-      "status": "Ready for review",
-      "status_category": "In Progress",
+      "status": "In production",
+      "status_category": "Done",
       "assignee": "Evgeni Slavyanov",
       "issuetype": "Task",
       "created": "2026-06-25",
-      "updated": "2026-07-06",
+      "updated": "2026-07-13",
       "resolutiondate": "",
       "labels": [
         "Verisure-FR"
@@ -1304,12 +1316,12 @@
     {
       "key": "PS-5808",
       "summary": "Alsa- Update bot version so that we can include an Agent Router (to orchestrate conversations to specialists agents)",
-      "status": "Ready for review",
-      "status_category": "In Progress",
+      "status": "In production",
+      "status_category": "Done",
       "assignee": "Evgeni Slavyanov",
       "issuetype": "Task",
       "created": "2026-06-25",
-      "updated": "2026-06-29",
+      "updated": "2026-07-13",
       "resolutiondate": "",
       "labels": [
         "Alsa"
@@ -1360,12 +1372,12 @@
     {
       "key": "PS-5803",
       "summary": "VGRS - Integrate whatsapp numbers Volkswagen and Audi",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "In Progress",
+      "status_category": "In Progress",
       "assignee": "Aitor Casas",
       "issuetype": "Task",
       "created": "2026-06-25",
-      "updated": "2026-06-25",
+      "updated": "2026-07-13",
       "resolutiondate": "",
       "labels": [
         "VGRS"
@@ -1570,12 +1582,12 @@
     {
       "key": "PS-5786",
       "summary": "Soledad - Design Configuration webview",
-      "status": "Ready to Deliver",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Vicky Correbo",
       "issuetype": "Task",
       "created": "2026-06-22",
-      "updated": "2026-07-01",
+      "updated": "2026-07-13",
       "resolutiondate": "",
       "labels": [
         "Soledad"
@@ -1668,12 +1680,12 @@
     {
       "key": "PS-5779",
       "summary": "Soledad - webview add margin to price",
-      "status": "Ready for review",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-06-19",
-      "updated": "2026-06-30",
+      "updated": "2026-07-13",
       "resolutiondate": "",
       "labels": [
         "Soledad"
@@ -1710,24 +1722,24 @@
     {
       "key": "PS-5776",
       "summary": "Verisure FR - Once a template is received, store fields in a yellow note (same as Verisure IT)",
-      "status": "Ready to Deliver",
-      "status_category": "In Progress",
+      "status": "In production",
+      "status_category": "Done",
       "assignee": "Evgeni Slavyanov",
       "issuetype": "Task",
       "created": "2026-06-18",
-      "updated": "2026-07-06",
+      "updated": "2026-07-13",
       "resolutiondate": "",
       "labels": []
     },
     {
       "key": "PS-5775",
       "summary": "Verisure FR - Project to send templates, record fields and do handoff",
-      "status": "In Progress",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Marta Marron",
       "issuetype": "Epic",
       "created": "2026-06-18",
-      "updated": "2026-07-03",
+      "updated": "2026-07-13",
       "resolutiondate": "",
       "labels": [
         "Verisure-FR"
@@ -2430,12 +2442,12 @@
     {
       "key": "PS-5724",
       "summary": "GUESS - Update bot to bot version 0.50",
-      "status": "Ready to Deliver",
-      "status_category": "In Progress",
+      "status": "In production",
+      "status_category": "Done",
       "assignee": "Evgeni Slavyanov",
       "issuetype": "Task",
       "created": "2026-06-09",
-      "updated": "2026-07-01",
+      "updated": "2026-07-13",
       "resolutiondate": "",
       "labels": [
         "Guess"
@@ -3104,12 +3116,12 @@
     {
       "key": "PS-5676",
       "summary": "Expired Webview design",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "In Progress",
+      "status_category": "In Progress",
       "assignee": "Vicky Correbo",
       "issuetype": "Task",
       "created": "2026-06-02",
-      "updated": "2026-06-29",
+      "updated": "2026-07-13",
       "resolutiondate": "",
       "labels": [
         "Internal"
@@ -3620,12 +3632,12 @@
     {
       "key": "PS-5639",
       "summary": "TMB - Produce a time estimate for the Zendesk integration under a conservative assumption (build from scratch, possible middleware needed).",
-      "status": "Ready for review",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Adrià Sastre",
       "issuetype": "Discovery Task",
       "created": "2026-05-26",
-      "updated": "2026-07-07",
+      "updated": "2026-07-13",
       "resolutiondate": "",
       "labels": [
         "TMB"
