@@ -1,6 +1,23 @@
 {
-  "last_updated": "2026-07-14 09:17 UTC",
+  "last_updated": "2026-07-15 09:21 UTC",
   "opportunities": [
+    {
+      "id": "006Sa00000k70GvIAI",
+      "name": "2026-U-RACC-CA(WhatsApp, Webchat)-Additional 7 licenses",
+      "type": "Upsell",
+      "stage": "Opportunity identified",
+      "is_closed": false,
+      "is_won": false,
+      "probability": 10.0,
+      "amount": 1045.8,
+      "arr": 2091.6,
+      "owner": "Marta Marron",
+      "cs_lead": "Marta Marron",
+      "account": "RACC",
+      "created": "2026-07-14",
+      "close_date": "2026-03-11",
+      "start_date": "2026-07-01"
+    },
     {
       "id": "006Sa00000jwxnPIAQ",
       "name": "2026-C-GUESS-Webchat Reset",
