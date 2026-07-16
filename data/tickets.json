@@ -1,15 +1,57 @@
 {
-  "last_updated": "2026-07-15 09:07 UTC",
+  "last_updated": "2026-07-16 09:10 UTC",
   "tickets": [
+    {
+      "key": "PS-5912",
+      "summary": "Allianz ES - Finetunning requested by the client (file uploaded with changes)",
+      "status": "Ready for review",
+      "status_category": "In Progress",
+      "assignee": "Lorena Sánchez-Toril Nicolás",
+      "issuetype": "Task",
+      "created": "2026-07-15",
+      "updated": "2026-07-16",
+      "resolutiondate": "",
+      "labels": [
+        "Allianz-ES"
+      ]
+    },
+    {
+      "key": "PS-5911",
+      "summary": "RACC - Prepare main menu with options to select the Product and Payload to \"save\" the product",
+      "status": "Done",
+      "status_category": "Done",
+      "assignee": "Aitor Casas",
+      "issuetype": "Task",
+      "created": "2026-07-15",
+      "updated": "2026-07-16",
+      "resolutiondate": "",
+      "labels": [
+        "RACC"
+      ]
+    },
+    {
+      "key": "PS-5910",
+      "summary": "RACC - Update the bot version",
+      "status": "Done",
+      "status_category": "Done",
+      "assignee": "Pep Alonso",
+      "issuetype": "Task",
+      "created": "2026-07-15",
+      "updated": "2026-07-15",
+      "resolutiondate": "",
+      "labels": [
+        "RACC"
+      ]
+    },
     {
       "key": "PS-5909",
       "summary": "Ralph Lauren staging bot: capture feedback questionnaire results in Tinybird",
-      "status": "Ready for review",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Pep Alonso",
       "issuetype": "Task",
       "created": "2026-07-14",
-      "updated": "2026-07-15",
+      "updated": "2026-07-16",
       "resolutiondate": "",
       "labels": [
         "RalphLauren"
@@ -46,12 +88,12 @@
     {
       "key": "PS-5906",
       "summary": "OptimVision - Auto-fill customer name on first contact interaction",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "In Progress",
+      "status_category": "In Progress",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-07-14",
-      "updated": "2026-07-14",
+      "updated": "2026-07-16",
       "resolutiondate": "",
       "labels": [
         "OptimVision"
@@ -144,7 +186,7 @@
     {
       "key": "PS-5899",
       "summary": "Air Europa - Review AVA communication (Marco's email)",
-      "status": "In Progress",
+      "status": "Ready for review",
       "status_category": "In Progress",
       "assignee": "Alexander Skalatskiy",
       "issuetype": "Task",
@@ -424,12 +466,12 @@
     {
       "key": "PS-5879",
       "summary": "Sanitas Mayores - Migrate phone number from provider_id to username",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "In Progress",
+      "status_category": "In Progress",
       "assignee": "Alexander Skalatskiy",
       "issuetype": "Task",
       "created": "2026-07-09",
-      "updated": "2026-07-10",
+      "updated": "2026-07-16",
       "resolutiondate": "",
       "labels": [
         "sanitasmayores"
@@ -480,12 +522,12 @@
     {
       "key": "PS-5875",
       "summary": "Retorna - Migrate phone number from provider_id to username",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Ready for review",
+      "status_category": "In Progress",
       "assignee": "Alexander Skalatskiy",
       "issuetype": "Task",
       "created": "2026-07-09",
-      "updated": "2026-07-10",
+      "updated": "2026-07-15",
       "resolutiondate": "",
       "labels": [
         "Retorna"
@@ -522,12 +564,12 @@
     {
       "key": "PS-5872",
       "summary": "Occident - Migrate phone number from provider_id to username",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Ready for review",
+      "status_category": "In Progress",
       "assignee": "Pep Alonso",
       "issuetype": "Task",
       "created": "2026-07-09",
-      "updated": "2026-07-10",
+      "updated": "2026-07-16",
       "resolutiondate": "",
       "labels": [
         "occident"
