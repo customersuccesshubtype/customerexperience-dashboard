@@ -1,6 +1,23 @@
 {
-  "last_updated": "2026-07-15 09:21 UTC",
+  "last_updated": "2026-07-16 09:27 UTC",
   "opportunities": [
+    {
+      "id": "006Sa00000kDiIUIA0",
+      "name": "2026-U-RACC-WhatsApp Conversations Regularization Closing closing June 2026",
+      "type": "Upsell",
+      "stage": "Closed Won",
+      "is_closed": true,
+      "is_won": true,
+      "probability": 100.0,
+      "amount": 7881.68,
+      "arr": 0.0,
+      "owner": "Marta Marron",
+      "cs_lead": "Marta Marron",
+      "account": "RACC",
+      "created": "2026-07-16",
+      "close_date": "2026-07-16",
+      "start_date": "2026-07-16"
+    },
     {
       "id": "006Sa00000k70GvIAI",
       "name": "2026-U-RACC-CA(WhatsApp, Webchat)-Additional 7 licenses",
@@ -141,17 +158,17 @@
       "id": "006Sa00000jWIW9IAO",
       "name": "2025-U-Verisure(IT)-Lead Gen(Wa)-Upgrade Maus Tier  5,000 MAUS",
       "type": "Upsell",
-      "stage": "Procurement",
-      "is_closed": false,
-      "is_won": false,
-      "probability": 70.0,
+      "stage": "Closed Won",
+      "is_closed": true,
+      "is_won": true,
+      "probability": 100.0,
       "amount": 5831.0,
       "arr": 9996.0,
       "owner": "Marta Marron",
       "cs_lead": "Marta Marron",
       "account": "Verisure Italy",
       "created": "2026-07-04",
-      "close_date": "2025-12-27",
+      "close_date": "2026-07-15",
       "start_date": "2026-05-01"
     },
     {
