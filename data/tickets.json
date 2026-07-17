@@ -1,6 +1,90 @@
 {
-  "last_updated": "2026-07-16 09:10 UTC",
+  "last_updated": "2026-07-17 09:06 UTC",
   "tickets": [
+    {
+      "key": "PS-5918",
+      "summary": "Ralph Lauren - check email asked",
+      "status": "Done",
+      "status_category": "Done",
+      "assignee": "Lorena Sánchez-Toril Nicolás",
+      "issuetype": "Task",
+      "created": "2026-07-17",
+      "updated": "2026-07-17",
+      "resolutiondate": "",
+      "labels": [
+        "Ralph_Lauren"
+      ]
+    },
+    {
+      "key": "PS-5917",
+      "summary": "Ralph Lauren - Brand timeline test - feedback received by RL",
+      "status": "Ready for review",
+      "status_category": "In Progress",
+      "assignee": "irene callejas",
+      "issuetype": "Task",
+      "created": "2026-07-17",
+      "updated": "2026-07-17",
+      "resolutiondate": "",
+      "labels": [
+        "Ralph_Lauren"
+      ]
+    },
+    {
+      "key": "PS-5916",
+      "summary": "Ralph Lauren - Store locator feedback from Suki",
+      "status": "Ready for review",
+      "status_category": "In Progress",
+      "assignee": "irene callejas",
+      "issuetype": "Task",
+      "created": "2026-07-16",
+      "updated": "2026-07-17",
+      "resolutiondate": "",
+      "labels": [
+        "Ralph_Lauren"
+      ]
+    },
+    {
+      "key": "PS-5915",
+      "summary": "Segur Caixa - Enviar Mails a les Clíniques Dentals",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Adrià Sastre",
+      "issuetype": "Discovery Task",
+      "created": "2026-07-16",
+      "updated": "2026-07-16",
+      "resolutiondate": "",
+      "labels": [
+        "SegurCaixa"
+      ]
+    },
+    {
+      "key": "PS-5914",
+      "summary": "Alsa - Responses from AI Agent related to Alsa Plus, the buttons in WhatsApp are not clickable",
+      "status": "Ready for review",
+      "status_category": "In Progress",
+      "assignee": "irene callejas",
+      "issuetype": "Bug",
+      "created": "2026-07-16",
+      "updated": "2026-07-17",
+      "resolutiondate": "",
+      "labels": [
+        "Alsa"
+      ]
+    },
+    {
+      "key": "PS-5913",
+      "summary": "Alsa-Alsa Plus botons WhatsApp",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": null,
+      "issuetype": "Bug",
+      "created": "2026-07-16",
+      "updated": "2026-07-16",
+      "resolutiondate": "",
+      "labels": [
+        "Alsa"
+      ]
+    },
     {
       "key": "PS-5912",
       "summary": "Allianz ES - Finetunning requested by the client (file uploaded with changes)",
@@ -88,7 +172,7 @@
     {
       "key": "PS-5906",
       "summary": "OptimVision - Auto-fill customer name on first contact interaction",
-      "status": "In Progress",
+      "status": "Ready for review",
       "status_category": "In Progress",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
@@ -242,12 +326,12 @@
     {
       "key": "PS-5895",
       "summary": "Ralph Lauren - Andrea to schedule the tester survey feedback push.",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Andrea Talal Haidar",
       "issuetype": "Task",
       "created": "2026-07-09",
-      "updated": "2026-07-09",
+      "updated": "2026-07-16",
       "resolutiondate": "",
       "labels": [
         "Ralph_Lauren"
@@ -256,12 +340,12 @@
     {
       "key": "PS-5894",
       "summary": "Ralph Lauren - Remove unused flows from Ralph Lauren",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Andrea Talal Haidar",
       "issuetype": "Task",
       "created": "2026-07-09",
-      "updated": "2026-07-09",
+      "updated": "2026-07-16",
       "resolutiondate": "",
       "labels": [
         "Ralph_Lauren"
@@ -275,7 +359,7 @@
       "assignee": "Alexander Skalatskiy",
       "issuetype": "Task",
       "created": "2026-07-09",
-      "updated": "2026-07-10",
+      "updated": "2026-07-16",
       "resolutiondate": "",
       "labels": [
         "FenieEnergia"
@@ -289,7 +373,7 @@
       "assignee": "Alexander Skalatskiy",
       "issuetype": "Task",
       "created": "2026-07-09",
-      "updated": "2026-07-10",
+      "updated": "2026-07-16",
       "resolutiondate": "",
       "labels": [
         "FenieEnergia"
@@ -298,12 +382,12 @@
     {
       "key": "PS-5891",
       "summary": "RACC - redirect-to-support - Migrate phone number from provider_id to username",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "In Progress",
+      "status_category": "In Progress",
       "assignee": "Alexander Skalatskiy",
       "issuetype": "Task",
       "created": "2026-07-09",
-      "updated": "2026-07-10",
+      "updated": "2026-07-16",
       "resolutiondate": "",
       "labels": [
         "RACC"
@@ -312,12 +396,12 @@
     {
       "key": "PS-5890",
       "summary": "RACC - Migrate phone number from provider_id to username",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Ready for review",
+      "status_category": "In Progress",
       "assignee": "Alexander Skalatskiy",
       "issuetype": "Task",
       "created": "2026-07-09",
-      "updated": "2026-07-10",
+      "updated": "2026-07-16",
       "resolutiondate": "",
       "labels": [
         "RACC"
@@ -466,7 +550,7 @@
     {
       "key": "PS-5879",
       "summary": "Sanitas Mayores - Migrate phone number from provider_id to username",
-      "status": "In Progress",
+      "status": "Ready for review",
       "status_category": "In Progress",
       "assignee": "Alexander Skalatskiy",
       "issuetype": "Task",
@@ -494,12 +578,12 @@
     {
       "key": "PS-5877",
       "summary": "Ralph Lauren - Migrate phone number from provider_id to username",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Ready for review",
+      "status_category": "In Progress",
       "assignee": "Pep Alonso",
       "issuetype": "Task",
       "created": "2026-07-09",
-      "updated": "2026-07-10",
+      "updated": "2026-07-16",
       "resolutiondate": "",
       "labels": [
         "Ralph_Lauren"
@@ -508,12 +592,12 @@
     {
       "key": "PS-5876",
       "summary": "Soledad - Migrate phone number from provider_id to username",
-      "status": "To Do",
-      "status_category": "To Do",
-      "assignee": "Pep Alonso",
+      "status": "Ready for review",
+      "status_category": "In Progress",
+      "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-07-09",
-      "updated": "2026-07-10",
+      "updated": "2026-07-17",
       "resolutiondate": "",
       "labels": [
         "Soledad"
@@ -632,12 +716,12 @@
     {
       "key": "PS-5867",
       "summary": "Assegur - Fix wrong language assigned for Andorra",
-      "status": "In production",
+      "status": "Done",
       "status_category": "Done",
       "assignee": "Evgeni Slavyanov",
       "issuetype": "Bug",
       "created": "2026-07-09",
-      "updated": "2026-07-09",
+      "updated": "2026-07-16",
       "resolutiondate": "",
       "labels": [
         "Assegur"
@@ -744,12 +828,12 @@
     {
       "key": "PS-5859",
       "summary": "Verisure FR - Once the client responds the case goes to handoff but bot messages continue to appear (fallback message triggers)",
-      "status": "In production",
+      "status": "Done",
       "status_category": "Done",
       "assignee": "Evgeni Slavyanov",
       "issuetype": "Task",
       "created": "2026-07-08",
-      "updated": "2026-07-13",
+      "updated": "2026-07-16",
       "resolutiondate": "",
       "labels": [
         "Verisure-FR"
@@ -763,7 +847,7 @@
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-07-08",
-      "updated": "2026-07-09",
+      "updated": "2026-07-17",
       "resolutiondate": "",
       "labels": [
         "Soledad"
@@ -968,12 +1052,12 @@
     {
       "key": "PS-5842",
       "summary": "Verisure FR - Adjust the style of the variables displayed for the agent",
-      "status": "In production",
+      "status": "Done",
       "status_category": "Done",
       "assignee": "Evgeni Slavyanov",
       "issuetype": "Task",
       "created": "2026-07-07",
-      "updated": "2026-07-13",
+      "updated": "2026-07-16",
       "resolutiondate": "",
       "labels": [
         "Verisure-FR"
@@ -1402,12 +1486,12 @@
     {
       "key": "PS-5809",
       "summary": "Verisure FR - Once a case is resolved we need to send information to a Verisure FR endpoint",
-      "status": "In production",
+      "status": "Done",
       "status_category": "Done",
       "assignee": "Evgeni Slavyanov",
       "issuetype": "Task",
       "created": "2026-06-25",
-      "updated": "2026-07-13",
+      "updated": "2026-07-16",
       "resolutiondate": "",
       "labels": [
         "Verisure-FR"
@@ -1416,12 +1500,12 @@
     {
       "key": "PS-5808",
       "summary": "Alsa- Update bot version so that we can include an Agent Router (to orchestrate conversations to specialists agents)",
-      "status": "In production",
+      "status": "Done",
       "status_category": "Done",
       "assignee": "Evgeni Slavyanov",
       "issuetype": "Task",
       "created": "2026-06-25",
-      "updated": "2026-07-13",
+      "updated": "2026-07-16",
       "resolutiondate": "",
       "labels": [
         "Alsa"
@@ -1822,12 +1906,12 @@
     {
       "key": "PS-5776",
       "summary": "Verisure FR - Once a template is received, store fields in a yellow note (same as Verisure IT)",
-      "status": "In production",
+      "status": "Done",
       "status_category": "Done",
       "assignee": "Evgeni Slavyanov",
       "issuetype": "Task",
       "created": "2026-06-18",
-      "updated": "2026-07-13",
+      "updated": "2026-07-16",
       "resolutiondate": "",
       "labels": []
     },
@@ -2542,12 +2626,12 @@
     {
       "key": "PS-5724",
       "summary": "GUESS - Update bot to bot version 0.50",
-      "status": "In production",
+      "status": "Done",
       "status_category": "Done",
       "assignee": "Evgeni Slavyanov",
       "issuetype": "Task",
       "created": "2026-06-09",
-      "updated": "2026-07-13",
+      "updated": "2026-07-16",
       "resolutiondate": "",
       "labels": [
         "Guess"
@@ -3454,12 +3538,12 @@
     {
       "key": "PS-5659",
       "summary": "Ralph Lauren - Update prompt to recognize is saving size in wrap up",
-      "status": "In Progress",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "irene callejas",
       "issuetype": "Task",
       "created": "2026-05-29",
-      "updated": "2026-06-23",
+      "updated": "2026-07-17",
       "resolutiondate": "",
       "labels": [
         "Ralph_Lauren"
@@ -5424,12 +5508,12 @@
     {
       "key": "PS-5515",
       "summary": "Multiasistencia - Santander - Integrate Middleware to Claim webview",
-      "status": "In Progress",
+      "status": "Ready for review",
       "status_category": "In Progress",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-05-07",
-      "updated": "2026-06-11",
+      "updated": "2026-07-17",
       "resolutiondate": "",
       "labels": [
         "Multiasistencia"
