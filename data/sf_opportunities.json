@@ -1,6 +1,23 @@
 {
-  "last_updated": "2026-07-17 09:21 UTC",
+  "last_updated": "2026-07-18 08:58 UTC",
   "opportunities": [
+    {
+      "id": "006Sa00000kKK8BIAW",
+      "name": "2027-R-Retorna-Chile",
+      "type": "Renewal",
+      "stage": "Proposal",
+      "is_closed": false,
+      "is_won": false,
+      "probability": 50.0,
+      "amount": 50234.76,
+      "arr": 50234.76,
+      "owner": "Francisca Martelli",
+      "cs_lead": "Francisca Martelli",
+      "account": "Retorna",
+      "created": "2026-07-17",
+      "close_date": "2026-06-10",
+      "start_date": "2027-06-12"
+    },
     {
       "id": "006Sa00000kGmCfIAK",
       "name": "2026-R-Ralph Lauren-UK pilot-CA (WA commerce) - Renewal",
