@@ -1,6 +1,90 @@
 {
-  "last_updated": "2026-07-17 09:06 UTC",
+  "last_updated": "2026-07-18 08:46 UTC",
   "tickets": [
+    {
+      "key": "PS-5924",
+      "summary": "Tendam - en el bot de Pedro del Hierro el AI Agent consulta poco la KB frente al bot de Cortefield",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "irene callejas",
+      "issuetype": "Bug",
+      "created": "2026-07-17",
+      "updated": "2026-07-17",
+      "resolutiondate": "",
+      "labels": [
+        "tendam"
+      ]
+    },
+    {
+      "key": "PS-5923",
+      "summary": "Generalitat 012 - Añadir propuesta de rating tras cierre de caso en el bot de staging",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Aitor Casas",
+      "issuetype": "Task",
+      "created": "2026-07-17",
+      "updated": "2026-07-17",
+      "resolutiondate": "",
+      "labels": [
+        "Generalitat-012"
+      ]
+    },
+    {
+      "key": "PS-5922",
+      "summary": "Racc - viaje - AGENT CREATION + BATTLE TEST",
+      "status": "In Progress",
+      "status_category": "In Progress",
+      "assignee": "irene callejas",
+      "issuetype": "Task",
+      "created": "2026-07-17",
+      "updated": "2026-07-17",
+      "resolutiondate": "",
+      "labels": [
+        "RACC"
+      ]
+    },
+    {
+      "key": "PS-5921",
+      "summary": "Concentra - Implement Lead Nurturing Use Case",
+      "status": "In Progress",
+      "status_category": "In Progress",
+      "assignee": "Lorena Sánchez-Toril Nicolás",
+      "issuetype": "Task",
+      "created": "2026-07-17",
+      "updated": "2026-07-17",
+      "resolutiondate": "",
+      "labels": [
+        "Concentra"
+      ]
+    },
+    {
+      "key": "PS-5920",
+      "summary": "Ralph Lauren - division from boy to MW in feedback test",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "irene callejas",
+      "issuetype": "Task",
+      "created": "2026-07-17",
+      "updated": "2026-07-17",
+      "resolutiondate": "",
+      "labels": [
+        "Ralph_Lauren"
+      ]
+    },
+    {
+      "key": "PS-5919",
+      "summary": "Michael Kors - Analyse opps to make bot more conversational",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Francisca Martelli",
+      "issuetype": "Task",
+      "created": "2026-07-17",
+      "updated": "2026-07-17",
+      "resolutiondate": "",
+      "labels": [
+        "Michael-Kors"
+      ]
+    },
     {
       "key": "PS-5918",
       "summary": "Ralph Lauren - check email asked",
@@ -18,8 +102,8 @@
     {
       "key": "PS-5917",
       "summary": "Ralph Lauren - Brand timeline test - feedback received by RL",
-      "status": "Ready for review",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "irene callejas",
       "issuetype": "Task",
       "created": "2026-07-17",
@@ -32,7 +116,7 @@
     {
       "key": "PS-5916",
       "summary": "Ralph Lauren - Store locator feedback from Suki",
-      "status": "Ready for review",
+      "status": "Ready to Deliver",
       "status_category": "In Progress",
       "assignee": "irene callejas",
       "issuetype": "Task",
@@ -60,8 +144,8 @@
     {
       "key": "PS-5914",
       "summary": "Alsa - Responses from AI Agent related to Alsa Plus, the buttons in WhatsApp are not clickable",
-      "status": "Ready for review",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "irene callejas",
       "issuetype": "Bug",
       "created": "2026-07-16",
@@ -144,12 +228,12 @@
     {
       "key": "PS-5908",
       "summary": "Turisme - Afegir URLs de suport al xatbot amb els seus casos d'ús",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Ready for review",
+      "status_category": "In Progress",
       "assignee": "irene callejas",
       "issuetype": "Task",
       "created": "2026-07-14",
-      "updated": "2026-07-14",
+      "updated": "2026-07-17",
       "resolutiondate": "",
       "labels": [
         "Turisme"
@@ -158,12 +242,12 @@
     {
       "key": "PS-5907",
       "summary": "Tourisme - Quick battle test + prompt adjustment",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "In Progress",
+      "status_category": "In Progress",
       "assignee": "irene callejas",
       "issuetype": "Task",
       "created": "2026-07-14",
-      "updated": "2026-07-14",
+      "updated": "2026-07-17",
       "resolutiondate": "",
       "labels": [
         "Generalitat-Turisme"
@@ -354,12 +438,12 @@
     {
       "key": "PS-5893",
       "summary": "Fenie Energía - Atencion - Migrate phone number from provider_id to username",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Ready for review",
+      "status_category": "In Progress",
       "assignee": "Alexander Skalatskiy",
       "issuetype": "Task",
       "created": "2026-07-09",
-      "updated": "2026-07-16",
+      "updated": "2026-07-17",
       "resolutiondate": "",
       "labels": [
         "FenieEnergia"
@@ -368,12 +452,12 @@
     {
       "key": "PS-5892",
       "summary": "Fenie Energía - Ventas - Migrate phone number from provider_id to username",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Ready for review",
+      "status_category": "In Progress",
       "assignee": "Alexander Skalatskiy",
       "issuetype": "Task",
       "created": "2026-07-09",
-      "updated": "2026-07-16",
+      "updated": "2026-07-17",
       "resolutiondate": "",
       "labels": [
         "FenieEnergia"
@@ -382,12 +466,12 @@
     {
       "key": "PS-5891",
       "summary": "RACC - redirect-to-support - Migrate phone number from provider_id to username",
-      "status": "In Progress",
+      "status": "Ready for review",
       "status_category": "In Progress",
       "assignee": "Alexander Skalatskiy",
       "issuetype": "Task",
       "created": "2026-07-09",
-      "updated": "2026-07-16",
+      "updated": "2026-07-17",
       "resolutiondate": "",
       "labels": [
         "RACC"
@@ -424,12 +508,12 @@
     {
       "key": "PS-5888",
       "summary": "Consum - Migrate phone number from provider_id to username",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Ready for review",
+      "status_category": "In Progress",
       "assignee": "Pep Alonso",
       "issuetype": "Task",
       "created": "2026-07-09",
-      "updated": "2026-07-10",
+      "updated": "2026-07-17",
       "resolutiondate": "",
       "labels": [
         "Consum"
@@ -536,12 +620,12 @@
     {
       "key": "PS-5880",
       "summary": "SegurCaixa - Migrate phone number from provider_id to username",
-      "status": "To Do",
-      "status_category": "To Do",
-      "assignee": "Pep Alonso",
+      "status": "In Progress",
+      "status_category": "In Progress",
+      "assignee": "Alexander Skalatskiy",
       "issuetype": "Task",
       "created": "2026-07-09",
-      "updated": "2026-07-10",
+      "updated": "2026-07-17",
       "resolutiondate": "",
       "labels": [
         "SegurCaixa"
@@ -758,12 +842,12 @@
     {
       "key": "PS-5864",
       "summary": "Air Europa - Investigate and gather all business logic from code",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "In Progress",
+      "status_category": "In Progress",
       "assignee": "Alexander Skalatskiy",
       "issuetype": "Discovery Task",
       "created": "2026-07-09",
-      "updated": "2026-07-10",
+      "updated": "2026-07-17",
       "resolutiondate": "",
       "labels": [
         "AirEuropa"
@@ -912,12 +996,12 @@
     {
       "key": "PS-5852",
       "summary": "Concentra - Integrate WhatsApp number ",
-      "status": "To Do",
+      "status": "Open",
       "status_category": "To Do",
       "assignee": "Aitor Casas",
       "issuetype": "Task",
       "created": "2026-07-08",
-      "updated": "2026-07-13",
+      "updated": "2026-07-17",
       "resolutiondate": "",
       "labels": [
         "Concentra"
@@ -1029,7 +1113,7 @@
       "assignee": "Marta Marron",
       "issuetype": "Epic",
       "created": "2026-07-07",
-      "updated": "2026-07-08",
+      "updated": "2026-07-17",
       "resolutiondate": "",
       "labels": [
         "RACC"
@@ -1360,12 +1444,12 @@
     {
       "key": "PS-5818",
       "summary": "Ralph Lauren - Feedback from Suki on specific conversations",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Closed",
+      "status_category": "Done",
       "assignee": "irene callejas",
       "issuetype": "Task",
       "created": "2026-06-29",
-      "updated": "2026-06-29",
+      "updated": "2026-07-17",
       "resolutiondate": "",
       "labels": [
         "Ralph_Lauren"
@@ -1710,12 +1794,12 @@
     {
       "key": "PS-5791",
       "summary": "Ralph Lauren - The AI Agent sometimes hallucinates when providing info on stores",
-      "status": "In Progress",
+      "status": "Ready for review",
       "status_category": "In Progress",
       "assignee": "irene callejas",
       "issuetype": "Task",
       "created": "2026-06-22",
-      "updated": "2026-06-30",
+      "updated": "2026-07-17",
       "resolutiondate": "",
       "labels": [
         "Ralph_Lauren"
@@ -5508,7 +5592,7 @@
     {
       "key": "PS-5515",
       "summary": "Multiasistencia - Santander - Integrate Middleware to Claim webview",
-      "status": "Ready for review",
+      "status": "In Progress",
       "status_category": "In Progress",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
