@@ -1,6 +1,200 @@
 {
-  "last_updated": "2026-07-19 09:03 UTC",
+  "last_updated": "2026-07-20 09:57 UTC",
   "tickets": [
+    {
+      "key": "PS-5943",
+      "summary": "Occident - Include certificate in every call to GCO endpoints",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Pep Alonso",
+      "issuetype": "Task",
+      "created": "2026-07-20",
+      "updated": "2026-07-20",
+      "resolutiondate": "",
+      "labels": [
+        "occident"
+      ]
+    },
+    {
+      "key": "PS-5942",
+      "summary": "Guess - Design \"Defective Items\" Flow",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Andrea Talal Haidar",
+      "issuetype": "Task",
+      "created": "2026-07-20",
+      "updated": "2026-07-20",
+      "resolutiondate": "",
+      "labels": [
+        "Guess"
+      ]
+    },
+    {
+      "key": "PS-5941",
+      "summary": "RibéSalat - Create accounts",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Wei Wu",
+      "issuetype": "Task",
+      "created": "2026-07-20",
+      "updated": "2026-07-20",
+      "resolutiondate": "",
+      "labels": [
+        "RibesSalat"
+      ]
+    },
+    {
+      "key": "PS-5940",
+      "summary": "Internal - Update Bot Template to 0.52 packages",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": null,
+      "issuetype": "Task",
+      "created": "2026-07-20",
+      "updated": "2026-07-20",
+      "resolutiondate": "",
+      "labels": [
+        "Internal"
+      ]
+    },
+    {
+      "key": "PS-5939",
+      "summary": "Internal - Update all internal packages to version 0.52",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": null,
+      "issuetype": "Task",
+      "created": "2026-07-20",
+      "updated": "2026-07-20",
+      "resolutiondate": "",
+      "labels": [
+        "Internal"
+      ]
+    },
+    {
+      "key": "PS-5938",
+      "summary": "RibéSalat - Configure KB \"anulaciones\" y \"solicitud asistencia (hogar y coche)\"",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Wei Wu",
+      "issuetype": "Task",
+      "created": "2026-07-20",
+      "updated": "2026-07-20",
+      "resolutiondate": "",
+      "labels": [
+        "RibesSalat"
+      ]
+    },
+    {
+      "key": "PS-5937",
+      "summary": "RibéSalat- Configure Main flow",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Wei Wu",
+      "issuetype": "Task",
+      "created": "2026-07-20",
+      "updated": "2026-07-20",
+      "resolutiondate": "",
+      "labels": [
+        "RibesSalat"
+      ]
+    },
+    {
+      "key": "PS-5936",
+      "summary": "RibéSalat - Configure project, queues and test agents",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Wei Wu",
+      "issuetype": "Task",
+      "created": "2026-07-20",
+      "updated": "2026-07-20",
+      "resolutiondate": "",
+      "labels": [
+        "RibesSalat"
+      ]
+    },
+    {
+      "key": "PS-5935",
+      "summary": "RibéSalat - Create AI Agent prompt inicial",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Wei Wu",
+      "issuetype": "Task",
+      "created": "2026-07-20",
+      "updated": "2026-07-20",
+      "resolutiondate": "",
+      "labels": [
+        "RibesSalat"
+      ]
+    },
+    {
+      "key": "PS-5934",
+      "summary": "RibéSalat - Integrate staging Whatsapp number",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Aitor Casas",
+      "issuetype": "Task",
+      "created": "2026-07-20",
+      "updated": "2026-07-20",
+      "resolutiondate": "",
+      "labels": [
+        "RibesSalat"
+      ]
+    },
+    {
+      "key": "PS-5933",
+      "summary": "RibéSalat- Create bots (staging y prod)",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Adrià Sastre",
+      "issuetype": "Task",
+      "created": "2026-07-20",
+      "updated": "2026-07-20",
+      "resolutiondate": "",
+      "labels": [
+        "RibesSalat"
+      ]
+    },
+    {
+      "key": "PS-5932",
+      "summary": "RibéSalat - Create ORG ",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Aitor Casas",
+      "issuetype": "Task",
+      "created": "2026-07-20",
+      "updated": "2026-07-20",
+      "resolutiondate": "",
+      "labels": []
+    },
+    {
+      "key": "PS-5931",
+      "summary": "RibéSalat - Initial project (POC)",
+      "status": "Open",
+      "status_category": "To Do",
+      "assignee": "Julieta Mezza",
+      "issuetype": "Epic",
+      "created": "2026-07-20",
+      "updated": "2026-07-20",
+      "resolutiondate": "",
+      "labels": [
+        "RibesSalat"
+      ]
+    },
+    {
+      "key": "PS-5930",
+      "summary": "VGRS - Dar de alta los agentes",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Julieta Mezza",
+      "issuetype": "Task",
+      "created": "2026-07-20",
+      "updated": "2026-07-20",
+      "resolutiondate": "",
+      "labels": [
+        "VGRS"
+      ]
+    },
     {
       "key": "PS-5929",
       "summary": "RACC - Ahorro Energético - Detectamos keywords pero no saltan directamente al flow. Ver si podemos hacer que salten al flow.",
@@ -18,12 +212,12 @@
     {
       "key": "PS-5928",
       "summary": "Racc - Viaje - Incluir número de Twilio en el bot de staging",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Aitor Casas",
       "issuetype": "Task",
       "created": "2026-07-19",
-      "updated": "2026-07-19",
+      "updated": "2026-07-20",
       "resolutiondate": "",
       "labels": [
         "RACC"
@@ -88,12 +282,12 @@
     {
       "key": "PS-5923",
       "summary": "Generalitat 012 - Añadir propuesta de rating tras cierre de caso en el bot de staging",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Ready for review",
+      "status_category": "In Progress",
       "assignee": "Aitor Casas",
       "issuetype": "Task",
       "created": "2026-07-17",
-      "updated": "2026-07-17",
+      "updated": "2026-07-20",
       "resolutiondate": "",
       "labels": [
         "Generalitat-012"
@@ -242,12 +436,12 @@
     {
       "key": "PS-5912",
       "summary": "Allianz ES - Defensor del Asegurado - Finetunning requested by the client (file uploaded with changes)",
-      "status": "Ready for review",
-      "status_category": "In Progress",
+      "status": "In production",
+      "status_category": "Done",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-07-15",
-      "updated": "2026-07-19",
+      "updated": "2026-07-20",
       "resolutiondate": "",
       "labels": [
         "Allianz-ES"
@@ -331,7 +525,7 @@
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-07-14",
-      "updated": "2026-07-16",
+      "updated": "2026-07-20",
       "resolutiondate": "",
       "labels": [
         "OptimVision"
@@ -592,12 +786,12 @@
     {
       "key": "PS-5887",
       "summary": "Allianz ES - Migrate phone number from provider_id to username",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Ready for review",
+      "status_category": "In Progress",
       "assignee": "Pep Alonso",
       "issuetype": "Task",
       "created": "2026-07-09",
-      "updated": "2026-07-10",
+      "updated": "2026-07-20",
       "resolutiondate": "",
       "labels": [
         "Allianz-ES"
@@ -606,12 +800,12 @@
     {
       "key": "PS-5886",
       "summary": "Allianz OSN - Migrate phone number from provider_id to username",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Ready for review",
+      "status_category": "In Progress",
       "assignee": "Pep Alonso",
       "issuetype": "Task",
       "created": "2026-07-09",
-      "updated": "2026-07-10",
+      "updated": "2026-07-20",
       "resolutiondate": "",
       "labels": [
         "Allianz-OSN"
@@ -625,7 +819,7 @@
       "assignee": "Adrià Sastre",
       "issuetype": "Task",
       "created": "2026-07-09",
-      "updated": "2026-07-09",
+      "updated": "2026-07-20",
       "resolutiondate": "",
       "labels": [
         "WizzAir"
@@ -690,12 +884,12 @@
     {
       "key": "PS-5880",
       "summary": "SegurCaixa - Migrate phone number from provider_id to username",
-      "status": "In Progress",
+      "status": "Ready for review",
       "status_category": "In Progress",
-      "assignee": "Alexander Skalatskiy",
+      "assignee": "Pep Alonso",
       "issuetype": "Task",
       "created": "2026-07-09",
-      "updated": "2026-07-17",
+      "updated": "2026-07-20",
       "resolutiondate": "",
       "labels": [
         "SegurCaixa"
@@ -940,12 +1134,12 @@
     {
       "key": "PS-5862",
       "summary": "Crossing_World - Add Custom Condition/Condition variable: is_first_interaction",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Adrià Sastre",
       "issuetype": "Task",
       "created": "2026-07-08",
-      "updated": "2026-07-08",
+      "updated": "2026-07-20",
       "resolutiondate": "",
       "labels": [
         "Crossing_World"
@@ -1152,10 +1346,10 @@
       "summary": "Air Europa - Stop sending images URL to AVA",
       "status": "To Do",
       "status_category": "To Do",
-      "assignee": null,
+      "assignee": "Alexander Skalatskiy",
       "issuetype": "Task",
       "created": "2026-07-07",
-      "updated": "2026-07-07",
+      "updated": "2026-07-20",
       "resolutiondate": "",
       "labels": [
         "AirEuropa"
@@ -1416,12 +1610,12 @@
     {
       "key": "PS-5825",
       "summary": "Allianz ES: applied changes on the categories of Polizas/Siniestros",
-      "status": "In Review",
+      "status": "Ready to Deliver",
       "status_category": "In Progress",
       "assignee": "Vicky Correbo",
       "issuetype": "Task",
       "created": "2026-06-30",
-      "updated": "2026-07-06",
+      "updated": "2026-07-20",
       "resolutiondate": "",
       "labels": [
         "Allianz-ES"
@@ -1430,12 +1624,12 @@
     {
       "key": "PS-5824",
       "summary": "Jetsmart: update design of new optionals",
-      "status": "In Review",
+      "status": "Ready to Deliver",
       "status_category": "In Progress",
       "assignee": "Vicky Correbo",
       "issuetype": "Task",
       "created": "2026-06-30",
-      "updated": "2026-07-09",
+      "updated": "2026-07-20",
       "resolutiondate": "",
       "labels": [
         "JetSmart"
@@ -1584,12 +1778,12 @@
     {
       "key": "PS-5813",
       "summary": "Occident - Review how we are using information for autoservicios in webchat",
-      "status": "Ready to Deliver",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Pep Alonso",
       "issuetype": "Task",
       "created": "2026-06-26",
-      "updated": "2026-07-06",
+      "updated": "2026-07-20",
       "resolutiondate": "",
       "labels": [
         "occident"
@@ -2046,12 +2240,12 @@
     {
       "key": "PS-5777",
       "summary": "WizzAir - Deliver information about the Salesforce integration for case status review (similar to Retorna)",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": null,
       "issuetype": "Discovery Task",
       "created": "2026-06-18",
-      "updated": "2026-06-29",
+      "updated": "2026-07-20",
       "resolutiondate": "",
       "labels": [
         "WizzAir"
@@ -2470,12 +2664,12 @@
     {
       "key": "PS-5746",
       "summary": "Air Europa - New message for IDLE cases",
-      "status": "Open",
+      "status": "To Do",
       "status_category": "To Do",
       "assignee": "Alexander Skalatskiy",
       "issuetype": "Task",
       "created": "2026-06-15",
-      "updated": "2026-07-02",
+      "updated": "2026-07-20",
       "resolutiondate": "",
       "labels": [
         "AirEuropa"
@@ -8434,12 +8628,12 @@
     {
       "key": "PS-5305",
       "summary": "Allianz ES - Development new webview \"Defensor del asegurado\"",
-      "status": "Ready to Deliver",
-      "status_category": "In Progress",
+      "status": "In production",
+      "status_category": "Done",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-04-08",
-      "updated": "2026-07-09",
+      "updated": "2026-07-20",
       "resolutiondate": "",
       "labels": [
         "Allianz-ES"
