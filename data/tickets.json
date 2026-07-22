@@ -1,11 +1,95 @@
 {
-  "last_updated": "2026-07-21 09:25 UTC",
+  "last_updated": "2026-07-22 09:24 UTC",
   "tickets": [
+    {
+      "key": "PS-5966",
+      "summary": "Ralph Lauren - 'Show me sth else' use case",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "irene callejas",
+      "issuetype": "Task",
+      "created": "2026-07-21",
+      "updated": "2026-07-21",
+      "resolutiondate": "",
+      "labels": [
+        "Ralph_Lauren"
+      ]
+    },
+    {
+      "key": "PS-5965",
+      "summary": "Concentra -n8n flow ",
+      "status": "In Progress",
+      "status_category": "In Progress",
+      "assignee": "Lorena Sánchez-Toril Nicolás",
+      "issuetype": "Task",
+      "created": "2026-07-21",
+      "updated": "2026-07-21",
+      "resolutiondate": "",
+      "labels": [
+        "Concentra"
+      ]
+    },
+    {
+      "key": "PS-5964",
+      "summary": "Ralph Lauren- reset without deleting conv",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Lorena Sánchez-Toril Nicolás",
+      "issuetype": "Task",
+      "created": "2026-07-21",
+      "updated": "2026-07-22",
+      "resolutiondate": "",
+      "labels": [
+        "Ralph_Lauren"
+      ]
+    },
+    {
+      "key": "PS-5963",
+      "summary": "Libeen - Ajustar el prompt para pedir email (o teléfono) cuando el usuario no comparta el número, y bloquear la cualificación si no facilita ninguno",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": null,
+      "issuetype": "Task",
+      "created": "2026-07-21",
+      "updated": "2026-07-21",
+      "resolutiondate": "",
+      "labels": [
+        "Libeen"
+      ]
+    },
+    {
+      "key": "PS-5962",
+      "summary": "Libeen - Remove inactivity plugin",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Alexander Skalatskiy",
+      "issuetype": "Task",
+      "created": "2026-07-21",
+      "updated": "2026-07-21",
+      "resolutiondate": "",
+      "labels": [
+        "Libeen"
+      ]
+    },
+    {
+      "key": "PS-5961",
+      "summary": "Sanitas Dental - WhatsApp integration",
+      "status": "Closed",
+      "status_category": "Done",
+      "assignee": null,
+      "issuetype": "Task",
+      "created": "2026-07-21",
+      "updated": "2026-07-21",
+      "resolutiondate": "",
+      "labels": [
+        "SanitasDental"
+      ]
+    },
     {
       "key": "PS-5960",
       "summary": "Ralph Lauren - Delete the bots which are no longer in use",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-07-21",
@@ -25,13 +109,15 @@
       "created": "2026-07-21",
       "updated": "2026-07-21",
       "resolutiondate": "",
-      "labels": []
+      "labels": [
+        "TMB"
+      ]
     },
     {
       "key": "PS-5958",
       "summary": "Concentra - Integrate Staging WhatsApp Number",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Aitor Casas",
       "issuetype": "Task",
       "created": "2026-07-21",
@@ -63,7 +149,7 @@
       "assignee": "Julieta Mezza",
       "issuetype": "Task",
       "created": "2026-07-20",
-      "updated": "2026-07-20",
+      "updated": "2026-07-21",
       "resolutiondate": "",
       "labels": [
         "SanitasDental"
@@ -72,12 +158,12 @@
     {
       "key": "PS-5955",
       "summary": "Sanitas Dental - Review how we can save user decision to stop receiving whatsapps",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Julieta Mezza",
       "issuetype": "Task",
       "created": "2026-07-20",
-      "updated": "2026-07-20",
+      "updated": "2026-07-21",
       "resolutiondate": "",
       "labels": [
         "SanitasDental"
@@ -100,12 +186,12 @@
     {
       "key": "PS-5953",
       "summary": "Air Europa - Add Euskera and Catalan languages in webchat",
-      "status": "In Progress",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Alexander Skalatskiy",
       "issuetype": "Task",
       "created": "2026-07-20",
-      "updated": "2026-07-21",
+      "updated": "2026-07-22",
       "resolutiondate": "",
       "labels": [
         "AirEuropa"
@@ -114,12 +200,12 @@
     {
       "key": "PS-5952",
       "summary": "Air Europa - Translate bot messages to Euskera and Catalan",
-      "status": "In Progress",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Alexander Skalatskiy",
       "issuetype": "Task",
       "created": "2026-07-20",
-      "updated": "2026-07-21",
+      "updated": "2026-07-22",
       "resolutiondate": "",
       "labels": [
         "AirEuropa"
@@ -128,12 +214,12 @@
     {
       "key": "PS-5951",
       "summary": "Air Europa - Adjust bot for automatic language detection",
-      "status": "In Progress",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Alexander Skalatskiy",
       "issuetype": "Task",
       "created": "2026-07-20",
-      "updated": "2026-07-21",
+      "updated": "2026-07-22",
       "resolutiondate": "",
       "labels": [
         "AirEuropa"
@@ -142,12 +228,12 @@
     {
       "key": "PS-5950",
       "summary": "Sanitas Dental - Send template proposal",
-      "status": "Closed",
+      "status": "Done",
       "status_category": "Done",
       "assignee": "Julieta Mezza",
       "issuetype": "Task",
       "created": "2026-07-20",
-      "updated": "2026-07-20",
+      "updated": "2026-07-21",
       "resolutiondate": "",
       "labels": [
         "SanitasDental"
@@ -170,12 +256,12 @@
     {
       "key": "PS-5948",
       "summary": "Sanitas Dental - Send API information",
-      "status": "In Progress",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Julieta Mezza",
       "issuetype": "Task",
       "created": "2026-07-20",
-      "updated": "2026-07-20",
+      "updated": "2026-07-21",
       "resolutiondate": "",
       "labels": [
         "SanitasDental"
@@ -184,12 +270,12 @@
     {
       "key": "PS-5947",
       "summary": "Sanitas Dental - Adjust test flow ",
-      "status": "Ready for review",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Julieta Mezza",
       "issuetype": "Task",
       "created": "2026-07-20",
-      "updated": "2026-07-20",
+      "updated": "2026-07-21",
       "resolutiondate": "",
       "labels": [
         "SanitasDental"
@@ -212,12 +298,12 @@
     {
       "key": "PS-5945",
       "summary": "VGRS - Send instructions to configure predefined initial message in the whatsapp url",
-      "status": "To Do",
-      "status_category": "To Do",
-      "assignee": "Adrià Sastre",
+      "status": "Done",
+      "status_category": "Done",
+      "assignee": "Julieta Mezza",
       "issuetype": "Task",
       "created": "2026-07-20",
-      "updated": "2026-07-20",
+      "updated": "2026-07-21",
       "resolutiondate": "",
       "labels": [
         "VGRS"
@@ -226,12 +312,12 @@
     {
       "key": "PS-5944",
       "summary": "VGRS - Review data transfer method (FTP o API), URLs and credentials",
-      "status": "To Do",
-      "status_category": "To Do",
-      "assignee": "Adrià Sastre",
+      "status": "Done",
+      "status_category": "Done",
+      "assignee": "Julieta Mezza",
       "issuetype": "Task",
       "created": "2026-07-20",
-      "updated": "2026-07-20",
+      "updated": "2026-07-21",
       "resolutiondate": "",
       "labels": [
         "VGRS"
@@ -284,10 +370,10 @@
       "summary": "Internal - Update Bot Template to 0.52 packages",
       "status": "To Do",
       "status_category": "To Do",
-      "assignee": null,
+      "assignee": "Alexander Skalatskiy",
       "issuetype": "Task",
       "created": "2026-07-20",
-      "updated": "2026-07-20",
+      "updated": "2026-07-21",
       "resolutiondate": "",
       "labels": [
         "Internal"
@@ -298,10 +384,10 @@
       "summary": "Internal - Update all internal packages to version 0.52",
       "status": "To Do",
       "status_category": "To Do",
-      "assignee": null,
+      "assignee": "Alexander Skalatskiy",
       "issuetype": "Task",
       "created": "2026-07-20",
-      "updated": "2026-07-20",
+      "updated": "2026-07-21",
       "resolutiondate": "",
       "labels": [
         "Internal"
@@ -441,7 +527,7 @@
       "assignee": "Aitor Casas",
       "issuetype": "Task",
       "created": "2026-07-19",
-      "updated": "2026-07-20",
+      "updated": "2026-07-21",
       "resolutiondate": "",
       "labels": [
         "RACC"
@@ -478,12 +564,12 @@
     {
       "key": "PS-5926",
       "summary": "SEM - Revisar el comportamiento de los idiomas - está activado language detection pero no funciona",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Francisca Martelli",
       "issuetype": "Task",
       "created": "2026-07-19",
-      "updated": "2026-07-19",
+      "updated": "2026-07-21",
       "resolutiondate": "",
       "labels": [
         "SEM"
@@ -744,12 +830,12 @@
     {
       "key": "PS-5907",
       "summary": "Tourisme - Quick battle test + prompt adjustment",
-      "status": "In Progress",
+      "status": "Ready for review",
       "status_category": "In Progress",
       "assignee": "irene callejas",
       "issuetype": "Task",
       "created": "2026-07-14",
-      "updated": "2026-07-17",
+      "updated": "2026-07-21",
       "resolutiondate": "",
       "labels": [
         "Generalitat-Turisme"
@@ -1386,12 +1472,12 @@
     {
       "key": "PS-5861",
       "summary": "Internal - Update Bot Template to latest 0.51.X packages",
-      "status": "Ready to Deliver",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Evgeni Slavyanov",
       "issuetype": "Task",
       "created": "2026-07-08",
-      "updated": "2026-07-14",
+      "updated": "2026-07-21",
       "resolutiondate": "",
       "labels": [
         "Internal"
@@ -1937,7 +2023,7 @@
       "assignee": "Aitor Casas",
       "issuetype": "Task",
       "created": "2026-06-29",
-      "updated": "2026-06-30",
+      "updated": "2026-07-22",
       "resolutiondate": "",
       "labels": [
         "tendam"
@@ -2147,7 +2233,7 @@
       "assignee": "Aitor Casas",
       "issuetype": "Task",
       "created": "2026-06-25",
-      "updated": "2026-07-13",
+      "updated": "2026-07-21",
       "resolutiondate": "",
       "labels": [
         "VGRS"
@@ -2357,7 +2443,7 @@
       "assignee": "Julieta Mezza",
       "issuetype": "Discovery Task",
       "created": "2026-06-22",
-      "updated": "2026-06-29",
+      "updated": "2026-07-21",
       "resolutiondate": "",
       "labels": [
         "JetSmart"
@@ -3605,12 +3691,12 @@
     {
       "key": "PS-5695",
       "summary": "Libeen – Integrar los owners de HubSpot en los mensajes de confirmación de cita",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Closed",
+      "status_category": "Done",
       "assignee": "Alexander Skalatskiy",
       "issuetype": "Task",
       "created": "2026-06-03",
-      "updated": "2026-07-10",
+      "updated": "2026-07-22",
       "resolutiondate": "",
       "labels": [
         "Libeen"
@@ -7019,12 +7105,12 @@
     {
       "key": "PS-5445",
       "summary": "All Clients - Automation Opportunity Spotter - Requirements and prompt review",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "In Progress",
+      "status_category": "In Progress",
       "assignee": "irene callejas",
       "issuetype": "Discovery Task",
       "created": "2026-04-26",
-      "updated": "2026-04-29",
+      "updated": "2026-07-21",
       "resolutiondate": "",
       "labels": [
         "all_clients"
@@ -13761,12 +13847,12 @@
     {
       "key": "PS-4931",
       "summary": "Jetsmart - Complex use case \"Buy a flight\"",
-      "status": "Ready for review",
+      "status": "Ready to Deliver",
       "status_category": "In Progress",
       "assignee": "Pep Alonso",
       "issuetype": "Epic",
       "created": "2026-01-30",
-      "updated": "2026-07-06",
+      "updated": "2026-07-21",
       "resolutiondate": "",
       "labels": [
         "JetSmart"
