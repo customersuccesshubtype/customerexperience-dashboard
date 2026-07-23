@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-22 09:38 UTC",
+  "last_updated": "2026-07-23 09:36 UTC",
   "opportunities": [
     {
       "id": "006Sa00000kbFTsIAM",
@@ -207,12 +207,12 @@
     },
     {
       "id": "006Sa00000jg9rPIAQ",
-      "name": "2026-R-Optim Vision-Spain",
+      "name": "2027-R-Optim Vision-Spain",
       "type": "Renewal",
-      "stage": "Proposal",
+      "stage": "Opportunity identified",
       "is_closed": false,
       "is_won": false,
-      "probability": 50.0,
+      "probability": 10.0,
       "amount": 6500.04,
       "arr": 6500.04,
       "owner": "Wei Wu",
