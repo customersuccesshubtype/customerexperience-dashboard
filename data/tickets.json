@@ -1,6 +1,175 @@
 {
-  "last_updated": "2026-07-22 09:24 UTC",
+  "last_updated": "2026-07-23 09:22 UTC",
   "tickets": [
+    {
+      "key": "PS-5978",
+      "summary": "Ralph Lauren - add 90min delay action to flows",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Lorena Sánchez-Toril Nicolás",
+      "issuetype": "Task",
+      "created": "2026-07-23",
+      "updated": "2026-07-23",
+      "resolutiondate": "",
+      "labels": [
+        "Ralph_Lauren"
+      ]
+    },
+    {
+      "key": "PS-5977",
+      "summary": "Ralph Lauren Middleware API KEYS ",
+      "status": "In production",
+      "status_category": "Done",
+      "assignee": "Lorena Sánchez-Toril Nicolás",
+      "issuetype": "Task",
+      "created": "2026-07-23",
+      "updated": "2026-07-23",
+      "resolutiondate": "",
+      "labels": [
+        "Ralph_Lauren"
+      ]
+    },
+    {
+      "key": "PS-5976",
+      "summary": "Tendam - Middleware: use previous_attended_by as agent fallback",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Lorena Sánchez-Toril Nicolás",
+      "issuetype": "Task",
+      "created": "2026-07-22",
+      "updated": "2026-07-22",
+      "resolutiondate": "",
+      "labels": [
+        "Tendam"
+      ]
+    },
+    {
+      "key": "PS-5975",
+      "summary": "Generalitat 012 - Hay un bot de WhatsApp. Debemos desconectar el número y que no responda.",
+      "status": "Done",
+      "status_category": "Done",
+      "assignee": "Aitor Casas",
+      "issuetype": "Task",
+      "created": "2026-07-22",
+      "updated": "2026-07-23",
+      "resolutiondate": "",
+      "labels": [
+        "Generalitat-012"
+      ]
+    },
+    {
+      "key": "PS-5974",
+      "summary": "Occident - Review new CRM request",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Julieta Mezza",
+      "issuetype": "Task",
+      "created": "2026-07-22",
+      "updated": "2026-07-22",
+      "resolutiondate": "",
+      "labels": [
+        "Occident"
+      ]
+    },
+    {
+      "key": "PS-5973",
+      "summary": "Occident - Review Antares information (New Project)",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Julieta Mezza",
+      "issuetype": "Task",
+      "created": "2026-07-22",
+      "updated": "2026-07-22",
+      "resolutiondate": "",
+      "labels": [
+        "Occident"
+      ]
+    },
+    {
+      "key": "PS-5972",
+      "summary": "RACC - Bot seguros de viaje - Actualizar a última versión para poder usar modelo 5.6 Luna",
+      "status": "Closed",
+      "status_category": "Done",
+      "assignee": "Pep Alonso",
+      "issuetype": "Task",
+      "created": "2026-07-22",
+      "updated": "2026-07-22",
+      "resolutiondate": "",
+      "labels": [
+        "RACC"
+      ]
+    },
+    {
+      "key": "PS-5971",
+      "summary": "RACC - Informar del impacto que tiene no recibir el teléfono en los flujos de Ahorro Energético",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Adrià Sastre",
+      "issuetype": "Task",
+      "created": "2026-07-22",
+      "updated": "2026-07-22",
+      "resolutiondate": "",
+      "labels": [
+        "RACC"
+      ]
+    },
+    {
+      "key": "PS-5970",
+      "summary": "Verisure FR - Make AUTO_IDLE_MESSAGE Temporarily Configurable",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Lorena Sánchez-Toril Nicolás",
+      "issuetype": "Task",
+      "created": "2026-07-22",
+      "updated": "2026-07-22",
+      "resolutiondate": "",
+      "labels": [
+        "Task",
+        "Verisure-FR"
+      ]
+    },
+    {
+      "key": "PS-5969",
+      "summary": "TMB - Configure Automation to email TMB weekly reports",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Francisca Martelli",
+      "issuetype": "Task",
+      "created": "2026-07-22",
+      "updated": "2026-07-22",
+      "resolutiondate": "",
+      "labels": [
+        "TMB"
+      ]
+    },
+    {
+      "key": "PS-5968",
+      "summary": "NetBerry - COFA - Create Organization",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Aitor Casas",
+      "issuetype": "Task",
+      "created": "2026-07-22",
+      "updated": "2026-07-22",
+      "resolutiondate": "",
+      "labels": [
+        "NetBerry_COFA"
+      ]
+    },
+    {
+      "key": "PS-5967",
+      "summary": "NetBerry - COFA - 1st Phase",
+      "status": "Open",
+      "status_category": "To Do",
+      "assignee": "Wei Wu",
+      "issuetype": "Epic",
+      "created": "2026-07-22",
+      "updated": "2026-07-22",
+      "resolutiondate": "",
+      "labels": [
+        "NetBerry_COFA"
+      ]
+    },
     {
       "key": "PS-5966",
       "summary": "Ralph Lauren - 'Show me sth else' use case",
@@ -18,12 +187,12 @@
     {
       "key": "PS-5965",
       "summary": "Concentra -n8n flow ",
-      "status": "In Progress",
-      "status_category": "In Progress",
+      "status": "Closed",
+      "status_category": "Done",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-07-21",
-      "updated": "2026-07-21",
+      "updated": "2026-07-23",
       "resolutiondate": "",
       "labels": [
         "Concentra"
@@ -37,7 +206,7 @@
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-07-21",
-      "updated": "2026-07-22",
+      "updated": "2026-07-23",
       "resolutiondate": "",
       "labels": [
         "Ralph_Lauren"
@@ -172,12 +341,12 @@
     {
       "key": "PS-5954",
       "summary": "RACC - Actualizar la versión del bot de RACC para que se pueda poner keywords del tipo contains i no solo equals to.",
-      "status": "Ready for review",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Pep Alonso",
       "issuetype": "Task",
       "created": "2026-07-20",
-      "updated": "2026-07-21",
+      "updated": "2026-07-22",
       "resolutiondate": "",
       "labels": [
         "RACC"
@@ -331,7 +500,7 @@
       "assignee": "Pep Alonso",
       "issuetype": "Task",
       "created": "2026-07-20",
-      "updated": "2026-07-20",
+      "updated": "2026-07-22",
       "resolutiondate": "",
       "labels": [
         "occident"
@@ -368,12 +537,12 @@
     {
       "key": "PS-5940",
       "summary": "Internal - Update Bot Template to 0.52 packages",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "In Progress",
+      "status_category": "In Progress",
       "assignee": "Alexander Skalatskiy",
       "issuetype": "Task",
       "created": "2026-07-20",
-      "updated": "2026-07-21",
+      "updated": "2026-07-22",
       "resolutiondate": "",
       "labels": [
         "Internal"
@@ -382,12 +551,12 @@
     {
       "key": "PS-5939",
       "summary": "Internal - Update all internal packages to version 0.52",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Ready for review",
+      "status_category": "In Progress",
       "assignee": "Alexander Skalatskiy",
       "issuetype": "Task",
       "created": "2026-07-20",
-      "updated": "2026-07-21",
+      "updated": "2026-07-23",
       "resolutiondate": "",
       "labels": [
         "Internal"
@@ -443,7 +612,7 @@
       "assignee": "Wei Wu",
       "issuetype": "Task",
       "created": "2026-07-20",
-      "updated": "2026-07-20",
+      "updated": "2026-07-23",
       "resolutiondate": "",
       "labels": [
         "ribesalat"
@@ -522,12 +691,12 @@
     {
       "key": "PS-5929",
       "summary": "RACC - Ahorro Energético - Detectamos keywords pero no saltan directamente al flow. Ver si podemos hacer que salten al flow.",
-      "status": "Ready for review",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Aitor Casas",
       "issuetype": "Task",
       "created": "2026-07-19",
-      "updated": "2026-07-21",
+      "updated": "2026-07-22",
       "resolutiondate": "",
       "labels": [
         "RACC"
@@ -550,12 +719,12 @@
     {
       "key": "PS-5927",
       "summary": "Racc - Viaje - Captar el tipo de seguro de la template recibida y guardarlo para que responda el AI agent correspondiente",
-      "status": "Ready for review",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Adrià Sastre",
       "issuetype": "Task",
       "created": "2026-07-19",
-      "updated": "2026-07-20",
+      "updated": "2026-07-22",
       "resolutiondate": "",
       "labels": [
         "RACC"
@@ -830,12 +999,12 @@
     {
       "key": "PS-5907",
       "summary": "Tourisme - Quick battle test + prompt adjustment",
-      "status": "Ready for review",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "irene callejas",
       "issuetype": "Task",
       "created": "2026-07-14",
-      "updated": "2026-07-21",
+      "updated": "2026-07-22",
       "resolutiondate": "",
       "labels": [
         "Generalitat-Turisme"
@@ -877,7 +1046,7 @@
       "assignee": "irene callejas",
       "issuetype": "Task",
       "created": "2026-07-10",
-      "updated": "2026-07-21",
+      "updated": "2026-07-22",
       "resolutiondate": "",
       "labels": [
         "Michael-Kors"
@@ -942,12 +1111,12 @@
     {
       "key": "PS-5899",
       "summary": "Air Europa - Review AVA communication (Marco's email)",
-      "status": "Ready for review",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Alexander Skalatskiy",
       "issuetype": "Task",
       "created": "2026-07-10",
-      "updated": "2026-07-15",
+      "updated": "2026-07-22",
       "resolutiondate": "",
       "labels": [
         "AirEuropa"
@@ -1059,7 +1228,7 @@
       "assignee": "Alexander Skalatskiy",
       "issuetype": "Task",
       "created": "2026-07-09",
-      "updated": "2026-07-17",
+      "updated": "2026-07-22",
       "resolutiondate": "",
       "labels": [
         "RACC"
@@ -1068,12 +1237,12 @@
     {
       "key": "PS-5890",
       "summary": "RACC - Migrate phone number from provider_id to username",
-      "status": "Ready for review",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Alexander Skalatskiy",
       "issuetype": "Task",
       "created": "2026-07-09",
-      "updated": "2026-07-16",
+      "updated": "2026-07-22",
       "resolutiondate": "",
       "labels": [
         "RACC"
@@ -1140,10 +1309,10 @@
       "summary": "Wizz Air - Offer direct handoff to a specific partner and prioritize its case",
       "status": "To Do",
       "status_category": "To Do",
-      "assignee": "Aitor Casas",
+      "assignee": "Adrià Sastre",
       "issuetype": "Task",
       "created": "2026-07-09",
-      "updated": "2026-07-20",
+      "updated": "2026-07-22",
       "resolutiondate": "",
       "labels": [
         "WizzAir"
@@ -1236,12 +1405,12 @@
     {
       "key": "PS-5878",
       "summary": "Rag&Bone - Migrate phone number from provider_id to username",
-      "status": "Ready for review",
+      "status": "Ready to Deliver",
       "status_category": "In Progress",
       "assignee": "Evgeni Slavyanov",
       "issuetype": "Task",
       "created": "2026-07-09",
-      "updated": "2026-07-14",
+      "updated": "2026-07-23",
       "resolutiondate": "",
       "labels": [
         "Rag&Bone"
@@ -1514,12 +1683,12 @@
     {
       "key": "PS-5858",
       "summary": "Soledad - Allow \"Tarjeta\" & \"Bizum\" as new payment options",
-      "status": "In Progress",
+      "status": "Ready for review",
       "status_category": "In Progress",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-07-08",
-      "updated": "2026-07-20",
+      "updated": "2026-07-23",
       "resolutiondate": "",
       "labels": [
         "Soledad"
@@ -1656,10 +1825,10 @@
       "summary": "Libeen - Send Hubspot an indication that a client is not interested (campo uptail_status)",
       "status": "To Do",
       "status_category": "To Do",
-      "assignee": "Adrià Sastre",
+      "assignee": "Alexander Skalatskiy",
       "issuetype": "Task",
       "created": "2026-07-07",
-      "updated": "2026-07-07",
+      "updated": "2026-07-22",
       "resolutiondate": "",
       "labels": [
         "Libeen"
@@ -1668,12 +1837,12 @@
     {
       "key": "PS-5846",
       "summary": "Air Europa - Stop sending images URL to AVA",
-      "status": "To Do",
+      "status": "Open",
       "status_category": "To Do",
-      "assignee": "Alexander Skalatskiy",
+      "assignee": "Julieta Mezza",
       "issuetype": "Task",
       "created": "2026-07-07",
-      "updated": "2026-07-20",
+      "updated": "2026-07-22",
       "resolutiondate": "",
       "labels": [
         "AirEuropa"
@@ -1920,12 +2089,12 @@
     {
       "key": "PS-5826",
       "summary": "Air Europa: update design changes on implementation",
-      "status": "Ready for review",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Vicky Correbo",
       "issuetype": "Task",
       "created": "2026-06-30",
-      "updated": "2026-07-06",
+      "updated": "2026-07-22",
       "resolutiondate": "",
       "labels": [
         "AirEuropa"
@@ -2946,12 +3115,12 @@
     {
       "key": "PS-5748",
       "summary": "Air Europa - Stop sending AVA images URLs",
-      "status": "To Do",
+      "status": "Open",
       "status_category": "To Do",
       "assignee": "Julieta Mezza",
       "issuetype": "Task",
       "created": "2026-06-15",
-      "updated": "2026-06-15",
+      "updated": "2026-07-22",
       "resolutiondate": "",
       "labels": [
         "AirEuropa"
@@ -2979,7 +3148,7 @@
       "assignee": "Alexander Skalatskiy",
       "issuetype": "Task",
       "created": "2026-06-15",
-      "updated": "2026-07-20",
+      "updated": "2026-07-22",
       "resolutiondate": "",
       "labels": [
         "AirEuropa"
@@ -6911,12 +7080,12 @@
     {
       "key": "PS-5460",
       "summary": "TMB - Prompting - URLs provided by the AI Agent",
-      "status": "Open",
-      "status_category": "To Do",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Francisca Martelli",
       "issuetype": "Task",
       "created": "2026-04-28",
-      "updated": "2026-04-28",
+      "updated": "2026-07-22",
       "resolutiondate": "",
       "labels": [
         "TMB"
@@ -7105,12 +7274,12 @@
     {
       "key": "PS-5445",
       "summary": "All Clients - Automation Opportunity Spotter - Requirements and prompt review",
-      "status": "In Progress",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "irene callejas",
       "issuetype": "Discovery Task",
       "created": "2026-04-26",
-      "updated": "2026-07-21",
+      "updated": "2026-07-22",
       "resolutiondate": "",
       "labels": [
         "all_clients"
@@ -7561,12 +7730,12 @@
     {
       "key": "PS-5412",
       "summary": "Air Europa - Consultar Reserva improvements",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Ready to Deliver",
+      "status_category": "In Progress",
       "assignee": "Julieta Mezza",
       "issuetype": "Epic",
       "created": "2026-04-22",
-      "updated": "2026-07-03",
+      "updated": "2026-07-22",
       "resolutiondate": "",
       "labels": [
         "AirEuropa"
