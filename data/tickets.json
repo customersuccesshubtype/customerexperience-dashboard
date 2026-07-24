@@ -1,6 +1,132 @@
 {
-  "last_updated": "2026-07-23 09:22 UTC",
+  "last_updated": "2026-07-24 09:18 UTC",
   "tickets": [
+    {
+      "key": "PS-5987",
+      "summary": "NetBerry - COFA - Deploy bot for staging and production",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Adrià Sastre",
+      "issuetype": "Task",
+      "created": "2026-07-24",
+      "updated": "2026-07-24",
+      "resolutiondate": "",
+      "labels": [
+        "NetBerry_COFA"
+      ]
+    },
+    {
+      "key": "PS-5986",
+      "summary": "Concentra - Implement country code validation",
+      "status": "In Progress",
+      "status_category": "In Progress",
+      "assignee": "Lorena Sánchez-Toril Nicolás",
+      "issuetype": "Task",
+      "created": "2026-07-23",
+      "updated": "2026-07-24",
+      "resolutiondate": "",
+      "labels": [
+        "Concentra"
+      ]
+    },
+    {
+      "key": "PS-5985",
+      "summary": "Concentra - Add Contact Info Fiels from parsed email",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Lorena Sánchez-Toril Nicolás",
+      "issuetype": "Task",
+      "created": "2026-07-23",
+      "updated": "2026-07-23",
+      "resolutiondate": "",
+      "labels": [
+        "Concentra"
+      ]
+    },
+    {
+      "key": "PS-5984",
+      "summary": "Assegur - Review payloads as we've detected some errors",
+      "status": "Done",
+      "status_category": "Done",
+      "assignee": "Adrià Sastre",
+      "issuetype": "Task",
+      "created": "2026-07-23",
+      "updated": "2026-07-24",
+      "resolutiondate": "",
+      "labels": [
+        "Assegur"
+      ]
+    },
+    {
+      "key": "PS-5983",
+      "summary": "Assegur - Don't assign cases to unavailable agents",
+      "status": "In production",
+      "status_category": "Done",
+      "assignee": "Adrià Sastre",
+      "issuetype": "Bug",
+      "created": "2026-07-23",
+      "updated": "2026-07-23",
+      "resolutiondate": "",
+      "labels": [
+        "Assegur"
+      ]
+    },
+    {
+      "key": "PS-5982",
+      "summary": "Racc viaje - Añadir feedback  de patricia a frases  tipo",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "irene callejas",
+      "issuetype": "Task",
+      "created": "2026-07-23",
+      "updated": "2026-07-23",
+      "resolutiondate": "",
+      "labels": [
+        "RACC"
+      ]
+    },
+    {
+      "key": "PS-5981",
+      "summary": "Ralph Lauren - increase to 6 products carousel",
+      "status": "Ready for review",
+      "status_category": "In Progress",
+      "assignee": "Lorena Sánchez-Toril Nicolás",
+      "issuetype": "Task",
+      "created": "2026-07-23",
+      "updated": "2026-07-23",
+      "resolutiondate": "",
+      "labels": [
+        "Ralph_Lauren"
+      ]
+    },
+    {
+      "key": "PS-5980",
+      "summary": "Consum - Fix error log when launching campaigns",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Pep Alonso",
+      "issuetype": "Task",
+      "created": "2026-07-23",
+      "updated": "2026-07-23",
+      "resolutiondate": "",
+      "labels": [
+        "Consum"
+      ]
+    },
+    {
+      "key": "PS-5979",
+      "summary": "Polarier - remove unused aws folder ",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Lorena Sánchez-Toril Nicolás",
+      "issuetype": "Task",
+      "created": "2026-07-23",
+      "updated": "2026-07-23",
+      "resolutiondate": "",
+      "labels": [
+        "Polarier"
+      ]
+    },
     {
       "key": "PS-5978",
       "summary": "Ralph Lauren - add 90min delay action to flows",
@@ -37,7 +163,7 @@
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-07-22",
-      "updated": "2026-07-22",
+      "updated": "2026-07-23",
       "resolutiondate": "",
       "labels": [
         "Tendam"
@@ -102,12 +228,12 @@
     {
       "key": "PS-5971",
       "summary": "RACC - Informar del impacto que tiene no recibir el teléfono en los flujos de Ahorro Energético",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "In Progress",
+      "status_category": "In Progress",
       "assignee": "Adrià Sastre",
       "issuetype": "Task",
       "created": "2026-07-22",
-      "updated": "2026-07-22",
+      "updated": "2026-07-24",
       "resolutiondate": "",
       "labels": [
         "RACC"
@@ -145,12 +271,12 @@
     {
       "key": "PS-5968",
       "summary": "NetBerry - COFA - Create Organization",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Aitor Casas",
       "issuetype": "Task",
       "created": "2026-07-22",
-      "updated": "2026-07-22",
+      "updated": "2026-07-23",
       "resolutiondate": "",
       "labels": [
         "NetBerry_COFA"
@@ -229,12 +355,12 @@
     {
       "key": "PS-5962",
       "summary": "Libeen - Remove inactivity plugin",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Ready for review",
+      "status_category": "In Progress",
       "assignee": "Alexander Skalatskiy",
       "issuetype": "Task",
       "created": "2026-07-21",
-      "updated": "2026-07-21",
+      "updated": "2026-07-23",
       "resolutiondate": "",
       "labels": [
         "Libeen"
@@ -537,12 +663,12 @@
     {
       "key": "PS-5940",
       "summary": "Internal - Update Bot Template to 0.52 packages",
-      "status": "In Progress",
+      "status": "Ready for review",
       "status_category": "In Progress",
       "assignee": "Alexander Skalatskiy",
       "issuetype": "Task",
       "created": "2026-07-20",
-      "updated": "2026-07-22",
+      "updated": "2026-07-23",
       "resolutiondate": "",
       "labels": [
         "Internal"
@@ -1195,12 +1321,12 @@
     {
       "key": "PS-5893",
       "summary": "Fenie Energía - Atencion - Migrate phone number from provider_id to username",
-      "status": "Ready for review",
-      "status_category": "In Progress",
+      "status": "APPROVED FOR PRODUCTION",
+      "status_category": "Done",
       "assignee": "Alexander Skalatskiy",
       "issuetype": "Task",
       "created": "2026-07-09",
-      "updated": "2026-07-17",
+      "updated": "2026-07-24",
       "resolutiondate": "",
       "labels": [
         "FenieEnergia"
@@ -1209,12 +1335,12 @@
     {
       "key": "PS-5892",
       "summary": "Fenie Energía - Ventas - Migrate phone number from provider_id to username",
-      "status": "Ready for review",
-      "status_category": "In Progress",
+      "status": "APPROVED FOR PRODUCTION",
+      "status_category": "Done",
       "assignee": "Alexander Skalatskiy",
       "issuetype": "Task",
       "created": "2026-07-09",
-      "updated": "2026-07-17",
+      "updated": "2026-07-24",
       "resolutiondate": "",
       "labels": [
         "FenieEnergia"
@@ -1223,12 +1349,12 @@
     {
       "key": "PS-5891",
       "summary": "RACC - redirect-to-support - Migrate phone number from provider_id to username",
-      "status": "Ready for review",
-      "status_category": "In Progress",
+      "status": "To Do",
+      "status_category": "To Do",
       "assignee": "Alexander Skalatskiy",
       "issuetype": "Task",
       "created": "2026-07-09",
-      "updated": "2026-07-22",
+      "updated": "2026-07-23",
       "resolutiondate": "",
       "labels": [
         "RACC"
@@ -1405,8 +1531,8 @@
     {
       "key": "PS-5878",
       "summary": "Rag&Bone - Migrate phone number from provider_id to username",
-      "status": "Ready to Deliver",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Evgeni Slavyanov",
       "issuetype": "Task",
       "created": "2026-07-09",
@@ -1433,12 +1559,12 @@
     {
       "key": "PS-5876",
       "summary": "Soledad - Migrate phone number from provider_id to username",
-      "status": "Ready for review",
-      "status_category": "In Progress",
+      "status": "APPROVED FOR PRODUCTION",
+      "status_category": "Done",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-07-09",
-      "updated": "2026-07-17",
+      "updated": "2026-07-23",
       "resolutiondate": "",
       "labels": [
         "Soledad"
@@ -1447,12 +1573,12 @@
     {
       "key": "PS-5875",
       "summary": "Retorna - Migrate phone number from provider_id to username",
-      "status": "Ready for review",
-      "status_category": "In Progress",
+      "status": "To Do",
+      "status_category": "To Do",
       "assignee": "Alexander Skalatskiy",
       "issuetype": "Task",
       "created": "2026-07-09",
-      "updated": "2026-07-15",
+      "updated": "2026-07-23",
       "resolutiondate": "",
       "labels": [
         "Retorna"
@@ -1461,12 +1587,12 @@
     {
       "key": "PS-5874",
       "summary": "Libeen - Migrate phone number from provider_id to username",
-      "status": "Ready for review",
-      "status_category": "In Progress",
+      "status": "To Do",
+      "status_category": "To Do",
       "assignee": "Alexander Skalatskiy",
       "issuetype": "Task",
       "created": "2026-07-09",
-      "updated": "2026-07-14",
+      "updated": "2026-07-23",
       "resolutiondate": "",
       "labels": [
         "Libeen"
@@ -1475,12 +1601,12 @@
     {
       "key": "PS-5873",
       "summary": "Assegur - Migrate phone number from provider_id to username",
-      "status": "Ready for review",
-      "status_category": "In Progress",
+      "status": "In production",
+      "status_category": "Done",
       "assignee": "Evgeni Slavyanov",
       "issuetype": "Task",
       "created": "2026-07-09",
-      "updated": "2026-07-14",
+      "updated": "2026-07-23",
       "resolutiondate": "",
       "labels": [
         "Assegur"
@@ -1489,12 +1615,12 @@
     {
       "key": "PS-5872",
       "summary": "Occident - Migrate phone number from provider_id to username",
-      "status": "Ready for review",
-      "status_category": "In Progress",
+      "status": "APPROVED FOR PRODUCTION",
+      "status_category": "Done",
       "assignee": "Pep Alonso",
       "issuetype": "Task",
       "created": "2026-07-09",
-      "updated": "2026-07-16",
+      "updated": "2026-07-23",
       "resolutiondate": "",
       "labels": [
         "occident"
@@ -1599,12 +1725,12 @@
     {
       "key": "PS-5864",
       "summary": "Air Europa - Investigate and gather all business logic from code",
-      "status": "In Progress",
-      "status_category": "In Progress",
+      "status": "To Do",
+      "status_category": "To Do",
       "assignee": "Alexander Skalatskiy",
       "issuetype": "Discovery Task",
       "created": "2026-07-09",
-      "updated": "2026-07-17",
+      "updated": "2026-07-23",
       "resolutiondate": "",
       "labels": [
         "AirEuropa"
@@ -1725,12 +1851,12 @@
     {
       "key": "PS-5854",
       "summary": "Concentra - Configure HelpDesk (agents, projects and queues)",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "In Progress",
+      "status_category": "In Progress",
       "assignee": "Francisca Martelli",
       "issuetype": "Task",
       "created": "2026-07-08",
-      "updated": "2026-07-13",
+      "updated": "2026-07-24",
       "resolutiondate": "",
       "labels": [
         "Concentra"
@@ -1823,12 +1949,12 @@
     {
       "key": "PS-5847",
       "summary": "Libeen - Send Hubspot an indication that a client is not interested (campo uptail_status)",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Ready for review",
+      "status_category": "In Progress",
       "assignee": "Alexander Skalatskiy",
       "issuetype": "Task",
       "created": "2026-07-07",
-      "updated": "2026-07-22",
+      "updated": "2026-07-23",
       "resolutiondate": "",
       "labels": [
         "Libeen"
@@ -3033,12 +3159,12 @@
     {
       "key": "PS-5754",
       "summary": "Internal - Migrate demo creation process into a skill",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "In Progress",
+      "status_category": "In Progress",
       "assignee": "Pep Alonso",
       "issuetype": "Task",
       "created": "2026-06-15",
-      "updated": "2026-06-15",
+      "updated": "2026-07-24",
       "resolutiondate": "",
       "labels": []
     },
@@ -3143,12 +3269,12 @@
     {
       "key": "PS-5746",
       "summary": "Air Europa - New message for IDLE cases",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "In Progress",
+      "status_category": "In Progress",
       "assignee": "Alexander Skalatskiy",
       "issuetype": "Task",
       "created": "2026-06-15",
-      "updated": "2026-07-22",
+      "updated": "2026-07-23",
       "resolutiondate": "",
       "labels": [
         "AirEuropa"
