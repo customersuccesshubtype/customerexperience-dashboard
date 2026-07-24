@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-23 09:36 UTC",
+  "last_updated": "2026-07-24 09:33 UTC",
   "opportunities": [
     {
       "id": "006Sa00000kbFTsIAM",
@@ -22,10 +22,10 @@
       "id": "006Sa00000kKK8BIAW",
       "name": "2027-R-Retorna-Chile",
       "type": "Renewal",
-      "stage": "Proposal",
+      "stage": "Opportunity identified",
       "is_closed": false,
       "is_won": false,
-      "probability": 50.0,
+      "probability": 10.0,
       "amount": 50234.76,
       "arr": 50234.76,
       "owner": "Francisca Martelli",
@@ -37,12 +37,12 @@
     },
     {
       "id": "006Sa00000kGmCfIAK",
-      "name": "2026-R-Ralph Lauren-UK pilot-CA (WA commerce) - Renewal",
+      "name": "2027-R-Ralph Lauren-UK pilot-CA (WA commerce) - Renewal",
       "type": "Renewal",
-      "stage": "Proposal",
+      "stage": "Opportunity identified",
       "is_closed": false,
       "is_won": false,
-      "probability": 50.0,
+      "probability": 10.0,
       "amount": 281520.0,
       "arr": 281520.0,
       "owner": "Marta Marron",
