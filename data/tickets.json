@@ -1,6 +1,20 @@
 {
-  "last_updated": "2026-07-24 09:18 UTC",
+  "last_updated": "2026-07-25 08:58 UTC",
   "tickets": [
+    {
+      "key": "PS-5988",
+      "summary": "Occident - Edit payload that informs user that it's case has been closed to differentiate by provider account id",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Lorena Sánchez-Toril Nicolás",
+      "issuetype": "Bug",
+      "created": "2026-07-24",
+      "updated": "2026-07-24",
+      "resolutiondate": "",
+      "labels": [
+        "Occident"
+      ]
+    },
     {
       "key": "PS-5987",
       "summary": "NetBerry - COFA - Deploy bot for staging and production",
@@ -18,7 +32,7 @@
     {
       "key": "PS-5986",
       "summary": "Concentra - Implement country code validation",
-      "status": "In Progress",
+      "status": "Ready for review",
       "status_category": "In Progress",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
@@ -32,12 +46,12 @@
     {
       "key": "PS-5985",
       "summary": "Concentra - Add Contact Info Fiels from parsed email",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Ready for review",
+      "status_category": "In Progress",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-07-23",
-      "updated": "2026-07-23",
+      "updated": "2026-07-24",
       "resolutiondate": "",
       "labels": [
         "Concentra"
@@ -60,12 +74,12 @@
     {
       "key": "PS-5983",
       "summary": "Assegur - Don't assign cases to unavailable agents",
-      "status": "In production",
+      "status": "Done",
       "status_category": "Done",
       "assignee": "Adrià Sastre",
       "issuetype": "Bug",
       "created": "2026-07-23",
-      "updated": "2026-07-23",
+      "updated": "2026-07-25",
       "resolutiondate": "",
       "labels": [
         "Assegur"
@@ -102,12 +116,12 @@
     {
       "key": "PS-5980",
       "summary": "Consum - Fix error log when launching campaigns",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "In Progress",
+      "status_category": "In Progress",
       "assignee": "Pep Alonso",
       "issuetype": "Task",
       "created": "2026-07-23",
-      "updated": "2026-07-23",
+      "updated": "2026-07-24",
       "resolutiondate": "",
       "labels": [
         "Consum"
@@ -130,12 +144,12 @@
     {
       "key": "PS-5978",
       "summary": "Ralph Lauren - add 90min delay action to flows",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-07-23",
-      "updated": "2026-07-23",
+      "updated": "2026-07-24",
       "resolutiondate": "",
       "labels": [
         "Ralph_Lauren"
@@ -144,12 +158,12 @@
     {
       "key": "PS-5977",
       "summary": "Ralph Lauren Middleware API KEYS ",
-      "status": "In production",
+      "status": "Done",
       "status_category": "Done",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-07-23",
-      "updated": "2026-07-23",
+      "updated": "2026-07-24",
       "resolutiondate": "",
       "labels": [
         "Ralph_Lauren"
@@ -257,12 +271,12 @@
     {
       "key": "PS-5969",
       "summary": "TMB - Configure Automation to email TMB weekly reports",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Ready for review",
+      "status_category": "In Progress",
       "assignee": "Francisca Martelli",
       "issuetype": "Task",
       "created": "2026-07-22",
-      "updated": "2026-07-22",
+      "updated": "2026-07-24",
       "resolutiondate": "",
       "labels": [
         "TMB"
@@ -299,12 +313,12 @@
     {
       "key": "PS-5966",
       "summary": "Ralph Lauren - 'Show me sth else' use case",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Closed",
+      "status_category": "Done",
       "assignee": "irene callejas",
       "issuetype": "Task",
       "created": "2026-07-21",
-      "updated": "2026-07-21",
+      "updated": "2026-07-24",
       "resolutiondate": "",
       "labels": [
         "Ralph_Lauren"
@@ -327,12 +341,12 @@
     {
       "key": "PS-5964",
       "summary": "Ralph Lauren- reset without deleting conv",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "In Progress",
+      "status_category": "In Progress",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-07-21",
-      "updated": "2026-07-23",
+      "updated": "2026-07-24",
       "resolutiondate": "",
       "labels": [
         "Ralph_Lauren"
@@ -934,7 +948,7 @@
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-07-17",
-      "updated": "2026-07-20",
+      "updated": "2026-07-24",
       "resolutiondate": "",
       "labels": [
         "Concentra"
@@ -1139,12 +1153,12 @@
     {
       "key": "PS-5906",
       "summary": "OptimVision - Auto-fill customer name on first contact interaction",
-      "status": "In production",
+      "status": "Done",
       "status_category": "Done",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-07-14",
-      "updated": "2026-07-20",
+      "updated": "2026-07-25",
       "resolutiondate": "",
       "labels": [
         "OptimVision"
@@ -1349,12 +1363,12 @@
     {
       "key": "PS-5891",
       "summary": "RACC - redirect-to-support - Migrate phone number from provider_id to username",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Ready for review",
+      "status_category": "In Progress",
       "assignee": "Alexander Skalatskiy",
       "issuetype": "Task",
       "created": "2026-07-09",
-      "updated": "2026-07-23",
+      "updated": "2026-07-24",
       "resolutiondate": "",
       "labels": [
         "RACC"
@@ -1391,12 +1405,12 @@
     {
       "key": "PS-5888",
       "summary": "Consum - Migrate phone number from provider_id to username",
-      "status": "Ready for review",
-      "status_category": "In Progress",
+      "status": "APPROVED FOR PRODUCTION",
+      "status_category": "Done",
       "assignee": "Pep Alonso",
       "issuetype": "Task",
       "created": "2026-07-09",
-      "updated": "2026-07-17",
+      "updated": "2026-07-24",
       "resolutiondate": "",
       "labels": [
         "Consum"
@@ -1517,12 +1531,12 @@
     {
       "key": "PS-5879",
       "summary": "Sanitas Mayores - Migrate phone number from provider_id to username",
-      "status": "Ready for review",
-      "status_category": "In Progress",
+      "status": "Closed",
+      "status_category": "Done",
       "assignee": "Alexander Skalatskiy",
       "issuetype": "Task",
       "created": "2026-07-09",
-      "updated": "2026-07-16",
+      "updated": "2026-07-24",
       "resolutiondate": "",
       "labels": [
         "sanitasmayores"
@@ -1573,12 +1587,12 @@
     {
       "key": "PS-5875",
       "summary": "Retorna - Migrate phone number from provider_id to username",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Ready for review",
+      "status_category": "In Progress",
       "assignee": "Alexander Skalatskiy",
       "issuetype": "Task",
       "created": "2026-07-09",
-      "updated": "2026-07-23",
+      "updated": "2026-07-24",
       "resolutiondate": "",
       "labels": [
         "Retorna"
@@ -1587,12 +1601,12 @@
     {
       "key": "PS-5874",
       "summary": "Libeen - Migrate phone number from provider_id to username",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Ready for review",
+      "status_category": "In Progress",
       "assignee": "Alexander Skalatskiy",
       "issuetype": "Task",
       "created": "2026-07-09",
-      "updated": "2026-07-23",
+      "updated": "2026-07-24",
       "resolutiondate": "",
       "labels": [
         "Libeen"
@@ -1601,12 +1615,12 @@
     {
       "key": "PS-5873",
       "summary": "Assegur - Migrate phone number from provider_id to username",
-      "status": "In production",
+      "status": "Done",
       "status_category": "Done",
       "assignee": "Evgeni Slavyanov",
       "issuetype": "Task",
       "created": "2026-07-09",
-      "updated": "2026-07-23",
+      "updated": "2026-07-24",
       "resolutiondate": "",
       "labels": [
         "Assegur"
@@ -1991,12 +2005,12 @@
     {
       "key": "PS-5844",
       "summary": "RACC - Seguros de Viaje - 1a Fase",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "In Progress",
+      "status_category": "In Progress",
       "assignee": "Marta Marron",
       "issuetype": "Epic",
       "created": "2026-07-07",
-      "updated": "2026-07-17",
+      "updated": "2026-07-25",
       "resolutiondate": "",
       "labels": [
         "RACC"
@@ -2103,12 +2117,12 @@
     {
       "key": "PS-5835",
       "summary": "Allianz Spain - Quote and Buy",
-      "status": "Open",
+      "status": "To Do",
       "status_category": "To Do",
       "assignee": "Marta Marron",
       "issuetype": "Epic",
       "created": "2026-07-05",
-      "updated": "2026-07-10",
+      "updated": "2026-07-25",
       "resolutiondate": "",
       "labels": [
         "Allianz"
@@ -3274,7 +3288,7 @@
       "assignee": "Alexander Skalatskiy",
       "issuetype": "Task",
       "created": "2026-06-15",
-      "updated": "2026-07-23",
+      "updated": "2026-07-24",
       "resolutiondate": "",
       "labels": [
         "AirEuropa"
@@ -13376,12 +13390,12 @@
     {
       "key": "PS-4991",
       "summary": "Ralph Lauren - configurar Customer service number in production",
-      "status": "Open",
-      "status_category": "To Do",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Marta Marron",
       "issuetype": "Task",
       "created": "2026-02-09",
-      "updated": "2026-02-12",
+      "updated": "2026-07-25",
       "resolutiondate": "",
       "labels": [
         "Ralph_Lauren"
