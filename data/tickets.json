@@ -1,15 +1,295 @@
 {
-  "last_updated": "2026-07-26 09:09 UTC",
+  "last_updated": "2026-07-27 10:39 UTC",
   "tickets": [
     {
-      "key": "PS-5988",
-      "summary": "Occident - Edit payload that informs user that it's case has been closed to differentiate by provider account id",
+      "key": "PS-6008",
+      "summary": "Allianz - image size exceed text",
       "status": "To Do",
       "status_category": "To Do",
       "assignee": "Lorena Sánchez-Toril Nicolás",
+      "issuetype": "Task",
+      "created": "2026-07-27",
+      "updated": "2026-07-27",
+      "resolutiondate": "",
+      "labels": [
+        "Allianz-ES"
+      ]
+    },
+    {
+      "key": "PS-6007",
+      "summary": "Wizz Air - Add rating responses as case info fields",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Adrià Sastre",
+      "issuetype": "Task",
+      "created": "2026-07-27",
+      "updated": "2026-07-27",
+      "resolutiondate": "",
+      "labels": [
+        "WizzAir"
+      ]
+    },
+    {
+      "key": "PS-6006",
+      "summary": "Allianz - error sending webview customer defense in prod",
+      "status": "Ready for review",
+      "status_category": "In Progress",
+      "assignee": "Lorena Sánchez-Toril Nicolás",
+      "issuetype": "Task",
+      "created": "2026-07-27",
+      "updated": "2026-07-27",
+      "resolutiondate": "",
+      "labels": [
+        "Allianz-ES"
+      ]
+    },
+    {
+      "key": "PS-6005",
+      "summary": "Update Dash & Stars bot version",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": null,
+      "issuetype": "Task",
+      "created": "2026-07-27",
+      "updated": "2026-07-27",
+      "resolutiondate": "",
+      "labels": [
+        "Tendam"
+      ]
+    },
+    {
+      "key": "PS-6004",
+      "summary": "Update SlowLove bot version",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": null,
+      "issuetype": "Task",
+      "created": "2026-07-27",
+      "updated": "2026-07-27",
+      "resolutiondate": "",
+      "labels": [
+        "Tendam"
+      ]
+    },
+    {
+      "key": "PS-6003",
+      "summary": "Update Fifty bot version",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": null,
+      "issuetype": "Task",
+      "created": "2026-07-27",
+      "updated": "2026-07-27",
+      "resolutiondate": "",
+      "labels": [
+        "Tendam"
+      ]
+    },
+    {
+      "key": "PS-6002",
+      "summary": "Update Hoss Intropia bot version",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": null,
+      "issuetype": "Task",
+      "created": "2026-07-27",
+      "updated": "2026-07-27",
+      "resolutiondate": "",
+      "labels": [
+        "Tendam"
+      ]
+    },
+    {
+      "key": "PS-6001",
+      "summary": "Update Pedro del Hierro bot version",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": null,
+      "issuetype": "Task",
+      "created": "2026-07-27",
+      "updated": "2026-07-27",
+      "resolutiondate": "",
+      "labels": [
+        "Tendam"
+      ]
+    },
+    {
+      "key": "PS-6000",
+      "summary": "Update Cortefield bot version",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": null,
+      "issuetype": "Task",
+      "created": "2026-07-27",
+      "updated": "2026-07-27",
+      "resolutiondate": "",
+      "labels": [
+        "Tendam"
+      ]
+    },
+    {
+      "key": "PS-5999",
+      "summary": "Update Springfield bot version",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Adrià Sastre",
+      "issuetype": "Task",
+      "created": "2026-07-27",
+      "updated": "2026-07-27",
+      "resolutiondate": "",
+      "labels": [
+        "Tendam"
+      ]
+    },
+    {
+      "key": "PS-5998",
+      "summary": "Update WS bot version",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Adrià Sastre",
+      "issuetype": "Task",
+      "created": "2026-07-27",
+      "updated": "2026-07-27",
+      "resolutiondate": "",
+      "labels": [
+        "Tendam"
+      ]
+    },
+    {
+      "key": "PS-5997",
+      "summary": "Update Tendam bots to the latest version",
+      "status": "Open",
+      "status_category": "To Do",
+      "assignee": "Adrià Sastre",
+      "issuetype": "Epic",
+      "created": "2026-07-27",
+      "updated": "2026-07-27",
+      "resolutiondate": "",
+      "labels": [
+        "Tendam"
+      ]
+    },
+    {
+      "key": "PS-5996",
+      "summary": "RACC - Seguros Viaje - Add integration with RACC CRM",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Adrià Sastre",
+      "issuetype": "Task",
+      "created": "2026-07-27",
+      "updated": "2026-07-27",
+      "resolutiondate": "",
+      "labels": [
+        "RACC"
+      ]
+    },
+    {
+      "key": "PS-5995",
+      "summary": "Internal learning - Multichannel",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": null,
+      "issuetype": "Task",
+      "created": "2026-07-26",
+      "updated": "2026-07-26",
+      "resolutiondate": "",
+      "labels": [
+        "Internal"
+      ]
+    },
+    {
+      "key": "PS-5994",
+      "summary": "Internal learning - Custom messages",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": null,
+      "issuetype": "Task",
+      "created": "2026-07-26",
+      "updated": "2026-07-26",
+      "resolutiondate": "",
+      "labels": [
+        "Internal"
+      ]
+    },
+    {
+      "key": "PS-5993",
+      "summary": "Internal learning - Plugins",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": null,
+      "issuetype": "Task",
+      "created": "2026-07-26",
+      "updated": "2026-07-27",
+      "resolutiondate": "",
+      "labels": [
+        "Internal"
+      ]
+    },
+    {
+      "key": "PS-5992",
+      "summary": "Internal learning - Actions + Routes improvements",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Marco Gallego Ropero",
+      "issuetype": "Task",
+      "created": "2026-07-26",
+      "updated": "2026-07-27",
+      "resolutiondate": "",
+      "labels": [
+        "Internal"
+      ]
+    },
+    {
+      "key": "PS-5991",
+      "summary": "Internal learning - Actions + Routes",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Marco Gallego Ropero",
+      "issuetype": "Task",
+      "created": "2026-07-26",
+      "updated": "2026-07-27",
+      "resolutiondate": "",
+      "labels": [
+        "Internal"
+      ]
+    },
+    {
+      "key": "PS-5990",
+      "summary": "Internal learning - Create the bot scaffold",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Marco Gallego Ropero",
+      "issuetype": "Task",
+      "created": "2026-07-26",
+      "updated": "2026-07-27",
+      "resolutiondate": "",
+      "labels": [
+        "Internal"
+      ]
+    },
+    {
+      "key": "PS-5989",
+      "summary": "Internal learning - Bot development learning",
+      "status": "Open",
+      "status_category": "To Do",
+      "assignee": "Marco Gallego Ropero",
+      "issuetype": "Epic",
+      "created": "2026-07-26",
+      "updated": "2026-07-27",
+      "resolutiondate": "",
+      "labels": [
+        "Internal"
+      ]
+    },
+    {
+      "key": "PS-5988",
+      "summary": "Occident - Edit payload that informs user that it's case has been closed to differentiate by provider account id",
+      "status": "In Progress",
+      "status_category": "In Progress",
+      "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Bug",
       "created": "2026-07-24",
-      "updated": "2026-07-24",
+      "updated": "2026-07-27",
       "resolutiondate": "",
       "labels": [
         "Occident"
@@ -20,10 +300,10 @@
       "summary": "NetBerry - COFA - Deploy bot for staging and production",
       "status": "To Do",
       "status_category": "To Do",
-      "assignee": "Adrià Sastre",
+      "assignee": "Alexander Skalatskiy",
       "issuetype": "Task",
       "created": "2026-07-24",
-      "updated": "2026-07-24",
+      "updated": "2026-07-27",
       "resolutiondate": "",
       "labels": [
         "NetBerry_COFA"
@@ -32,12 +312,12 @@
     {
       "key": "PS-5986",
       "summary": "Concentra - Implement country code validation",
-      "status": "Ready for review",
-      "status_category": "In Progress",
+      "status": "APPROVED FOR PRODUCTION",
+      "status_category": "Done",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-07-23",
-      "updated": "2026-07-24",
+      "updated": "2026-07-27",
       "resolutiondate": "",
       "labels": [
         "Concentra"
@@ -46,12 +326,12 @@
     {
       "key": "PS-5985",
       "summary": "Concentra - Add Contact Info Fiels from parsed email",
-      "status": "Ready for review",
-      "status_category": "In Progress",
+      "status": "APPROVED FOR PRODUCTION",
+      "status_category": "Done",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-07-23",
-      "updated": "2026-07-24",
+      "updated": "2026-07-27",
       "resolutiondate": "",
       "labels": [
         "Concentra"
@@ -172,12 +452,12 @@
     {
       "key": "PS-5976",
       "summary": "Tendam - Middleware: use previous_attended_by as agent fallback",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Ready for review",
+      "status_category": "In Progress",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-07-22",
-      "updated": "2026-07-23",
+      "updated": "2026-07-27",
       "resolutiondate": "",
       "labels": [
         "Tendam"
@@ -202,10 +482,10 @@
       "summary": "Occident - Review new CRM request",
       "status": "To Do",
       "status_category": "To Do",
-      "assignee": "Julieta Mezza",
+      "assignee": "Adrià Sastre",
       "issuetype": "Task",
       "created": "2026-07-22",
-      "updated": "2026-07-22",
+      "updated": "2026-07-27",
       "resolutiondate": "",
       "labels": [
         "Occident"
@@ -256,12 +536,12 @@
     {
       "key": "PS-5970",
       "summary": "Verisure FR - Make AUTO_IDLE_MESSAGE Temporarily Configurable",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "In production",
+      "status_category": "Done",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-07-22",
-      "updated": "2026-07-22",
+      "updated": "2026-07-27",
       "resolutiondate": "",
       "labels": [
         "Task",
@@ -777,10 +1057,10 @@
       "summary": "RibéSalat- Create bots (staging y prod)",
       "status": "To Do",
       "status_category": "To Do",
-      "assignee": "Adrià Sastre",
+      "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-07-20",
-      "updated": "2026-07-20",
+      "updated": "2026-07-27",
       "resolutiondate": "",
       "labels": [
         "RibesSalat"
@@ -1228,7 +1508,7 @@
       "assignee": "Adrià Sastre",
       "issuetype": "Task",
       "created": "2026-07-10",
-      "updated": "2026-07-20",
+      "updated": "2026-07-27",
       "resolutiondate": "",
       "labels": [
         "WizzAir"
@@ -1293,12 +1573,12 @@
     {
       "key": "PS-5896",
       "summary": "Michael Kors - Facilitar al equipo de la web el snippet correcto que tienen que poner en el entorno UAT",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Adrià Sastre",
       "issuetype": "Task",
       "created": "2026-07-09",
-      "updated": "2026-07-09",
+      "updated": "2026-07-27",
       "resolutiondate": "",
       "labels": [
         "Michael-Kors"
@@ -1452,7 +1732,7 @@
       "assignee": "Adrià Sastre",
       "issuetype": "Task",
       "created": "2026-07-09",
-      "updated": "2026-07-22",
+      "updated": "2026-07-27",
       "resolutiondate": "",
       "labels": [
         "WizzAir"
@@ -1517,12 +1797,12 @@
     {
       "key": "PS-5880",
       "summary": "SegurCaixa - Migrate phone number from provider_id to username",
-      "status": "Ready for review",
-      "status_category": "In Progress",
+      "status": "APPROVED FOR PRODUCTION",
+      "status_category": "Done",
       "assignee": "Pep Alonso",
       "issuetype": "Task",
       "created": "2026-07-09",
-      "updated": "2026-07-20",
+      "updated": "2026-07-27",
       "resolutiondate": "",
       "labels": [
         "SegurCaixa"
@@ -1587,12 +1867,12 @@
     {
       "key": "PS-5875",
       "summary": "Retorna - Migrate phone number from provider_id to username",
-      "status": "Ready for review",
-      "status_category": "In Progress",
+      "status": "APPROVED FOR PRODUCTION",
+      "status_category": "Done",
       "assignee": "Alexander Skalatskiy",
       "issuetype": "Task",
       "created": "2026-07-09",
-      "updated": "2026-07-24",
+      "updated": "2026-07-27",
       "resolutiondate": "",
       "labels": [
         "Retorna"
@@ -1601,12 +1881,12 @@
     {
       "key": "PS-5874",
       "summary": "Libeen - Migrate phone number from provider_id to username",
-      "status": "Ready for review",
-      "status_category": "In Progress",
+      "status": "APPROVED FOR PRODUCTION",
+      "status_category": "Done",
       "assignee": "Alexander Skalatskiy",
       "issuetype": "Task",
       "created": "2026-07-09",
-      "updated": "2026-07-24",
+      "updated": "2026-07-27",
       "resolutiondate": "",
       "labels": [
         "Libeen"
@@ -1688,7 +1968,7 @@
       "assignee": "Adrià Sastre",
       "issuetype": "Task",
       "created": "2026-07-09",
-      "updated": "2026-07-09",
+      "updated": "2026-07-27",
       "resolutiondate": "",
       "labels": [
         "Assegur"
@@ -3283,12 +3563,12 @@
     {
       "key": "PS-5746",
       "summary": "Air Europa - New message for IDLE cases",
-      "status": "In Progress",
+      "status": "Ready for review",
       "status_category": "In Progress",
       "assignee": "Alexander Skalatskiy",
       "issuetype": "Task",
       "created": "2026-06-15",
-      "updated": "2026-07-24",
+      "updated": "2026-07-27",
       "resolutiondate": "",
       "labels": [
         "AirEuropa"
