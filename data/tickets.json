@@ -1,6 +1,254 @@
 {
-  "last_updated": "2026-07-27 10:39 UTC",
+  "last_updated": "2026-07-28 09:34 UTC",
   "tickets": [
+    {
+      "key": "PS-6027",
+      "summary": "DABA - Connect and configure AI Agent (KB)",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": null,
+      "issuetype": "Task",
+      "created": "2026-07-28",
+      "updated": "2026-07-28",
+      "resolutiondate": "",
+      "labels": []
+    },
+    {
+      "key": "PS-6026",
+      "summary": "DABA - Configure Helpdesk (Queues, Agents, Schedule, etc)",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Francisca Martelli",
+      "issuetype": "Task",
+      "created": "2026-07-28",
+      "updated": "2026-07-28",
+      "resolutiondate": "",
+      "labels": []
+    },
+    {
+      "key": "PS-6025",
+      "summary": "DABA - Integrate Staging WhatsApp Number",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": null,
+      "issuetype": "Task",
+      "created": "2026-07-28",
+      "updated": "2026-07-28",
+      "resolutiondate": "",
+      "labels": []
+    },
+    {
+      "key": "PS-6024",
+      "summary": "DABA - Migrate WhatsApp Number",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": null,
+      "issuetype": "Task",
+      "created": "2026-07-28",
+      "updated": "2026-07-28",
+      "resolutiondate": "",
+      "labels": []
+    },
+    {
+      "key": "PS-6023",
+      "summary": "DABA - Deploy bots (Staging & Production)",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Adrià Sastre",
+      "issuetype": "Task",
+      "created": "2026-07-28",
+      "updated": "2026-07-28",
+      "resolutiondate": "",
+      "labels": []
+    },
+    {
+      "key": "PS-6022",
+      "summary": "DABA - Create Organization",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Aitor Casas",
+      "issuetype": "Task",
+      "created": "2026-07-28",
+      "updated": "2026-07-28",
+      "resolutiondate": "",
+      "labels": []
+    },
+    {
+      "key": "PS-6021",
+      "summary": "Daba - 1st Phase Launch",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Julieta Mezza",
+      "issuetype": "Epic",
+      "created": "2026-07-28",
+      "updated": "2026-07-28",
+      "resolutiondate": "",
+      "labels": []
+    },
+    {
+      "key": "PS-6020",
+      "summary": "NetBerry - COFA - Zendesk access + Hubtype integration spike",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Adrià Sastre",
+      "issuetype": "Task",
+      "created": "2026-07-28",
+      "updated": "2026-07-28",
+      "resolutiondate": "",
+      "labels": [
+        "NetBerry_COFA"
+      ]
+    },
+    {
+      "key": "PS-6019",
+      "summary": "Ralph Lauren - update to latest version",
+      "status": "In Progress",
+      "status_category": "In Progress",
+      "assignee": "Lorena Sánchez-Toril Nicolás",
+      "issuetype": "Task",
+      "created": "2026-07-28",
+      "updated": "2026-07-28",
+      "resolutiondate": "",
+      "labels": [
+        "Ralph_Lauren"
+      ]
+    },
+    {
+      "key": "PS-6018",
+      "summary": "Air Europa - use FlowBuilderMultichannelAction instead Extended Plugin",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Alexander Skalatskiy",
+      "issuetype": "Task",
+      "created": "2026-07-28",
+      "updated": "2026-07-28",
+      "resolutiondate": "",
+      "labels": []
+    },
+    {
+      "key": "PS-6017",
+      "summary": "Libeen - Enviar al equipo Libeen las instrucciones para que manden templates outbound (extraparam con el email)",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Adrià Sastre",
+      "issuetype": "Task",
+      "created": "2026-07-28",
+      "updated": "2026-07-28",
+      "resolutiondate": "",
+      "labels": [
+        "Libeen"
+      ]
+    },
+    {
+      "key": "PS-6016",
+      "summary": "Internal - Update Bot Template to 0.54 packages",
+      "status": "Ready for review",
+      "status_category": "In Progress",
+      "assignee": "Lorena Sánchez-Toril Nicolás",
+      "issuetype": "Task",
+      "created": "2026-07-27",
+      "updated": "2026-07-28",
+      "resolutiondate": "",
+      "labels": [
+        "Internal"
+      ]
+    },
+    {
+      "key": "PS-6015",
+      "summary": "Internal - Update all internal packages to version 0.54",
+      "status": "Ready for review",
+      "status_category": "In Progress",
+      "assignee": "Lorena Sánchez-Toril Nicolás",
+      "issuetype": "Task",
+      "created": "2026-07-27",
+      "updated": "2026-07-28",
+      "resolutiondate": "",
+      "labels": [
+        "Internal"
+      ]
+    },
+    {
+      "key": "PS-6014",
+      "summary": "Retorna - Update Bot to 0.54 version",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Adrià Sastre",
+      "issuetype": "Task",
+      "created": "2026-07-27",
+      "updated": "2026-07-27",
+      "resolutiondate": "",
+      "labels": []
+    },
+    {
+      "key": "PS-6013",
+      "summary": "Consum - Borrar bot de staging (una vez trasladado el num de teléfono al nuevo bot)",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Adrià Sastre",
+      "issuetype": "Task",
+      "created": "2026-07-27",
+      "updated": "2026-07-28",
+      "resolutiondate": "",
+      "labels": [
+        "Consum"
+      ]
+    },
+    {
+      "key": "PS-6012",
+      "summary": "Consum - Desconectar número de test del antiguo bot de staging y pasarlo al nuevo bot de staging con Flowbuilder",
+      "status": "Done",
+      "status_category": "Done",
+      "assignee": "Aitor Casas",
+      "issuetype": "Task",
+      "created": "2026-07-27",
+      "updated": "2026-07-27",
+      "resolutiondate": "",
+      "labels": [
+        "Consum"
+      ]
+    },
+    {
+      "key": "PS-6011",
+      "summary": "Ralph Lauren - customer ID 11 characters",
+      "status": "Done",
+      "status_category": "Done",
+      "assignee": "Lorena Sánchez-Toril Nicolás",
+      "issuetype": "Task",
+      "created": "2026-07-27",
+      "updated": "2026-07-27",
+      "resolutiondate": "",
+      "labels": [
+        "Ralph_Lauren"
+      ]
+    },
+    {
+      "key": "PS-6010",
+      "summary": "Hubtype SDK - Add new attribute in Case",
+      "status": "Done",
+      "status_category": "Done",
+      "assignee": "Lorena Sánchez-Toril Nicolás",
+      "issuetype": "Task",
+      "created": "2026-07-27",
+      "updated": "2026-07-27",
+      "resolutiondate": "",
+      "labels": [
+        "Internal"
+      ]
+    },
+    {
+      "key": "PS-6009",
+      "summary": "Alsa - Update Bot to 0.52",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Alexander Skalatskiy",
+      "issuetype": "Task",
+      "created": "2026-07-27",
+      "updated": "2026-07-27",
+      "resolutiondate": "",
+      "labels": [
+        "Alsa"
+      ]
+    },
     {
       "key": "PS-6008",
       "summary": "Allianz - image size exceed text",
@@ -172,12 +420,12 @@
     {
       "key": "PS-5996",
       "summary": "RACC - Seguros Viaje - Add integration with RACC CRM",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Ready for review",
+      "status_category": "In Progress",
       "assignee": "Adrià Sastre",
       "issuetype": "Task",
       "created": "2026-07-27",
-      "updated": "2026-07-27",
+      "updated": "2026-07-28",
       "resolutiondate": "",
       "labels": [
         "RACC"
@@ -188,10 +436,10 @@
       "summary": "Internal learning - Multichannel",
       "status": "To Do",
       "status_category": "To Do",
-      "assignee": null,
+      "assignee": "Marco Gallego Ropero",
       "issuetype": "Task",
       "created": "2026-07-26",
-      "updated": "2026-07-26",
+      "updated": "2026-07-28",
       "resolutiondate": "",
       "labels": [
         "Internal"
@@ -200,12 +448,12 @@
     {
       "key": "PS-5994",
       "summary": "Internal learning - Custom messages",
-      "status": "To Do",
-      "status_category": "To Do",
-      "assignee": null,
+      "status": "In Progress",
+      "status_category": "In Progress",
+      "assignee": "Marco Gallego Ropero",
       "issuetype": "Task",
       "created": "2026-07-26",
-      "updated": "2026-07-26",
+      "updated": "2026-07-28",
       "resolutiondate": "",
       "labels": [
         "Internal"
@@ -214,12 +462,12 @@
     {
       "key": "PS-5993",
       "summary": "Internal learning - Plugins",
-      "status": "To Do",
-      "status_category": "To Do",
-      "assignee": null,
+      "status": "Ready for review",
+      "status_category": "In Progress",
+      "assignee": "Marco Gallego Ropero",
       "issuetype": "Task",
       "created": "2026-07-26",
-      "updated": "2026-07-27",
+      "updated": "2026-07-28",
       "resolutiondate": "",
       "labels": [
         "Internal"
@@ -228,8 +476,8 @@
     {
       "key": "PS-5992",
       "summary": "Internal learning - Actions + Routes improvements",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Ready for review",
+      "status_category": "In Progress",
       "assignee": "Marco Gallego Ropero",
       "issuetype": "Task",
       "created": "2026-07-26",
@@ -242,8 +490,8 @@
     {
       "key": "PS-5991",
       "summary": "Internal learning - Actions + Routes",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Ready for review",
+      "status_category": "In Progress",
       "assignee": "Marco Gallego Ropero",
       "issuetype": "Task",
       "created": "2026-07-26",
@@ -256,8 +504,8 @@
     {
       "key": "PS-5990",
       "summary": "Internal learning - Create the bot scaffold",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Ready for review",
+      "status_category": "In Progress",
       "assignee": "Marco Gallego Ropero",
       "issuetype": "Task",
       "created": "2026-07-26",
@@ -284,8 +532,8 @@
     {
       "key": "PS-5988",
       "summary": "Occident - Edit payload that informs user that it's case has been closed to differentiate by provider account id",
-      "status": "In Progress",
-      "status_category": "In Progress",
+      "status": "To Do",
+      "status_category": "To Do",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Bug",
       "created": "2026-07-24",
@@ -298,9 +546,9 @@
     {
       "key": "PS-5987",
       "summary": "NetBerry - COFA - Deploy bot for staging and production",
-      "status": "To Do",
-      "status_category": "To Do",
-      "assignee": "Alexander Skalatskiy",
+      "status": "In Progress",
+      "status_category": "In Progress",
+      "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-07-24",
       "updated": "2026-07-27",
@@ -382,12 +630,12 @@
     {
       "key": "PS-5981",
       "summary": "Ralph Lauren - increase to 6 products carousel",
-      "status": "Ready for review",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-07-23",
-      "updated": "2026-07-23",
+      "updated": "2026-07-27",
       "resolutiondate": "",
       "labels": [
         "Ralph_Lauren"
@@ -452,8 +700,8 @@
     {
       "key": "PS-5976",
       "summary": "Tendam - Middleware: use previous_attended_by as agent fallback",
-      "status": "Ready for review",
-      "status_category": "In Progress",
+      "status": "In production",
+      "status_category": "Done",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-07-22",
@@ -522,12 +770,12 @@
     {
       "key": "PS-5971",
       "summary": "RACC - Informar del impacto que tiene no recibir el teléfono en los flujos de Ahorro Energético",
-      "status": "In Progress",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Adrià Sastre",
       "issuetype": "Task",
       "created": "2026-07-22",
-      "updated": "2026-07-24",
+      "updated": "2026-07-27",
       "resolutiondate": "",
       "labels": [
         "RACC"
@@ -551,12 +799,12 @@
     {
       "key": "PS-5969",
       "summary": "TMB - Configure Automation to email TMB weekly reports",
-      "status": "Ready for review",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Francisca Martelli",
       "issuetype": "Task",
       "created": "2026-07-22",
-      "updated": "2026-07-24",
+      "updated": "2026-07-27",
       "resolutiondate": "",
       "labels": [
         "TMB"
@@ -649,12 +897,12 @@
     {
       "key": "PS-5962",
       "summary": "Libeen - Remove inactivity plugin",
-      "status": "Ready for review",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Alexander Skalatskiy",
       "issuetype": "Task",
       "created": "2026-07-21",
-      "updated": "2026-07-23",
+      "updated": "2026-07-28",
       "resolutiondate": "",
       "labels": [
         "Libeen"
@@ -693,10 +941,10 @@
       "summary": "TMB - Update Bot Version ",
       "status": "To Do",
       "status_category": "To Do",
-      "assignee": "Adrià Sastre",
+      "assignee": "Alexander Skalatskiy",
       "issuetype": "Task",
       "created": "2026-07-21",
-      "updated": "2026-07-21",
+      "updated": "2026-07-27",
       "resolutiondate": "",
       "labels": [
         "TMB"
@@ -957,12 +1205,12 @@
     {
       "key": "PS-5940",
       "summary": "Internal - Update Bot Template to 0.52 packages",
-      "status": "Ready for review",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Alexander Skalatskiy",
       "issuetype": "Task",
       "created": "2026-07-20",
-      "updated": "2026-07-23",
+      "updated": "2026-07-27",
       "resolutiondate": "",
       "labels": [
         "Internal"
@@ -971,12 +1219,12 @@
     {
       "key": "PS-5939",
       "summary": "Internal - Update all internal packages to version 0.52",
-      "status": "Ready for review",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Alexander Skalatskiy",
       "issuetype": "Task",
       "created": "2026-07-20",
-      "updated": "2026-07-23",
+      "updated": "2026-07-27",
       "resolutiondate": "",
       "labels": [
         "Internal"
@@ -1729,7 +1977,7 @@
       "summary": "Wizz Air - Offer direct handoff to a specific partner and prioritize its case",
       "status": "To Do",
       "status_category": "To Do",
-      "assignee": "Adrià Sastre",
+      "assignee": "Julieta Mezza",
       "issuetype": "Task",
       "created": "2026-07-09",
       "updated": "2026-07-27",
@@ -1769,12 +2017,12 @@
     {
       "key": "PS-5882",
       "summary": "Tendam - Migrate phone number from provider_id to username",
-      "status": "Ready for review",
-      "status_category": "In Progress",
+      "status": "APPROVED FOR PRODUCTION",
+      "status_category": "Done",
       "assignee": "Evgeni Slavyanov",
       "issuetype": "Task",
       "created": "2026-07-09",
-      "updated": "2026-07-14",
+      "updated": "2026-07-27",
       "resolutiondate": "",
       "labels": [
         "tendam"
@@ -1783,12 +2031,12 @@
     {
       "key": "PS-5881",
       "summary": "Air Europa - Migrate phone number from provider_id to username",
-      "status": "Ready for review",
-      "status_category": "In Progress",
+      "status": "APPROVED FOR PRODUCTION",
+      "status_category": "Done",
       "assignee": "Alexander Skalatskiy",
       "issuetype": "Task",
       "created": "2026-07-09",
-      "updated": "2026-07-14",
+      "updated": "2026-07-27",
       "resolutiondate": "",
       "labels": [
         "AirEuropa"
@@ -1802,7 +2050,7 @@
       "assignee": "Pep Alonso",
       "issuetype": "Task",
       "created": "2026-07-09",
-      "updated": "2026-07-27",
+      "updated": "2026-07-28",
       "resolutiondate": "",
       "labels": [
         "SegurCaixa"
@@ -1881,7 +2129,7 @@
     {
       "key": "PS-5874",
       "summary": "Libeen - Migrate phone number from provider_id to username",
-      "status": "APPROVED FOR PRODUCTION",
+      "status": "Done",
       "status_category": "Done",
       "assignee": "Alexander Skalatskiy",
       "issuetype": "Task",
@@ -2024,7 +2272,7 @@
       "assignee": "Alexander Skalatskiy",
       "issuetype": "Discovery Task",
       "created": "2026-07-09",
-      "updated": "2026-07-23",
+      "updated": "2026-07-27",
       "resolutiondate": "",
       "labels": [
         "AirEuropa"
@@ -2243,12 +2491,12 @@
     {
       "key": "PS-5847",
       "summary": "Libeen - Send Hubspot an indication that a client is not interested (campo uptail_status)",
-      "status": "Ready for review",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Alexander Skalatskiy",
       "issuetype": "Task",
       "created": "2026-07-07",
-      "updated": "2026-07-23",
+      "updated": "2026-07-28",
       "resolutiondate": "",
       "labels": [
         "Libeen"
@@ -2369,12 +2617,12 @@
     {
       "key": "PS-5838",
       "summary": "OptimVision - 1st Phase",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Wei Wu",
       "issuetype": "Epic",
       "created": "2026-07-06",
-      "updated": "2026-07-08",
+      "updated": "2026-07-27",
       "resolutiondate": "",
       "labels": [
         "OptimVision"
@@ -3563,12 +3811,12 @@
     {
       "key": "PS-5746",
       "summary": "Air Europa - New message for IDLE cases",
-      "status": "Ready for review",
+      "status": "In Progress",
       "status_category": "In Progress",
       "assignee": "Alexander Skalatskiy",
       "issuetype": "Task",
       "created": "2026-06-15",
-      "updated": "2026-07-27",
+      "updated": "2026-07-28",
       "resolutiondate": "",
       "labels": [
         "AirEuropa"
@@ -3647,12 +3895,12 @@
     {
       "key": "PS-5740",
       "summary": "IN-STORE ONBOARDING - FINAL VERSION",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Andrea Talal Haidar",
       "issuetype": "Discovery Task",
       "created": "2026-06-12",
-      "updated": "2026-06-12",
+      "updated": "2026-07-27",
       "resolutiondate": "",
       "labels": [
         "Ralph_Lauren"
@@ -3906,7 +4154,7 @@
       "assignee": "Evgeni Slavyanov",
       "issuetype": "Bug",
       "created": "2026-06-09",
-      "updated": "2026-06-26",
+      "updated": "2026-07-27",
       "resolutiondate": "",
       "labels": [
         "Bug",
