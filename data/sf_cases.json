@@ -1,6 +1,72 @@
 {
-  "last_updated": "2026-07-27 10:50 UTC",
+  "last_updated": "2026-07-28 09:47 UTC",
   "cases": [
+    {
+      "id": "500Sa00000xdfXnIAI",
+      "case_number": "00025184",
+      "subject": "Request for Support – Michael Kors Account Assignment",
+      "status": "Closed",
+      "priority": "Low",
+      "is_closed": true,
+      "is_escalated": false,
+      "owner": "Aitor Casas",
+      "account": "Michael Kors Group",
+      "origin": "Inbound",
+      "type": "Task",
+      "feeling": "",
+      "issue_type": "Users",
+      "channel": "Email",
+      "is_critical": "L4",
+      "escalated_team": "",
+      "resolution_time": "1. <6h",
+      "created": "2026-07-28",
+      "closed": "2026-07-28",
+      "last_modified": "2026-07-28"
+    },
+    {
+      "id": "500Sa00000xZyVhIAK",
+      "case_number": "00025183",
+      "subject": "nueva plantilla alarmas",
+      "status": "Closed",
+      "priority": "Low",
+      "is_closed": true,
+      "is_escalated": false,
+      "owner": "Aitor Casas",
+      "account": "RACC",
+      "origin": "Inbound",
+      "type": "Task",
+      "feeling": "",
+      "issue_type": "Plantillas",
+      "channel": "Email",
+      "is_critical": "L4",
+      "escalated_team": "",
+      "resolution_time": "3. 12-24h",
+      "created": "2026-07-27",
+      "closed": "2026-07-28",
+      "last_modified": "2026-07-28"
+    },
+    {
+      "id": "500Sa00000xaRFrIAM",
+      "case_number": "00025182",
+      "subject": "VENTAS7",
+      "status": "Closed",
+      "priority": "Low",
+      "is_closed": true,
+      "is_escalated": false,
+      "owner": "Aitor Casas",
+      "account": "Desguace EcoPiezas",
+      "origin": "Inbound",
+      "type": "Issue",
+      "feeling": "",
+      "issue_type": "Acceso",
+      "channel": "Email",
+      "is_critical": "L4",
+      "escalated_team": "",
+      "resolution_time": "1. <6h",
+      "created": "2026-07-27",
+      "closed": "2026-07-27",
+      "last_modified": "2026-07-27"
+    },
     {
       "id": "500Sa00000xZfUcIAK",
       "case_number": "00025181",
@@ -40,10 +106,10 @@
       "channel": "Email",
       "is_critical": "L4",
       "escalated_team": "Services",
-      "resolution_time": "1. <6h",
+      "resolution_time": "4. 24-36h",
       "created": "2026-07-27",
-      "closed": "2026-07-27",
-      "last_modified": "2026-07-27"
+      "closed": "2026-07-28",
+      "last_modified": "2026-07-28"
     },
     {
       "id": "500Sa00000xYqGlIAK",
@@ -370,10 +436,10 @@
       "channel": "Email",
       "is_critical": "L4",
       "escalated_team": "",
-      "resolution_time": "3. 12-24h",
+      "resolution_time": "5. >36h",
       "created": "2026-07-22",
-      "closed": "2026-07-23",
-      "last_modified": "2026-07-23"
+      "closed": "2026-07-27",
+      "last_modified": "2026-07-27"
     },
     {
       "id": "500Sa00000xG4SLIA0",
@@ -423,9 +489,9 @@
       "id": "500Sa00000xFhXQIA0",
       "case_number": "00025159",
       "subject": "Verisure France -- Auto idle message to deactivate",
-      "status": "Closed",
+      "status": "Open",
       "priority": "Low",
-      "is_closed": true,
+      "is_closed": false,
       "is_escalated": false,
       "owner": "Aitor Casas",
       "account": "Verisure France",
@@ -436,9 +502,9 @@
       "channel": "Email",
       "is_critical": "L4",
       "escalated_team": "Services",
-      "resolution_time": "5. >36h",
+      "resolution_time": "",
       "created": "2026-07-22",
-      "closed": "2026-07-27",
+      "closed": "",
       "last_modified": "2026-07-27"
     },
     {
@@ -570,8 +636,8 @@
       "escalated_team": "",
       "resolution_time": "5. >36h",
       "created": "2026-07-21",
-      "closed": "2026-07-24",
-      "last_modified": "2026-07-24"
+      "closed": "2026-07-27",
+      "last_modified": "2026-07-27"
     },
     {
       "id": "500Sa00000x9rBJIAY",
@@ -680,8 +746,8 @@
       "escalated_team": "",
       "resolution_time": "5. >36h",
       "created": "2026-07-20",
-      "closed": "2026-07-27",
-      "last_modified": "2026-07-27"
+      "closed": "2026-07-28",
+      "last_modified": "2026-07-28"
     },
     {
       "id": "500Sa00000x2yivIAA",
@@ -702,8 +768,8 @@
       "escalated_team": "",
       "resolution_time": "5. >36h",
       "created": "2026-07-20",
-      "closed": "2026-07-24",
-      "last_modified": "2026-07-24"
+      "closed": "2026-07-28",
+      "last_modified": "2026-07-28"
     },
     {
       "id": "500Sa00000x2Ew9IAE",
@@ -922,8 +988,8 @@
       "escalated_team": "",
       "resolution_time": "5. >36h",
       "created": "2026-07-15",
-      "closed": "2026-07-20",
-      "last_modified": "2026-07-20"
+      "closed": "2026-07-28",
+      "last_modified": "2026-07-28"
     },
     {
       "id": "500Sa00000wiohFIAQ",
