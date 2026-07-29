@@ -1,6 +1,48 @@
 {
-  "last_updated": "2026-07-28 09:34 UTC",
+  "last_updated": "2026-07-29 09:35 UTC",
   "tickets": [
+    {
+      "key": "PS-6030",
+      "summary": "Libeen - Outbound WhatsApp Templates behaviour",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": null,
+      "issuetype": "Task",
+      "created": "2026-07-29",
+      "updated": "2026-07-29",
+      "resolutiondate": "",
+      "labels": [
+        "Libeen"
+      ]
+    },
+    {
+      "key": "PS-6029",
+      "summary": "Racc - Viaje - Incluir Product ID en Conv. Info. Field",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Adrià Sastre",
+      "issuetype": "Task",
+      "created": "2026-07-29",
+      "updated": "2026-07-29",
+      "resolutiondate": "",
+      "labels": [
+        "RACC"
+      ]
+    },
+    {
+      "key": "PS-6028",
+      "summary": "Women's Secret - Revisar cómo el AI Agent ofrece Handoff (quizá ir a opcion de botton y que te lleve al content id de handoff)",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": null,
+      "issuetype": "Bug",
+      "created": "2026-07-28",
+      "updated": "2026-07-28",
+      "resolutiondate": "",
+      "labels": [
+        "tendam"
+      ]
+    },
     {
       "key": "PS-6027",
       "summary": "DABA - Connect and configure AI Agent (KB)",
@@ -11,7 +53,9 @@
       "created": "2026-07-28",
       "updated": "2026-07-28",
       "resolutiondate": "",
-      "labels": []
+      "labels": [
+        "DABA"
+      ]
     },
     {
       "key": "PS-6026",
@@ -23,7 +67,9 @@
       "created": "2026-07-28",
       "updated": "2026-07-28",
       "resolutiondate": "",
-      "labels": []
+      "labels": [
+        "DABA"
+      ]
     },
     {
       "key": "PS-6025",
@@ -35,7 +81,9 @@
       "created": "2026-07-28",
       "updated": "2026-07-28",
       "resolutiondate": "",
-      "labels": []
+      "labels": [
+        "DABA"
+      ]
     },
     {
       "key": "PS-6024",
@@ -47,31 +95,37 @@
       "created": "2026-07-28",
       "updated": "2026-07-28",
       "resolutiondate": "",
-      "labels": []
+      "labels": [
+        "DABA"
+      ]
     },
     {
       "key": "PS-6023",
       "summary": "DABA - Deploy bots (Staging & Production)",
       "status": "To Do",
       "status_category": "To Do",
-      "assignee": "Adrià Sastre",
+      "assignee": "Alexander Skalatskiy",
       "issuetype": "Task",
       "created": "2026-07-28",
       "updated": "2026-07-28",
       "resolutiondate": "",
-      "labels": []
+      "labels": [
+        "DABA"
+      ]
     },
     {
       "key": "PS-6022",
       "summary": "DABA - Create Organization",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Aitor Casas",
       "issuetype": "Task",
       "created": "2026-07-28",
       "updated": "2026-07-28",
       "resolutiondate": "",
-      "labels": []
+      "labels": [
+        "DABA"
+      ]
     },
     {
       "key": "PS-6021",
@@ -83,7 +137,9 @@
       "created": "2026-07-28",
       "updated": "2026-07-28",
       "resolutiondate": "",
-      "labels": []
+      "labels": [
+        "DABA"
+      ]
     },
     {
       "key": "PS-6020",
@@ -102,8 +158,8 @@
     {
       "key": "PS-6019",
       "summary": "Ralph Lauren - update to latest version",
-      "status": "In Progress",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-07-28",
@@ -123,13 +179,15 @@
       "created": "2026-07-28",
       "updated": "2026-07-28",
       "resolutiondate": "",
-      "labels": []
+      "labels": [
+        "AirEuropa"
+      ]
     },
     {
       "key": "PS-6017",
       "summary": "Libeen - Enviar al equipo Libeen las instrucciones para que manden templates outbound (extraparam con el email)",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "In Progress",
+      "status_category": "In Progress",
       "assignee": "Adrià Sastre",
       "issuetype": "Task",
       "created": "2026-07-28",
@@ -182,12 +240,12 @@
     {
       "key": "PS-6013",
       "summary": "Consum - Borrar bot de staging (una vez trasladado el num de teléfono al nuevo bot)",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Adrià Sastre",
       "issuetype": "Task",
       "created": "2026-07-27",
-      "updated": "2026-07-28",
+      "updated": "2026-07-29",
       "resolutiondate": "",
       "labels": [
         "Consum"
@@ -252,12 +310,12 @@
     {
       "key": "PS-6008",
       "summary": "Allianz - image size exceed text",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "In production",
+      "status_category": "Done",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-07-27",
-      "updated": "2026-07-27",
+      "updated": "2026-07-28",
       "resolutiondate": "",
       "labels": [
         "Allianz-ES"
@@ -266,12 +324,12 @@
     {
       "key": "PS-6007",
       "summary": "Wizz Air - Add rating responses as case info fields",
-      "status": "To Do",
+      "status": "Open",
       "status_category": "To Do",
-      "assignee": "Adrià Sastre",
+      "assignee": "Julieta Mezza",
       "issuetype": "Task",
       "created": "2026-07-27",
-      "updated": "2026-07-27",
+      "updated": "2026-07-28",
       "resolutiondate": "",
       "labels": [
         "WizzAir"
@@ -280,12 +338,12 @@
     {
       "key": "PS-6006",
       "summary": "Allianz - error sending webview customer defense in prod",
-      "status": "Ready for review",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-07-27",
-      "updated": "2026-07-27",
+      "updated": "2026-07-28",
       "resolutiondate": "",
       "labels": [
         "Allianz-ES"
@@ -434,12 +492,12 @@
     {
       "key": "PS-5995",
       "summary": "Internal learning - Multichannel",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "In Progress",
+      "status_category": "In Progress",
       "assignee": "Marco Gallego Ropero",
       "issuetype": "Task",
       "created": "2026-07-26",
-      "updated": "2026-07-28",
+      "updated": "2026-07-29",
       "resolutiondate": "",
       "labels": [
         "Internal"
@@ -532,12 +590,12 @@
     {
       "key": "PS-5988",
       "summary": "Occident - Edit payload that informs user that it's case has been closed to differentiate by provider account id",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Ready for review",
+      "status_category": "In Progress",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Bug",
       "created": "2026-07-24",
-      "updated": "2026-07-27",
+      "updated": "2026-07-29",
       "resolutiondate": "",
       "labels": [
         "Occident"
@@ -546,12 +604,12 @@
     {
       "key": "PS-5987",
       "summary": "NetBerry - COFA - Deploy bot for staging and production",
-      "status": "In Progress",
+      "status": "Ready for review",
       "status_category": "In Progress",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-07-24",
-      "updated": "2026-07-27",
+      "updated": "2026-07-28",
       "resolutiondate": "",
       "labels": [
         "NetBerry_COFA"
@@ -733,7 +791,7 @@
       "assignee": "Adrià Sastre",
       "issuetype": "Task",
       "created": "2026-07-22",
-      "updated": "2026-07-27",
+      "updated": "2026-07-28",
       "resolutiondate": "",
       "labels": [
         "Occident"
@@ -1555,12 +1613,12 @@
     {
       "key": "PS-5915",
       "summary": "Segur Caixa - Enviar Mails a les Clíniques Dentals",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Ready for review",
+      "status_category": "In Progress",
       "assignee": "Adrià Sastre",
       "issuetype": "Discovery Task",
       "created": "2026-07-16",
-      "updated": "2026-07-20",
+      "updated": "2026-07-29",
       "resolutiondate": "",
       "labels": [
         "SegurCaixa"
@@ -1714,7 +1772,7 @@
       "assignee": "irene callejas",
       "issuetype": "Task",
       "created": "2026-07-10",
-      "updated": "2026-07-22",
+      "updated": "2026-07-29",
       "resolutiondate": "",
       "labels": [
         "Michael-Kors"
@@ -1751,12 +1809,12 @@
     {
       "key": "PS-5901",
       "summary": "Wizz Air - Update bot to automatic language detection and new conditional",
-      "status": "To Do",
-      "status_category": "To Do",
-      "assignee": "Adrià Sastre",
+      "status": "In Progress",
+      "status_category": "In Progress",
+      "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-07-10",
-      "updated": "2026-07-27",
+      "updated": "2026-07-29",
       "resolutiondate": "",
       "labels": [
         "WizzAir"
@@ -1919,12 +1977,12 @@
     {
       "key": "PS-5889",
       "summary": "Guess - Migrate phone number from provider_id to username",
-      "status": "Ready for review",
-      "status_category": "In Progress",
+      "status": "APPROVED FOR PRODUCTION",
+      "status_category": "Done",
       "assignee": "Evgeni Slavyanov",
       "issuetype": "Task",
       "created": "2026-07-09",
-      "updated": "2026-07-13",
+      "updated": "2026-07-28",
       "resolutiondate": "",
       "labels": [
         "Guess"
@@ -1947,12 +2005,12 @@
     {
       "key": "PS-5887",
       "summary": "Allianz ES - Migrate phone number from provider_id to username",
-      "status": "Ready for review",
-      "status_category": "In Progress",
+      "status": "In production",
+      "status_category": "Done",
       "assignee": "Pep Alonso",
       "issuetype": "Task",
       "created": "2026-07-09",
-      "updated": "2026-07-20",
+      "updated": "2026-07-28",
       "resolutiondate": "",
       "labels": [
         "Allianz-ES"
@@ -1961,12 +2019,12 @@
     {
       "key": "PS-5886",
       "summary": "Allianz OSN - Migrate phone number from provider_id to username",
-      "status": "Ready for review",
-      "status_category": "In Progress",
+      "status": "APPROVED FOR PRODUCTION",
+      "status_category": "Done",
       "assignee": "Pep Alonso",
       "issuetype": "Task",
       "created": "2026-07-09",
-      "updated": "2026-07-20",
+      "updated": "2026-07-28",
       "resolutiondate": "",
       "labels": [
         "Allianz-OSN"
@@ -2003,12 +2061,12 @@
     {
       "key": "PS-5883",
       "summary": "Verisure Italy - Migrate phone number from provider_id to username",
-      "status": "Ready for review",
-      "status_category": "In Progress",
+      "status": "APPROVED FOR PRODUCTION",
+      "status_category": "Done",
       "assignee": "Evgeni Slavyanov",
       "issuetype": "Task",
       "created": "2026-07-09",
-      "updated": "2026-07-14",
+      "updated": "2026-07-28",
       "resolutiondate": "",
       "labels": [
         "Verisure_IT"
@@ -2031,12 +2089,12 @@
     {
       "key": "PS-5881",
       "summary": "Air Europa - Migrate phone number from provider_id to username",
-      "status": "APPROVED FOR PRODUCTION",
+      "status": "In production",
       "status_category": "Done",
       "assignee": "Alexander Skalatskiy",
       "issuetype": "Task",
       "created": "2026-07-09",
-      "updated": "2026-07-27",
+      "updated": "2026-07-28",
       "resolutiondate": "",
       "labels": [
         "AirEuropa"
@@ -2162,7 +2220,7 @@
       "assignee": "Pep Alonso",
       "issuetype": "Task",
       "created": "2026-07-09",
-      "updated": "2026-07-23",
+      "updated": "2026-07-28",
       "resolutiondate": "",
       "labels": [
         "occident"
@@ -2323,12 +2381,12 @@
     {
       "key": "PS-5860",
       "summary": "Michael Kors - WhatsAppDefaultLanguagePlugin overrides language detection - bot responds in Spanish to English-speaking users",
-      "status": "Ready for review",
-      "status_category": "In Progress",
+      "status": "In production",
+      "status_category": "Done",
       "assignee": "Alexander Skalatskiy",
       "issuetype": "Bug",
       "created": "2026-07-08",
-      "updated": "2026-07-09",
+      "updated": "2026-07-28",
       "resolutiondate": "",
       "labels": [
         "Michael-Kors"
