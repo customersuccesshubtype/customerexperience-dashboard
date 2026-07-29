@@ -1,6 +1,40 @@
 {
-  "last_updated": "2026-07-28 09:47 UTC",
+  "last_updated": "2026-07-29 09:49 UTC",
   "opportunities": [
+    {
+      "id": "006Sa00000l1LowIAE",
+      "name": "2026-U-Daba-B2B-WhatsApp/Webchat Automation",
+      "type": "Upsell",
+      "stage": "Opportunity identified",
+      "is_closed": false,
+      "is_won": false,
+      "probability": 10.0,
+      "amount": null,
+      "arr": 0.0,
+      "owner": "Marc Caballe",
+      "cs_lead": "",
+      "account": "DABA (Nespresso)",
+      "created": "2026-07-29",
+      "close_date": "2026-11-30",
+      "start_date": ""
+    },
+    {
+      "id": "006Sa00000l1KePIAU",
+      "name": "2026-U-Ralph Lauren-UK-Clienteling",
+      "type": "Upsell",
+      "stage": "Opportunity identified",
+      "is_closed": false,
+      "is_won": false,
+      "probability": 10.0,
+      "amount": 15000.0,
+      "arr": 0.0,
+      "owner": "Marc Caballe",
+      "cs_lead": "",
+      "account": "Ralph Lauren UK",
+      "created": "2026-07-29",
+      "close_date": "2026-09-30",
+      "start_date": "2026-05-20"
+    },
     {
       "id": "006Sa00000kvV7qIAE",
       "name": "2027-R-daba (Nespresso)-Spain",
@@ -68,23 +102,6 @@
       "created": "2026-07-27",
       "close_date": "2026-08-03",
       "start_date": "2026-08-03"
-    },
-    {
-      "id": "006Sa00000kbFTsIAM",
-      "name": "2026-U-Ralph Lauren-UK-POC Clienteling",
-      "type": "Upsell",
-      "stage": "Opportunity identified",
-      "is_closed": false,
-      "is_won": false,
-      "probability": 10.0,
-      "amount": 3500.0,
-      "arr": 0.0,
-      "owner": "Marc Caballe",
-      "cs_lead": "",
-      "account": "Ralph Lauren UK",
-      "created": "2026-07-22",
-      "close_date": "2026-05-21",
-      "start_date": "2026-05-20"
     },
     {
       "id": "006Sa00000kKK8BIAW",
@@ -848,8 +865,8 @@
       "cs_lead": "Marta Marron",
       "account": "Allianz Partners",
       "created": "2026-04-26",
-      "close_date": "2025-08-26",
-      "start_date": "2026-08-01"
+      "close_date": "2026-10-26",
+      "start_date": "2026-10-01"
     },
     {
       "id": "006Sa00000egHwgIAE",
@@ -2586,23 +2603,6 @@
       "start_date": "2025-10-01"
     },
     {
-      "id": "006Sa00000Rulw0IAB",
-      "name": "2025-U-Verisure(IT)-Lead Gen(Wa)-Extra MAUs May 2026",
-      "type": "Upsell",
-      "stage": "Opportunity identified",
-      "is_closed": false,
-      "is_won": false,
-      "probability": 10.0,
-      "amount": 956.81,
-      "arr": 0.0,
-      "owner": "Marta Marron",
-      "cs_lead": "Marta Marron",
-      "account": "Verisure Italy",
-      "created": "2025-09-23",
-      "close_date": "2025-12-27",
-      "start_date": "2026-06-01"
-    },
-    {
       "id": "006Sa00000RdzH9IAJ",
       "name": "2026-U-AirEuropa-New Language-Euskera",
       "type": "Upsell",
@@ -3103,8 +3103,8 @@
       "is_closed": false,
       "is_won": false,
       "probability": 10.0,
-      "amount": 40932.0,
-      "arr": 40932.0,
+      "amount": 42960.0,
+      "arr": 42960.0,
       "owner": "Marta Marron",
       "cs_lead": "Marta Marron",
       "account": "RACC",
