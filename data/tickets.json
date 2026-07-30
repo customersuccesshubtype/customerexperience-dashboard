@@ -1,6 +1,166 @@
 {
-  "last_updated": "2026-07-29 09:35 UTC",
+  "last_updated": "2026-07-30 09:28 UTC",
   "tickets": [
+    {
+      "key": "PS-6042",
+      "summary": "Concentra - incorporar nueva url para CMB",
+      "status": "Done",
+      "status_category": "Done",
+      "assignee": "Lorena Sánchez-Toril Nicolás",
+      "issuetype": "Task",
+      "created": "2026-07-30",
+      "updated": "2026-07-30",
+      "resolutiondate": "",
+      "labels": [
+        "Concentra"
+      ]
+    },
+    {
+      "key": "PS-6041",
+      "summary": "ALSA - transición a GPT  Luna",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "irene callejas",
+      "issuetype": "Task",
+      "created": "2026-07-30",
+      "updated": "2026-07-30",
+      "resolutiondate": "",
+      "labels": [
+        "Alsa"
+      ]
+    },
+    {
+      "key": "PS-6040",
+      "summary": "Wizz Air - Remove automatic transfer of cases to Teleperformance queue",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Alexander Skalatskiy",
+      "issuetype": "Task",
+      "created": "2026-07-30",
+      "updated": "2026-07-30",
+      "resolutiondate": "",
+      "labels": [
+        "WizzAir"
+      ]
+    },
+    {
+      "key": "PS-6039",
+      "summary": "FINALIZE OKRS - APPLIED AI TEAM ",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Andrea Talal Haidar",
+      "issuetype": "Discovery Task",
+      "created": "2026-07-30",
+      "updated": "2026-07-30",
+      "resolutiondate": "",
+      "labels": []
+    },
+    {
+      "key": "PS-6038",
+      "summary": "CREATE SKILL - VIBE MIRO BOARD CREATION",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Andrea Talal Haidar",
+      "issuetype": "Discovery Task",
+      "created": "2026-07-30",
+      "updated": "2026-07-30",
+      "resolutiondate": "",
+      "labels": []
+    },
+    {
+      "key": "PS-6037",
+      "summary": "HUBTYPE - PRE QUALIFICATION LEAD FLOW ",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Andrea Talal Haidar",
+      "issuetype": "Discovery Task",
+      "created": "2026-07-30",
+      "updated": "2026-07-30",
+      "resolutiondate": "",
+      "labels": []
+    },
+    {
+      "key": "PS-6036",
+      "summary": "UPDATE SALES & MARKETING MATERIAL + PROPOSE NEW TEXT ",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Andrea Talal Haidar",
+      "issuetype": "Task",
+      "created": "2026-07-30",
+      "updated": "2026-07-30",
+      "resolutiondate": "",
+      "labels": []
+    },
+    {
+      "key": "PS-6035",
+      "summary": "Alsa - Petición ajuste Mascotas",
+      "status": "Ready for review",
+      "status_category": "In Progress",
+      "assignee": "irene callejas",
+      "issuetype": "Task",
+      "created": "2026-07-29",
+      "updated": "2026-07-30",
+      "resolutiondate": "",
+      "labels": [
+        "Alsa"
+      ]
+    },
+    {
+      "key": "PS-6034",
+      "summary": "RACC Travel - Apply New feedback",
+      "status": "In Progress",
+      "status_category": "In Progress",
+      "assignee": "irene callejas",
+      "issuetype": "Task",
+      "created": "2026-07-29",
+      "updated": "2026-07-30",
+      "resolutiondate": "",
+      "labels": [
+        "RACC"
+      ]
+    },
+    {
+      "key": "PS-6033",
+      "summary": "MichaelKors - Apply new feedback",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "irene callejas",
+      "issuetype": "Task",
+      "created": "2026-07-29",
+      "updated": "2026-07-29",
+      "resolutiondate": "",
+      "labels": [
+        "Michael-Kors"
+      ]
+    },
+    {
+      "key": "PS-6032",
+      "summary": "MK WISMO order tracking: fixes from UAT",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Adrià Sastre",
+      "issuetype": "Task",
+      "created": "2026-07-29",
+      "updated": "2026-07-29",
+      "resolutiondate": "",
+      "labels": [
+        "Michael-Kors"
+      ]
+    },
+    {
+      "key": "PS-6031",
+      "summary": "Internal learning - Refactor actions + routes",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Marco Gallego Ropero",
+      "issuetype": "Task",
+      "created": "2026-07-29",
+      "updated": "2026-07-29",
+      "resolutiondate": "",
+      "labels": [
+        "Internal"
+      ]
+    },
     {
       "key": "PS-6030",
       "summary": "Libeen - Outbound WhatsApp Templates behaviour",
@@ -18,12 +178,12 @@
     {
       "key": "PS-6029",
       "summary": "Racc - Viaje - Incluir Product ID en Conv. Info. Field",
-      "status": "To Do",
-      "status_category": "To Do",
-      "assignee": "Adrià Sastre",
+      "status": "In Progress",
+      "status_category": "In Progress",
+      "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-07-29",
-      "updated": "2026-07-29",
+      "updated": "2026-07-30",
       "resolutiondate": "",
       "labels": [
         "RACC"
@@ -295,13 +455,13 @@
     },
     {
       "key": "PS-6009",
-      "summary": "Alsa - Update Bot to 0.52",
+      "summary": "Alsa - Update Bot to 0.54",
       "status": "To Do",
       "status_category": "To Do",
       "assignee": "Alexander Skalatskiy",
       "issuetype": "Task",
       "created": "2026-07-27",
-      "updated": "2026-07-27",
+      "updated": "2026-07-30",
       "resolutiondate": "",
       "labels": [
         "Alsa"
@@ -590,8 +750,8 @@
     {
       "key": "PS-5988",
       "summary": "Occident - Edit payload that informs user that it's case has been closed to differentiate by provider account id",
-      "status": "Ready for review",
-      "status_category": "In Progress",
+      "status": "APPROVED FOR PRODUCTION",
+      "status_category": "Done",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Bug",
       "created": "2026-07-24",
@@ -674,12 +834,12 @@
     {
       "key": "PS-5982",
       "summary": "Racc viaje - Añadir feedback  de patricia a frases  tipo",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Ready for review",
+      "status_category": "In Progress",
       "assignee": "irene callejas",
       "issuetype": "Task",
       "created": "2026-07-23",
-      "updated": "2026-07-23",
+      "updated": "2026-07-29",
       "resolutiondate": "",
       "labels": [
         "RACC"
@@ -1237,10 +1397,10 @@
       "summary": "Guess - Design \"Defective Items\" Flow",
       "status": "To Do",
       "status_category": "To Do",
-      "assignee": "Andrea Talal Haidar",
+      "assignee": "Vicky Correbo",
       "issuetype": "Task",
       "created": "2026-07-20",
-      "updated": "2026-07-20",
+      "updated": "2026-07-30",
       "resolutiondate": "",
       "labels": [
         "Guess"
@@ -1361,12 +1521,12 @@
     {
       "key": "PS-5933",
       "summary": "RibéSalat- Create bots (staging y prod)",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-07-20",
-      "updated": "2026-07-27",
+      "updated": "2026-07-29",
       "resolutiondate": "",
       "labels": [
         "RibesSalat"
@@ -1543,12 +1703,12 @@
     {
       "key": "PS-5920",
       "summary": "Ralph Lauren - division from boy to MW in feedback test",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Ready for review",
+      "status_category": "In Progress",
       "assignee": "irene callejas",
       "issuetype": "Task",
       "created": "2026-07-17",
-      "updated": "2026-07-17",
+      "updated": "2026-07-29",
       "resolutiondate": "",
       "labels": [
         "Ralph_Lauren"
@@ -1808,9 +1968,9 @@
     },
     {
       "key": "PS-5901",
-      "summary": "Wizz Air - Update bot to automatic language detection and new conditional",
-      "status": "In Progress",
-      "status_category": "In Progress",
+      "summary": "Wizz Air - Update bot to audio transcript and new conditional",
+      "status": "APPROVED FOR PRODUCTION",
+      "status_category": "Done",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-07-10",
@@ -2955,12 +3115,12 @@
     {
       "key": "PS-5816",
       "summary": "Michael Kors - Warranty Flow - Review if it can be improved",
-      "status": "Ready for review",
+      "status": "In Review",
       "status_category": "In Progress",
       "assignee": "Vicky Correbo",
       "issuetype": "Task",
       "created": "2026-06-29",
-      "updated": "2026-07-13",
+      "updated": "2026-07-29",
       "resolutiondate": "",
       "labels": [
         "Michael-Kors"
@@ -3677,12 +3837,12 @@
     {
       "key": "PS-5760",
       "summary": "Finalize AI Agent delivery proposal --> include Juan's latest feedback",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Closed",
+      "status_category": "Done",
       "assignee": "Andrea Talal Haidar",
       "issuetype": "Discovery Task",
       "created": "2026-06-16",
-      "updated": "2026-06-16",
+      "updated": "2026-07-30",
       "resolutiondate": "",
       "labels": []
     },
@@ -3869,12 +4029,12 @@
     {
       "key": "PS-5746",
       "summary": "Air Europa - New message for IDLE cases",
-      "status": "In Progress",
+      "status": "Ready for review",
       "status_category": "In Progress",
       "assignee": "Alexander Skalatskiy",
       "issuetype": "Task",
       "created": "2026-06-15",
-      "updated": "2026-07-28",
+      "updated": "2026-07-29",
       "resolutiondate": "",
       "labels": [
         "AirEuropa"
@@ -6204,12 +6364,12 @@
     {
       "key": "PS-5579",
       "summary": "Fenie Energia - SFDC Integration OnResolve",
-      "status": "In Progress",
+      "status": "Ready for review",
       "status_category": "In Progress",
       "assignee": "Adrià Sastre",
       "issuetype": "Task",
       "created": "2026-05-18",
-      "updated": "2026-06-08",
+      "updated": "2026-07-30",
       "resolutiondate": "",
       "labels": [
         "Fenie_Energia"
@@ -7934,10 +8094,10 @@
       "summary": "Air Europa - Apply design changes (1)",
       "status": "Ready to Deliver",
       "status_category": "In Progress",
-      "assignee": "Evgeni Slavyanov",
+      "assignee": "Alexander Skalatskiy",
       "issuetype": "Task",
       "created": "2026-04-27",
-      "updated": "2026-07-08",
+      "updated": "2026-07-29",
       "resolutiondate": "",
       "labels": [
         "AirEuropa"
@@ -14747,7 +14907,7 @@
       "assignee": "Pep Alonso",
       "issuetype": "Epic",
       "created": "2026-01-30",
-      "updated": "2026-07-21",
+      "updated": "2026-07-29",
       "resolutiondate": "",
       "labels": [
         "JetSmart"
@@ -27289,7 +27449,7 @@
       "assignee": "Jonatan Rojas",
       "issuetype": "Epic",
       "created": "2025-04-25",
-      "updated": "2026-01-30",
+      "updated": "2026-07-29",
       "resolutiondate": "",
       "labels": [
         "JetSmart"
