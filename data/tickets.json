@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-01 09:03 UTC",
+  "last_updated": "2026-08-02 09:06 UTC",
   "tickets": [
     {
       "key": "PS-6059",
@@ -163,9 +163,11 @@
       "assignee": "Andrea Talal Haidar",
       "issuetype": "Discovery Task",
       "created": "2026-07-30",
-      "updated": "2026-07-30",
+      "updated": "2026-08-01",
       "resolutiondate": "",
-      "labels": []
+      "labels": [
+        "Ralph_Lauren"
+      ]
     },
     {
       "key": "PS-6047",
@@ -637,9 +639,11 @@
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-07-27",
-      "updated": "2026-07-31",
+      "updated": "2026-08-01",
       "resolutiondate": "",
-      "labels": []
+      "labels": [
+        "Retorna"
+      ]
     },
     {
       "key": "PS-6013",
