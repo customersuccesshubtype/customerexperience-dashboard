@@ -1,6 +1,62 @@
 {
-  "last_updated": "2026-08-04 09:36 UTC",
+  "last_updated": "2026-08-05 09:34 UTC",
   "tickets": [
+    {
+      "key": "PS-6074",
+      "summary": "Michael Kors - Remove tracking URL for returned items",
+      "status": "In Progress",
+      "status_category": "In Progress",
+      "assignee": null,
+      "issuetype": "Task",
+      "created": "2026-08-05",
+      "updated": "2026-08-05",
+      "resolutiondate": "",
+      "labels": [
+        "Michael-Kors"
+      ]
+    },
+    {
+      "key": "PS-6073",
+      "summary": "RACC - Check connectivity with AiAlma AI Agent",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Adrià Sastre",
+      "issuetype": "Discovery Task",
+      "created": "2026-08-04",
+      "updated": "2026-08-04",
+      "resolutiondate": "",
+      "labels": [
+        "RACC"
+      ]
+    },
+    {
+      "key": "PS-6072",
+      "summary": "Air Europa - Download json flow builder (ES), copiar URLs y copiarlas en la versión en gallego",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Aitor Casas",
+      "issuetype": "Task",
+      "created": "2026-08-04",
+      "updated": "2026-08-04",
+      "resolutiondate": "",
+      "labels": [
+        "AirEuropa"
+      ]
+    },
+    {
+      "key": "PS-6071",
+      "summary": "Michael Kors - Display \"talk to agent\" message to all cancelled items",
+      "status": "Ready for review",
+      "status_category": "In Progress",
+      "assignee": "Lorena Sánchez-Toril Nicolás",
+      "issuetype": "Task",
+      "created": "2026-08-04",
+      "updated": "2026-08-05",
+      "resolutiondate": "",
+      "labels": [
+        "Michael-Kors"
+      ]
+    },
     {
       "key": "PS-6070",
       "summary": "Occident - Edit the reopen message for it to be send within the first week after the case was closed",
@@ -18,7 +74,7 @@
     {
       "key": "PS-6069",
       "summary": "Allianz OSN - Fix bug in access control",
-      "status": "In production",
+      "status": "Done",
       "status_category": "Done",
       "assignee": "Adrià Sastre",
       "issuetype": "Bug",
@@ -32,12 +88,12 @@
     {
       "key": "PS-6068",
       "summary": "Air Europa - Changes in the way we are communicating language to AVA",
-      "status": "To Do",
-      "status_category": "To Do",
-      "assignee": "Adrià Sastre",
+      "status": "Ready for review",
+      "status_category": "In Progress",
+      "assignee": "Marco Gallego Ropero",
       "issuetype": "Bug",
       "created": "2026-08-03",
-      "updated": "2026-08-03",
+      "updated": "2026-08-05",
       "resolutiondate": "",
       "labels": [
         "AirEuropa"
@@ -51,7 +107,7 @@
       "assignee": "Adrià Sastre",
       "issuetype": "Task",
       "created": "2026-08-03",
-      "updated": "2026-08-03",
+      "updated": "2026-08-04",
       "resolutiondate": "",
       "labels": [
         "AirEuropa"
@@ -74,7 +130,7 @@
     {
       "key": "PS-6065",
       "summary": "Segur Caixa - Implement Enviar Mails a les Clíniques Dentals",
-      "status": "In Progress",
+      "status": "Ready for review",
       "status_category": "In Progress",
       "assignee": "Adrià Sastre",
       "issuetype": "Task",
@@ -156,12 +212,12 @@
     {
       "key": "PS-6059",
       "summary": "Allianz ES - Quote&Buy - Test API connectivity",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Adrià Sastre",
-      "issuetype": "Task",
+      "issuetype": "Discovery Task",
       "created": "2026-07-31",
-      "updated": "2026-08-03",
+      "updated": "2026-08-05",
       "resolutiondate": "",
       "labels": [
         "Allianz"
@@ -911,13 +967,13 @@
     },
     {
       "key": "PS-6005",
-      "summary": "Update Dash & Stars bot version",
+      "summary": "Tendam - Update Dash & Stars bot version",
       "status": "To Do",
       "status_category": "To Do",
       "assignee": null,
       "issuetype": "Task",
       "created": "2026-07-27",
-      "updated": "2026-07-27",
+      "updated": "2026-08-04",
       "resolutiondate": "",
       "labels": [
         "Tendam"
@@ -925,13 +981,13 @@
     },
     {
       "key": "PS-6004",
-      "summary": "Update SlowLove bot version",
+      "summary": "Tendam - Update SlowLove bot version",
       "status": "To Do",
       "status_category": "To Do",
       "assignee": null,
       "issuetype": "Task",
       "created": "2026-07-27",
-      "updated": "2026-07-27",
+      "updated": "2026-08-04",
       "resolutiondate": "",
       "labels": [
         "Tendam"
@@ -939,13 +995,13 @@
     },
     {
       "key": "PS-6003",
-      "summary": "Update Fifty bot version",
+      "summary": "Tendam - Update Fifty bot version",
       "status": "To Do",
       "status_category": "To Do",
       "assignee": null,
       "issuetype": "Task",
       "created": "2026-07-27",
-      "updated": "2026-07-27",
+      "updated": "2026-08-04",
       "resolutiondate": "",
       "labels": [
         "Tendam"
@@ -953,13 +1009,13 @@
     },
     {
       "key": "PS-6002",
-      "summary": "Update Hoss Intropia bot version",
+      "summary": "Tendam - Update Hoss Intropia bot version",
       "status": "To Do",
       "status_category": "To Do",
       "assignee": null,
       "issuetype": "Task",
       "created": "2026-07-27",
-      "updated": "2026-07-27",
+      "updated": "2026-08-04",
       "resolutiondate": "",
       "labels": [
         "Tendam"
@@ -967,13 +1023,13 @@
     },
     {
       "key": "PS-6001",
-      "summary": "Update Pedro del Hierro bot version",
+      "summary": "Tendam - Update Pedro del Hierro bot version",
       "status": "To Do",
       "status_category": "To Do",
       "assignee": null,
       "issuetype": "Task",
       "created": "2026-07-27",
-      "updated": "2026-07-27",
+      "updated": "2026-08-04",
       "resolutiondate": "",
       "labels": [
         "Tendam"
@@ -981,13 +1037,13 @@
     },
     {
       "key": "PS-6000",
-      "summary": "Update Cortefield bot version",
+      "summary": "Tendam - Update Cortefield bot version",
       "status": "To Do",
       "status_category": "To Do",
       "assignee": null,
       "issuetype": "Task",
       "created": "2026-07-27",
-      "updated": "2026-07-27",
+      "updated": "2026-08-04",
       "resolutiondate": "",
       "labels": [
         "Tendam"
@@ -995,13 +1051,13 @@
     },
     {
       "key": "PS-5999",
-      "summary": "Update Springfield bot version",
-      "status": "To Do",
-      "status_category": "To Do",
-      "assignee": "Adrià Sastre",
+      "summary": "Tendam - Update Springfield bot version",
+      "status": "Ready for review",
+      "status_category": "In Progress",
+      "assignee": "Marco Gallego Ropero",
       "issuetype": "Task",
       "created": "2026-07-27",
-      "updated": "2026-07-27",
+      "updated": "2026-08-04",
       "resolutiondate": "",
       "labels": [
         "Tendam"
@@ -1009,13 +1065,13 @@
     },
     {
       "key": "PS-5998",
-      "summary": "Update WS bot version",
-      "status": "To Do",
-      "status_category": "To Do",
-      "assignee": "Adrià Sastre",
+      "summary": "Tendam - Update WS bot version",
+      "status": "Ready for review",
+      "status_category": "In Progress",
+      "assignee": "Marco Gallego Ropero",
       "issuetype": "Task",
       "created": "2026-07-27",
-      "updated": "2026-07-27",
+      "updated": "2026-08-04",
       "resolutiondate": "",
       "labels": [
         "Tendam"
@@ -2593,12 +2649,12 @@
     {
       "key": "PS-5885",
       "summary": "Wizz Air - Offer direct handoff to a specific partner and prioritize its case",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "APPROVED FOR PRODUCTION",
+      "status_category": "Done",
       "assignee": "Julieta Mezza",
       "issuetype": "Task",
       "created": "2026-07-09",
-      "updated": "2026-07-27",
+      "updated": "2026-08-04",
       "resolutiondate": "",
       "labels": [
         "WizzAir"
@@ -3571,12 +3627,12 @@
     {
       "key": "PS-5812",
       "summary": "Air Europa - Interprete \"HubtypeAction\" and trigger flow builder with AVA response",
-      "status": "Ready to Deliver",
-      "status_category": "In Progress",
-      "assignee": "Alexander Skalatskiy",
+      "status": "APPROVED FOR PRODUCTION",
+      "status_category": "Done",
+      "assignee": "Adrià Sastre",
       "issuetype": "Task",
       "created": "2026-06-26",
-      "updated": "2026-07-10",
+      "updated": "2026-08-05",
       "resolutiondate": "",
       "labels": [
         "AirEuropa"
@@ -4099,12 +4155,12 @@
     {
       "key": "PS-5770",
       "summary": "Air Europa - AVA call changes",
-      "status": "Open",
+      "status": "To Do",
       "status_category": "To Do",
       "assignee": "Julieta Mezza",
       "issuetype": "Epic",
       "created": "2026-06-17",
-      "updated": "2026-06-22",
+      "updated": "2026-08-04",
       "resolutiondate": "",
       "labels": [
         "AirEuropa"
@@ -4431,10 +4487,10 @@
       "summary": "Air Europa - New message for IDLE cases",
       "status": "APPROVED FOR PRODUCTION",
       "status_category": "Done",
-      "assignee": "Alexander Skalatskiy",
+      "assignee": "Adrià Sastre",
       "issuetype": "Task",
       "created": "2026-06-15",
-      "updated": "2026-08-03",
+      "updated": "2026-08-04",
       "resolutiondate": "",
       "labels": [
         "AirEuropa"
@@ -5249,7 +5305,7 @@
       "assignee": "Adrià Sastre",
       "issuetype": "Bug",
       "created": "2026-06-03",
-      "updated": "2026-08-03",
+      "updated": "2026-08-04",
       "resolutiondate": "",
       "labels": [
         "AirEuropa",
@@ -8497,7 +8553,7 @@
       "assignee": "Adrià Sastre",
       "issuetype": "Task",
       "created": "2026-04-27",
-      "updated": "2026-08-03",
+      "updated": "2026-08-04",
       "resolutiondate": "",
       "labels": [
         "AirEuropa"
@@ -8757,7 +8813,7 @@
       "assignee": "Adrià Sastre",
       "issuetype": "Task",
       "created": "2026-04-23",
-      "updated": "2026-08-03",
+      "updated": "2026-08-05",
       "resolutiondate": "",
       "labels": [
         "AirEuropa"
@@ -15625,12 +15681,12 @@
     {
       "key": "PS-4902",
       "summary": "Air Europa - Neuraltrust: review how we can inform them about the messages we are sending to AVA through bot actions",
-      "status": "Open",
-      "status_category": "To Do",
+      "status": "Closed",
+      "status_category": "Done",
       "assignee": null,
       "issuetype": "Discovery Task",
       "created": "2026-01-26",
-      "updated": "2026-08-02",
+      "updated": "2026-08-04",
       "resolutiondate": "",
       "labels": [
         "AirEuropa"
