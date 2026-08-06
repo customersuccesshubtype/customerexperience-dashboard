@@ -1,12 +1,80 @@
 {
-  "last_updated": "2026-08-05 09:34 UTC",
+  "last_updated": "2026-08-06 09:37 UTC",
   "tickets": [
+    {
+      "key": "PS-6079",
+      "summary": "Internal - Add confirmation doing npm run push_secrets",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Marco Gallego Ropero",
+      "issuetype": "Task",
+      "created": "2026-08-06",
+      "updated": "2026-08-06",
+      "resolutiondate": "",
+      "labels": []
+    },
+    {
+      "key": "PS-6078",
+      "summary": "Fenie Energia - API Integration - Validación de código de verificación",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": null,
+      "issuetype": "Task",
+      "created": "2026-08-05",
+      "updated": "2026-08-05",
+      "resolutiondate": "",
+      "labels": [
+        "FenieEnergia"
+      ]
+    },
+    {
+      "key": "PS-6077",
+      "summary": "Fenie Energia - SF User Authentication",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": null,
+      "issuetype": "Task",
+      "created": "2026-08-05",
+      "updated": "2026-08-05",
+      "resolutiondate": "",
+      "labels": [
+        "FenieEnergia"
+      ]
+    },
+    {
+      "key": "PS-6076",
+      "summary": "Fenie Energia - AI Agent Integration",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Pep Alonso",
+      "issuetype": "Task",
+      "created": "2026-08-05",
+      "updated": "2026-08-05",
+      "resolutiondate": "",
+      "labels": [
+        "FenieEnergia"
+      ]
+    },
+    {
+      "key": "PS-6075",
+      "summary": "Fenie Energia - Integrate WhatsApp number to Staging bot",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Aitor Casas",
+      "issuetype": "Task",
+      "created": "2026-08-05",
+      "updated": "2026-08-05",
+      "resolutiondate": "",
+      "labels": [
+        "FenieEnergia"
+      ]
+    },
     {
       "key": "PS-6074",
       "summary": "Michael Kors - Remove tracking URL for returned items",
-      "status": "In Progress",
+      "status": "Ready for review",
       "status_category": "In Progress",
-      "assignee": null,
+      "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-08-05",
       "updated": "2026-08-05",
@@ -20,10 +88,10 @@
       "summary": "RACC - Check connectivity with AiAlma AI Agent",
       "status": "To Do",
       "status_category": "To Do",
-      "assignee": "Adrià Sastre",
+      "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Discovery Task",
       "created": "2026-08-04",
-      "updated": "2026-08-04",
+      "updated": "2026-08-06",
       "resolutiondate": "",
       "labels": [
         "RACC"
@@ -231,7 +299,7 @@
       "assignee": "Vicky Correbo",
       "issuetype": "Task",
       "created": "2026-07-31",
-      "updated": "2026-08-03",
+      "updated": "2026-08-05",
       "resolutiondate": "",
       "labels": [
         "Allianz"
@@ -270,10 +338,10 @@
       "summary": "Fenie Energia - AI Agent Project 1st Phase Launch",
       "status": "Open",
       "status_category": "To Do",
-      "assignee": null,
+      "assignee": "Francisca Martelli",
       "issuetype": "Epic",
       "created": "2026-07-31",
-      "updated": "2026-07-31",
+      "updated": "2026-08-05",
       "resolutiondate": "",
       "labels": [
         "FenieEnergia"
@@ -324,12 +392,12 @@
     {
       "key": "PS-6051",
       "summary": "DABA - Consulta Info. Cliente (API rest)",
-      "status": "In Progress",
+      "status": "Ready for review",
       "status_category": "In Progress",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-07-31",
-      "updated": "2026-08-04",
+      "updated": "2026-08-05",
       "resolutiondate": "",
       "labels": [
         "DABA"
@@ -478,12 +546,12 @@
     {
       "key": "PS-6040",
       "summary": "Wizz Air - Remove automatic transfer of cases to Teleperformance queue",
-      "status": "APPROVED FOR PRODUCTION",
+      "status": "In production",
       "status_category": "Done",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-07-30",
-      "updated": "2026-08-04",
+      "updated": "2026-08-06",
       "resolutiondate": "",
       "labels": [
         "WizzAir"
@@ -968,12 +1036,12 @@
     {
       "key": "PS-6005",
       "summary": "Tendam - Update Dash & Stars bot version",
-      "status": "To Do",
-      "status_category": "To Do",
-      "assignee": null,
+      "status": "Ready for review",
+      "status_category": "In Progress",
+      "assignee": "Marco Gallego Ropero",
       "issuetype": "Task",
       "created": "2026-07-27",
-      "updated": "2026-08-04",
+      "updated": "2026-08-06",
       "resolutiondate": "",
       "labels": [
         "Tendam"
@@ -984,10 +1052,10 @@
       "summary": "Tendam - Update SlowLove bot version",
       "status": "To Do",
       "status_category": "To Do",
-      "assignee": null,
+      "assignee": "Marco Gallego Ropero",
       "issuetype": "Task",
       "created": "2026-07-27",
-      "updated": "2026-08-04",
+      "updated": "2026-08-05",
       "resolutiondate": "",
       "labels": [
         "Tendam"
@@ -998,10 +1066,10 @@
       "summary": "Tendam - Update Fifty bot version",
       "status": "To Do",
       "status_category": "To Do",
-      "assignee": null,
+      "assignee": "Marco Gallego Ropero",
       "issuetype": "Task",
       "created": "2026-07-27",
-      "updated": "2026-08-04",
+      "updated": "2026-08-05",
       "resolutiondate": "",
       "labels": [
         "Tendam"
@@ -1012,10 +1080,10 @@
       "summary": "Tendam - Update Hoss Intropia bot version",
       "status": "To Do",
       "status_category": "To Do",
-      "assignee": null,
+      "assignee": "Marco Gallego Ropero",
       "issuetype": "Task",
       "created": "2026-07-27",
-      "updated": "2026-08-04",
+      "updated": "2026-08-05",
       "resolutiondate": "",
       "labels": [
         "Tendam"
@@ -1026,10 +1094,10 @@
       "summary": "Tendam - Update Pedro del Hierro bot version",
       "status": "To Do",
       "status_category": "To Do",
-      "assignee": null,
+      "assignee": "Marco Gallego Ropero",
       "issuetype": "Task",
       "created": "2026-07-27",
-      "updated": "2026-08-04",
+      "updated": "2026-08-05",
       "resolutiondate": "",
       "labels": [
         "Tendam"
@@ -1038,12 +1106,12 @@
     {
       "key": "PS-6000",
       "summary": "Tendam - Update Cortefield bot version",
-      "status": "To Do",
-      "status_category": "To Do",
-      "assignee": null,
+      "status": "In Progress",
+      "status_category": "In Progress",
+      "assignee": "Marco Gallego Ropero",
       "issuetype": "Task",
       "created": "2026-07-27",
-      "updated": "2026-08-04",
+      "updated": "2026-08-06",
       "resolutiondate": "",
       "labels": [
         "Tendam"
@@ -1402,12 +1470,12 @@
     {
       "key": "PS-5974",
       "summary": "Occident - Review new CRM request",
-      "status": "In Progress",
-      "status_category": "In Progress",
-      "assignee": "Adrià Sastre",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Pep Alonso",
       "issuetype": "Task",
       "created": "2026-07-22",
-      "updated": "2026-08-03",
+      "updated": "2026-08-05",
       "resolutiondate": "",
       "labels": [
         "Occident"
@@ -2425,12 +2493,12 @@
     {
       "key": "PS-5901",
       "summary": "Wizz Air - Update bot to audio transcript and new conditional",
-      "status": "APPROVED FOR PRODUCTION",
+      "status": "In production",
       "status_category": "Done",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-07-10",
-      "updated": "2026-07-29",
+      "updated": "2026-08-06",
       "resolutiondate": "",
       "labels": [
         "WizzAir"
@@ -2885,12 +2953,12 @@
     {
       "key": "PS-5868",
       "summary": "Assegur - Review if we are receiving new data about \"arag\" and \"europ assistance\"",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "In Progress",
+      "status_category": "In Progress",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-07-09",
-      "updated": "2026-08-03",
+      "updated": "2026-08-05",
       "resolutiondate": "",
       "labels": [
         "Assegur"
@@ -5469,12 +5537,12 @@
     {
       "key": "PS-5676",
       "summary": "Expired Webview design",
-      "status": "Ready for review",
+      "status": "In Review",
       "status_category": "In Progress",
       "assignee": "Vicky Correbo",
       "issuetype": "Task",
       "created": "2026-06-02",
-      "updated": "2026-07-31",
+      "updated": "2026-08-05",
       "resolutiondate": "",
       "labels": [
         "Internal"
@@ -8548,12 +8616,12 @@
     {
       "key": "PS-5451",
       "summary": "Air Europa - Apply design changes (1)",
-      "status": "To Do",
-      "status_category": "To Do",
-      "assignee": "Adrià Sastre",
+      "status": "In Progress",
+      "status_category": "In Progress",
+      "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-04-27",
-      "updated": "2026-08-04",
+      "updated": "2026-08-06",
       "resolutiondate": "",
       "labels": [
         "AirEuropa"
