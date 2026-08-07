@@ -1,6 +1,28 @@
 {
-  "last_updated": "2026-08-06 09:58 UTC",
+  "last_updated": "2026-08-07 08:30 UTC",
   "cases": [
+    {
+      "id": "500Sa00000yMUg2IAG",
+      "case_number": "00025229",
+      "subject": "Url en conversaciones",
+      "status": "Open",
+      "priority": "Low",
+      "is_closed": false,
+      "is_escalated": false,
+      "owner": "Aitor Casas",
+      "account": "",
+      "origin": "Inbound",
+      "type": "",
+      "feeling": "",
+      "issue_type": "",
+      "channel": "Email",
+      "is_critical": "L4",
+      "escalated_team": "",
+      "resolution_time": "",
+      "created": "2026-08-06",
+      "closed": "",
+      "last_modified": "2026-08-07"
+    },
     {
       "id": "500Sa00000yLWNLIA4",
       "case_number": "00025228",
@@ -62,10 +84,10 @@
       "channel": "Email",
       "is_critical": "L4",
       "escalated_team": "",
-      "resolution_time": "1. <6h",
+      "resolution_time": "3. 12-24h",
       "created": "2026-08-06",
-      "closed": "2026-08-06",
-      "last_modified": "2026-08-06"
+      "closed": "2026-08-07",
+      "last_modified": "2026-08-07"
     },
     {
       "id": "500Sa00000yKnDJIA0",
@@ -93,9 +115,9 @@
       "id": "500Sa00000yKGcOIAW",
       "case_number": "00025224",
       "subject": "Re: Reporting *****IMPORTANT request*****",
-      "status": "Open",
+      "status": "Closed",
       "priority": "Low",
-      "is_closed": false,
+      "is_closed": true,
       "is_escalated": false,
       "owner": "Aitor Casas",
       "account": "Michael Kors Group",
@@ -106,10 +128,10 @@
       "channel": "Email",
       "is_critical": "L4",
       "escalated_team": "",
-      "resolution_time": "",
+      "resolution_time": "4. 24-36h",
       "created": "2026-08-06",
-      "closed": "",
-      "last_modified": "2026-08-06"
+      "closed": "2026-08-07",
+      "last_modified": "2026-08-07"
     },
     {
       "id": "500Sa00000yKIawIAG",
@@ -436,10 +458,10 @@
       "channel": "Email",
       "is_critical": "L4",
       "escalated_team": "",
-      "resolution_time": "3. 12-24h",
+      "resolution_time": "5. >36h",
       "created": "2026-08-03",
-      "closed": "2026-08-04",
-      "last_modified": "2026-08-04"
+      "closed": "2026-08-06",
+      "last_modified": "2026-08-06"
     },
     {
       "id": "500Sa00000y3u00IAA",
@@ -460,16 +482,16 @@
       "escalated_team": "",
       "resolution_time": "5. >36h",
       "created": "2026-08-03",
-      "closed": "2026-08-06",
-      "last_modified": "2026-08-06"
+      "closed": "2026-08-07",
+      "last_modified": "2026-08-07"
     },
     {
       "id": "500Sa00000y4i4pIAA",
       "case_number": "00025205",
       "subject": "Datos atomatizaciones mensuales VGED",
-      "status": "Open",
+      "status": "Closed",
       "priority": "Low",
-      "is_closed": false,
+      "is_closed": true,
       "is_escalated": false,
       "owner": "Aitor Casas",
       "account": "VOLKSWAGEN GROUP SPAIN",
@@ -480,10 +502,10 @@
       "channel": "Email",
       "is_critical": "L4",
       "escalated_team": "",
-      "resolution_time": "",
+      "resolution_time": "5. >36h",
       "created": "2026-08-03",
-      "closed": "",
-      "last_modified": "2026-08-05"
+      "closed": "2026-08-07",
+      "last_modified": "2026-08-07"
     },
     {
       "id": "500Sa00000y4rkjIAA",
@@ -2532,28 +2554,6 @@
       "last_modified": "2026-07-07"
     },
     {
-      "id": "500Sa00000w8IkqIAE",
-      "case_number": "00025102",
-      "subject": "RE: GENERACION DE LEADS EN HUBTYPE",
-      "status": "Closed",
-      "priority": "Low",
-      "is_closed": true,
-      "is_escalated": false,
-      "owner": "Aitor Casas",
-      "account": "",
-      "origin": "Inbound",
-      "type": "",
-      "feeling": "",
-      "issue_type": "",
-      "channel": "Email",
-      "is_critical": "L4",
-      "escalated_team": "",
-      "resolution_time": "3. 12-24h",
-      "created": "2026-07-07",
-      "closed": "2026-07-08",
-      "last_modified": "2026-07-08"
-    },
-    {
       "id": "500Sa00000w8MtNIAU",
       "case_number": "00025101",
       "subject": "Bot error response",
@@ -3437,9 +3437,9 @@
       "id": "500Sa00000vGKOcIAO",
       "case_number": "00025042",
       "subject": "Caso entra en cola fuera de horario",
-      "status": "Closed",
+      "status": "Open",
       "priority": "Low",
-      "is_closed": true,
+      "is_closed": false,
       "is_escalated": false,
       "owner": "Aitor Casas",
       "account": "Air Europa",
@@ -3450,10 +3450,10 @@
       "channel": "Email",
       "is_critical": "L4",
       "escalated_team": "",
-      "resolution_time": "5. >36h",
+      "resolution_time": "",
       "created": "2026-06-26",
-      "closed": "2026-08-05",
-      "last_modified": "2026-08-05"
+      "closed": "",
+      "last_modified": "2026-08-07"
     },
     {
       "id": "500Sa00000vDQIXIA4",
