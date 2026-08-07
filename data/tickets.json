@@ -1,6 +1,20 @@
 {
-  "last_updated": "2026-08-06 09:37 UTC",
+  "last_updated": "2026-08-07 08:10 UTC",
   "tickets": [
+    {
+      "key": "PS-6080",
+      "summary": "Ralph Lauren - Add \"Sign-Up Voucher\" generation conversation info field ",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Lorena Sánchez-Toril Nicolás",
+      "issuetype": "Task",
+      "created": "2026-08-06",
+      "updated": "2026-08-06",
+      "resolutiondate": "",
+      "labels": [
+        "Ralph_Lauren"
+      ]
+    },
     {
       "key": "PS-6079",
       "summary": "Internal - Add confirmation doing npm run push_secrets",
@@ -299,7 +313,7 @@
       "assignee": "Vicky Correbo",
       "issuetype": "Task",
       "created": "2026-07-31",
-      "updated": "2026-08-05",
+      "updated": "2026-08-06",
       "resolutiondate": "",
       "labels": [
         "Allianz"
@@ -546,7 +560,7 @@
     {
       "key": "PS-6040",
       "summary": "Wizz Air - Remove automatic transfer of cases to Teleperformance queue",
-      "status": "In production",
+      "status": "Done",
       "status_category": "Done",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
@@ -826,12 +840,12 @@
     {
       "key": "PS-6020",
       "summary": "NetBerry - COFA - Zendesk access + Hubtype integration spike",
-      "status": "In Progress",
+      "status": "Ready for review",
       "status_category": "In Progress",
       "assignee": "Adrià Sastre",
       "issuetype": "Task",
       "created": "2026-07-28",
-      "updated": "2026-08-03",
+      "updated": "2026-08-07",
       "resolutiondate": "",
       "labels": [
         "NetBerry_COFA"
@@ -1050,12 +1064,12 @@
     {
       "key": "PS-6004",
       "summary": "Tendam - Update SlowLove bot version",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "In Progress",
+      "status_category": "In Progress",
       "assignee": "Marco Gallego Ropero",
       "issuetype": "Task",
       "created": "2026-07-27",
-      "updated": "2026-08-05",
+      "updated": "2026-08-07",
       "resolutiondate": "",
       "labels": [
         "Tendam"
@@ -1064,12 +1078,12 @@
     {
       "key": "PS-6003",
       "summary": "Tendam - Update Fifty bot version",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Ready for review",
+      "status_category": "In Progress",
       "assignee": "Marco Gallego Ropero",
       "issuetype": "Task",
       "created": "2026-07-27",
-      "updated": "2026-08-05",
+      "updated": "2026-08-07",
       "resolutiondate": "",
       "labels": [
         "Tendam"
@@ -1078,12 +1092,12 @@
     {
       "key": "PS-6002",
       "summary": "Tendam - Update Hoss Intropia bot version",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Ready for review",
+      "status_category": "In Progress",
       "assignee": "Marco Gallego Ropero",
       "issuetype": "Task",
       "created": "2026-07-27",
-      "updated": "2026-08-05",
+      "updated": "2026-08-07",
       "resolutiondate": "",
       "labels": [
         "Tendam"
@@ -1092,12 +1106,12 @@
     {
       "key": "PS-6001",
       "summary": "Tendam - Update Pedro del Hierro bot version",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Ready for review",
+      "status_category": "In Progress",
       "assignee": "Marco Gallego Ropero",
       "issuetype": "Task",
       "created": "2026-07-27",
-      "updated": "2026-08-05",
+      "updated": "2026-08-06",
       "resolutiondate": "",
       "labels": [
         "Tendam"
@@ -1106,7 +1120,7 @@
     {
       "key": "PS-6000",
       "summary": "Tendam - Update Cortefield bot version",
-      "status": "In Progress",
+      "status": "Ready for review",
       "status_category": "In Progress",
       "assignee": "Marco Gallego Ropero",
       "issuetype": "Task",
@@ -2493,7 +2507,7 @@
     {
       "key": "PS-5901",
       "summary": "Wizz Air - Update bot to audio transcript and new conditional",
-      "status": "In production",
+      "status": "Done",
       "status_category": "Done",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
@@ -2717,12 +2731,12 @@
     {
       "key": "PS-5885",
       "summary": "Wizz Air - Offer direct handoff to a specific partner and prioritize its case",
-      "status": "APPROVED FOR PRODUCTION",
+      "status": "In production",
       "status_category": "Done",
       "assignee": "Julieta Mezza",
       "issuetype": "Task",
       "created": "2026-07-09",
-      "updated": "2026-08-04",
+      "updated": "2026-08-06",
       "resolutiondate": "",
       "labels": [
         "WizzAir"
@@ -5537,12 +5551,12 @@
     {
       "key": "PS-5676",
       "summary": "Expired Webview design",
-      "status": "In Review",
+      "status": "Ready to Deliver",
       "status_category": "In Progress",
       "assignee": "Vicky Correbo",
       "issuetype": "Task",
       "created": "2026-06-02",
-      "updated": "2026-08-05",
+      "updated": "2026-08-06",
       "resolutiondate": "",
       "labels": [
         "Internal"
@@ -8616,7 +8630,7 @@
     {
       "key": "PS-5451",
       "summary": "Air Europa - Apply design changes (1)",
-      "status": "In Progress",
+      "status": "Ready for review",
       "status_category": "In Progress",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
@@ -29061,10 +29075,10 @@
       "summary": "Air Europa - Consultar reserva - API Review",
       "status": "Done",
       "status_category": "Done",
-      "assignee": "Julieta Mezza",
+      "assignee": null,
       "issuetype": "Task",
       "created": "2025-04-08",
-      "updated": "2026-06-08",
+      "updated": "2026-08-06",
       "resolutiondate": "",
       "labels": [
         "AirEuropa"
