@@ -1,6 +1,62 @@
 {
-  "last_updated": "2026-08-07 08:10 UTC",
+  "last_updated": "2026-08-08 07:45 UTC",
   "tickets": [
+    {
+      "key": "PS-6084",
+      "summary": "Ralph Lauren - next content id receive WA flow",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Lorena Sánchez-Toril Nicolás",
+      "issuetype": "Task",
+      "created": "2026-08-07",
+      "updated": "2026-08-07",
+      "resolutiondate": "",
+      "labels": [
+        "Ralph_Lauren"
+      ]
+    },
+    {
+      "key": "PS-6083",
+      "summary": "Ralph Lauren - voucher DIGITAL FLOW",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Lorena Sánchez-Toril Nicolás",
+      "issuetype": "Task",
+      "created": "2026-08-07",
+      "updated": "2026-08-07",
+      "resolutiondate": "",
+      "labels": [
+        "Ralph_Lauren"
+      ]
+    },
+    {
+      "key": "PS-6082",
+      "summary": "Ralph Lauren - voucher pass different validation day flow",
+      "status": "Ready for review",
+      "status_category": "In Progress",
+      "assignee": "Lorena Sánchez-Toril Nicolás",
+      "issuetype": "Task",
+      "created": "2026-08-07",
+      "updated": "2026-08-07",
+      "resolutiondate": "",
+      "labels": [
+        "Ralph_Lauren"
+      ]
+    },
+    {
+      "key": "PS-6081",
+      "summary": "Ralph Lauren bot trigger",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Lorena Sánchez-Toril Nicolás",
+      "issuetype": "Task",
+      "created": "2026-08-07",
+      "updated": "2026-08-07",
+      "resolutiondate": "",
+      "labels": [
+        "Ralph_Lauren"
+      ]
+    },
     {
       "key": "PS-6080",
       "summary": "Ralph Lauren - Add \"Sign-Up Voucher\" generation conversation info field ",
@@ -9,7 +65,7 @@
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-08-06",
-      "updated": "2026-08-06",
+      "updated": "2026-08-07",
       "resolutiondate": "",
       "labels": [
         "Ralph_Lauren"
@@ -18,12 +74,12 @@
     {
       "key": "PS-6079",
       "summary": "Internal - Add confirmation doing npm run push_secrets",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Ready for review",
+      "status_category": "In Progress",
       "assignee": "Marco Gallego Ropero",
       "issuetype": "Task",
       "created": "2026-08-06",
-      "updated": "2026-08-06",
+      "updated": "2026-08-07",
       "resolutiondate": "",
       "labels": []
     },
@@ -72,12 +128,12 @@
     {
       "key": "PS-6075",
       "summary": "Fenie Energia - Integrate WhatsApp number to Staging bot",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Aitor Casas",
       "issuetype": "Task",
       "created": "2026-08-05",
-      "updated": "2026-08-05",
+      "updated": "2026-08-07",
       "resolutiondate": "",
       "labels": [
         "FenieEnergia"
@@ -100,12 +156,12 @@
     {
       "key": "PS-6073",
       "summary": "RACC - Check connectivity with AiAlma AI Agent",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "In Progress",
+      "status_category": "In Progress",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Discovery Task",
       "created": "2026-08-04",
-      "updated": "2026-08-06",
+      "updated": "2026-08-07",
       "resolutiondate": "",
       "labels": [
         "RACC"
@@ -114,12 +170,12 @@
     {
       "key": "PS-6072",
       "summary": "Air Europa - Download json flow builder (ES), copiar URLs y copiarlas en la versión en gallego",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Aitor Casas",
       "issuetype": "Task",
       "created": "2026-08-04",
-      "updated": "2026-08-04",
+      "updated": "2026-08-07",
       "resolutiondate": "",
       "labels": [
         "AirEuropa"
@@ -170,12 +226,12 @@
     {
       "key": "PS-6068",
       "summary": "Air Europa - Changes in the way we are communicating language to AVA",
-      "status": "Ready for review",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Marco Gallego Ropero",
       "issuetype": "Bug",
       "created": "2026-08-03",
-      "updated": "2026-08-05",
+      "updated": "2026-08-07",
       "resolutiondate": "",
       "labels": [
         "AirEuropa"
@@ -245,7 +301,7 @@
       "assignee": "Aitor Casas",
       "issuetype": "Task",
       "created": "2026-08-03",
-      "updated": "2026-08-03",
+      "updated": "2026-08-07",
       "resolutiondate": "",
       "labels": [
         "Retorna"
@@ -924,12 +980,12 @@
     {
       "key": "PS-6014",
       "summary": "Retorna - Update Bot to 0.54 version",
-      "status": "APPROVED FOR PRODUCTION",
+      "status": "Done",
       "status_category": "Done",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-07-27",
-      "updated": "2026-08-03",
+      "updated": "2026-08-07",
       "resolutiondate": "",
       "labels": [
         "Retorna"
@@ -1008,12 +1064,12 @@
     {
       "key": "PS-6008",
       "summary": "Allianz - image size exceed text",
-      "status": "In production",
+      "status": "Done",
       "status_category": "Done",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-07-27",
-      "updated": "2026-07-28",
+      "updated": "2026-08-07",
       "resolutiondate": "",
       "labels": [
         "Allianz-ES"
@@ -1064,7 +1120,7 @@
     {
       "key": "PS-6004",
       "summary": "Tendam - Update SlowLove bot version",
-      "status": "In Progress",
+      "status": "Ready for review",
       "status_category": "In Progress",
       "assignee": "Marco Gallego Ropero",
       "issuetype": "Task",
@@ -1456,12 +1512,12 @@
     {
       "key": "PS-5976",
       "summary": "Tendam - Middleware: use previous_attended_by as agent fallback",
-      "status": "In production",
+      "status": "Done",
       "status_category": "Done",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-07-22",
-      "updated": "2026-07-27",
+      "updated": "2026-08-07",
       "resolutiondate": "",
       "labels": [
         "Tendam"
@@ -1540,12 +1596,12 @@
     {
       "key": "PS-5970",
       "summary": "Verisure FR - Make AUTO_IDLE_MESSAGE Temporarily Configurable",
-      "status": "In production",
+      "status": "Done",
       "status_category": "Done",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-07-22",
-      "updated": "2026-07-27",
+      "updated": "2026-08-07",
       "resolutiondate": "",
       "labels": [
         "Task",
@@ -3079,12 +3135,12 @@
     {
       "key": "PS-5860",
       "summary": "Michael Kors - WhatsAppDefaultLanguagePlugin overrides language detection - bot responds in Spanish to English-speaking users",
-      "status": "In production",
+      "status": "Done",
       "status_category": "Done",
       "assignee": "Alexander Skalatskiy",
       "issuetype": "Bug",
       "created": "2026-07-08",
-      "updated": "2026-07-28",
+      "updated": "2026-08-07",
       "resolutiondate": "",
       "labels": [
         "Michael-Kors"
@@ -5384,10 +5440,10 @@
       "summary": "Air Europa - Bug - Ava error response is triggering the Otherwise fallback flow for text message",
       "status": "To Do",
       "status_category": "To Do",
-      "assignee": "Adrià Sastre",
+      "assignee": "Pep Alonso",
       "issuetype": "Bug",
       "created": "2026-06-03",
-      "updated": "2026-08-04",
+      "updated": "2026-08-07",
       "resolutiondate": "",
       "labels": [
         "AirEuropa",
@@ -8630,12 +8686,12 @@
     {
       "key": "PS-5451",
       "summary": "Air Europa - Apply design changes (1)",
-      "status": "Ready for review",
+      "status": "Ready to Deliver",
       "status_category": "In Progress",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-04-27",
-      "updated": "2026-08-06",
+      "updated": "2026-08-07",
       "resolutiondate": "",
       "labels": [
         "AirEuropa"
@@ -8892,10 +8948,10 @@
       "summary": "Air Europa - Logic changes",
       "status": "To Do",
       "status_category": "To Do",
-      "assignee": "Adrià Sastre",
+      "assignee": "Pep Alonso",
       "issuetype": "Task",
       "created": "2026-04-23",
-      "updated": "2026-08-05",
+      "updated": "2026-08-07",
       "resolutiondate": "",
       "labels": [
         "AirEuropa"
