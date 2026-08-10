@@ -1,6 +1,20 @@
 {
-  "last_updated": "2026-08-09 07:51 UTC",
+  "last_updated": "2026-08-10 08:24 UTC",
   "tickets": [
+    {
+      "key": "PS-6085",
+      "summary": "Ralph Lauren- T&C's webview for digital offer",
+      "status": "Ready for review",
+      "status_category": "In Progress",
+      "assignee": "Lorena Sánchez-Toril Nicolás",
+      "issuetype": "Task",
+      "created": "2026-08-10",
+      "updated": "2026-08-10",
+      "resolutiondate": "",
+      "labels": [
+        "Ralph_Lauren"
+      ]
+    },
     {
       "key": "PS-6084",
       "summary": "Ralph Lauren - next content id receive WA flow",
@@ -18,12 +32,12 @@
     {
       "key": "PS-6083",
       "summary": "Ralph Lauren - voucher DIGITAL FLOW",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "In Progress",
+      "status_category": "In Progress",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-08-07",
-      "updated": "2026-08-07",
+      "updated": "2026-08-10",
       "resolutiondate": "",
       "labels": [
         "Ralph_Lauren"
@@ -161,7 +175,7 @@
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Discovery Task",
       "created": "2026-08-04",
-      "updated": "2026-08-07",
+      "updated": "2026-08-10",
       "resolutiondate": "",
       "labels": [
         "RACC"
@@ -198,12 +212,12 @@
     {
       "key": "PS-6070",
       "summary": "Occident - Edit the reopen message for it to be send within the first week after the case was closed",
-      "status": "Open",
+      "status": "To Do",
       "status_category": "To Do",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-08-04",
-      "updated": "2026-08-04",
+      "updated": "2026-08-10",
       "resolutiondate": "",
       "labels": [
         "Occident"
@@ -242,10 +256,10 @@
       "summary": "Air Europa - Enviar chat context después de GET Token siempre aunque no haya cambiado nada",
       "status": "To Do",
       "status_category": "To Do",
-      "assignee": "Adrià Sastre",
+      "assignee": "Pep Alonso",
       "issuetype": "Task",
       "created": "2026-08-03",
-      "updated": "2026-08-04",
+      "updated": "2026-08-09",
       "resolutiondate": "",
       "labels": [
         "AirEuropa"
@@ -301,7 +315,7 @@
       "assignee": "Aitor Casas",
       "issuetype": "Task",
       "created": "2026-08-03",
-      "updated": "2026-08-07",
+      "updated": "2026-08-10",
       "resolutiondate": "",
       "labels": [
         "Retorna"
@@ -329,9 +343,11 @@
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-08-03",
-      "updated": "2026-08-03",
+      "updated": "2026-08-10",
       "resolutiondate": "",
-      "labels": []
+      "labels": [
+        "AirEuropa"
+      ]
     },
     {
       "key": "PS-6060",
@@ -520,10 +536,10 @@
       "summary": "Euroriente - Analyse the Juniper API",
       "status": "To Do",
       "status_category": "To Do",
-      "assignee": "Adrià Sastre",
+      "assignee": "Pep Alonso",
       "issuetype": "Discovery Task",
       "created": "2026-07-30",
-      "updated": "2026-08-03",
+      "updated": "2026-08-09",
       "resolutiondate": "",
       "labels": [
         "Euroriente"
@@ -1798,7 +1814,7 @@
       "assignee": "Julieta Mezza",
       "issuetype": "Task",
       "created": "2026-07-20",
-      "updated": "2026-07-21",
+      "updated": "2026-08-10",
       "resolutiondate": "",
       "labels": [
         "SanitasDental"
@@ -2045,12 +2061,12 @@
     {
       "key": "PS-5938",
       "summary": "RibéSalat - Configure KB \"anulaciones\" y \"solicitud asistencia (hogar y coche)\"",
-      "status": "Open",
-      "status_category": "To Do",
-      "assignee": "Wei Wu",
+      "status": "In Progress",
+      "status_category": "In Progress",
+      "assignee": "Julieta Mezza",
       "issuetype": "Task",
       "created": "2026-07-20",
-      "updated": "2026-07-20",
+      "updated": "2026-08-10",
       "resolutiondate": "",
       "labels": [
         "ribesalat"
@@ -2059,12 +2075,12 @@
     {
       "key": "PS-5937",
       "summary": "RibéSalat- Configure Main flow",
-      "status": "Open",
-      "status_category": "To Do",
-      "assignee": "Wei Wu",
+      "status": "Done",
+      "status_category": "Done",
+      "assignee": "Julieta Mezza",
       "issuetype": "Task",
       "created": "2026-07-20",
-      "updated": "2026-07-20",
+      "updated": "2026-08-10",
       "resolutiondate": "",
       "labels": [
         "ribesalat"
@@ -2073,12 +2089,12 @@
     {
       "key": "PS-5936",
       "summary": "RibéSalat - Configure project, queues and test agents",
-      "status": "Open",
-      "status_category": "To Do",
-      "assignee": "Wei Wu",
+      "status": "Done",
+      "status_category": "Done",
+      "assignee": "Julieta Mezza",
       "issuetype": "Task",
       "created": "2026-07-20",
-      "updated": "2026-07-20",
+      "updated": "2026-08-10",
       "resolutiondate": "",
       "labels": [
         "RibesSalat"
@@ -2087,12 +2103,12 @@
     {
       "key": "PS-5935",
       "summary": "RibéSalat - Create AI Agent prompt inicial",
-      "status": "Open",
-      "status_category": "To Do",
-      "assignee": "Wei Wu",
+      "status": "Done",
+      "status_category": "Done",
+      "assignee": "Julieta Mezza",
       "issuetype": "Task",
       "created": "2026-07-20",
-      "updated": "2026-07-23",
+      "updated": "2026-08-10",
       "resolutiondate": "",
       "labels": [
         "ribesalat"
@@ -5443,7 +5459,7 @@
       "assignee": "Pep Alonso",
       "issuetype": "Bug",
       "created": "2026-06-03",
-      "updated": "2026-08-07",
+      "updated": "2026-08-09",
       "resolutiondate": "",
       "labels": [
         "AirEuropa",
