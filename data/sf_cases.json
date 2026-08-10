@@ -1,6 +1,28 @@
 {
-  "last_updated": "2026-08-09 08:01 UTC",
+  "last_updated": "2026-08-10 08:50 UTC",
   "cases": [
+    {
+      "id": "500Sa00000yYkp7IAC",
+      "case_number": "00025234",
+      "subject": "Licenses [Mixpanel Alert Triggered]",
+      "status": "New",
+      "priority": "Low",
+      "is_closed": false,
+      "is_escalated": false,
+      "owner": "Aitor Casas",
+      "account": "",
+      "origin": "Inbound",
+      "type": "",
+      "feeling": "",
+      "issue_type": "",
+      "channel": "Email",
+      "is_critical": "L4",
+      "escalated_team": "",
+      "resolution_time": "",
+      "created": "2026-08-10",
+      "closed": "",
+      "last_modified": "2026-08-10"
+    },
     {
       "id": "500Sa00000yRGW3IAO",
       "case_number": "00025233",
@@ -731,9 +753,9 @@
       "id": "500Sa00000xrPRLIA2",
       "case_number": "00025197",
       "subject": "Diferencia entre datos exportados y dashboard",
-      "status": "Open",
+      "status": "Closed",
       "priority": "Low",
-      "is_closed": false,
+      "is_closed": true,
       "is_escalated": false,
       "owner": "Aitor Casas",
       "account": "",
@@ -744,10 +766,10 @@
       "channel": "Email",
       "is_critical": "L4",
       "escalated_team": "",
-      "resolution_time": "",
+      "resolution_time": "5. >36h",
       "created": "2026-07-30",
-      "closed": "",
-      "last_modified": "2026-08-07"
+      "closed": "2026-08-10",
+      "last_modified": "2026-08-10"
     },
     {
       "id": "500Sa00000xr6lFIAQ",
@@ -3503,9 +3525,9 @@
       "id": "500Sa00000vGKOcIAO",
       "case_number": "00025042",
       "subject": "Caso entra en cola fuera de horario",
-      "status": "Closed",
+      "status": "Open",
       "priority": "Low",
-      "is_closed": true,
+      "is_closed": false,
       "is_escalated": false,
       "owner": "Aitor Casas",
       "account": "Air Europa",
@@ -3516,10 +3538,10 @@
       "channel": "Email",
       "is_critical": "L4",
       "escalated_team": "",
-      "resolution_time": "5. >36h",
+      "resolution_time": "",
       "created": "2026-06-26",
-      "closed": "2026-08-07",
-      "last_modified": "2026-08-07"
+      "closed": "",
+      "last_modified": "2026-08-10"
     },
     {
       "id": "500Sa00000vDQIXIA4",
