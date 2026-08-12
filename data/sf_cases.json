@@ -1,6 +1,28 @@
 {
-  "last_updated": "2026-08-11 08:14 UTC",
+  "last_updated": "2026-08-12 08:39 UTC",
   "cases": [
+    {
+      "id": "500Sa00000yefjSIAQ",
+      "case_number": "00025239",
+      "subject": "Enlace ubicación",
+      "status": "Closed",
+      "priority": "Low",
+      "is_closed": true,
+      "is_escalated": false,
+      "owner": "Aitor Casas",
+      "account": "Verisure Spain Lead Gen",
+      "origin": "Inbound",
+      "type": "Issue",
+      "feeling": "",
+      "issue_type": "Informes",
+      "channel": "Email",
+      "is_critical": "L4",
+      "escalated_team": "",
+      "resolution_time": "1. <6h",
+      "created": "2026-08-11",
+      "closed": "2026-08-11",
+      "last_modified": "2026-08-11"
+    },
     {
       "id": "500Sa00000yazNXIAY",
       "case_number": "00025237",
@@ -18,10 +40,10 @@
       "channel": "Email",
       "is_critical": "L4",
       "escalated_team": "",
-      "resolution_time": "3. 12-24h",
+      "resolution_time": "5. >36h",
       "created": "2026-08-10",
-      "closed": "2026-08-11",
-      "last_modified": "2026-08-11"
+      "closed": "2026-08-12",
+      "last_modified": "2026-08-12"
     },
     {
       "id": "500Sa00000yazfEIAQ",
@@ -137,9 +159,9 @@
       "id": "500Sa00000yQnsCIAS",
       "case_number": "00025231",
       "subject": "Revisión de la caída en la automatización de casos",
-      "status": "Open",
+      "status": "Closed",
       "priority": "Low",
-      "is_closed": false,
+      "is_closed": true,
       "is_escalated": false,
       "owner": "Aitor Casas",
       "account": "Tendam (Cortefiel)",
@@ -150,10 +172,10 @@
       "channel": "Email",
       "is_critical": "L4",
       "escalated_team": "",
-      "resolution_time": "",
+      "resolution_time": "5. >36h",
       "created": "2026-08-07",
-      "closed": "",
-      "last_modified": "2026-08-07"
+      "closed": "2026-08-11",
+      "last_modified": "2026-08-11"
     },
     {
       "id": "500Sa00000yMUg2IAG",
@@ -74384,28 +74406,6 @@
       "last_modified": "2024-04-04"
     },
     {
-      "id": "500Sa000007MULDIA4",
-      "case_number": "00020202",
-      "subject": "Hubtype issue",
-      "status": "Closed",
-      "priority": "High",
-      "is_closed": true,
-      "is_escalated": false,
-      "owner": "Premium Support",
-      "account": "Easyjet PLC",
-      "origin": "Inbound",
-      "type": "Issue",
-      "feeling": "",
-      "issue_type": "",
-      "channel": "Email",
-      "is_critical": "L2",
-      "escalated_team": "",
-      "resolution_time": "1. <6h",
-      "created": "2024-04-03",
-      "closed": "2024-04-03",
-      "last_modified": "2024-04-03"
-    },
-    {
       "id": "500Sa000007Mh5WIAS",
       "case_number": "00020203",
       "subject": "Hubtype issue",
@@ -74426,6 +74426,28 @@
       "created": "2024-04-03",
       "closed": "2024-04-04",
       "last_modified": "2024-04-04"
+    },
+    {
+      "id": "500Sa000007MULDIA4",
+      "case_number": "00020202",
+      "subject": "Hubtype issue",
+      "status": "Closed",
+      "priority": "High",
+      "is_closed": true,
+      "is_escalated": false,
+      "owner": "Premium Support",
+      "account": "Easyjet PLC",
+      "origin": "Inbound",
+      "type": "Issue",
+      "feeling": "",
+      "issue_type": "",
+      "channel": "Email",
+      "is_critical": "L2",
+      "escalated_team": "",
+      "resolution_time": "1. <6h",
+      "created": "2024-04-03",
+      "closed": "2024-04-03",
+      "last_modified": "2024-04-03"
     },
     {
       "id": "500Sa000007MXKfIAO",
