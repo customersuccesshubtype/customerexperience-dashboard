@@ -1,10 +1,38 @@
 {
-  "last_updated": "2026-08-11 08:07 UTC",
+  "last_updated": "2026-08-12 08:14 UTC",
   "tickets": [
+    {
+      "key": "PS-6088",
+      "summary": "Ralph Lauren - contact info fields created_at and updated_at",
+      "status": "In Progress",
+      "status_category": "In Progress",
+      "assignee": "Lorena Sánchez-Toril Nicolás",
+      "issuetype": "Task",
+      "created": "2026-08-11",
+      "updated": "2026-08-11",
+      "resolutiondate": "",
+      "labels": [
+        "Ralph_Lauren"
+      ]
+    },
+    {
+      "key": "PS-6087",
+      "summary": "Hubtype - Update demos Botonic version to lattest",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Marco Gallego Ropero",
+      "issuetype": "Task",
+      "created": "2026-08-11",
+      "updated": "2026-08-12",
+      "resolutiondate": "",
+      "labels": [
+        "Hubtype"
+      ]
+    },
     {
       "key": "PS-6086",
       "summary": "Air Europa - fixes design 2",
-      "status": "In Progress",
+      "status": "Ready for review",
       "status_category": "In Progress",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
@@ -18,12 +46,12 @@
     {
       "key": "PS-6085",
       "summary": "Ralph Lauren- T&C's webview for digital offer",
-      "status": "Ready for review",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-08-10",
-      "updated": "2026-08-10",
+      "updated": "2026-08-11",
       "resolutiondate": "",
       "labels": [
         "Ralph_Lauren"
@@ -32,12 +60,12 @@
     {
       "key": "PS-6084",
       "summary": "Ralph Lauren - Landlord flow",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "In Progress",
+      "status_category": "In Progress",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-08-07",
-      "updated": "2026-08-11",
+      "updated": "2026-08-12",
       "resolutiondate": "",
       "labels": [
         "Ralph_Lauren"
@@ -46,8 +74,8 @@
     {
       "key": "PS-6083",
       "summary": "Ralph Lauren - voucher DIGITAL FLOW",
-      "status": "In Progress",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-08-07",
@@ -60,12 +88,12 @@
     {
       "key": "PS-6082",
       "summary": "Ralph Lauren - voucher pass different validation day flow",
-      "status": "Ready for review",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-08-07",
-      "updated": "2026-08-07",
+      "updated": "2026-08-11",
       "resolutiondate": "",
       "labels": [
         "Ralph_Lauren"
@@ -112,42 +140,14 @@
       "labels": []
     },
     {
-      "key": "PS-6078",
-      "summary": "Fenie Energia - API Integration - Validación de código de verificación",
-      "status": "To Do",
-      "status_category": "To Do",
-      "assignee": null,
-      "issuetype": "Task",
-      "created": "2026-08-05",
-      "updated": "2026-08-05",
-      "resolutiondate": "",
-      "labels": [
-        "FenieEnergia"
-      ]
-    },
-    {
-      "key": "PS-6077",
-      "summary": "Fenie Energia - SF User Authentication",
-      "status": "To Do",
-      "status_category": "To Do",
-      "assignee": null,
-      "issuetype": "Task",
-      "created": "2026-08-05",
-      "updated": "2026-08-05",
-      "resolutiondate": "",
-      "labels": [
-        "FenieEnergia"
-      ]
-    },
-    {
       "key": "PS-6076",
       "summary": "Fenie Energia - AI Agent Integration",
-      "status": "To Do",
+      "status": "Open",
       "status_category": "To Do",
       "assignee": "Pep Alonso",
       "issuetype": "Task",
       "created": "2026-08-05",
-      "updated": "2026-08-05",
+      "updated": "2026-08-11",
       "resolutiondate": "",
       "labels": [
         "FenieEnergia"
@@ -170,12 +170,12 @@
     {
       "key": "PS-6074",
       "summary": "Michael Kors - Remove tracking URL for returned items",
-      "status": "Ready for review",
+      "status": "Ready to Deliver",
       "status_category": "In Progress",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-08-05",
-      "updated": "2026-08-05",
+      "updated": "2026-08-11",
       "resolutiondate": "",
       "labels": [
         "Michael-Kors"
@@ -189,7 +189,7 @@
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Discovery Task",
       "created": "2026-08-04",
-      "updated": "2026-08-10",
+      "updated": "2026-08-11",
       "resolutiondate": "",
       "labels": [
         "RACC"
@@ -212,12 +212,12 @@
     {
       "key": "PS-6071",
       "summary": "Michael Kors - Display \"talk to agent\" message to all cancelled items",
-      "status": "Ready for review",
+      "status": "Ready to Deliver",
       "status_category": "In Progress",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-08-04",
-      "updated": "2026-08-05",
+      "updated": "2026-08-11",
       "resolutiondate": "",
       "labels": [
         "Michael-Kors"
@@ -282,12 +282,12 @@
     {
       "key": "PS-6066",
       "summary": "Michael Kors - Add Order Status \"Pending Return\"",
-      "status": "Ready for review",
+      "status": "Ready to Deliver",
       "status_category": "In Progress",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-08-03",
-      "updated": "2026-08-04",
+      "updated": "2026-08-11",
       "resolutiondate": "",
       "labels": [
         "Michael-Kors"
@@ -324,12 +324,12 @@
     {
       "key": "PS-6063",
       "summary": "Retorna - Create App Snippet",
-      "status": "Ready for review",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Aitor Casas",
       "issuetype": "Task",
       "created": "2026-08-03",
-      "updated": "2026-08-10",
+      "updated": "2026-08-11",
       "resolutiondate": "",
       "labels": [
         "Retorna"
@@ -352,12 +352,12 @@
     {
       "key": "PS-6061",
       "summary": "Air Europa - Adjust the bot messages for Galician version",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "In Progress",
+      "status_category": "In Progress",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-08-03",
-      "updated": "2026-08-10",
+      "updated": "2026-08-11",
       "resolutiondate": "",
       "labels": [
         "AirEuropa"
@@ -450,12 +450,12 @@
     {
       "key": "PS-6054",
       "summary": "Ralph Lauren - remove unused plugin optin-optout",
-      "status": "Ready for review",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-07-31",
-      "updated": "2026-07-31",
+      "updated": "2026-08-11",
       "resolutiondate": "",
       "labels": [
         "Ralph_Lauren"
@@ -497,7 +497,7 @@
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-07-31",
-      "updated": "2026-08-05",
+      "updated": "2026-08-11",
       "resolutiondate": "",
       "labels": [
         "DABA"
@@ -744,12 +744,12 @@
     {
       "key": "PS-6033",
       "summary": "MichaelKors - Apply new feedback",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "irene callejas",
       "issuetype": "Task",
       "created": "2026-07-29",
-      "updated": "2026-07-31",
+      "updated": "2026-08-11",
       "resolutiondate": "",
       "labels": [
         "Michael-Kors"
@@ -758,12 +758,12 @@
     {
       "key": "PS-6032",
       "summary": "MK WISMO order tracking: fixes from UAT",
-      "status": "Ready for review",
+      "status": "Ready to Deliver",
       "status_category": "In Progress",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-07-29",
-      "updated": "2026-07-31",
+      "updated": "2026-08-11",
       "resolutiondate": "",
       "labels": [
         "Michael-Kors"
@@ -996,12 +996,12 @@
     {
       "key": "PS-6015",
       "summary": "Internal - Update all internal packages to version 0.54",
-      "status": "Ready for review",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-07-27",
-      "updated": "2026-07-28",
+      "updated": "2026-08-12",
       "resolutiondate": "",
       "labels": [
         "Internal"
@@ -1505,7 +1505,7 @@
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-07-23",
-      "updated": "2026-07-23",
+      "updated": "2026-08-11",
       "resolutiondate": "",
       "labels": [
         "Polarier"
@@ -1575,7 +1575,7 @@
       "assignee": "Pep Alonso",
       "issuetype": "Task",
       "created": "2026-07-22",
-      "updated": "2026-08-05",
+      "updated": "2026-08-11",
       "resolutiondate": "",
       "labels": [
         "Occident"
@@ -2318,7 +2318,7 @@
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-07-17",
-      "updated": "2026-08-03",
+      "updated": "2026-08-11",
       "resolutiondate": "",
       "labels": [
         "Concentra"
@@ -2341,12 +2341,12 @@
     {
       "key": "PS-5919",
       "summary": "Michael Kors - Analyse opps to make bot more conversational",
-      "status": "In Progress",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Francisca Martelli",
       "issuetype": "Task",
       "created": "2026-07-17",
-      "updated": "2026-07-20",
+      "updated": "2026-08-11",
       "resolutiondate": "",
       "labels": [
         "Michael-Kors"
@@ -2640,7 +2640,7 @@
       "assignee": "Aitor Casas",
       "issuetype": "Task",
       "created": "2026-07-10",
-      "updated": "2026-07-10",
+      "updated": "2026-08-11",
       "resolutiondate": "",
       "labels": [
         "all_clients"
@@ -3053,12 +3053,12 @@
     {
       "key": "PS-5868",
       "summary": "Assegur - Review if we are receiving new data about \"arag\" and \"europ assistance\"",
-      "status": "In Progress",
-      "status_category": "In Progress",
+      "status": "Closed",
+      "status_category": "Done",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-07-09",
-      "updated": "2026-08-05",
+      "updated": "2026-08-11",
       "resolutiondate": "",
       "labels": [
         "Assegur"
@@ -3193,12 +3193,12 @@
     {
       "key": "PS-5858",
       "summary": "Soledad - Allow \"Tarjeta\" & \"Bizum\" as new payment options",
-      "status": "Ready for review",
+      "status": "In Review",
       "status_category": "In Progress",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-07-08",
-      "updated": "2026-07-23",
+      "updated": "2026-08-12",
       "resolutiondate": "",
       "labels": [
         "Soledad"
@@ -3226,7 +3226,7 @@
       "assignee": "Aitor Casas",
       "issuetype": "Task",
       "created": "2026-07-08",
-      "updated": "2026-07-13",
+      "updated": "2026-08-11",
       "resolutiondate": "",
       "labels": [
         "Concentra"
@@ -3307,10 +3307,10 @@
       "summary": "Grupo Concentra - 1st Phase",
       "status": "In Progress",
       "status_category": "In Progress",
-      "assignee": "Julieta Mezza",
+      "assignee": "Francisca Martelli",
       "issuetype": "Epic",
       "created": "2026-07-08",
-      "updated": "2026-07-30",
+      "updated": "2026-08-11",
       "resolutiondate": "",
       "labels": [
         "Concentra"
@@ -5473,7 +5473,7 @@
       "assignee": "Pep Alonso",
       "issuetype": "Bug",
       "created": "2026-06-03",
-      "updated": "2026-08-09",
+      "updated": "2026-08-11",
       "resolutiondate": "",
       "labels": [
         "AirEuropa",
@@ -5852,7 +5852,7 @@
       "assignee": "Adrià Sastre",
       "issuetype": "Task",
       "created": "2026-05-29",
-      "updated": "2026-05-29",
+      "updated": "2026-08-11",
       "resolutiondate": "",
       "labels": [
         "Guess"
@@ -15526,12 +15526,12 @@
     {
       "key": "PS-4931",
       "summary": "Jetsmart - Complex use case \"Buy a flight\"",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "In Progress",
+      "status_category": "In Progress",
       "assignee": "Pep Alonso",
       "issuetype": "Epic",
       "created": "2026-01-30",
-      "updated": "2026-08-04",
+      "updated": "2026-08-11",
       "resolutiondate": "",
       "labels": [
         "JetSmart"
