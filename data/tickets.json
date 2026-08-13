@@ -1,15 +1,43 @@
 {
-  "last_updated": "2026-08-12 08:14 UTC",
+  "last_updated": "2026-08-13 08:17 UTC",
   "tickets": [
     {
-      "key": "PS-6088",
-      "summary": "Ralph Lauren - contact info fields created_at and updated_at",
-      "status": "In Progress",
+      "key": "PS-6090",
+      "summary": "Concentra - change template and activate trigger script",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Lorena Sánchez-Toril Nicolás",
+      "issuetype": "Task",
+      "created": "2026-08-13",
+      "updated": "2026-08-13",
+      "resolutiondate": "",
+      "labels": [
+        "Concentra"
+      ]
+    },
+    {
+      "key": "PS-6089",
+      "summary": "Racc - Seguros Viaje reset backdoor command custom",
+      "status": "Ready for review",
       "status_category": "In Progress",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
+      "created": "2026-08-12",
+      "updated": "2026-08-13",
+      "resolutiondate": "",
+      "labels": [
+        "RACC"
+      ]
+    },
+    {
+      "key": "PS-6088",
+      "summary": "Ralph Lauren - contact info fields created_at and updated_at",
+      "status": "Done",
+      "status_category": "Done",
+      "assignee": "Lorena Sánchez-Toril Nicolás",
+      "issuetype": "Task",
       "created": "2026-08-11",
-      "updated": "2026-08-11",
+      "updated": "2026-08-13",
       "resolutiondate": "",
       "labels": [
         "Ralph_Lauren"
@@ -18,8 +46,8 @@
     {
       "key": "PS-6087",
       "summary": "Hubtype - Update demos Botonic version to lattest",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "In Progress",
+      "status_category": "In Progress",
       "assignee": "Marco Gallego Ropero",
       "issuetype": "Task",
       "created": "2026-08-11",
@@ -60,12 +88,12 @@
     {
       "key": "PS-6084",
       "summary": "Ralph Lauren - Landlord flow",
-      "status": "In Progress",
-      "status_category": "In Progress",
+      "status": "In production",
+      "status_category": "Done",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-08-07",
-      "updated": "2026-08-12",
+      "updated": "2026-08-13",
       "resolutiondate": "",
       "labels": [
         "Ralph_Lauren"
@@ -394,12 +422,12 @@
     {
       "key": "PS-6058",
       "summary": "Allianz ES - Quote&Buy - Design the Quote website",
-      "status": "In Progress",
+      "status": "Ready for review",
       "status_category": "In Progress",
       "assignee": "Vicky Correbo",
       "issuetype": "Task",
       "created": "2026-07-31",
-      "updated": "2026-08-06",
+      "updated": "2026-08-12",
       "resolutiondate": "",
       "labels": [
         "Allianz"
@@ -2313,12 +2341,12 @@
     {
       "key": "PS-5921",
       "summary": "Concentra - Implement Lead Nurturing Use Case",
-      "status": "In Progress",
+      "status": "Ready to Deliver",
       "status_category": "In Progress",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-07-17",
-      "updated": "2026-08-11",
+      "updated": "2026-08-13",
       "resolutiondate": "",
       "labels": [
         "Concentra"
@@ -3013,12 +3041,12 @@
     {
       "key": "PS-5871",
       "summary": "Migrate WhatsApp phone number from provider_id to username",
-      "status": "Ready for review",
+      "status": "Ready to Deliver",
       "status_category": "In Progress",
       "assignee": null,
       "issuetype": "Epic",
       "created": "2026-07-09",
-      "updated": "2026-08-04",
+      "updated": "2026-08-12",
       "resolutiondate": "",
       "labels": []
     },
@@ -8976,12 +9004,12 @@
     {
       "key": "PS-5431",
       "summary": "Air Europa - Logic changes",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "In Progress",
+      "status_category": "In Progress",
       "assignee": "Pep Alonso",
       "issuetype": "Task",
       "created": "2026-04-23",
-      "updated": "2026-08-07",
+      "updated": "2026-08-12",
       "resolutiondate": "",
       "labels": [
         "AirEuropa"
