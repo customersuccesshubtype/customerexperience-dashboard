@@ -1,6 +1,50 @@
 {
-  "last_updated": "2026-08-12 08:39 UTC",
+  "last_updated": "2026-08-13 08:43 UTC",
   "cases": [
+    {
+      "id": "500Sa00000ykFkhIAE",
+      "case_number": "00025241",
+      "subject": "Consulta sobre Backlog y Fallback – Conversation Flow Inspector | 1–31 July",
+      "status": "Closed",
+      "priority": "Low",
+      "is_closed": true,
+      "is_escalated": false,
+      "owner": "Aitor Casas",
+      "account": "GUESS",
+      "origin": "Inbound",
+      "type": "",
+      "feeling": "",
+      "issue_type": "",
+      "channel": "Email",
+      "is_critical": "L4",
+      "escalated_team": "",
+      "resolution_time": "1. <6h",
+      "created": "2026-08-12",
+      "closed": "2026-08-12",
+      "last_modified": "2026-08-12"
+    },
+    {
+      "id": "500Sa00000yjZqIIAU",
+      "case_number": "00025240",
+      "subject": "Licenses [Mixpanel Alert Triggered]",
+      "status": "Closed",
+      "priority": "Low",
+      "is_closed": true,
+      "is_escalated": false,
+      "owner": "Aitor Casas",
+      "account": "",
+      "origin": "Inbound",
+      "type": "",
+      "feeling": "",
+      "issue_type": "",
+      "channel": "Email",
+      "is_critical": "L4",
+      "escalated_team": "",
+      "resolution_time": "1. <6h",
+      "created": "2026-08-12",
+      "closed": "2026-08-12",
+      "last_modified": "2026-08-12"
+    },
     {
       "id": "500Sa00000yefjSIAQ",
       "case_number": "00025239",
@@ -159,9 +203,9 @@
       "id": "500Sa00000yQnsCIAS",
       "case_number": "00025231",
       "subject": "Revisión de la caída en la automatización de casos",
-      "status": "Closed",
+      "status": "Open",
       "priority": "Low",
-      "is_closed": true,
+      "is_closed": false,
       "is_escalated": false,
       "owner": "Aitor Casas",
       "account": "Tendam (Cortefiel)",
@@ -172,10 +216,10 @@
       "channel": "Email",
       "is_critical": "L4",
       "escalated_team": "",
-      "resolution_time": "5. >36h",
+      "resolution_time": "",
       "created": "2026-08-07",
-      "closed": "2026-08-11",
-      "last_modified": "2026-08-11"
+      "closed": "",
+      "last_modified": "2026-08-12"
     },
     {
       "id": "500Sa00000yMUg2IAG",
@@ -1736,8 +1780,8 @@
       "escalated_team": "",
       "resolution_time": "5. >36h",
       "created": "2026-07-21",
-      "closed": "2026-07-28",
-      "last_modified": "2026-07-28"
+      "closed": "2026-08-12",
+      "last_modified": "2026-08-12"
     },
     {
       "id": "500Sa00000x9rBJIAY",
