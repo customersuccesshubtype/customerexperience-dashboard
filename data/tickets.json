@@ -1,6 +1,90 @@
 {
-  "last_updated": "2026-08-13 08:17 UTC",
+  "last_updated": "2026-08-14 08:12 UTC",
   "tickets": [
+    {
+      "key": "PS-6096",
+      "summary": "Ralph Lauren - update bot to see tools when new version of botonic realese",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Lorena Sánchez-Toril Nicolás",
+      "issuetype": "Task",
+      "created": "2026-08-14",
+      "updated": "2026-08-14",
+      "resolutiondate": "",
+      "labels": [
+        "Ralph_Lauren"
+      ]
+    },
+    {
+      "key": "PS-6095",
+      "summary": "Air Europa - Booking inquiry UX fix",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Vicky Correbo",
+      "issuetype": "Task",
+      "created": "2026-08-13",
+      "updated": "2026-08-13",
+      "resolutiondate": "",
+      "labels": [
+        "AirEuropa"
+      ]
+    },
+    {
+      "key": "PS-6094",
+      "summary": "Ralph Lauren - regex requested suki",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Lorena Sánchez-Toril Nicolás",
+      "issuetype": "Task",
+      "created": "2026-08-13",
+      "updated": "2026-08-13",
+      "resolutiondate": "",
+      "labels": [
+        "Ralph_Lauren"
+      ]
+    },
+    {
+      "key": "PS-6093",
+      "summary": "Ralph Lauren - summer occasions fixes ",
+      "status": "In Progress",
+      "status_category": "In Progress",
+      "assignee": "Lorena Sánchez-Toril Nicolás",
+      "issuetype": "Task",
+      "created": "2026-08-13",
+      "updated": "2026-08-14",
+      "resolutiondate": "",
+      "labels": [
+        "Ralph_Lauren"
+      ]
+    },
+    {
+      "key": "PS-6092",
+      "summary": "Ralph Lauren - adjust exclusion whatsapp consent filter on campaign action",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Lorena Sánchez-Toril Nicolás",
+      "issuetype": "Task",
+      "created": "2026-08-13",
+      "updated": "2026-08-13",
+      "resolutiondate": "",
+      "labels": [
+        "Ralph_Lauren"
+      ]
+    },
+    {
+      "key": "PS-6091",
+      "summary": "Allianz ES - Quote&Buy website",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Lorena Sánchez-Toril Nicolás",
+      "issuetype": "Task",
+      "created": "2026-08-13",
+      "updated": "2026-08-13",
+      "resolutiondate": "",
+      "labels": [
+        "Allianz-ES"
+      ]
+    },
     {
       "key": "PS-6090",
       "summary": "Concentra - change template and activate trigger script",
@@ -88,7 +172,7 @@
     {
       "key": "PS-6084",
       "summary": "Ralph Lauren - Landlord flow",
-      "status": "In production",
+      "status": "Done",
       "status_category": "Done",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
@@ -198,12 +282,12 @@
     {
       "key": "PS-6074",
       "summary": "Michael Kors - Remove tracking URL for returned items",
-      "status": "Ready to Deliver",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-08-05",
-      "updated": "2026-08-11",
+      "updated": "2026-08-13",
       "resolutiondate": "",
       "labels": [
         "Michael-Kors"
@@ -240,12 +324,12 @@
     {
       "key": "PS-6071",
       "summary": "Michael Kors - Display \"talk to agent\" message to all cancelled items",
-      "status": "Ready to Deliver",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-08-04",
-      "updated": "2026-08-11",
+      "updated": "2026-08-13",
       "resolutiondate": "",
       "labels": [
         "Michael-Kors"
@@ -254,12 +338,12 @@
     {
       "key": "PS-6070",
       "summary": "Occident - Edit the reopen message for it to be send within the first week after the case was closed",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Ready for review",
+      "status_category": "In Progress",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-08-04",
-      "updated": "2026-08-10",
+      "updated": "2026-08-13",
       "resolutiondate": "",
       "labels": [
         "Occident"
@@ -310,12 +394,12 @@
     {
       "key": "PS-6066",
       "summary": "Michael Kors - Add Order Status \"Pending Return\"",
-      "status": "Ready to Deliver",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-08-03",
-      "updated": "2026-08-11",
+      "updated": "2026-08-13",
       "resolutiondate": "",
       "labels": [
         "Michael-Kors"
@@ -380,12 +464,12 @@
     {
       "key": "PS-6061",
       "summary": "Air Europa - Adjust the bot messages for Galician version",
-      "status": "In Progress",
+      "status": "Ready for review",
       "status_category": "In Progress",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-08-03",
-      "updated": "2026-08-11",
+      "updated": "2026-08-14",
       "resolutiondate": "",
       "labels": [
         "AirEuropa"
@@ -758,12 +842,12 @@
     {
       "key": "PS-6034",
       "summary": "RACC Travel - Apply New feedback",
-      "status": "In Progress",
+      "status": "Ready for review",
       "status_category": "In Progress",
       "assignee": "irene callejas",
       "issuetype": "Task",
       "created": "2026-07-29",
-      "updated": "2026-07-30",
+      "updated": "2026-08-14",
       "resolutiondate": "",
       "labels": [
         "RACC"
@@ -786,12 +870,12 @@
     {
       "key": "PS-6032",
       "summary": "MK WISMO order tracking: fixes from UAT",
-      "status": "Ready to Deliver",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-07-29",
-      "updated": "2026-08-11",
+      "updated": "2026-08-13",
       "resolutiondate": "",
       "labels": [
         "Michael-Kors"
@@ -2579,12 +2663,12 @@
     {
       "key": "PS-5904",
       "summary": "Michael Kors - Adjust prompt so Bot Answers on specific questions",
-      "status": "In Progress",
+      "status": "Ready for review",
       "status_category": "In Progress",
       "assignee": "irene callejas",
       "issuetype": "Task",
       "created": "2026-07-10",
-      "updated": "2026-07-29",
+      "updated": "2026-08-14",
       "resolutiondate": "",
       "labels": [
         "Michael-Kors"
@@ -9004,12 +9088,12 @@
     {
       "key": "PS-5431",
       "summary": "Air Europa - Logic changes",
-      "status": "In Progress",
+      "status": "Ready for review",
       "status_category": "In Progress",
       "assignee": "Pep Alonso",
       "issuetype": "Task",
       "created": "2026-04-23",
-      "updated": "2026-08-12",
+      "updated": "2026-08-13",
       "resolutiondate": "",
       "labels": [
         "AirEuropa"
