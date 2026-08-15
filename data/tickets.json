@@ -1,11 +1,68 @@
 {
-  "last_updated": "2026-08-14 08:12 UTC",
+  "last_updated": "2026-08-15 07:27 UTC",
   "tickets": [
+    {
+      "key": "PS-6100",
+      "summary": "Internal - Update Bot template to 0.55.0",
+      "status": "Ready for review",
+      "status_category": "In Progress",
+      "assignee": "Pep Alonso",
+      "issuetype": "Task",
+      "created": "2026-08-14",
+      "updated": "2026-08-14",
+      "resolutiondate": "",
+      "labels": [
+        "Internal"
+      ]
+    },
+    {
+      "key": "PS-6099",
+      "summary": "Michael Kors - AI Agent prompt: Specify ON Format to user",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "irene callejas",
+      "issuetype": "Task",
+      "created": "2026-08-14",
+      "updated": "2026-08-14",
+      "resolutiondate": "",
+      "labels": [
+        "Michael-Kors"
+      ]
+    },
+    {
+      "key": "PS-6098",
+      "summary": "Demo - WAF Super Demo",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Pep Alonso",
+      "issuetype": "Task",
+      "created": "2026-08-14",
+      "updated": "2026-08-14",
+      "resolutiondate": "",
+      "labels": [
+        "Demo"
+      ]
+    },
+    {
+      "key": "PS-6097",
+      "summary": "Hubtype - Bump internal packages to 0.55.0",
+      "status": "Ready for review",
+      "status_category": "In Progress",
+      "assignee": "Pep Alonso",
+      "issuetype": "Task",
+      "created": "2026-08-14",
+      "updated": "2026-08-14",
+      "resolutiondate": "",
+      "labels": [
+        "Hubtype",
+        "Internal"
+      ]
+    },
     {
       "key": "PS-6096",
       "summary": "Ralph Lauren - update bot to see tools when new version of botonic realese",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Ready for review",
+      "status_category": "In Progress",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-08-14",
@@ -18,12 +75,12 @@
     {
       "key": "PS-6095",
       "summary": "Air Europa - Booking inquiry UX fix",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "In Progress",
+      "status_category": "In Progress",
       "assignee": "Vicky Correbo",
       "issuetype": "Task",
       "created": "2026-08-13",
-      "updated": "2026-08-13",
+      "updated": "2026-08-14",
       "resolutiondate": "",
       "labels": [
         "AirEuropa"
@@ -46,8 +103,8 @@
     {
       "key": "PS-6093",
       "summary": "Ralph Lauren - summer occasions fixes ",
-      "status": "In Progress",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-08-13",
@@ -60,12 +117,12 @@
     {
       "key": "PS-6092",
       "summary": "Ralph Lauren - adjust exclusion whatsapp consent filter on campaign action",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "In Progress",
+      "status_category": "In Progress",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-08-13",
-      "updated": "2026-08-13",
+      "updated": "2026-08-14",
       "resolutiondate": "",
       "labels": [
         "Ralph_Lauren"
@@ -338,12 +395,12 @@
     {
       "key": "PS-6070",
       "summary": "Occident - Edit the reopen message for it to be send within the first week after the case was closed",
-      "status": "Ready for review",
-      "status_category": "In Progress",
+      "status": "APPROVED FOR PRODUCTION",
+      "status_category": "Done",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-08-04",
-      "updated": "2026-08-13",
+      "updated": "2026-08-14",
       "resolutiondate": "",
       "labels": [
         "Occident"
@@ -464,8 +521,8 @@
     {
       "key": "PS-6061",
       "summary": "Air Europa - Adjust the bot messages for Galician version",
-      "status": "Ready for review",
-      "status_category": "In Progress",
+      "status": "APPROVED FOR PRODUCTION",
+      "status_category": "Done",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-08-03",
@@ -4299,12 +4356,12 @@
     {
       "key": "PS-5780",
       "summary": "Michael Kors - Add webview event tracking",
-      "status": "Ready to Deliver",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Alexander Skalatskiy",
       "issuetype": "Task",
       "created": "2026-06-19",
-      "updated": "2026-06-29",
+      "updated": "2026-08-14",
       "resolutiondate": "",
       "labels": [
         "Michael-Kors"
@@ -4505,12 +4562,12 @@
     {
       "key": "PS-5765",
       "summary": "Michael Kors - Connect WISMO/WISMR webview with middleware",
-      "status": "Ready to Deliver",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Alexander Skalatskiy",
       "issuetype": "Task",
       "created": "2026-06-17",
-      "updated": "2026-06-29",
+      "updated": "2026-08-14",
       "resolutiondate": "",
       "labels": [
         "Michael-Kors"
@@ -7943,12 +8000,12 @@
     {
       "key": "PS-5516",
       "summary": "Michael Kors - Implement Middleware to handle WISMO/WISMR calls from webview and bot",
-      "status": "Ready to Deliver",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Alexander Skalatskiy",
       "issuetype": "Task",
       "created": "2026-05-07",
-      "updated": "2026-06-29",
+      "updated": "2026-08-14",
       "resolutiondate": "",
       "labels": [
         "Michael-Kors"
@@ -8013,12 +8070,12 @@
     {
       "key": "PS-5511",
       "summary": "Michael Kors - Implement WISMO/WISMR flow and bot responses",
-      "status": "Ready to Deliver",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Alexander Skalatskiy",
       "issuetype": "Task",
       "created": "2026-05-07",
-      "updated": "2026-06-29",
+      "updated": "2026-08-14",
       "resolutiondate": "",
       "labels": [
         "Michael-Kors"
@@ -8027,12 +8084,12 @@
     {
       "key": "PS-5510",
       "summary": "Michael Kors - Implement WISMO/WISMR webview/s",
-      "status": "Ready to Deliver",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Alexander Skalatskiy",
       "issuetype": "Task",
       "created": "2026-05-07",
-      "updated": "2026-06-29",
+      "updated": "2026-08-14",
       "resolutiondate": "",
       "labels": [
         "Michael-Kors"
@@ -9088,12 +9145,12 @@
     {
       "key": "PS-5431",
       "summary": "Air Europa - Logic changes",
-      "status": "Ready for review",
+      "status": "Ready to Deliver",
       "status_category": "In Progress",
       "assignee": "Pep Alonso",
       "issuetype": "Task",
       "created": "2026-04-23",
-      "updated": "2026-08-13",
+      "updated": "2026-08-14",
       "resolutiondate": "",
       "labels": [
         "AirEuropa"
