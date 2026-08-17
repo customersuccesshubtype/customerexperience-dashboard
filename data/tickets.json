@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-16 07:28 UTC",
+  "last_updated": "2026-08-17 07:49 UTC",
   "tickets": [
     {
       "key": "PS-6100",
@@ -89,12 +89,12 @@
     {
       "key": "PS-6094",
       "summary": "Ralph Lauren - regex requested suki",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "In Progress",
+      "status_category": "In Progress",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-08-13",
-      "updated": "2026-08-13",
+      "updated": "2026-08-17",
       "resolutiondate": "",
       "labels": [
         "Ralph_Lauren"
@@ -117,12 +117,12 @@
     {
       "key": "PS-6092",
       "summary": "Ralph Lauren - adjust exclusion whatsapp consent filter on campaign action",
-      "status": "In Progress",
+      "status": "Ready for review",
       "status_category": "In Progress",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-08-13",
-      "updated": "2026-08-14",
+      "updated": "2026-08-17",
       "resolutiondate": "",
       "labels": [
         "Ralph_Lauren"
@@ -131,12 +131,12 @@
     {
       "key": "PS-6091",
       "summary": "Allianz ES - Quote&Buy website",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "In Progress",
+      "status_category": "In Progress",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-08-13",
-      "updated": "2026-08-13",
+      "updated": "2026-08-17",
       "resolutiondate": "",
       "labels": [
         "Allianz-ES"
@@ -201,12 +201,12 @@
     {
       "key": "PS-6086",
       "summary": "Air Europa - fixes design 2",
-      "status": "Ready for review",
-      "status_category": "In Progress",
+      "status": "APPROVED FOR PRODUCTION",
+      "status_category": "Done",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-08-11",
-      "updated": "2026-08-11",
+      "updated": "2026-08-17",
       "resolutiondate": "",
       "labels": [
         "AirEuropa"
@@ -442,7 +442,7 @@
       "assignee": "Pep Alonso",
       "issuetype": "Task",
       "created": "2026-08-03",
-      "updated": "2026-08-09",
+      "updated": "2026-08-17",
       "resolutiondate": "",
       "labels": [
         "AirEuropa"
@@ -568,7 +568,7 @@
       "assignee": "Vicky Correbo",
       "issuetype": "Task",
       "created": "2026-07-31",
-      "updated": "2026-08-12",
+      "updated": "2026-08-17",
       "resolutiondate": "",
       "labels": [
         "Allianz"
@@ -1744,7 +1744,7 @@
       "assignee": "Pep Alonso",
       "issuetype": "Task",
       "created": "2026-07-22",
-      "updated": "2026-08-11",
+      "updated": "2026-08-17",
       "resolutiondate": "",
       "labels": [
         "Occident"
@@ -2179,7 +2179,7 @@
       "assignee": "Pep Alonso",
       "issuetype": "Task",
       "created": "2026-07-20",
-      "updated": "2026-07-22",
+      "updated": "2026-08-17",
       "resolutiondate": "",
       "labels": [
         "occident"
@@ -3516,12 +3516,12 @@
     {
       "key": "PS-5846",
       "summary": "Air Europa - Stop sending images URL to AVA",
-      "status": "Open",
-      "status_category": "To Do",
+      "status": "Closed",
+      "status_category": "Done",
       "assignee": "Julieta Mezza",
       "issuetype": "Task",
       "created": "2026-07-07",
-      "updated": "2026-07-22",
+      "updated": "2026-08-17",
       "resolutiondate": "",
       "labels": [
         "AirEuropa"
@@ -4794,12 +4794,12 @@
     {
       "key": "PS-5748",
       "summary": "Air Europa - Stop sending AVA images URLs",
-      "status": "Open",
-      "status_category": "To Do",
+      "status": "Closed",
+      "status_category": "Done",
       "assignee": "Julieta Mezza",
       "issuetype": "Task",
       "created": "2026-06-15",
-      "updated": "2026-07-22",
+      "updated": "2026-08-17",
       "resolutiondate": "",
       "labels": [
         "AirEuropa"
@@ -8885,12 +8885,12 @@
     {
       "key": "PS-5451",
       "summary": "Air Europa - Apply design changes (1)",
-      "status": "Ready to Deliver",
-      "status_category": "In Progress",
+      "status": "APPROVED FOR PRODUCTION",
+      "status_category": "Done",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-04-27",
-      "updated": "2026-08-07",
+      "updated": "2026-08-17",
       "resolutiondate": "",
       "labels": [
         "AirEuropa"
@@ -9131,12 +9131,12 @@
     {
       "key": "PS-5432",
       "summary": "Air Europa - Text and redirection changes",
-      "status": "Ready to Deliver",
-      "status_category": "In Progress",
+      "status": "APPROVED FOR PRODUCTION",
+      "status_category": "Done",
       "assignee": "Adrià Sastre",
       "issuetype": "Task",
       "created": "2026-04-23",
-      "updated": "2026-08-03",
+      "updated": "2026-08-17",
       "resolutiondate": "",
       "labels": [
         "AirEuropa"
@@ -9145,12 +9145,12 @@
     {
       "key": "PS-5431",
       "summary": "Air Europa - Logic changes",
-      "status": "Ready to Deliver",
-      "status_category": "In Progress",
+      "status": "APPROVED FOR PRODUCTION",
+      "status_category": "Done",
       "assignee": "Pep Alonso",
       "issuetype": "Task",
       "created": "2026-04-23",
-      "updated": "2026-08-14",
+      "updated": "2026-08-17",
       "resolutiondate": "",
       "labels": [
         "AirEuropa"
@@ -9159,12 +9159,12 @@
     {
       "key": "PS-5430",
       "summary": "Air Europa - Apply design changes (2)",
-      "status": "Ready to Deliver",
-      "status_category": "In Progress",
+      "status": "APPROVED FOR PRODUCTION",
+      "status_category": "Done",
       "assignee": "Evgeni Slavyanov",
       "issuetype": "Task",
       "created": "2026-04-23",
-      "updated": "2026-08-03",
+      "updated": "2026-08-17",
       "resolutiondate": "",
       "labels": [
         "AirEuropa"
@@ -10898,12 +10898,12 @@
     {
       "key": "PS-5296",
       "summary": "Jetsmart - Adjust design to match the \"buy a flight\" design",
-      "status": "Open",
-      "status_category": "To Do",
+      "status": "Closed",
+      "status_category": "Done",
       "assignee": null,
       "issuetype": "Task",
       "created": "2026-04-08",
-      "updated": "2026-06-22",
+      "updated": "2026-08-17",
       "resolutiondate": "",
       "labels": [
         "JetSmart"
@@ -12564,12 +12564,12 @@
     {
       "key": "PS-5172",
       "summary": "Air Europa - Add logged/not logged to contact info fields",
-      "status": "Open",
+      "status": "To Do",
       "status_category": "To Do",
-      "assignee": "Julieta Mezza",
+      "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-03-11",
-      "updated": "2026-06-08",
+      "updated": "2026-08-17",
       "resolutiondate": "",
       "labels": [
         "AirEuropa"
