@@ -1,6 +1,68 @@
 {
-  "last_updated": "2026-08-17 07:49 UTC",
+  "last_updated": "2026-08-18 07:34 UTC",
   "tickets": [
+    {
+      "key": "PS-6105",
+      "summary": "Ralph Lauren - UTM params",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Lorena Sánchez-Toril Nicolás",
+      "issuetype": "Task",
+      "created": "2026-08-18",
+      "updated": "2026-08-18",
+      "resolutiondate": "",
+      "labels": [
+        "Ralph_Lauren"
+      ]
+    },
+    {
+      "key": "PS-6104",
+      "summary": "Guess - Update bot to .55 version",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Marco Gallego Ropero",
+      "issuetype": "Task",
+      "created": "2026-08-17",
+      "updated": "2026-08-17",
+      "resolutiondate": "",
+      "labels": []
+    },
+    {
+      "key": "PS-6103",
+      "summary": "Retorna - Update Bot to .55 version",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Marco Gallego Ropero",
+      "issuetype": "Task",
+      "created": "2026-08-17",
+      "updated": "2026-08-17",
+      "resolutiondate": "",
+      "labels": []
+    },
+    {
+      "key": "PS-6102",
+      "summary": "Michael Kors - Update Bot to .55 version",
+      "status": "In Progress",
+      "status_category": "In Progress",
+      "assignee": "Marco Gallego Ropero",
+      "issuetype": "Task",
+      "created": "2026-08-17",
+      "updated": "2026-08-17",
+      "resolutiondate": "",
+      "labels": []
+    },
+    {
+      "key": "PS-6101",
+      "summary": "ALSA : implementacion nuevo flujo",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "irene callejas",
+      "issuetype": "Task",
+      "created": "2026-08-17",
+      "updated": "2026-08-17",
+      "resolutiondate": "",
+      "labels": []
+    },
     {
       "key": "PS-6100",
       "summary": "Internal - Update Bot template to 0.55.0",
@@ -61,12 +123,12 @@
     {
       "key": "PS-6096",
       "summary": "Ralph Lauren - update bot to see tools when new version of botonic realese",
-      "status": "Ready for review",
-      "status_category": "In Progress",
+      "status": "In production",
+      "status_category": "Done",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-08-14",
-      "updated": "2026-08-14",
+      "updated": "2026-08-18",
       "resolutiondate": "",
       "labels": [
         "Ralph_Lauren"
@@ -89,12 +151,12 @@
     {
       "key": "PS-6094",
       "summary": "Ralph Lauren - regex requested suki",
-      "status": "In Progress",
-      "status_category": "In Progress",
+      "status": "In production",
+      "status_category": "Done",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-08-13",
-      "updated": "2026-08-17",
+      "updated": "2026-08-18",
       "resolutiondate": "",
       "labels": [
         "Ralph_Lauren"
@@ -117,12 +179,12 @@
     {
       "key": "PS-6092",
       "summary": "Ralph Lauren - adjust exclusion whatsapp consent filter on campaign action",
-      "status": "Ready for review",
-      "status_category": "In Progress",
+      "status": "In production",
+      "status_category": "Done",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-08-13",
-      "updated": "2026-08-17",
+      "updated": "2026-08-18",
       "resolutiondate": "",
       "labels": [
         "Ralph_Lauren"
@@ -150,7 +212,7 @@
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-08-13",
-      "updated": "2026-08-13",
+      "updated": "2026-08-17",
       "resolutiondate": "",
       "labels": [
         "Concentra"
@@ -159,12 +221,12 @@
     {
       "key": "PS-6089",
       "summary": "Racc - Seguros Viaje reset backdoor command custom",
-      "status": "Ready for review",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-08-12",
-      "updated": "2026-08-13",
+      "updated": "2026-08-18",
       "resolutiondate": "",
       "labels": [
         "RACC"
@@ -201,7 +263,7 @@
     {
       "key": "PS-6086",
       "summary": "Air Europa - fixes design 2",
-      "status": "APPROVED FOR PRODUCTION",
+      "status": "Done",
       "status_category": "Done",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
@@ -285,12 +347,12 @@
     {
       "key": "PS-6080",
       "summary": "Ralph Lauren - Add \"Sign-Up Voucher\" generation conversation info field ",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Ready for review",
+      "status_category": "In Progress",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-08-06",
-      "updated": "2026-08-07",
+      "updated": "2026-08-18",
       "resolutiondate": "",
       "labels": [
         "Ralph_Lauren"
@@ -311,12 +373,12 @@
     {
       "key": "PS-6076",
       "summary": "Fenie Energia - AI Agent Integration",
-      "status": "Open",
+      "status": "To Do",
       "status_category": "To Do",
       "assignee": "Pep Alonso",
       "issuetype": "Task",
       "created": "2026-08-05",
-      "updated": "2026-08-11",
+      "updated": "2026-08-17",
       "resolutiondate": "",
       "labels": [
         "FenieEnergia"
@@ -353,12 +415,12 @@
     {
       "key": "PS-6073",
       "summary": "RACC - Check connectivity with AiAlma AI Agent",
-      "status": "In Progress",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Discovery Task",
       "created": "2026-08-04",
-      "updated": "2026-08-11",
+      "updated": "2026-08-18",
       "resolutiondate": "",
       "labels": [
         "RACC"
@@ -437,8 +499,8 @@
     {
       "key": "PS-6067",
       "summary": "Air Europa - Enviar chat context después de GET Token siempre aunque no haya cambiado nada",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Ready for review",
+      "status_category": "In Progress",
       "assignee": "Pep Alonso",
       "issuetype": "Task",
       "created": "2026-08-03",
@@ -521,12 +583,12 @@
     {
       "key": "PS-6061",
       "summary": "Air Europa - Adjust the bot messages for Galician version",
-      "status": "APPROVED FOR PRODUCTION",
-      "status_category": "Done",
+      "status": "Ready to Deliver",
+      "status_category": "In Progress",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-08-03",
-      "updated": "2026-08-14",
+      "updated": "2026-08-17",
       "resolutiondate": "",
       "labels": [
         "AirEuropa"
@@ -722,7 +784,7 @@
       "assignee": "Pep Alonso",
       "issuetype": "Discovery Task",
       "created": "2026-07-30",
-      "updated": "2026-08-09",
+      "updated": "2026-08-17",
       "resolutiondate": "",
       "labels": [
         "Euroriente"
@@ -969,12 +1031,12 @@
     {
       "key": "PS-6029",
       "summary": "Racc - Viaje - Incluir Product ID en Conv. Info. Field",
-      "status": "Ready to Deliver",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-07-29",
-      "updated": "2026-07-31",
+      "updated": "2026-08-18",
       "resolutiondate": "",
       "labels": [
         "RACC"
@@ -983,12 +1045,12 @@
     {
       "key": "PS-6028",
       "summary": "Women's Secret - Revisar cómo el AI Agent ofrece Handoff (quizá ir a opcion de botton y que te lleve al content id de handoff)",
-      "status": "To Do",
-      "status_category": "To Do",
-      "assignee": null,
+      "status": "Ready for review",
+      "status_category": "In Progress",
+      "assignee": "irene callejas",
       "issuetype": "Bug",
       "created": "2026-07-28",
-      "updated": "2026-07-28",
+      "updated": "2026-08-17",
       "resolutiondate": "",
       "labels": [
         "tendam"
@@ -1305,12 +1367,12 @@
     {
       "key": "PS-6005",
       "summary": "Tendam - Update Dash & Stars bot version",
-      "status": "Ready for review",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Marco Gallego Ropero",
       "issuetype": "Task",
       "created": "2026-07-27",
-      "updated": "2026-08-06",
+      "updated": "2026-08-17",
       "resolutiondate": "",
       "labels": [
         "Tendam"
@@ -1319,12 +1381,12 @@
     {
       "key": "PS-6004",
       "summary": "Tendam - Update SlowLove bot version",
-      "status": "Ready for review",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Marco Gallego Ropero",
       "issuetype": "Task",
       "created": "2026-07-27",
-      "updated": "2026-08-07",
+      "updated": "2026-08-17",
       "resolutiondate": "",
       "labels": [
         "Tendam"
@@ -1333,12 +1395,12 @@
     {
       "key": "PS-6003",
       "summary": "Tendam - Update Fifty bot version",
-      "status": "Ready for review",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Marco Gallego Ropero",
       "issuetype": "Task",
       "created": "2026-07-27",
-      "updated": "2026-08-07",
+      "updated": "2026-08-17",
       "resolutiondate": "",
       "labels": [
         "Tendam"
@@ -1347,12 +1409,12 @@
     {
       "key": "PS-6002",
       "summary": "Tendam - Update Hoss Intropia bot version",
-      "status": "Ready for review",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Marco Gallego Ropero",
       "issuetype": "Task",
       "created": "2026-07-27",
-      "updated": "2026-08-07",
+      "updated": "2026-08-17",
       "resolutiondate": "",
       "labels": [
         "Tendam"
@@ -1361,12 +1423,12 @@
     {
       "key": "PS-6001",
       "summary": "Tendam - Update Pedro del Hierro bot version",
-      "status": "Ready for review",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Marco Gallego Ropero",
       "issuetype": "Task",
       "created": "2026-07-27",
-      "updated": "2026-08-06",
+      "updated": "2026-08-17",
       "resolutiondate": "",
       "labels": [
         "Tendam"
@@ -1375,12 +1437,12 @@
     {
       "key": "PS-6000",
       "summary": "Tendam - Update Cortefield bot version",
-      "status": "Ready for review",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Marco Gallego Ropero",
       "issuetype": "Task",
       "created": "2026-07-27",
-      "updated": "2026-08-06",
+      "updated": "2026-08-17",
       "resolutiondate": "",
       "labels": [
         "Tendam"
@@ -1389,12 +1451,12 @@
     {
       "key": "PS-5999",
       "summary": "Tendam - Update Springfield bot version",
-      "status": "Ready for review",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Marco Gallego Ropero",
       "issuetype": "Task",
       "created": "2026-07-27",
-      "updated": "2026-08-04",
+      "updated": "2026-08-17",
       "resolutiondate": "",
       "labels": [
         "Tendam"
@@ -1403,12 +1465,12 @@
     {
       "key": "PS-5998",
       "summary": "Tendam - Update WS bot version",
-      "status": "Ready for review",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Marco Gallego Ropero",
       "issuetype": "Task",
       "created": "2026-07-27",
-      "updated": "2026-08-04",
+      "updated": "2026-08-17",
       "resolutiondate": "",
       "labels": [
         "Tendam"
@@ -1896,10 +1958,10 @@
       "summary": "Libeen - Ajustar el prompt para pedir email (o teléfono) cuando el usuario no comparta el número, y bloquear la cualificación si no facilita ninguno",
       "status": "To Do",
       "status_category": "To Do",
-      "assignee": null,
+      "assignee": "irene callejas",
       "issuetype": "Task",
       "created": "2026-07-21",
-      "updated": "2026-07-21",
+      "updated": "2026-08-17",
       "resolutiondate": "",
       "labels": [
         "Libeen"
@@ -1955,7 +2017,7 @@
       "assignee": "Marco Gallego Ropero",
       "issuetype": "Task",
       "created": "2026-07-21",
-      "updated": "2026-08-04",
+      "updated": "2026-08-17",
       "resolutiondate": "",
       "labels": [
         "TMB"
@@ -3392,10 +3454,10 @@
       "summary": "Concentra - Activate Campaign Module",
       "status": "To Do",
       "status_category": "To Do",
-      "assignee": "Aitor Casas",
+      "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-07-08",
-      "updated": "2026-08-11",
+      "updated": "2026-08-17",
       "resolutiondate": "",
       "labels": [
         "Concentra"
@@ -3404,12 +3466,12 @@
     {
       "key": "PS-5854",
       "summary": "Concentra - Configure HelpDesk (agents, projects and queues)",
-      "status": "In Progress",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Francisca Martelli",
       "issuetype": "Task",
       "created": "2026-07-08",
-      "updated": "2026-07-24",
+      "updated": "2026-08-17",
       "resolutiondate": "",
       "labels": [
         "Concentra"
@@ -3964,12 +4026,12 @@
     {
       "key": "PS-5812",
       "summary": "Air Europa - Interprete \"HubtypeAction\" and trigger flow builder with AVA response",
-      "status": "APPROVED FOR PRODUCTION",
+      "status": "Done",
       "status_category": "Done",
       "assignee": "Adrià Sastre",
       "issuetype": "Task",
       "created": "2026-06-26",
-      "updated": "2026-08-05",
+      "updated": "2026-08-17",
       "resolutiondate": "",
       "labels": [
         "AirEuropa"
@@ -4822,12 +4884,12 @@
     {
       "key": "PS-5746",
       "summary": "Air Europa - New message for IDLE cases",
-      "status": "APPROVED FOR PRODUCTION",
+      "status": "Done",
       "status_category": "Done",
       "assignee": "Adrià Sastre",
       "issuetype": "Task",
       "created": "2026-06-15",
-      "updated": "2026-08-04",
+      "updated": "2026-08-17",
       "resolutiondate": "",
       "labels": [
         "AirEuropa"
@@ -4866,10 +4928,10 @@
       "summary": "Euroriente - 1st Phase",
       "status": "In Progress",
       "status_category": "In Progress",
-      "assignee": null,
+      "assignee": "Wei Wu",
       "issuetype": "Epic",
       "created": "2026-06-13",
-      "updated": "2026-07-30",
+      "updated": "2026-08-17",
       "resolutiondate": "",
       "labels": [
         "Euroriente"
@@ -5637,12 +5699,12 @@
     {
       "key": "PS-5688",
       "summary": "Air Europa - Bug - Ava error response is triggering the Otherwise fallback flow for text message",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Ready for review",
+      "status_category": "In Progress",
       "assignee": "Pep Alonso",
       "issuetype": "Bug",
       "created": "2026-06-03",
-      "updated": "2026-08-11",
+      "updated": "2026-08-17",
       "resolutiondate": "",
       "labels": [
         "AirEuropa",
@@ -9145,7 +9207,7 @@
     {
       "key": "PS-5431",
       "summary": "Air Europa - Logic changes",
-      "status": "APPROVED FOR PRODUCTION",
+      "status": "Done",
       "status_category": "Done",
       "assignee": "Pep Alonso",
       "issuetype": "Task",
@@ -9245,10 +9307,10 @@
       "summary": "RACC - Integrate AI Agent from Aialma",
       "status": "In Progress",
       "status_category": "In Progress",
-      "assignee": "Adrià Sastre",
+      "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Epic",
       "created": "2026-04-23",
-      "updated": "2026-07-30",
+      "updated": "2026-08-17",
       "resolutiondate": "",
       "labels": [
         "RACC"
@@ -9981,10 +10043,10 @@
       "summary": "Multiasistencia - Create Middleware to integrate with their API",
       "status": "Ready for review",
       "status_category": "In Progress",
-      "assignee": "Evgeni Slavyanov",
+      "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-04-14",
-      "updated": "2026-04-21",
+      "updated": "2026-08-17",
       "resolutiondate": "",
       "labels": [
         "Multiasistencia"
