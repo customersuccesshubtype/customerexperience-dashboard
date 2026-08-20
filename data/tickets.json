@@ -1,6 +1,48 @@
 {
-  "last_updated": "2026-08-19 07:35 UTC",
+  "last_updated": "2026-08-20 07:37 UTC",
   "tickets": [
+    {
+      "key": "PS-6112",
+      "summary": "Ralph Lauren - landlord offer ",
+      "status": "In Progress",
+      "status_category": "In Progress",
+      "assignee": "Lorena Sánchez-Toril Nicolás",
+      "issuetype": "Task",
+      "created": "2026-08-20",
+      "updated": "2026-08-20",
+      "resolutiondate": "",
+      "labels": [
+        "Ralph_Lauren"
+      ]
+    },
+    {
+      "key": "PS-6111",
+      "summary": "NetBerry - COFA - Zendesk: 24h recurring task: import AI self-resolved conversations into Zendesk as resolved cases, labelled",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Pep Alonso",
+      "issuetype": "Task",
+      "created": "2026-08-19",
+      "updated": "2026-08-19",
+      "resolutiondate": "",
+      "labels": [
+        "NetBerry_COFA"
+      ]
+    },
+    {
+      "key": "PS-6110",
+      "summary": "Air Europa - Queue position and automatic discard of webchat cases with +10 min offline",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Lorena Sánchez-Toril Nicolás",
+      "issuetype": "Task",
+      "created": "2026-08-19",
+      "updated": "2026-08-19",
+      "resolutiondate": "",
+      "labels": [
+        "AirEuropa"
+      ]
+    },
     {
       "key": "PS-6109",
       "summary": "Polarier logging error",
@@ -429,7 +471,7 @@
     {
       "key": "PS-6076",
       "summary": "Fenie Energia - AI Agent Integration",
-      "status": "In Progress",
+      "status": "Ready for review",
       "status_category": "In Progress",
       "assignee": "Pep Alonso",
       "issuetype": "Task",
@@ -513,12 +555,12 @@
     {
       "key": "PS-6070",
       "summary": "Occident - Edit the reopen message for it to be send within the first week after the case was closed",
-      "status": "APPROVED FOR PRODUCTION",
+      "status": "Done",
       "status_category": "Done",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-08-04",
-      "updated": "2026-08-14",
+      "updated": "2026-08-19",
       "resolutiondate": "",
       "labels": [
         "Occident"
@@ -840,7 +882,7 @@
       "assignee": "Pep Alonso",
       "issuetype": "Discovery Task",
       "created": "2026-07-30",
-      "updated": "2026-08-17",
+      "updated": "2026-08-20",
       "resolutiondate": "",
       "labels": [
         "Euroriente"
