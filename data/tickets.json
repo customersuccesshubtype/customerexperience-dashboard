@@ -1,11 +1,53 @@
 {
-  "last_updated": "2026-08-20 07:37 UTC",
+  "last_updated": "2026-08-21 07:39 UTC",
   "tickets": [
+    {
+      "key": "PS-6115",
+      "summary": "Ralph Lauren - internal. FlowToken as contentid",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Lorena Sánchez-Toril Nicolás",
+      "issuetype": "Task",
+      "created": "2026-08-20",
+      "updated": "2026-08-20",
+      "resolutiondate": "",
+      "labels": [
+        "Ralph_Lauren"
+      ]
+    },
+    {
+      "key": "PS-6114",
+      "summary": "Air Europa - timestamp contact info field LAST LOGIN STATUS UPDATE",
+      "status": "Ready for review",
+      "status_category": "In Progress",
+      "assignee": "Lorena Sánchez-Toril Nicolás",
+      "issuetype": "Task",
+      "created": "2026-08-20",
+      "updated": "2026-08-20",
+      "resolutiondate": "",
+      "labels": [
+        "AirEuropa"
+      ]
+    },
+    {
+      "key": "PS-6113",
+      "summary": "Ralph Lauren - refactor webviews for flows",
+      "status": "Done",
+      "status_category": "Done",
+      "assignee": "Lorena Sánchez-Toril Nicolás",
+      "issuetype": "Task",
+      "created": "2026-08-20",
+      "updated": "2026-08-20",
+      "resolutiondate": "",
+      "labels": [
+        "Ralph_Lauren"
+      ]
+    },
     {
       "key": "PS-6112",
       "summary": "Ralph Lauren - landlord offer ",
-      "status": "In Progress",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-08-20",
@@ -18,12 +60,12 @@
     {
       "key": "PS-6111",
       "summary": "NetBerry - COFA - Zendesk: 24h recurring task: import AI self-resolved conversations into Zendesk as resolved cases, labelled",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "In Progress",
+      "status_category": "In Progress",
       "assignee": "Pep Alonso",
       "issuetype": "Task",
       "created": "2026-08-19",
-      "updated": "2026-08-19",
+      "updated": "2026-08-20",
       "resolutiondate": "",
       "labels": [
         "NetBerry_COFA"
@@ -32,12 +74,12 @@
     {
       "key": "PS-6110",
       "summary": "Air Europa - Queue position and automatic discard of webchat cases with +10 min offline",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "In Progress",
+      "status_category": "In Progress",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-08-19",
-      "updated": "2026-08-19",
+      "updated": "2026-08-20",
       "resolutiondate": "",
       "labels": [
         "AirEuropa"
@@ -352,7 +394,7 @@
       "assignee": "Marco Gallego Ropero",
       "issuetype": "Task",
       "created": "2026-08-11",
-      "updated": "2026-08-12",
+      "updated": "2026-08-20",
       "resolutiondate": "",
       "labels": [
         "Hubtype"
@@ -12724,12 +12766,12 @@
     {
       "key": "PS-5172",
       "summary": "Air Europa - Add logged/not logged to contact info fields",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "APPROVED FOR PRODUCTION",
+      "status_category": "Done",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-03-11",
-      "updated": "2026-08-17",
+      "updated": "2026-08-20",
       "resolutiondate": "",
       "labels": [
         "AirEuropa"
