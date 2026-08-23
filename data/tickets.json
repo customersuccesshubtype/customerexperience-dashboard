@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-22 07:28 UTC",
+  "last_updated": "2026-08-23 07:30 UTC",
   "tickets": [
     {
       "key": "PS-6117",
@@ -149,19 +149,21 @@
       "assignee": "Pep Alonso",
       "issuetype": "Bug",
       "created": "2026-08-18",
-      "updated": "2026-08-18",
+      "updated": "2026-08-22",
       "resolutiondate": "",
-      "labels": []
+      "labels": [
+        "AirEuropa"
+      ]
     },
     {
       "key": "PS-6106",
       "summary": "Air Europa - Update bot to last version",
-      "status": "APPROVED FOR PRODUCTION",
+      "status": "Done",
       "status_category": "Done",
       "assignee": "Marco Gallego Ropero",
       "issuetype": "Task",
       "created": "2026-08-18",
-      "updated": "2026-08-18",
+      "updated": "2026-08-22",
       "resolutiondate": "",
       "labels": [
         "AirEuropa"
@@ -189,9 +191,11 @@
       "assignee": "Marco Gallego Ropero",
       "issuetype": "Task",
       "created": "2026-08-17",
-      "updated": "2026-08-18",
+      "updated": "2026-08-22",
       "resolutiondate": "",
-      "labels": []
+      "labels": [
+        "Guess"
+      ]
     },
     {
       "key": "PS-6103",
@@ -201,9 +205,11 @@
       "assignee": "Marco Gallego Ropero",
       "issuetype": "Task",
       "created": "2026-08-17",
-      "updated": "2026-08-18",
+      "updated": "2026-08-22",
       "resolutiondate": "",
-      "labels": []
+      "labels": [
+        "Retorna"
+      ]
     },
     {
       "key": "PS-6102",
@@ -213,9 +219,11 @@
       "assignee": "Marco Gallego Ropero",
       "issuetype": "Task",
       "created": "2026-08-17",
-      "updated": "2026-08-18",
+      "updated": "2026-08-22",
       "resolutiondate": "",
-      "labels": []
+      "labels": [
+        "Michael-Kors"
+      ]
     },
     {
       "key": "PS-6101",
@@ -667,12 +675,12 @@
     {
       "key": "PS-6067",
       "summary": "Air Europa - Enviar chat context después de GET Token siempre aunque no haya cambiado nada",
-      "status": "APPROVED FOR PRODUCTION",
+      "status": "Done",
       "status_category": "Done",
       "assignee": "Pep Alonso",
       "issuetype": "Task",
       "created": "2026-08-03",
-      "updated": "2026-08-18",
+      "updated": "2026-08-22",
       "resolutiondate": "",
       "labels": [
         "AirEuropa"
@@ -5867,12 +5875,12 @@
     {
       "key": "PS-5688",
       "summary": "Air Europa - Bug - Ava error response is triggering the Otherwise fallback flow for text message",
-      "status": "APPROVED FOR PRODUCTION",
+      "status": "Done",
       "status_category": "Done",
       "assignee": "Pep Alonso",
       "issuetype": "Bug",
       "created": "2026-06-03",
-      "updated": "2026-08-18",
+      "updated": "2026-08-22",
       "resolutiondate": "",
       "labels": [
         "AirEuropa",
