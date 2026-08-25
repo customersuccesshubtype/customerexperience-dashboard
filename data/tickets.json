@@ -1,6 +1,76 @@
 {
-  "last_updated": "2026-08-24 07:55 UTC",
+  "last_updated": "2026-08-25 07:40 UTC",
   "tickets": [
+    {
+      "key": "PS-6122",
+      "summary": "RL - dates for summer occasion campaign ",
+      "status": "In Progress",
+      "status_category": "In Progress",
+      "assignee": "Lorena Sánchez-Toril Nicolás",
+      "issuetype": "Task",
+      "created": "2026-08-25",
+      "updated": "2026-08-25",
+      "resolutiondate": "",
+      "labels": [
+        "Ralph_Lauren"
+      ]
+    },
+    {
+      "key": "PS-6121",
+      "summary": "GUESS - Concentrix - implementing iX Hero, Concentrix’s AI-powered solution designed to support advisors",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": null,
+      "issuetype": "Discovery Task",
+      "created": "2026-08-25",
+      "updated": "2026-08-25",
+      "resolutiondate": "",
+      "labels": [
+        "Guess"
+      ]
+    },
+    {
+      "key": "PS-6120",
+      "summary": "Verisure Spain - Landings - Send contact reason to Altitude",
+      "status": "In Progress",
+      "status_category": "In Progress",
+      "assignee": "Marco Gallego Ropero",
+      "issuetype": "Task",
+      "created": "2026-08-24",
+      "updated": "2026-08-25",
+      "resolutiondate": "",
+      "labels": [
+        "Verisure_ES"
+      ]
+    },
+    {
+      "key": "PS-6119",
+      "summary": "Air Europa - ESTIMATE: Interpret \"Hubtype Action\" and trigger complex use cases with values coming in the API call",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Adrià Sastre",
+      "issuetype": "Discovery Task",
+      "created": "2026-08-24",
+      "updated": "2026-08-24",
+      "resolutiondate": "",
+      "labels": [
+        "AirEuropa"
+      ]
+    },
+    {
+      "key": "PS-6118",
+      "summary": "Guess - Update SFSC integration logic to pass resolved language for case closure",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Adrià Sastre",
+      "issuetype": "Task",
+      "created": "2026-08-24",
+      "updated": "2026-08-24",
+      "resolutiondate": "",
+      "labels": [
+        "Guess"
+      ]
+    },
     {
       "key": "PS-6117",
       "summary": "RibéSalat - API Review",
@@ -18,12 +88,12 @@
     {
       "key": "PS-6116",
       "summary": "Occident - Review Meta's endpoint to ask phone numbers to users",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Pep Alonso",
       "issuetype": "Discovery Task",
       "created": "2026-08-21",
-      "updated": "2026-08-21",
+      "updated": "2026-08-24",
       "resolutiondate": "",
       "labels": [
         "Occident"
@@ -46,12 +116,12 @@
     {
       "key": "PS-6114",
       "summary": "Air Europa - timestamp contact info field LAST LOGIN STATUS UPDATE",
-      "status": "Ready for review",
-      "status_category": "In Progress",
+      "status": "APPROVED FOR PRODUCTION",
+      "status_category": "Done",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-08-20",
-      "updated": "2026-08-20",
+      "updated": "2026-08-24",
       "resolutiondate": "",
       "labels": [
         "AirEuropa"
@@ -102,12 +172,12 @@
     {
       "key": "PS-6110",
       "summary": "Air Europa - Queue position and automatic discard of webchat cases with +10 min offline",
-      "status": "In Progress",
+      "status": "Ready for review",
       "status_category": "In Progress",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-08-19",
-      "updated": "2026-08-20",
+      "updated": "2026-08-24",
       "resolutiondate": "",
       "labels": [
         "AirEuropa"
@@ -130,12 +200,12 @@
     {
       "key": "PS-6108",
       "summary": "Allianz - Customer defense webview ",
-      "status": "In Review",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-08-18",
-      "updated": "2026-08-18",
+      "updated": "2026-08-24",
       "resolutiondate": "",
       "labels": [
         "Allianz-ES"
@@ -144,12 +214,12 @@
     {
       "key": "PS-6107",
       "summary": "Air Europa - Check login/logout mock in staging",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Closed",
+      "status_category": "Done",
       "assignee": "Pep Alonso",
       "issuetype": "Bug",
       "created": "2026-08-18",
-      "updated": "2026-08-22",
+      "updated": "2026-08-24",
       "resolutiondate": "",
       "labels": [
         "AirEuropa"
@@ -200,12 +270,12 @@
     {
       "key": "PS-6103",
       "summary": "Retorna - Update Bot to .55 version",
-      "status": "Ready for review",
-      "status_category": "In Progress",
+      "status": "APPROVED FOR PRODUCTION",
+      "status_category": "Done",
       "assignee": "Marco Gallego Ropero",
       "issuetype": "Task",
       "created": "2026-08-17",
-      "updated": "2026-08-22",
+      "updated": "2026-08-24",
       "resolutiondate": "",
       "labels": [
         "Retorna"
@@ -256,12 +326,12 @@
     {
       "key": "PS-6099",
       "summary": "Michael Kors - AI Agent prompt: Specify ON Format to user",
-      "status": "In Progress",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "irene callejas",
       "issuetype": "Task",
       "created": "2026-08-14",
-      "updated": "2026-08-18",
+      "updated": "2026-08-24",
       "resolutiondate": "",
       "labels": [
         "Michael-Kors"
@@ -369,12 +439,12 @@
     {
       "key": "PS-6091",
       "summary": "Allianz ES - Quote&Buy website",
-      "status": "In Progress",
-      "status_category": "In Progress",
+      "status": "To Do",
+      "status_category": "To Do",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-08-13",
-      "updated": "2026-08-17",
+      "updated": "2026-08-24",
       "resolutiondate": "",
       "labels": [
         "Allianz-ES"
@@ -549,12 +619,12 @@
     {
       "key": "PS-6076",
       "summary": "Fenie Energia - AI Agent Integration",
-      "status": "Ready for review",
-      "status_category": "In Progress",
+      "status": "APPROVED FOR PRODUCTION",
+      "status_category": "Done",
       "assignee": "Pep Alonso",
       "issuetype": "Task",
       "created": "2026-08-05",
-      "updated": "2026-08-19",
+      "updated": "2026-08-24",
       "resolutiondate": "",
       "labels": [
         "FenieEnergia"
@@ -885,12 +955,12 @@
     {
       "key": "PS-6052",
       "summary": "DABA - Consulta Ultimo Pedido (WISMO; API rest)",
-      "status": "To Do",
+      "status": "Open",
       "status_category": "To Do",
       "assignee": null,
       "issuetype": "Task",
       "created": "2026-07-31",
-      "updated": "2026-08-03",
+      "updated": "2026-08-24",
       "resolutiondate": "",
       "labels": [
         "DABA"
@@ -899,12 +969,12 @@
     {
       "key": "PS-6051",
       "summary": "DABA - Consulta Info. Cliente (API rest)",
-      "status": "Ready for review",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-07-31",
-      "updated": "2026-08-11",
+      "updated": "2026-08-24",
       "resolutiondate": "",
       "labels": [
         "DABA"
@@ -941,12 +1011,12 @@
     {
       "key": "PS-6048",
       "summary": "Ralph Lauren - improve onboarding question",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Closed",
+      "status_category": "Done",
       "assignee": "Andrea Talal Haidar",
       "issuetype": "Discovery Task",
       "created": "2026-07-30",
-      "updated": "2026-08-01",
+      "updated": "2026-08-24",
       "resolutiondate": "",
       "labels": [
         "Ralph_Lauren"
@@ -1221,12 +1291,12 @@
     {
       "key": "PS-6028",
       "summary": "Women's Secret - Revisar cómo el AI Agent ofrece Handoff (quizá ir a opcion de botton y que te lleve al content id de handoff)",
-      "status": "Ready for review",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "irene callejas",
       "issuetype": "Bug",
       "created": "2026-07-28",
-      "updated": "2026-08-17",
+      "updated": "2026-08-24",
       "resolutiondate": "",
       "labels": [
         "tendam"
@@ -1235,12 +1305,12 @@
     {
       "key": "PS-6027",
       "summary": "DABA - Connect and configure AI Agent (KB)",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "In Progress",
+      "status_category": "In Progress",
       "assignee": "Francisca Martelli",
       "issuetype": "Task",
       "created": "2026-07-28",
-      "updated": "2026-07-31",
+      "updated": "2026-08-24",
       "resolutiondate": "",
       "labels": [
         "DABA"
@@ -1276,13 +1346,13 @@
     },
     {
       "key": "PS-6024",
-      "summary": "DABA - Migrate WhatsApp Number",
+      "summary": "DABA - Migrate WhatsApp Number Prod",
       "status": "To Do",
       "status_category": "To Do",
       "assignee": "Aitor Casas",
       "issuetype": "Task",
       "created": "2026-07-28",
-      "updated": "2026-07-31",
+      "updated": "2026-08-24",
       "resolutiondate": "",
       "labels": [
         "DABA"
@@ -1487,12 +1557,12 @@
     {
       "key": "PS-6009",
       "summary": "Alsa - Update Bot to 0.54",
-      "status": "APPROVED FOR PRODUCTION",
+      "status": "Done",
       "status_category": "Done",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-07-27",
-      "updated": "2026-08-03",
+      "updated": "2026-08-24",
       "resolutiondate": "",
       "labels": [
         "Alsa"
@@ -1809,12 +1879,12 @@
     {
       "key": "PS-5986",
       "summary": "Concentra - Implement country code validation",
-      "status": "APPROVED FOR PRODUCTION",
-      "status_category": "Done",
+      "status": "Ready to Deliver",
+      "status_category": "In Progress",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-07-23",
-      "updated": "2026-07-27",
+      "updated": "2026-08-24",
       "resolutiondate": "",
       "labels": [
         "Concentra"
@@ -1823,12 +1893,12 @@
     {
       "key": "PS-5985",
       "summary": "Concentra - Add Contact Info Fiels from parsed email",
-      "status": "APPROVED FOR PRODUCTION",
-      "status_category": "Done",
+      "status": "Ready to Deliver",
+      "status_category": "In Progress",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-07-23",
-      "updated": "2026-07-27",
+      "updated": "2026-08-24",
       "resolutiondate": "",
       "labels": [
         "Concentra"
@@ -1977,12 +2047,12 @@
     {
       "key": "PS-5974",
       "summary": "Occident - Review new CRM request",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "In Progress",
+      "status_category": "In Progress",
       "assignee": "Pep Alonso",
       "issuetype": "Task",
       "created": "2026-07-22",
-      "updated": "2026-08-17",
+      "updated": "2026-08-24",
       "resolutiondate": "",
       "labels": [
         "Occident"
@@ -2188,12 +2258,12 @@
     {
       "key": "PS-5959",
       "summary": "TMB - Update Bot Version ",
-      "status": "Ready for review",
-      "status_category": "In Progress",
+      "status": "APPROVED FOR PRODUCTION",
+      "status_category": "Done",
       "assignee": "Marco Gallego Ropero",
       "issuetype": "Task",
       "created": "2026-07-21",
-      "updated": "2026-08-17",
+      "updated": "2026-08-24",
       "resolutiondate": "",
       "labels": [
         "TMB"
@@ -3425,7 +3495,7 @@
       "assignee": null,
       "issuetype": "Epic",
       "created": "2026-07-09",
-      "updated": "2026-08-12",
+      "updated": "2026-08-24",
       "resolutiondate": "",
       "labels": []
     },
@@ -3451,7 +3521,7 @@
       "assignee": "Adrià Sastre",
       "issuetype": "Task",
       "created": "2026-07-09",
-      "updated": "2026-07-09",
+      "updated": "2026-08-24",
       "resolutiondate": "",
       "labels": [
         "all_clients"
@@ -4076,12 +4146,12 @@
     {
       "key": "PS-5821",
       "summary": "Verisure Spain - Create demo in staging so that Agents can display a calendar in shadowing",
-      "status": "In Progress",
+      "status": "Ready for review",
       "status_category": "In Progress",
       "assignee": "Adrià Sastre",
       "issuetype": "Task",
       "created": "2026-06-29",
-      "updated": "2026-08-03",
+      "updated": "2026-08-24",
       "resolutiondate": "",
       "labels": [
         "Verisure_ES"
@@ -4730,12 +4800,12 @@
     {
       "key": "PS-5770",
       "summary": "Air Europa - AVA call changes",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "In Progress",
+      "status_category": "In Progress",
       "assignee": "Julieta Mezza",
       "issuetype": "Epic",
       "created": "2026-06-17",
-      "updated": "2026-08-04",
+      "updated": "2026-08-24",
       "resolutiondate": "",
       "labels": [
         "AirEuropa"
@@ -4938,10 +5008,10 @@
       "summary": "Jetsmart - Develop Final Summary Step",
       "status": "Ready to Deliver",
       "status_category": "In Progress",
-      "assignee": null,
+      "assignee": "Pep Alonso",
       "issuetype": "Task",
       "created": "2026-06-15",
-      "updated": "2026-07-06",
+      "updated": "2026-08-24",
       "resolutiondate": "",
       "labels": [
         "JetSmart"
@@ -5384,12 +5454,12 @@
     {
       "key": "PS-5723",
       "summary": "SegurCaixa Adeslas - Update bot version so we can deploy language detection",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Closed",
+      "status_category": "Done",
       "assignee": null,
       "issuetype": "Task",
       "created": "2026-06-09",
-      "updated": "2026-06-09",
+      "updated": "2026-08-24",
       "resolutiondate": "",
       "labels": [
         "SegurCaixa"
@@ -7133,7 +7203,7 @@
       "assignee": "Marta Marron",
       "issuetype": "Task",
       "created": "2026-05-20",
-      "updated": "2026-05-20",
+      "updated": "2026-08-24",
       "resolutiondate": "",
       "labels": [
         "Generalitat-Turisme"
@@ -9486,7 +9556,7 @@
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Epic",
       "created": "2026-04-23",
-      "updated": "2026-08-17",
+      "updated": "2026-08-24",
       "resolutiondate": "",
       "labels": [
         "RACC"
@@ -21659,12 +21729,12 @@
     {
       "key": "PS-4460",
       "summary": "Rag & Bone - WhatsApp - IVR Deflection",
-      "status": "To Do",
+      "status": "Open",
       "status_category": "To Do",
       "assignee": "Francisca Martelli",
       "issuetype": "Task",
       "created": "2025-09-28",
-      "updated": "2026-05-18",
+      "updated": "2026-08-24",
       "resolutiondate": "",
       "labels": [
         "Rag&Bone"
@@ -26084,7 +26154,7 @@
       "assignee": "Francisca Martelli",
       "issuetype": "Task",
       "created": "2025-06-12",
-      "updated": "2026-05-18",
+      "updated": "2026-08-24",
       "resolutiondate": "",
       "labels": [
         "Rag&Bone"
@@ -26952,12 +27022,12 @@
     {
       "key": "PS-4021",
       "summary": "Air Europa - Consultar Perfil - Development",
-      "status": "Closed",
-      "status_category": "Done",
-      "assignee": "Jonatan Rojas",
+      "status": "Open",
+      "status_category": "To Do",
+      "assignee": "Julieta Mezza",
       "issuetype": "Task",
       "created": "2025-05-26",
-      "updated": "2025-12-22",
+      "updated": "2026-08-24",
       "resolutiondate": "",
       "labels": [
         "AirEuropa"
@@ -26966,12 +27036,12 @@
     {
       "key": "PS-4020",
       "summary": "Air Europa - Consultar Perfil - Design ",
-      "status": "Closed",
-      "status_category": "Done",
-      "assignee": "Andrea Talal Haidar",
+      "status": "Open",
+      "status_category": "To Do",
+      "assignee": "Julieta Mezza",
       "issuetype": "Task",
       "created": "2025-05-26",
-      "updated": "2025-12-22",
+      "updated": "2026-08-24",
       "resolutiondate": "",
       "labels": [
         "AirEuropa"
@@ -26980,12 +27050,12 @@
     {
       "key": "PS-4019",
       "summary": "Estimate - Air Europa - Consultar Perfil - Complex use case",
-      "status": "Done",
-      "status_category": "Done",
-      "assignee": "Jonatan Rojas",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Adrià Sastre",
       "issuetype": "Discovery Task",
       "created": "2025-05-26",
-      "updated": "2025-08-25",
+      "updated": "2026-08-24",
       "resolutiondate": "",
       "labels": [
         "estimation"
@@ -26994,12 +27064,12 @@
     {
       "key": "PS-4018",
       "summary": "Air Europa - Consultar Perfil - Complex use case",
-      "status": "Closed",
-      "status_category": "Done",
-      "assignee": "Jonatan Rojas",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Adrià Sastre",
       "issuetype": "Epic",
       "created": "2025-05-26",
-      "updated": "2026-06-26",
+      "updated": "2026-08-24",
       "resolutiondate": "",
       "labels": [
         "AirEuropa"
@@ -29499,12 +29569,12 @@
     {
       "key": "PS-3818",
       "summary": "Air Europa - Consultar Perfil - Jano API Review ",
-      "status": "Done",
-      "status_category": "Done",
-      "assignee": "Adonai Domínguez",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Adrià Sastre",
       "issuetype": "Task",
       "created": "2025-04-10",
-      "updated": "2025-08-25",
+      "updated": "2026-08-24",
       "resolutiondate": "",
       "labels": []
     },
