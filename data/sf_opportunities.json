@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-24 08:03 UTC",
+  "last_updated": "2026-08-25 07:57 UTC",
   "opportunities": [
     {
       "id": "006Sa00000lODAkIAO",
@@ -2006,23 +2006,6 @@
       "created": "2026-01-04",
       "close_date": "2026-05-04",
       "start_date": "2026-05-01"
-    },
-    {
-      "id": "006Sa00000Y9pyzIAB",
-      "name": "2026-R-EasyJet-CA",
-      "type": "Renewal",
-      "stage": "Opportunity identified",
-      "is_closed": false,
-      "is_won": false,
-      "probability": 10.0,
-      "amount": 764208.24,
-      "arr": 764208.24,
-      "owner": "Marta Marron",
-      "cs_lead": "",
-      "account": "Easyjet PLC",
-      "created": "2026-01-04",
-      "close_date": "2026-09-16",
-      "start_date": "2026-10-01"
     },
     {
       "id": "006Sa00000Y9bWHIAZ",
