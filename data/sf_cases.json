@@ -1,6 +1,28 @@
 {
-  "last_updated": "2026-08-25 07:57 UTC",
+  "last_updated": "2026-08-26 07:59 UTC",
   "cases": [
+    {
+      "id": "500Sa00000zepn5IAA",
+      "case_number": "00025270",
+      "subject": "Re: Incidencia usuario Hubtype",
+      "status": "Closed",
+      "priority": "Low",
+      "is_closed": true,
+      "is_escalated": false,
+      "owner": "Aitor Casas",
+      "account": "Hubtype",
+      "origin": "Inbound",
+      "type": "Issue",
+      "feeling": "",
+      "issue_type": "Acceso",
+      "channel": "Email",
+      "is_critical": "L4",
+      "escalated_team": "",
+      "resolution_time": "1. <6h",
+      "created": "2026-08-25",
+      "closed": "2026-08-25",
+      "last_modified": "2026-08-25"
+    },
     {
       "id": "500Sa00000za6rlIAA",
       "case_number": "00025268",
@@ -460,8 +482,8 @@
       "escalated_team": "",
       "resolution_time": "5. >36h",
       "created": "2026-08-14",
-      "closed": "2026-08-24",
-      "last_modified": "2026-08-24"
+      "closed": "2026-08-26",
+      "last_modified": "2026-08-26"
     },
     {
       "id": "500Sa00000ytndRIAQ",
@@ -489,23 +511,23 @@
       "id": "500Sa00000ytUcRIAU",
       "case_number": "00025242",
       "subject": "Reporting Hubtype",
-      "status": "Open",
+      "status": "Closed",
       "priority": "Low",
-      "is_closed": false,
+      "is_closed": true,
       "is_escalated": false,
       "owner": "Aitor Casas",
       "account": "Michael Kors UK",
       "origin": "Inbound",
-      "type": "",
+      "type": "Task",
       "feeling": "",
-      "issue_type": "",
+      "issue_type": "Informes",
       "channel": "Email",
       "is_critical": "L4",
       "escalated_team": "",
-      "resolution_time": "",
+      "resolution_time": "5. >36h",
       "created": "2026-08-14",
-      "closed": "",
-      "last_modified": "2026-08-24"
+      "closed": "2026-08-26",
+      "last_modified": "2026-08-26"
     },
     {
       "id": "500Sa00000ykFkhIAE",
@@ -926,8 +948,8 @@
       "last_modified": "2026-08-06"
     },
     {
-      "id": "500Sa00000yDh4fIAC",
-      "case_number": "00025218",
+      "id": "500Sa00000yEAHtIAO",
+      "case_number": "00025217",
       "subject": "Password reset request",
       "status": "Closed",
       "priority": "Low",
@@ -948,8 +970,8 @@
       "last_modified": "2026-08-05"
     },
     {
-      "id": "500Sa00000yEAHtIAO",
-      "case_number": "00025217",
+      "id": "500Sa00000yDh4fIAC",
+      "case_number": "00025218",
       "subject": "Password reset request",
       "status": "Closed",
       "priority": "Low",
@@ -2704,8 +2726,8 @@
       "escalated_team": "",
       "resolution_time": "5. >36h",
       "created": "2026-07-15",
-      "closed": "2026-08-25",
-      "last_modified": "2026-08-25"
+      "closed": "2026-08-26",
+      "last_modified": "2026-08-26"
     },
     {
       "id": "500Sa00000weW6OIAU",
