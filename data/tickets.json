@@ -1,11 +1,105 @@
 {
-  "last_updated": "2026-08-25 07:40 UTC",
+  "last_updated": "2026-08-26 07:42 UTC",
   "tickets": [
+    {
+      "key": "PS-6129",
+      "summary": "Guess - Estimate Defective Items Flow Devlopment",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Adrià Sastre",
+      "issuetype": "Discovery Task",
+      "created": "2026-08-26",
+      "updated": "2026-08-26",
+      "resolutiondate": "",
+      "labels": []
+    },
+    {
+      "key": "PS-6128",
+      "summary": "Concentra_ update templates and times",
+      "status": "In Progress",
+      "status_category": "In Progress",
+      "assignee": "Lorena Sánchez-Toril Nicolás",
+      "issuetype": "Task",
+      "created": "2026-08-26",
+      "updated": "2026-08-26",
+      "resolutiondate": "",
+      "labels": [
+        "Concentra"
+      ]
+    },
+    {
+      "key": "PS-6127",
+      "summary": "Ralph Lauren- september barcode for instore flow",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Lorena Sánchez-Toril Nicolás",
+      "issuetype": "Task",
+      "created": "2026-08-26",
+      "updated": "2026-08-26",
+      "resolutiondate": "",
+      "labels": [
+        "Ralph_Lauren"
+      ]
+    },
+    {
+      "key": "PS-6126",
+      "summary": "Netberry - COFA - Update Zendesk Provider Account in Staging to use OAuth instead of Token",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Pep Alonso",
+      "issuetype": "Task",
+      "created": "2026-08-25",
+      "updated": "2026-08-25",
+      "resolutiondate": "",
+      "labels": [
+        "NetBerry_COFA"
+      ]
+    },
+    {
+      "key": "PS-6125",
+      "summary": "Netberry - COFA - Update AWS Zendesk credentials to use OAuth",
+      "status": "Ready for review",
+      "status_category": "In Progress",
+      "assignee": "Pep Alonso",
+      "issuetype": "Task",
+      "created": "2026-08-25",
+      "updated": "2026-08-25",
+      "resolutiondate": "",
+      "labels": [
+        "NetBerry_COFA"
+      ]
+    },
+    {
+      "key": "PS-6124",
+      "summary": "Archive old bots",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Marco Gallego Ropero",
+      "issuetype": "Task",
+      "created": "2026-08-25",
+      "updated": "2026-08-25",
+      "resolutiondate": "",
+      "labels": []
+    },
+    {
+      "key": "PS-6123",
+      "summary": "RL - update  to 0.55.1",
+      "status": "Ready to Deliver",
+      "status_category": "In Progress",
+      "assignee": "Lorena Sánchez-Toril Nicolás",
+      "issuetype": "Task",
+      "created": "2026-08-25",
+      "updated": "2026-08-25",
+      "resolutiondate": "",
+      "labels": [
+        "Ralph_Lauren"
+      ]
+    },
     {
       "key": "PS-6122",
       "summary": "RL - dates for summer occasion campaign ",
-      "status": "In Progress",
-      "status_category": "In Progress",
+      "status": "In production",
+      "status_category": "Done",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-08-25",
@@ -32,7 +126,7 @@
     {
       "key": "PS-6120",
       "summary": "Verisure Spain - Landings - Send contact reason to Altitude",
-      "status": "In Progress",
+      "status": "Ready to Deliver",
       "status_category": "In Progress",
       "assignee": "Marco Gallego Ropero",
       "issuetype": "Task",
@@ -76,10 +170,10 @@
       "summary": "RibéSalat - API Review",
       "status": "To Do",
       "status_category": "To Do",
-      "assignee": "Adrià Sastre",
+      "assignee": "Marco Gallego Ropero",
       "issuetype": "Discovery Task",
       "created": "2026-08-21",
-      "updated": "2026-08-21",
+      "updated": "2026-08-25",
       "resolutiondate": "",
       "labels": [
         "ribesalat"
@@ -158,12 +252,12 @@
     {
       "key": "PS-6111",
       "summary": "NetBerry - COFA - Zendesk: 24h recurring task: import AI self-resolved conversations into Zendesk as resolved cases, labelled",
-      "status": "In Progress",
+      "status": "Ready for review",
       "status_category": "In Progress",
       "assignee": "Pep Alonso",
       "issuetype": "Task",
       "created": "2026-08-19",
-      "updated": "2026-08-20",
+      "updated": "2026-08-25",
       "resolutiondate": "",
       "labels": [
         "NetBerry_COFA"
@@ -186,12 +280,12 @@
     {
       "key": "PS-6109",
       "summary": "Polarier logging error",
-      "status": "Ready for review",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-08-19",
-      "updated": "2026-08-19",
+      "updated": "2026-08-26",
       "resolutiondate": "",
       "labels": [
         "Polarier"
@@ -312,12 +406,12 @@
     {
       "key": "PS-6100",
       "summary": "Internal - Update Bot template to 0.55.0",
-      "status": "Ready for review",
+      "status": "Ready to Deliver",
       "status_category": "In Progress",
       "assignee": "Pep Alonso",
       "issuetype": "Task",
       "created": "2026-08-14",
-      "updated": "2026-08-14",
+      "updated": "2026-08-25",
       "resolutiondate": "",
       "labels": [
         "Internal"
@@ -607,12 +701,12 @@
     {
       "key": "PS-6079",
       "summary": "Internal - Add confirmation doing npm run push_secrets",
-      "status": "Ready for review",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Marco Gallego Ropero",
       "issuetype": "Task",
       "created": "2026-08-06",
-      "updated": "2026-08-07",
+      "updated": "2026-08-25",
       "resolutiondate": "",
       "labels": []
     },
@@ -801,12 +895,12 @@
     {
       "key": "PS-6063",
       "summary": "Retorna - Create App Snippet",
-      "status": "Done",
-      "status_category": "Done",
-      "assignee": "Aitor Casas",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Adrià Sastre",
       "issuetype": "Task",
       "created": "2026-08-03",
-      "updated": "2026-08-11",
+      "updated": "2026-08-25",
       "resolutiondate": "",
       "labels": [
         "Retorna"
@@ -1459,12 +1553,12 @@
     {
       "key": "PS-6016",
       "summary": "Internal - Update Bot Template to 0.54 packages",
-      "status": "Ready for review",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-07-27",
-      "updated": "2026-07-28",
+      "updated": "2026-08-25",
       "resolutiondate": "",
       "labels": [
         "Internal"
@@ -1977,12 +2071,12 @@
     {
       "key": "PS-5979",
       "summary": "Polarier - remove unused aws folder ",
-      "status": "Ready for review",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-07-23",
-      "updated": "2026-08-19",
+      "updated": "2026-08-26",
       "resolutiondate": "",
       "labels": [
         "Polarier"
@@ -3490,12 +3584,12 @@
     {
       "key": "PS-5871",
       "summary": "Migrate WhatsApp phone number from provider_id to username",
-      "status": "Ready to Deliver",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": null,
       "issuetype": "Epic",
       "created": "2026-07-09",
-      "updated": "2026-08-24",
+      "updated": "2026-08-25",
       "resolutiondate": "",
       "labels": []
     },
@@ -3530,12 +3624,12 @@
     {
       "key": "PS-5868",
       "summary": "Assegur - Review if we are receiving new data about \"arag\" and \"europ assistance\"",
-      "status": "Closed",
-      "status_category": "Done",
+      "status": "To Do",
+      "status_category": "To Do",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-07-09",
-      "updated": "2026-08-11",
+      "updated": "2026-08-25",
       "resolutiondate": "",
       "labels": [
         "Assegur"
@@ -3698,12 +3792,12 @@
     {
       "key": "PS-5855",
       "summary": "Concentra - Activate Campaign Module",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-07-08",
-      "updated": "2026-08-17",
+      "updated": "2026-08-25",
       "resolutiondate": "",
       "labels": [
         "Concentra"
@@ -11164,12 +11258,12 @@
     {
       "key": "PS-5300",
       "summary": "Guess - Fix Unhandled Promise Rejection (ERROR_HTTP_503) in Salesforce Bulk API integration",
-      "status": "Ready to Deliver",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Evgeni Slavyanov",
       "issuetype": "Task",
       "created": "2026-04-08",
-      "updated": "2026-07-03",
+      "updated": "2026-08-25",
       "resolutiondate": "",
       "labels": [
         "Guess"
@@ -15433,10 +15527,10 @@
       "summary": "RACC - Incorporar contexto de información de leads del CRM a los agentes en WhatsApp (Proyecto HomeExperts - RACC).",
       "status": "Ready to Deliver",
       "status_category": "In Progress",
-      "assignee": "Evgeni Slavyanov",
+      "assignee": "Adrià Sastre",
       "issuetype": "Task",
       "created": "2026-02-07",
-      "updated": "2026-03-23",
+      "updated": "2026-08-25",
       "resolutiondate": "",
       "labels": [
         "RACC"
@@ -15893,12 +15987,12 @@
     {
       "key": "PS-4939",
       "summary": "Evgeni - Add a calendar to demos.",
-      "status": "Ready for review",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Evgeni Slavyanov",
       "issuetype": "Task",
       "created": "2026-02-02",
-      "updated": "2026-02-04",
+      "updated": "2026-08-25",
       "resolutiondate": "",
       "labels": [
         "Demo"
@@ -19261,12 +19355,12 @@
     {
       "key": "PS-4663",
       "summary": "Creating a demo using whatsapp flow about personalised offer",
-      "status": "Ready for review",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Evgeni Slavyanov",
       "issuetype": "Task",
       "created": "2025-11-20",
-      "updated": "2026-05-21",
+      "updated": "2026-08-25",
       "resolutiondate": "",
       "labels": [
         "Demo"
@@ -22498,7 +22592,7 @@
       "assignee": "Adrià Sastre",
       "issuetype": "Bug",
       "created": "2025-09-10",
-      "updated": "2026-06-29",
+      "updated": "2026-08-25",
       "resolutiondate": "",
       "labels": [
         "WizzAir"
@@ -22519,12 +22613,12 @@
     {
       "key": "PS-4392",
       "summary": "Platform review middleware lambda version",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Adrià Sastre",
       "issuetype": "Task",
       "created": "2025-09-10",
-      "updated": "2026-01-18",
+      "updated": "2026-08-25",
       "resolutiondate": "",
       "labels": [
         "Internal"
