@@ -1,22 +1,268 @@
 {
-  "last_updated": "2026-08-26 07:42 UTC",
+  "last_updated": "2026-08-27 18:04 UTC",
   "tickets": [
+    {
+      "key": "PS-6147",
+      "summary": "ALSA : IMPLMENTAR FEEDBACK EN FLOW BILLETES",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "irene callejas",
+      "issuetype": "Task",
+      "created": "2026-08-27",
+      "updated": "2026-08-27",
+      "resolutiondate": "",
+      "labels": [
+        "Alsa"
+      ]
+    },
+    {
+      "key": "PS-6146",
+      "summary": "Allianz OSN - Update bot to latest version",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": null,
+      "issuetype": "Task",
+      "created": "2026-08-27",
+      "updated": "2026-08-27",
+      "resolutiondate": "",
+      "labels": [
+        "Allianz-OSN"
+      ]
+    },
+    {
+      "key": "PS-6145",
+      "summary": "Ralph Lauren - Migrate bot trigger to use the shared endpoint",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": null,
+      "issuetype": "Task",
+      "created": "2026-08-27",
+      "updated": "2026-08-27",
+      "resolutiondate": "",
+      "labels": [
+        "Ralph_Lauren"
+      ]
+    },
+    {
+      "key": "PS-6144",
+      "summary": "Air Europa - Migrate bot trigger to use the shared endpoint",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": null,
+      "issuetype": "Task",
+      "created": "2026-08-27",
+      "updated": "2026-08-27",
+      "resolutiondate": "",
+      "labels": [
+        "AirEuropa"
+      ]
+    },
+    {
+      "key": "PS-6143",
+      "summary": "Internal - Shared Bot trigger - Update bot template with the new bot trigger action",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": null,
+      "issuetype": "Task",
+      "created": "2026-08-27",
+      "updated": "2026-08-27",
+      "resolutiondate": "",
+      "labels": []
+    },
+    {
+      "key": "PS-6142",
+      "summary": "Internal - Shared Bot trigger - Update @hubtype/bot-core with actions/utilities",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": null,
+      "issuetype": "Task",
+      "created": "2026-08-27",
+      "updated": "2026-08-27",
+      "resolutiondate": "",
+      "labels": []
+    },
+    {
+      "key": "PS-6141",
+      "summary": "Internal - Shared Bot trigger - Migrate bot trigger endpoint from Air Europa to a shared Middleware",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": null,
+      "issuetype": "Task",
+      "created": "2026-08-27",
+      "updated": "2026-08-27",
+      "resolutiondate": "",
+      "labels": []
+    },
+    {
+      "key": "PS-6140",
+      "summary": "Internal - Shared Bot trigger - Create shared Middleware to all bots",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": null,
+      "issuetype": "Task",
+      "created": "2026-08-27",
+      "updated": "2026-08-27",
+      "resolutiondate": "",
+      "labels": []
+    },
+    {
+      "key": "PS-6139",
+      "summary": "Internal - Shared Bot trigger",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Adrià Sastre",
+      "issuetype": "Epic",
+      "created": "2026-08-27",
+      "updated": "2026-08-27",
+      "resolutiondate": "",
+      "labels": [
+        "Internal"
+      ]
+    },
+    {
+      "key": "PS-6138",
+      "summary": "easyJET - Bot and Organization deletion (production and staging)",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": null,
+      "issuetype": "Task",
+      "created": "2026-08-26",
+      "updated": "2026-08-26",
+      "resolutiondate": "",
+      "labels": [
+        "easyjet"
+      ]
+    },
+    {
+      "key": "PS-6137",
+      "summary": "easyJET - Data deletion (no export needed)",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": null,
+      "issuetype": "Task",
+      "created": "2026-08-26",
+      "updated": "2026-08-26",
+      "resolutiondate": "",
+      "labels": [
+        "easyjet"
+      ]
+    },
+    {
+      "key": "PS-6136",
+      "summary": "easyJET - Remove the integration of the WhatsApp numbers currently connected in production (+39 02 3032 8213  +44 1582 201854)",
+      "status": "Ready for review",
+      "status_category": "In Progress",
+      "assignee": "Aitor Casas",
+      "issuetype": "Task",
+      "created": "2026-08-26",
+      "updated": "2026-08-27",
+      "resolutiondate": "",
+      "labels": [
+        "easyjet"
+      ]
+    },
+    {
+      "key": "PS-6135",
+      "summary": "easyJET - Revoke all API keys and tokens issued for the integration.",
+      "status": "Done",
+      "status_category": "Done",
+      "assignee": "Aitor Casas",
+      "issuetype": "Task",
+      "created": "2026-08-26",
+      "updated": "2026-08-27",
+      "resolutiondate": "",
+      "labels": [
+        "easyjet"
+      ]
+    },
+    {
+      "key": "PS-6134",
+      "summary": "easyJET - Delete all Hubtype Desk user accounts across the easyJet instance, including any admin and supervisor accounts, and revoke the associated SSO configuration.",
+      "status": "Done",
+      "status_category": "Done",
+      "assignee": "Aitor Casas",
+      "issuetype": "Task",
+      "created": "2026-08-26",
+      "updated": "2026-08-27",
+      "resolutiondate": "",
+      "labels": [
+        "easyjet"
+      ]
+    },
+    {
+      "key": "PS-6133",
+      "summary": "easyJET - Decommissioning",
+      "status": "Open",
+      "status_category": "To Do",
+      "assignee": null,
+      "issuetype": "Epic",
+      "created": "2026-08-26",
+      "updated": "2026-08-26",
+      "resolutiondate": "",
+      "labels": [
+        "easyjet"
+      ]
+    },
+    {
+      "key": "PS-6132",
+      "summary": "RACC - Integrate AiAlma AI Agent in Racc's racc-flowbuilder bot",
+      "status": "In Progress",
+      "status_category": "In Progress",
+      "assignee": "Lorena Sánchez-Toril Nicolás",
+      "issuetype": "Task",
+      "created": "2026-08-26",
+      "updated": "2026-08-26",
+      "resolutiondate": "",
+      "labels": [
+        "RACC"
+      ]
+    },
+    {
+      "key": "PS-6131",
+      "summary": "Ralph Lauren - modify campaign action exclusion",
+      "status": "Ready for review",
+      "status_category": "In Progress",
+      "assignee": "Lorena Sánchez-Toril Nicolás",
+      "issuetype": "Task",
+      "created": "2026-08-26",
+      "updated": "2026-08-26",
+      "resolutiondate": "",
+      "labels": [
+        "Ralph_Lauren"
+      ]
+    },
+    {
+      "key": "PS-6130",
+      "summary": "Redesign V2.0 - Forms component (inputs) redesign & incorporation into the CCL",
+      "status": "In Progress",
+      "status_category": "In Progress",
+      "assignee": "Vicky Correbo",
+      "issuetype": "Task",
+      "created": "2026-08-26",
+      "updated": "2026-08-27",
+      "resolutiondate": "",
+      "labels": [
+        "Internal"
+      ]
+    },
     {
       "key": "PS-6129",
       "summary": "Guess - Estimate Defective Items Flow Devlopment",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Adrià Sastre",
       "issuetype": "Discovery Task",
       "created": "2026-08-26",
       "updated": "2026-08-26",
       "resolutiondate": "",
-      "labels": []
+      "labels": [
+        "Guess"
+      ]
     },
     {
       "key": "PS-6128",
-      "summary": "Concentra_ update templates and times",
-      "status": "In Progress",
+      "summary": "Concentra_ update templates",
+      "status": "Ready for review",
       "status_category": "In Progress",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
@@ -29,9 +275,9 @@
     },
     {
       "key": "PS-6127",
-      "summary": "Ralph Lauren- september barcode for instore flow",
-      "status": "To Do",
-      "status_category": "To Do",
+      "summary": "Ralph Lauren- monthly barcode for instore flow",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-08-26",
@@ -72,12 +318,12 @@
     {
       "key": "PS-6124",
       "summary": "Archive old bots",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Ready for review",
+      "status_category": "In Progress",
       "assignee": "Marco Gallego Ropero",
       "issuetype": "Task",
       "created": "2026-08-25",
-      "updated": "2026-08-25",
+      "updated": "2026-08-27",
       "resolutiondate": "",
       "labels": []
     },
@@ -140,12 +386,12 @@
     {
       "key": "PS-6119",
       "summary": "Air Europa - ESTIMATE: Interpret \"Hubtype Action\" and trigger complex use cases with values coming in the API call",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Adrià Sastre",
       "issuetype": "Discovery Task",
       "created": "2026-08-24",
-      "updated": "2026-08-24",
+      "updated": "2026-08-27",
       "resolutiondate": "",
       "labels": [
         "AirEuropa"
@@ -173,7 +419,7 @@
       "assignee": "Marco Gallego Ropero",
       "issuetype": "Discovery Task",
       "created": "2026-08-21",
-      "updated": "2026-08-25",
+      "updated": "2026-08-27",
       "resolutiondate": "",
       "labels": [
         "ribesalat"
@@ -187,7 +433,7 @@
       "assignee": "Pep Alonso",
       "issuetype": "Discovery Task",
       "created": "2026-08-21",
-      "updated": "2026-08-24",
+      "updated": "2026-08-27",
       "resolutiondate": "",
       "labels": [
         "Occident"
@@ -252,12 +498,12 @@
     {
       "key": "PS-6111",
       "summary": "NetBerry - COFA - Zendesk: 24h recurring task: import AI self-resolved conversations into Zendesk as resolved cases, labelled",
-      "status": "Ready for review",
+      "status": "In Review",
       "status_category": "In Progress",
       "assignee": "Pep Alonso",
       "issuetype": "Task",
       "created": "2026-08-19",
-      "updated": "2026-08-25",
+      "updated": "2026-08-26",
       "resolutiondate": "",
       "labels": [
         "NetBerry_COFA"
@@ -266,12 +512,12 @@
     {
       "key": "PS-6110",
       "summary": "Air Europa - Queue position and automatic discard of webchat cases with +10 min offline",
-      "status": "Ready for review",
-      "status_category": "In Progress",
+      "status": "To Do",
+      "status_category": "To Do",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-08-19",
-      "updated": "2026-08-24",
+      "updated": "2026-08-27",
       "resolutiondate": "",
       "labels": [
         "AirEuropa"
@@ -378,12 +624,12 @@
     {
       "key": "PS-6102",
       "summary": "Michael Kors - Update Bot to .55 version",
-      "status": "Ready for review",
-      "status_category": "In Progress",
+      "status": "In production",
+      "status_category": "Done",
       "assignee": "Marco Gallego Ropero",
       "issuetype": "Task",
       "created": "2026-08-17",
-      "updated": "2026-08-22",
+      "updated": "2026-08-27",
       "resolutiondate": "",
       "labels": [
         "Michael-Kors"
@@ -434,12 +680,12 @@
     {
       "key": "PS-6098",
       "summary": "Demo - WAF Super Demo",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "In Progress",
+      "status_category": "In Progress",
       "assignee": "Pep Alonso",
       "issuetype": "Task",
       "created": "2026-08-14",
-      "updated": "2026-08-21",
+      "updated": "2026-08-27",
       "resolutiondate": "",
       "labels": [
         "Demo"
@@ -546,13 +792,13 @@
     },
     {
       "key": "PS-6090",
-      "summary": "Concentra - change template and activate trigger script",
+      "summary": "Concentra - activate trigger script",
       "status": "To Do",
       "status_category": "To Do",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-08-13",
-      "updated": "2026-08-17",
+      "updated": "2026-08-26",
       "resolutiondate": "",
       "labels": [
         "Concentra"
@@ -897,10 +1143,10 @@
       "summary": "Retorna - Create App Snippet",
       "status": "To Do",
       "status_category": "To Do",
-      "assignee": "Adrià Sastre",
+      "assignee": "Pep Alonso",
       "issuetype": "Task",
       "created": "2026-08-03",
-      "updated": "2026-08-25",
+      "updated": "2026-08-26",
       "resolutiondate": "",
       "labels": [
         "Retorna"
@@ -965,12 +1211,12 @@
     {
       "key": "PS-6058",
       "summary": "Allianz ES - Quote&Buy - Design the Quote website",
-      "status": "Ready for review",
+      "status": "In Progress",
       "status_category": "In Progress",
       "assignee": "Vicky Correbo",
       "issuetype": "Task",
       "created": "2026-07-31",
-      "updated": "2026-08-17",
+      "updated": "2026-08-27",
       "resolutiondate": "",
       "labels": [
         "Allianz"
@@ -1119,12 +1365,12 @@
     {
       "key": "PS-6047",
       "summary": "Euroriente - Analyse the Juniper API",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Ready for review",
+      "status_category": "In Progress",
       "assignee": "Pep Alonso",
       "issuetype": "Discovery Task",
       "created": "2026-07-30",
-      "updated": "2026-08-20",
+      "updated": "2026-08-27",
       "resolutiondate": "",
       "labels": [
         "Euroriente"
@@ -1147,12 +1393,12 @@
     {
       "key": "PS-6045",
       "summary": "Investigate and fix WizzAir middleware timeouts (production)",
-      "status": "To Do",
-      "status_category": "To Do",
-      "assignee": null,
+      "status": "In Progress",
+      "status_category": "In Progress",
+      "assignee": "Marco Gallego Ropero",
       "issuetype": "Bug",
       "created": "2026-07-30",
-      "updated": "2026-07-30",
+      "updated": "2026-08-27",
       "resolutiondate": "",
       "labels": [
         "WizzAir"
@@ -2282,12 +2528,12 @@
     {
       "key": "PS-5964",
       "summary": "Ralph Lauren- reset without deleting conv",
-      "status": "In Progress",
-      "status_category": "In Progress",
+      "status": "To Do",
+      "status_category": "To Do",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-07-21",
-      "updated": "2026-07-24",
+      "updated": "2026-08-26",
       "resolutiondate": "",
       "labels": [
         "Ralph_Lauren"
@@ -2352,12 +2598,12 @@
     {
       "key": "PS-5959",
       "summary": "TMB - Update Bot Version ",
-      "status": "APPROVED FOR PRODUCTION",
+      "status": "In production",
       "status_category": "Done",
       "assignee": "Marco Gallego Ropero",
       "issuetype": "Task",
       "created": "2026-07-21",
-      "updated": "2026-08-24",
+      "updated": "2026-08-26",
       "resolutiondate": "",
       "labels": [
         "TMB"
@@ -4198,12 +4444,12 @@
     {
       "key": "PS-5824",
       "summary": "Jetsmart: update design of new optionals",
-      "status": "Ready to Deliver",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Vicky Correbo",
       "issuetype": "Task",
       "created": "2026-06-30",
-      "updated": "2026-07-20",
+      "updated": "2026-08-26",
       "resolutiondate": "",
       "labels": [
         "JetSmart"
@@ -4548,12 +4794,12 @@
     {
       "key": "PS-5797",
       "summary": "Guess - Clean old messages in webchat after 24h of inactivity",
-      "status": "Open",
-      "status_category": "To Do",
+      "status": "Closed",
+      "status_category": "Done",
       "assignee": null,
       "issuetype": "Task",
       "created": "2026-06-24",
-      "updated": "2026-08-03",
+      "updated": "2026-08-26",
       "resolutiondate": "",
       "labels": [
         "Guess"
@@ -6208,12 +6454,12 @@
     {
       "key": "PS-5676",
       "summary": "Expired Webview design",
-      "status": "Ready to Deliver",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Vicky Correbo",
       "issuetype": "Task",
       "created": "2026-06-02",
-      "updated": "2026-08-06",
+      "updated": "2026-08-26",
       "resolutiondate": "",
       "labels": [
         "Internal"
@@ -14967,12 +15213,12 @@
     {
       "key": "PS-5018",
       "summary": "Verisure IT - Implement Alis Callback API – Notify Alis When Case Goes to Attending",
-      "status": "Closed",
-      "status_category": "Done",
-      "assignee": "Evgeni Slavyanov",
+      "status": "In Progress",
+      "status_category": "In Progress",
+      "assignee": "Adrià Sastre",
       "issuetype": "Task",
       "created": "2026-02-13",
-      "updated": "2026-07-31",
+      "updated": "2026-08-26",
       "resolutiondate": "",
       "labels": [
         "Verisure_IT"
@@ -27149,7 +27395,7 @@
       "assignee": "Adrià Sastre",
       "issuetype": "Discovery Task",
       "created": "2025-05-26",
-      "updated": "2026-08-24",
+      "updated": "2026-08-26",
       "resolutiondate": "",
       "labels": [
         "estimation"
@@ -27163,7 +27409,7 @@
       "assignee": "Adrià Sastre",
       "issuetype": "Epic",
       "created": "2025-05-26",
-      "updated": "2026-08-24",
+      "updated": "2026-08-26",
       "resolutiondate": "",
       "labels": [
         "AirEuropa"
