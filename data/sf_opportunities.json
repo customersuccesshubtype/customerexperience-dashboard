@@ -1,6 +1,23 @@
 {
-  "last_updated": "2026-08-26 07:59 UTC",
+  "last_updated": "2026-08-27 18:17 UTC",
   "opportunities": [
+    {
+      "id": "006Sa00000misYxIAI",
+      "name": "2026-C-AirEuropa-Hubtype Action with params",
+      "type": "Consultancy",
+      "stage": "Opportunity identified",
+      "is_closed": false,
+      "is_won": false,
+      "probability": 10.0,
+      "amount": 2520.0,
+      "arr": 0.0,
+      "owner": "Julieta Mezza",
+      "cs_lead": "Julieta Mezza",
+      "account": "Air Europa",
+      "created": "2026-08-27",
+      "close_date": "2026-10-01",
+      "start_date": "2026-10-01"
+    },
     {
       "id": "006Sa00000mbmLNIAY",
       "name": "2026-U-Retorna-Chile-SAML Integration",
@@ -328,17 +345,17 @@
       "id": "006Sa00000kr7s5IAA",
       "name": "2026-U-AirEuropa-5 licenses",
       "type": "Upsell",
-      "stage": "Opportunity identified",
-      "is_closed": false,
-      "is_won": false,
-      "probability": 10.0,
+      "stage": "Closed Won",
+      "is_closed": true,
+      "is_won": true,
+      "probability": 100.0,
       "amount": 1200.0,
       "arr": 1800.0,
       "owner": "Julieta Mezza",
       "cs_lead": "Julieta Mezza",
       "account": "Air Europa",
       "created": "2026-07-27",
-      "close_date": "2026-09-01",
+      "close_date": "2026-08-26",
       "start_date": "2026-09-01"
     },
     {
