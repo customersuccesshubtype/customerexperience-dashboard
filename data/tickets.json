@@ -1,6 +1,90 @@
 {
-  "last_updated": "2026-08-27 18:04 UTC",
+  "last_updated": "2026-08-28 19:13 UTC",
   "tickets": [
+    {
+      "key": "PS-6154",
+      "summary": "Libeen - Update packages to latest version",
+      "status": "Ready for review",
+      "status_category": "In Progress",
+      "assignee": null,
+      "issuetype": "Task",
+      "created": "2026-08-28",
+      "updated": "2026-08-28",
+      "resolutiondate": "",
+      "labels": [
+        "Libeen"
+      ]
+    },
+    {
+      "key": "PS-6153",
+      "summary": "Allianz ES - Quote&Buy - Test in Postman the whole process (both quote and buy)",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Adrià Sastre",
+      "issuetype": "Discovery Task",
+      "created": "2026-08-28",
+      "updated": "2026-08-28",
+      "resolutiondate": "",
+      "labels": [
+        "Allianz"
+      ]
+    },
+    {
+      "key": "PS-6152",
+      "summary": "Rag & Bone - Update to 0.57.0 botonic version",
+      "status": "Ready for review",
+      "status_category": "In Progress",
+      "assignee": "Pep Alonso",
+      "issuetype": "Task",
+      "created": "2026-08-28",
+      "updated": "2026-08-28",
+      "resolutiondate": "",
+      "labels": [
+        "Rag&Bone"
+      ]
+    },
+    {
+      "key": "PS-6151",
+      "summary": "Libeen - Valorar el que no se muestre el mensaje inicial cuando se manda template",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Adrià Sastre",
+      "issuetype": "Task",
+      "created": "2026-08-28",
+      "updated": "2026-08-28",
+      "resolutiondate": "",
+      "labels": [
+        "Libeen"
+      ]
+    },
+    {
+      "key": "PS-6149",
+      "summary": "Ralph Lauren - Review Single Product Cards",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "irene callejas",
+      "issuetype": "Task",
+      "created": "2026-08-28",
+      "updated": "2026-08-28",
+      "resolutiondate": "",
+      "labels": [
+        "Ralph_Lauren"
+      ]
+    },
+    {
+      "key": "PS-6148",
+      "summary": "Alsa - Update package versions",
+      "status": "Ready for review",
+      "status_category": "In Progress",
+      "assignee": null,
+      "issuetype": "Task",
+      "created": "2026-08-28",
+      "updated": "2026-08-28",
+      "resolutiondate": "",
+      "labels": [
+        "Alsa"
+      ]
+    },
     {
       "key": "PS-6147",
       "summary": "ALSA : IMPLMENTAR FEEDBACK EN FLOW BILLETES",
@@ -211,7 +295,7 @@
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-08-26",
-      "updated": "2026-08-26",
+      "updated": "2026-08-28",
       "resolutiondate": "",
       "labels": [
         "RACC"
@@ -512,12 +596,12 @@
     {
       "key": "PS-6110",
       "summary": "Air Europa - Queue position and automatic discard of webchat cases with +10 min offline",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "In Progress",
+      "status_category": "In Progress",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-08-19",
-      "updated": "2026-08-27",
+      "updated": "2026-08-28",
       "resolutiondate": "",
       "labels": [
         "AirEuropa"
@@ -784,7 +868,7 @@
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-08-13",
-      "updated": "2026-08-24",
+      "updated": "2026-08-28",
       "resolutiondate": "",
       "labels": [
         "Allianz-ES"
@@ -1216,7 +1300,7 @@
       "assignee": "Vicky Correbo",
       "issuetype": "Task",
       "created": "2026-07-31",
-      "updated": "2026-08-27",
+      "updated": "2026-08-28",
       "resolutiondate": "",
       "labels": [
         "Allianz"
@@ -2542,12 +2626,12 @@
     {
       "key": "PS-5963",
       "summary": "Libeen - Ajustar el prompt para pedir email (o teléfono) cuando el usuario no comparta el número, y bloquear la cualificación si no facilita ninguno",
-      "status": "To Do",
+      "status": "Open",
       "status_category": "To Do",
       "assignee": "irene callejas",
       "issuetype": "Task",
       "created": "2026-07-21",
-      "updated": "2026-08-17",
+      "updated": "2026-08-28",
       "resolutiondate": "",
       "labels": [
         "Libeen"
