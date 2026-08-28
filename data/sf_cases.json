@@ -1,11 +1,11 @@
 {
-  "last_updated": "2026-08-27 18:17 UTC",
+  "last_updated": "2026-08-28 19:26 UTC",
   "cases": [
     {
-      "id": "500Sa00000zraLdIAI",
-      "case_number": "00025279",
-      "subject": "Licenses [Mixpanel Alert Triggered]",
-      "status": "New",
+      "id": "500Sa00000zwao2IAA",
+      "case_number": "00025282",
+      "subject": "Translation Feature",
+      "status": "Open",
       "priority": "Low",
       "is_closed": false,
       "is_escalated": false,
@@ -19,9 +19,31 @@
       "is_critical": "L4",
       "escalated_team": "",
       "resolution_time": "",
-      "created": "2026-08-27",
+      "created": "2026-08-28",
       "closed": "",
-      "last_modified": "2026-08-27"
+      "last_modified": "2026-08-28"
+    },
+    {
+      "id": "500Sa00000zwLc5IAE",
+      "case_number": "00025281",
+      "subject": "Re: Hubtype File delay | 28/08/2026",
+      "status": "Open",
+      "priority": "Low",
+      "is_closed": false,
+      "is_escalated": false,
+      "owner": "Aitor Casas",
+      "account": "",
+      "origin": "Inbound",
+      "type": "",
+      "feeling": "",
+      "issue_type": "",
+      "channel": "Email",
+      "is_critical": "L4",
+      "escalated_team": "",
+      "resolution_time": "",
+      "created": "2026-08-28",
+      "closed": "",
+      "last_modified": "2026-08-28"
     },
     {
       "id": "500Sa00000zrZ2xIAE",
@@ -203,9 +225,9 @@
       "id": "500Sa00000zWY57IAG",
       "case_number": "00025265",
       "subject": "Tree menu – WhatsApp / Webchat",
-      "status": "Open",
+      "status": "Closed",
       "priority": "Low",
-      "is_closed": false,
+      "is_closed": true,
       "is_escalated": false,
       "owner": "Aitor Casas",
       "account": "GUESS",
@@ -216,10 +238,10 @@
       "channel": "Email",
       "is_critical": "L4",
       "escalated_team": "",
-      "resolution_time": "",
+      "resolution_time": "5. >36h",
       "created": "2026-08-24",
-      "closed": "",
-      "last_modified": "2026-08-27"
+      "closed": "2026-08-28",
+      "last_modified": "2026-08-28"
     },
     {
       "id": "500Sa00000zWe5eIAC",
@@ -1008,10 +1030,10 @@
       "channel": "Email",
       "is_critical": "L4",
       "escalated_team": "",
-      "resolution_time": "1. <6h",
+      "resolution_time": "5. >36h",
       "created": "2026-08-06",
-      "closed": "2026-08-06",
-      "last_modified": "2026-08-06"
+      "closed": "2026-08-28",
+      "last_modified": "2026-08-28"
     },
     {
       "id": "500Sa00000yJtESIA0",
