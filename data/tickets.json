@@ -1,15 +1,57 @@
 {
-  "last_updated": "2026-08-30 12:35 UTC",
+  "last_updated": "2026-08-31 14:49 UTC",
   "tickets": [
+    {
+      "key": "PS-6158",
+      "summary": "Verisure France - Fix auto idle message configuration",
+      "status": "In production",
+      "status_category": "Done",
+      "assignee": "Lorena Sánchez-Toril Nicolás",
+      "issuetype": "Bug",
+      "created": "2026-08-31",
+      "updated": "2026-08-31",
+      "resolutiondate": "",
+      "labels": [
+        "Verisure-FR"
+      ]
+    },
+    {
+      "key": "PS-6156",
+      "summary": "Verisure BR - Disconnect WA in production",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Aitor Casas",
+      "issuetype": "Task",
+      "created": "2026-08-31",
+      "updated": "2026-08-31",
+      "resolutiondate": "",
+      "labels": [
+        "Verisure-Brasil"
+      ]
+    },
+    {
+      "key": "PS-6155",
+      "summary": "Hubtype SDK - Add remove Contact Info Field endpoint",
+      "status": "Ready for review",
+      "status_category": "In Progress",
+      "assignee": "Lorena Sánchez-Toril Nicolás",
+      "issuetype": "Task",
+      "created": "2026-08-31",
+      "updated": "2026-08-31",
+      "resolutiondate": "",
+      "labels": [
+        "Internal"
+      ]
+    },
     {
       "key": "PS-6154",
       "summary": "Libeen - Update packages to latest version",
       "status": "Ready for review",
       "status_category": "In Progress",
-      "assignee": null,
+      "assignee": "Team Delivery",
       "issuetype": "Task",
       "created": "2026-08-28",
-      "updated": "2026-08-28",
+      "updated": "2026-08-31",
       "resolutiondate": "",
       "labels": [
         "Libeen"
@@ -31,13 +73,13 @@
     },
     {
       "key": "PS-6152",
-      "summary": "Rag & Bone - Update to 0.57.0 botonic version",
+      "summary": "Rag & Bone - Update to 0.55.0 botonic version",
       "status": "Ready for review",
       "status_category": "In Progress",
-      "assignee": "Pep Alonso",
+      "assignee": "Team Delivery",
       "issuetype": "Task",
       "created": "2026-08-28",
-      "updated": "2026-08-28",
+      "updated": "2026-08-31",
       "resolutiondate": "",
       "labels": [
         "Rag&Bone"
@@ -51,7 +93,7 @@
       "assignee": "Adrià Sastre",
       "issuetype": "Task",
       "created": "2026-08-28",
-      "updated": "2026-08-28",
+      "updated": "2026-08-31",
       "resolutiondate": "",
       "labels": [
         "Libeen"
@@ -60,12 +102,12 @@
     {
       "key": "PS-6149",
       "summary": "Ralph Lauren - Review Single Product Cards",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Ready for review",
+      "status_category": "In Progress",
       "assignee": "irene callejas",
       "issuetype": "Task",
       "created": "2026-08-28",
-      "updated": "2026-08-28",
+      "updated": "2026-08-31",
       "resolutiondate": "",
       "labels": [
         "Ralph_Lauren"
@@ -73,13 +115,13 @@
     },
     {
       "key": "PS-6148",
-      "summary": "Alsa - Update package versions",
+      "summary": "Alsa - Update package versions to 0.55",
       "status": "Ready for review",
       "status_category": "In Progress",
-      "assignee": null,
+      "assignee": "Team Delivery",
       "issuetype": "Task",
       "created": "2026-08-28",
-      "updated": "2026-08-28",
+      "updated": "2026-08-31",
       "resolutiondate": "",
       "labels": [
         "Alsa"
@@ -295,7 +337,7 @@
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-08-26",
-      "updated": "2026-08-28",
+      "updated": "2026-08-31",
       "resolutiondate": "",
       "labels": [
         "RACC"
@@ -489,7 +531,7 @@
       "assignee": "Adrià Sastre",
       "issuetype": "Task",
       "created": "2026-08-24",
-      "updated": "2026-08-24",
+      "updated": "2026-08-31",
       "resolutiondate": "",
       "labels": [
         "Guess"
@@ -708,12 +750,12 @@
     {
       "key": "PS-6102",
       "summary": "Michael Kors - Update Bot to .55 version",
-      "status": "In production",
+      "status": "Done",
       "status_category": "Done",
       "assignee": "Marco Gallego Ropero",
       "issuetype": "Task",
       "created": "2026-08-17",
-      "updated": "2026-08-27",
+      "updated": "2026-08-31",
       "resolutiondate": "",
       "labels": [
         "Michael-Kors"
@@ -807,12 +849,12 @@
     {
       "key": "PS-6095",
       "summary": "Air Europa - Booking inquiry UX fix",
-      "status": "In Progress",
+      "status": "Ready for review",
       "status_category": "In Progress",
       "assignee": "Vicky Correbo",
       "issuetype": "Task",
       "created": "2026-08-13",
-      "updated": "2026-08-14",
+      "updated": "2026-08-31",
       "resolutiondate": "",
       "labels": [
         "AirEuropa"
@@ -919,12 +961,12 @@
     {
       "key": "PS-6087",
       "summary": "Hubtype - Update demos Botonic version to lattest",
-      "status": "In Progress",
+      "status": "Ready for review",
       "status_category": "In Progress",
       "assignee": "Marco Gallego Ropero",
       "issuetype": "Task",
       "created": "2026-08-11",
-      "updated": "2026-08-20",
+      "updated": "2026-08-31",
       "resolutiondate": "",
       "labels": [
         "Hubtype"
@@ -1225,12 +1267,12 @@
     {
       "key": "PS-6063",
       "summary": "Retorna - Create App Snippet",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Ready for review",
+      "status_category": "In Progress",
       "assignee": "Pep Alonso",
       "issuetype": "Task",
       "created": "2026-08-03",
-      "updated": "2026-08-26",
+      "updated": "2026-08-31",
       "resolutiondate": "",
       "labels": [
         "Retorna"
@@ -1379,12 +1421,12 @@
     {
       "key": "PS-6052",
       "summary": "DABA - Consulta Ultimo Pedido (WISMO; API rest)",
-      "status": "Open",
+      "status": "To Do",
       "status_category": "To Do",
-      "assignee": null,
+      "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-07-31",
-      "updated": "2026-08-24",
+      "updated": "2026-08-31",
       "resolutiondate": "",
       "labels": [
         "DABA"
@@ -1757,12 +1799,12 @@
     {
       "key": "PS-6025",
       "summary": "DABA - Integrate Staging WhatsApp Number",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Aitor Casas",
       "issuetype": "Task",
       "created": "2026-07-28",
-      "updated": "2026-07-31",
+      "updated": "2026-08-31",
       "resolutiondate": "",
       "labels": [
         "DABA"
@@ -2471,12 +2513,12 @@
     {
       "key": "PS-5974",
       "summary": "Occident - Review new CRM request",
-      "status": "In Progress",
+      "status": "Waiting for customer",
       "status_category": "In Progress",
       "assignee": "Pep Alonso",
       "issuetype": "Task",
       "created": "2026-07-22",
-      "updated": "2026-08-24",
+      "updated": "2026-08-31",
       "resolutiondate": "",
       "labels": [
         "Occident"
@@ -2682,12 +2724,12 @@
     {
       "key": "PS-5959",
       "summary": "TMB - Update Bot Version ",
-      "status": "In production",
+      "status": "Done",
       "status_category": "Done",
       "assignee": "Marco Gallego Ropero",
       "issuetype": "Task",
       "created": "2026-07-21",
-      "updated": "2026-08-26",
+      "updated": "2026-08-31",
       "resolutiondate": "",
       "labels": [
         "TMB"
@@ -2911,7 +2953,7 @@
       "assignee": "Pep Alonso",
       "issuetype": "Task",
       "created": "2026-07-20",
-      "updated": "2026-08-17",
+      "updated": "2026-08-31",
       "resolutiondate": "",
       "labels": [
         "occident"
@@ -3452,12 +3494,12 @@
     {
       "key": "PS-5904",
       "summary": "Michael Kors - Adjust prompt so Bot Answers on specific questions",
-      "status": "Ready for review",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "irene callejas",
       "issuetype": "Task",
       "created": "2026-07-10",
-      "updated": "2026-08-14",
+      "updated": "2026-08-31",
       "resolutiondate": "",
       "labels": [
         "Michael-Kors"
@@ -3954,12 +3996,12 @@
     {
       "key": "PS-5868",
       "summary": "Assegur - Review if we are receiving new data about \"arag\" and \"europ assistance\"",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Ready for review",
+      "status_category": "In Progress",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-07-09",
-      "updated": "2026-08-25",
+      "updated": "2026-08-31",
       "resolutiondate": "",
       "labels": [
         "Assegur"
@@ -4150,12 +4192,12 @@
     {
       "key": "PS-5853",
       "summary": "Concentra - Create FB Flows ",
-      "status": "Open",
-      "status_category": "To Do",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": null,
       "issuetype": "Task",
       "created": "2026-07-08",
-      "updated": "2026-07-08",
+      "updated": "2026-08-31",
       "resolutiondate": "",
       "labels": [
         "Concentra"
@@ -15297,12 +15339,12 @@
     {
       "key": "PS-5018",
       "summary": "Verisure IT - Implement Alis Callback API – Notify Alis When Case Goes to Attending",
-      "status": "In Progress",
+      "status": "Waiting for customer",
       "status_category": "In Progress",
       "assignee": "Adrià Sastre",
       "issuetype": "Task",
       "created": "2026-02-13",
-      "updated": "2026-08-26",
+      "updated": "2026-08-31",
       "resolutiondate": "",
       "labels": [
         "Verisure_IT"
@@ -27479,9 +27521,10 @@
       "assignee": "Adrià Sastre",
       "issuetype": "Discovery Task",
       "created": "2025-05-26",
-      "updated": "2026-08-26",
+      "updated": "2026-08-31",
       "resolutiondate": "",
       "labels": [
+        "AirEuropa",
         "estimation"
       ]
     },
