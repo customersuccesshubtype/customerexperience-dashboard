@@ -1,10 +1,38 @@
 {
-  "last_updated": "2026-08-31 14:49 UTC",
+  "last_updated": "2026-09-01 12:19 UTC",
   "tickets": [
+    {
+      "key": "PS-6160",
+      "summary": "DABA - authentication + client info ANI",
+      "status": "Ready for review",
+      "status_category": "In Progress",
+      "assignee": "Lorena Sánchez-Toril Nicolás",
+      "issuetype": "Task",
+      "created": "2026-09-01",
+      "updated": "2026-09-01",
+      "resolutiondate": "",
+      "labels": [
+        "DABA"
+      ]
+    },
+    {
+      "key": "PS-6159",
+      "summary": "Concentra - meta templates + hilo comprobacion staging ",
+      "status": "Done",
+      "status_category": "Done",
+      "assignee": "Lorena Sánchez-Toril Nicolás",
+      "issuetype": "Task",
+      "created": "2026-08-31",
+      "updated": "2026-09-01",
+      "resolutiondate": "",
+      "labels": [
+        "Concentra"
+      ]
+    },
     {
       "key": "PS-6158",
       "summary": "Verisure France - Fix auto idle message configuration",
-      "status": "In production",
+      "status": "Done",
       "status_category": "Done",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Bug",
@@ -88,12 +116,12 @@
     {
       "key": "PS-6151",
       "summary": "Libeen - Valorar el que no se muestre el mensaje inicial cuando se manda template",
-      "status": "To Do",
-      "status_category": "To Do",
-      "assignee": "Adrià Sastre",
+      "status": "In Progress",
+      "status_category": "In Progress",
+      "assignee": "Marco Gallego Ropero",
       "issuetype": "Task",
       "created": "2026-08-28",
-      "updated": "2026-08-31",
+      "updated": "2026-09-01",
       "resolutiondate": "",
       "labels": [
         "Libeen"
@@ -130,12 +158,12 @@
     {
       "key": "PS-6147",
       "summary": "ALSA : IMPLMENTAR FEEDBACK EN FLOW BILLETES",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Ready for review",
+      "status_category": "In Progress",
       "assignee": "irene callejas",
       "issuetype": "Task",
       "created": "2026-08-27",
-      "updated": "2026-08-27",
+      "updated": "2026-08-31",
       "resolutiondate": "",
       "labels": [
         "Alsa"
@@ -388,12 +416,12 @@
     {
       "key": "PS-6128",
       "summary": "Concentra_ update templates",
-      "status": "Ready for review",
+      "status": "Ready to Deliver",
       "status_category": "In Progress",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-08-26",
-      "updated": "2026-08-26",
+      "updated": "2026-09-01",
       "resolutiondate": "",
       "labels": [
         "Concentra"
@@ -498,12 +526,12 @@
     {
       "key": "PS-6120",
       "summary": "Verisure Spain - Landings - Send contact reason to Altitude",
-      "status": "Ready to Deliver",
-      "status_category": "In Progress",
+      "status": "In production",
+      "status_category": "Done",
       "assignee": "Marco Gallego Ropero",
       "issuetype": "Task",
       "created": "2026-08-24",
-      "updated": "2026-08-25",
+      "updated": "2026-09-01",
       "resolutiondate": "",
       "labels": [
         "Verisure_ES"
@@ -638,12 +666,12 @@
     {
       "key": "PS-6110",
       "summary": "Air Europa - Queue position and automatic discard of webchat cases with +10 min offline",
-      "status": "In Progress",
+      "status": "Ready for review",
       "status_category": "In Progress",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-08-19",
-      "updated": "2026-08-28",
+      "updated": "2026-09-01",
       "resolutiondate": "",
       "labels": [
         "AirEuropa"
@@ -736,12 +764,12 @@
     {
       "key": "PS-6103",
       "summary": "Retorna - Update Bot to .55 version",
-      "status": "APPROVED FOR PRODUCTION",
+      "status": "In production",
       "status_category": "Done",
       "assignee": "Marco Gallego Ropero",
       "issuetype": "Task",
       "created": "2026-08-17",
-      "updated": "2026-08-24",
+      "updated": "2026-09-01",
       "resolutiondate": "",
       "labels": [
         "Retorna"
@@ -764,12 +792,12 @@
     {
       "key": "PS-6101",
       "summary": "ALSA : implementacion nuevo flujo",
-      "status": "In Progress",
+      "status": "Ready for review",
       "status_category": "In Progress",
       "assignee": "irene callejas",
       "issuetype": "Task",
       "created": "2026-08-17",
-      "updated": "2026-08-18",
+      "updated": "2026-08-31",
       "resolutiondate": "",
       "labels": [
         "Alsa"
@@ -1267,12 +1295,12 @@
     {
       "key": "PS-6063",
       "summary": "Retorna - Create App Snippet",
-      "status": "Ready for review",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Pep Alonso",
       "issuetype": "Task",
       "created": "2026-08-03",
-      "updated": "2026-08-31",
+      "updated": "2026-09-01",
       "resolutiondate": "",
       "labels": [
         "Retorna"
@@ -1519,12 +1547,12 @@
     {
       "key": "PS-6045",
       "summary": "Investigate and fix WizzAir middleware timeouts (production)",
-      "status": "In Progress",
+      "status": "Ready for review",
       "status_category": "In Progress",
       "assignee": "Marco Gallego Ropero",
       "issuetype": "Bug",
       "created": "2026-07-30",
-      "updated": "2026-08-27",
+      "updated": "2026-09-01",
       "resolutiondate": "",
       "labels": [
         "WizzAir"
@@ -1575,12 +1603,12 @@
     {
       "key": "PS-6041",
       "summary": "ALSA - transición a GPT  Luna",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Ready for review",
+      "status_category": "In Progress",
       "assignee": "irene callejas",
       "issuetype": "Task",
       "created": "2026-07-30",
-      "updated": "2026-07-30",
+      "updated": "2026-08-31",
       "resolutiondate": "",
       "labels": [
         "Alsa"
@@ -1673,12 +1701,12 @@
     {
       "key": "PS-6034",
       "summary": "RACC Travel - Apply New feedback",
-      "status": "Ready for review",
+      "status": "In Progress",
       "status_category": "In Progress",
       "assignee": "irene callejas",
       "issuetype": "Task",
       "created": "2026-07-29",
-      "updated": "2026-08-14",
+      "updated": "2026-08-31",
       "resolutiondate": "",
       "labels": [
         "RACC"
@@ -2948,12 +2976,12 @@
     {
       "key": "PS-5943",
       "summary": "Occident - Include certificate in every call to GCO endpoints",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "In Progress",
+      "status_category": "In Progress",
       "assignee": "Pep Alonso",
       "issuetype": "Task",
       "created": "2026-07-20",
-      "updated": "2026-08-31",
+      "updated": "2026-09-01",
       "resolutiondate": "",
       "labels": [
         "occident"
@@ -4617,7 +4645,7 @@
       "assignee": "Adrià Sastre",
       "issuetype": "Task",
       "created": "2026-06-29",
-      "updated": "2026-08-24",
+      "updated": "2026-09-01",
       "resolutiondate": "",
       "labels": [
         "Verisure_ES"
