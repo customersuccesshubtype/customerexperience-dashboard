@@ -1,6 +1,40 @@
 {
-  "last_updated": "2026-08-31 15:06 UTC",
+  "last_updated": "2026-09-01 12:34 UTC",
   "opportunities": [
+    {
+      "id": "006Sa00000n2tU3IAI",
+      "name": "2026-U-Wizz Air-Extra Languages (4)",
+      "type": "Upsell",
+      "stage": "Opportunity identified",
+      "is_closed": false,
+      "is_won": false,
+      "probability": 10.0,
+      "amount": 3440.1,
+      "arr": 3408.12,
+      "owner": "Julieta Mezza",
+      "cs_lead": "Julieta Mezza",
+      "account": "Wizz Air",
+      "created": "2026-09-01",
+      "close_date": "2026-09-01",
+      "start_date": "2026-10-07"
+    },
+    {
+      "id": "006Sa00000n2KBOIA2",
+      "name": "2026-U-Securitas (Lead Gen)- Extra MAUs August 2026",
+      "type": "Upsell",
+      "stage": "Opportunity identified",
+      "is_closed": false,
+      "is_won": false,
+      "probability": 10.0,
+      "amount": 775.72,
+      "arr": 0.0,
+      "owner": "Marta Marron",
+      "cs_lead": "",
+      "account": "Verisure Spain Lead Gen",
+      "created": "2026-09-01",
+      "close_date": "2026-09-01",
+      "start_date": "2026-09-01"
+    },
     {
       "id": "006Sa00000misYxIAI",
       "name": "2026-C-AirEuropa-Hubtype Action with params",
@@ -54,20 +88,20 @@
     },
     {
       "id": "006Sa00000maZzhIAE",
-      "name": "2026-U-Wizz Air-Extra Languages (7)",
+      "name": "2026-U-Wizz Air-Extra Languages (French, Russian and Ukrainian)",
       "type": "Upsell",
-      "stage": "Opportunity identified",
+      "stage": "Waiting for signature",
       "is_closed": false,
       "is_won": false,
-      "probability": 10.0,
-      "amount": 7364.21,
-      "arr": 7952.28,
+      "probability": 90.0,
+      "amount": 3440.1,
+      "arr": 3408.12,
       "owner": "Julieta Mezza",
       "cs_lead": "Julieta Mezza",
       "account": "Wizz Air",
       "created": "2026-08-25",
-      "close_date": "2026-10-01",
-      "start_date": "2026-10-01"
+      "close_date": "2026-09-01",
+      "start_date": "2026-09-07"
     },
     {
       "id": "006Sa00000lODAkIAO",
@@ -1002,7 +1036,7 @@
       "account": "GUESS",
       "created": "2026-05-18",
       "close_date": "2026-05-18",
-      "start_date": "2026-04-01"
+      "start_date": "2027-04-01"
     },
     {
       "id": "006Sa00000gB8EzIAK",
