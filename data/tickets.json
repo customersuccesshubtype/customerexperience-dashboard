@@ -1,6 +1,76 @@
 {
-  "last_updated": "2026-09-01 12:19 UTC",
+  "last_updated": "2026-09-02 11:56 UTC",
   "tickets": [
+    {
+      "key": "PS-6165",
+      "summary": "Allianz Partners - Analizar API para mostrar el status de la grua",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Adrià Sastre",
+      "issuetype": "Discovery Task",
+      "created": "2026-09-02",
+      "updated": "2026-09-02",
+      "resolutiondate": "",
+      "labels": [
+        "AllianzPartners"
+      ]
+    },
+    {
+      "key": "PS-6164",
+      "summary": "SEM - Nuevos casos para pasar por \"battle test\"",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "irene callejas",
+      "issuetype": "Task",
+      "created": "2026-09-02",
+      "updated": "2026-09-02",
+      "resolutiondate": "",
+      "labels": [
+        "SEM"
+      ]
+    },
+    {
+      "key": "PS-6163",
+      "summary": "Air Europa - fix animation",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Lorena Sánchez-Toril Nicolás",
+      "issuetype": "Task",
+      "created": "2026-09-02",
+      "updated": "2026-09-02",
+      "resolutiondate": "",
+      "labels": [
+        "AirEuropa"
+      ]
+    },
+    {
+      "key": "PS-6162",
+      "summary": "Occident - Update and unify snippets for web and app",
+      "status": "In Progress",
+      "status_category": "In Progress",
+      "assignee": "Pep Alonso",
+      "issuetype": "Task",
+      "created": "2026-09-01",
+      "updated": "2026-09-02",
+      "resolutiondate": "",
+      "labels": [
+        "Occident"
+      ]
+    },
+    {
+      "key": "PS-6161",
+      "summary": "Internal - Review if gh actions have access to bot's secrets",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Team Delivery",
+      "issuetype": "Task",
+      "created": "2026-09-01",
+      "updated": "2026-09-02",
+      "resolutiondate": "",
+      "labels": [
+        "Internal"
+      ]
+    },
     {
       "key": "PS-6160",
       "summary": "DABA - authentication + client info ANI",
@@ -88,12 +158,12 @@
     {
       "key": "PS-6153",
       "summary": "Allianz ES - Quote&Buy - Test in Postman the whole process (both quote and buy)",
-      "status": "To Do",
-      "status_category": "To Do",
-      "assignee": "Adrià Sastre",
+      "status": "In Progress",
+      "status_category": "In Progress",
+      "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Discovery Task",
       "created": "2026-08-28",
-      "updated": "2026-08-28",
+      "updated": "2026-09-02",
       "resolutiondate": "",
       "labels": [
         "Allianz"
@@ -130,12 +200,12 @@
     {
       "key": "PS-6149",
       "summary": "Ralph Lauren - Review Single Product Cards",
-      "status": "Ready for review",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "irene callejas",
       "issuetype": "Task",
       "created": "2026-08-28",
-      "updated": "2026-08-31",
+      "updated": "2026-09-01",
       "resolutiondate": "",
       "labels": [
         "Ralph_Lauren"
@@ -174,10 +244,10 @@
       "summary": "Allianz OSN - Update bot to latest version",
       "status": "To Do",
       "status_category": "To Do",
-      "assignee": null,
+      "assignee": "Adrià Sastre",
       "issuetype": "Task",
       "created": "2026-08-27",
-      "updated": "2026-08-27",
+      "updated": "2026-09-02",
       "resolutiondate": "",
       "labels": [
         "Allianz-OSN"
@@ -365,7 +435,7 @@
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-08-26",
-      "updated": "2026-08-31",
+      "updated": "2026-09-02",
       "resolutiondate": "",
       "labels": [
         "RACC"
@@ -526,7 +596,7 @@
     {
       "key": "PS-6120",
       "summary": "Verisure Spain - Landings - Send contact reason to Altitude",
-      "status": "In production",
+      "status": "Done",
       "status_category": "Done",
       "assignee": "Marco Gallego Ropero",
       "issuetype": "Task",
@@ -554,12 +624,12 @@
     {
       "key": "PS-6118",
       "summary": "Guess - Update SFSC integration logic to pass resolved language for case closure",
-      "status": "To Do",
-      "status_category": "To Do",
-      "assignee": "Adrià Sastre",
+      "status": "Ready for review",
+      "status_category": "In Progress",
+      "assignee": "Team Delivery",
       "issuetype": "Task",
       "created": "2026-08-24",
-      "updated": "2026-08-31",
+      "updated": "2026-09-01",
       "resolutiondate": "",
       "labels": [
         "Guess"
@@ -666,12 +736,12 @@
     {
       "key": "PS-6110",
       "summary": "Air Europa - Queue position and automatic discard of webchat cases with +10 min offline",
-      "status": "Ready for review",
+      "status": "In Review",
       "status_category": "In Progress",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-08-19",
-      "updated": "2026-09-01",
+      "updated": "2026-09-02",
       "resolutiondate": "",
       "labels": [
         "AirEuropa"
@@ -764,7 +834,7 @@
     {
       "key": "PS-6103",
       "summary": "Retorna - Update Bot to .55 version",
-      "status": "In production",
+      "status": "Done",
       "status_category": "Done",
       "assignee": "Marco Gallego Ropero",
       "issuetype": "Task",
@@ -1356,7 +1426,7 @@
       "assignee": "Adrià Sastre",
       "issuetype": "Discovery Task",
       "created": "2026-07-31",
-      "updated": "2026-08-05",
+      "updated": "2026-09-02",
       "resolutiondate": "",
       "labels": [
         "Allianz"
@@ -1365,12 +1435,12 @@
     {
       "key": "PS-6058",
       "summary": "Allianz ES - Quote&Buy - Design the Quote website",
-      "status": "In Progress",
+      "status": "Ready for review",
       "status_category": "In Progress",
       "assignee": "Vicky Correbo",
       "issuetype": "Task",
       "created": "2026-07-31",
-      "updated": "2026-08-28",
+      "updated": "2026-09-01",
       "resolutiondate": "",
       "labels": [
         "Allianz"
@@ -1701,12 +1771,12 @@
     {
       "key": "PS-6034",
       "summary": "RACC Travel - Apply New feedback",
-      "status": "In Progress",
+      "status": "Ready for review",
       "status_category": "In Progress",
       "assignee": "irene callejas",
       "issuetype": "Task",
       "created": "2026-07-29",
-      "updated": "2026-08-31",
+      "updated": "2026-09-02",
       "resolutiondate": "",
       "labels": [
         "RACC"
@@ -2682,12 +2752,12 @@
     {
       "key": "PS-5964",
       "summary": "Ralph Lauren- reset without deleting conv",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "In Progress",
+      "status_category": "In Progress",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-07-21",
-      "updated": "2026-08-26",
+      "updated": "2026-09-02",
       "resolutiondate": "",
       "labels": [
         "Ralph_Lauren"
@@ -2976,12 +3046,12 @@
     {
       "key": "PS-5943",
       "summary": "Occident - Include certificate in every call to GCO endpoints",
-      "status": "In Progress",
+      "status": "Ready for review",
       "status_category": "In Progress",
       "assignee": "Pep Alonso",
       "issuetype": "Task",
       "created": "2026-07-20",
-      "updated": "2026-09-01",
+      "updated": "2026-09-02",
       "resolutiondate": "",
       "labels": [
         "occident"
@@ -4024,12 +4094,12 @@
     {
       "key": "PS-5868",
       "summary": "Assegur - Review if we are receiving new data about \"arag\" and \"europ assistance\"",
-      "status": "Ready for review",
+      "status": "In Review",
       "status_category": "In Progress",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-07-09",
-      "updated": "2026-08-31",
+      "updated": "2026-09-02",
       "resolutiondate": "",
       "labels": [
         "Assegur"
@@ -15372,7 +15442,7 @@
       "assignee": "Adrià Sastre",
       "issuetype": "Task",
       "created": "2026-02-13",
-      "updated": "2026-08-31",
+      "updated": "2026-09-01",
       "resolutiondate": "",
       "labels": [
         "Verisure_IT"
@@ -15925,12 +15995,12 @@
     {
       "key": "PS-4976",
       "summary": "RACC - Incorporar contexto de información de leads del CRM a los agentes en WhatsApp (Proyecto HomeExperts - RACC).",
-      "status": "Ready to Deliver",
+      "status": "Waiting for customer",
       "status_category": "In Progress",
       "assignee": "Adrià Sastre",
       "issuetype": "Task",
       "created": "2026-02-07",
-      "updated": "2026-08-25",
+      "updated": "2026-09-01",
       "resolutiondate": "",
       "labels": [
         "RACC"
@@ -16497,12 +16567,12 @@
     {
       "key": "PS-4931",
       "summary": "Jetsmart - Complex use case \"Buy a flight\"",
-      "status": "In Progress",
+      "status": "Ready for review",
       "status_category": "In Progress",
       "assignee": "Pep Alonso",
       "issuetype": "Epic",
       "created": "2026-01-30",
-      "updated": "2026-08-11",
+      "updated": "2026-09-02",
       "resolutiondate": "",
       "labels": [
         "JetSmart"
@@ -27549,7 +27619,7 @@
       "assignee": "Adrià Sastre",
       "issuetype": "Discovery Task",
       "created": "2025-05-26",
-      "updated": "2026-08-31",
+      "updated": "2026-09-02",
       "resolutiondate": "",
       "labels": [
         "AirEuropa",
