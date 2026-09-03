@@ -1,6 +1,256 @@
 {
-  "last_updated": "2026-09-02 11:56 UTC",
+  "last_updated": "2026-09-03 11:54 UTC",
   "tickets": [
+    {
+      "key": "PS-6183",
+      "summary": "Assegur - Chats flipped from Catalan to Spanish without user action",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": null,
+      "issuetype": "Bug",
+      "created": "2026-09-03",
+      "updated": "2026-09-03",
+      "resolutiondate": "",
+      "labels": []
+    },
+    {
+      "key": "PS-6182",
+      "summary": "Bot Monitoring - Add token to all API requests",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Adrià Sastre",
+      "issuetype": "Task",
+      "created": "2026-09-03",
+      "updated": "2026-09-03",
+      "resolutiondate": "",
+      "labels": [
+        "Internal"
+      ]
+    },
+    {
+      "key": "PS-6181",
+      "summary": "Internal - Review why all Github Actions are triggered with a rebase",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "AI Agent Delivery",
+      "issuetype": "Task",
+      "created": "2026-09-03",
+      "updated": "2026-09-03",
+      "resolutiondate": "",
+      "labels": [
+        "Internal"
+      ]
+    },
+    {
+      "key": "PS-6180",
+      "summary": "Internal - Update AI Agent Github Action to deploy changes to staging",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Pep Alonso",
+      "issuetype": "Task",
+      "created": "2026-09-03",
+      "updated": "2026-09-03",
+      "resolutiondate": "",
+      "labels": [
+        "Internal"
+      ]
+    },
+    {
+      "key": "PS-6179",
+      "summary": "Internal - Create Github Action to deploy bots to staging",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Pep Alonso",
+      "issuetype": "Task",
+      "created": "2026-09-03",
+      "updated": "2026-09-03",
+      "resolutiondate": "",
+      "labels": [
+        "Internal"
+      ]
+    },
+    {
+      "key": "PS-6178",
+      "summary": "Internal - Add slack notification for staging deploys",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "AI Agent Delivery",
+      "issuetype": "Task",
+      "created": "2026-09-03",
+      "updated": "2026-09-03",
+      "resolutiondate": "",
+      "labels": [
+        "Internal"
+      ]
+    },
+    {
+      "key": "PS-6177",
+      "summary": "Ralph Lauren - Input image message ",
+      "status": "Done",
+      "status_category": "Done",
+      "assignee": "Lorena Sánchez-Toril Nicolás",
+      "issuetype": "Task",
+      "created": "2026-09-03",
+      "updated": "2026-09-03",
+      "resolutiondate": "",
+      "labels": [
+        "Ralph_Lauren"
+      ]
+    },
+    {
+      "key": "PS-6176",
+      "summary": "Ralph Lauren - UTM params for ICONS",
+      "status": "Ready for review",
+      "status_category": "In Progress",
+      "assignee": "Lorena Sánchez-Toril Nicolás",
+      "issuetype": "Task",
+      "created": "2026-09-03",
+      "updated": "2026-09-03",
+      "resolutiondate": "",
+      "labels": [
+        "Ralph_Lauren"
+      ]
+    },
+    {
+      "key": "PS-6175",
+      "summary": "Ralph Lauren - Whatsapp consent created_at for icons campaign",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Lorena Sánchez-Toril Nicolás",
+      "issuetype": "Task",
+      "created": "2026-09-03",
+      "updated": "2026-09-03",
+      "resolutiondate": "",
+      "labels": [
+        "Ralph_Lauren"
+      ]
+    },
+    {
+      "key": "PS-6174",
+      "summary": "3 nuevos snippets staging y prod para webchat para Tendam (HossIntropia, Dash & Stars y Slow Love)",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Adrià Sastre",
+      "issuetype": "Discovery Task",
+      "created": "2026-09-02",
+      "updated": "2026-09-03",
+      "resolutiondate": "",
+      "labels": [
+        "Tendam"
+      ]
+    },
+    {
+      "key": "PS-6173",
+      "summary": "Fenie Energia - Handoff del Agente de Google al flowbuilder",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Pep Alonso",
+      "issuetype": "Task",
+      "created": "2026-09-02",
+      "updated": "2026-09-02",
+      "resolutiondate": "",
+      "labels": [
+        "FenieEnergia"
+      ]
+    },
+    {
+      "key": "PS-6172",
+      "summary": "DABA - Configure Reset Command",
+      "status": "Done",
+      "status_category": "Done",
+      "assignee": "Lorena Sánchez-Toril Nicolás",
+      "issuetype": "Task",
+      "created": "2026-09-02",
+      "updated": "2026-09-03",
+      "resolutiondate": "",
+      "labels": [
+        "DABA"
+      ]
+    },
+    {
+      "key": "PS-6171",
+      "summary": "VGRS - Integrate test number in staging bots",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Aitor Casas",
+      "issuetype": "Task",
+      "created": "2026-09-02",
+      "updated": "2026-09-02",
+      "resolutiondate": "",
+      "labels": [
+        "VGRS"
+      ]
+    },
+    {
+      "key": "PS-6170",
+      "summary": "Ralph Lauren - bajar threshold de la api de /search ",
+      "status": "Ready for review",
+      "status_category": "In Progress",
+      "assignee": "Lorena Sánchez-Toril Nicolás",
+      "issuetype": "Task",
+      "created": "2026-09-02",
+      "updated": "2026-09-03",
+      "resolutiondate": "",
+      "labels": [
+        "Ralph_Lauren"
+      ]
+    },
+    {
+      "key": "PS-6169",
+      "summary": "Ralph Lauren - Icons campaign ",
+      "status": "Ready for review",
+      "status_category": "In Progress",
+      "assignee": "Lorena Sánchez-Toril Nicolás",
+      "issuetype": "Task",
+      "created": "2026-09-02",
+      "updated": "2026-09-03",
+      "resolutiondate": "",
+      "labels": [
+        "Ralph_Lauren"
+      ]
+    },
+    {
+      "key": "PS-6168",
+      "summary": "GUESS - Implement Queue Status Conditional in Main flow",
+      "status": "Ready for review",
+      "status_category": "In Progress",
+      "assignee": "Pep Alonso",
+      "issuetype": "Task",
+      "created": "2026-09-02",
+      "updated": "2026-09-02",
+      "resolutiondate": "",
+      "labels": [
+        "Guess"
+      ]
+    },
+    {
+      "key": "PS-6167",
+      "summary": "Guess - Fix bug in closing modal",
+      "status": "Done",
+      "status_category": "Done",
+      "assignee": "Adrià Sastre",
+      "issuetype": "Task",
+      "created": "2026-09-02",
+      "updated": "2026-09-02",
+      "resolutiondate": "",
+      "labels": [
+        "Guess"
+      ]
+    },
+    {
+      "key": "PS-6166",
+      "summary": "SEM - Subida de versión Staging",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "AI Agent Delivery",
+      "issuetype": "Task",
+      "created": "2026-09-02",
+      "updated": "2026-09-02",
+      "resolutiondate": "",
+      "labels": [
+        "SEM"
+      ]
+    },
     {
       "key": "PS-6165",
       "summary": "Allianz Partners - Analizar API para mostrar el status de la grua",
@@ -18,8 +268,8 @@
     {
       "key": "PS-6164",
       "summary": "SEM - Nuevos casos para pasar por \"battle test\"",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "irene callejas",
       "issuetype": "Task",
       "created": "2026-09-02",
@@ -32,12 +282,12 @@
     {
       "key": "PS-6163",
       "summary": "Air Europa - fix animation",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Ready for review",
+      "status_category": "In Progress",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-09-02",
-      "updated": "2026-09-02",
+      "updated": "2026-09-03",
       "resolutiondate": "",
       "labels": [
         "AirEuropa"
@@ -62,7 +312,7 @@
       "summary": "Internal - Review if gh actions have access to bot's secrets",
       "status": "To Do",
       "status_category": "To Do",
-      "assignee": "Team Delivery",
+      "assignee": "AI Agent Delivery",
       "issuetype": "Task",
       "created": "2026-09-01",
       "updated": "2026-09-02",
@@ -146,7 +396,7 @@
       "summary": "Libeen - Update packages to latest version",
       "status": "Ready for review",
       "status_category": "In Progress",
-      "assignee": "Team Delivery",
+      "assignee": "AI Agent Delivery",
       "issuetype": "Task",
       "created": "2026-08-28",
       "updated": "2026-08-31",
@@ -163,7 +413,7 @@
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Discovery Task",
       "created": "2026-08-28",
-      "updated": "2026-09-02",
+      "updated": "2026-09-03",
       "resolutiondate": "",
       "labels": [
         "Allianz"
@@ -174,7 +424,7 @@
       "summary": "Rag & Bone - Update to 0.55.0 botonic version",
       "status": "Ready for review",
       "status_category": "In Progress",
-      "assignee": "Team Delivery",
+      "assignee": "AI Agent Delivery",
       "issuetype": "Task",
       "created": "2026-08-28",
       "updated": "2026-08-31",
@@ -216,7 +466,7 @@
       "summary": "Alsa - Update package versions to 0.55",
       "status": "Ready for review",
       "status_category": "In Progress",
-      "assignee": "Team Delivery",
+      "assignee": "AI Agent Delivery",
       "issuetype": "Task",
       "created": "2026-08-28",
       "updated": "2026-08-31",
@@ -244,7 +494,7 @@
       "summary": "Allianz OSN - Update bot to latest version",
       "status": "To Do",
       "status_category": "To Do",
-      "assignee": "Adrià Sastre",
+      "assignee": "Marco Gallego Ropero",
       "issuetype": "Task",
       "created": "2026-08-27",
       "updated": "2026-09-02",
@@ -624,12 +874,12 @@
     {
       "key": "PS-6118",
       "summary": "Guess - Update SFSC integration logic to pass resolved language for case closure",
-      "status": "Ready for review",
-      "status_category": "In Progress",
-      "assignee": "Team Delivery",
+      "status": "Done",
+      "status_category": "Done",
+      "assignee": "AI Agent Delivery",
       "issuetype": "Task",
       "created": "2026-08-24",
-      "updated": "2026-09-01",
+      "updated": "2026-09-02",
       "resolutiondate": "",
       "labels": [
         "Guess"
@@ -680,12 +930,12 @@
     {
       "key": "PS-6114",
       "summary": "Air Europa - timestamp contact info field LAST LOGIN STATUS UPDATE",
-      "status": "APPROVED FOR PRODUCTION",
+      "status": "Done",
       "status_category": "Done",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-08-20",
-      "updated": "2026-08-24",
+      "updated": "2026-09-03",
       "resolutiondate": "",
       "labels": [
         "AirEuropa"
@@ -820,12 +1070,12 @@
     {
       "key": "PS-6104",
       "summary": "Guess - Update bot to .55 version",
-      "status": "Ready for review",
+      "status": "Ready to Deliver",
       "status_category": "In Progress",
       "assignee": "Marco Gallego Ropero",
       "issuetype": "Task",
       "created": "2026-08-17",
-      "updated": "2026-08-22",
+      "updated": "2026-09-02",
       "resolutiondate": "",
       "labels": [
         "Guess"
@@ -1519,12 +1769,12 @@
     {
       "key": "PS-6052",
       "summary": "DABA - Consulta Ultimo Pedido (WISMO; API rest)",
-      "status": "To Do",
+      "status": "Open",
       "status_category": "To Do",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-07-31",
-      "updated": "2026-08-31",
+      "updated": "2026-09-02",
       "resolutiondate": "",
       "labels": [
         "DABA"
@@ -1771,8 +2021,8 @@
     {
       "key": "PS-6034",
       "summary": "RACC Travel - Apply New feedback",
-      "status": "Ready for review",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "irene callejas",
       "issuetype": "Task",
       "created": "2026-07-29",
@@ -9285,12 +9535,12 @@
     {
       "key": "PS-5486",
       "summary": "Occident - Coexistence: Detect \"'whatsapp_business_app_echo': True}\" in conversation's extra data and do a Handoff",
-      "status": "Done",
+      "status": "Closed",
       "status_category": "Done",
       "assignee": "Adrià Sastre",
       "issuetype": "Task",
       "created": "2026-05-04",
-      "updated": "2026-07-06",
+      "updated": "2026-09-03",
       "resolutiondate": "",
       "labels": [
         "occident"
@@ -13436,12 +13686,12 @@
     {
       "key": "PS-5172",
       "summary": "Air Europa - Add logged/not logged to contact info fields",
-      "status": "APPROVED FOR PRODUCTION",
+      "status": "Done",
       "status_category": "Done",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-03-11",
-      "updated": "2026-08-20",
+      "updated": "2026-09-03",
       "resolutiondate": "",
       "labels": [
         "AirEuropa"
@@ -27613,7 +27863,7 @@
     },
     {
       "key": "PS-4019",
-      "summary": "Estimate - Air Europa - Consultar Perfil - Complex use case",
+      "summary": "Estimate - Air Europa - Consultar Perfil - 1era fase",
       "status": "To Do",
       "status_category": "To Do",
       "assignee": "Adrià Sastre",
