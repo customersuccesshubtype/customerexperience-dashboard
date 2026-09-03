@@ -1,6 +1,23 @@
 {
-  "last_updated": "2026-09-02 12:06 UTC",
+  "last_updated": "2026-09-03 12:05 UTC",
   "opportunities": [
+    {
+      "id": "006Sa00000nFt3CIAS",
+      "name": "2026-U-RACC-WhatsApp Conversations Regularization Closing August 2026",
+      "type": "Upsell",
+      "stage": "Closed Won",
+      "is_closed": true,
+      "is_won": true,
+      "probability": 100.0,
+      "amount": 7586.06,
+      "arr": 0.0,
+      "owner": "Marta Marron",
+      "cs_lead": "Marta Marron",
+      "account": "RACC",
+      "created": "2026-09-03",
+      "close_date": "2026-09-03",
+      "start_date": "2026-09-03"
+    },
     {
       "id": "006Sa00000n2tU3IAI",
       "name": "2026-U-Wizz Air-Extra Languages (4)",
