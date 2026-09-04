@@ -1,17 +1,159 @@
 {
-  "last_updated": "2026-09-03 11:54 UTC",
+  "last_updated": "2026-09-04 11:57 UTC",
   "tickets": [
     {
-      "key": "PS-6183",
-      "summary": "Assegur - Chats flipped from Catalan to Spanish without user action",
+      "key": "PS-6193",
+      "summary": "Soledad - check staging error",
       "status": "To Do",
       "status_category": "To Do",
-      "assignee": null,
+      "assignee": "Lorena Sánchez-Toril Nicolás",
+      "issuetype": "Task",
+      "created": "2026-09-04",
+      "updated": "2026-09-04",
+      "resolutiondate": "",
+      "labels": [
+        "Soledad"
+      ]
+    },
+    {
+      "key": "PS-6192",
+      "summary": "Ralph Lauren - landlord modifications",
+      "status": "In Progress",
+      "status_category": "In Progress",
+      "assignee": "Lorena Sánchez-Toril Nicolás",
+      "issuetype": "Task",
+      "created": "2026-09-04",
+      "updated": "2026-09-04",
+      "resolutiondate": "",
+      "labels": [
+        "Ralph_Lauren"
+      ]
+    },
+    {
+      "key": "PS-6191",
+      "summary": "RALPH LAUREN - VARIED feedback - document request",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "irene callejas",
+      "issuetype": "Task",
+      "created": "2026-09-04",
+      "updated": "2026-09-04",
+      "resolutiondate": "",
+      "labels": [
+        "Ralph_Lauren"
+      ]
+    },
+    {
+      "key": "PS-6190",
+      "summary": "Retorna - custom country flow ",
+      "status": "Ready for review",
+      "status_category": "In Progress",
+      "assignee": "Lorena Sánchez-Toril Nicolás",
+      "issuetype": "Task",
+      "created": "2026-09-04",
+      "updated": "2026-09-04",
+      "resolutiondate": "",
+      "labels": [
+        "Retorna"
+      ]
+    },
+    {
+      "key": "PS-6189",
+      "summary": "Ralph Lauren - Assess consolidating in-store onboarding into a single flow",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Lorena Sánchez-Toril Nicolás",
+      "issuetype": "Discovery Task",
+      "created": "2026-09-04",
+      "updated": "2026-09-04",
+      "resolutiondate": "",
+      "labels": [
+        "Ralph_Lauren"
+      ]
+    },
+    {
+      "key": "PS-6188",
+      "summary": "Ralph Lauren – Remove the active-campaign restriction",
+      "status": "Closed",
+      "status_category": "Done",
+      "assignee": "Lorena Sánchez-Toril Nicolás",
+      "issuetype": "Discovery Task",
+      "created": "2026-09-04",
+      "updated": "2026-09-04",
+      "resolutiondate": "",
+      "labels": [
+        "Ralph_Lauren"
+      ]
+    },
+    {
+      "key": "PS-6187",
+      "summary": "SegurCaixa Adeslas - Desarrollo para replicar la campaña Colectivos",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Adrià Sastre",
+      "issuetype": "Discovery Task",
+      "created": "2026-09-03",
+      "updated": "2026-09-03",
+      "resolutiondate": "",
+      "labels": [
+        "SegurCaixa"
+      ]
+    },
+    {
+      "key": "PS-6186",
+      "summary": "Assegur - Review \"I don't understand you\" message appear after every \"location\" message",
+      "status": "Ready for review",
+      "status_category": "In Progress",
+      "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Bug",
       "created": "2026-09-03",
       "updated": "2026-09-03",
       "resolutiondate": "",
-      "labels": []
+      "labels": [
+        "Assegur"
+      ]
+    },
+    {
+      "key": "PS-6185",
+      "summary": "Occident - Rating flow review",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Lorena Sánchez-Toril Nicolás",
+      "issuetype": "Bug",
+      "created": "2026-09-03",
+      "updated": "2026-09-03",
+      "resolutiondate": "",
+      "labels": [
+        "Occident"
+      ]
+    },
+    {
+      "key": "PS-6184",
+      "summary": "Assegur - capture type: /.*/,",
+      "status": "Ready for review",
+      "status_category": "In Progress",
+      "assignee": "Lorena Sánchez-Toril Nicolás",
+      "issuetype": "Task",
+      "created": "2026-09-03",
+      "updated": "2026-09-03",
+      "resolutiondate": "",
+      "labels": [
+        "Assegur"
+      ]
+    },
+    {
+      "key": "PS-6183",
+      "summary": "Assegur - Chats flipped from Catalan to Spanish",
+      "status": "Done",
+      "status_category": "Done",
+      "assignee": "Adrià Sastre",
+      "issuetype": "Bug",
+      "created": "2026-09-03",
+      "updated": "2026-09-04",
+      "resolutiondate": "",
+      "labels": [
+        "Assegur"
+      ]
     },
     {
       "key": "PS-6182",
@@ -100,12 +242,12 @@
     {
       "key": "PS-6176",
       "summary": "Ralph Lauren - UTM params for ICONS",
-      "status": "Ready for review",
-      "status_category": "In Progress",
+      "status": "In production",
+      "status_category": "Done",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-09-03",
-      "updated": "2026-09-03",
+      "updated": "2026-09-04",
       "resolutiondate": "",
       "labels": [
         "Ralph_Lauren"
@@ -128,8 +270,8 @@
     {
       "key": "PS-6174",
       "summary": "3 nuevos snippets staging y prod para webchat para Tendam (HossIntropia, Dash & Stars y Slow Love)",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Ready for review",
+      "status_category": "In Progress",
       "assignee": "Adrià Sastre",
       "issuetype": "Discovery Task",
       "created": "2026-09-02",
@@ -142,12 +284,12 @@
     {
       "key": "PS-6173",
       "summary": "Fenie Energia - Handoff del Agente de Google al flowbuilder",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Ready for review",
+      "status_category": "In Progress",
       "assignee": "Pep Alonso",
       "issuetype": "Task",
       "created": "2026-09-02",
-      "updated": "2026-09-02",
+      "updated": "2026-09-03",
       "resolutiondate": "",
       "labels": [
         "FenieEnergia"
@@ -184,8 +326,8 @@
     {
       "key": "PS-6170",
       "summary": "Ralph Lauren - bajar threshold de la api de /search ",
-      "status": "Ready for review",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-09-02",
@@ -198,12 +340,12 @@
     {
       "key": "PS-6169",
       "summary": "Ralph Lauren - Icons campaign ",
-      "status": "Ready for review",
+      "status": "In Review",
       "status_category": "In Progress",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-09-02",
-      "updated": "2026-09-03",
+      "updated": "2026-09-04",
       "resolutiondate": "",
       "labels": [
         "Ralph_Lauren"
@@ -217,7 +359,7 @@
       "assignee": "Pep Alonso",
       "issuetype": "Task",
       "created": "2026-09-02",
-      "updated": "2026-09-02",
+      "updated": "2026-09-04",
       "resolutiondate": "",
       "labels": [
         "Guess"
@@ -254,12 +396,12 @@
     {
       "key": "PS-6165",
       "summary": "Allianz Partners - Analizar API para mostrar el status de la grua",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Ready for review",
+      "status_category": "In Progress",
       "assignee": "Adrià Sastre",
       "issuetype": "Discovery Task",
       "created": "2026-09-02",
-      "updated": "2026-09-02",
+      "updated": "2026-09-03",
       "resolutiondate": "",
       "labels": [
         "AllianzPartners"
@@ -296,12 +438,12 @@
     {
       "key": "PS-6162",
       "summary": "Occident - Update and unify snippets for web and app",
-      "status": "In Progress",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Pep Alonso",
       "issuetype": "Task",
       "created": "2026-09-01",
-      "updated": "2026-09-02",
+      "updated": "2026-09-04",
       "resolutiondate": "",
       "labels": [
         "Occident"
@@ -436,12 +578,12 @@
     {
       "key": "PS-6151",
       "summary": "Libeen - Valorar el que no se muestre el mensaje inicial cuando se manda template",
-      "status": "In Progress",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Marco Gallego Ropero",
       "issuetype": "Task",
       "created": "2026-08-28",
-      "updated": "2026-09-01",
+      "updated": "2026-09-04",
       "resolutiondate": "",
       "labels": [
         "Libeen"
@@ -694,12 +836,12 @@
     {
       "key": "PS-6131",
       "summary": "Ralph Lauren - modify campaign action exclusion",
-      "status": "Ready for review",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-08-26",
-      "updated": "2026-08-26",
+      "updated": "2026-09-04",
       "resolutiondate": "",
       "labels": [
         "Ralph_Lauren"
@@ -804,12 +946,12 @@
     {
       "key": "PS-6123",
       "summary": "RL - update  to 0.55.1",
-      "status": "Ready to Deliver",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-08-25",
-      "updated": "2026-08-25",
+      "updated": "2026-09-04",
       "resolutiondate": "",
       "labels": [
         "Ralph_Lauren"
@@ -9540,7 +9682,7 @@
       "assignee": "Adrià Sastre",
       "issuetype": "Task",
       "created": "2026-05-04",
-      "updated": "2026-09-03",
+      "updated": "2026-09-04",
       "resolutiondate": "",
       "labels": [
         "occident"
@@ -25885,12 +26027,12 @@
     {
       "key": "PS-4175",
       "summary": "Precommit hook to check if secrets are in a commit.",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Closed",
+      "status_category": "Done",
       "assignee": null,
       "issuetype": "Task",
       "created": "2025-07-04",
-      "updated": "2026-01-21",
+      "updated": "2026-09-03",
       "resolutiondate": "",
       "labels": [
         "Internal"
