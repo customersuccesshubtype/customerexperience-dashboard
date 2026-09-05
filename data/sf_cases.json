@@ -1,13 +1,13 @@
 {
-  "last_updated": "2026-09-04 12:07 UTC",
+  "last_updated": "2026-09-05 11:16 UTC",
   "cases": [
     {
       "id": "500Sa000010WVL7IAO",
       "case_number": "00025306",
       "subject": "NO ENTREGADO A WAITING",
-      "status": "Open",
+      "status": "Closed",
       "priority": "Low",
-      "is_closed": false,
+      "is_closed": true,
       "is_escalated": false,
       "owner": "Aitor Casas",
       "account": "Desguace EcoPiezas",
@@ -18,18 +18,18 @@
       "channel": "Email",
       "is_critical": "L4",
       "escalated_team": "",
-      "resolution_time": "",
+      "resolution_time": "1. <6h",
       "created": "2026-09-04",
-      "closed": "",
+      "closed": "2026-09-04",
       "last_modified": "2026-09-04"
     },
     {
       "id": "500Sa000010VEcTIAW",
       "case_number": "00025305",
       "subject": "Mensaje repetitivo",
-      "status": "New",
+      "status": "Closed",
       "priority": "Low",
-      "is_closed": false,
+      "is_closed": true,
       "is_escalated": false,
       "owner": "Aitor Casas",
       "account": "Desguace EcoPiezas",
@@ -40,9 +40,9 @@
       "channel": "Email",
       "is_critical": "L4",
       "escalated_team": "",
-      "resolution_time": "",
+      "resolution_time": "2. 6-12h",
       "created": "2026-09-04",
-      "closed": "",
+      "closed": "2026-09-04",
       "last_modified": "2026-09-04"
     },
     {
