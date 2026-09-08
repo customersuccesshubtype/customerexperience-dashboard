@@ -1,6 +1,23 @@
 {
-  "last_updated": "2026-09-07 13:30 UTC",
+  "last_updated": "2026-09-08 12:08 UTC",
   "opportunities": [
+    {
+      "id": "006Sa00000nbMS4IAM",
+      "name": "2026-U-Rag&Bone-New Language-Spanish&Dutch",
+      "type": "Upsell",
+      "stage": "Opportunity identified",
+      "is_closed": false,
+      "is_won": false,
+      "probability": 10.0,
+      "amount": 5000.0,
+      "arr": 6000.0,
+      "owner": "Francisca Martelli",
+      "cs_lead": "",
+      "account": "Rag&Bone",
+      "created": "2026-09-08",
+      "close_date": "2026-09-08",
+      "start_date": ""
+    },
     {
       "id": "006Sa00000nIkGpIAK",
       "name": "2026-U-JetSMART Airlines-Chile-WhatsApp Templates Regularization August 2026",
@@ -53,23 +70,6 @@
       "start_date": "2026-09-03"
     },
     {
-      "id": "006Sa00000n2tU3IAI",
-      "name": "2026-U-Wizz Air-Extra Languages (4)",
-      "type": "Upsell",
-      "stage": "Opportunity identified",
-      "is_closed": false,
-      "is_won": false,
-      "probability": 10.0,
-      "amount": 3440.1,
-      "arr": 3408.12,
-      "owner": "Julieta Mezza",
-      "cs_lead": "Julieta Mezza",
-      "account": "Wizz Air",
-      "created": "2026-09-01",
-      "close_date": "2026-09-01",
-      "start_date": "2026-10-07"
-    },
-    {
       "id": "006Sa00000n2KBOIA2",
       "name": "2026-U-Securitas (Lead Gen)- Extra MAUs August 2026",
       "type": "Upsell",
@@ -85,6 +85,23 @@
       "created": "2026-09-01",
       "close_date": "2026-09-01",
       "start_date": "2026-09-01"
+    },
+    {
+      "id": "006Sa00000n2tU3IAI",
+      "name": "2026-U-Wizz Air-Extra Languages (4)",
+      "type": "Upsell",
+      "stage": "Opportunity identified",
+      "is_closed": false,
+      "is_won": false,
+      "probability": 10.0,
+      "amount": 3440.1,
+      "arr": 3408.12,
+      "owner": "Julieta Mezza",
+      "cs_lead": "Julieta Mezza",
+      "account": "Wizz Air",
+      "created": "2026-09-01",
+      "close_date": "2026-09-01",
+      "start_date": "2026-10-07"
     },
     {
       "id": "006Sa00000misYxIAI",
