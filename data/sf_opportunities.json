@@ -1,6 +1,23 @@
 {
-  "last_updated": "2026-09-09 12:20 UTC",
+  "last_updated": "2026-09-10 12:13 UTC",
   "opportunities": [
+    {
+      "id": "006Sa00000nl6VgIAI",
+      "name": "2026-C-Allianz Partners-Allianz ES-CA(WA)-API LAmbda (status gruas)",
+      "type": "Consultancy",
+      "stage": "Opportunity identified",
+      "is_closed": false,
+      "is_won": false,
+      "probability": 10.0,
+      "amount": 5280.0,
+      "arr": 0.0,
+      "owner": "Marta Marron",
+      "cs_lead": "Marta Marron",
+      "account": "Allianz Partners",
+      "created": "2026-09-10",
+      "close_date": "2026-02-09",
+      "start_date": "2026-10-01"
+    },
     {
       "id": "006Sa00000ncQN8IAM",
       "name": "2027-R-Generalitat-CA(Mobilechat)-SEM(ServeiEmergenciesMediques)",
@@ -87,23 +104,6 @@
       "start_date": "2026-09-03"
     },
     {
-      "id": "006Sa00000n2KBOIA2",
-      "name": "2026-U-Securitas (Lead Gen)- Extra MAUs August 2026",
-      "type": "Upsell",
-      "stage": "Closed Won",
-      "is_closed": true,
-      "is_won": true,
-      "probability": 100.0,
-      "amount": 775.72,
-      "arr": 0.0,
-      "owner": "Marta Marron",
-      "cs_lead": "",
-      "account": "Verisure Spain Lead Gen",
-      "created": "2026-09-01",
-      "close_date": "2026-09-01",
-      "start_date": "2026-09-01"
-    },
-    {
       "id": "006Sa00000n2tU3IAI",
       "name": "2026-U-Wizz Air-Extra Languages (4)",
       "type": "Upsell",
@@ -119,6 +119,23 @@
       "created": "2026-09-01",
       "close_date": "2026-09-01",
       "start_date": "2026-10-07"
+    },
+    {
+      "id": "006Sa00000n2KBOIA2",
+      "name": "2026-U-Securitas (Lead Gen)- Extra MAUs August 2026",
+      "type": "Upsell",
+      "stage": "Closed Won",
+      "is_closed": true,
+      "is_won": true,
+      "probability": 100.0,
+      "amount": 775.72,
+      "arr": 0.0,
+      "owner": "Marta Marron",
+      "cs_lead": "",
+      "account": "Verisure Spain Lead Gen",
+      "created": "2026-09-01",
+      "close_date": "2026-09-01",
+      "start_date": "2026-09-01"
     },
     {
       "id": "006Sa00000misYxIAI",
