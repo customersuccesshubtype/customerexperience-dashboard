@@ -1,27 +1,71 @@
 {
-  "last_updated": "2026-09-10 12:02 UTC",
+  "last_updated": "2026-09-11 12:00 UTC",
   "tickets": [
+    {
+      "key": "PS-6237",
+      "summary": "Ralph Lauren - exploring the enablement of a brand filter within product search",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": null,
+      "issuetype": "Discovery Task",
+      "created": "2026-09-11",
+      "updated": "2026-09-11",
+      "resolutiondate": "",
+      "labels": [
+        "Ralph_Lauren"
+      ]
+    },
+    {
+      "key": "PS-6236",
+      "summary": "SEM - Recibido feedback del AI Agent de Staging",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "irene callejas",
+      "issuetype": "Task",
+      "created": "2026-09-10",
+      "updated": "2026-09-10",
+      "resolutiondate": "",
+      "labels": [
+        "SEM"
+      ]
+    },
+    {
+      "key": "PS-6235",
+      "summary": "COFA - NETBERRY: bateria de pruebas",
+      "status": "In Progress",
+      "status_category": "In Progress",
+      "assignee": "irene callejas",
+      "issuetype": "Task",
+      "created": "2026-09-10",
+      "updated": "2026-09-10",
+      "resolutiondate": "",
+      "labels": [
+        "NetBerry_COFA"
+      ]
+    },
     {
       "key": "PS-6234",
       "summary": "Michael Kors - Desconectar flujo de rating para WhatsApp dejarlo solo para webchat (para ahorrar costes de Meta)",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Aitor Casas",
       "issuetype": "Task",
       "created": "2026-09-10",
       "updated": "2026-09-10",
       "resolutiondate": "",
-      "labels": []
+      "labels": [
+        "Michael-Kors"
+      ]
     },
     {
       "key": "PS-6233",
       "summary": "Concentra - fix bug ramo tarificado ",
-      "status": "In production",
+      "status": "Done",
       "status_category": "Done",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Bug",
       "created": "2026-09-10",
-      "updated": "2026-09-10",
+      "updated": "2026-09-11",
       "resolutiondate": "",
       "labels": [
         "Concentra"
@@ -65,7 +109,9 @@
       "created": "2026-09-10",
       "updated": "2026-09-10",
       "resolutiondate": "",
-      "labels": []
+      "labels": [
+        "easyjet"
+      ]
     },
     {
       "key": "PS-6229",
@@ -77,7 +123,9 @@
       "created": "2026-09-10",
       "updated": "2026-09-10",
       "resolutiondate": "",
-      "labels": []
+      "labels": [
+        "Generalitat-Turisme"
+      ]
     },
     {
       "key": "PS-6228",
@@ -96,8 +144,8 @@
     {
       "key": "PS-6227",
       "summary": "Tendam - Ajustes en sus snippets Web (derivado nuevas tarifas Meta)",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Adrià Sastre",
       "issuetype": "Discovery Task",
       "created": "2026-09-10",
@@ -124,7 +172,7 @@
     {
       "key": "PS-6225",
       "summary": "Euroriente - Credentials for production - test that they work",
-      "status": "In Progress",
+      "status": "Waiting for customer",
       "status_category": "In Progress",
       "assignee": "Pep Alonso",
       "issuetype": "Task",
@@ -138,12 +186,12 @@
     {
       "key": "PS-6224",
       "summary": "Concentra - Comprobar tiempos de envío",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Closed",
+      "status_category": "Done",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-09-09",
-      "updated": "2026-09-09",
+      "updated": "2026-09-10",
       "resolutiondate": "",
       "labels": [
         "Concentra"
@@ -194,12 +242,12 @@
     {
       "key": "PS-6220",
       "summary": "Concentra - Implement URL button clicks tracking in tinybird",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "In Progress",
+      "status_category": "In Progress",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-09-09",
-      "updated": "2026-09-09",
+      "updated": "2026-09-11",
       "resolutiondate": "",
       "labels": [
         "Concentra"
@@ -208,12 +256,12 @@
     {
       "key": "PS-6219",
       "summary": "SegurCaixa Adeslas - Nueva campaña parecida a Colectivos",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "In Progress",
+      "status_category": "In Progress",
       "assignee": "Marco Gallego Ropero",
       "issuetype": "Task",
       "created": "2026-09-09",
-      "updated": "2026-09-09",
+      "updated": "2026-09-11",
       "resolutiondate": "",
       "labels": [
         "SegurCaixa"
@@ -278,7 +326,7 @@
     {
       "key": "PS-6214",
       "summary": "Air Europa - Develop booking inquiry UX improvement",
-      "status": "In Progress",
+      "status": "Ready for review",
       "status_category": "In Progress",
       "assignee": null,
       "issuetype": "Task",
@@ -306,7 +354,7 @@
     {
       "key": "PS-6212",
       "summary": "Crossing World - Encuesta de satisfaccion (en funcion de contact reason)",
-      "status": "Ready for review",
+      "status": "In Progress",
       "status_category": "In Progress",
       "assignee": "Aitor Casas",
       "issuetype": "Task",
@@ -376,12 +424,12 @@
     {
       "key": "PS-6207",
       "summary": "Ralph Lauren - digital flow updates",
-      "status": "Ready to Deliver",
-      "status_category": "In Progress",
+      "status": "In production",
+      "status_category": "Done",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-09-08",
-      "updated": "2026-09-10",
+      "updated": "2026-09-11",
       "resolutiondate": "",
       "labels": [
         "Ralph_Lauren"
@@ -834,12 +882,12 @@
     {
       "key": "PS-6173",
       "summary": "Fenie Energia - Handoff del Agente de Google al flowbuilder",
-      "status": "Ready for review",
+      "status": "In Progress",
       "status_category": "In Progress",
       "assignee": "Pep Alonso",
       "issuetype": "Task",
       "created": "2026-09-02",
-      "updated": "2026-09-03",
+      "updated": "2026-09-11",
       "resolutiondate": "",
       "labels": [
         "FenieEnergia"
@@ -1372,12 +1420,12 @@
     {
       "key": "PS-6132",
       "summary": "RACC - Integrate AiAlma AI Agent in Racc's racc-flowbuilder bot",
-      "status": "Ready for review",
+      "status": "In Progress",
       "status_category": "In Progress",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-08-26",
-      "updated": "2026-09-10",
+      "updated": "2026-09-11",
       "resolutiondate": "",
       "labels": [
         "RACC"
@@ -1400,12 +1448,12 @@
     {
       "key": "PS-6130",
       "summary": "Redesign V2.0 - Forms component (inputs) redesign & incorporation into the CCL",
-      "status": "In Progress",
+      "status": "Ready for review",
       "status_category": "In Progress",
       "assignee": "Vicky Correbo",
       "issuetype": "Task",
       "created": "2026-08-26",
-      "updated": "2026-08-27",
+      "updated": "2026-09-10",
       "resolutiondate": "",
       "labels": [
         "Internal"
@@ -1456,12 +1504,12 @@
     {
       "key": "PS-6126",
       "summary": "Netberry - COFA - Update Zendesk Provider Account in Staging to use OAuth instead of Token",
-      "status": "Ready for review",
-      "status_category": "In Progress",
+      "status": "To Do",
+      "status_category": "To Do",
       "assignee": "Pep Alonso",
       "issuetype": "Task",
       "created": "2026-08-25",
-      "updated": "2026-09-09",
+      "updated": "2026-09-10",
       "resolutiondate": "",
       "labels": [
         "NetBerry_COFA"
@@ -1475,7 +1523,7 @@
       "assignee": "Pep Alonso",
       "issuetype": "Task",
       "created": "2026-08-25",
-      "updated": "2026-08-25",
+      "updated": "2026-09-10",
       "resolutiondate": "",
       "labels": [
         "NetBerry_COFA"
