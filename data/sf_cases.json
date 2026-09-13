@@ -1,6 +1,28 @@
 {
-  "last_updated": "2026-09-12 11:36 UTC",
+  "last_updated": "2026-09-13 12:43 UTC",
   "cases": [
+    {
+      "id": "500Sa000011Fg7VIAS",
+      "case_number": "00025332",
+      "subject": "Error en las encuestas dia 11 de septiembre",
+      "status": "New",
+      "priority": "Low",
+      "is_closed": false,
+      "is_escalated": false,
+      "owner": "Aitor Casas",
+      "account": "",
+      "origin": "Inbound",
+      "type": "",
+      "feeling": "",
+      "issue_type": "",
+      "channel": "Email",
+      "is_critical": "L4",
+      "escalated_team": "",
+      "resolution_time": "",
+      "created": "2026-09-12",
+      "closed": "",
+      "last_modified": "2026-09-12"
+    },
     {
       "id": "500Sa000011AJy2IAG",
       "case_number": "00025331",
