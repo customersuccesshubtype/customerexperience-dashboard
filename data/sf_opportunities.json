@@ -1,6 +1,23 @@
 {
-  "last_updated": "2026-09-13 12:43 UTC",
+  "last_updated": "2026-09-14 14:03 UTC",
   "opportunities": [
+    {
+      "id": "006Sa00000o42uWIAQ",
+      "name": "2026-C-Tendam-Crear snippet Webchat para las marcas HI, SL y DS",
+      "type": "Consultancy",
+      "stage": "Closed Won",
+      "is_closed": true,
+      "is_won": true,
+      "probability": 100.0,
+      "amount": 1200.0,
+      "arr": 0.0,
+      "owner": "Marta Marron",
+      "cs_lead": "Marta Marron",
+      "account": "Tendam (Cortefiel)",
+      "created": "2026-09-14",
+      "close_date": "2026-09-14",
+      "start_date": "2026-09-18"
+    },
     {
       "id": "006Sa00000nl6VgIAI",
       "name": "2026-C-Allianz Partners-Allianz ES-CA(WA)-API LAmbda (status gruas)",

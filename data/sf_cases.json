@@ -1,13 +1,57 @@
 {
-  "last_updated": "2026-09-13 12:43 UTC",
+  "last_updated": "2026-09-14 14:03 UTC",
   "cases": [
+    {
+      "id": "500Sa000011Ksb3IAC",
+      "case_number": "00025334",
+      "subject": "Se envía texto de botones a Ava en vez del user input escrito antes",
+      "status": "Closed",
+      "priority": "Low",
+      "is_closed": true,
+      "is_escalated": false,
+      "owner": "Aitor Casas",
+      "account": "Air Europa",
+      "origin": "Inbound",
+      "type": "",
+      "feeling": "",
+      "issue_type": "",
+      "channel": "Email",
+      "is_critical": "L4",
+      "escalated_team": "",
+      "resolution_time": "1. <6h",
+      "created": "2026-09-14",
+      "closed": "2026-09-14",
+      "last_modified": "2026-09-14"
+    },
+    {
+      "id": "500Sa000011JmG1IAK",
+      "case_number": "00025333",
+      "subject": "Re: Concentra <> Hubtype | Primeros datos tras la salida a producción | 09/09/2026",
+      "status": "Open",
+      "priority": "Low",
+      "is_closed": false,
+      "is_escalated": false,
+      "owner": "Aitor Casas",
+      "account": "Hubtype",
+      "origin": "Inbound",
+      "type": "Issue",
+      "feeling": "",
+      "issue_type": "Desk",
+      "channel": "Email",
+      "is_critical": "L4",
+      "escalated_team": "",
+      "resolution_time": "",
+      "created": "2026-09-14",
+      "closed": "",
+      "last_modified": "2026-09-14"
+    },
     {
       "id": "500Sa000011Fg7VIAS",
       "case_number": "00025332",
       "subject": "Error en las encuestas dia 11 de septiembre",
-      "status": "New",
+      "status": "Closed",
       "priority": "Low",
-      "is_closed": false,
+      "is_closed": true,
       "is_escalated": false,
       "owner": "Aitor Casas",
       "account": "",
@@ -18,10 +62,10 @@
       "channel": "Email",
       "is_critical": "L4",
       "escalated_team": "",
-      "resolution_time": "",
+      "resolution_time": "5. >36h",
       "created": "2026-09-12",
-      "closed": "",
-      "last_modified": "2026-09-12"
+      "closed": "2026-09-14",
+      "last_modified": "2026-09-14"
     },
     {
       "id": "500Sa000011AJy2IAG",
@@ -40,10 +84,10 @@
       "channel": "Email",
       "is_critical": "L4",
       "escalated_team": "",
-      "resolution_time": "3. 12-24h",
+      "resolution_time": "5. >36h",
       "created": "2026-09-11",
-      "closed": "2026-09-12",
-      "last_modified": "2026-09-12"
+      "closed": "2026-09-14",
+      "last_modified": "2026-09-14"
     },
     {
       "id": "500Sa000011ATXYIA4",
@@ -128,10 +172,10 @@
       "channel": "Email",
       "is_critical": "L4",
       "escalated_team": "",
-      "resolution_time": "1. <6h",
+      "resolution_time": "5. >36h",
       "created": "2026-09-10",
-      "closed": "2026-09-10",
-      "last_modified": "2026-09-10"
+      "closed": "2026-09-14",
+      "last_modified": "2026-09-14"
     },
     {
       "id": "500Sa0000113OERIA2",
@@ -216,10 +260,10 @@
       "channel": "Email",
       "is_critical": "L4",
       "escalated_team": "",
-      "resolution_time": "3. 12-24h",
+      "resolution_time": "5. >36h",
       "created": "2026-09-09",
-      "closed": "2026-09-10",
-      "last_modified": "2026-09-10"
+      "closed": "2026-09-14",
+      "last_modified": "2026-09-14"
     },
     {
       "id": "500Sa000010x5ROIAY",
@@ -621,9 +665,9 @@
       "id": "500Sa000010QbWeIAK",
       "case_number": "00025301",
       "subject": "Revisar Caso Jordi Torres",
-      "status": "Open",
+      "status": "Closed",
       "priority": "Low",
-      "is_closed": false,
+      "is_closed": true,
       "is_escalated": false,
       "owner": "Aitor Casas",
       "account": "Occident",
@@ -634,10 +678,10 @@
       "channel": "Email",
       "is_critical": "L4",
       "escalated_team": "",
-      "resolution_time": "",
+      "resolution_time": "5. >36h",
       "created": "2026-09-03",
-      "closed": "",
-      "last_modified": "2026-09-03"
+      "closed": "2026-09-14",
+      "last_modified": "2026-09-14"
     },
     {
       "id": "500Sa000010Q7LVIA0",
@@ -1891,7 +1935,7 @@
       "resolution_time": "",
       "created": "2026-08-07",
       "closed": "",
-      "last_modified": "2026-09-11"
+      "last_modified": "2026-09-14"
     },
     {
       "id": "500Sa00000yQnsCIAS",
@@ -37090,8 +37134,8 @@
       "escalated_team": "",
       "resolution_time": "5. >36h",
       "created": "2025-08-11",
-      "closed": "2026-09-12",
-      "last_modified": "2026-09-12"
+      "closed": "2026-09-14",
+      "last_modified": "2026-09-14"
     },
     {
       "id": "500Sa00000ZP9aGIAT",
