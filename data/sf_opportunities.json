@@ -1,6 +1,23 @@
 {
-  "last_updated": "2026-09-14 14:03 UTC",
+  "last_updated": "2026-09-15 12:40 UTC",
   "opportunities": [
+    {
+      "id": "006Sa00000o5brnIAA",
+      "name": "2026-U-Allianz ES-Campañas a Agentes y Empleados",
+      "type": "Upsell",
+      "stage": "Opportunity identified",
+      "is_closed": false,
+      "is_won": false,
+      "probability": 10.0,
+      "amount": 22150.0,
+      "arr": 18250.0,
+      "owner": "Marta Marron",
+      "cs_lead": "Julieta Mezza",
+      "account": "Allianz Spain",
+      "created": "2026-09-14",
+      "close_date": "2026-10-01",
+      "start_date": "2026-10-01"
+    },
     {
       "id": "006Sa00000o42uWIAQ",
       "name": "2026-C-Tendam-Crear snippet Webchat para las marcas HI, SL y DS",
