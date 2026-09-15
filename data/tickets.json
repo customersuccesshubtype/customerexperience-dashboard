@@ -1,6 +1,62 @@
 {
-  "last_updated": "2026-09-14 13:36 UTC",
+  "last_updated": "2026-09-15 12:26 UTC",
   "tickets": [
+    {
+      "key": "PS-6249",
+      "summary": "RACC - Cambios bot para minimizar gastos META (requieren revision)",
+      "status": "Ready for review",
+      "status_category": "In Progress",
+      "assignee": "Aitor Casas",
+      "issuetype": "Task",
+      "created": "2026-09-15",
+      "updated": "2026-09-15",
+      "resolutiondate": "",
+      "labels": [
+        "RACC"
+      ]
+    },
+    {
+      "key": "PS-6248",
+      "summary": "RACC - AI Alma - Podemos poner traza en Tinybird para saber cuando responde el bot de IA del RACC",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Adrià Sastre",
+      "issuetype": "Task",
+      "created": "2026-09-15",
+      "updated": "2026-09-15",
+      "resolutiondate": "",
+      "labels": [
+        "RACC"
+      ]
+    },
+    {
+      "key": "PS-6247",
+      "summary": "Concentra - Check duplicated template send",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": null,
+      "issuetype": "Task",
+      "created": "2026-09-14",
+      "updated": "2026-09-14",
+      "resolutiondate": "",
+      "labels": [
+        "Concentra"
+      ]
+    },
+    {
+      "key": "PS-6246",
+      "summary": "DABA - Security Audit & Battle Test",
+      "status": "In Progress",
+      "status_category": "In Progress",
+      "assignee": "irene callejas",
+      "issuetype": "Task",
+      "created": "2026-09-14",
+      "updated": "2026-09-14",
+      "resolutiondate": "",
+      "labels": [
+        "DABA"
+      ]
+    },
     {
       "key": "PS-6245",
       "summary": "Tendam - Crear 3 snippets de webchat (staging y producción) para Hoss Intropia, Slowlove y Dash & Stars",
@@ -46,12 +102,12 @@
     {
       "key": "PS-6242",
       "summary": "ALSA: revisar stats  Luna vs 5.4",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Ready for review",
+      "status_category": "In Progress",
       "assignee": "irene callejas",
       "issuetype": "Task",
       "created": "2026-09-14",
-      "updated": "2026-09-14",
+      "updated": "2026-09-15",
       "resolutiondate": "",
       "labels": [
         "Alsa"
@@ -102,8 +158,8 @@
     {
       "key": "PS-6238",
       "summary": "Michael Kors - Warranty Flow proposal Doc",
-      "status": "Ready for review",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Vicky Correbo",
       "issuetype": "Task",
       "created": "2026-09-13",
@@ -200,12 +256,12 @@
     {
       "key": "PS-6231",
       "summary": "Alsa - Actualizar el disclaimer de IA del webchat e incluir enlace a la Política de Privacidad",
-      "status": "In Progress",
-      "status_category": "In Progress",
+      "status": "In production",
+      "status_category": "Done",
       "assignee": "Marco Gallego Ropero",
       "issuetype": "Task",
       "created": "2026-09-10",
-      "updated": "2026-09-14",
+      "updated": "2026-09-15",
       "resolutiondate": "",
       "labels": [
         "Alsa"
@@ -312,12 +368,12 @@
     {
       "key": "PS-6223",
       "summary": "Occident - Send BSUID and user_name to \"Inicio de conversación\"",
-      "status": "To Do",
-      "status_category": "To Do",
-      "assignee": "Pep Alonso",
+      "status": "Ready for review",
+      "status_category": "In Progress",
+      "assignee": "AI Agent Delivery",
       "issuetype": "Task",
       "created": "2026-09-09",
-      "updated": "2026-09-11",
+      "updated": "2026-09-15",
       "resolutiondate": "",
       "labels": [
         "Occident"
@@ -368,12 +424,12 @@
     {
       "key": "PS-6219",
       "summary": "SegurCaixa Adeslas - Nueva campaña parecida a Colectivos",
-      "status": "In Progress",
+      "status": "Ready for review",
       "status_category": "In Progress",
       "assignee": "Marco Gallego Ropero",
       "issuetype": "Task",
       "created": "2026-09-09",
-      "updated": "2026-09-14",
+      "updated": "2026-09-15",
       "resolutiondate": "",
       "labels": [
         "SegurCaixa"
@@ -410,12 +466,12 @@
     {
       "key": "PS-6216",
       "summary": "Michael Kors - Possibility to reduce two messages into one to reduce Meta Costs in WISMO",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Ready for review",
+      "status_category": "In Progress",
       "assignee": "Marco Gallego Ropero",
       "issuetype": "Task",
       "created": "2026-09-09",
-      "updated": "2026-09-11",
+      "updated": "2026-09-15",
       "resolutiondate": "",
       "labels": [
         "Michael-Kors"
@@ -438,9 +494,9 @@
     {
       "key": "PS-6214",
       "summary": "Air Europa - Develop booking inquiry UX improvement",
-      "status": "Done",
-      "status_category": "Done",
-      "assignee": "Vicky Correbo",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Adrià Sastre",
       "issuetype": "Task",
       "created": "2026-09-09",
       "updated": "2026-09-14",
@@ -494,12 +550,12 @@
     {
       "key": "PS-6210",
       "summary": "Ralph Lauren - Bicester store set up instore flow. ",
-      "status": "In Progress",
+      "status": "In Review",
       "status_category": "In Progress",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-09-09",
-      "updated": "2026-09-10",
+      "updated": "2026-09-15",
       "resolutiondate": "",
       "labels": [
         "Ralph_Lauren"
@@ -578,12 +634,12 @@
     {
       "key": "PS-6203",
       "summary": "Ralph Lauren --  Suki email Sept 7th",
-      "status": "Ready to Deliver",
-      "status_category": "In Progress",
+      "status": "Closed",
+      "status_category": "Done",
       "assignee": "irene callejas",
       "issuetype": "Task",
       "created": "2026-09-08",
-      "updated": "2026-09-11",
+      "updated": "2026-09-14",
       "resolutiondate": "",
       "labels": [
         "Ralph_Lauren"
@@ -630,12 +686,12 @@
     {
       "key": "PS-6199",
       "summary": "Ralph Lauren - Digital promo codes",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "In Progress",
+      "status_category": "In Progress",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-09-07",
-      "updated": "2026-09-14",
+      "updated": "2026-09-15",
       "resolutiondate": "",
       "labels": [
         "Ralph_Lauren"
@@ -742,12 +798,12 @@
     {
       "key": "PS-6191",
       "summary": "RALPH LAUREN - VARIED feedback - document request",
-      "status": "In Progress",
-      "status_category": "In Progress",
+      "status": "Closed",
+      "status_category": "Done",
       "assignee": "irene callejas",
       "issuetype": "Task",
       "created": "2026-09-04",
-      "updated": "2026-09-04",
+      "updated": "2026-09-14",
       "resolutiondate": "",
       "labels": [
         "Ralph_Lauren"
@@ -2536,13 +2592,13 @@
     },
     {
       "key": "PS-6058",
-      "summary": "Allianz ES - Quote&Buy - Design the Quote website",
-      "status": "Ready for review",
+      "summary": "Allianz ES - Quote Phase + AI scan",
+      "status": "In Progress",
       "status_category": "In Progress",
       "assignee": "Vicky Correbo",
       "issuetype": "Task",
       "created": "2026-07-31",
-      "updated": "2026-09-01",
+      "updated": "2026-09-14",
       "resolutiondate": "",
       "labels": [
         "Allianz"
@@ -4470,12 +4526,12 @@
     {
       "key": "PS-5920",
       "summary": "Ralph Lauren - division from boy to MW in feedback test",
-      "status": "Ready for review",
-      "status_category": "In Progress",
+      "status": "Closed",
+      "status_category": "Done",
       "assignee": "irene callejas",
       "issuetype": "Task",
       "created": "2026-07-17",
-      "updated": "2026-07-29",
+      "updated": "2026-09-14",
       "resolutiondate": "",
       "labels": [
         "Ralph_Lauren"
@@ -4526,12 +4582,12 @@
     {
       "key": "PS-5916",
       "summary": "Ralph Lauren - Store locator feedback from Suki",
-      "status": "Ready to Deliver",
-      "status_category": "In Progress",
+      "status": "Closed",
+      "status_category": "Done",
       "assignee": "irene callejas",
       "issuetype": "Task",
       "created": "2026-07-16",
-      "updated": "2026-07-17",
+      "updated": "2026-09-14",
       "resolutiondate": "",
       "labels": [
         "Ralph_Lauren"
@@ -4638,12 +4694,12 @@
     {
       "key": "PS-5908",
       "summary": "Turisme - Afegir URLs de suport al xatbot amb els seus casos d'ús",
-      "status": "Ready for review",
-      "status_category": "In Progress",
+      "status": "Closed",
+      "status_category": "Done",
       "assignee": "irene callejas",
       "issuetype": "Task",
       "created": "2026-07-14",
-      "updated": "2026-07-17",
+      "updated": "2026-09-14",
       "resolutiondate": "",
       "labels": [
         "Turisme"
@@ -6190,12 +6246,12 @@
     {
       "key": "PS-5792",
       "summary": "Ralph Lauren - AI Agent sometimes gets confused when asked about availability",
-      "status": "Ready for review",
-      "status_category": "In Progress",
+      "status": "Closed",
+      "status_category": "Done",
       "assignee": "irene callejas",
       "issuetype": "Task",
       "created": "2026-06-22",
-      "updated": "2026-06-23",
+      "updated": "2026-09-14",
       "resolutiondate": "",
       "labels": [
         "Ralph_Lauren"
@@ -13040,12 +13096,12 @@
     {
       "key": "PS-5284",
       "summary": "Ralph Lauren - Issue tracker",
-      "status": "Ready to Deliver",
-      "status_category": "In Progress",
+      "status": "Closed",
+      "status_category": "Done",
       "assignee": "irene callejas",
       "issuetype": "Task",
       "created": "2026-04-01",
-      "updated": "2026-05-25",
+      "updated": "2026-09-14",
       "resolutiondate": "",
       "labels": [
         "Ralph_Lauren"
@@ -14510,12 +14566,12 @@
     {
       "key": "PS-5174",
       "summary": "SEM - Capacity for the AI Agent to offer an agent",
-      "status": "Ready to Deliver",
-      "status_category": "In Progress",
+      "status": "Closed",
+      "status_category": "Done",
       "assignee": "irene callejas",
       "issuetype": "Task",
       "created": "2026-03-11",
-      "updated": "2026-03-23",
+      "updated": "2026-09-14",
       "resolutiondate": "",
       "labels": [
         "SEM"
@@ -14746,12 +14802,12 @@
     {
       "key": "PS-5158",
       "summary": "Ralph Lauren - Weekly Executions March - April -May",
-      "status": "Ready for review",
-      "status_category": "In Progress",
+      "status": "Closed",
+      "status_category": "Done",
       "assignee": "irene callejas",
       "issuetype": "Task",
       "created": "2026-03-06",
-      "updated": "2026-06-03",
+      "updated": "2026-09-14",
       "resolutiondate": "",
       "labels": [
         "Ralph_Lauren"
