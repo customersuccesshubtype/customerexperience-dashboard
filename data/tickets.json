@@ -1,6 +1,168 @@
 {
-  "last_updated": "2026-09-15 12:26 UTC",
+  "last_updated": "2026-09-16 12:23 UTC",
   "tickets": [
+    {
+      "key": "PS-6262",
+      "summary": "Involuntary Changes – NSK migration: tests, staging validation and cleanup of unused code",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Pep Alonso",
+      "issuetype": "Task",
+      "created": "2026-09-16",
+      "updated": "2026-09-16",
+      "resolutiondate": "",
+      "labels": []
+    },
+    {
+      "key": "PS-6261",
+      "summary": "Involuntary Changes – NSK migration: webview integration",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Pep Alonso",
+      "issuetype": "Task",
+      "created": "2026-09-16",
+      "updated": "2026-09-16",
+      "resolutiondate": "",
+      "labels": []
+    },
+    {
+      "key": "PS-6260",
+      "summary": "Involuntary Changes – NSK migration: middleware pass-through routes",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Pep Alonso",
+      "issuetype": "Task",
+      "created": "2026-09-16",
+      "updated": "2026-09-16",
+      "resolutiondate": "",
+      "labels": []
+    },
+    {
+      "key": "PS-6259",
+      "summary": "Alsa - Revisar el criterio de Handoff para minimizar gastos Meta",
+      "status": "Done",
+      "status_category": "Done",
+      "assignee": "Aitor Casas",
+      "issuetype": "Task",
+      "created": "2026-09-16",
+      "updated": "2026-09-16",
+      "resolutiondate": "",
+      "labels": [
+        "Alsa"
+      ]
+    },
+    {
+      "key": "PS-6258",
+      "summary": "MICHAEL KORS - KB CAREER REVIES",
+      "status": "Closed",
+      "status_category": "Done",
+      "assignee": "irene callejas",
+      "issuetype": "Task",
+      "created": "2026-09-16",
+      "updated": "2026-09-16",
+      "resolutiondate": "",
+      "labels": [
+        "Michael-Kors"
+      ]
+    },
+    {
+      "key": "PS-6257",
+      "summary": "Alsa .- Evaluator results analysis",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "irene callejas",
+      "issuetype": "Task",
+      "created": "2026-09-16",
+      "updated": "2026-09-16",
+      "resolutiondate": "",
+      "labels": [
+        "Alsa"
+      ]
+    },
+    {
+      "key": "PS-6256",
+      "summary": "Concentra - sdk retries",
+      "status": "Ready for review",
+      "status_category": "In Progress",
+      "assignee": "Lorena Sánchez-Toril Nicolás",
+      "issuetype": "Task",
+      "created": "2026-09-16",
+      "updated": "2026-09-16",
+      "resolutiondate": "",
+      "labels": [
+        "Concentra"
+      ]
+    },
+    {
+      "key": "PS-6255",
+      "summary": "SegurCaixa - Add Contact Reason detector plugin",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Adrià Sastre",
+      "issuetype": "Task",
+      "created": "2026-09-16",
+      "updated": "2026-09-16",
+      "resolutiondate": "",
+      "labels": [
+        "SegurCaixa"
+      ]
+    },
+    {
+      "key": "PS-6254",
+      "summary": "Michael Kors - Ver posibilidad de sustituir algunos de los smart intents que tienen y que sea el AI Agent quien conteste",
+      "status": "Done",
+      "status_category": "Done",
+      "assignee": "irene callejas",
+      "issuetype": "Task",
+      "created": "2026-09-15",
+      "updated": "2026-09-16",
+      "resolutiondate": "",
+      "labels": [
+        "Michael-Kors"
+      ]
+    },
+    {
+      "key": "PS-6253",
+      "summary": "SegurCaixa Adeslas - Activar el cierre de casos idle de forma automática en el Desk pero asegurar que mostramos un cierto texto al cliente (pdte definir por cliente)",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Aitor Casas",
+      "issuetype": "Task",
+      "created": "2026-09-15",
+      "updated": "2026-09-16",
+      "resolutiondate": "",
+      "labels": [
+        "SegurCaixa"
+      ]
+    },
+    {
+      "key": "PS-6252",
+      "summary": "SegurCaixa Adeslas - Añadir condicional de contact reason para evitar hacer encuesta rating a ciertos casos",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Adrià Sastre",
+      "issuetype": "Task",
+      "created": "2026-09-15",
+      "updated": "2026-09-15",
+      "resolutiondate": "",
+      "labels": [
+        "SegurCaixa"
+      ]
+    },
+    {
+      "key": "PS-6251",
+      "summary": "DABA - Implement adjustments as per Daba's feedback",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "irene callejas",
+      "issuetype": "Task",
+      "created": "2026-09-15",
+      "updated": "2026-09-15",
+      "resolutiondate": "",
+      "labels": [
+        "DABA"
+      ]
+    },
     {
       "key": "PS-6249",
       "summary": "RACC - Cambios bot para minimizar gastos META (requieren revision)",
@@ -32,12 +194,12 @@
     {
       "key": "PS-6247",
       "summary": "Concentra - Check duplicated template send",
-      "status": "To Do",
-      "status_category": "To Do",
-      "assignee": null,
+      "status": "Ready for review",
+      "status_category": "In Progress",
+      "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-09-14",
-      "updated": "2026-09-14",
+      "updated": "2026-09-15",
       "resolutiondate": "",
       "labels": [
         "Concentra"
@@ -102,8 +264,8 @@
     {
       "key": "PS-6242",
       "summary": "ALSA: revisar stats  Luna vs 5.4",
-      "status": "Ready for review",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "irene callejas",
       "issuetype": "Task",
       "created": "2026-09-14",
@@ -242,12 +404,12 @@
     {
       "key": "PS-6232",
       "summary": "Crossing World - Add Contact Reasons plugin to staging bot",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "In Progress",
+      "status_category": "In Progress",
       "assignee": "Marco Gallego Ropero",
       "issuetype": "Task",
       "created": "2026-09-10",
-      "updated": "2026-09-12",
+      "updated": "2026-09-16",
       "resolutiondate": "",
       "labels": [
         "Crossing_World"
@@ -256,7 +418,7 @@
     {
       "key": "PS-6231",
       "summary": "Alsa - Actualizar el disclaimer de IA del webchat e incluir enlace a la Política de Privacidad",
-      "status": "In production",
+      "status": "Done",
       "status_category": "Done",
       "assignee": "Marco Gallego Ropero",
       "issuetype": "Task",
@@ -340,12 +502,12 @@
     {
       "key": "PS-6225",
       "summary": "Euroriente - Credentials for production - test that they work",
-      "status": "Waiting for customer",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Pep Alonso",
       "issuetype": "Task",
       "created": "2026-09-09",
-      "updated": "2026-09-14",
+      "updated": "2026-09-16",
       "resolutiondate": "",
       "labels": [
         "Euroriente"
@@ -466,12 +628,12 @@
     {
       "key": "PS-6216",
       "summary": "Michael Kors - Possibility to reduce two messages into one to reduce Meta Costs in WISMO",
-      "status": "Ready for review",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Marco Gallego Ropero",
       "issuetype": "Task",
       "created": "2026-09-09",
-      "updated": "2026-09-15",
+      "updated": "2026-09-16",
       "resolutiondate": "",
       "labels": [
         "Michael-Kors"
@@ -485,7 +647,7 @@
       "assignee": "irene callejas",
       "issuetype": "Task",
       "created": "2026-09-09",
-      "updated": "2026-09-09",
+      "updated": "2026-09-15",
       "resolutiondate": "",
       "labels": [
         "RibesSalat"
@@ -606,12 +768,12 @@
     {
       "key": "PS-6205",
       "summary": "Wizz Air - New languages (3)",
-      "status": "APPROVED FOR PRODUCTION",
+      "status": "Done",
       "status_category": "Done",
       "assignee": "Marco Gallego Ropero",
       "issuetype": "Task",
       "created": "2026-09-08",
-      "updated": "2026-09-14",
+      "updated": "2026-09-16",
       "resolutiondate": "",
       "labels": [
         "WizzAir"
@@ -672,12 +834,12 @@
     {
       "key": "PS-6200",
       "summary": "Design Buy phase flow (\"Prima definitiva\") — Allianz ES Quote&Buy",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "In Progress",
+      "status_category": "In Progress",
       "assignee": "Vicky Correbo",
       "issuetype": "Task",
       "created": "2026-09-07",
-      "updated": "2026-09-07",
+      "updated": "2026-09-15",
       "resolutiondate": "",
       "labels": [
         "Allianz"
@@ -2598,7 +2760,7 @@
       "assignee": "Vicky Correbo",
       "issuetype": "Task",
       "created": "2026-07-31",
-      "updated": "2026-09-14",
+      "updated": "2026-09-15",
       "resolutiondate": "",
       "labels": [
         "Allianz"
@@ -4195,7 +4357,7 @@
       "assignee": "Adrià Sastre",
       "issuetype": "Discovery Task",
       "created": "2026-07-20",
-      "updated": "2026-09-11",
+      "updated": "2026-09-16",
       "resolutiondate": "",
       "labels": [
         "VGRS"
