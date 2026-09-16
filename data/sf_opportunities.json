@@ -1,6 +1,23 @@
 {
-  "last_updated": "2026-09-15 12:40 UTC",
+  "last_updated": "2026-09-16 12:36 UTC",
   "opportunities": [
+    {
+      "id": "006Sa00000oAdbFIAS",
+      "name": "2026-C- Michael Kors - Warranty Flow and Webview",
+      "type": "Consultancy",
+      "stage": "Opportunity identified",
+      "is_closed": false,
+      "is_won": false,
+      "probability": 10.0,
+      "amount": 3800.0,
+      "arr": 0.0,
+      "owner": "Marta Marron",
+      "cs_lead": "Marta Marron",
+      "account": "Michael Kors Group",
+      "created": "2026-09-15",
+      "close_date": "2026-09-15",
+      "start_date": "2026-10-01"
+    },
     {
       "id": "006Sa00000o5brnIAA",
       "name": "2026-U-Allianz ES-Campañas a Agentes y Empleados",
@@ -260,10 +277,10 @@
       "id": "006Sa00000lO93wIAC",
       "name": "2027-R-AirEuropa-CA(WA, Webchat)",
       "type": "Renewal",
-      "stage": "Proposal",
+      "stage": "Opportunity identified",
       "is_closed": false,
       "is_won": false,
-      "probability": 50.0,
+      "probability": 10.0,
       "amount": 98108.04,
       "arr": 97508.04,
       "owner": "Julieta Mezza",
