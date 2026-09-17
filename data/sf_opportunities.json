@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-16 12:36 UTC",
+  "last_updated": "2026-09-17 12:35 UTC",
   "opportunities": [
     {
       "id": "006Sa00000oAdbFIAS",
@@ -73,10 +73,10 @@
       "id": "006Sa00000ncQN8IAM",
       "name": "2027-R-Generalitat-CA(Mobilechat)-SEM(ServeiEmergenciesMediques)",
       "type": "Renewal",
-      "stage": "Proposal",
+      "stage": "Opportunity identified",
       "is_closed": false,
       "is_won": false,
-      "probability": 50.0,
+      "probability": 10.0,
       "amount": 69439.8,
       "arr": 69439.8,
       "owner": "Marta Marron",
