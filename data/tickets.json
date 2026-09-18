@@ -1,9 +1,161 @@
 {
-  "last_updated": "2026-09-17 12:24 UTC",
+  "last_updated": "2026-09-18 12:03 UTC",
   "tickets": [
     {
-      "key": "PS-6277",
-      "summary": "GUESS - Send \"country\" parameter to Salesforce",
+      "key": "PS-6291",
+      "summary": "Tendam - Analizar si se puede tocar flujos para reducir coste Meta",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "irene callejas",
+      "issuetype": "Discovery Task",
+      "created": "2026-09-18",
+      "updated": "2026-09-18",
+      "resolutiondate": "",
+      "labels": [
+        "Tendam"
+      ]
+    },
+    {
+      "key": "PS-6290",
+      "summary": "Tendam- Aviso por Posición de la cola según umbral",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Adrià Sastre",
+      "issuetype": "Discovery Task",
+      "created": "2026-09-18",
+      "updated": "2026-09-18",
+      "resolutiondate": "",
+      "labels": [
+        "Tendam"
+      ]
+    },
+    {
+      "key": "PS-6289",
+      "summary": "SegurCaixa Adeslas - Confirmar las opciones de acceso directo al webchat sin web propia.",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Adrià Sastre",
+      "issuetype": "Discovery Task",
+      "created": "2026-09-18",
+      "updated": "2026-09-18",
+      "resolutiondate": "",
+      "labels": [
+        "SegurCaixa"
+      ]
+    },
+    {
+      "key": "PS-6288",
+      "summary": "VGED — revisar palancas en los bots para reducir el gasto de mensajes de WhatsApp",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Aitor Casas",
+      "issuetype": "Discovery Task",
+      "created": "2026-09-18",
+      "updated": "2026-09-18",
+      "resolutiondate": "",
+      "labels": [
+        "VGED"
+      ]
+    },
+    {
+      "key": "PS-6287",
+      "summary": "Ralph Lauren - two step promo code",
+      "status": "In Review",
+      "status_category": "In Progress",
+      "assignee": "Lorena Sánchez-Toril Nicolás",
+      "issuetype": "Task",
+      "created": "2026-09-18",
+      "updated": "2026-09-18",
+      "resolutiondate": "",
+      "labels": [
+        "Ralph_Lauren"
+      ]
+    },
+    {
+      "key": "PS-6286",
+      "summary": "RACC START – Revisar bot WhatsApp y reducir mensajes facturables (nuevas tarifas Meta 1 oct 2026)",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Aitor Casas",
+      "issuetype": "Task",
+      "created": "2026-09-18",
+      "updated": "2026-09-18",
+      "resolutiondate": "",
+      "labels": [
+        "RACC-START"
+      ]
+    },
+    {
+      "key": "PS-6285",
+      "summary": "Demos - Create whitelabel demo from the ecopiezas bot",
+      "status": "Waiting for info",
+      "status_category": "In Progress",
+      "assignee": "AI Agent Delivery",
+      "issuetype": "Task",
+      "created": "2026-09-17",
+      "updated": "2026-09-18",
+      "resolutiondate": "",
+      "labels": [
+        "Demo"
+      ]
+    },
+    {
+      "key": "PS-6284",
+      "summary": "Ralph Lauren - add brand parameter ",
+      "status": "In Progress",
+      "status_category": "In Progress",
+      "assignee": "Lorena Sánchez-Toril Nicolás",
+      "issuetype": "Task",
+      "created": "2026-09-17",
+      "updated": "2026-09-18",
+      "resolutiondate": "",
+      "labels": [
+        "Ralph_Lauren"
+      ]
+    },
+    {
+      "key": "PS-6282",
+      "summary": "Internal - Update deploy staging message",
+      "status": "Done",
+      "status_category": "Done",
+      "assignee": "AI Agent Delivery",
+      "issuetype": "Task",
+      "created": "2026-09-17",
+      "updated": "2026-09-17",
+      "resolutiondate": "",
+      "labels": []
+    },
+    {
+      "key": "PS-6281",
+      "summary": "Consum - Update to lattest botonic version",
+      "status": "Ready for review",
+      "status_category": "In Progress",
+      "assignee": "AI Agent Delivery",
+      "issuetype": "Task",
+      "created": "2026-09-17",
+      "updated": "2026-09-17",
+      "resolutiondate": "",
+      "labels": [
+        "Consum"
+      ]
+    },
+    {
+      "key": "PS-6280",
+      "summary": "Concentra - Implement a third button in the Meta template to \"talk to an agent\"",
+      "status": "APPROVED FOR PRODUCTION",
+      "status_category": "Done",
+      "assignee": "Lorena Sánchez-Toril Nicolás",
+      "issuetype": "Task",
+      "created": "2026-09-17",
+      "updated": "2026-09-18",
+      "resolutiondate": "",
+      "labels": [
+        "Concentra"
+      ]
+    },
+    {
+      "key": "PS-6279",
+      "summary": "Air Europa - Develop: Interpret \"Hubtype Action\" and trigger complex use case Flight Search with values coming in the API call or complete deeplink Refex",
       "status": "To Do",
       "status_category": "To Do",
       "assignee": "Adrià Sastre",
@@ -12,18 +164,46 @@
       "updated": "2026-09-17",
       "resolutiondate": "",
       "labels": [
+        "AirEuropa"
+      ]
+    },
+    {
+      "key": "PS-6278",
+      "summary": "VGRS - Develop data transfer method (FTP o API), URLs and credentials",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Adrià Sastre",
+      "issuetype": "Task",
+      "created": "2026-09-17",
+      "updated": "2026-09-17",
+      "resolutiondate": "",
+      "labels": [
+        "VGRS"
+      ]
+    },
+    {
+      "key": "PS-6277",
+      "summary": "GUESS - Send \"country\" parameter to Salesforce",
+      "status": "Ready for review",
+      "status_category": "In Progress",
+      "assignee": "Marco Gallego Ropero",
+      "issuetype": "Task",
+      "created": "2026-09-17",
+      "updated": "2026-09-18",
+      "resolutiondate": "",
+      "labels": [
         "Guess"
       ]
     },
     {
       "key": "PS-6276",
       "summary": "Euroriente - Booking API review",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "In Progress",
+      "status_category": "In Progress",
       "assignee": "Pep Alonso",
       "issuetype": "Task",
       "created": "2026-09-17",
-      "updated": "2026-09-17",
+      "updated": "2026-09-18",
       "resolutiondate": "",
       "labels": [
         "Euroriente"
@@ -32,12 +212,12 @@
     {
       "key": "PS-6275",
       "summary": "Guess - Update language value sent to Salesforce",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Ready for review",
+      "status_category": "In Progress",
       "assignee": "Marco Gallego Ropero",
       "issuetype": "Task",
       "created": "2026-09-17",
-      "updated": "2026-09-17",
+      "updated": "2026-09-18",
       "resolutiondate": "",
       "labels": [
         "Guess"
@@ -46,8 +226,8 @@
     {
       "key": "PS-6274",
       "summary": "Concentra - Pause template send over the weekend",
-      "status": "Ready for review",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Adrià Sastre",
       "issuetype": "Task",
       "created": "2026-09-17",
@@ -60,12 +240,12 @@
     {
       "key": "PS-6273",
       "summary": "Occident - Agencias: new number/queue association",
-      "status": "To Do",
-      "status_category": "To Do",
-      "assignee": "Adrià Sastre",
+      "status": "Done",
+      "status_category": "Done",
+      "assignee": "AI Agent Delivery",
       "issuetype": "Task",
       "created": "2026-09-17",
-      "updated": "2026-09-17",
+      "updated": "2026-09-18",
       "resolutiondate": "",
       "labels": [
         "Occident"
@@ -169,13 +349,13 @@
     },
     {
       "key": "PS-6264",
-      "summary": "Assegur - modify text showned",
-      "status": "To Do",
-      "status_category": "To Do",
+      "summary": "Assegur - modify text showed in auto asistencia",
+      "status": "Ready for review",
+      "status_category": "In Progress",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-09-16",
-      "updated": "2026-09-16",
+      "updated": "2026-09-17",
       "resolutiondate": "",
       "labels": [
         "Assegur"
@@ -184,12 +364,12 @@
     {
       "key": "PS-6263",
       "summary": "Ralph Lauren - feedback bicester",
-      "status": "In Review",
+      "status": "Ready to Deliver",
       "status_category": "In Progress",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-09-16",
-      "updated": "2026-09-16",
+      "updated": "2026-09-18",
       "resolutiondate": "",
       "labels": [
         "Ralph_Lauren"
@@ -198,12 +378,12 @@
     {
       "key": "PS-6262",
       "summary": "Involuntary Changes – NSK migration: tests, staging validation and cleanup of unused code",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Ready for review",
+      "status_category": "In Progress",
       "assignee": "Pep Alonso",
       "issuetype": "Task",
       "created": "2026-09-16",
-      "updated": "2026-09-16",
+      "updated": "2026-09-18",
       "resolutiondate": "",
       "labels": [
         "JetSmart"
@@ -212,7 +392,7 @@
     {
       "key": "PS-6261",
       "summary": "Involuntary Changes – NSK migration: webview integration",
-      "status": "Ready for review",
+      "status": "Ready to Deliver",
       "status_category": "In Progress",
       "assignee": "Pep Alonso",
       "issuetype": "Task",
@@ -282,12 +462,12 @@
     {
       "key": "PS-6256",
       "summary": "Concentra - sdk retries",
-      "status": "Ready for review",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-09-16",
-      "updated": "2026-09-16",
+      "updated": "2026-09-18",
       "resolutiondate": "",
       "labels": [
         "Concentra"
@@ -380,12 +560,12 @@
     {
       "key": "PS-6248",
       "summary": "RACC - AI Alma - Poner traza en Tinybird para saber cuando responde el bot de IA del RACC",
-      "status": "To Do",
-      "status_category": "To Do",
-      "assignee": "Adrià Sastre",
+      "status": "Ready for review",
+      "status_category": "In Progress",
+      "assignee": "AI Agent Delivery",
       "issuetype": "Task",
       "created": "2026-09-15",
-      "updated": "2026-09-16",
+      "updated": "2026-09-18",
       "resolutiondate": "",
       "labels": [
         "RACC"
@@ -394,12 +574,12 @@
     {
       "key": "PS-6247",
       "summary": "Concentra - Check duplicated template send",
-      "status": "Ready for review",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-09-14",
-      "updated": "2026-09-15",
+      "updated": "2026-09-18",
       "resolutiondate": "",
       "labels": [
         "Concentra"
@@ -436,12 +616,12 @@
     {
       "key": "PS-6244",
       "summary": "Concentra - add email contact info field",
-      "status": "Ready for review",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-09-14",
-      "updated": "2026-09-14",
+      "updated": "2026-09-18",
       "resolutiondate": "",
       "labels": [
         "Concentra"
@@ -508,10 +688,10 @@
       "summary": "Tendam - Añadir encuesta de satisfaccion al bot de cada marca",
       "status": "To Do",
       "status_category": "To Do",
-      "assignee": null,
+      "assignee": "Aitor Casas",
       "issuetype": "Epic",
       "created": "2026-09-13",
-      "updated": "2026-09-13",
+      "updated": "2026-09-18",
       "resolutiondate": "",
       "labels": [
         "Tendam"
@@ -562,12 +742,12 @@
     {
       "key": "PS-6235",
       "summary": "COFA - NETBERRY: bateria de pruebas",
-      "status": "In Progress",
+      "status": "Ready for review",
       "status_category": "In Progress",
       "assignee": "irene callejas",
       "issuetype": "Task",
       "created": "2026-09-10",
-      "updated": "2026-09-11",
+      "updated": "2026-09-18",
       "resolutiondate": "",
       "labels": [
         "NetBerry_COFA"
@@ -912,12 +1092,12 @@
     {
       "key": "PS-6210",
       "summary": "Ralph Lauren - Bicester store set up instore flow. ",
-      "status": "In Review",
+      "status": "Ready to Deliver",
       "status_category": "In Progress",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-09-09",
-      "updated": "2026-09-15",
+      "updated": "2026-09-18",
       "resolutiondate": "",
       "labels": [
         "Ralph_Lauren"
@@ -1048,12 +1228,12 @@
     {
       "key": "PS-6199",
       "summary": "Ralph Lauren - Digital promo codes",
-      "status": "In Progress",
+      "status": "In Review",
       "status_category": "In Progress",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-09-07",
-      "updated": "2026-09-15",
+      "updated": "2026-09-18",
       "resolutiondate": "",
       "labels": [
         "Ralph_Lauren"
@@ -1118,12 +1298,12 @@
     {
       "key": "PS-6194",
       "summary": "RACC - Viaje - Recibir la fecha de vigencia del seguro",
-      "status": "In Progress",
+      "status": "Ready for review",
       "status_category": "In Progress",
       "assignee": "Marco Gallego Ropero",
       "issuetype": "Task",
       "created": "2026-09-04",
-      "updated": "2026-09-17",
+      "updated": "2026-09-18",
       "resolutiondate": "",
       "labels": [
         "RACC"
@@ -1342,8 +1522,8 @@
     {
       "key": "PS-6178",
       "summary": "Internal - Add slack notification for staging deploys",
-      "status": "Ready to Deliver",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "AI Agent Delivery",
       "issuetype": "Task",
       "created": "2026-09-03",
@@ -1417,7 +1597,7 @@
       "assignee": "Pep Alonso",
       "issuetype": "Task",
       "created": "2026-09-02",
-      "updated": "2026-09-17",
+      "updated": "2026-09-18",
       "resolutiondate": "",
       "labels": [
         "FenieEnergia"
@@ -1426,12 +1606,12 @@
     {
       "key": "PS-6172",
       "summary": "DABA - Configure Reset Command",
-      "status": "Done",
-      "status_category": "Done",
+      "status": "To Do",
+      "status_category": "To Do",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-09-02",
-      "updated": "2026-09-03",
+      "updated": "2026-09-17",
       "resolutiondate": "",
       "labels": [
         "DABA"
@@ -2135,7 +2315,7 @@
       "assignee": "Adrià Sastre",
       "issuetype": "Discovery Task",
       "created": "2026-08-24",
-      "updated": "2026-08-27",
+      "updated": "2026-09-17",
       "resolutiondate": "",
       "labels": [
         "AirEuropa"
@@ -3027,10 +3207,10 @@
       "summary": "DABA - Genesys Integration (API Open Messaging)",
       "status": "Open",
       "status_category": "To Do",
-      "assignee": null,
+      "assignee": "Adrià Sastre",
       "issuetype": "Task",
       "created": "2026-07-31",
-      "updated": "2026-07-31",
+      "updated": "2026-09-18",
       "resolutiondate": "",
       "labels": [
         "DABA"
@@ -4552,8 +4732,8 @@
     {
       "key": "PS-5944",
       "summary": "VGRS - Review data transfer method (FTP o API), URLs and credentials",
-      "status": "In Progress",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Adrià Sastre",
       "issuetype": "Discovery Task",
       "created": "2026-07-20",
@@ -6230,12 +6410,12 @@
     {
       "key": "PS-5821",
       "summary": "Verisure Spain - Create demo in staging so that Agents can display a calendar in shadowing",
-      "status": "Ready for review",
-      "status_category": "In Progress",
+      "status": "In production",
+      "status_category": "Done",
       "assignee": "Adrià Sastre",
       "issuetype": "Task",
       "created": "2026-06-29",
-      "updated": "2026-09-01",
+      "updated": "2026-09-18",
       "resolutiondate": "",
       "labels": [
         "Verisure_ES"
@@ -31723,10 +31903,10 @@
       "summary": "Air Europa - Consultar reserva - API Review",
       "status": "Done",
       "status_category": "Done",
-      "assignee": "Julieta Mezza",
+      "assignee": null,
       "issuetype": "Task",
       "created": "2025-04-08",
-      "updated": "2026-09-17",
+      "updated": "2026-09-18",
       "resolutiondate": "",
       "labels": [
         "AirEuropa"
@@ -61856,7 +62036,7 @@
       "assignee": "AI Agent Delivery",
       "issuetype": "Task",
       "created": "2023-11-22",
-      "updated": "2026-09-10",
+      "updated": "2026-09-18",
       "resolutiondate": "",
       "labels": []
     },
