@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-17 12:35 UTC",
+  "last_updated": "2026-09-18 12:13 UTC",
   "opportunities": [
     {
       "id": "006Sa00000oAdbFIAS",
@@ -192,10 +192,10 @@
       "id": "006Sa00000misYxIAI",
       "name": "2026-C-AirEuropa-Hubtype Action with params",
       "type": "Consultancy",
-      "stage": "Opportunity identified",
+      "stage": "Waiting for signature",
       "is_closed": false,
       "is_won": false,
-      "probability": 10.0,
+      "probability": 90.0,
       "amount": 2520.0,
       "arr": 0.0,
       "owner": "Julieta Mezza",
@@ -719,10 +719,10 @@
       "id": "006Sa00000jv7KoIAI",
       "name": "2027-R-Allianz Partners-Allianz ES-CA(WA)",
       "type": "Renewal",
-      "stage": "Proposal",
+      "stage": "Opportunity identified",
       "is_closed": false,
       "is_won": false,
-      "probability": 50.0,
+      "probability": 10.0,
       "amount": 25000.08,
       "arr": 25000.08,
       "owner": "Marta Marron",
