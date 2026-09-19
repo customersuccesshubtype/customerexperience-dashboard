@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-09-18 12:03 UTC",
+  "last_updated": "2026-09-19 11:46 UTC",
   "tickets": [
+    {
+      "key": "PS-6292",
+      "summary": "RibeSalat - Revisar dudas",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Julieta Mezza",
+      "issuetype": "Task",
+      "created": "2026-09-18",
+      "updated": "2026-09-18",
+      "resolutiondate": "",
+      "labels": [
+        "ribesalat"
+      ]
+    },
     {
       "key": "PS-6291",
       "summary": "Tendam - Analizar si se puede tocar flujos para reducir coste Meta",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "In Progress",
+      "status_category": "In Progress",
       "assignee": "irene callejas",
       "issuetype": "Discovery Task",
       "created": "2026-09-18",
@@ -88,8 +102,8 @@
     {
       "key": "PS-6285",
       "summary": "Demos - Create whitelabel demo from the ecopiezas bot",
-      "status": "Waiting for info",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "AI Agent Delivery",
       "issuetype": "Task",
       "created": "2026-09-17",
@@ -198,7 +212,7 @@
     {
       "key": "PS-6276",
       "summary": "Euroriente - Booking API review",
-      "status": "In Progress",
+      "status": "Ready for review",
       "status_category": "In Progress",
       "assignee": "Pep Alonso",
       "issuetype": "Task",
@@ -266,12 +280,12 @@
     {
       "key": "PS-6271",
       "summary": "Michael Kors - Dar un vistazo a los resultados de Evaluator y detectar potenciales mejoras",
-      "status": "In Progress",
+      "status": "Ready for review",
       "status_category": "In Progress",
       "assignee": "irene callejas",
       "issuetype": "Task",
       "created": "2026-09-17",
-      "updated": "2026-09-17",
+      "updated": "2026-09-18",
       "resolutiondate": "",
       "labels": [
         "Michael-Kors"
@@ -551,7 +565,7 @@
       "assignee": "Aitor Casas",
       "issuetype": "Task",
       "created": "2026-09-15",
-      "updated": "2026-09-15",
+      "updated": "2026-09-18",
       "resolutiondate": "",
       "labels": [
         "RACC"
@@ -1022,12 +1036,12 @@
     {
       "key": "PS-6215",
       "summary": "RibeSalat - Revisión prompt",
-      "status": "Ready for review",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "irene callejas",
       "issuetype": "Task",
       "created": "2026-09-09",
-      "updated": "2026-09-15",
+      "updated": "2026-09-18",
       "resolutiondate": "",
       "labels": [
         "RibesSalat"
@@ -1050,12 +1064,12 @@
     {
       "key": "PS-6213",
       "summary": "Bot template - Add expired webview screen in Bot template",
-      "status": "Ready for review",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Pep Alonso",
       "issuetype": "Task",
       "created": "2026-09-09",
-      "updated": "2026-09-10",
+      "updated": "2026-09-18",
       "resolutiondate": "",
       "labels": [
         "Internal"
@@ -1106,12 +1120,12 @@
     {
       "key": "PS-6209",
       "summary": "Internal - Add new authorizer in aws-runtime package",
-      "status": "Ready for review",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Pep Alonso",
       "issuetype": "Task",
       "created": "2026-09-08",
-      "updated": "2026-09-09",
+      "updated": "2026-09-18",
       "resolutiondate": "",
       "labels": [
         "Internal"
@@ -1120,12 +1134,12 @@
     {
       "key": "PS-6208",
       "summary": "Bot-core - Add JWT token management for webviews ",
-      "status": "Ready for review",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Pep Alonso",
       "issuetype": "Task",
       "created": "2026-09-08",
-      "updated": "2026-09-09",
+      "updated": "2026-09-18",
       "resolutiondate": "",
       "labels": [
         "Internal"
@@ -1508,12 +1522,12 @@
     {
       "key": "PS-6179",
       "summary": "Internal - Create Github Action to deploy bots to staging",
-      "status": "Ready to Deliver",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Pep Alonso",
       "issuetype": "Task",
       "created": "2026-09-03",
-      "updated": "2026-09-10",
+      "updated": "2026-09-18",
       "resolutiondate": "",
       "labels": [
         "Internal"
@@ -1760,12 +1774,12 @@
     {
       "key": "PS-6161",
       "summary": "Internal - Review if gh actions have access to bot's secrets",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "AI Agent Delivery",
       "issuetype": "Task",
       "created": "2026-09-01",
-      "updated": "2026-09-02",
+      "updated": "2026-09-18",
       "resolutiondate": "",
       "labels": [
         "Internal"
@@ -1830,12 +1844,12 @@
     {
       "key": "PS-6155",
       "summary": "Hubtype SDK - Add remove Contact Info Field endpoint",
-      "status": "Ready for review",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-08-31",
-      "updated": "2026-08-31",
+      "updated": "2026-09-18",
       "resolutiondate": "",
       "labels": [
         "Internal"
@@ -2242,12 +2256,12 @@
     {
       "key": "PS-6124",
       "summary": "Archive old bots",
-      "status": "Ready for review",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Marco Gallego Ropero",
       "issuetype": "Task",
       "created": "2026-08-25",
-      "updated": "2026-08-27",
+      "updated": "2026-09-18",
       "resolutiondate": "",
       "labels": []
     },
@@ -2618,12 +2632,12 @@
     {
       "key": "PS-6097",
       "summary": "Hubtype - Bump internal packages to 0.55.0",
-      "status": "Ready for review",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Pep Alonso",
       "issuetype": "Task",
       "created": "2026-08-14",
-      "updated": "2026-08-14",
+      "updated": "2026-09-18",
       "resolutiondate": "",
       "labels": [
         "Hubtype",
@@ -4003,12 +4017,12 @@
     {
       "key": "PS-5996",
       "summary": "RACC - Seguros Viaje - Add integration with RACC CRM",
-      "status": "Ready to Deliver",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Adrià Sastre",
       "issuetype": "Task",
       "created": "2026-07-27",
-      "updated": "2026-07-31",
+      "updated": "2026-09-18",
       "resolutiondate": "",
       "labels": [
         "RACC"
@@ -4774,12 +4788,12 @@
     {
       "key": "PS-5941",
       "summary": "RibéSalat - Create accounts",
-      "status": "Open",
-      "status_category": "To Do",
-      "assignee": "Wei Wu",
+      "status": "Done",
+      "status_category": "Done",
+      "assignee": "Julieta Mezza",
       "issuetype": "Task",
       "created": "2026-07-20",
-      "updated": "2026-09-07",
+      "updated": "2026-09-18",
       "resolutiondate": "",
       "labels": [
         "ribesalat"
@@ -6410,7 +6424,7 @@
     {
       "key": "PS-5821",
       "summary": "Verisure Spain - Create demo in staging so that Agents can display a calendar in shadowing",
-      "status": "In production",
+      "status": "Done",
       "status_category": "Done",
       "assignee": "Adrià Sastre",
       "issuetype": "Task",
@@ -9322,12 +9336,12 @@
     {
       "key": "PS-5608",
       "summary": "Internal - Create internal package to manage AWS resources",
-      "status": "In Progress",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Adrià Sastre",
       "issuetype": "Task",
       "created": "2026-05-21",
-      "updated": "2026-06-24",
+      "updated": "2026-09-18",
       "resolutiondate": "",
       "labels": [
         "Internal"
@@ -14080,12 +14094,12 @@
     {
       "key": "PS-5251",
       "summary": "Security Audit: bot-template/aws (0C, 5H) - Template Hardening",
-      "status": "Ready for review",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Adrià Sastre",
       "issuetype": "Task",
       "created": "2026-03-24",
-      "updated": "2026-09-04",
+      "updated": "2026-09-18",
       "resolutiondate": "",
       "labels": [
         "Internal"
