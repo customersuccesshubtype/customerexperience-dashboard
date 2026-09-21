@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-20 12:22 UTC",
+  "last_updated": "2026-09-21 14:10 UTC",
   "opportunities": [
     {
       "id": "006Sa00000oAdbFIAS",
@@ -192,17 +192,17 @@
       "id": "006Sa00000misYxIAI",
       "name": "2026-C-AirEuropa-Hubtype Action with params",
       "type": "Consultancy",
-      "stage": "Waiting for signature",
-      "is_closed": false,
-      "is_won": false,
-      "probability": 90.0,
+      "stage": "Closed Won",
+      "is_closed": true,
+      "is_won": true,
+      "probability": 100.0,
       "amount": 2520.0,
       "arr": 0.0,
       "owner": "Julieta Mezza",
       "cs_lead": "Julieta Mezza",
       "account": "Air Europa",
       "created": "2026-08-27",
-      "close_date": "2026-10-01",
+      "close_date": "2026-09-21",
       "start_date": "2026-10-01"
     },
     {
