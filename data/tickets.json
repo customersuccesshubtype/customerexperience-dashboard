@@ -1,6 +1,90 @@
 {
-  "last_updated": "2026-09-20 11:59 UTC",
+  "last_updated": "2026-09-21 13:35 UTC",
   "tickets": [
+    {
+      "key": "PS-6298",
+      "summary": "Ralph Lauren - Remove from schema Home param",
+      "status": "Done",
+      "status_category": "Done",
+      "assignee": "AI Agent Delivery",
+      "issuetype": "Task",
+      "created": "2026-09-21",
+      "updated": "2026-09-21",
+      "resolutiondate": "",
+      "labels": [
+        "Ralph_Lauren"
+      ]
+    },
+    {
+      "key": "PS-6297",
+      "summary": "Retorna - Create a new \"Support Code\" Contact Info Field",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Marco Gallego Ropero",
+      "issuetype": "Task",
+      "created": "2026-09-21",
+      "updated": "2026-09-21",
+      "resolutiondate": "",
+      "labels": [
+        "Retorna"
+      ]
+    },
+    {
+      "key": "PS-6296",
+      "summary": "RibéSalat - Review ways of identifying users",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Julieta Mezza",
+      "issuetype": "Task",
+      "created": "2026-09-21",
+      "updated": "2026-09-21",
+      "resolutiondate": "",
+      "labels": [
+        "RibesSalat"
+      ]
+    },
+    {
+      "key": "PS-6295",
+      "summary": "Eco Piezas - Reducción de costes Meta (eliminar nodos de texto)",
+      "status": "Done",
+      "status_category": "Done",
+      "assignee": "Aitor Casas",
+      "issuetype": "Task",
+      "created": "2026-09-20",
+      "updated": "2026-09-21",
+      "resolutiondate": "",
+      "labels": [
+        "EcoPiezas"
+      ]
+    },
+    {
+      "key": "PS-6294",
+      "summary": "Ralph Lauren - Assess brand tone document",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "irene callejas",
+      "issuetype": "Discovery Task",
+      "created": "2026-09-20",
+      "updated": "2026-09-20",
+      "resolutiondate": "",
+      "labels": [
+        "Ralph_Lauren"
+      ]
+    },
+    {
+      "key": "PS-6293",
+      "summary": "Tendam - Canal Atención Personas Consumidoras Vulnerables",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Adrià Sastre",
+      "issuetype": "Discovery Task",
+      "created": "2026-09-20",
+      "updated": "2026-09-20",
+      "resolutiondate": "",
+      "labels": [
+        "Tendam"
+      ]
+    },
     {
       "key": "PS-6292",
       "summary": "RibeSalat - Revisar dudas",
@@ -118,10 +202,10 @@
       "summary": "Ralph Lauren - add brand parameter ",
       "status": "In Progress",
       "status_category": "In Progress",
-      "assignee": "Lorena Sánchez-Toril Nicolás",
+      "assignee": "Pep Alonso",
       "issuetype": "Task",
       "created": "2026-09-17",
-      "updated": "2026-09-18",
+      "updated": "2026-09-21",
       "resolutiondate": "",
       "labels": [
         "Ralph_Lauren"
@@ -156,12 +240,12 @@
     {
       "key": "PS-6280",
       "summary": "Concentra - Implement a third button in the Meta template to \"talk to an agent\"",
-      "status": "APPROVED FOR PRODUCTION",
+      "status": "Done",
       "status_category": "Done",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-09-17",
-      "updated": "2026-09-18",
+      "updated": "2026-09-21",
       "resolutiondate": "",
       "labels": [
         "Concentra"
@@ -355,7 +439,7 @@
       "assignee": "Adrià Sastre",
       "issuetype": "Discovery Task",
       "created": "2026-09-16",
-      "updated": "2026-09-16",
+      "updated": "2026-09-21",
       "resolutiondate": "",
       "labels": [
         "Allianz-OSN"
@@ -364,12 +448,12 @@
     {
       "key": "PS-6264",
       "summary": "Assegur - modify text showed in auto asistencia",
-      "status": "Ready for review",
-      "status_category": "In Progress",
+      "status": "APPROVED FOR PRODUCTION",
+      "status_category": "Done",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-09-16",
-      "updated": "2026-09-17",
+      "updated": "2026-09-21",
       "resolutiondate": "",
       "labels": [
         "Assegur"
@@ -391,13 +475,13 @@
     },
     {
       "key": "PS-6262",
-      "summary": "Involuntary Changes – NSK migration: tests, staging validation and cleanup of unused code",
+      "summary": "Jetsmart -Involuntary Changes – NSK migration: tests, staging validation and cleanup of unused code",
       "status": "Ready for review",
       "status_category": "In Progress",
       "assignee": "Pep Alonso",
       "issuetype": "Task",
       "created": "2026-09-16",
-      "updated": "2026-09-18",
+      "updated": "2026-09-21",
       "resolutiondate": "",
       "labels": [
         "JetSmart"
@@ -419,13 +503,13 @@
     },
     {
       "key": "PS-6260",
-      "summary": "Involuntary Changes – NSK migration: middleware pass-through routes",
+      "summary": "Jetsmart - Involuntary Changes – NSK migration: middleware pass-through routes",
       "status": "Ready for review",
       "status_category": "In Progress",
       "assignee": "Pep Alonso",
       "issuetype": "Task",
       "created": "2026-09-16",
-      "updated": "2026-09-16",
+      "updated": "2026-09-21",
       "resolutiondate": "",
       "labels": [
         "JetSmart"
@@ -518,12 +602,12 @@
     {
       "key": "PS-6253",
       "summary": "SegurCaixa Adeslas - Activar el cierre de casos idle de forma automática en el Desk pero asegurar que mostramos un cierto texto al cliente (pdte definir por cliente)",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Waiting for customer",
+      "status_category": "In Progress",
       "assignee": "Aitor Casas",
       "issuetype": "Task",
       "created": "2026-09-15",
-      "updated": "2026-09-16",
+      "updated": "2026-09-21",
       "resolutiondate": "",
       "labels": [
         "SegurCaixa"
@@ -537,7 +621,7 @@
       "assignee": "Adrià Sastre",
       "issuetype": "Task",
       "created": "2026-09-15",
-      "updated": "2026-09-15",
+      "updated": "2026-09-21",
       "resolutiondate": "",
       "labels": [
         "SegurCaixa"
@@ -560,12 +644,12 @@
     {
       "key": "PS-6249",
       "summary": "RACC - Cambios bot para minimizar gastos META (requieren revision)",
-      "status": "Ready for review",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Aitor Casas",
       "issuetype": "Task",
       "created": "2026-09-15",
-      "updated": "2026-09-18",
+      "updated": "2026-09-21",
       "resolutiondate": "",
       "labels": [
         "RACC"
@@ -798,12 +882,12 @@
     {
       "key": "PS-6232",
       "summary": "Crossing World - Add Contact Reasons plugin to staging bot",
-      "status": "Ready for review",
-      "status_category": "In Progress",
+      "status": "APPROVED FOR PRODUCTION",
+      "status_category": "Done",
       "assignee": "Marco Gallego Ropero",
       "issuetype": "Task",
       "created": "2026-09-10",
-      "updated": "2026-09-17",
+      "updated": "2026-09-21",
       "resolutiondate": "",
       "labels": [
         "Crossing_World"
@@ -882,12 +966,12 @@
     {
       "key": "PS-6226",
       "summary": "Alsa - Modificar texto introductorio LOPD Alsa",
-      "status": "Ready for review",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Aitor Casas",
       "issuetype": "Task",
       "created": "2026-09-10",
-      "updated": "2026-09-10",
+      "updated": "2026-09-21",
       "resolutiondate": "",
       "labels": [
         "alsa"
@@ -938,12 +1022,12 @@
     {
       "key": "PS-6222",
       "summary": "VGRS - Create contact reasons",
-      "status": "Open",
+      "status": "To Do",
       "status_category": "To Do",
       "assignee": "Aitor Casas",
       "issuetype": "Task",
       "created": "2026-09-09",
-      "updated": "2026-09-09",
+      "updated": "2026-09-21",
       "resolutiondate": "",
       "labels": [
         "VGRS"
@@ -952,12 +1036,12 @@
     {
       "key": "PS-6221",
       "summary": "VGRS - Flow design per campaign Audi y WV",
-      "status": "Open",
+      "status": "To Do",
       "status_category": "To Do",
       "assignee": "Julieta Mezza",
       "issuetype": "Task",
       "created": "2026-09-09",
-      "updated": "2026-09-09",
+      "updated": "2026-09-21",
       "resolutiondate": "",
       "labels": [
         "VGRS"
@@ -980,12 +1064,12 @@
     {
       "key": "PS-6219",
       "summary": "SegurCaixa Adeslas - Nueva campaña parecida a Colectivos",
-      "status": "Ready for review",
-      "status_category": "In Progress",
+      "status": "APPROVED FOR PRODUCTION",
+      "status_category": "Done",
       "assignee": "Marco Gallego Ropero",
       "issuetype": "Task",
       "created": "2026-09-09",
-      "updated": "2026-09-17",
+      "updated": "2026-09-21",
       "resolutiondate": "",
       "labels": [
         "SegurCaixa"
@@ -1007,13 +1091,13 @@
     },
     {
       "key": "PS-6217",
-      "summary": "Michael Kors - Limit Image Fallback Message to 1 per Conversation ID",
+      "summary": "All Clients - Limit Image Fallback Message to 1 per Conversation ID",
       "status": "To Do",
       "status_category": "To Do",
       "assignee": "Adrià Sastre",
       "issuetype": "Task",
       "created": "2026-09-09",
-      "updated": "2026-09-16",
+      "updated": "2026-09-21",
       "resolutiondate": "",
       "labels": [
         "Michael-Kors"
@@ -1050,12 +1134,12 @@
     {
       "key": "PS-6214",
       "summary": "Air Europa - Develop booking inquiry UX improvement",
-      "status": "Ready for review",
-      "status_category": "In Progress",
+      "status": "APPROVED FOR PRODUCTION",
+      "status_category": "Done",
       "assignee": "Marco Gallego Ropero",
       "issuetype": "Task",
       "created": "2026-09-09",
-      "updated": "2026-09-17",
+      "updated": "2026-09-21",
       "resolutiondate": "",
       "labels": [
         "AirEuropa"
@@ -1508,12 +1592,12 @@
     {
       "key": "PS-6180",
       "summary": "Internal - Update AI Agent Github Action to deploy changes to staging",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Ready for review",
+      "status_category": "In Progress",
       "assignee": "Pep Alonso",
       "issuetype": "Task",
       "created": "2026-09-03",
-      "updated": "2026-09-03",
+      "updated": "2026-09-21",
       "resolutiondate": "",
       "labels": [
         "Internal"
@@ -1620,12 +1704,12 @@
     {
       "key": "PS-6172",
       "summary": "DABA - Configure Reset Command",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-09-02",
-      "updated": "2026-09-17",
+      "updated": "2026-09-21",
       "resolutiondate": "",
       "labels": [
         "DABA"
@@ -1709,7 +1793,7 @@
       "assignee": "AI Agent Delivery",
       "issuetype": "Task",
       "created": "2026-09-02",
-      "updated": "2026-09-02",
+      "updated": "2026-09-21",
       "resolutiondate": "",
       "labels": [
         "SEM"
@@ -2450,12 +2534,12 @@
     {
       "key": "PS-6110",
       "summary": "Air Europa - Queue position and automatic discard of webchat cases with +10 min offline",
-      "status": "Ready to Deliver",
-      "status_category": "In Progress",
+      "status": "APPROVED FOR PRODUCTION",
+      "status_category": "Done",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-08-19",
-      "updated": "2026-09-14",
+      "updated": "2026-09-21",
       "resolutiondate": "",
       "labels": [
         "AirEuropa"
@@ -4886,12 +4970,12 @@
     {
       "key": "PS-5934",
       "summary": "RibéSalat - Integrate staging Whatsapp number",
-      "status": "Open",
-      "status_category": "To Do",
+      "status": "In Progress",
+      "status_category": "In Progress",
       "assignee": "Aitor Casas",
       "issuetype": "Task",
       "created": "2026-07-20",
-      "updated": "2026-07-20",
+      "updated": "2026-09-21",
       "resolutiondate": "",
       "labels": [
         "RibesSalat"
@@ -5813,7 +5897,7 @@
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-07-09",
-      "updated": "2026-09-07",
+      "updated": "2026-09-21",
       "resolutiondate": "",
       "labels": [
         "Assegur"
@@ -5883,7 +5967,7 @@
       "assignee": null,
       "issuetype": "Epic",
       "created": "2026-07-09",
-      "updated": "2026-07-09",
+      "updated": "2026-09-21",
       "resolutiondate": "",
       "labels": [
         "AirEuropa"
@@ -6634,12 +6718,12 @@
     {
       "key": "PS-5805",
       "summary": "VGRS - Review alternatives for the scoring process",
-      "status": "Open",
+      "status": "To Do",
       "status_category": "To Do",
       "assignee": "Julieta Mezza",
       "issuetype": "Task",
       "created": "2026-06-25",
-      "updated": "2026-07-20",
+      "updated": "2026-09-21",
       "resolutiondate": "",
       "labels": [
         "VGRS"
@@ -19094,12 +19178,12 @@
     {
       "key": "PS-4861",
       "summary": "Occident - Review how Occident can be autonomous adding Agencies phone numbers to the bot",
-      "status": "Open",
-      "status_category": "To Do",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Adrià Sastre",
       "issuetype": "Task",
       "created": "2026-01-19",
-      "updated": "2026-06-22",
+      "updated": "2026-09-21",
       "resolutiondate": "",
       "labels": [
         "occident"
@@ -31853,7 +31937,7 @@
       "assignee": "Adrià Sastre",
       "issuetype": "Task",
       "created": "2025-04-10",
-      "updated": "2026-09-14",
+      "updated": "2026-09-21",
       "resolutiondate": "",
       "labels": []
     },
