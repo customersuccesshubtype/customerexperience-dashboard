@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-21 14:10 UTC",
+  "last_updated": "2026-09-22 12:36 UTC",
   "opportunities": [
     {
       "id": "006Sa00000oAdbFIAS",
@@ -578,6 +578,23 @@
       "created": "2026-07-17",
       "close_date": "2026-06-10",
       "start_date": "2027-06-12"
+    },
+    {
+      "id": "006Sa00000kKcD7IAK",
+      "name": "2027-R-Fenie Energia-Spain",
+      "type": "Renewal",
+      "stage": "Opportunity identified",
+      "is_closed": false,
+      "is_won": false,
+      "probability": 10.0,
+      "amount": 30234.0,
+      "arr": 24234.0,
+      "owner": "Francisca Martelli",
+      "cs_lead": "",
+      "account": "Fenie Energia",
+      "created": "2026-07-17",
+      "close_date": "2026-05-07",
+      "start_date": "2027-05-04"
     },
     {
       "id": "006Sa00000kGmCfIAK",
