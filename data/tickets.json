@@ -1,6 +1,188 @@
 {
-  "last_updated": "2026-09-21 13:35 UTC",
+  "last_updated": "2026-09-22 12:19 UTC",
   "tickets": [
+    {
+      "key": "PS-6311",
+      "summary": "Task  - Verisure Es - Lead Gen - Deploy new bot and call it 'Cerradura'",
+      "status": "Ready for review",
+      "status_category": "In Progress",
+      "assignee": "AI Agent Delivery",
+      "issuetype": "Task",
+      "created": "2026-09-22",
+      "updated": "2026-09-22",
+      "resolutiondate": "",
+      "labels": []
+    },
+    {
+      "key": "PS-6310",
+      "summary": "Netberry - COFA - Integrate WhatsApp number for tests",
+      "status": "Done",
+      "status_category": "Done",
+      "assignee": "Aitor Casas",
+      "issuetype": "Task",
+      "created": "2026-09-22",
+      "updated": "2026-09-22",
+      "resolutiondate": "",
+      "labels": [
+        "NetBerry_COFA"
+      ]
+    },
+    {
+      "key": "PS-6309",
+      "summary": "Jetsmart - Involuntary Changes – NSK migration: remove eligible queue after flight change",
+      "status": "In Progress",
+      "status_category": "In Progress",
+      "assignee": "Pep Alonso",
+      "issuetype": "Task",
+      "created": "2026-09-22",
+      "updated": "2026-09-22",
+      "resolutiondate": "",
+      "labels": [
+        "JetSmart"
+      ]
+    },
+    {
+      "key": "PS-6308",
+      "summary": "Ralph Lauren - Include the \"Bicester\" store in the \"Onboarding - Digital (offer)\" flow",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Pep Alonso",
+      "issuetype": "Task",
+      "created": "2026-09-22",
+      "updated": "2026-09-22",
+      "resolutiondate": "",
+      "labels": [
+        "Ralph-Lauren",
+        "RalphLauren",
+        "Ralph_Lauren"
+      ]
+    },
+    {
+      "key": "PS-6307",
+      "summary": "Ralph Lauren - Adjustment requested on onboarding flow",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Pep Alonso",
+      "issuetype": "Task",
+      "created": "2026-09-22",
+      "updated": "2026-09-22",
+      "resolutiondate": "",
+      "labels": [
+        "Ralph_Lauren"
+      ]
+    },
+    {
+      "key": "PS-6306",
+      "summary": "Allianz Scan & Buy . Valorar si podemos incluir un chat conversacional para la búsqueda del vehículo",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Adrià Sastre",
+      "issuetype": "Discovery Task",
+      "created": "2026-09-21",
+      "updated": "2026-09-21",
+      "resolutiondate": "",
+      "labels": [
+        "Allianz-ES"
+      ]
+    },
+    {
+      "key": "PS-6305",
+      "summary": "Michael Kors - Analizar qué fuentes de conocimiento utiliza el AI Agent.",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "irene callejas",
+      "issuetype": "Task",
+      "created": "2026-09-21",
+      "updated": "2026-09-21",
+      "resolutiondate": "",
+      "labels": [
+        "Michael-Kors"
+      ]
+    },
+    {
+      "key": "PS-6304",
+      "summary": "Netberry - COFA - Validate that clients are part of the Association",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Pep Alonso",
+      "issuetype": "Task",
+      "created": "2026-09-21",
+      "updated": "2026-09-21",
+      "resolutiondate": "",
+      "labels": [
+        "NetBerry_COFA"
+      ]
+    },
+    {
+      "key": "PS-6303",
+      "summary": "Allianz ES - OCR pólizas - adjunto ejemplos",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Adrià Sastre",
+      "issuetype": "Task",
+      "created": "2026-09-21",
+      "updated": "2026-09-22",
+      "resolutiondate": "",
+      "labels": [
+        "Allianz"
+      ]
+    },
+    {
+      "key": "PS-6302",
+      "summary": "VGRS - Update bot version to enable data capture",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Julieta Mezza",
+      "issuetype": "Task",
+      "created": "2026-09-21",
+      "updated": "2026-09-21",
+      "resolutiondate": "",
+      "labels": [
+        "VGRS"
+      ]
+    },
+    {
+      "key": "PS-6301",
+      "summary": "RibéSalat - Not show rating for discarded cases",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Adrià Sastre",
+      "issuetype": "Task",
+      "created": "2026-09-21",
+      "updated": "2026-09-22",
+      "resolutiondate": "",
+      "labels": [
+        "ribesalat"
+      ]
+    },
+    {
+      "key": "PS-6300",
+      "summary": "VGRS - Not show rating for discarded cases",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Julieta Mezza",
+      "issuetype": "Task",
+      "created": "2026-09-21",
+      "updated": "2026-09-21",
+      "resolutiondate": "",
+      "labels": [
+        "VGRS"
+      ]
+    },
+    {
+      "key": "PS-6299",
+      "summary": "Air Europa - Flight search webview link broken when AVA redirects to the node",
+      "status": "Ready for review",
+      "status_category": "In Progress",
+      "assignee": "Pep Alonso",
+      "issuetype": "Task",
+      "created": "2026-09-21",
+      "updated": "2026-09-21",
+      "resolutiondate": "",
+      "labels": [
+        "AirEuropa"
+      ]
+    },
     {
       "key": "PS-6298",
       "summary": "Ralph Lauren - Remove from schema Home param",
@@ -18,12 +200,12 @@
     {
       "key": "PS-6297",
       "summary": "Retorna - Create a new \"Support Code\" Contact Info Field",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Ready for review",
+      "status_category": "In Progress",
       "assignee": "Marco Gallego Ropero",
       "issuetype": "Task",
       "created": "2026-09-21",
-      "updated": "2026-09-21",
+      "updated": "2026-09-22",
       "resolutiondate": "",
       "labels": [
         "Retorna"
@@ -34,10 +216,10 @@
       "summary": "RibéSalat - Review ways of identifying users",
       "status": "To Do",
       "status_category": "To Do",
-      "assignee": "Julieta Mezza",
+      "assignee": "Adrià Sastre",
       "issuetype": "Task",
       "created": "2026-09-21",
-      "updated": "2026-09-21",
+      "updated": "2026-09-22",
       "resolutiondate": "",
       "labels": [
         "RibesSalat"
@@ -74,12 +256,12 @@
     {
       "key": "PS-6293",
       "summary": "Tendam - Canal Atención Personas Consumidoras Vulnerables",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Ready for review",
+      "status_category": "In Progress",
       "assignee": "Adrià Sastre",
       "issuetype": "Discovery Task",
       "created": "2026-09-20",
-      "updated": "2026-09-20",
+      "updated": "2026-09-21",
       "resolutiondate": "",
       "labels": [
         "Tendam"
@@ -116,12 +298,12 @@
     {
       "key": "PS-6290",
       "summary": "Tendam- Aviso por Posición de la cola según umbral",
-      "status": "To Do",
-      "status_category": "To Do",
-      "assignee": "Adrià Sastre",
-      "issuetype": "Discovery Task",
+      "status": "In production",
+      "status_category": "Done",
+      "assignee": "AI Agent Delivery",
+      "issuetype": "Task",
       "created": "2026-09-18",
-      "updated": "2026-09-18",
+      "updated": "2026-09-22",
       "resolutiondate": "",
       "labels": [
         "Tendam"
@@ -259,7 +441,7 @@
       "assignee": "Adrià Sastre",
       "issuetype": "Task",
       "created": "2026-09-17",
-      "updated": "2026-09-17",
+      "updated": "2026-09-22",
       "resolutiondate": "",
       "labels": [
         "AirEuropa"
@@ -700,12 +882,12 @@
     {
       "key": "PS-6245",
       "summary": "Tendam - Crear 3 snippets de webchat (staging y producción) para Hoss Intropia, Slowlove y Dash & Stars",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Ready to Deliver",
+      "status_category": "In Progress",
       "assignee": "Adrià Sastre",
       "issuetype": "Task",
       "created": "2026-09-14",
-      "updated": "2026-09-17",
+      "updated": "2026-09-22",
       "resolutiondate": "",
       "labels": [
         "Tendam"
@@ -845,7 +1027,7 @@
       "assignee": "irene callejas",
       "issuetype": "Task",
       "created": "2026-09-10",
-      "updated": "2026-09-18",
+      "updated": "2026-09-22",
       "resolutiondate": "",
       "labels": [
         "NetBerry_COFA"
@@ -929,7 +1111,7 @@
       "assignee": "Adrià Sastre",
       "issuetype": "Bug",
       "created": "2026-09-10",
-      "updated": "2026-09-17",
+      "updated": "2026-09-21",
       "resolutiondate": "",
       "labels": [
         "Generalitat-Turisme"
@@ -1022,8 +1204,8 @@
     {
       "key": "PS-6222",
       "summary": "VGRS - Create contact reasons",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Aitor Casas",
       "issuetype": "Task",
       "created": "2026-09-09",
@@ -1788,12 +1970,12 @@
     {
       "key": "PS-6166",
       "summary": "SEM - Subida de versión Staging",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Ready for review",
+      "status_category": "In Progress",
       "assignee": "AI Agent Delivery",
       "issuetype": "Task",
       "created": "2026-09-02",
-      "updated": "2026-09-21",
+      "updated": "2026-09-22",
       "resolutiondate": "",
       "labels": [
         "SEM"
@@ -3798,7 +3980,7 @@
       "assignee": null,
       "issuetype": "Task",
       "created": "2026-07-28",
-      "updated": "2026-09-14",
+      "updated": "2026-09-22",
       "resolutiondate": "",
       "labels": [
         "AirEuropa"
@@ -4914,12 +5096,12 @@
     {
       "key": "PS-5938",
       "summary": "RibéSalat - Configure KB \"anulaciones\" y \"solicitud asistencia (hogar y coche)\"",
-      "status": "In Progress",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Julieta Mezza",
       "issuetype": "Task",
       "created": "2026-07-20",
-      "updated": "2026-08-10",
+      "updated": "2026-09-22",
       "resolutiondate": "",
       "labels": [
         "ribesalat"
@@ -14164,12 +14346,12 @@
     {
       "key": "PS-5252",
       "summary": "Security Audit: easyjet/api (3C, 4H)",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Closed",
+      "status_category": "Done",
       "assignee": null,
       "issuetype": "Task",
       "created": "2026-03-24",
-      "updated": "2026-03-26",
+      "updated": "2026-09-22",
       "resolutiondate": "",
       "labels": [
         "Internal"
@@ -14334,10 +14516,10 @@
       "summary": "Security Audit: guess/unified-flow-builder/aws (2C, 4H)",
       "status": "To Do",
       "status_category": "To Do",
-      "assignee": null,
+      "assignee": "Adrià Sastre",
       "issuetype": "Task",
       "created": "2026-03-24",
-      "updated": "2026-03-26",
+      "updated": "2026-09-22",
       "resolutiondate": "",
       "labels": [
         "Internal"
@@ -14376,10 +14558,10 @@
       "summary": "Security Audit: consum/coupons/aws (2C, 3H)",
       "status": "To Do",
       "status_category": "To Do",
-      "assignee": null,
+      "assignee": "Pep Alonso",
       "issuetype": "Task",
       "created": "2026-03-24",
-      "updated": "2026-03-26",
+      "updated": "2026-09-22",
       "resolutiondate": "",
       "labels": [
         "Internal"
@@ -14390,10 +14572,10 @@
       "summary": "Security Audit: alsa/aws (3C, 4H)",
       "status": "To Do",
       "status_category": "To Do",
-      "assignee": null,
+      "assignee": "Pep Alonso",
       "issuetype": "Task",
       "created": "2026-03-24",
-      "updated": "2026-03-26",
+      "updated": "2026-09-22",
       "resolutiondate": "",
       "labels": [
         "Internal"
@@ -14407,7 +14589,7 @@
       "assignee": null,
       "issuetype": "Task",
       "created": "2026-03-24",
-      "updated": "2026-03-26",
+      "updated": "2026-09-22",
       "resolutiondate": "",
       "labels": [
         "Internal"
