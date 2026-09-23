@@ -1,17 +1,176 @@
 {
-  "last_updated": "2026-09-22 12:19 UTC",
+  "last_updated": "2026-09-23 12:32 UTC",
   "tickets": [
+    {
+      "key": "PS-6322",
+      "summary": "Michael Kors - Reconnect the \"where is my return\" option (14-day message plus agent handoff) as a priority today.",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "irene callejas",
+      "issuetype": "Bug",
+      "created": "2026-09-23",
+      "updated": "2026-09-23",
+      "resolutiondate": "",
+      "labels": [
+        "Michael-Kors"
+      ]
+    },
+    {
+      "key": "PS-6321",
+      "summary": "Ralph Lauren - Configurable tracking params for marketing carousels",
+      "status": "In Progress",
+      "status_category": "In Progress",
+      "assignee": "Pep Alonso",
+      "issuetype": "Task",
+      "created": "2026-09-23",
+      "updated": "2026-09-23",
+      "resolutiondate": "",
+      "labels": [
+        "Ralph-Lauren",
+        "RalphLauren",
+        "Ralph_Lauren"
+      ]
+    },
+    {
+      "key": "PS-6320",
+      "summary": "GUESS - CONFIRM luna is being used",
+      "status": "In Progress",
+      "status_category": "In Progress",
+      "assignee": "AI Agent Delivery",
+      "issuetype": "Task",
+      "created": "2026-09-23",
+      "updated": "2026-09-23",
+      "resolutiondate": "",
+      "labels": [
+        "Guess"
+      ]
+    },
+    {
+      "key": "PS-6319",
+      "summary": "RACC - Add new entities when creating AiAlma case (AI Agent)",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Adrià Sastre",
+      "issuetype": "Task",
+      "created": "2026-09-23",
+      "updated": "2026-09-23",
+      "resolutiondate": "",
+      "labels": [
+        "RACC"
+      ]
+    },
+    {
+      "key": "PS-6318",
+      "summary": "Ralph Lauren - brand info implementation ",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "irene callejas",
+      "issuetype": "Task",
+      "created": "2026-09-23",
+      "updated": "2026-09-23",
+      "resolutiondate": "",
+      "labels": [
+        "Ralph_Lauren"
+      ]
+    },
+    {
+      "key": "PS-6317",
+      "summary": "GUESS - Prompt Optimization and 5.6 Luna",
+      "status": "Ready for review",
+      "status_category": "In Progress",
+      "assignee": "irene callejas",
+      "issuetype": "Task",
+      "created": "2026-09-23",
+      "updated": "2026-09-23",
+      "resolutiondate": "",
+      "labels": [
+        "Guess"
+      ]
+    },
+    {
+      "key": "PS-6316",
+      "summary": "Verisure Spain - Desplegar nuevo bot en staging y en prod de nombre \"Cerradura\"",
+      "status": "Closed",
+      "status_category": "Done",
+      "assignee": "AI Agent Delivery",
+      "issuetype": "Task",
+      "created": "2026-09-22",
+      "updated": "2026-09-22",
+      "resolutiondate": "",
+      "labels": [
+        "Verisure"
+      ]
+    },
+    {
+      "key": "PS-6315",
+      "summary": "Occident - Create two bots for webchat",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Adrià Sastre",
+      "issuetype": "Task",
+      "created": "2026-09-22",
+      "updated": "2026-09-22",
+      "resolutiondate": "",
+      "labels": [
+        "Occident"
+      ]
+    },
+    {
+      "key": "PS-6314",
+      "summary": "Internal - Update Bot template to 0.56.0",
+      "status": "Ready for review",
+      "status_category": "In Progress",
+      "assignee": "AI Agent Delivery",
+      "issuetype": "Task",
+      "created": "2026-09-22",
+      "updated": "2026-09-23",
+      "resolutiondate": "",
+      "labels": [
+        "Internal"
+      ]
+    },
+    {
+      "key": "PS-6313",
+      "summary": "Hubtype - Bump internal packages to 0.56.0",
+      "status": "In Progress",
+      "status_category": "In Progress",
+      "assignee": "Pep Alonso",
+      "issuetype": "Task",
+      "created": "2026-09-22",
+      "updated": "2026-09-22",
+      "resolutiondate": "",
+      "labels": [
+        "Hubtype",
+        "Internal"
+      ]
+    },
+    {
+      "key": "PS-6312",
+      "summary": "RACC - Assistència en viatge - Eliminar los teléfonos de los usuarios al cabo de cierto tiempo (ej 15 días)",
+      "status": "Ready for review",
+      "status_category": "In Progress",
+      "assignee": "Adrià Sastre",
+      "issuetype": "Discovery Task",
+      "created": "2026-09-22",
+      "updated": "2026-09-23",
+      "resolutiondate": "",
+      "labels": [
+        "RACC"
+      ]
+    },
     {
       "key": "PS-6311",
       "summary": "Task  - Verisure Es - Lead Gen - Deploy new bot and call it 'Cerradura'",
-      "status": "Ready for review",
+      "status": "Ready to Deliver",
       "status_category": "In Progress",
       "assignee": "AI Agent Delivery",
       "issuetype": "Task",
       "created": "2026-09-22",
       "updated": "2026-09-22",
       "resolutiondate": "",
-      "labels": []
+      "labels": [
+        "Verisure_ES"
+      ]
     },
     {
       "key": "PS-6310",
@@ -44,8 +203,8 @@
     {
       "key": "PS-6308",
       "summary": "Ralph Lauren - Include the \"Bicester\" store in the \"Onboarding - Digital (offer)\" flow",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Ready for review",
+      "status_category": "In Progress",
       "assignee": "Pep Alonso",
       "issuetype": "Task",
       "created": "2026-09-22",
@@ -93,7 +252,7 @@
       "assignee": "irene callejas",
       "issuetype": "Task",
       "created": "2026-09-21",
-      "updated": "2026-09-21",
+      "updated": "2026-09-23",
       "resolutiondate": "",
       "labels": [
         "Michael-Kors"
@@ -172,12 +331,12 @@
     {
       "key": "PS-6299",
       "summary": "Air Europa - Flight search webview link broken when AVA redirects to the node",
-      "status": "Ready for review",
-      "status_category": "In Progress",
+      "status": "In production",
+      "status_category": "Done",
       "assignee": "Pep Alonso",
       "issuetype": "Task",
       "created": "2026-09-21",
-      "updated": "2026-09-21",
+      "updated": "2026-09-23",
       "resolutiondate": "",
       "labels": [
         "AirEuropa"
@@ -289,7 +448,7 @@
       "assignee": "irene callejas",
       "issuetype": "Discovery Task",
       "created": "2026-09-18",
-      "updated": "2026-09-18",
+      "updated": "2026-09-22",
       "resolutiondate": "",
       "labels": [
         "Tendam"
@@ -298,7 +457,7 @@
     {
       "key": "PS-6290",
       "summary": "Tendam- Aviso por Posición de la cola según umbral",
-      "status": "In production",
+      "status": "Done",
       "status_category": "Done",
       "assignee": "AI Agent Delivery",
       "issuetype": "Task",
@@ -382,12 +541,12 @@
     {
       "key": "PS-6284",
       "summary": "Ralph Lauren - add brand parameter ",
-      "status": "In Progress",
+      "status": "Ready for review",
       "status_category": "In Progress",
       "assignee": "Pep Alonso",
       "issuetype": "Task",
       "created": "2026-09-17",
-      "updated": "2026-09-21",
+      "updated": "2026-09-22",
       "resolutiondate": "",
       "labels": [
         "Ralph_Lauren"
@@ -450,12 +609,12 @@
     {
       "key": "PS-6278",
       "summary": "VGRS - Develop data transfer method (FTP o API), URLs and credentials",
-      "status": "To Do",
-      "status_category": "To Do",
-      "assignee": "Adrià Sastre",
+      "status": "In Progress",
+      "status_category": "In Progress",
+      "assignee": "Marco Gallego Ropero",
       "issuetype": "Task",
       "created": "2026-09-17",
-      "updated": "2026-09-17",
+      "updated": "2026-09-23",
       "resolutiondate": "",
       "labels": [
         "VGRS"
@@ -492,12 +651,12 @@
     {
       "key": "PS-6275",
       "summary": "Guess - Update language value sent to Salesforce",
-      "status": "Ready for review",
-      "status_category": "In Progress",
+      "status": "In production",
+      "status_category": "Done",
       "assignee": "Marco Gallego Ropero",
       "issuetype": "Task",
       "created": "2026-09-17",
-      "updated": "2026-09-18",
+      "updated": "2026-09-23",
       "resolutiondate": "",
       "labels": [
         "Guess"
@@ -551,7 +710,7 @@
       "assignee": "irene callejas",
       "issuetype": "Task",
       "created": "2026-09-17",
-      "updated": "2026-09-18",
+      "updated": "2026-09-22",
       "resolutiondate": "",
       "labels": [
         "Michael-Kors"
@@ -590,10 +749,10 @@
       "summary": "Ralph Lauren - contact info field bicester",
       "status": "Ready for review",
       "status_category": "In Progress",
-      "assignee": "Lorena Sánchez-Toril Nicolás",
+      "assignee": "Pep Alonso",
       "issuetype": "Task",
       "created": "2026-09-16",
-      "updated": "2026-09-16",
+      "updated": "2026-09-22",
       "resolutiondate": "",
       "labels": [
         "Ralph_Lauren"
@@ -971,7 +1130,7 @@
       "assignee": "Aitor Casas",
       "issuetype": "Epic",
       "created": "2026-09-13",
-      "updated": "2026-09-18",
+      "updated": "2026-09-23",
       "resolutiondate": "",
       "labels": [
         "Tendam"
@@ -1064,12 +1223,12 @@
     {
       "key": "PS-6232",
       "summary": "Crossing World - Add Contact Reasons plugin to staging bot",
-      "status": "APPROVED FOR PRODUCTION",
+      "status": "In production",
       "status_category": "Done",
       "assignee": "Marco Gallego Ropero",
       "issuetype": "Task",
       "created": "2026-09-10",
-      "updated": "2026-09-21",
+      "updated": "2026-09-23",
       "resolutiondate": "",
       "labels": [
         "Crossing_World"
@@ -1106,12 +1265,12 @@
     {
       "key": "PS-6229",
       "summary": "Turisme - El URL de demo no les permite visualizar el chat",
-      "status": "To Do",
-      "status_category": "To Do",
-      "assignee": "Adrià Sastre",
+      "status": "In Progress",
+      "status_category": "In Progress",
+      "assignee": "Aitor Casas",
       "issuetype": "Bug",
       "created": "2026-09-10",
-      "updated": "2026-09-21",
+      "updated": "2026-09-22",
       "resolutiondate": "",
       "labels": [
         "Generalitat-Turisme"
@@ -1246,12 +1405,12 @@
     {
       "key": "PS-6219",
       "summary": "SegurCaixa Adeslas - Nueva campaña parecida a Colectivos",
-      "status": "APPROVED FOR PRODUCTION",
+      "status": "In production",
       "status_category": "Done",
       "assignee": "Marco Gallego Ropero",
       "issuetype": "Task",
       "created": "2026-09-09",
-      "updated": "2026-09-21",
+      "updated": "2026-09-23",
       "resolutiondate": "",
       "labels": [
         "SegurCaixa"
@@ -2861,7 +3020,7 @@
       "assignee": "Pep Alonso",
       "issuetype": "Task",
       "created": "2026-08-14",
-      "updated": "2026-09-07",
+      "updated": "2026-09-22",
       "resolutiondate": "",
       "labels": [
         "Internal"
@@ -2903,7 +3062,7 @@
       "assignee": "Pep Alonso",
       "issuetype": "Task",
       "created": "2026-08-14",
-      "updated": "2026-09-18",
+      "updated": "2026-09-22",
       "resolutiondate": "",
       "labels": [
         "Hubtype",
@@ -14513,13 +14672,13 @@
     },
     {
       "key": "PS-5240",
-      "summary": "Security Audit: guess/unified-flow-builder/aws (2C, 4H)",
+      "summary": "Guess - Update Middleware to new @hubtype/aws packages",
       "status": "To Do",
       "status_category": "To Do",
       "assignee": "Adrià Sastre",
       "issuetype": "Task",
       "created": "2026-03-24",
-      "updated": "2026-09-22",
+      "updated": "2026-09-23",
       "resolutiondate": "",
       "labels": [
         "Internal"
@@ -62316,7 +62475,7 @@
       "assignee": "AI Agent Delivery",
       "issuetype": "Task",
       "created": "2023-11-22",
-      "updated": "2026-09-18",
+      "updated": "2026-09-22",
       "resolutiondate": "",
       "labels": []
     },
