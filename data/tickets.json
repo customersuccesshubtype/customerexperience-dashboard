@@ -1,11 +1,261 @@
 {
-  "last_updated": "2026-09-23 12:32 UTC",
+  "last_updated": "2026-09-24 12:31 UTC",
   "tickets": [
+    {
+      "key": "PS-6341",
+      "summary": "Guess - Reduce webchat-button bundle size",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": null,
+      "issuetype": "Task",
+      "created": "2026-09-24",
+      "updated": "2026-09-24",
+      "resolutiondate": "",
+      "labels": [
+        "Guess"
+      ]
+    },
+    {
+      "key": "PS-6340",
+      "summary": "Bot Template - Reduce webchat-button bundle size",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Adrià Sastre",
+      "issuetype": "Task",
+      "created": "2026-09-24",
+      "updated": "2026-09-24",
+      "resolutiondate": "",
+      "labels": [
+        "Internal"
+      ]
+    },
+    {
+      "key": "PS-6338",
+      "summary": "Tendam - Reduce webchat-button bundle size",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": null,
+      "issuetype": "Task",
+      "created": "2026-09-24",
+      "updated": "2026-09-24",
+      "resolutiondate": "",
+      "labels": [
+        "Tendam"
+      ]
+    },
+    {
+      "key": "PS-6337",
+      "summary": "Occident - Reduce webchat-button bundle size",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": null,
+      "issuetype": "Task",
+      "created": "2026-09-24",
+      "updated": "2026-09-24",
+      "resolutiondate": "",
+      "labels": [
+        "Occident"
+      ]
+    },
+    {
+      "key": "PS-6336",
+      "summary": "Jetsmart - Reduce webchat-button bundle size",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Adrià Sastre",
+      "issuetype": "Task",
+      "created": "2026-09-24",
+      "updated": "2026-09-24",
+      "resolutiondate": "",
+      "labels": [
+        "JetSmart"
+      ]
+    },
+    {
+      "key": "PS-6335",
+      "summary": "Generalitat Turisme - Reduce webchat-button bundle size",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": null,
+      "issuetype": "Task",
+      "created": "2026-09-24",
+      "updated": "2026-09-24",
+      "resolutiondate": "",
+      "labels": [
+        "Generalitat-Turisme"
+      ]
+    },
+    {
+      "key": "PS-6334",
+      "summary": "Retorna - Reduce webchat-button bundle size",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": null,
+      "issuetype": "Task",
+      "created": "2026-09-24",
+      "updated": "2026-09-24",
+      "resolutiondate": "",
+      "labels": [
+        "Retorna"
+      ]
+    },
+    {
+      "key": "PS-6333",
+      "summary": "Wizzair - Reduce webchat-button bundle size",
+      "status": "Ready for review",
+      "status_category": "In Progress",
+      "assignee": "AI Agent Delivery",
+      "issuetype": "Task",
+      "created": "2026-09-24",
+      "updated": "2026-09-24",
+      "resolutiondate": "",
+      "labels": [
+        "WizzAir"
+      ]
+    },
+    {
+      "key": "PS-6332",
+      "summary": "Rag & Bone - Reduce webchat-button bundle size",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": null,
+      "issuetype": "Task",
+      "created": "2026-09-24",
+      "updated": "2026-09-24",
+      "resolutiondate": "",
+      "labels": [
+        "Rag&Bone"
+      ]
+    },
+    {
+      "key": "PS-6331",
+      "summary": "TMB - Reduce webchat-button bundle size",
+      "status": "Ready for review",
+      "status_category": "In Progress",
+      "assignee": "AI Agent Delivery",
+      "issuetype": "Task",
+      "created": "2026-09-24",
+      "updated": "2026-09-24",
+      "resolutiondate": "",
+      "labels": [
+        "TMB"
+      ]
+    },
+    {
+      "key": "PS-6330",
+      "summary": "Air Europa - Reduce webchat-button bundle size",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": null,
+      "issuetype": "Task",
+      "created": "2026-09-24",
+      "updated": "2026-09-24",
+      "resolutiondate": "",
+      "labels": [
+        "AirEuropa"
+      ]
+    },
+    {
+      "key": "PS-6329",
+      "summary": "Alsa - Reduce webchat-button bundle size",
+      "status": "Ready for review",
+      "status_category": "In Progress",
+      "assignee": "AI Agent Delivery",
+      "issuetype": "Task",
+      "created": "2026-09-24",
+      "updated": "2026-09-24",
+      "resolutiondate": "",
+      "labels": [
+        "Alsa"
+      ]
+    },
+    {
+      "key": "PS-6328",
+      "summary": "Michael Kors - Reduce webchat-button bundle size",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": null,
+      "issuetype": "Task",
+      "created": "2026-09-24",
+      "updated": "2026-09-24",
+      "resolutiondate": "",
+      "labels": [
+        "Michael-Kors"
+      ]
+    },
+    {
+      "key": "PS-6327",
+      "summary": "Reduce webchat-button bundle size",
+      "status": "Open",
+      "status_category": "To Do",
+      "assignee": null,
+      "issuetype": "Epic",
+      "created": "2026-09-24",
+      "updated": "2026-09-24",
+      "resolutiondate": "",
+      "labels": []
+    },
+    {
+      "key": "PS-6326",
+      "summary": "Libeen - Posibilidad de enviar una template de recordatorio de cita cuando el usuario no responde",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Adrià Sastre",
+      "issuetype": "Task",
+      "created": "2026-09-24",
+      "updated": "2026-09-24",
+      "resolutiondate": "",
+      "labels": []
+    },
+    {
+      "key": "PS-6325",
+      "summary": "Retorna - Handle userData info coming from webchat",
+      "status": "In Progress",
+      "status_category": "In Progress",
+      "assignee": "Marco Gallego Ropero",
+      "issuetype": "Task",
+      "created": "2026-09-23",
+      "updated": "2026-09-24",
+      "resolutiondate": "",
+      "labels": [
+        "Retorna"
+      ]
+    },
+    {
+      "key": "PS-6324",
+      "summary": "Michael Kors WISMO: analyse order-number drop-off, set up Concentrix handoff alert,",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Marta Marron",
+      "issuetype": "Task",
+      "created": "2026-09-23",
+      "updated": "2026-09-24",
+      "resolutiondate": "",
+      "labels": [
+        "MichaelKors"
+      ]
+    },
+    {
+      "key": "PS-6323",
+      "summary": "Ralph Lauren - September marketing campaign eligibility window",
+      "status": "Done",
+      "status_category": "Done",
+      "assignee": "Pep Alonso",
+      "issuetype": "Task",
+      "created": "2026-09-23",
+      "updated": "2026-09-23",
+      "resolutiondate": "",
+      "labels": [
+        "Ralph-Lauren",
+        "RalphLauren",
+        "Ralph_Lauren"
+      ]
+    },
     {
       "key": "PS-6322",
       "summary": "Michael Kors - Reconnect the \"where is my return\" option (14-day message plus agent handoff) as a priority today.",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "irene callejas",
       "issuetype": "Bug",
       "created": "2026-09-23",
@@ -18,8 +268,8 @@
     {
       "key": "PS-6321",
       "summary": "Ralph Lauren - Configurable tracking params for marketing carousels",
-      "status": "In Progress",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Pep Alonso",
       "issuetype": "Task",
       "created": "2026-09-23",
@@ -50,10 +300,10 @@
       "summary": "RACC - Add new entities when creating AiAlma case (AI Agent)",
       "status": "To Do",
       "status_category": "To Do",
-      "assignee": "Adrià Sastre",
+      "assignee": "AI Agent Delivery",
       "issuetype": "Task",
       "created": "2026-09-23",
-      "updated": "2026-09-23",
+      "updated": "2026-09-24",
       "resolutiondate": "",
       "labels": [
         "RACC"
@@ -152,7 +402,7 @@
       "assignee": "Adrià Sastre",
       "issuetype": "Discovery Task",
       "created": "2026-09-22",
-      "updated": "2026-09-23",
+      "updated": "2026-09-24",
       "resolutiondate": "",
       "labels": [
         "RACC"
@@ -161,12 +411,12 @@
     {
       "key": "PS-6311",
       "summary": "Task  - Verisure Es - Lead Gen - Deploy new bot and call it 'Cerradura'",
-      "status": "Ready to Deliver",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "AI Agent Delivery",
       "issuetype": "Task",
       "created": "2026-09-22",
-      "updated": "2026-09-22",
+      "updated": "2026-09-23",
       "resolutiondate": "",
       "labels": [
         "Verisure_ES"
@@ -247,8 +497,8 @@
     {
       "key": "PS-6305",
       "summary": "Michael Kors - Analizar qué fuentes de conocimiento utiliza el AI Agent.",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Ready for review",
+      "status_category": "In Progress",
       "assignee": "irene callejas",
       "issuetype": "Task",
       "created": "2026-09-21",
@@ -280,7 +530,7 @@
       "assignee": "Adrià Sastre",
       "issuetype": "Task",
       "created": "2026-09-21",
-      "updated": "2026-09-22",
+      "updated": "2026-09-23",
       "resolutiondate": "",
       "labels": [
         "Allianz"
@@ -331,7 +581,7 @@
     {
       "key": "PS-6299",
       "summary": "Air Europa - Flight search webview link broken when AVA redirects to the node",
-      "status": "In production",
+      "status": "Done",
       "status_category": "Done",
       "assignee": "Pep Alonso",
       "issuetype": "Task",
@@ -443,12 +693,12 @@
     {
       "key": "PS-6291",
       "summary": "Tendam - Analizar si se puede tocar flujos para reducir coste Meta",
-      "status": "In Progress",
+      "status": "Waiting for customer",
       "status_category": "In Progress",
       "assignee": "irene callejas",
       "issuetype": "Discovery Task",
       "created": "2026-09-18",
-      "updated": "2026-09-22",
+      "updated": "2026-09-23",
       "resolutiondate": "",
       "labels": [
         "Tendam"
@@ -609,12 +859,12 @@
     {
       "key": "PS-6278",
       "summary": "VGRS - Develop data transfer method (FTP o API), URLs and credentials",
-      "status": "In Progress",
+      "status": "Ready for review",
       "status_category": "In Progress",
       "assignee": "Marco Gallego Ropero",
       "issuetype": "Task",
       "created": "2026-09-17",
-      "updated": "2026-09-23",
+      "updated": "2026-09-24",
       "resolutiondate": "",
       "labels": [
         "VGRS"
@@ -651,7 +901,7 @@
     {
       "key": "PS-6275",
       "summary": "Guess - Update language value sent to Salesforce",
-      "status": "In production",
+      "status": "Done",
       "status_category": "Done",
       "assignee": "Marco Gallego Ropero",
       "issuetype": "Task",
@@ -887,12 +1137,12 @@
     {
       "key": "PS-6257",
       "summary": "Alsa .- Evaluator results analysis",
-      "status": "In Progress",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "irene callejas",
       "issuetype": "Task",
       "created": "2026-09-16",
-      "updated": "2026-09-17",
+      "updated": "2026-09-24",
       "resolutiondate": "",
       "labels": [
         "Alsa"
@@ -1130,7 +1380,7 @@
       "assignee": "Aitor Casas",
       "issuetype": "Epic",
       "created": "2026-09-13",
-      "updated": "2026-09-23",
+      "updated": "2026-09-24",
       "resolutiondate": "",
       "labels": [
         "Tendam"
@@ -1223,7 +1473,7 @@
     {
       "key": "PS-6232",
       "summary": "Crossing World - Add Contact Reasons plugin to staging bot",
-      "status": "In production",
+      "status": "Done",
       "status_category": "Done",
       "assignee": "Marco Gallego Ropero",
       "issuetype": "Task",
@@ -1405,7 +1655,7 @@
     {
       "key": "PS-6219",
       "summary": "SegurCaixa Adeslas - Nueva campaña parecida a Colectivos",
-      "status": "In production",
+      "status": "Done",
       "status_category": "Done",
       "assignee": "Marco Gallego Ropero",
       "issuetype": "Task",
@@ -1667,12 +1917,12 @@
     {
       "key": "PS-6199",
       "summary": "Ralph Lauren - Digital promo codes",
-      "status": "In Review",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-09-07",
-      "updated": "2026-09-18",
+      "updated": "2026-09-23",
       "resolutiondate": "",
       "labels": [
         "Ralph_Lauren"
@@ -2134,7 +2384,7 @@
       "assignee": "AI Agent Delivery",
       "issuetype": "Task",
       "created": "2026-09-02",
-      "updated": "2026-09-22",
+      "updated": "2026-09-24",
       "resolutiondate": "",
       "labels": [
         "SEM"
