@@ -1,6 +1,20 @@
 {
-  "last_updated": "2026-09-25 12:32 UTC",
+  "last_updated": "2026-09-26 12:02 UTC",
   "tickets": [
+    {
+      "key": "PS-6348",
+      "summary": "VGRS - Tool draft to test prompt",
+      "status": "Ready for review",
+      "status_category": "In Progress",
+      "assignee": "AI Agent Delivery",
+      "issuetype": "Task",
+      "created": "2026-09-25",
+      "updated": "2026-09-25",
+      "resolutiondate": "",
+      "labels": [
+        "VGRS"
+      ]
+    },
     {
       "key": "PS-6347",
       "summary": "Libeen - Fine tunning ",
@@ -146,10 +160,10 @@
       "summary": "Jetsmart - Reduce webchat-button bundle size",
       "status": "To Do",
       "status_category": "To Do",
-      "assignee": "Adrià Sastre",
+      "assignee": "Pep Alonso",
       "issuetype": "Task",
       "created": "2026-09-24",
-      "updated": "2026-09-24",
+      "updated": "2026-09-25",
       "resolutiondate": "",
       "labels": [
         "JetSmart"
@@ -258,10 +272,10 @@
       "summary": "Michael Kors - Reduce webchat-button bundle size",
       "status": "To Do",
       "status_category": "To Do",
-      "assignee": null,
+      "assignee": "Adrià Sastre",
       "issuetype": "Task",
       "created": "2026-09-24",
-      "updated": "2026-09-24",
+      "updated": "2026-09-25",
       "resolutiondate": "",
       "labels": [
         "Michael-Kors"
@@ -1251,12 +1265,12 @@
     {
       "key": "PS-6255",
       "summary": "SegurCaixa - Add Contact Reason detector plugin",
-      "status": "To Do",
+      "status": "Waiting for Product",
       "status_category": "To Do",
       "assignee": "Adrià Sastre",
       "issuetype": "Task",
       "created": "2026-09-16",
-      "updated": "2026-09-16",
+      "updated": "2026-09-26",
       "resolutiondate": "",
       "labels": [
         "SegurCaixa"
@@ -1293,12 +1307,12 @@
     {
       "key": "PS-6252",
       "summary": "SegurCaixa Adeslas - Añadir condicional de contact reason para evitar hacer encuesta rating a ciertos casos",
-      "status": "To Do",
+      "status": "Waiting for Product",
       "status_category": "To Do",
       "assignee": "Adrià Sastre",
       "issuetype": "Task",
       "created": "2026-09-15",
-      "updated": "2026-09-21",
+      "updated": "2026-09-26",
       "resolutiondate": "",
       "labels": [
         "SegurCaixa"
@@ -5241,12 +5255,12 @@
     {
       "key": "PS-5963",
       "summary": "Libeen - Ajustar el prompt para pedir email (o teléfono) cuando el usuario no comparta el número, y bloquear la cualificación si no facilita ninguno",
-      "status": "Open",
-      "status_category": "To Do",
+      "status": "Closed",
+      "status_category": "Done",
       "assignee": "irene callejas",
       "issuetype": "Task",
       "created": "2026-07-21",
-      "updated": "2026-08-28",
+      "updated": "2026-09-26",
       "resolutiondate": "",
       "labels": [
         "Libeen"
