@@ -1,13 +1,13 @@
 {
-  "last_updated": "2026-09-26 12:14 UTC",
+  "last_updated": "2026-09-27 13:02 UTC",
   "cases": [
     {
       "id": "500Sa000012UzSbIAK",
       "case_number": "00025371",
       "subject": "Hubtype password reset",
-      "status": "New",
+      "status": "Closed",
       "priority": "Low",
-      "is_closed": false,
+      "is_closed": true,
       "is_escalated": false,
       "owner": "Aitor Casas",
       "account": "",
@@ -18,10 +18,10 @@
       "channel": "Email",
       "is_critical": "L4",
       "escalated_team": "",
-      "resolution_time": "",
+      "resolution_time": "5. >36h",
       "created": "2026-09-25",
-      "closed": "",
-      "last_modified": "2026-09-25"
+      "closed": "2026-09-27",
+      "last_modified": "2026-09-27"
     },
     {
       "id": "500Sa000012QBXhIAO",
