@@ -1,6 +1,34 @@
 {
-  "last_updated": "2026-09-26 12:02 UTC",
+  "last_updated": "2026-09-27 12:43 UTC",
   "tickets": [
+    {
+      "key": "PS-6350",
+      "summary": "Alsa - Flujo Rating que solo salga en Webchat y no en WhatsApp (minimizar costes Meta)",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Aitor Casas",
+      "issuetype": "Task",
+      "created": "2026-09-26",
+      "updated": "2026-09-26",
+      "resolutiondate": "",
+      "labels": [
+        "alsa"
+      ]
+    },
+    {
+      "key": "PS-6349",
+      "summary": "Michael Kors - Juntar dos Nodos para reducir coste Meta",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Aitor Casas",
+      "issuetype": "Task",
+      "created": "2026-09-26",
+      "updated": "2026-09-26",
+      "resolutiondate": "",
+      "labels": [
+        "Michael-Kors"
+      ]
+    },
     {
       "key": "PS-6348",
       "summary": "VGRS - Tool draft to test prompt",
@@ -29086,12 +29114,12 @@
     {
       "key": "PS-4096",
       "summary": "Verisure FR - Coordinar con Juan Sanchez el que se active SSO (lo tienen por contrato)",
-      "status": "Open",
-      "status_category": "To Do",
+      "status": "Closed",
+      "status_category": "Done",
       "assignee": "Marta Marron",
       "issuetype": "Task",
       "created": "2025-06-13",
-      "updated": "2026-06-04",
+      "updated": "2026-09-27",
       "resolutiondate": "",
       "labels": [
         "Verisure-FR"
