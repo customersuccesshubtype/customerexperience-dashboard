@@ -1,6 +1,28 @@
 {
-  "last_updated": "2026-09-28 15:29 UTC",
+  "last_updated": "2026-09-29 14:04 UTC",
   "cases": [
+    {
+      "id": "500Sa000012mZUrIAM",
+      "case_number": "00025376",
+      "subject": "Password Reset Access for Manager Role",
+      "status": "New",
+      "priority": "Low",
+      "is_closed": false,
+      "is_escalated": false,
+      "owner": "Aitor Casas",
+      "account": "",
+      "origin": "Inbound",
+      "type": "",
+      "feeling": "",
+      "issue_type": "",
+      "channel": "Email",
+      "is_critical": "L4",
+      "escalated_team": "",
+      "resolution_time": "",
+      "created": "2026-09-29",
+      "closed": "",
+      "last_modified": "2026-09-29"
+    },
     {
       "id": "500Sa000012dgqeIAA",
       "case_number": "00025375",
@@ -142,18 +164,18 @@
       "is_closed": true,
       "is_escalated": false,
       "owner": "Aitor Casas",
-      "account": "",
+      "account": "JetSMART Airlines",
       "origin": "Inbound",
-      "type": "",
+      "type": "Question",
       "feeling": "",
-      "issue_type": "",
+      "issue_type": "Informes",
       "channel": "Email",
       "is_critical": "L4",
       "escalated_team": "",
       "resolution_time": "5. >36h",
       "created": "2026-09-24",
-      "closed": "2026-09-28",
-      "last_modified": "2026-09-28"
+      "closed": "2026-09-29",
+      "last_modified": "2026-09-29"
     },
     {
       "id": "500Sa000012JdQbIAK",
@@ -197,7 +219,7 @@
       "resolution_time": "",
       "created": "2026-09-24",
       "closed": "",
-      "last_modified": "2026-09-28"
+      "last_modified": "2026-09-29"
     },
     {
       "id": "500Sa000012Hy1JIAS",
@@ -445,9 +467,9 @@
       "id": "500Sa000011vq8rIAA",
       "case_number": "00025351",
       "subject": "INCIDENCIA",
-      "status": "Open",
+      "status": "Closed",
       "priority": "Low",
-      "is_closed": false,
+      "is_closed": true,
       "is_escalated": false,
       "owner": "Aitor Casas",
       "account": "Desguace EcoPiezas",
@@ -458,10 +480,10 @@
       "channel": "Email",
       "is_critical": "L4",
       "escalated_team": "",
-      "resolution_time": "",
+      "resolution_time": "5. >36h",
       "created": "2026-09-21",
-      "closed": "",
-      "last_modified": "2026-09-21"
+      "closed": "2026-09-29",
+      "last_modified": "2026-09-29"
     },
     {
       "id": "500Sa000011mD0OIAU",
@@ -12758,8 +12780,8 @@
       "escalated_team": "",
       "resolution_time": "5. >36h",
       "created": "2026-04-20",
-      "closed": "2026-04-22",
-      "last_modified": "2026-04-22"
+      "closed": "2026-09-29",
+      "last_modified": "2026-09-29"
     },
     {
       "id": "500Sa00000qCIhiIAG",
@@ -44310,15 +44332,15 @@
       "last_modified": "2025-06-09"
     },
     {
-      "id": "500Sa00000VHEUYIA5",
-      "case_number": "00022519",
-      "subject": "Lentitud Hubtype",
+      "id": "500Sa00000VHDyJIAX",
+      "case_number": "00022518",
+      "subject": "Fwd: Lentitud Hubtype",
       "status": "Closed",
       "priority": "Low",
       "is_closed": true,
       "is_escalated": false,
       "owner": "Aitor Casas",
-      "account": "Occident",
+      "account": "Hubtype",
       "origin": "Inbound",
       "type": "",
       "feeling": "",
@@ -44332,15 +44354,15 @@
       "last_modified": "2025-06-09"
     },
     {
-      "id": "500Sa00000VHDyJIAX",
-      "case_number": "00022518",
-      "subject": "Fwd: Lentitud Hubtype",
+      "id": "500Sa00000VHEUYIA5",
+      "case_number": "00022519",
+      "subject": "Lentitud Hubtype",
       "status": "Closed",
       "priority": "Low",
       "is_closed": true,
       "is_escalated": false,
       "owner": "Aitor Casas",
-      "account": "Hubtype",
+      "account": "Occident",
       "origin": "Inbound",
       "type": "",
       "feeling": "",
