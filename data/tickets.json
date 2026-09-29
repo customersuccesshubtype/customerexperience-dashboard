@@ -1,6 +1,144 @@
 {
-  "last_updated": "2026-09-28 14:55 UTC",
+  "last_updated": "2026-09-29 13:42 UTC",
   "tickets": [
+    {
+      "key": "PS-6370",
+      "summary": "Fenie Energia - Battle Test",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "irene callejas",
+      "issuetype": "Task",
+      "created": "2026-09-29",
+      "updated": "2026-09-29",
+      "resolutiondate": "",
+      "labels": [
+        "FenieEnergia"
+      ]
+    },
+    {
+      "key": "PS-6369",
+      "summary": "DABA - NEW WISMO",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": null,
+      "issuetype": "Discovery Task",
+      "created": "2026-09-29",
+      "updated": "2026-09-29",
+      "resolutiondate": "",
+      "labels": [
+        "DABA"
+      ]
+    },
+    {
+      "key": "PS-6368",
+      "summary": "RACC TRAVEL: nuevo feedback ",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "irene callejas",
+      "issuetype": "Task",
+      "created": "2026-09-29",
+      "updated": "2026-09-29",
+      "resolutiondate": "",
+      "labels": [
+        "RACC"
+      ]
+    },
+    {
+      "key": "PS-6367",
+      "summary": "Jetsmart - Update bot to @botonic/@hubtype 0.56 (@hubtype/bot-core 0.56.1)",
+      "status": "In production",
+      "status_category": "Done",
+      "assignee": null,
+      "issuetype": "Task",
+      "created": "2026-09-29",
+      "updated": "2026-09-29",
+      "resolutiondate": "",
+      "labels": []
+    },
+    {
+      "key": "PS-6366",
+      "summary": "Euroriente - Diseñar cómo pasar al agente de IA el contexto de la reserva de cada pasajero",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Pep Alonso",
+      "issuetype": "Task",
+      "created": "2026-09-29",
+      "updated": "2026-09-29",
+      "resolutiondate": "",
+      "labels": [
+        "Euroriente"
+      ]
+    },
+    {
+      "key": "PS-6365",
+      "summary": "Euroriente - Actualizar o crear la WABA con el método de pago de Euroriente",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Aitor Casas",
+      "issuetype": "Task",
+      "created": "2026-09-29",
+      "updated": "2026-09-29",
+      "resolutiondate": "",
+      "labels": [
+        "Euroriente"
+      ]
+    },
+    {
+      "key": "PS-6364",
+      "summary": "Euroriente - Estimar costes de Meta según volumen y audiencia inicial",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Marta Marron",
+      "issuetype": "Task",
+      "created": "2026-09-29",
+      "updated": "2026-09-29",
+      "resolutiondate": "",
+      "labels": [
+        "Euroriente"
+      ]
+    },
+    {
+      "key": "PS-6363",
+      "summary": "TMB - Zendesk Integration - ",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Adrià Sastre",
+      "issuetype": "Task",
+      "created": "2026-09-29",
+      "updated": "2026-09-29",
+      "resolutiondate": "",
+      "labels": [
+        "TMB"
+      ]
+    },
+    {
+      "key": "PS-6362",
+      "summary": "Tendam - Feedback conditional on channel +  feedback flow reduction",
+      "status": "In Progress",
+      "status_category": "In Progress",
+      "assignee": "irene callejas",
+      "issuetype": "Task",
+      "created": "2026-09-28",
+      "updated": "2026-09-29",
+      "resolutiondate": "",
+      "labels": [
+        "Tendam"
+      ]
+    },
+    {
+      "key": "PS-6361",
+      "summary": "Tendam - Despublicar el botón de WhatsApp del snippet de Cortefield",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Marco Gallego Ropero",
+      "issuetype": "Task",
+      "created": "2026-09-28",
+      "updated": "2026-09-29",
+      "resolutiondate": "",
+      "labels": [
+        "Tendam"
+      ]
+    },
     {
       "key": "PS-6360",
       "summary": "Crossing World - ZoePure - Conectar numero de WhatsApp Coexistence",
@@ -60,12 +198,12 @@
     {
       "key": "PS-6356",
       "summary": "Crossing World - Zoe Pure - Desplegar nuevo bot en staging y en producción dentro de la organization_id de Crossing World d098f308-c819-4d53-8af0-851fa9ed2874",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "In production",
+      "status_category": "Done",
       "assignee": "Marco Gallego Ropero",
       "issuetype": "Task",
       "created": "2026-09-28",
-      "updated": "2026-09-28",
+      "updated": "2026-09-29",
       "resolutiondate": "",
       "labels": [
         "Crossing_World"
@@ -95,7 +233,9 @@
       "created": "2026-09-28",
       "updated": "2026-09-28",
       "resolutiondate": "",
-      "labels": []
+      "labels": [
+        "AirEuropa"
+      ]
     },
     {
       "key": "PS-6353",
@@ -175,7 +315,7 @@
       "assignee": "AI Agent Delivery",
       "issuetype": "Task",
       "created": "2026-09-25",
-      "updated": "2026-09-28",
+      "updated": "2026-09-29",
       "resolutiondate": "",
       "labels": [
         "VGRS"
@@ -184,12 +324,12 @@
     {
       "key": "PS-6347",
       "summary": "Libeen - Fine tunning ",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "In Progress",
+      "status_category": "In Progress",
       "assignee": "irene callejas",
       "issuetype": "Task",
       "created": "2026-09-25",
-      "updated": "2026-09-25",
+      "updated": "2026-09-28",
       "resolutiondate": "",
       "labels": [
         "Libeen"
@@ -254,12 +394,12 @@
     {
       "key": "PS-6342",
       "summary": "Michael Kors - Snippet - Console Log Error’",
-      "status": "Ready to Deliver",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "AI Agent Delivery",
       "issuetype": "Bug",
       "created": "2026-09-24",
-      "updated": "2026-09-25",
+      "updated": "2026-09-28",
       "resolutiondate": "",
       "labels": [
         "Michael-Kors"
@@ -268,12 +408,12 @@
     {
       "key": "PS-6341",
       "summary": "Guess - Reduce webchat-button bundle size",
-      "status": "To Do",
-      "status_category": "To Do",
-      "assignee": null,
+      "status": "Ready for review",
+      "status_category": "In Progress",
+      "assignee": "AI Agent Delivery",
       "issuetype": "Task",
       "created": "2026-09-24",
-      "updated": "2026-09-24",
+      "updated": "2026-09-29",
       "resolutiondate": "",
       "labels": [
         "Guess"
@@ -282,12 +422,12 @@
     {
       "key": "PS-6340",
       "summary": "Bot Template - Reduce webchat-button bundle size",
-      "status": "Ready for review",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "AI Agent Delivery",
       "issuetype": "Task",
       "created": "2026-09-24",
-      "updated": "2026-09-24",
+      "updated": "2026-09-28",
       "resolutiondate": "",
       "labels": [
         "Internal"
@@ -324,12 +464,12 @@
     {
       "key": "PS-6336",
       "summary": "Jetsmart - Reduce webchat-button bundle size",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "In production",
+      "status_category": "Done",
       "assignee": "Pep Alonso",
       "issuetype": "Task",
       "created": "2026-09-24",
-      "updated": "2026-09-25",
+      "updated": "2026-09-29",
       "resolutiondate": "",
       "labels": [
         "JetSmart"
@@ -436,7 +576,7 @@
     {
       "key": "PS-6328",
       "summary": "Michael Kors - Reduce webchat-button bundle size",
-      "status": "In production",
+      "status": "Done",
       "status_category": "Done",
       "assignee": "AI Agent Delivery",
       "issuetype": "Task",
@@ -564,12 +704,12 @@
     {
       "key": "PS-6319",
       "summary": "RACC - Add new entities when creating AiAlma case (AI Agent)",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Ready for review",
+      "status_category": "In Progress",
       "assignee": "AI Agent Delivery",
       "issuetype": "Task",
       "created": "2026-09-23",
-      "updated": "2026-09-24",
+      "updated": "2026-09-29",
       "resolutiondate": "",
       "labels": [
         "RACC"
@@ -578,8 +718,8 @@
     {
       "key": "PS-6318",
       "summary": "Ralph Lauren - brand info implementation ",
-      "status": "In Progress",
-      "status_category": "In Progress",
+      "status": "Closed",
+      "status_category": "Done",
       "assignee": "irene callejas",
       "issuetype": "Task",
       "created": "2026-09-23",
@@ -620,12 +760,12 @@
     {
       "key": "PS-6315",
       "summary": "Occident - Create 2 bots (staging and prod) for webchat (app and web)",
-      "status": "To Do",
-      "status_category": "To Do",
-      "assignee": "Adrià Sastre",
+      "status": "In Progress",
+      "status_category": "In Progress",
+      "assignee": "Pep Alonso",
       "issuetype": "Task",
       "created": "2026-09-22",
-      "updated": "2026-09-28",
+      "updated": "2026-09-29",
       "resolutiondate": "",
       "labels": [
         "Occident"
@@ -634,12 +774,12 @@
     {
       "key": "PS-6314",
       "summary": "Internal - Update Bot template to 0.56.0",
-      "status": "Ready for review",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "AI Agent Delivery",
       "issuetype": "Task",
       "created": "2026-09-22",
-      "updated": "2026-09-25",
+      "updated": "2026-09-29",
       "resolutiondate": "",
       "labels": [
         "Internal"
@@ -889,12 +1029,12 @@
     {
       "key": "PS-6296",
       "summary": "RibéSalat - Review ways of identifying users",
-      "status": "Ready for review",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Adrià Sastre",
       "issuetype": "Task",
       "created": "2026-09-21",
-      "updated": "2026-09-28",
+      "updated": "2026-09-29",
       "resolutiondate": "",
       "labels": [
         "RibesSalat"
@@ -1139,12 +1279,12 @@
     {
       "key": "PS-6277",
       "summary": "GUESS - Send \"country\" parameter to Salesforce",
-      "status": "Ready for review",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Marco Gallego Ropero",
       "issuetype": "Task",
       "created": "2026-09-17",
-      "updated": "2026-09-28",
+      "updated": "2026-09-29",
       "resolutiondate": "",
       "labels": [
         "Guess"
@@ -1487,12 +1627,12 @@
     {
       "key": "PS-6251",
       "summary": "DABA - Implement adjustments as per Daba's feedback",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "In Progress",
+      "status_category": "In Progress",
       "assignee": "irene callejas",
       "issuetype": "Task",
       "created": "2026-09-15",
-      "updated": "2026-09-15",
+      "updated": "2026-09-28",
       "resolutiondate": "",
       "labels": [
         "DABA"
@@ -1627,12 +1767,12 @@
     {
       "key": "PS-6240",
       "summary": "Tendam - Women's Secret - Añadir pregunta cuando satisfaccion es baja (y solo hacer si contact reason Tarea = No y no es un discarded)",
-      "status": "In Progress",
-      "status_category": "In Progress",
+      "status": "Waiting for Product",
+      "status_category": "To Do",
       "assignee": "Aitor Casas",
       "issuetype": "Task",
       "created": "2026-09-13",
-      "updated": "2026-09-14",
+      "updated": "2026-09-28",
       "resolutiondate": "",
       "labels": [
         "Tendam"
@@ -1641,7 +1781,7 @@
     {
       "key": "PS-6239",
       "summary": "Tendam - Añadir encuesta de satisfaccion al bot de cada marca",
-      "status": "To Do",
+      "status": "Open",
       "status_category": "To Do",
       "assignee": "Aitor Casas",
       "issuetype": "Epic",
@@ -1669,12 +1809,12 @@
     {
       "key": "PS-6237",
       "summary": "Ralph Lauren - exploring the enablement of a brand filter within product search",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Closed",
+      "status_category": "Done",
       "assignee": "irene callejas",
       "issuetype": "Discovery Task",
       "created": "2026-09-11",
-      "updated": "2026-09-14",
+      "updated": "2026-09-28",
       "resolutiondate": "",
       "labels": [
         "Ralph_Lauren"
@@ -2253,7 +2393,7 @@
     {
       "key": "PS-6194",
       "summary": "RACC - Viaje - Recibir la fecha de vigencia del seguro",
-      "status": "In production",
+      "status": "Done",
       "status_category": "Done",
       "assignee": "Marco Gallego Ropero",
       "issuetype": "Task",
@@ -2547,12 +2687,12 @@
     {
       "key": "PS-6173",
       "summary": "Fenie Energia - Handoff del Agente de Google al flowbuilder",
-      "status": "Ready to Deliver",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Pep Alonso",
       "issuetype": "Task",
       "created": "2026-09-02",
-      "updated": "2026-09-18",
+      "updated": "2026-09-29",
       "resolutiondate": "",
       "labels": [
         "FenieEnergia"
@@ -2650,7 +2790,7 @@
       "assignee": "AI Agent Delivery",
       "issuetype": "Task",
       "created": "2026-09-02",
-      "updated": "2026-09-24",
+      "updated": "2026-09-28",
       "resolutiondate": "",
       "labels": [
         "SEM"
@@ -3293,12 +3433,12 @@
     {
       "key": "PS-6117",
       "summary": "RibéSalat - API Review",
-      "status": "Open",
+      "status": "To Do",
       "status_category": "To Do",
       "assignee": "Marco Gallego Ropero",
       "issuetype": "Discovery Task",
       "created": "2026-08-21",
-      "updated": "2026-09-07",
+      "updated": "2026-09-29",
       "resolutiondate": "",
       "labels": [
         "ribesalat"
@@ -4179,7 +4319,7 @@
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-07-31",
-      "updated": "2026-09-02",
+      "updated": "2026-09-29",
       "resolutiondate": "",
       "labels": [
         "DABA"
@@ -22772,12 +22912,12 @@
     {
       "key": "PS-4638",
       "summary": "Hubtype - Crawl4ai extract page content dynamicaly",
-      "status": "In Progress",
-      "status_category": "In Progress",
+      "status": "Closed",
+      "status_category": "Done",
       "assignee": "Pep Alonso",
       "issuetype": "Task",
       "created": "2025-11-10",
-      "updated": "2026-09-17",
+      "updated": "2026-09-29",
       "resolutiondate": "",
       "labels": [
         "Internal"
