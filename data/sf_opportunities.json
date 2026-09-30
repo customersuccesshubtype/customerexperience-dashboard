@@ -1,6 +1,23 @@
 {
-  "last_updated": "2026-09-29 14:04 UTC",
+  "last_updated": "2026-09-30 13:44 UTC",
   "opportunities": [
+    {
+      "id": "006Sa00000pIsnyIAC",
+      "name": "2026-U- Michael Kors - Provision for Meta Service Messages October 2026",
+      "type": "Upsell",
+      "stage": "Closed Won",
+      "is_closed": true,
+      "is_won": true,
+      "probability": 100.0,
+      "amount": 3938.0,
+      "arr": 0.0,
+      "owner": "Marta Marron",
+      "cs_lead": "Marta Marron",
+      "account": "Michael Kors Group",
+      "created": "2026-09-29",
+      "close_date": "2026-09-29",
+      "start_date": "2026-10-01"
+    },
     {
       "id": "006Sa00000pGwcGIAS",
       "name": "2026-U-Crossing World Group-Spain- New telephone numbers Zoe Pure",
@@ -16,7 +33,7 @@
       "account": "Crossing World Group",
       "created": "2026-09-29",
       "close_date": "2026-09-29",
-      "start_date": "2027-09-15"
+      "start_date": "2026-09-15"
     },
     {
       "id": "006Sa00000pDImXIAW",
@@ -291,23 +308,6 @@
       "start_date": "2026-09-03"
     },
     {
-      "id": "006Sa00000n2KBOIA2",
-      "name": "2026-U-Securitas (Lead Gen)- Extra MAUs August 2026",
-      "type": "Upsell",
-      "stage": "Closed Won",
-      "is_closed": true,
-      "is_won": true,
-      "probability": 100.0,
-      "amount": 775.72,
-      "arr": 0.0,
-      "owner": "Marta Marron",
-      "cs_lead": "",
-      "account": "Verisure Spain Lead Gen",
-      "created": "2026-09-01",
-      "close_date": "2026-09-01",
-      "start_date": "2026-09-01"
-    },
-    {
       "id": "006Sa00000n2tU3IAI",
       "name": "2026-U-Wizz Air-Extra Languages (Georgian, Albanian, Arabic, and Bulgarian)",
       "type": "Upsell",
@@ -323,6 +323,23 @@
       "created": "2026-09-01",
       "close_date": "2026-09-01",
       "start_date": "2026-10-07"
+    },
+    {
+      "id": "006Sa00000n2KBOIA2",
+      "name": "2026-U-Securitas (Lead Gen)- Extra MAUs August 2026",
+      "type": "Upsell",
+      "stage": "Closed Won",
+      "is_closed": true,
+      "is_won": true,
+      "probability": 100.0,
+      "amount": 775.72,
+      "arr": 0.0,
+      "owner": "Marta Marron",
+      "cs_lead": "",
+      "account": "Verisure Spain Lead Gen",
+      "created": "2026-09-01",
+      "close_date": "2026-09-01",
+      "start_date": "2026-09-01"
     },
     {
       "id": "006Sa00000misYxIAI",
@@ -2644,13 +2661,13 @@
       "is_closed": false,
       "is_won": false,
       "probability": 10.0,
-      "amount": 51870.0,
-      "arr": 51870.0,
+      "amount": 76848.0,
+      "arr": 76848.0,
       "owner": "Marta Marron",
       "cs_lead": "Marta Marron",
       "account": "Allianz Partners",
       "created": "2025-11-21",
-      "close_date": "2025-07-24",
+      "close_date": "2027-05-24",
       "start_date": "2026-04-01"
     },
     {
