@@ -1,15 +1,265 @@
 {
-  "last_updated": "2026-09-29 13:42 UTC",
+  "last_updated": "2026-09-30 13:19 UTC",
   "tickets": [
     {
-      "key": "PS-6370",
-      "summary": "Fenie Energia - Battle Test",
+      "key": "PS-6388",
+      "summary": "Air Europa - Limit message for attachments to one per conversation",
+      "status": "Waiting for Product",
+      "status_category": "To Do",
+      "assignee": "Aitor Casas",
+      "issuetype": "Task",
+      "created": "2026-09-30",
+      "updated": "2026-09-30",
+      "resolutiondate": "",
+      "labels": [
+        "AirEuropa"
+      ]
+    },
+    {
+      "key": "PS-6387",
+      "summary": "Netberry - Cofa: Create specific message for \"No colegiados\"",
+      "status": "Done",
+      "status_category": "Done",
+      "assignee": "irene callejas",
+      "issuetype": "Task",
+      "created": "2026-09-30",
+      "updated": "2026-09-30",
+      "resolutiondate": "",
+      "labels": [
+        "NetBerry_COFA"
+      ]
+    },
+    {
+      "key": "PS-6386",
+      "summary": "Netberry - Cofa: build a separate journey for \"no colegiados\"",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Pep Alonso",
+      "issuetype": "Task",
+      "created": "2026-09-30",
+      "updated": "2026-09-30",
+      "resolutiondate": "",
+      "labels": [
+        "NetBerry_COFA"
+      ]
+    },
+    {
+      "key": "PS-6385",
+      "summary": "Netberry - Cofa: Confirm if it's possible to deliver info \"concatenada\" to Zendesk",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Pep Alonso",
+      "issuetype": "Task",
+      "created": "2026-09-30",
+      "updated": "2026-09-30",
+      "resolutiondate": "",
+      "labels": [
+        "NetBerry_COFA"
+      ]
+    },
+    {
+      "key": "PS-6384",
+      "summary": "Netberry - Cofa: Evaluar y facilitar un mecanismo temporal para subir el fichero de colegiados ",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Pep Alonso",
+      "issuetype": "Task",
+      "created": "2026-09-30",
+      "updated": "2026-09-30",
+      "resolutiondate": "",
+      "labels": [
+        "NetBerry_COFA"
+      ]
+    },
+    {
+      "key": "PS-6383",
+      "summary": "Netberry - Cofa - Personalize bot's greeting when the user is a \"Colegiado\"",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Pep Alonso",
+      "issuetype": "Task",
+      "created": "2026-09-30",
+      "updated": "2026-09-30",
+      "resolutiondate": "",
+      "labels": [
+        "NetBerry_COFA"
+      ]
+    },
+    {
+      "key": "PS-6382",
+      "summary": "Ralph Lauren - Update FAQ to new code online (Christian doc provided)",
       "status": "To Do",
       "status_category": "To Do",
       "assignee": "irene callejas",
       "issuetype": "Task",
+      "created": "2026-09-30",
+      "updated": "2026-09-30",
+      "resolutiondate": "",
+      "labels": [
+        "Ralph_Lauren"
+      ]
+    },
+    {
+      "key": "PS-6381",
+      "summary": "Libeen- actualizaciones",
+      "status": "Open",
+      "status_category": "To Do",
+      "assignee": "irene callejas",
+      "issuetype": "Epic",
+      "created": "2026-09-30",
+      "updated": "2026-09-30",
+      "resolutiondate": "",
+      "labels": [
+        "Libeen"
+      ]
+    },
+    {
+      "key": "PS-6380",
+      "summary": "Alsa - Estudiar la integración de Facebook Messenger e Instagram",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": null,
+      "issuetype": "Discovery Task",
+      "created": "2026-09-30",
+      "updated": "2026-09-30",
+      "resolutiondate": "",
+      "labels": [
+        "Alsa"
+      ]
+    },
+    {
+      "key": "PS-6379",
+      "summary": "Soledad - check pedidoComprobarPago doc",
+      "status": "In Progress",
+      "status_category": "In Progress",
+      "assignee": "Lorena Sánchez-Toril Nicolás",
+      "issuetype": "Task",
+      "created": "2026-09-30",
+      "updated": "2026-09-30",
+      "resolutiondate": "",
+      "labels": [
+        "Soledad"
+      ]
+    },
+    {
+      "key": "PS-6378",
+      "summary": "Ralph Lauren- update digital flow copy",
+      "status": "In Review",
+      "status_category": "In Progress",
+      "assignee": "Lorena Sánchez-Toril Nicolás",
+      "issuetype": "Task",
+      "created": "2026-09-30",
+      "updated": "2026-09-30",
+      "resolutiondate": "",
+      "labels": []
+    },
+    {
+      "key": "PS-6377",
+      "summary": "Multi- change callOrigin parameter value",
+      "status": "Ready for review",
+      "status_category": "In Progress",
+      "assignee": "Lorena Sánchez-Toril Nicolás",
+      "issuetype": "Task",
+      "created": "2026-09-30",
+      "updated": "2026-09-30",
+      "resolutiondate": "",
+      "labels": [
+        "Multiasistencia"
+      ]
+    },
+    {
+      "key": "PS-6376",
+      "summary": "Euroriente - Update bot version",
+      "status": "Ready for review",
+      "status_category": "In Progress",
+      "assignee": "Pep Alonso",
+      "issuetype": "Task",
+      "created": "2026-09-30",
+      "updated": "2026-09-30",
+      "resolutiondate": "",
+      "labels": [
+        "Euroriente"
+      ]
+    },
+    {
+      "key": "PS-6375",
+      "summary": "Allianz Partners - Provide document with detailed instructions on how to use API to Lambda",
+      "status": "Ready for review",
+      "status_category": "In Progress",
+      "assignee": "Marta Marron",
+      "issuetype": "Task",
       "created": "2026-09-29",
       "updated": "2026-09-29",
+      "resolutiondate": "",
+      "labels": [
+        "AllianzPartners"
+      ]
+    },
+    {
+      "key": "PS-6374",
+      "summary": "Allianz Partners - crear template meta seguimiento grúa (dentro de WABA Allianz Spain)",
+      "status": "Done",
+      "status_category": "Done",
+      "assignee": "Aitor Casas",
+      "issuetype": "Task",
+      "created": "2026-09-29",
+      "updated": "2026-09-30",
+      "resolutiondate": "",
+      "labels": [
+        "AllianzPartners"
+      ]
+    },
+    {
+      "key": "PS-6373",
+      "summary": "Allianz Partners - Seguimiento Grua (Lambda)",
+      "status": "Open",
+      "status_category": "To Do",
+      "assignee": "Marta Marron",
+      "issuetype": "Epic",
+      "created": "2026-09-29",
+      "updated": "2026-09-29",
+      "resolutiondate": "",
+      "labels": [
+        "AllianzPartners"
+      ]
+    },
+    {
+      "key": "PS-6372",
+      "summary": "RACC – Servicio Eficiencia Energética: createCase falla por certificado caducado y fuerza handoff a Home Experts",
+      "status": "Done",
+      "status_category": "Done",
+      "assignee": "AI Agent Delivery",
+      "issuetype": "Bug",
+      "created": "2026-09-29",
+      "updated": "2026-09-30",
+      "resolutiondate": "",
+      "labels": [
+        "RACC"
+      ]
+    },
+    {
+      "key": "PS-6371",
+      "summary": "Ralph Lauren: digital offer flow copy to staging (by EOD 30/09)",
+      "status": "Done",
+      "status_category": "Done",
+      "assignee": "Lorena Sánchez-Toril Nicolás",
+      "issuetype": "Task",
+      "created": "2026-09-29",
+      "updated": "2026-09-30",
+      "resolutiondate": "",
+      "labels": [
+        "RalphLauren"
+      ]
+    },
+    {
+      "key": "PS-6370",
+      "summary": "Fenie Energia - Battle Test",
+      "status": "Done",
+      "status_category": "Done",
+      "assignee": "irene callejas",
+      "issuetype": "Task",
+      "created": "2026-09-29",
+      "updated": "2026-09-30",
       "resolutiondate": "",
       "labels": [
         "FenieEnergia"
@@ -20,10 +270,10 @@
       "summary": "DABA - NEW WISMO",
       "status": "To Do",
       "status_category": "To Do",
-      "assignee": null,
-      "issuetype": "Discovery Task",
+      "assignee": "Andrea Talal Haidar",
+      "issuetype": "Task",
       "created": "2026-09-29",
-      "updated": "2026-09-29",
+      "updated": "2026-09-30",
       "resolutiondate": "",
       "labels": [
         "DABA"
@@ -46,24 +296,26 @@
     {
       "key": "PS-6367",
       "summary": "Jetsmart - Update bot to @botonic/@hubtype 0.56 (@hubtype/bot-core 0.56.1)",
-      "status": "In production",
+      "status": "Done",
       "status_category": "Done",
-      "assignee": null,
-      "issuetype": "Task",
-      "created": "2026-09-29",
-      "updated": "2026-09-29",
-      "resolutiondate": "",
-      "labels": []
-    },
-    {
-      "key": "PS-6366",
-      "summary": "Euroriente - Diseñar cómo pasar al agente de IA el contexto de la reserva de cada pasajero",
-      "status": "To Do",
-      "status_category": "To Do",
       "assignee": "Pep Alonso",
       "issuetype": "Task",
       "created": "2026-09-29",
       "updated": "2026-09-29",
+      "resolutiondate": "",
+      "labels": [
+        "Jetsmart"
+      ]
+    },
+    {
+      "key": "PS-6366",
+      "summary": "Euroriente - Diseñar cómo pasar al agente de IA el contexto de la reserva de cada pasajero",
+      "status": "Ready for review",
+      "status_category": "In Progress",
+      "assignee": "Pep Alonso",
+      "issuetype": "Task",
+      "created": "2026-09-29",
+      "updated": "2026-09-30",
       "resolutiondate": "",
       "labels": [
         "Euroriente"
@@ -72,12 +324,12 @@
     {
       "key": "PS-6365",
       "summary": "Euroriente - Actualizar o crear la WABA con el método de pago de Euroriente",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "In Progress",
+      "status_category": "In Progress",
       "assignee": "Aitor Casas",
       "issuetype": "Task",
       "created": "2026-09-29",
-      "updated": "2026-09-29",
+      "updated": "2026-09-30",
       "resolutiondate": "",
       "labels": [
         "Euroriente"
@@ -128,12 +380,12 @@
     {
       "key": "PS-6361",
       "summary": "Tendam - Despublicar el botón de WhatsApp del snippet de Cortefield",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Ready for review",
+      "status_category": "In Progress",
       "assignee": "Marco Gallego Ropero",
       "issuetype": "Task",
       "created": "2026-09-28",
-      "updated": "2026-09-29",
+      "updated": "2026-09-30",
       "resolutiondate": "",
       "labels": [
         "Tendam"
@@ -144,10 +396,10 @@
       "summary": "Crossing World - ZoePure - Conectar numero de WhatsApp Coexistence",
       "status": "To Do",
       "status_category": "To Do",
-      "assignee": null,
+      "assignee": "Aitor Casas",
       "issuetype": "Task",
       "created": "2026-09-28",
-      "updated": "2026-09-28",
+      "updated": "2026-09-30",
       "resolutiondate": "",
       "labels": [
         "Crossing_World"
@@ -156,12 +408,12 @@
     {
       "key": "PS-6359",
       "summary": "Crossing World ZoePure - Crear flows en flowbuilder staging and prod",
-      "status": "To Do",
-      "status_category": "To Do",
-      "assignee": null,
+      "status": "Ready for review",
+      "status_category": "In Progress",
+      "assignee": "Marta Marron",
       "issuetype": "Task",
       "created": "2026-09-28",
-      "updated": "2026-09-28",
+      "updated": "2026-09-30",
       "resolutiondate": "",
       "labels": [
         "Crossing_World"
@@ -170,12 +422,12 @@
     {
       "key": "PS-6358",
       "summary": "Crossing World Zoepure - Crear templates Meta",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "In Progress",
+      "status_category": "In Progress",
       "assignee": "Aitor Casas",
       "issuetype": "Task",
       "created": "2026-09-28",
-      "updated": "2026-09-28",
+      "updated": "2026-09-30",
       "resolutiondate": "",
       "labels": [
         "Crossing_World"
@@ -184,12 +436,12 @@
     {
       "key": "PS-6357",
       "summary": "Crossing World - Zoe Pure - Conectar nuevo numero de WhatsApp al bot de produccion",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Aitor Casas",
       "issuetype": "Task",
       "created": "2026-09-28",
-      "updated": "2026-09-28",
+      "updated": "2026-09-30",
       "resolutiondate": "",
       "labels": [
         "Crossing_World"
@@ -198,7 +450,7 @@
     {
       "key": "PS-6356",
       "summary": "Crossing World - Zoe Pure - Desplegar nuevo bot en staging y en producción dentro de la organization_id de Crossing World d098f308-c819-4d53-8af0-851fa9ed2874",
-      "status": "In production",
+      "status": "Done",
       "status_category": "Done",
       "assignee": "Marco Gallego Ropero",
       "issuetype": "Task",
@@ -315,7 +567,7 @@
       "assignee": "AI Agent Delivery",
       "issuetype": "Task",
       "created": "2026-09-25",
-      "updated": "2026-09-29",
+      "updated": "2026-09-30",
       "resolutiondate": "",
       "labels": [
         "VGRS"
@@ -408,12 +660,12 @@
     {
       "key": "PS-6341",
       "summary": "Guess - Reduce webchat-button bundle size",
-      "status": "Ready for review",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "AI Agent Delivery",
       "issuetype": "Task",
       "created": "2026-09-24",
-      "updated": "2026-09-29",
+      "updated": "2026-09-30",
       "resolutiondate": "",
       "labels": [
         "Guess"
@@ -464,7 +716,7 @@
     {
       "key": "PS-6336",
       "summary": "Jetsmart - Reduce webchat-button bundle size",
-      "status": "In production",
+      "status": "Done",
       "status_category": "Done",
       "assignee": "Pep Alonso",
       "issuetype": "Task",
@@ -520,12 +772,12 @@
     {
       "key": "PS-6332",
       "summary": "Rag & Bone - Reduce webchat-button bundle size",
-      "status": "In Review",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "AI Agent Delivery",
       "issuetype": "Task",
       "created": "2026-09-24",
-      "updated": "2026-09-28",
+      "updated": "2026-09-30",
       "resolutiondate": "",
       "labels": [
         "Rag&Bone"
@@ -732,12 +984,12 @@
     {
       "key": "PS-6317",
       "summary": "GUESS - Prompt Optimization and 5.6 Luna",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "irene callejas",
       "issuetype": "Task",
       "created": "2026-09-23",
-      "updated": "2026-09-28",
+      "updated": "2026-09-30",
       "resolutiondate": "",
       "labels": [
         "Guess"
@@ -760,12 +1012,12 @@
     {
       "key": "PS-6315",
       "summary": "Occident - Create 2 bots (staging and prod) for webchat (app and web)",
-      "status": "In Progress",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Pep Alonso",
       "issuetype": "Task",
       "created": "2026-09-22",
-      "updated": "2026-09-29",
+      "updated": "2026-09-30",
       "resolutiondate": "",
       "labels": [
         "Occident"
@@ -1223,12 +1475,12 @@
     {
       "key": "PS-6281",
       "summary": "Consum - Update to lattest botonic version",
-      "status": "APPROVED FOR PRODUCTION",
+      "status": "Done",
       "status_category": "Done",
       "assignee": "AI Agent Delivery",
       "issuetype": "Task",
       "created": "2026-09-17",
-      "updated": "2026-09-28",
+      "updated": "2026-09-29",
       "resolutiondate": "",
       "labels": [
         "Consum"
@@ -1253,10 +1505,10 @@
       "summary": "Air Europa - Develop: Interpret \"Hubtype Action\" and trigger complex use case Flight Search with values coming in the API call or complete deeplink Refex",
       "status": "To Do",
       "status_category": "To Do",
-      "assignee": "Adrià Sastre",
+      "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-09-17",
-      "updated": "2026-09-22",
+      "updated": "2026-09-30",
       "resolutiondate": "",
       "labels": [
         "AirEuropa"
@@ -1697,12 +1949,12 @@
     {
       "key": "PS-6245",
       "summary": "Tendam - Crear 3 snippets de webchat (staging y producción) para Hoss Intropia, Slowlove y Dash & Stars",
-      "status": "Ready to Deliver",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Adrià Sastre",
       "issuetype": "Task",
       "created": "2026-09-14",
-      "updated": "2026-09-22",
+      "updated": "2026-09-30",
       "resolutiondate": "",
       "labels": [
         "Tendam"
@@ -1725,12 +1977,12 @@
     {
       "key": "PS-6243",
       "summary": "Soledad - integración WISMO ",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "In Progress",
+      "status_category": "In Progress",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-09-14",
-      "updated": "2026-09-14",
+      "updated": "2026-09-30",
       "resolutiondate": "",
       "labels": [
         "Soledad"
@@ -2047,12 +2299,12 @@
     {
       "key": "PS-6220",
       "summary": "Concentra - Implement URL button clicks tracking in tinybird",
-      "status": "Done",
-      "status_category": "Done",
+      "status": "To Do",
+      "status_category": "To Do",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-09-09",
-      "updated": "2026-09-14",
+      "updated": "2026-09-30",
       "resolutiondate": "",
       "labels": [
         "Concentra"
@@ -2799,12 +3051,12 @@
     {
       "key": "PS-6165",
       "summary": "Allianz Partners - Analizar API para mostrar el status de la grua",
-      "status": "Ready for review",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Adrià Sastre",
       "issuetype": "Discovery Task",
       "created": "2026-09-02",
-      "updated": "2026-09-10",
+      "updated": "2026-09-29",
       "resolutiondate": "",
       "labels": [
         "AllianzPartners"
@@ -4272,12 +4524,12 @@
     {
       "key": "PS-6055",
       "summary": "Fenie Energia - AI Agent Project 1st Phase Launch",
-      "status": "Open",
-      "status_category": "To Do",
+      "status": "In Progress",
+      "status_category": "In Progress",
       "assignee": "Francisca Martelli",
       "issuetype": "Epic",
       "created": "2026-07-31",
-      "updated": "2026-08-05",
+      "updated": "2026-09-29",
       "resolutiondate": "",
       "labels": [
         "FenieEnergia"
@@ -7029,12 +7281,12 @@
     {
       "key": "PS-5858",
       "summary": "Soledad - Allow \"Tarjeta\" & \"Bizum\" as new payment options",
-      "status": "In Review",
+      "status": "Ready to Deliver",
       "status_category": "In Progress",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-07-08",
-      "updated": "2026-08-12",
+      "updated": "2026-09-30",
       "resolutiondate": "",
       "labels": [
         "Soledad"
