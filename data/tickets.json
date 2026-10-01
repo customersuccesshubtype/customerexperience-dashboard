@@ -1,6 +1,188 @@
 {
-  "last_updated": "2026-09-30 13:19 UTC",
+  "last_updated": "2026-10-01 14:09 UTC",
   "tickets": [
+    {
+      "key": "PS-6401",
+      "summary": "Bot Template - Remove the do-nothing route",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": null,
+      "issuetype": "Task",
+      "created": "2026-10-01",
+      "updated": "2026-10-01",
+      "resolutiondate": "",
+      "labels": [
+        "Internal"
+      ]
+    },
+    {
+      "key": "PS-6400",
+      "summary": "Bot-core: Remove do-nothing entries",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": null,
+      "issuetype": "Task",
+      "created": "2026-10-01",
+      "updated": "2026-10-01",
+      "resolutiondate": "",
+      "labels": [
+        "Internal"
+      ]
+    },
+    {
+      "key": "PS-6399",
+      "summary": "Internal - Improve/automate the deploy to production Slack message script",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": null,
+      "issuetype": "Task",
+      "created": "2026-10-01",
+      "updated": "2026-10-01",
+      "resolutiondate": "",
+      "labels": [
+        "Internal"
+      ]
+    },
+    {
+      "key": "PS-6398",
+      "summary": "Ralph Lauren - update digital T&C's",
+      "status": "In Progress",
+      "status_category": "In Progress",
+      "assignee": "Lorena Sánchez-Toril Nicolás",
+      "issuetype": "Task",
+      "created": "2026-10-01",
+      "updated": "2026-10-01",
+      "resolutiondate": "",
+      "labels": [
+        "Ralph_Lauren"
+      ]
+    },
+    {
+      "key": "PS-6397",
+      "summary": "Ralph Lauren - Click-to-WhatsApp ads summary for RL paid acquisition session (21 Oct)",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Marta Marron",
+      "issuetype": "Task",
+      "created": "2026-10-01",
+      "updated": "2026-10-01",
+      "resolutiondate": "",
+      "labels": [
+        "RalphLauren"
+      ]
+    },
+    {
+      "key": "PS-6396",
+      "summary": "Ralph Lauren - updates",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Lorena Sánchez-Toril Nicolás",
+      "issuetype": "Task",
+      "created": "2026-10-01",
+      "updated": "2026-10-01",
+      "resolutiondate": "",
+      "labels": [
+        "Ralph_Lauren"
+      ]
+    },
+    {
+      "key": "PS-6395",
+      "summary": "Ralph Lauren - Save RL Digital Promo Code as a Contact Field",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Lorena Sánchez-Toril Nicolás",
+      "issuetype": "Task",
+      "created": "2026-10-01",
+      "updated": "2026-10-01",
+      "resolutiondate": "",
+      "labels": [
+        "Ralph-Lauren",
+        "RalphLauren",
+        "Ralph_Lauren"
+      ]
+    },
+    {
+      "key": "PS-6394",
+      "summary": "Libeen - Change reasoning effort of luna",
+      "status": "In Progress",
+      "status_category": "In Progress",
+      "assignee": "AI Agent Delivery",
+      "issuetype": "Task",
+      "created": "2026-10-01",
+      "updated": "2026-10-01",
+      "resolutiondate": "",
+      "labels": [
+        "Libeen"
+      ]
+    },
+    {
+      "key": "PS-6393",
+      "summary": "TENDAM: Node Simplification ",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": null,
+      "issuetype": "Task",
+      "created": "2026-10-01",
+      "updated": "2026-10-01",
+      "resolutiondate": "",
+      "labels": []
+    },
+    {
+      "key": "PS-6392",
+      "summary": "Libeen - deploy changes to tools ",
+      "status": "In Progress",
+      "status_category": "In Progress",
+      "assignee": "AI Agent Delivery",
+      "issuetype": "Task",
+      "created": "2026-10-01",
+      "updated": "2026-10-01",
+      "resolutiondate": "",
+      "labels": [
+        "Libeen"
+      ]
+    },
+    {
+      "key": "PS-6391",
+      "summary": "Euroriente - Desplegar Agente IA en staging para dar respuesta a las preguntas del cliente",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "irene callejas",
+      "issuetype": "Task",
+      "created": "2026-09-30",
+      "updated": "2026-09-30",
+      "resolutiondate": "",
+      "labels": [
+        "Euroriente"
+      ]
+    },
+    {
+      "key": "PS-6390",
+      "summary": "Allianz Partners - Enviar token de acceso a API send messages de Allianz Spain a Paulino Ruano (lambda)",
+      "status": "Done",
+      "status_category": "Done",
+      "assignee": "Aitor Casas",
+      "issuetype": "Task",
+      "created": "2026-09-30",
+      "updated": "2026-10-01",
+      "resolutiondate": "",
+      "labels": [
+        "AllianzPartners"
+      ]
+    },
+    {
+      "key": "PS-6389",
+      "summary": "Jetsmart - Move API fails for checked-in passengers (LiftStatusNotDefault)",
+      "status": "Done",
+      "status_category": "Done",
+      "assignee": "Pep Alonso",
+      "issuetype": "Task",
+      "created": "2026-09-30",
+      "updated": "2026-09-30",
+      "resolutiondate": "",
+      "labels": [
+        "JetSmart"
+      ]
+    },
     {
       "key": "PS-6388",
       "summary": "Air Europa - Limit message for attachments to one per conversation",
@@ -88,8 +270,8 @@
     {
       "key": "PS-6382",
       "summary": "Ralph Lauren - Update FAQ to new code online (Christian doc provided)",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "irene callejas",
       "issuetype": "Task",
       "created": "2026-09-30",
@@ -130,8 +312,8 @@
     {
       "key": "PS-6379",
       "summary": "Soledad - check pedidoComprobarPago doc",
-      "status": "In Progress",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-09-30",
@@ -144,18 +326,20 @@
     {
       "key": "PS-6378",
       "summary": "Ralph Lauren- update digital flow copy",
-      "status": "In Review",
+      "status": "Ready to Deliver",
       "status_category": "In Progress",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-09-30",
-      "updated": "2026-09-30",
+      "updated": "2026-10-01",
       "resolutiondate": "",
-      "labels": []
+      "labels": [
+        "Ralph_Lauren"
+      ]
     },
     {
       "key": "PS-6377",
-      "summary": "Multi- change callOrigin parameter value",
+      "summary": "Multiasistencia- change callOrigin parameter value",
       "status": "Ready for review",
       "status_category": "In Progress",
       "assignee": "Lorena Sánchez-Toril Nicolás",
@@ -184,12 +368,12 @@
     {
       "key": "PS-6375",
       "summary": "Allianz Partners - Provide document with detailed instructions on how to use API to Lambda",
-      "status": "Ready for review",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Marta Marron",
       "issuetype": "Task",
       "created": "2026-09-29",
-      "updated": "2026-09-29",
+      "updated": "2026-09-30",
       "resolutiondate": "",
       "labels": [
         "AllianzPartners"
@@ -212,12 +396,12 @@
     {
       "key": "PS-6373",
       "summary": "Allianz Partners - Seguimiento Grua (Lambda)",
-      "status": "Open",
-      "status_category": "To Do",
+      "status": "In Progress",
+      "status_category": "In Progress",
       "assignee": "Marta Marron",
       "issuetype": "Epic",
       "created": "2026-09-29",
-      "updated": "2026-09-29",
+      "updated": "2026-09-30",
       "resolutiondate": "",
       "labels": [
         "AllianzPartners"
@@ -282,12 +466,12 @@
     {
       "key": "PS-6368",
       "summary": "RACC TRAVEL: nuevo feedback ",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Ready for review",
+      "status_category": "In Progress",
       "assignee": "irene callejas",
       "issuetype": "Task",
       "created": "2026-09-29",
-      "updated": "2026-09-29",
+      "updated": "2026-09-30",
       "resolutiondate": "",
       "labels": [
         "RACC"
@@ -338,12 +522,12 @@
     {
       "key": "PS-6364",
       "summary": "Euroriente - Estimar costes de Meta según volumen y audiencia inicial",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Marta Marron",
       "issuetype": "Task",
       "created": "2026-09-29",
-      "updated": "2026-09-29",
+      "updated": "2026-09-30",
       "resolutiondate": "",
       "labels": [
         "Euroriente"
@@ -352,12 +536,12 @@
     {
       "key": "PS-6363",
       "summary": "TMB - Zendesk Integration - ",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "In Progress",
+      "status_category": "In Progress",
       "assignee": "Adrià Sastre",
       "issuetype": "Task",
       "created": "2026-09-29",
-      "updated": "2026-09-29",
+      "updated": "2026-10-01",
       "resolutiondate": "",
       "labels": [
         "TMB"
@@ -366,12 +550,12 @@
     {
       "key": "PS-6362",
       "summary": "Tendam - Feedback conditional on channel +  feedback flow reduction",
-      "status": "In Progress",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "irene callejas",
       "issuetype": "Task",
       "created": "2026-09-28",
-      "updated": "2026-09-29",
+      "updated": "2026-09-30",
       "resolutiondate": "",
       "labels": [
         "Tendam"
@@ -380,12 +564,12 @@
     {
       "key": "PS-6361",
       "summary": "Tendam - Despublicar el botón de WhatsApp del snippet de Cortefield",
-      "status": "Ready for review",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Marco Gallego Ropero",
       "issuetype": "Task",
       "created": "2026-09-28",
-      "updated": "2026-09-30",
+      "updated": "2026-10-01",
       "resolutiondate": "",
       "labels": [
         "Tendam"
@@ -464,12 +648,12 @@
     {
       "key": "PS-6355",
       "summary": "Crossing World - Bot Zoepure",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "In Progress",
+      "status_category": "In Progress",
       "assignee": "Marta Marron",
       "issuetype": "Epic",
       "created": "2026-09-28",
-      "updated": "2026-09-28",
+      "updated": "2026-09-30",
       "resolutiondate": "",
       "labels": [
         "Crossing_World"
@@ -868,12 +1052,12 @@
     {
       "key": "PS-6325",
       "summary": "Retorna - Handle userData info coming from webchat",
-      "status": "Ready for review",
-      "status_category": "In Progress",
+      "status": "In production",
+      "status_category": "Done",
       "assignee": "Marco Gallego Ropero",
       "issuetype": "Task",
       "created": "2026-09-23",
-      "updated": "2026-09-28",
+      "updated": "2026-10-01",
       "resolutiondate": "",
       "labels": [
         "Retorna"
@@ -1351,12 +1535,12 @@
     {
       "key": "PS-6291",
       "summary": "Tendam - Analizar si se puede tocar flujos para reducir coste Meta",
-      "status": "Waiting for customer",
+      "status": "In Progress",
       "status_category": "In Progress",
       "assignee": "irene callejas",
       "issuetype": "Discovery Task",
       "created": "2026-09-18",
-      "updated": "2026-09-23",
+      "updated": "2026-10-01",
       "resolutiondate": "",
       "labels": [
         "Tendam"
@@ -1407,12 +1591,12 @@
     {
       "key": "PS-6287",
       "summary": "Ralph Lauren - two step promo code",
-      "status": "In Review",
+      "status": "Ready to Deliver",
       "status_category": "In Progress",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-09-18",
-      "updated": "2026-09-18",
+      "updated": "2026-10-01",
       "resolutiondate": "",
       "labels": [
         "Ralph_Lauren"
@@ -1977,12 +2161,12 @@
     {
       "key": "PS-6243",
       "summary": "Soledad - integración WISMO ",
-      "status": "In Progress",
+      "status": "Ready for review",
       "status_category": "In Progress",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-09-14",
-      "updated": "2026-09-30",
+      "updated": "2026-10-01",
       "resolutiondate": "",
       "labels": [
         "Soledad"
@@ -2299,12 +2483,12 @@
     {
       "key": "PS-6220",
       "summary": "Concentra - Implement URL button clicks tracking in tinybird",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "APPROVED FOR PRODUCTION",
+      "status_category": "Done",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-09-09",
-      "updated": "2026-09-30",
+      "updated": "2026-10-01",
       "resolutiondate": "",
       "labels": [
         "Concentra"
@@ -2832,7 +3016,7 @@
       "assignee": "AI Agent Delivery",
       "issuetype": "Task",
       "created": "2026-09-03",
-      "updated": "2026-09-03",
+      "updated": "2026-10-01",
       "resolutiondate": "",
       "labels": [
         "Internal"
@@ -3289,12 +3473,12 @@
     {
       "key": "PS-6146",
       "summary": "Allianz OSN - Update bot to latest version",
-      "status": "In Progress",
+      "status": "Ready for review",
       "status_category": "In Progress",
       "assignee": "Marco Gallego Ropero",
       "issuetype": "Task",
       "created": "2026-08-27",
-      "updated": "2026-09-28",
+      "updated": "2026-10-01",
       "resolutiondate": "",
       "labels": [
         "Allianz-OSN"
@@ -3463,12 +3647,12 @@
     {
       "key": "PS-6133",
       "summary": "easyJET - Decommissioning",
-      "status": "In Progress",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Marta Marron",
       "issuetype": "Epic",
       "created": "2026-08-26",
-      "updated": "2026-09-14",
+      "updated": "2026-09-30",
       "resolutiondate": "",
       "labels": [
         "easyjet"
@@ -3690,7 +3874,7 @@
       "assignee": "Marco Gallego Ropero",
       "issuetype": "Discovery Task",
       "created": "2026-08-21",
-      "updated": "2026-09-29",
+      "updated": "2026-10-01",
       "resolutiondate": "",
       "labels": [
         "ribesalat"
@@ -7281,12 +7465,12 @@
     {
       "key": "PS-5858",
       "summary": "Soledad - Allow \"Tarjeta\" & \"Bizum\" as new payment options",
-      "status": "Ready to Deliver",
-      "status_category": "In Progress",
+      "status": "In production",
+      "status_category": "Done",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-07-08",
-      "updated": "2026-09-30",
+      "updated": "2026-10-01",
       "resolutiondate": "",
       "labels": [
         "Soledad"
