@@ -1,6 +1,23 @@
 {
-  "last_updated": "2026-10-01 14:28 UTC",
+  "last_updated": "2026-10-02 13:52 UTC",
   "opportunities": [
+    {
+      "id": "006Sa00000pZxxdIAC",
+      "name": "2026-U-Consum-Upgrade to 30K MAUs",
+      "type": "Upsell",
+      "stage": "Closed Won",
+      "is_closed": true,
+      "is_won": true,
+      "probability": 100.0,
+      "amount": 2550.0,
+      "arr": 6120.0,
+      "owner": "Marta Marron",
+      "cs_lead": "Marta Marron",
+      "account": "Consum",
+      "created": "2026-10-02",
+      "close_date": "2026-10-02",
+      "start_date": "2026-09-01"
+    },
     {
       "id": "006Sa00000pTj9GIAS",
       "name": "2026-U-Verisure FR-Extra MAUs August & September 2026",
@@ -359,23 +376,6 @@
       "start_date": "2026-09-03"
     },
     {
-      "id": "006Sa00000n2KBOIA2",
-      "name": "2026-U-Securitas (Lead Gen)- Extra MAUs August 2026",
-      "type": "Upsell",
-      "stage": "Closed Won",
-      "is_closed": true,
-      "is_won": true,
-      "probability": 100.0,
-      "amount": 775.72,
-      "arr": 0.0,
-      "owner": "Marta Marron",
-      "cs_lead": "",
-      "account": "Verisure Spain Lead Gen",
-      "created": "2026-09-01",
-      "close_date": "2026-09-01",
-      "start_date": "2026-09-01"
-    },
-    {
       "id": "006Sa00000n2tU3IAI",
       "name": "2026-U-Wizz Air-Extra Languages (Georgian, Albanian, Arabic, and Bulgarian)",
       "type": "Upsell",
@@ -391,6 +391,23 @@
       "created": "2026-09-01",
       "close_date": "2026-09-01",
       "start_date": "2026-10-07"
+    },
+    {
+      "id": "006Sa00000n2KBOIA2",
+      "name": "2026-U-Securitas (Lead Gen)- Extra MAUs August 2026",
+      "type": "Upsell",
+      "stage": "Closed Won",
+      "is_closed": true,
+      "is_won": true,
+      "probability": 100.0,
+      "amount": 775.72,
+      "arr": 0.0,
+      "owner": "Marta Marron",
+      "cs_lead": "",
+      "account": "Verisure Spain Lead Gen",
+      "created": "2026-09-01",
+      "close_date": "2026-09-01",
+      "start_date": "2026-09-01"
     },
     {
       "id": "006Sa00000misYxIAI",
@@ -496,20 +513,20 @@
     },
     {
       "id": "006Sa00000lEVXFIA4",
-      "name": "2026-U-Retorna-Chile-Extra MAUs July 2026",
+      "name": "2026-U-Retorna-Chile-Extra MAUs July + September 2026",
       "type": "Upsell",
       "stage": "Opportunity identified",
       "is_closed": false,
       "is_won": false,
       "probability": 10.0,
-      "amount": 133.76,
+      "amount": 900.64,
       "arr": 0.0,
       "owner": "Marta Marron",
       "cs_lead": "Francisca Martelli",
       "account": "Retorna",
       "created": "2026-08-01",
-      "close_date": "2026-08-01",
-      "start_date": "2026-08-01"
+      "close_date": "2026-10-01",
+      "start_date": "2026-10-01"
     },
     {
       "id": "006Sa00000lEcQXIA0",
@@ -2045,18 +2062,18 @@
       "id": "006Sa00000ZtPRUIA3",
       "name": "2026-JETSMART-Airlines-Chile-Extra Maus",
       "type": "Upsell",
-      "stage": "Procurement",
-      "is_closed": false,
-      "is_won": false,
-      "probability": 70.0,
-      "amount": 30865.3,
+      "stage": "Closed Won",
+      "is_closed": true,
+      "is_won": true,
+      "probability": 100.0,
+      "amount": 33913.6,
       "arr": 0.0,
       "owner": "Julieta Mezza",
       "cs_lead": "Julieta Mezza",
       "account": "JetSMART Airlines",
       "created": "2026-02-03",
-      "close_date": "2026-03-10",
-      "start_date": "2026-02-10"
+      "close_date": "2026-10-02",
+      "start_date": "2026-10-02"
     },
     {
       "id": "006Sa00000ZrRE2IAN",
