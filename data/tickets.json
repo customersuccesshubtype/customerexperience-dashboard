@@ -1,15 +1,87 @@
 {
-  "last_updated": "2026-10-01 14:09 UTC",
+  "last_updated": "2026-10-02 13:32 UTC",
   "tickets": [
+    {
+      "key": "PS-6406",
+      "summary": "Soledad - updates wismo",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Lorena Sánchez-Toril Nicolás",
+      "issuetype": "Task",
+      "created": "2026-10-02",
+      "updated": "2026-10-02",
+      "resolutiondate": "",
+      "labels": [
+        "Soledad"
+      ]
+    },
+    {
+      "key": "PS-6405",
+      "summary": "Ralph Lauren - update T&C's Landlord & instore",
+      "status": "In Review",
+      "status_category": "In Progress",
+      "assignee": "Lorena Sánchez-Toril Nicolás",
+      "issuetype": "Task",
+      "created": "2026-10-02",
+      "updated": "2026-10-02",
+      "resolutiondate": "",
+      "labels": [
+        "Ralph_Lauren"
+      ]
+    },
+    {
+      "key": "PS-6404",
+      "summary": "Jetsmart - Block users with liftStatus 2 or 3 before entering rebooking",
+      "status": "In production",
+      "status_category": "Done",
+      "assignee": "AI Agent Delivery",
+      "issuetype": "Task",
+      "created": "2026-10-02",
+      "updated": "2026-10-02",
+      "resolutiondate": "",
+      "labels": [
+        "JetSMART",
+        "JetSmart",
+        "Jetsmart"
+      ]
+    },
+    {
+      "key": "PS-6403",
+      "summary": "Ralph Lauren – Zeta (ZMP) WhatsApp opt-in/opt-out integration: build & test",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Lorena Sánchez-Toril Nicolás",
+      "issuetype": "Task",
+      "created": "2026-10-01",
+      "updated": "2026-10-02",
+      "resolutiondate": "",
+      "labels": [
+        "RalphLauren"
+      ]
+    },
+    {
+      "key": "PS-6402",
+      "summary": "NODE SIMPLIFICATION",
+      "status": "Ready for review",
+      "status_category": "In Progress",
+      "assignee": "Vicky Correbo",
+      "issuetype": "Discovery Task",
+      "created": "2026-10-01",
+      "updated": "2026-10-02",
+      "resolutiondate": "",
+      "labels": [
+        "Tendam"
+      ]
+    },
     {
       "key": "PS-6401",
       "summary": "Bot Template - Remove the do-nothing route",
-      "status": "To Do",
-      "status_category": "To Do",
-      "assignee": null,
+      "status": "Ready for review",
+      "status_category": "In Progress",
+      "assignee": "Marco Gallego Ropero",
       "issuetype": "Task",
       "created": "2026-10-01",
-      "updated": "2026-10-01",
+      "updated": "2026-10-02",
       "resolutiondate": "",
       "labels": [
         "Internal"
@@ -18,12 +90,12 @@
     {
       "key": "PS-6400",
       "summary": "Bot-core: Remove do-nothing entries",
-      "status": "To Do",
-      "status_category": "To Do",
-      "assignee": null,
+      "status": "Ready for review",
+      "status_category": "In Progress",
+      "assignee": "Marco Gallego Ropero",
       "issuetype": "Task",
       "created": "2026-10-01",
-      "updated": "2026-10-01",
+      "updated": "2026-10-02",
       "resolutiondate": "",
       "labels": [
         "Internal"
@@ -46,12 +118,12 @@
     {
       "key": "PS-6398",
       "summary": "Ralph Lauren - update digital T&C's",
-      "status": "In Progress",
-      "status_category": "In Progress",
+      "status": "In production",
+      "status_category": "Done",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-10-01",
-      "updated": "2026-10-01",
+      "updated": "2026-10-02",
       "resolutiondate": "",
       "labels": [
         "Ralph_Lauren"
@@ -74,12 +146,12 @@
     {
       "key": "PS-6396",
       "summary": "Ralph Lauren - updates",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-10-01",
-      "updated": "2026-10-01",
+      "updated": "2026-10-02",
       "resolutiondate": "",
       "labels": [
         "Ralph_Lauren"
@@ -88,12 +160,12 @@
     {
       "key": "PS-6395",
       "summary": "Ralph Lauren - Save RL Digital Promo Code as a Contact Field",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-10-01",
-      "updated": "2026-10-01",
+      "updated": "2026-10-02",
       "resolutiondate": "",
       "labels": [
         "Ralph-Lauren",
@@ -125,7 +197,9 @@
       "created": "2026-10-01",
       "updated": "2026-10-01",
       "resolutiondate": "",
-      "labels": []
+      "labels": [
+        "Tendam"
+      ]
     },
     {
       "key": "PS-6392",
@@ -144,12 +218,12 @@
     {
       "key": "PS-6391",
       "summary": "Euroriente - Desplegar Agente IA en staging para dar respuesta a las preguntas del cliente",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "In Progress",
+      "status_category": "In Progress",
       "assignee": "irene callejas",
       "issuetype": "Task",
       "created": "2026-09-30",
-      "updated": "2026-09-30",
+      "updated": "2026-10-02",
       "resolutiondate": "",
       "labels": [
         "Euroriente"
@@ -228,12 +302,12 @@
     {
       "key": "PS-6385",
       "summary": "Netberry - Cofa: Confirm if it's possible to deliver info \"concatenada\" to Zendesk",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Ready for review",
+      "status_category": "In Progress",
       "assignee": "Pep Alonso",
       "issuetype": "Task",
       "created": "2026-09-30",
-      "updated": "2026-09-30",
+      "updated": "2026-10-01",
       "resolutiondate": "",
       "labels": [
         "NetBerry_COFA"
@@ -242,12 +316,12 @@
     {
       "key": "PS-6384",
       "summary": "Netberry - Cofa: Evaluar y facilitar un mecanismo temporal para subir el fichero de colegiados ",
-      "status": "To Do",
-      "status_category": "To Do",
-      "assignee": "Pep Alonso",
+      "status": "Ready for review",
+      "status_category": "In Progress",
+      "assignee": "AI Agent Delivery",
       "issuetype": "Task",
       "created": "2026-09-30",
-      "updated": "2026-09-30",
+      "updated": "2026-10-02",
       "resolutiondate": "",
       "labels": [
         "NetBerry_COFA"
@@ -256,12 +330,12 @@
     {
       "key": "PS-6383",
       "summary": "Netberry - Cofa - Personalize bot's greeting when the user is a \"Colegiado\"",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Ready for review",
+      "status_category": "In Progress",
       "assignee": "Pep Alonso",
       "issuetype": "Task",
       "created": "2026-09-30",
-      "updated": "2026-09-30",
+      "updated": "2026-10-01",
       "resolutiondate": "",
       "labels": [
         "NetBerry_COFA"
@@ -284,12 +358,12 @@
     {
       "key": "PS-6381",
       "summary": "Libeen- actualizaciones",
-      "status": "Open",
-      "status_category": "To Do",
+      "status": "In Progress",
+      "status_category": "In Progress",
       "assignee": "irene callejas",
       "issuetype": "Epic",
       "created": "2026-09-30",
-      "updated": "2026-09-30",
+      "updated": "2026-10-02",
       "resolutiondate": "",
       "labels": [
         "Libeen"
@@ -326,12 +400,12 @@
     {
       "key": "PS-6378",
       "summary": "Ralph Lauren- update digital flow copy",
-      "status": "Ready to Deliver",
-      "status_category": "In Progress",
+      "status": "In production",
+      "status_category": "Done",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-09-30",
-      "updated": "2026-10-01",
+      "updated": "2026-10-02",
       "resolutiondate": "",
       "labels": [
         "Ralph_Lauren"
@@ -984,12 +1058,12 @@
     {
       "key": "PS-6330",
       "summary": "Air Europa - Reduce webchat-button bundle size",
-      "status": "Ready for review",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "AI Agent Delivery",
       "issuetype": "Task",
       "created": "2026-09-24",
-      "updated": "2026-09-28",
+      "updated": "2026-10-02",
       "resolutiondate": "",
       "labels": [
         "AirEuropa"
@@ -1052,12 +1126,12 @@
     {
       "key": "PS-6325",
       "summary": "Retorna - Handle userData info coming from webchat",
-      "status": "In production",
+      "status": "Done",
       "status_category": "Done",
       "assignee": "Marco Gallego Ropero",
       "issuetype": "Task",
       "created": "2026-09-23",
-      "updated": "2026-10-01",
+      "updated": "2026-10-02",
       "resolutiondate": "",
       "labels": [
         "Retorna"
@@ -1451,12 +1525,12 @@
     {
       "key": "PS-6297",
       "summary": "Retorna - Create a new \"Support Code\" Contact Info Field",
-      "status": "Ready for review",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Marco Gallego Ropero",
       "issuetype": "Task",
       "created": "2026-09-21",
-      "updated": "2026-09-22",
+      "updated": "2026-10-02",
       "resolutiondate": "",
       "labels": [
         "Retorna"
@@ -1591,12 +1665,12 @@
     {
       "key": "PS-6287",
       "summary": "Ralph Lauren - two step promo code",
-      "status": "Ready to Deliver",
-      "status_category": "In Progress",
+      "status": "In production",
+      "status_category": "Done",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-09-18",
-      "updated": "2026-10-01",
+      "updated": "2026-10-02",
       "resolutiondate": "",
       "labels": [
         "Ralph_Lauren"
@@ -2623,12 +2697,12 @@
     {
       "key": "PS-6210",
       "summary": "Ralph Lauren - Bicester store set up instore flow. ",
-      "status": "Ready to Deliver",
-      "status_category": "In Progress",
+      "status": "In production",
+      "status_category": "Done",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-09-09",
-      "updated": "2026-09-18",
+      "updated": "2026-10-02",
       "resolutiondate": "",
       "labels": [
         "Ralph_Lauren"
@@ -3869,12 +3943,12 @@
     {
       "key": "PS-6117",
       "summary": "RibéSalat - API Review",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "In Progress",
+      "status_category": "In Progress",
       "assignee": "Marco Gallego Ropero",
       "issuetype": "Discovery Task",
       "created": "2026-08-21",
-      "updated": "2026-10-01",
+      "updated": "2026-10-02",
       "resolutiondate": "",
       "labels": [
         "ribesalat"
@@ -3897,12 +3971,12 @@
     {
       "key": "PS-6115",
       "summary": "Ralph Lauren - internal. FlowToken as contentid",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Closed",
+      "status_category": "Done",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-08-20",
-      "updated": "2026-08-20",
+      "updated": "2026-10-02",
       "resolutiondate": "",
       "labels": [
         "Ralph_Lauren"
@@ -5983,12 +6057,12 @@
     {
       "key": "PS-5964",
       "summary": "Ralph Lauren- reset without deleting conv",
-      "status": "In Progress",
-      "status_category": "In Progress",
+      "status": "Closed",
+      "status_category": "Done",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-07-21",
-      "updated": "2026-09-14",
+      "updated": "2026-10-02",
       "resolutiondate": "",
       "labels": [
         "Ralph_Lauren"
@@ -7465,12 +7539,12 @@
     {
       "key": "PS-5858",
       "summary": "Soledad - Allow \"Tarjeta\" & \"Bizum\" as new payment options",
-      "status": "In production",
+      "status": "Done",
       "status_category": "Done",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-07-08",
-      "updated": "2026-10-01",
+      "updated": "2026-10-02",
       "resolutiondate": "",
       "labels": [
         "Soledad"
