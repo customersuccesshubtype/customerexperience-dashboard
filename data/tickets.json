@@ -1,6 +1,35 @@
 {
-  "last_updated": "2026-10-02 13:32 UTC",
+  "last_updated": "2026-10-03 12:12 UTC",
   "tickets": [
+    {
+      "key": "PS-6408",
+      "summary": "Fenie Energia - Update atencion-cliente bot to 0.56.0",
+      "status": "Ready for review",
+      "status_category": "In Progress",
+      "assignee": "Pep Alonso",
+      "issuetype": "Task",
+      "created": "2026-10-02",
+      "updated": "2026-10-02",
+      "resolutiondate": "",
+      "labels": [
+        "FenieEnergia",
+        "Fenie_Energia"
+      ]
+    },
+    {
+      "key": "PS-6407",
+      "summary": "Tendam - Analizar cuántos clientes de WhatsApp tienen email y qué supone pedirlo",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Aitor Casas",
+      "issuetype": "Task",
+      "created": "2026-10-02",
+      "updated": "2026-10-02",
+      "resolutiondate": "",
+      "labels": [
+        "Tendam"
+      ]
+    },
     {
       "key": "PS-6406",
       "summary": "Soledad - updates wismo",
@@ -218,7 +247,7 @@
     {
       "key": "PS-6391",
       "summary": "Euroriente - Desplegar Agente IA en staging para dar respuesta a las preguntas del cliente",
-      "status": "In Progress",
+      "status": "Ready for review",
       "status_category": "In Progress",
       "assignee": "irene callejas",
       "issuetype": "Task",
@@ -834,12 +863,12 @@
     {
       "key": "PS-6347",
       "summary": "Libeen - Fine tunning ",
-      "status": "In Progress",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "irene callejas",
       "issuetype": "Task",
       "created": "2026-09-25",
-      "updated": "2026-09-28",
+      "updated": "2026-10-02",
       "resolutiondate": "",
       "labels": [
         "Libeen"
@@ -2137,12 +2166,12 @@
     {
       "key": "PS-6251",
       "summary": "DABA - Implement adjustments as per Daba's feedback",
-      "status": "In Progress",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "irene callejas",
       "issuetype": "Task",
       "created": "2026-09-15",
-      "updated": "2026-09-28",
+      "updated": "2026-10-02",
       "resolutiondate": "",
       "labels": [
         "DABA"
@@ -2193,12 +2222,12 @@
     {
       "key": "PS-6246",
       "summary": "DABA - Security Audit & Battle Test",
-      "status": "In Progress",
-      "status_category": "In Progress",
+      "status": "To Do",
+      "status_category": "To Do",
       "assignee": "irene callejas",
       "issuetype": "Task",
       "created": "2026-09-14",
-      "updated": "2026-09-14",
+      "updated": "2026-10-02",
       "resolutiondate": "",
       "labels": [
         "DABA"
