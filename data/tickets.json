@@ -1,6 +1,20 @@
 {
-  "last_updated": "2026-10-03 12:12 UTC",
+  "last_updated": "2026-10-04 13:01 UTC",
   "tickets": [
+    {
+      "key": "PS-6409",
+      "summary": "Michael Kors: cambiar la tipificación de las plantillas en Portugués y Deutsch a Utility",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Aitor Casas",
+      "issuetype": "Task",
+      "created": "2026-10-04",
+      "updated": "2026-10-04",
+      "resolutiondate": "",
+      "labels": [
+        "MichaelKors"
+      ]
+    },
     {
       "key": "PS-6408",
       "summary": "Fenie Energia - Update atencion-cliente bot to 0.56.0",
