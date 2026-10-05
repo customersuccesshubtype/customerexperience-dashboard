@@ -1,15 +1,181 @@
 {
-  "last_updated": "2026-10-04 13:01 UTC",
+  "last_updated": "2026-10-05 15:32 UTC",
   "tickets": [
+    {
+      "key": "PS-6423",
+      "summary": "Concentra - Trigger template sent to 50% of leads",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Lorena Sánchez-Toril Nicolás",
+      "issuetype": "Task",
+      "created": "2026-10-05",
+      "updated": "2026-10-05",
+      "resolutiondate": "",
+      "labels": [
+        "Concentra"
+      ]
+    },
+    {
+      "key": "PS-6422",
+      "summary": "Libeen: monitorizar conversaciones en producción (17:45)",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "irene callejas",
+      "issuetype": "Task",
+      "created": "2026-10-05",
+      "updated": "2026-10-05",
+      "resolutiondate": "",
+      "labels": [
+        "Libeen"
+      ]
+    },
+    {
+      "key": "PS-6421",
+      "summary": "Libeen: monitorizar conversaciones en producción (+2h, 15:45)",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "irene callejas",
+      "issuetype": "Task",
+      "created": "2026-10-05",
+      "updated": "2026-10-05",
+      "resolutiondate": "",
+      "labels": [
+        "Libeen"
+      ]
+    },
+    {
+      "key": "PS-6420",
+      "summary": "RALPH LAUREN - Report ghost handoff button and quarter zip search fix (Thursday weekly)",
+      "status": "Ready for review",
+      "status_category": "In Progress",
+      "assignee": "irene callejas",
+      "issuetype": "Task",
+      "created": "2026-10-05",
+      "updated": "2026-10-05",
+      "resolutiondate": "",
+      "labels": [
+        "Ralph_Lauren"
+      ]
+    },
+    {
+      "key": "PS-6419",
+      "summary": "RALPH LAUREN - Sale period agent: adopt new sale query policy (live until 20 Oct)",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "irene callejas",
+      "issuetype": "Task",
+      "created": "2026-10-05",
+      "updated": "2026-10-05",
+      "resolutiondate": "",
+      "labels": [
+        "Ralph_Lauren"
+      ]
+    },
+    {
+      "key": "PS-6418",
+      "summary": "Grupo Soledad - Review pedidoComprobarPago API and estimate effort",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Lorena Sánchez-Toril Nicolás",
+      "issuetype": "Discovery Task",
+      "created": "2026-10-05",
+      "updated": "2026-10-05",
+      "resolutiondate": "",
+      "labels": []
+    },
+    {
+      "key": "PS-6417",
+      "summary": "RACC - Viaje - Proceder a borrar el teléfono del usuario",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Adrià Sastre",
+      "issuetype": "Task",
+      "created": "2026-10-05",
+      "updated": "2026-10-05",
+      "resolutiondate": "",
+      "labels": [
+        "RACC"
+      ]
+    },
+    {
+      "key": "PS-6416",
+      "summary": "MICHAEL KORS - Fix tax question",
+      "status": "Ready for review",
+      "status_category": "In Progress",
+      "assignee": "irene callejas",
+      "issuetype": "Task",
+      "created": "2026-10-05",
+      "updated": "2026-10-05",
+      "resolutiondate": "",
+      "labels": [
+        "Michael-Kors"
+      ]
+    },
+    {
+      "key": "PS-6415",
+      "summary": "Tendam - Marcas con Simpl - reducir mensajes en handoff para reducir costes Meta",
+      "status": "In production",
+      "status_category": "Done",
+      "assignee": "Aitor Casas",
+      "issuetype": "Task",
+      "created": "2026-10-05",
+      "updated": "2026-10-05",
+      "resolutiondate": "",
+      "labels": [
+        "Tendam"
+      ]
+    },
+    {
+      "key": "PS-6414",
+      "summary": "Soledad - include pedidoComprobarPago",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Lorena Sánchez-Toril Nicolás",
+      "issuetype": "Task",
+      "created": "2026-10-05",
+      "updated": "2026-10-05",
+      "resolutiondate": "",
+      "labels": [
+        "Soledad"
+      ]
+    },
+    {
+      "key": "PS-6413",
+      "summary": "VGRS - Send JSON file with information to their SFTP",
+      "status": "In Progress",
+      "status_category": "In Progress",
+      "assignee": "Marco Gallego Ropero",
+      "issuetype": "Task",
+      "created": "2026-10-05",
+      "updated": "2026-10-05",
+      "resolutiondate": "",
+      "labels": [
+        "VGRS"
+      ]
+    },
+    {
+      "key": "PS-6410",
+      "summary": "Allianz Spain - Assess effort for scooter insurance form (formulario seguro de patinetes)",
+      "status": "Done",
+      "status_category": "Done",
+      "assignee": "Marta Marron",
+      "issuetype": "Discovery Task",
+      "created": "2026-10-04",
+      "updated": "2026-10-05",
+      "resolutiondate": "",
+      "labels": [
+        "Allianz-ES"
+      ]
+    },
     {
       "key": "PS-6409",
       "summary": "Michael Kors: cambiar la tipificación de las plantillas en Portugués y Deutsch a Utility",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Aitor Casas",
       "issuetype": "Task",
       "created": "2026-10-04",
-      "updated": "2026-10-04",
+      "updated": "2026-10-05",
       "resolutiondate": "",
       "labels": [
         "MichaelKors"
@@ -52,7 +218,7 @@
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-10-02",
-      "updated": "2026-10-02",
+      "updated": "2026-10-05",
       "resolutiondate": "",
       "labels": [
         "Soledad"
@@ -75,12 +241,12 @@
     {
       "key": "PS-6404",
       "summary": "Jetsmart - Block users with liftStatus 2 or 3 before entering rebooking",
-      "status": "In production",
+      "status": "Done",
       "status_category": "Done",
       "assignee": "AI Agent Delivery",
       "issuetype": "Task",
       "created": "2026-10-02",
-      "updated": "2026-10-02",
+      "updated": "2026-10-04",
       "resolutiondate": "",
       "labels": [
         "JetSMART",
@@ -105,12 +271,12 @@
     {
       "key": "PS-6402",
       "summary": "NODE SIMPLIFICATION",
-      "status": "Ready for review",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Vicky Correbo",
       "issuetype": "Discovery Task",
       "created": "2026-10-01",
-      "updated": "2026-10-02",
+      "updated": "2026-10-05",
       "resolutiondate": "",
       "labels": [
         "Tendam"
@@ -119,12 +285,12 @@
     {
       "key": "PS-6401",
       "summary": "Bot Template - Remove the do-nothing route",
-      "status": "Ready for review",
+      "status": "Ready to Deliver",
       "status_category": "In Progress",
       "assignee": "Marco Gallego Ropero",
       "issuetype": "Task",
       "created": "2026-10-01",
-      "updated": "2026-10-02",
+      "updated": "2026-10-05",
       "resolutiondate": "",
       "labels": [
         "Internal"
@@ -161,12 +327,12 @@
     {
       "key": "PS-6398",
       "summary": "Ralph Lauren - update digital T&C's",
-      "status": "In production",
+      "status": "Done",
       "status_category": "Done",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-10-01",
-      "updated": "2026-10-02",
+      "updated": "2026-10-04",
       "resolutiondate": "",
       "labels": [
         "Ralph_Lauren"
@@ -233,12 +399,12 @@
     {
       "key": "PS-6393",
       "summary": "TENDAM: Node Simplification ",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Closed",
+      "status_category": "Done",
       "assignee": null,
       "issuetype": "Task",
       "created": "2026-10-01",
-      "updated": "2026-10-01",
+      "updated": "2026-10-05",
       "resolutiondate": "",
       "labels": [
         "Tendam"
@@ -331,12 +497,12 @@
     {
       "key": "PS-6386",
       "summary": "Netberry - Cofa: build a separate journey for \"no colegiados\"",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Pep Alonso",
       "issuetype": "Task",
       "created": "2026-09-30",
-      "updated": "2026-09-30",
+      "updated": "2026-10-05",
       "resolutiondate": "",
       "labels": [
         "NetBerry_COFA"
@@ -345,12 +511,12 @@
     {
       "key": "PS-6385",
       "summary": "Netberry - Cofa: Confirm if it's possible to deliver info \"concatenada\" to Zendesk",
-      "status": "Ready for review",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Pep Alonso",
       "issuetype": "Task",
       "created": "2026-09-30",
-      "updated": "2026-10-01",
+      "updated": "2026-10-05",
       "resolutiondate": "",
       "labels": [
         "NetBerry_COFA"
@@ -359,12 +525,12 @@
     {
       "key": "PS-6384",
       "summary": "Netberry - Cofa: Evaluar y facilitar un mecanismo temporal para subir el fichero de colegiados ",
-      "status": "Ready for review",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "AI Agent Delivery",
       "issuetype": "Task",
       "created": "2026-09-30",
-      "updated": "2026-10-02",
+      "updated": "2026-10-05",
       "resolutiondate": "",
       "labels": [
         "NetBerry_COFA"
@@ -373,12 +539,12 @@
     {
       "key": "PS-6383",
       "summary": "Netberry - Cofa - Personalize bot's greeting when the user is a \"Colegiado\"",
-      "status": "Ready for review",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Pep Alonso",
       "issuetype": "Task",
       "created": "2026-09-30",
-      "updated": "2026-10-01",
+      "updated": "2026-10-05",
       "resolutiondate": "",
       "labels": [
         "NetBerry_COFA"
@@ -401,12 +567,12 @@
     {
       "key": "PS-6381",
       "summary": "Libeen- actualizaciones",
-      "status": "In Progress",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "irene callejas",
       "issuetype": "Epic",
       "created": "2026-09-30",
-      "updated": "2026-10-02",
+      "updated": "2026-10-05",
       "resolutiondate": "",
       "labels": [
         "Libeen"
@@ -443,12 +609,12 @@
     {
       "key": "PS-6378",
       "summary": "Ralph Lauren- update digital flow copy",
-      "status": "In production",
+      "status": "Done",
       "status_category": "Done",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-09-30",
-      "updated": "2026-10-02",
+      "updated": "2026-10-04",
       "resolutiondate": "",
       "labels": [
         "Ralph_Lauren"
@@ -793,12 +959,12 @@
     {
       "key": "PS-6353",
       "summary": "Netberry - COFA - Test BOT",
-      "status": "In Progress",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Julieta Mezza",
       "issuetype": "Task",
       "created": "2026-09-28",
-      "updated": "2026-09-28",
+      "updated": "2026-10-05",
       "resolutiondate": "",
       "labels": [
         "NetBerry_COFA"
@@ -863,12 +1029,12 @@
     {
       "key": "PS-6348",
       "summary": "VGRS - Tool draft to test prompt",
-      "status": "In Progress",
+      "status": "Ready for review",
       "status_category": "In Progress",
       "assignee": "AI Agent Delivery",
       "issuetype": "Task",
       "created": "2026-09-25",
-      "updated": "2026-09-30",
+      "updated": "2026-10-05",
       "resolutiondate": "",
       "labels": [
         "VGRS"
@@ -1183,12 +1349,12 @@
     {
       "key": "PS-6324",
       "summary": "Michael Kors WISMO: analyse order-number drop-off, set up Concentrix handoff alert,",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "In Progress",
+      "status_category": "In Progress",
       "assignee": "Marta Marron",
       "issuetype": "Task",
       "created": "2026-09-23",
-      "updated": "2026-09-24",
+      "updated": "2026-10-05",
       "resolutiondate": "",
       "labels": [
         "MichaelKors"
@@ -1356,12 +1522,12 @@
     {
       "key": "PS-6312",
       "summary": "RACC - Assistència en viatge - Eliminar los teléfonos de los usuarios al cabo de cierto tiempo (ej 15 días)",
-      "status": "Ready for review",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Adrià Sastre",
       "issuetype": "Discovery Task",
       "created": "2026-09-22",
-      "updated": "2026-09-28",
+      "updated": "2026-10-05",
       "resolutiondate": "",
       "labels": [
         "RACC"
@@ -1412,12 +1578,12 @@
     {
       "key": "PS-6308",
       "summary": "Ralph Lauren - Include the \"Bicester\" store in the \"Onboarding - Digital (offer)\" flow",
-      "status": "Ready for review",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Pep Alonso",
       "issuetype": "Task",
       "created": "2026-09-22",
-      "updated": "2026-09-22",
+      "updated": "2026-10-05",
       "resolutiondate": "",
       "labels": [
         "Ralph-Lauren",
@@ -1428,12 +1594,12 @@
     {
       "key": "PS-6307",
       "summary": "Ralph Lauren - Adjustment requested on onboarding flow",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Closed",
+      "status_category": "Done",
       "assignee": "Pep Alonso",
       "issuetype": "Task",
       "created": "2026-09-22",
-      "updated": "2026-09-22",
+      "updated": "2026-10-05",
       "resolutiondate": "",
       "labels": [
         "Ralph_Lauren"
@@ -1455,13 +1621,13 @@
     },
     {
       "key": "PS-6305",
-      "summary": "Michael Kors - Analizar qué fuentes de conocimiento utiliza el AI Agent.",
-      "status": "Ready for review",
+      "summary": "Michael Kors - Analizar qué fuentes de conocimiento utiliza el AI Agent.--> Y EVALUATOR",
+      "status": "In Progress",
       "status_category": "In Progress",
       "assignee": "irene callejas",
       "issuetype": "Task",
       "created": "2026-09-21",
-      "updated": "2026-09-23",
+      "updated": "2026-10-05",
       "resolutiondate": "",
       "labels": [
         "Michael-Kors"
@@ -1470,12 +1636,12 @@
     {
       "key": "PS-6304",
       "summary": "Netberry - COFA - Validate that clients are part of the Association",
-      "status": "Ready for review",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Pep Alonso",
       "issuetype": "Task",
       "created": "2026-09-21",
-      "updated": "2026-09-28",
+      "updated": "2026-10-05",
       "resolutiondate": "",
       "labels": [
         "NetBerry_COFA"
@@ -1526,12 +1692,12 @@
     {
       "key": "PS-6300",
       "summary": "VGRS - Not show rating for discarded cases",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Closed",
+      "status_category": "Done",
       "assignee": "Adrià Sastre",
       "issuetype": "Task",
       "created": "2026-09-21",
-      "updated": "2026-09-28",
+      "updated": "2026-10-05",
       "resolutiondate": "",
       "labels": [
         "VGRS"
@@ -1652,12 +1818,12 @@
     {
       "key": "PS-6291",
       "summary": "Tendam - Analizar si se puede tocar flujos para reducir coste Meta",
-      "status": "In Progress",
+      "status": "Ready for review",
       "status_category": "In Progress",
       "assignee": "irene callejas",
       "issuetype": "Discovery Task",
       "created": "2026-09-18",
-      "updated": "2026-10-01",
+      "updated": "2026-10-05",
       "resolutiondate": "",
       "labels": [
         "Tendam"
@@ -1708,12 +1874,12 @@
     {
       "key": "PS-6287",
       "summary": "Ralph Lauren - two step promo code",
-      "status": "In production",
+      "status": "Done",
       "status_category": "Done",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-09-18",
-      "updated": "2026-10-02",
+      "updated": "2026-10-04",
       "resolutiondate": "",
       "labels": [
         "Ralph_Lauren"
@@ -1804,12 +1970,12 @@
     {
       "key": "PS-6279",
       "summary": "Air Europa - Develop: Interpret \"Hubtype Action\" and trigger complex use case Flight Search with values coming in the API call or complete deeplink Refex",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Ready for review",
+      "status_category": "In Progress",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-09-17",
-      "updated": "2026-09-30",
+      "updated": "2026-10-05",
       "resolutiondate": "",
       "labels": [
         "AirEuropa"
@@ -1956,12 +2122,12 @@
     {
       "key": "PS-6267",
       "summary": "Ralph Lauren - contact info field bicester",
-      "status": "Ready for review",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Pep Alonso",
       "issuetype": "Task",
       "created": "2026-09-16",
-      "updated": "2026-09-22",
+      "updated": "2026-10-05",
       "resolutiondate": "",
       "labels": [
         "Ralph_Lauren"
@@ -2390,12 +2556,12 @@
     {
       "key": "PS-6235",
       "summary": "COFA - NETBERRY: bateria de pruebas",
-      "status": "Ready for review",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "irene callejas",
       "issuetype": "Task",
       "created": "2026-09-10",
-      "updated": "2026-09-22",
+      "updated": "2026-10-05",
       "resolutiondate": "",
       "labels": [
         "NetBerry_COFA"
@@ -2586,12 +2752,12 @@
     {
       "key": "PS-6221",
       "summary": "VGRS - Flow design per campaign Audi y WV",
-      "status": "In Progress",
-      "status_category": "In Progress",
+      "status": "Closed",
+      "status_category": "Done",
       "assignee": "Julieta Mezza",
       "issuetype": "Task",
       "created": "2026-09-09",
-      "updated": "2026-09-28",
+      "updated": "2026-10-05",
       "resolutiondate": "",
       "labels": [
         "VGRS"
@@ -2740,12 +2906,12 @@
     {
       "key": "PS-6210",
       "summary": "Ralph Lauren - Bicester store set up instore flow. ",
-      "status": "In production",
+      "status": "Done",
       "status_category": "Done",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-09-09",
-      "updated": "2026-10-02",
+      "updated": "2026-10-04",
       "resolutiondate": "",
       "labels": [
         "Ralph_Lauren"
@@ -3862,12 +4028,12 @@
     {
       "key": "PS-6126",
       "summary": "Netberry - COFA - Update Zendesk Provider Account in Staging to use OAuth instead of Token",
-      "status": "Ready for review",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Pep Alonso",
       "issuetype": "Task",
       "created": "2026-08-25",
-      "updated": "2026-09-14",
+      "updated": "2026-10-05",
       "resolutiondate": "",
       "labels": [
         "NetBerry_COFA"
@@ -3876,12 +4042,12 @@
     {
       "key": "PS-6125",
       "summary": "Netberry - COFA - Update AWS Zendesk credentials to use OAuth",
-      "status": "Ready for review",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Pep Alonso",
       "issuetype": "Task",
       "created": "2026-08-25",
-      "updated": "2026-09-10",
+      "updated": "2026-10-05",
       "resolutiondate": "",
       "labels": [
         "NetBerry_COFA"
@@ -4070,12 +4236,12 @@
     {
       "key": "PS-6111",
       "summary": "NetBerry - COFA - Zendesk: 24h recurring task: import AI self-resolved conversations into Zendesk as resolved cases, labelled",
-      "status": "In Review",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Pep Alonso",
       "issuetype": "Task",
       "created": "2026-08-19",
-      "updated": "2026-08-26",
+      "updated": "2026-10-05",
       "resolutiondate": "",
       "labels": [
         "NetBerry_COFA"
@@ -5315,12 +5481,12 @@
     {
       "key": "PS-6020",
       "summary": "NetBerry - COFA - Zendesk access + Hubtype integration spike",
-      "status": "Ready for review",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Adrià Sastre",
       "issuetype": "Task",
       "created": "2026-07-28",
-      "updated": "2026-08-07",
+      "updated": "2026-10-05",
       "resolutiondate": "",
       "labels": [
         "NetBerry_COFA"
@@ -6058,12 +6224,12 @@
     {
       "key": "PS-5967",
       "summary": "NetBerry - COFA - 1st Phase",
-      "status": "In Progress",
+      "status": "Ready to Deliver",
       "status_category": "In Progress",
       "assignee": "Wei Wu",
       "issuetype": "Epic",
       "created": "2026-07-22",
-      "updated": "2026-07-30",
+      "updated": "2026-10-05",
       "resolutiondate": "",
       "labels": [
         "NetBerry_COFA"
@@ -8268,12 +8434,12 @@
     {
       "key": "PS-5805",
       "summary": "VGRS - Review alternatives for the scoring process",
-      "status": "In Progress",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Julieta Mezza",
       "issuetype": "Task",
       "created": "2026-06-25",
-      "updated": "2026-09-28",
+      "updated": "2026-10-05",
       "resolutiondate": "",
       "labels": [
         "VGRS"
@@ -30977,12 +31143,12 @@
     {
       "key": "PS-4018",
       "summary": "Air Europa - Consultar Perfil - Complex use case",
-      "status": "Open",
+      "status": "To Do",
       "status_category": "To Do",
       "assignee": "Adrià Sastre",
       "issuetype": "Epic",
       "created": "2025-05-26",
-      "updated": "2026-09-14",
+      "updated": "2026-10-05",
       "resolutiondate": "",
       "labels": [
         "AirEuropa"
