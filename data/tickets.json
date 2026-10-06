@@ -1,15 +1,253 @@
 {
-  "last_updated": "2026-10-05 15:32 UTC",
+  "last_updated": "2026-10-06 13:53 UTC",
   "tickets": [
     {
-      "key": "PS-6423",
-      "summary": "Concentra - Trigger template sent to 50% of leads",
+      "key": "PS-6441",
+      "summary": "tool_results desaparece de tools_executed en los eventos ai_agent desde el 29-09-2026 15h UTC, sin bump de format_version",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "irene callejas",
+      "issuetype": "Bug",
+      "created": "2026-10-06",
+      "updated": "2026-10-06",
+      "resolutiondate": "",
+      "labels": [
+        "Libeen"
+      ]
+    },
+    {
+      "key": "PS-6440",
+      "summary": "Ralph Lauren - Point staging bot to staging backend",
       "status": "To Do",
       "status_category": "To Do",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
+      "created": "2026-10-06",
+      "updated": "2026-10-06",
+      "resolutiondate": "",
+      "labels": [
+        "Ralph_Lauren"
+      ]
+    },
+    {
+      "key": "PS-6439",
+      "summary": "Ralph Lauren - Create and deploy staging stack",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Lorena Sánchez-Toril Nicolás",
+      "issuetype": "Task",
+      "created": "2026-10-06",
+      "updated": "2026-10-06",
+      "resolutiondate": "",
+      "labels": [
+        "Ralph_Lauren"
+      ]
+    },
+    {
+      "key": "PS-6438",
+      "summary": "Ralph Lauren - Migrate code from experiments repository to bots-definition",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Lorena Sánchez-Toril Nicolás",
+      "issuetype": "Task",
+      "created": "2026-10-06",
+      "updated": "2026-10-06",
+      "resolutiondate": "",
+      "labels": [
+        "Ralph_Lauren"
+      ]
+    },
+    {
+      "key": "PS-6437",
+      "summary": "Ralph Lauren - Migrate DB from production to staging",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Lorena Sánchez-Toril Nicolás",
+      "issuetype": "Task",
+      "created": "2026-10-06",
+      "updated": "2026-10-06",
+      "resolutiondate": "",
+      "labels": [
+        "Ralph_Lauren"
+      ]
+    },
+    {
+      "key": "PS-6436",
+      "summary": "Ralph Lauren - Staging console",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Lorena Sánchez-Toril Nicolás",
+      "issuetype": "Epic",
+      "created": "2026-10-06",
+      "updated": "2026-10-06",
+      "resolutiondate": "",
+      "labels": [
+        "Ralph_Lauren"
+      ]
+    },
+    {
+      "key": "PS-6435",
+      "summary": "Rag&Bone - Send country to Salesforce",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Marco Gallego Ropero",
+      "issuetype": "Task",
+      "created": "2026-10-06",
+      "updated": "2026-10-06",
+      "resolutiondate": "",
+      "labels": [
+        "Rag&Bone"
+      ]
+    },
+    {
+      "key": "PS-6434",
+      "summary": "Guess - Map \"CI\" country as \"IC\" in Salesforce",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Marco Gallego Ropero",
+      "issuetype": "Task",
+      "created": "2026-10-06",
+      "updated": "2026-10-06",
+      "resolutiondate": "",
+      "labels": [
+        "Guess"
+      ]
+    },
+    {
+      "key": "PS-6433",
+      "summary": "Internal - Update bot template to the lattest versions 0.57.0",
+      "status": "Ready for review",
+      "status_category": "In Progress",
+      "assignee": "AI Agent Delivery",
+      "issuetype": "Task",
+      "created": "2026-10-06",
+      "updated": "2026-10-06",
+      "resolutiondate": "",
+      "labels": [
+        "Internal"
+      ]
+    },
+    {
+      "key": "PS-6432",
+      "summary": "Michael Kors - Envío mensual a Lucila (Concentrix) del dato de nodos de handoff",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Aitor Casas",
+      "issuetype": "Task",
+      "created": "2026-10-06",
+      "updated": "2026-10-06",
+      "resolutiondate": "",
+      "labels": [
+        "Michael-Kors"
+      ]
+    },
+    {
+      "key": "PS-6430",
+      "summary": "Air Europa - button deep link",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Lorena Sánchez-Toril Nicolás",
+      "issuetype": "Task",
+      "created": "2026-10-06",
+      "updated": "2026-10-06",
+      "resolutiondate": "",
+      "labels": [
+        "AirEuropa"
+      ]
+    },
+    {
+      "key": "PS-6429",
+      "summary": "Ecopiezas - Revisar y fusionar mensajes redundantes del bot",
+      "status": "Done",
+      "status_category": "Done",
+      "assignee": "Aitor Casas",
+      "issuetype": "Task",
+      "created": "2026-10-06",
+      "updated": "2026-10-06",
+      "resolutiondate": "",
+      "labels": [
+        "Ecopiezas"
+      ]
+    },
+    {
+      "key": "PS-6428",
+      "summary": "Tendam – Actualizar bot de staging a Botonic v0.57.0",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": null,
+      "issuetype": "Task",
+      "created": "2026-10-06",
+      "updated": "2026-10-06",
+      "resolutiondate": "",
+      "labels": [
+        "Tendam"
+      ]
+    },
+    {
+      "key": "PS-6427",
+      "summary": "SegurCaixa Adeslas – Actualizar bot de staging a Botonic v0.57.0",
+      "status": "Ready for review",
+      "status_category": "In Progress",
+      "assignee": "AI Agent Delivery",
+      "issuetype": "Task",
+      "created": "2026-10-06",
+      "updated": "2026-10-06",
+      "resolutiondate": "",
+      "labels": [
+        "SegurCaixaAdeslas"
+      ]
+    },
+    {
+      "key": "PS-6426",
+      "summary": "Allianz ES - Quote & Buy - Listado de vehículos",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": null,
+      "issuetype": "Task",
+      "created": "2026-10-06",
+      "updated": "2026-10-06",
+      "resolutiondate": "",
+      "labels": [
+        "Allianz"
+      ]
+    },
+    {
+      "key": "PS-6425",
+      "summary": "Allianz ES - Quote & Buy - Listado compañías DGS",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": null,
+      "issuetype": "Task",
+      "created": "2026-10-06",
+      "updated": "2026-10-06",
+      "resolutiondate": "",
+      "labels": [
+        "Allianz"
+      ]
+    },
+    {
+      "key": "PS-6424",
+      "summary": "Verisure Spain - Reapertura de casos por contact reason en bot Funnel First",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Aitor Casas",
+      "issuetype": "Task",
       "created": "2026-10-05",
-      "updated": "2026-10-05",
+      "updated": "2026-10-06",
+      "resolutiondate": "",
+      "labels": [
+        "VerisureSpain"
+      ]
+    },
+    {
+      "key": "PS-6423",
+      "summary": "Concentra - Trigger template sent to 50% of leads",
+      "status": "Done",
+      "status_category": "Done",
+      "assignee": "Lorena Sánchez-Toril Nicolás",
+      "issuetype": "Task",
+      "created": "2026-10-05",
+      "updated": "2026-10-06",
       "resolutiondate": "",
       "labels": [
         "Concentra"
@@ -18,12 +256,12 @@
     {
       "key": "PS-6422",
       "summary": "Libeen: monitorizar conversaciones en producción (17:45)",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Closed",
+      "status_category": "Done",
       "assignee": "irene callejas",
       "issuetype": "Task",
       "created": "2026-10-05",
-      "updated": "2026-10-05",
+      "updated": "2026-10-06",
       "resolutiondate": "",
       "labels": [
         "Libeen"
@@ -32,12 +270,12 @@
     {
       "key": "PS-6421",
       "summary": "Libeen: monitorizar conversaciones en producción (+2h, 15:45)",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Closed",
+      "status_category": "Done",
       "assignee": "irene callejas",
       "issuetype": "Task",
       "created": "2026-10-05",
-      "updated": "2026-10-05",
+      "updated": "2026-10-06",
       "resolutiondate": "",
       "labels": [
         "Libeen"
@@ -79,9 +317,11 @@
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Discovery Task",
       "created": "2026-10-05",
-      "updated": "2026-10-05",
+      "updated": "2026-10-06",
       "resolutiondate": "",
-      "labels": []
+      "labels": [
+        "Soledad"
+      ]
     },
     {
       "key": "PS-6417",
@@ -100,12 +340,12 @@
     {
       "key": "PS-6416",
       "summary": "MICHAEL KORS - Fix tax question",
-      "status": "Ready for review",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "irene callejas",
       "issuetype": "Task",
       "created": "2026-10-05",
-      "updated": "2026-10-05",
+      "updated": "2026-10-06",
       "resolutiondate": "",
       "labels": [
         "Michael-Kors"
@@ -142,12 +382,12 @@
     {
       "key": "PS-6413",
       "summary": "VGRS - Send JSON file with information to their SFTP",
-      "status": "In Progress",
+      "status": "Ready for review",
       "status_category": "In Progress",
       "assignee": "Marco Gallego Ropero",
       "issuetype": "Task",
       "created": "2026-10-05",
-      "updated": "2026-10-05",
+      "updated": "2026-10-06",
       "resolutiondate": "",
       "labels": [
         "VGRS"
@@ -199,12 +439,12 @@
     {
       "key": "PS-6407",
       "summary": "Tendam - Analizar cuántos clientes de WhatsApp tienen email y qué supone pedirlo",
-      "status": "To Do",
-      "status_category": "To Do",
-      "assignee": "Aitor Casas",
+      "status": "Ready for review",
+      "status_category": "In Progress",
+      "assignee": "Marta Marron",
       "issuetype": "Task",
       "created": "2026-10-02",
-      "updated": "2026-10-02",
+      "updated": "2026-10-06",
       "resolutiondate": "",
       "labels": [
         "Tendam"
@@ -218,7 +458,7 @@
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-10-02",
-      "updated": "2026-10-05",
+      "updated": "2026-10-06",
       "resolutiondate": "",
       "labels": [
         "Soledad"
@@ -227,12 +467,12 @@
     {
       "key": "PS-6405",
       "summary": "Ralph Lauren - update T&C's Landlord & instore",
-      "status": "In Review",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-10-02",
-      "updated": "2026-10-02",
+      "updated": "2026-10-06",
       "resolutiondate": "",
       "labels": [
         "Ralph_Lauren"
@@ -285,12 +525,12 @@
     {
       "key": "PS-6401",
       "summary": "Bot Template - Remove the do-nothing route",
-      "status": "Ready to Deliver",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Marco Gallego Ropero",
       "issuetype": "Task",
       "created": "2026-10-01",
-      "updated": "2026-10-05",
+      "updated": "2026-10-06",
       "resolutiondate": "",
       "labels": [
         "Internal"
@@ -299,12 +539,12 @@
     {
       "key": "PS-6400",
       "summary": "Bot-core: Remove do-nothing entries",
-      "status": "Ready for review",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Marco Gallego Ropero",
       "issuetype": "Task",
       "created": "2026-10-01",
-      "updated": "2026-10-02",
+      "updated": "2026-10-06",
       "resolutiondate": "",
       "labels": [
         "Internal"
@@ -749,12 +989,12 @@
     {
       "key": "PS-6368",
       "summary": "RACC TRAVEL: nuevo feedback ",
-      "status": "Ready for review",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "irene callejas",
       "issuetype": "Task",
       "created": "2026-09-29",
-      "updated": "2026-09-30",
+      "updated": "2026-10-06",
       "resolutiondate": "",
       "labels": [
         "RACC"
@@ -821,10 +1061,10 @@
       "summary": "TMB - Zendesk Integration - ",
       "status": "In Progress",
       "status_category": "In Progress",
-      "assignee": "Adrià Sastre",
+      "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-09-29",
-      "updated": "2026-10-01",
+      "updated": "2026-10-06",
       "resolutiondate": "",
       "labels": [
         "TMB"
@@ -1354,7 +1594,7 @@
       "assignee": "Marta Marron",
       "issuetype": "Task",
       "created": "2026-09-23",
-      "updated": "2026-10-05",
+      "updated": "2026-10-06",
       "resolutiondate": "",
       "labels": [
         "MichaelKors"
@@ -2085,7 +2325,7 @@
       "assignee": "irene callejas",
       "issuetype": "Task",
       "created": "2026-09-17",
-      "updated": "2026-09-22",
+      "updated": "2026-10-06",
       "resolutiondate": "",
       "labels": [
         "Michael-Kors"
@@ -2177,13 +2417,13 @@
     },
     {
       "key": "PS-6263",
-      "summary": "Ralph Lauren - feedback bicester",
+      "summary": "Ralph Lauren - feedback bicester instore",
       "status": "Ready to Deliver",
       "status_category": "In Progress",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-09-16",
-      "updated": "2026-09-18",
+      "updated": "2026-10-06",
       "resolutiondate": "",
       "labels": [
         "Ralph_Lauren"
@@ -2724,12 +2964,12 @@
     {
       "key": "PS-6223",
       "summary": "Occident - Send BSUID and user_name to \"Inicio de conversación\"",
-      "status": "Ready to Deliver",
-      "status_category": "In Progress",
+      "status": "To Do",
+      "status_category": "To Do",
       "assignee": "AI Agent Delivery",
       "issuetype": "Task",
       "created": "2026-09-09",
-      "updated": "2026-09-17",
+      "updated": "2026-10-06",
       "resolutiondate": "",
       "labels": [
         "Occident"
@@ -2766,12 +3006,12 @@
     {
       "key": "PS-6220",
       "summary": "Concentra - Implement URL button clicks tracking in tinybird",
-      "status": "APPROVED FOR PRODUCTION",
+      "status": "Done",
       "status_category": "Done",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-09-09",
-      "updated": "2026-10-01",
+      "updated": "2026-10-06",
       "resolutiondate": "",
       "labels": [
         "Concentra"
@@ -4157,7 +4397,7 @@
       "assignee": "Marco Gallego Ropero",
       "issuetype": "Discovery Task",
       "created": "2026-08-21",
-      "updated": "2026-10-02",
+      "updated": "2026-10-06",
       "resolutiondate": "",
       "labels": [
         "ribesalat"
@@ -4921,12 +5161,12 @@
     {
       "key": "PS-6060",
       "summary": "Internal learning - Migrate to Flow Builder",
-      "status": "Ready for review",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Marco Gallego Ropero",
       "issuetype": "Task",
       "created": "2026-08-02",
-      "updated": "2026-08-03",
+      "updated": "2026-10-06",
       "resolutiondate": "",
       "labels": [
         "Internal"
@@ -5327,12 +5567,12 @@
     {
       "key": "PS-6031",
       "summary": "Internal learning - Refactor actions + routes",
-      "status": "Ready for review",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Marco Gallego Ropero",
       "issuetype": "Task",
       "created": "2026-07-29",
-      "updated": "2026-08-02",
+      "updated": "2026-10-06",
       "resolutiondate": "",
       "labels": [
         "Internal"
@@ -5831,12 +6071,12 @@
     {
       "key": "PS-5995",
       "summary": "Internal learning - Multichannel",
-      "status": "Ready for review",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Marco Gallego Ropero",
       "issuetype": "Task",
       "created": "2026-07-26",
-      "updated": "2026-08-02",
+      "updated": "2026-10-06",
       "resolutiondate": "",
       "labels": [
         "Internal"
@@ -5845,12 +6085,12 @@
     {
       "key": "PS-5994",
       "summary": "Internal learning - Custom messages",
-      "status": "Ready for review",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Marco Gallego Ropero",
       "issuetype": "Task",
       "created": "2026-07-26",
-      "updated": "2026-07-30",
+      "updated": "2026-10-06",
       "resolutiondate": "",
       "labels": [
         "Internal"
@@ -5859,12 +6099,12 @@
     {
       "key": "PS-5993",
       "summary": "Internal learning - Plugins",
-      "status": "Ready for review",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Marco Gallego Ropero",
       "issuetype": "Task",
       "created": "2026-07-26",
-      "updated": "2026-07-28",
+      "updated": "2026-10-06",
       "resolutiondate": "",
       "labels": [
         "Internal"
@@ -5873,12 +6113,12 @@
     {
       "key": "PS-5992",
       "summary": "Internal learning - Actions + Routes improvements",
-      "status": "Ready for review",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Marco Gallego Ropero",
       "issuetype": "Task",
       "created": "2026-07-26",
-      "updated": "2026-07-27",
+      "updated": "2026-10-06",
       "resolutiondate": "",
       "labels": [
         "Internal"
@@ -5887,12 +6127,12 @@
     {
       "key": "PS-5991",
       "summary": "Internal learning - Actions + Routes",
-      "status": "Ready for review",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Marco Gallego Ropero",
       "issuetype": "Task",
       "created": "2026-07-26",
-      "updated": "2026-07-27",
+      "updated": "2026-10-06",
       "resolutiondate": "",
       "labels": [
         "Internal"
@@ -5901,12 +6141,12 @@
     {
       "key": "PS-5990",
       "summary": "Internal learning - Create the bot scaffold",
-      "status": "Ready for review",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Marco Gallego Ropero",
       "issuetype": "Task",
       "created": "2026-07-26",
-      "updated": "2026-07-27",
+      "updated": "2026-10-06",
       "resolutiondate": "",
       "labels": [
         "Internal"
@@ -8033,7 +8273,7 @@
       "assignee": "Adrià Sastre",
       "issuetype": "Discovery Task",
       "created": "2026-07-05",
-      "updated": "2026-07-31",
+      "updated": "2026-10-06",
       "resolutiondate": "",
       "labels": [
         "Allianz"
@@ -14476,12 +14716,12 @@
     {
       "key": "PS-5358",
       "summary": "Jetsmart - Payment step UI",
-      "status": "Ready to Deliver",
-      "status_category": "In Progress",
+      "status": "In production",
+      "status_category": "Done",
       "assignee": "Pep Alonso",
       "issuetype": "Task",
       "created": "2026-04-13",
-      "updated": "2026-07-06",
+      "updated": "2026-10-06",
       "resolutiondate": "",
       "labels": [
         "JetSmart"
@@ -14490,12 +14730,12 @@
     {
       "key": "PS-5357",
       "summary": "Jetsmart - Passanger Details Step UI",
-      "status": "Ready to Deliver",
-      "status_category": "In Progress",
+      "status": "In production",
+      "status_category": "Done",
       "assignee": "Pep Alonso",
       "issuetype": "Task",
       "created": "2026-04-13",
-      "updated": "2026-07-06",
+      "updated": "2026-10-06",
       "resolutiondate": "",
       "labels": [
         "JetSmart"
@@ -14504,12 +14744,12 @@
     {
       "key": "PS-5356",
       "summary": "Jetsmart - Extra SSRs step UI",
-      "status": "Ready to Deliver",
-      "status_category": "In Progress",
+      "status": "In production",
+      "status_category": "Done",
       "assignee": "Pep Alonso",
       "issuetype": "Task",
       "created": "2026-04-13",
-      "updated": "2026-07-06",
+      "updated": "2026-10-06",
       "resolutiondate": "",
       "labels": [
         "JetSmart"
@@ -14518,12 +14758,12 @@
     {
       "key": "PS-5355",
       "summary": "Jetsmart - FlexiSmart Selection Step UI",
-      "status": "Ready to Deliver",
-      "status_category": "In Progress",
+      "status": "In production",
+      "status_category": "Done",
       "assignee": "Pep Alonso",
       "issuetype": "Task",
       "created": "2026-04-13",
-      "updated": "2026-07-06",
+      "updated": "2026-10-06",
       "resolutiondate": "",
       "labels": [
         "JetSmart"
@@ -14532,12 +14772,12 @@
     {
       "key": "PS-5354",
       "summary": "Jetsmart - Seat Selection Step UI",
-      "status": "Ready to Deliver",
-      "status_category": "In Progress",
+      "status": "In production",
+      "status_category": "Done",
       "assignee": "Pep Alonso",
       "issuetype": "Task",
       "created": "2026-04-13",
-      "updated": "2026-07-06",
+      "updated": "2026-10-06",
       "resolutiondate": "",
       "labels": [
         "JetSmart"
@@ -14546,12 +14786,12 @@
     {
       "key": "PS-5353",
       "summary": "Jetsmart - Bags Ssr step UI",
-      "status": "Ready to Deliver",
-      "status_category": "In Progress",
+      "status": "In production",
+      "status_category": "Done",
       "assignee": "Pep Alonso",
       "issuetype": "Task",
       "created": "2026-04-13",
-      "updated": "2026-07-06",
+      "updated": "2026-10-06",
       "resolutiondate": "",
       "labels": [
         "JetSmart"
@@ -14560,12 +14800,12 @@
     {
       "key": "PS-5352",
       "summary": "Jetsmart - Flight Purchasse Summary Step UI",
-      "status": "Ready to Deliver",
-      "status_category": "In Progress",
+      "status": "In production",
+      "status_category": "Done",
       "assignee": "Pep Alonso",
       "issuetype": "Task",
       "created": "2026-04-13",
-      "updated": "2026-07-06",
+      "updated": "2026-10-06",
       "resolutiondate": "",
       "labels": [
         "JetSmart"
@@ -14574,12 +14814,12 @@
     {
       "key": "PS-5351",
       "summary": "Jetsmart - Select bundle To include Step UI",
-      "status": "Ready to Deliver",
-      "status_category": "In Progress",
+      "status": "In production",
+      "status_category": "Done",
       "assignee": "Pep Alonso",
       "issuetype": "Task",
       "created": "2026-04-13",
-      "updated": "2026-07-06",
+      "updated": "2026-10-06",
       "resolutiondate": "",
       "labels": [
         "JetSmart"
@@ -14588,12 +14828,12 @@
     {
       "key": "PS-5350",
       "summary": "Jetsmart - Select flight to purchase UI",
-      "status": "Ready to Deliver",
-      "status_category": "In Progress",
+      "status": "In production",
+      "status_category": "Done",
       "assignee": "Pep Alonso",
       "issuetype": "Task",
       "created": "2026-04-13",
-      "updated": "2026-07-06",
+      "updated": "2026-10-06",
       "resolutiondate": "",
       "labels": [
         "JetSmart"
@@ -14602,12 +14842,12 @@
     {
       "key": "PS-5349",
       "summary": "Jetsmart - Select Passanger number Step UI",
-      "status": "Ready to Deliver",
-      "status_category": "In Progress",
+      "status": "In production",
+      "status_category": "Done",
       "assignee": "Pep Alonso",
       "issuetype": "Task",
       "created": "2026-04-13",
-      "updated": "2026-07-06",
+      "updated": "2026-10-06",
       "resolutiondate": "",
       "labels": [
         "JetSmart"
@@ -14978,12 +15218,12 @@
     {
       "key": "PS-5319",
       "summary": "Jetsmart - Buy a flight webview - Select dates Step UI",
-      "status": "Ready to Deliver",
-      "status_category": "In Progress",
+      "status": "In production",
+      "status_category": "Done",
       "assignee": "Pep Alonso",
       "issuetype": "Task",
       "created": "2026-04-09",
-      "updated": "2026-07-06",
+      "updated": "2026-10-06",
       "resolutiondate": "",
       "labels": [
         "JetSmart"
@@ -14992,12 +15232,12 @@
     {
       "key": "PS-5318",
       "summary": "Jetsmart - Buy a Flight - Select Setations Step UI",
-      "status": "Ready to Deliver",
-      "status_category": "In Progress",
+      "status": "In production",
+      "status_category": "Done",
       "assignee": "Pep Alonso",
       "issuetype": "Task",
       "created": "2026-04-09",
-      "updated": "2026-07-06",
+      "updated": "2026-10-06",
       "resolutiondate": "",
       "labels": [
         "JetSmart"
@@ -15172,12 +15412,12 @@
     {
       "key": "PS-5305",
       "summary": "Allianz ES - Development new webview \"Defensor del asegurado\"",
-      "status": "Done",
-      "status_category": "Done",
+      "status": "In Progress",
+      "status_category": "In Progress",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-04-08",
-      "updated": "2026-07-20",
+      "updated": "2026-10-06",
       "resolutiondate": "",
       "labels": [
         "Allianz-ES"
@@ -15494,12 +15734,12 @@
     {
       "key": "PS-5281",
       "summary": "Jetsmart - Buy a Flight Webview Structure + steps",
-      "status": "Ready to Deliver",
-      "status_category": "In Progress",
+      "status": "In production",
+      "status_category": "Done",
       "assignee": "Pep Alonso",
       "issuetype": "Task",
       "created": "2026-04-01",
-      "updated": "2026-07-06",
+      "updated": "2026-10-06",
       "resolutiondate": "",
       "labels": [
         "JetSmart"
@@ -15628,12 +15868,12 @@
     {
       "key": "PS-5271",
       "summary": "Jetsmart - New endpoints on middlwere for buy a Flight Webview",
-      "status": "Ready to Deliver",
-      "status_category": "In Progress",
+      "status": "In production",
+      "status_category": "Done",
       "assignee": "Pep Alonso",
       "issuetype": "Task",
       "created": "2026-03-27",
-      "updated": "2026-07-06",
+      "updated": "2026-10-06",
       "resolutiondate": "",
       "labels": [
         "JetSmart"
@@ -33717,10 +33957,10 @@
       "summary": "Air Europa - Consultar reserva - API Review",
       "status": "Done",
       "status_category": "Done",
-      "assignee": null,
+      "assignee": "Julieta Mezza",
       "issuetype": "Task",
       "created": "2025-04-08",
-      "updated": "2026-09-18",
+      "updated": "2026-10-06",
       "resolutiondate": "",
       "labels": [
         "AirEuropa"
