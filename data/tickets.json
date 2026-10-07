@@ -1,6 +1,398 @@
 {
-  "last_updated": "2026-10-06 13:53 UTC",
+  "last_updated": "2026-10-07 14:11 UTC",
   "tickets": [
+    {
+      "key": "PS-6469",
+      "summary": "Euroriente - Crear template Meta",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Aitor Casas",
+      "issuetype": "Task",
+      "created": "2026-10-07",
+      "updated": "2026-10-07",
+      "resolutiondate": "",
+      "labels": [
+        "Euroriente"
+      ]
+    },
+    {
+      "key": "PS-6468",
+      "summary": "Michael Kors – Crear nuevas plantillas de WhatsApp IVR (Utility) en todos los idiomas",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Aitor Casas",
+      "issuetype": "Task",
+      "created": "2026-10-07",
+      "updated": "2026-10-07",
+      "resolutiondate": "",
+      "labels": [
+        "MichaelKors"
+      ]
+    },
+    {
+      "key": "PS-6467",
+      "summary": "RibéSalat-Create plugin for staging bot with API requests",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Marco Gallego Ropero",
+      "issuetype": "Task",
+      "created": "2026-10-07",
+      "updated": "2026-10-07",
+      "resolutiondate": "",
+      "labels": [
+        "RibesSalat"
+      ]
+    },
+    {
+      "key": "PS-6466",
+      "summary": "Jetsmart - Update bot version to 0.57",
+      "status": "Ready for review",
+      "status_category": "In Progress",
+      "assignee": "AI Agent Delivery",
+      "issuetype": "Task",
+      "created": "2026-10-07",
+      "updated": "2026-10-07",
+      "resolutiondate": "",
+      "labels": [
+        "AirEuropa"
+      ]
+    },
+    {
+      "key": "PS-6465",
+      "summary": "Occident - Update bot version to 0.57",
+      "status": "Ready for review",
+      "status_category": "In Progress",
+      "assignee": "AI Agent Delivery",
+      "issuetype": "Task",
+      "created": "2026-10-07",
+      "updated": "2026-10-07",
+      "resolutiondate": "",
+      "labels": [
+        "AirEuropa"
+      ]
+    },
+    {
+      "key": "PS-6464",
+      "summary": "Air Europa - Update bot version to 0.57",
+      "status": "Ready for review",
+      "status_category": "In Progress",
+      "assignee": "AI Agent Delivery",
+      "issuetype": "Task",
+      "created": "2026-10-07",
+      "updated": "2026-10-07",
+      "resolutiondate": "",
+      "labels": [
+        "AirEuropa"
+      ]
+    },
+    {
+      "key": "PS-6463",
+      "summary": "Michael Kors - Evitar el mensaje de bienvenida duplicado (welcome back)",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Marta Marron",
+      "issuetype": "Task",
+      "created": "2026-10-07",
+      "updated": "2026-10-07",
+      "resolutiondate": "",
+      "labels": [
+        "MichaelKors"
+      ]
+    },
+    {
+      "key": "PS-6462",
+      "summary": "RibéSalat - AI Agent Tool Development",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Julieta Mezza",
+      "issuetype": "Discovery Task",
+      "created": "2026-10-07",
+      "updated": "2026-10-07",
+      "resolutiondate": "",
+      "labels": [
+        "ribesalat"
+      ]
+    },
+    {
+      "key": "PS-6461",
+      "summary": "Verisure Spain - Funnel First – Actualizar bot de staging a Botonic v0.57.0",
+      "status": "Ready for review",
+      "status_category": "In Progress",
+      "assignee": "AI Agent Delivery",
+      "issuetype": "Task",
+      "created": "2026-10-07",
+      "updated": "2026-10-07",
+      "resolutiondate": "",
+      "labels": [
+        "Verisure_ES"
+      ]
+    },
+    {
+      "key": "PS-6460",
+      "summary": "Michael Kors – Actualizar bot de staging a Botonic v0.57.0",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": null,
+      "issuetype": "Task",
+      "created": "2026-10-06",
+      "updated": "2026-10-06",
+      "resolutiondate": "",
+      "labels": [
+        "Michael-Kors"
+      ]
+    },
+    {
+      "key": "PS-6459",
+      "summary": "Tendam - Dash & Stars – Actualizar bot de staging a Botonic v0.57.0",
+      "status": "Ready for review",
+      "status_category": "In Progress",
+      "assignee": "AI Agent Delivery",
+      "issuetype": "Task",
+      "created": "2026-10-06",
+      "updated": "2026-10-07",
+      "resolutiondate": "",
+      "labels": [
+        "Tendam"
+      ]
+    },
+    {
+      "key": "PS-6458",
+      "summary": "Tendam - Slowlove – Actualizar bot de staging a Botonic v0.57.0",
+      "status": "Ready for review",
+      "status_category": "In Progress",
+      "assignee": "AI Agent Delivery",
+      "issuetype": "Task",
+      "created": "2026-10-06",
+      "updated": "2026-10-07",
+      "resolutiondate": "",
+      "labels": [
+        "Tendam"
+      ]
+    },
+    {
+      "key": "PS-6457",
+      "summary": "Tendam - Hoss Intropia – Actualizar bot de staging a Botonic v0.57.0",
+      "status": "Ready for review",
+      "status_category": "In Progress",
+      "assignee": "AI Agent Delivery",
+      "issuetype": "Task",
+      "created": "2026-10-06",
+      "updated": "2026-10-07",
+      "resolutiondate": "",
+      "labels": [
+        "Tendam"
+      ]
+    },
+    {
+      "key": "PS-6456",
+      "summary": "Tendam - Springfield Simplified – Actualizar bot de staging a Botonic v0.57.0",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": null,
+      "issuetype": "Task",
+      "created": "2026-10-06",
+      "updated": "2026-10-06",
+      "resolutiondate": "",
+      "labels": [
+        "Tendam"
+      ]
+    },
+    {
+      "key": "PS-6455",
+      "summary": "Tendam - Women'secret Simplified – Actualizar bot de staging a Botonic v0.57.0",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": null,
+      "issuetype": "Task",
+      "created": "2026-10-06",
+      "updated": "2026-10-06",
+      "resolutiondate": "",
+      "labels": [
+        "Tendam"
+      ]
+    },
+    {
+      "key": "PS-6454",
+      "summary": "Tendam - Pedro del Hierro – Actualizar bot de staging a Botonic v0.57.0",
+      "status": "Ready for review",
+      "status_category": "In Progress",
+      "assignee": "AI Agent Delivery",
+      "issuetype": "Task",
+      "created": "2026-10-06",
+      "updated": "2026-10-07",
+      "resolutiondate": "",
+      "labels": [
+        "Tendam"
+      ]
+    },
+    {
+      "key": "PS-6453",
+      "summary": "Tendam - Fifty – Actualizar bot de staging a Botonic v0.57.0",
+      "status": "Ready for review",
+      "status_category": "In Progress",
+      "assignee": "AI Agent Delivery",
+      "issuetype": "Task",
+      "created": "2026-10-06",
+      "updated": "2026-10-07",
+      "resolutiondate": "",
+      "labels": [
+        "Tendam"
+      ]
+    },
+    {
+      "key": "PS-6452",
+      "summary": "Tendam - Cortefiel – Actualizar bot de staging a Botonic v0.57.0",
+      "status": "Ready for review",
+      "status_category": "In Progress",
+      "assignee": "AI Agent Delivery",
+      "issuetype": "Task",
+      "created": "2026-10-06",
+      "updated": "2026-10-07",
+      "resolutiondate": "",
+      "labels": [
+        "Tendam"
+      ]
+    },
+    {
+      "key": "PS-6451",
+      "summary": "Tendam - Springfield – Actualizar bot de staging a Botonic v0.57.0",
+      "status": "Ready for review",
+      "status_category": "In Progress",
+      "assignee": "AI Agent Delivery",
+      "issuetype": "Task",
+      "created": "2026-10-06",
+      "updated": "2026-10-07",
+      "resolutiondate": "",
+      "labels": [
+        "Tendam"
+      ]
+    },
+    {
+      "key": "PS-6450",
+      "summary": "Tendam - Women'secret – Actualizar bot de staging a Botonic v0.57.0",
+      "status": "Ready for review",
+      "status_category": "In Progress",
+      "assignee": "AI Agent Delivery",
+      "issuetype": "Task",
+      "created": "2026-10-06",
+      "updated": "2026-10-06",
+      "resolutiondate": "",
+      "labels": [
+        "Tendam"
+      ]
+    },
+    {
+      "key": "PS-6449",
+      "summary": "Euroriente - Filtrar envío de bienvenida a Turquía y Grecia en español y calcular volumen diario",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Pep Alonso",
+      "issuetype": "Task",
+      "created": "2026-10-06",
+      "updated": "2026-10-06",
+      "resolutiondate": "",
+      "labels": [
+        "Euroriente"
+      ]
+    },
+    {
+      "key": "PS-6448",
+      "summary": "Michael Kors - Use new ItemTrackLink / ReturnTrackLink attributes for WISMO tracking links",
+      "status": "Ready for review",
+      "status_category": "In Progress",
+      "assignee": "AI Agent Delivery",
+      "issuetype": "Task",
+      "created": "2026-10-06",
+      "updated": "2026-10-06",
+      "resolutiondate": "",
+      "labels": [
+        "MichaelKors"
+      ]
+    },
+    {
+      "key": "PS-6447",
+      "summary": "Allianz Agentes - Poner número de Twilio en el bot de staging",
+      "status": "Done",
+      "status_category": "Done",
+      "assignee": "Aitor Casas",
+      "issuetype": "Task",
+      "created": "2026-10-06",
+      "updated": "2026-10-07",
+      "resolutiondate": "",
+      "labels": [
+        "Allianz-Agentes"
+      ]
+    },
+    {
+      "key": "PS-6446",
+      "summary": "Allianz Agentes - Conectar el número de WhatsApp al bot de producción",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Aitor Casas",
+      "issuetype": "Task",
+      "created": "2026-10-06",
+      "updated": "2026-10-06",
+      "resolutiondate": "",
+      "labels": [
+        "Allianz-Agentes"
+      ]
+    },
+    {
+      "key": "PS-6445",
+      "summary": "Allianz Agentes - Configurar Campaigns 2",
+      "status": "Ready for review",
+      "status_category": "In Progress",
+      "assignee": "Aitor Casas",
+      "issuetype": "Task",
+      "created": "2026-10-06",
+      "updated": "2026-10-07",
+      "resolutiondate": "",
+      "labels": [
+        "Allianz-Agentes"
+      ]
+    },
+    {
+      "key": "PS-6444",
+      "summary": "Allianz Agentes - Desplegar bot de staging y de producción",
+      "status": "Done",
+      "status_category": "Done",
+      "assignee": "Marco Gallego Ropero",
+      "issuetype": "Task",
+      "created": "2026-10-06",
+      "updated": "2026-10-07",
+      "resolutiondate": "",
+      "labels": [
+        "Allianz-Agentes"
+      ]
+    },
+    {
+      "key": "PS-6443",
+      "summary": "Allianz Spain - Proyecto campañas para agentes exclusivos (dentro de OSN)",
+      "status": "In Progress",
+      "status_category": "In Progress",
+      "assignee": "Julieta Mezza",
+      "issuetype": "Epic",
+      "created": "2026-10-06",
+      "updated": "2026-10-07",
+      "resolutiondate": "",
+      "labels": [
+        "Allianz-Agentes"
+      ]
+    },
+    {
+      "key": "PS-6442",
+      "summary": "Occident - Get ready to receive in \"store-data\" name, surname and id and include it in contact info (webchat app y web)",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Pep Alonso",
+      "issuetype": "Task",
+      "created": "2026-10-06",
+      "updated": "2026-10-06",
+      "resolutiondate": "",
+      "labels": [
+        "Occident"
+      ]
+    },
     {
       "key": "PS-6441",
       "summary": "tool_results desaparece de tools_executed en los eventos ai_agent desde el 29-09-2026 15h UTC, sin bump de format_version",
@@ -88,12 +480,12 @@
     {
       "key": "PS-6435",
       "summary": "Rag&Bone - Send country to Salesforce",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Ready for review",
+      "status_category": "In Progress",
       "assignee": "Marco Gallego Ropero",
       "issuetype": "Task",
       "created": "2026-10-06",
-      "updated": "2026-10-06",
+      "updated": "2026-10-07",
       "resolutiondate": "",
       "labels": [
         "Rag&Bone"
@@ -102,12 +494,12 @@
     {
       "key": "PS-6434",
       "summary": "Guess - Map \"CI\" country as \"IC\" in Salesforce",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Ready for review",
+      "status_category": "In Progress",
       "assignee": "Marco Gallego Ropero",
       "issuetype": "Task",
       "created": "2026-10-06",
-      "updated": "2026-10-06",
+      "updated": "2026-10-07",
       "resolutiondate": "",
       "labels": [
         "Guess"
@@ -130,12 +522,12 @@
     {
       "key": "PS-6432",
       "summary": "Michael Kors - Envío mensual a Lucila (Concentrix) del dato de nodos de handoff",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Ready for review",
+      "status_category": "In Progress",
       "assignee": "Aitor Casas",
       "issuetype": "Task",
       "created": "2026-10-06",
-      "updated": "2026-10-06",
+      "updated": "2026-10-07",
       "resolutiondate": "",
       "labels": [
         "Michael-Kors"
@@ -144,8 +536,8 @@
     {
       "key": "PS-6430",
       "summary": "Air Europa - button deep link",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Ready for review",
+      "status_category": "In Progress",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-10-06",
@@ -172,12 +564,12 @@
     {
       "key": "PS-6428",
       "summary": "Tendam – Actualizar bot de staging a Botonic v0.57.0",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Ready for review",
+      "status_category": "In Progress",
       "assignee": null,
-      "issuetype": "Task",
+      "issuetype": "Epic",
       "created": "2026-10-06",
-      "updated": "2026-10-06",
+      "updated": "2026-10-07",
       "resolutiondate": "",
       "labels": [
         "Tendam"
@@ -228,12 +620,12 @@
     {
       "key": "PS-6424",
       "summary": "Verisure Spain - Reapertura de casos por contact reason en bot Funnel First",
-      "status": "To Do",
+      "status": "Waiting for Product",
       "status_category": "To Do",
       "assignee": "Aitor Casas",
       "issuetype": "Task",
       "created": "2026-10-05",
-      "updated": "2026-10-06",
+      "updated": "2026-10-07",
       "resolutiondate": "",
       "labels": [
         "VerisureSpain"
@@ -354,12 +746,12 @@
     {
       "key": "PS-6415",
       "summary": "Tendam - Marcas con Simpl - reducir mensajes en handoff para reducir costes Meta",
-      "status": "In production",
+      "status": "Done",
       "status_category": "Done",
       "assignee": "Aitor Casas",
       "issuetype": "Task",
       "created": "2026-10-05",
-      "updated": "2026-10-05",
+      "updated": "2026-10-06",
       "resolutiondate": "",
       "labels": [
         "Tendam"
@@ -387,7 +779,7 @@
       "assignee": "Marco Gallego Ropero",
       "issuetype": "Task",
       "created": "2026-10-05",
-      "updated": "2026-10-06",
+      "updated": "2026-10-07",
       "resolutiondate": "",
       "labels": [
         "VGRS"
@@ -453,12 +845,12 @@
     {
       "key": "PS-6406",
       "summary": "Soledad - updates wismo",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Ready for review",
+      "status_category": "In Progress",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-10-02",
-      "updated": "2026-10-06",
+      "updated": "2026-10-07",
       "resolutiondate": "",
       "labels": [
         "Soledad"
@@ -502,7 +894,7 @@
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-10-01",
-      "updated": "2026-10-02",
+      "updated": "2026-10-07",
       "resolutiondate": "",
       "labels": [
         "RalphLauren"
@@ -826,7 +1218,7 @@
       "assignee": null,
       "issuetype": "Discovery Task",
       "created": "2026-09-30",
-      "updated": "2026-09-30",
+      "updated": "2026-10-07",
       "resolutiondate": "",
       "labels": [
         "Alsa"
@@ -877,12 +1269,12 @@
     {
       "key": "PS-6376",
       "summary": "Euroriente - Update bot version",
-      "status": "Ready for review",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Pep Alonso",
       "issuetype": "Task",
       "created": "2026-09-30",
-      "updated": "2026-09-30",
+      "updated": "2026-10-06",
       "resolutiondate": "",
       "labels": [
         "Euroriente"
@@ -1589,12 +1981,12 @@
     {
       "key": "PS-6324",
       "summary": "Michael Kors WISMO: analyse order-number drop-off, set up Concentrix handoff alert,",
-      "status": "In Progress",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Marta Marron",
       "issuetype": "Task",
       "created": "2026-09-23",
-      "updated": "2026-10-06",
+      "updated": "2026-10-07",
       "resolutiondate": "",
       "labels": [
         "MichaelKors"
@@ -2530,12 +2922,12 @@
     {
       "key": "PS-6255",
       "summary": "SegurCaixa - Add Contact Reason detector plugin",
-      "status": "Waiting for Product",
-      "status_category": "To Do",
+      "status": "Closed",
+      "status_category": "Done",
       "assignee": "Adrià Sastre",
       "issuetype": "Task",
       "created": "2026-09-16",
-      "updated": "2026-09-26",
+      "updated": "2026-10-06",
       "resolutiondate": "",
       "labels": [
         "SegurCaixa"
@@ -2558,12 +2950,12 @@
     {
       "key": "PS-6253",
       "summary": "SegurCaixa Adeslas - Activar el cierre de casos idle de forma automática en el Desk pero asegurar que mostramos un cierto texto al cliente (pdte definir por cliente)",
-      "status": "Waiting for Product",
-      "status_category": "To Do",
+      "status": "Ready for review",
+      "status_category": "In Progress",
       "assignee": "Aitor Casas",
       "issuetype": "Task",
       "created": "2026-09-15",
-      "updated": "2026-09-28",
+      "updated": "2026-10-07",
       "resolutiondate": "",
       "labels": [
         "SegurCaixa"
@@ -2964,8 +3356,8 @@
     {
       "key": "PS-6223",
       "summary": "Occident - Send BSUID and user_name to \"Inicio de conversación\"",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "AI Agent Delivery",
       "issuetype": "Task",
       "created": "2026-09-09",
@@ -4397,7 +4789,7 @@
       "assignee": "Marco Gallego Ropero",
       "issuetype": "Discovery Task",
       "created": "2026-08-21",
-      "updated": "2026-10-06",
+      "updated": "2026-10-07",
       "resolutiondate": "",
       "labels": [
         "ribesalat"
@@ -4897,12 +5289,12 @@
     {
       "key": "PS-6081",
       "summary": "Ralph Lauren bot trigger",
-      "status": "Open",
-      "status_category": "To Do",
+      "status": "Closed",
+      "status_category": "Done",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-08-07",
-      "updated": "2026-09-09",
+      "updated": "2026-10-07",
       "resolutiondate": "",
       "labels": [
         "Ralph_Lauren"
@@ -9324,12 +9716,12 @@
     {
       "key": "PS-5755",
       "summary": "Jetsmart - Develop Final Summary Step",
-      "status": "Ready to Deliver",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Pep Alonso",
       "issuetype": "Task",
       "created": "2026-06-15",
-      "updated": "2026-08-24",
+      "updated": "2026-10-06",
       "resolutiondate": "",
       "labels": [
         "JetSmart"
@@ -14383,12 +14775,12 @@
     {
       "key": "PS-5384",
       "summary": "Jetsmart - Search Flights Domain",
-      "status": "Ready to Deliver",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Pep Alonso",
       "issuetype": "Task",
       "created": "2026-04-20",
-      "updated": "2026-07-06",
+      "updated": "2026-10-06",
       "resolutiondate": "",
       "labels": [
         "JetSmart"
@@ -14716,7 +15108,7 @@
     {
       "key": "PS-5358",
       "summary": "Jetsmart - Payment step UI",
-      "status": "In production",
+      "status": "Done",
       "status_category": "Done",
       "assignee": "Pep Alonso",
       "issuetype": "Task",
@@ -14730,7 +15122,7 @@
     {
       "key": "PS-5357",
       "summary": "Jetsmart - Passanger Details Step UI",
-      "status": "In production",
+      "status": "Done",
       "status_category": "Done",
       "assignee": "Pep Alonso",
       "issuetype": "Task",
@@ -14744,7 +15136,7 @@
     {
       "key": "PS-5356",
       "summary": "Jetsmart - Extra SSRs step UI",
-      "status": "In production",
+      "status": "Done",
       "status_category": "Done",
       "assignee": "Pep Alonso",
       "issuetype": "Task",
@@ -14758,7 +15150,7 @@
     {
       "key": "PS-5355",
       "summary": "Jetsmart - FlexiSmart Selection Step UI",
-      "status": "In production",
+      "status": "Done",
       "status_category": "Done",
       "assignee": "Pep Alonso",
       "issuetype": "Task",
@@ -14772,7 +15164,7 @@
     {
       "key": "PS-5354",
       "summary": "Jetsmart - Seat Selection Step UI",
-      "status": "In production",
+      "status": "Done",
       "status_category": "Done",
       "assignee": "Pep Alonso",
       "issuetype": "Task",
@@ -14786,7 +15178,7 @@
     {
       "key": "PS-5353",
       "summary": "Jetsmart - Bags Ssr step UI",
-      "status": "In production",
+      "status": "Done",
       "status_category": "Done",
       "assignee": "Pep Alonso",
       "issuetype": "Task",
@@ -14800,7 +15192,7 @@
     {
       "key": "PS-5352",
       "summary": "Jetsmart - Flight Purchasse Summary Step UI",
-      "status": "In production",
+      "status": "Done",
       "status_category": "Done",
       "assignee": "Pep Alonso",
       "issuetype": "Task",
@@ -14814,7 +15206,7 @@
     {
       "key": "PS-5351",
       "summary": "Jetsmart - Select bundle To include Step UI",
-      "status": "In production",
+      "status": "Done",
       "status_category": "Done",
       "assignee": "Pep Alonso",
       "issuetype": "Task",
@@ -14828,7 +15220,7 @@
     {
       "key": "PS-5350",
       "summary": "Jetsmart - Select flight to purchase UI",
-      "status": "In production",
+      "status": "Done",
       "status_category": "Done",
       "assignee": "Pep Alonso",
       "issuetype": "Task",
@@ -14842,7 +15234,7 @@
     {
       "key": "PS-5349",
       "summary": "Jetsmart - Select Passanger number Step UI",
-      "status": "In production",
+      "status": "Done",
       "status_category": "Done",
       "assignee": "Pep Alonso",
       "issuetype": "Task",
@@ -15218,7 +15610,7 @@
     {
       "key": "PS-5319",
       "summary": "Jetsmart - Buy a flight webview - Select dates Step UI",
-      "status": "In production",
+      "status": "Done",
       "status_category": "Done",
       "assignee": "Pep Alonso",
       "issuetype": "Task",
@@ -15232,7 +15624,7 @@
     {
       "key": "PS-5318",
       "summary": "Jetsmart - Buy a Flight - Select Setations Step UI",
-      "status": "In production",
+      "status": "Done",
       "status_category": "Done",
       "assignee": "Pep Alonso",
       "issuetype": "Task",
@@ -15412,12 +15804,12 @@
     {
       "key": "PS-5305",
       "summary": "Allianz ES - Development new webview \"Defensor del asegurado\"",
-      "status": "In Progress",
+      "status": "Ready for review",
       "status_category": "In Progress",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-04-08",
-      "updated": "2026-10-06",
+      "updated": "2026-10-07",
       "resolutiondate": "",
       "labels": [
         "Allianz-ES"
@@ -15734,7 +16126,7 @@
     {
       "key": "PS-5281",
       "summary": "Jetsmart - Buy a Flight Webview Structure + steps",
-      "status": "In production",
+      "status": "Done",
       "status_category": "Done",
       "assignee": "Pep Alonso",
       "issuetype": "Task",
@@ -15868,7 +16260,7 @@
     {
       "key": "PS-5271",
       "summary": "Jetsmart - New endpoints on middlwere for buy a Flight Webview",
-      "status": "In production",
+      "status": "Done",
       "status_category": "Done",
       "assignee": "Pep Alonso",
       "issuetype": "Task",
@@ -22558,12 +22950,12 @@
     {
       "key": "PS-4746",
       "summary": "Jetsmart - Develop buy a flight ",
-      "status": "Ready to Deliver",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Pep Alonso",
       "issuetype": "Task",
       "created": "2025-12-16",
-      "updated": "2026-07-06",
+      "updated": "2026-10-06",
       "resolutiondate": "",
       "labels": [
         "JetSmart"
