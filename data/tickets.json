@@ -1,12 +1,124 @@
 {
-  "last_updated": "2026-10-07 14:11 UTC",
+  "last_updated": "2026-10-08 14:21 UTC",
   "tickets": [
     {
-      "key": "PS-6469",
-      "summary": "Euroriente - Crear template Meta",
+      "key": "PS-6481",
+      "summary": "DABA - Genesys Integration",
       "status": "To Do",
       "status_category": "To Do",
-      "assignee": "Aitor Casas",
+      "assignee": "Adrià Sastre",
+      "issuetype": "Epic",
+      "created": "2026-10-08",
+      "updated": "2026-10-08",
+      "resolutiondate": "",
+      "labels": [
+        "DABA"
+      ]
+    },
+    {
+      "key": "PS-6480",
+      "summary": "Air Europa - Evaluate if it's possible to show user login status as a bot message",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Adrià Sastre",
+      "issuetype": "Discovery Task",
+      "created": "2026-10-08",
+      "updated": "2026-10-08",
+      "resolutiondate": "",
+      "labels": [
+        "AirEuropa"
+      ]
+    },
+    {
+      "key": "PS-6479",
+      "summary": "Air Europa - Logged status and email info is not being saved as it used to",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Adrià Sastre",
+      "issuetype": "Bug",
+      "created": "2026-10-08",
+      "updated": "2026-10-08",
+      "resolutiondate": "",
+      "labels": [
+        "AirEuropa"
+      ]
+    },
+    {
+      "key": "PS-6478",
+      "summary": "Jetsmart - Flight Search complex use case missing flights",
+      "status": "Ready to Deliver",
+      "status_category": "In Progress",
+      "assignee": "Pep Alonso",
+      "issuetype": "Bug",
+      "created": "2026-10-08",
+      "updated": "2026-10-08",
+      "resolutiondate": "",
+      "labels": [
+        "JetSMART"
+      ]
+    },
+    {
+      "key": "PS-6477",
+      "summary": "Allianz Spain - seguro de patinetes: propuesta de diseño",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Vicky Correbo",
+      "issuetype": "Task",
+      "created": "2026-10-08",
+      "updated": "2026-10-08",
+      "resolutiondate": "",
+      "labels": [
+        "Allianz"
+      ]
+    },
+    {
+      "key": "PS-6476",
+      "summary": "Allianz Spain - seguro de patinetes",
+      "status": "Open",
+      "status_category": "To Do",
+      "assignee": "Marta Marron",
+      "issuetype": "Epic",
+      "created": "2026-10-08",
+      "updated": "2026-10-08",
+      "resolutiondate": "",
+      "labels": [
+        "Allianz"
+      ]
+    },
+    {
+      "key": "PS-6475",
+      "summary": "Ralph Lauren - new meta templates for sales campaign",
+      "status": "Done",
+      "status_category": "Done",
+      "assignee": "Lorena Sánchez-Toril Nicolás",
+      "issuetype": "Task",
+      "created": "2026-10-08",
+      "updated": "2026-10-08",
+      "resolutiondate": "",
+      "labels": [
+        "Ralph_Lauren"
+      ]
+    },
+    {
+      "key": "PS-6474",
+      "summary": "Ralph Lauren - url params sale campaign ",
+      "status": "Done",
+      "status_category": "Done",
+      "assignee": "Lorena Sánchez-Toril Nicolás",
+      "issuetype": "Task",
+      "created": "2026-10-08",
+      "updated": "2026-10-08",
+      "resolutiondate": "",
+      "labels": [
+        "Ralph_Lauren"
+      ]
+    },
+    {
+      "key": "PS-6473",
+      "summary": "Euroriente – Añadir al agente la contratación de excursiones opcionales y el teléfono de emergencias 24h",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "irene callejas",
       "issuetype": "Task",
       "created": "2026-10-07",
       "updated": "2026-10-07",
@@ -16,14 +128,70 @@
       ]
     },
     {
-      "key": "PS-6468",
-      "summary": "Michael Kors – Crear nuevas plantillas de WhatsApp IVR (Utility) en todos los idiomas",
+      "key": "PS-6472",
+      "summary": "Retorna – Valorar alternativas de subida de capa de MAUs",
       "status": "To Do",
       "status_category": "To Do",
-      "assignee": "Aitor Casas",
+      "assignee": "Francisca Martelli",
       "issuetype": "Task",
       "created": "2026-10-07",
       "updated": "2026-10-07",
+      "resolutiondate": "",
+      "labels": [
+        "Retorna"
+      ]
+    },
+    {
+      "key": "PS-6471",
+      "summary": "Libeen – Añadir trackings custom a las tools del AI agent",
+      "status": "Ready for review",
+      "status_category": "In Progress",
+      "assignee": "AI Agent Delivery",
+      "issuetype": "Task",
+      "created": "2026-10-07",
+      "updated": "2026-10-07",
+      "resolutiondate": "",
+      "labels": [
+        "Libeen"
+      ]
+    },
+    {
+      "key": "PS-6470",
+      "summary": "Ralph Lauren - new campaign filter",
+      "status": "Done",
+      "status_category": "Done",
+      "assignee": "Lorena Sánchez-Toril Nicolás",
+      "issuetype": "Task",
+      "created": "2026-10-07",
+      "updated": "2026-10-08",
+      "resolutiondate": "",
+      "labels": [
+        "Ralph_Lauren"
+      ]
+    },
+    {
+      "key": "PS-6469",
+      "summary": "Euroriente - Crear template Meta",
+      "status": "In Progress",
+      "status_category": "In Progress",
+      "assignee": "Aitor Casas",
+      "issuetype": "Task",
+      "created": "2026-10-07",
+      "updated": "2026-10-08",
+      "resolutiondate": "",
+      "labels": [
+        "Euroriente"
+      ]
+    },
+    {
+      "key": "PS-6468",
+      "summary": "Michael Kors – Crear nuevas plantillas de WhatsApp IVR (Utility) en todos los idiomas",
+      "status": "Done",
+      "status_category": "Done",
+      "assignee": "Aitor Casas",
+      "issuetype": "Task",
+      "created": "2026-10-07",
+      "updated": "2026-10-08",
       "resolutiondate": "",
       "labels": [
         "MichaelKors"
@@ -37,7 +205,7 @@
       "assignee": "Marco Gallego Ropero",
       "issuetype": "Task",
       "created": "2026-10-07",
-      "updated": "2026-10-07",
+      "updated": "2026-10-08",
       "resolutiondate": "",
       "labels": [
         "RibesSalat"
@@ -88,8 +256,8 @@
     {
       "key": "PS-6463",
       "summary": "Michael Kors - Evitar el mensaje de bienvenida duplicado (welcome back)",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Marta Marron",
       "issuetype": "Task",
       "created": "2026-10-07",
@@ -144,12 +312,12 @@
     {
       "key": "PS-6459",
       "summary": "Tendam - Dash & Stars – Actualizar bot de staging a Botonic v0.57.0",
-      "status": "Ready for review",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "AI Agent Delivery",
       "issuetype": "Task",
       "created": "2026-10-06",
-      "updated": "2026-10-07",
+      "updated": "2026-10-08",
       "resolutiondate": "",
       "labels": [
         "Tendam"
@@ -158,12 +326,12 @@
     {
       "key": "PS-6458",
       "summary": "Tendam - Slowlove – Actualizar bot de staging a Botonic v0.57.0",
-      "status": "Ready for review",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "AI Agent Delivery",
       "issuetype": "Task",
       "created": "2026-10-06",
-      "updated": "2026-10-07",
+      "updated": "2026-10-08",
       "resolutiondate": "",
       "labels": [
         "Tendam"
@@ -172,12 +340,12 @@
     {
       "key": "PS-6457",
       "summary": "Tendam - Hoss Intropia – Actualizar bot de staging a Botonic v0.57.0",
-      "status": "Ready for review",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "AI Agent Delivery",
       "issuetype": "Task",
       "created": "2026-10-06",
-      "updated": "2026-10-07",
+      "updated": "2026-10-08",
       "resolutiondate": "",
       "labels": [
         "Tendam"
@@ -186,12 +354,12 @@
     {
       "key": "PS-6456",
       "summary": "Tendam - Springfield Simplified – Actualizar bot de staging a Botonic v0.57.0",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Closed",
+      "status_category": "Done",
       "assignee": null,
       "issuetype": "Task",
       "created": "2026-10-06",
-      "updated": "2026-10-06",
+      "updated": "2026-10-08",
       "resolutiondate": "",
       "labels": [
         "Tendam"
@@ -200,12 +368,12 @@
     {
       "key": "PS-6455",
       "summary": "Tendam - Women'secret Simplified – Actualizar bot de staging a Botonic v0.57.0",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Closed",
+      "status_category": "Done",
       "assignee": null,
       "issuetype": "Task",
       "created": "2026-10-06",
-      "updated": "2026-10-06",
+      "updated": "2026-10-08",
       "resolutiondate": "",
       "labels": [
         "Tendam"
@@ -214,12 +382,12 @@
     {
       "key": "PS-6454",
       "summary": "Tendam - Pedro del Hierro – Actualizar bot de staging a Botonic v0.57.0",
-      "status": "Ready for review",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "AI Agent Delivery",
       "issuetype": "Task",
       "created": "2026-10-06",
-      "updated": "2026-10-07",
+      "updated": "2026-10-08",
       "resolutiondate": "",
       "labels": [
         "Tendam"
@@ -228,12 +396,12 @@
     {
       "key": "PS-6453",
       "summary": "Tendam - Fifty – Actualizar bot de staging a Botonic v0.57.0",
-      "status": "Ready for review",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "AI Agent Delivery",
       "issuetype": "Task",
       "created": "2026-10-06",
-      "updated": "2026-10-07",
+      "updated": "2026-10-08",
       "resolutiondate": "",
       "labels": [
         "Tendam"
@@ -242,12 +410,12 @@
     {
       "key": "PS-6452",
       "summary": "Tendam - Cortefiel – Actualizar bot de staging a Botonic v0.57.0",
-      "status": "Ready for review",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "AI Agent Delivery",
       "issuetype": "Task",
       "created": "2026-10-06",
-      "updated": "2026-10-07",
+      "updated": "2026-10-08",
       "resolutiondate": "",
       "labels": [
         "Tendam"
@@ -256,12 +424,12 @@
     {
       "key": "PS-6451",
       "summary": "Tendam - Springfield – Actualizar bot de staging a Botonic v0.57.0",
-      "status": "Ready for review",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "AI Agent Delivery",
       "issuetype": "Task",
       "created": "2026-10-06",
-      "updated": "2026-10-07",
+      "updated": "2026-10-08",
       "resolutiondate": "",
       "labels": [
         "Tendam"
@@ -270,12 +438,12 @@
     {
       "key": "PS-6450",
       "summary": "Tendam - Women'secret – Actualizar bot de staging a Botonic v0.57.0",
-      "status": "Ready for review",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "AI Agent Delivery",
       "issuetype": "Task",
       "created": "2026-10-06",
-      "updated": "2026-10-06",
+      "updated": "2026-10-08",
       "resolutiondate": "",
       "labels": [
         "Tendam"
@@ -303,7 +471,7 @@
       "assignee": "AI Agent Delivery",
       "issuetype": "Task",
       "created": "2026-10-06",
-      "updated": "2026-10-06",
+      "updated": "2026-10-07",
       "resolutiondate": "",
       "labels": [
         "MichaelKors"
@@ -326,12 +494,12 @@
     {
       "key": "PS-6446",
       "summary": "Allianz Agentes - Conectar el número de WhatsApp al bot de producción",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Aitor Casas",
       "issuetype": "Task",
       "created": "2026-10-06",
-      "updated": "2026-10-06",
+      "updated": "2026-10-08",
       "resolutiondate": "",
       "labels": [
         "Allianz-Agentes"
@@ -382,12 +550,12 @@
     {
       "key": "PS-6442",
       "summary": "Occident - Get ready to receive in \"store-data\" name, surname and id and include it in contact info (webchat app y web)",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Waiting for info",
+      "status_category": "In Progress",
       "assignee": "Pep Alonso",
       "issuetype": "Task",
       "created": "2026-10-06",
-      "updated": "2026-10-06",
+      "updated": "2026-10-07",
       "resolutiondate": "",
       "labels": [
         "Occident"
@@ -564,12 +732,12 @@
     {
       "key": "PS-6428",
       "summary": "Tendam – Actualizar bot de staging a Botonic v0.57.0",
-      "status": "Ready for review",
+      "status": "Ready to Deliver",
       "status_category": "In Progress",
-      "assignee": null,
+      "assignee": "Marco Gallego Ropero",
       "issuetype": "Epic",
       "created": "2026-10-06",
-      "updated": "2026-10-07",
+      "updated": "2026-10-08",
       "resolutiondate": "",
       "labels": [
         "Tendam"
@@ -583,7 +751,7 @@
       "assignee": "AI Agent Delivery",
       "issuetype": "Task",
       "created": "2026-10-06",
-      "updated": "2026-10-06",
+      "updated": "2026-10-07",
       "resolutiondate": "",
       "labels": [
         "SegurCaixaAdeslas"
@@ -774,12 +942,12 @@
     {
       "key": "PS-6413",
       "summary": "VGRS - Send JSON file with information to their SFTP",
-      "status": "Ready for review",
+      "status": "In Progress",
       "status_category": "In Progress",
       "assignee": "Marco Gallego Ropero",
       "issuetype": "Task",
       "created": "2026-10-05",
-      "updated": "2026-10-07",
+      "updated": "2026-10-08",
       "resolutiondate": "",
       "labels": [
         "VGRS"
@@ -793,7 +961,7 @@
       "assignee": "Marta Marron",
       "issuetype": "Discovery Task",
       "created": "2026-10-04",
-      "updated": "2026-10-05",
+      "updated": "2026-10-08",
       "resolutiondate": "",
       "labels": [
         "Allianz-ES"
@@ -3118,12 +3286,12 @@
     {
       "key": "PS-6240",
       "summary": "Tendam - Women's Secret - Añadir pregunta cuando satisfaccion es baja (y solo hacer si contact reason Tarea = No y no es un discarded)",
-      "status": "Waiting for Product",
-      "status_category": "To Do",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Aitor Casas",
       "issuetype": "Task",
       "created": "2026-09-13",
-      "updated": "2026-09-28",
+      "updated": "2026-10-08",
       "resolutiondate": "",
       "labels": [
         "Tendam"
@@ -16722,12 +16890,12 @@
     {
       "key": "PS-5237",
       "summary": "Security Audit: consum/coupons/aws (2C, 3H)",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Pep Alonso",
       "issuetype": "Task",
       "created": "2026-03-24",
-      "updated": "2026-09-22",
+      "updated": "2026-10-08",
       "resolutiondate": "",
       "labels": [
         "Internal"
