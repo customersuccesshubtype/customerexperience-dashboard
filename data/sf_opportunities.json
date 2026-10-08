@@ -1,6 +1,23 @@
 {
-  "last_updated": "2026-10-07 14:31 UTC",
+  "last_updated": "2026-10-08 14:35 UTC",
   "opportunities": [
+    {
+      "id": "006Sa00000q4vwFIAQ",
+      "name": "2026-U-Allianz ES-Formulario Seguro de Patinetes",
+      "type": "Upsell",
+      "stage": "Opportunity identified",
+      "is_closed": false,
+      "is_won": false,
+      "probability": 10.0,
+      "amount": 10440.0,
+      "arr": 4200.0,
+      "owner": "Marta Marron",
+      "cs_lead": "Marta Marron",
+      "account": "Allianz Spain",
+      "created": "2026-10-08",
+      "close_date": "2026-07-31",
+      "start_date": "2026-08-01"
+    },
     {
       "id": "006Sa00000pmS1VIAU",
       "name": "2026-U-JetSMART Airlines-Chile-WhatsApp Templates Regularization September 2026",
