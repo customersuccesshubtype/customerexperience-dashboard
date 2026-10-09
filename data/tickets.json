@@ -1,6 +1,90 @@
 {
-  "last_updated": "2026-10-08 14:21 UTC",
+  "last_updated": "2026-10-09 14:06 UTC",
   "tickets": [
+    {
+      "key": "PS-6489",
+      "summary": "Verisure ES - Populate Contact Profile in Contact Info Field",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Adrià Sastre",
+      "issuetype": "Task",
+      "created": "2026-10-09",
+      "updated": "2026-10-09",
+      "resolutiondate": "",
+      "labels": [
+        "VerisureSpain"
+      ]
+    },
+    {
+      "key": "PS-6488",
+      "summary": "RACC – Recortar mensaje de bienvenida de WhatsApp para que el merger lo fusione con el menú (staging)",
+      "status": "Ready to Deliver",
+      "status_category": "In Progress",
+      "assignee": "Aitor Casas",
+      "issuetype": "Task",
+      "created": "2026-10-09",
+      "updated": "2026-10-09",
+      "resolutiondate": "",
+      "labels": [
+        "RACC"
+      ]
+    },
+    {
+      "key": "PS-6485",
+      "summary": "DABA - Open Messaging, Expose Hubtype webhooks",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": null,
+      "issuetype": "Task",
+      "created": "2026-10-09",
+      "updated": "2026-10-09",
+      "resolutiondate": "",
+      "labels": [
+        "DABA"
+      ]
+    },
+    {
+      "key": "PS-6484",
+      "summary": "DABA - Open Messaging integration",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": null,
+      "issuetype": "Task",
+      "created": "2026-10-09",
+      "updated": "2026-10-09",
+      "resolutiondate": "",
+      "labels": [
+        "DABA"
+      ]
+    },
+    {
+      "key": "PS-6483",
+      "summary": "DABA - Configure the OAuth connection",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": null,
+      "issuetype": "Task",
+      "created": "2026-10-09",
+      "updated": "2026-10-09",
+      "resolutiondate": "",
+      "labels": [
+        "DABA"
+      ]
+    },
+    {
+      "key": "PS-6482",
+      "summary": "Ralph Lauren - Migrate coupons images from DB to S3",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Lorena Sánchez-Toril Nicolás",
+      "issuetype": "Task",
+      "created": "2026-10-09",
+      "updated": "2026-10-09",
+      "resolutiondate": "",
+      "labels": [
+        "Ralph_Lauren"
+      ]
+    },
     {
       "key": "PS-6481",
       "summary": "DABA - Genesys Integration",
@@ -9,7 +93,7 @@
       "assignee": "Adrià Sastre",
       "issuetype": "Epic",
       "created": "2026-10-08",
-      "updated": "2026-10-08",
+      "updated": "2026-10-09",
       "resolutiondate": "",
       "labels": [
         "DABA"
@@ -46,8 +130,8 @@
     {
       "key": "PS-6478",
       "summary": "Jetsmart - Flight Search complex use case missing flights",
-      "status": "Ready to Deliver",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Pep Alonso",
       "issuetype": "Bug",
       "created": "2026-10-08",
@@ -172,12 +256,12 @@
     {
       "key": "PS-6469",
       "summary": "Euroriente - Crear template Meta",
-      "status": "In Progress",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Aitor Casas",
       "issuetype": "Task",
       "created": "2026-10-07",
-      "updated": "2026-10-08",
+      "updated": "2026-10-09",
       "resolutiondate": "",
       "labels": [
         "Euroriente"
@@ -471,7 +555,7 @@
       "assignee": "AI Agent Delivery",
       "issuetype": "Task",
       "created": "2026-10-06",
-      "updated": "2026-10-07",
+      "updated": "2026-10-08",
       "resolutiondate": "",
       "labels": [
         "MichaelKors"
@@ -583,7 +667,7 @@
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-10-06",
-      "updated": "2026-10-06",
+      "updated": "2026-10-09",
       "resolutiondate": "",
       "labels": [
         "Ralph_Lauren"
@@ -648,12 +732,12 @@
     {
       "key": "PS-6435",
       "summary": "Rag&Bone - Send country to Salesforce",
-      "status": "Ready for review",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Marco Gallego Ropero",
       "issuetype": "Task",
       "created": "2026-10-06",
-      "updated": "2026-10-07",
+      "updated": "2026-10-09",
       "resolutiondate": "",
       "labels": [
         "Rag&Bone"
@@ -662,12 +746,12 @@
     {
       "key": "PS-6434",
       "summary": "Guess - Map \"CI\" country as \"IC\" in Salesforce",
-      "status": "Ready for review",
-      "status_category": "In Progress",
+      "status": "In production",
+      "status_category": "Done",
       "assignee": "Marco Gallego Ropero",
       "issuetype": "Task",
       "created": "2026-10-06",
-      "updated": "2026-10-07",
+      "updated": "2026-10-09",
       "resolutiondate": "",
       "labels": [
         "Guess"
@@ -732,8 +816,8 @@
     {
       "key": "PS-6428",
       "summary": "Tendam – Actualizar bot de staging a Botonic v0.57.0",
-      "status": "Ready to Deliver",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Marco Gallego Ropero",
       "issuetype": "Epic",
       "created": "2026-10-06",
@@ -2770,12 +2854,12 @@
     {
       "key": "PS-6279",
       "summary": "Air Europa - Develop: Interpret \"Hubtype Action\" and trigger complex use case Flight Search with values coming in the API call or complete deeplink Refex",
-      "status": "Ready for review",
-      "status_category": "In Progress",
+      "status": "APPROVED FOR PRODUCTION",
+      "status_category": "Done",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-09-17",
-      "updated": "2026-10-05",
+      "updated": "2026-10-09",
       "resolutiondate": "",
       "labels": [
         "AirEuropa"
@@ -3291,7 +3375,7 @@
       "assignee": "Aitor Casas",
       "issuetype": "Task",
       "created": "2026-09-13",
-      "updated": "2026-10-08",
+      "updated": "2026-10-09",
       "resolutiondate": "",
       "labels": [
         "Tendam"
@@ -3300,12 +3384,12 @@
     {
       "key": "PS-6239",
       "summary": "Tendam - Añadir encuesta de satisfaccion al bot de cada marca",
-      "status": "Open",
+      "status": "To Do",
       "status_category": "To Do",
       "assignee": "Aitor Casas",
       "issuetype": "Epic",
       "created": "2026-09-13",
-      "updated": "2026-09-28",
+      "updated": "2026-10-08",
       "resolutiondate": "",
       "labels": [
         "Tendam"
@@ -3426,12 +3510,12 @@
     {
       "key": "PS-6230",
       "summary": "Easyjet - Archive bots + remove AWS resources.",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "In Progress",
+      "status_category": "In Progress",
       "assignee": "Adrià Sastre",
       "issuetype": "Task",
       "created": "2026-09-10",
-      "updated": "2026-09-10",
+      "updated": "2026-10-09",
       "resolutiondate": "",
       "labels": [
         "easyjet"
@@ -6930,7 +7014,7 @@
       "assignee": "Pep Alonso",
       "issuetype": "Task",
       "created": "2026-07-22",
-      "updated": "2026-09-28",
+      "updated": "2026-10-09",
       "resolutiondate": "",
       "labels": [
         "Occident"
