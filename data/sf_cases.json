@@ -1,13 +1,35 @@
 {
-  "last_updated": "2026-10-09 14:22 UTC",
+  "last_updated": "2026-10-10 13:43 UTC",
   "cases": [
+    {
+      "id": "500Sa000015OtCyIAK",
+      "case_number": "00025425",
+      "subject": "Incidencia teléfonos fijos",
+      "status": "New",
+      "priority": "Low",
+      "is_closed": false,
+      "is_escalated": false,
+      "owner": "Aitor Casas",
+      "account": "",
+      "origin": "Inbound",
+      "type": "",
+      "feeling": "",
+      "issue_type": "",
+      "channel": "Email",
+      "is_critical": "L4",
+      "escalated_team": "",
+      "resolution_time": "",
+      "created": "2026-10-10",
+      "closed": "",
+      "last_modified": "2026-10-10"
+    },
     {
       "id": "500Sa000013sGyRIAU",
       "case_number": "00025424",
       "subject": "Re: Templates IVR",
-      "status": "Closed",
+      "status": "Open",
       "priority": "Low",
-      "is_closed": true,
+      "is_closed": false,
       "is_escalated": false,
       "owner": "Aitor Casas",
       "account": "JetSMART Airlines",
@@ -18,9 +40,9 @@
       "channel": "Email",
       "is_critical": "L4",
       "escalated_team": "",
-      "resolution_time": "1. <6h",
+      "resolution_time": "",
       "created": "2026-10-09",
-      "closed": "2026-10-09",
+      "closed": "",
       "last_modified": "2026-10-09"
     },
     {
@@ -3874,8 +3896,8 @@
       "last_modified": "2026-08-06"
     },
     {
-      "id": "500Sa00000yDh4fIAC",
-      "case_number": "00025218",
+      "id": "500Sa00000yEAHtIAO",
+      "case_number": "00025217",
       "subject": "Password reset request",
       "status": "Closed",
       "priority": "Low",
@@ -3896,8 +3918,8 @@
       "last_modified": "2026-08-05"
     },
     {
-      "id": "500Sa00000yEAHtIAO",
-      "case_number": "00025217",
+      "id": "500Sa00000yDh4fIAC",
+      "case_number": "00025218",
       "subject": "Password reset request",
       "status": "Closed",
       "priority": "Low",

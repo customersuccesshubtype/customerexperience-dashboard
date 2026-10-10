@@ -1,6 +1,23 @@
 {
-  "last_updated": "2026-10-09 14:22 UTC",
+  "last_updated": "2026-10-10 13:43 UTC",
   "opportunities": [
+    {
+      "id": "006Sa00000qEM4PIAW",
+      "name": "2026-U-Securitas Direct-MK RP Project",
+      "type": "Upsell",
+      "stage": "Procurement",
+      "is_closed": false,
+      "is_won": false,
+      "probability": 70.0,
+      "amount": 87699.0,
+      "arr": 87699.0,
+      "owner": "Marc Caballe",
+      "cs_lead": "Marta Marron",
+      "account": "Verisure Spain Lead Gen",
+      "created": "2026-10-09",
+      "close_date": "2026-10-22",
+      "start_date": "2026-10-16"
+    },
     {
       "id": "006Sa00000q4vwFIAQ",
       "name": "2026-U-Allianz ES-Formulario Seguro de Patinetes",
@@ -444,23 +461,6 @@
       "start_date": "2026-09-03"
     },
     {
-      "id": "006Sa00000n2tU3IAI",
-      "name": "2026-U-Wizz Air-Extra Languages (Georgian, Albanian, Arabic, and Bulgarian)",
-      "type": "Upsell",
-      "stage": "Opportunity identified",
-      "is_closed": false,
-      "is_won": false,
-      "probability": 10.0,
-      "amount": 3450.76,
-      "arr": 4544.16,
-      "owner": "Julieta Mezza",
-      "cs_lead": "Julieta Mezza",
-      "account": "Wizz Air",
-      "created": "2026-09-01",
-      "close_date": "2026-09-01",
-      "start_date": "2026-10-07"
-    },
-    {
       "id": "006Sa00000n2KBOIA2",
       "name": "2026-U-Securitas (Lead Gen)- Extra MAUs August 2026",
       "type": "Upsell",
@@ -476,6 +476,23 @@
       "created": "2026-09-01",
       "close_date": "2026-09-01",
       "start_date": "2026-09-01"
+    },
+    {
+      "id": "006Sa00000n2tU3IAI",
+      "name": "2026-U-Wizz Air-Extra Languages (Georgian, Albanian, Arabic, and Bulgarian)",
+      "type": "Upsell",
+      "stage": "Opportunity identified",
+      "is_closed": false,
+      "is_won": false,
+      "probability": 10.0,
+      "amount": 3450.76,
+      "arr": 4544.16,
+      "owner": "Julieta Mezza",
+      "cs_lead": "Julieta Mezza",
+      "account": "Wizz Air",
+      "created": "2026-09-01",
+      "close_date": "2026-09-01",
+      "start_date": "2026-10-07"
     },
     {
       "id": "006Sa00000misYxIAI",
@@ -748,23 +765,6 @@
       "created": "2026-07-30",
       "close_date": "2026-07-30",
       "start_date": "2026-07-04"
-    },
-    {
-      "id": "006Sa00000l1LowIAE",
-      "name": "2026-U-Daba-B2B-WhatsApp/Webchat Automation",
-      "type": "Upsell",
-      "stage": "Project plan",
-      "is_closed": false,
-      "is_won": false,
-      "probability": 30.0,
-      "amount": 62004.0,
-      "arr": 62004.0,
-      "owner": "Marc Caballe",
-      "cs_lead": "",
-      "account": "DABA (Nespresso)",
-      "created": "2026-07-29",
-      "close_date": "2026-11-30",
-      "start_date": ""
     },
     {
       "id": "006Sa00000l1KePIAU",
