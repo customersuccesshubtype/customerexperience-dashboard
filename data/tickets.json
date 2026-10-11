@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-10 13:16 UTC",
+  "last_updated": "2026-10-11 13:44 UTC",
   "tickets": [
     {
       "key": "PS-6490",
@@ -247,7 +247,7 @@
       "assignee": "AI Agent Delivery",
       "issuetype": "Task",
       "created": "2026-10-07",
-      "updated": "2026-10-07",
+      "updated": "2026-10-11",
       "resolutiondate": "",
       "labels": [
         "Libeen"
@@ -569,7 +569,7 @@
       "assignee": "AI Agent Delivery",
       "issuetype": "Task",
       "created": "2026-10-06",
-      "updated": "2026-10-08",
+      "updated": "2026-10-11",
       "resolutiondate": "",
       "labels": [
         "MichaelKors"
