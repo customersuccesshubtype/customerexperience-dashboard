@@ -1,13 +1,13 @@
 {
-  "last_updated": "2026-10-10 13:43 UTC",
+  "last_updated": "2026-10-11 14:03 UTC",
   "cases": [
     {
       "id": "500Sa000015OtCyIAK",
       "case_number": "00025425",
       "subject": "Incidencia teléfonos fijos",
-      "status": "New",
+      "status": "Closed",
       "priority": "Low",
-      "is_closed": false,
+      "is_closed": true,
       "is_escalated": false,
       "owner": "Aitor Casas",
       "account": "",
@@ -18,18 +18,18 @@
       "channel": "Email",
       "is_critical": "L4",
       "escalated_team": "",
-      "resolution_time": "",
+      "resolution_time": "1. <6h",
       "created": "2026-10-10",
-      "closed": "",
+      "closed": "2026-10-10",
       "last_modified": "2026-10-10"
     },
     {
       "id": "500Sa000013sGyRIAU",
       "case_number": "00025424",
       "subject": "Re: Templates IVR",
-      "status": "Open",
+      "status": "Closed",
       "priority": "Low",
-      "is_closed": false,
+      "is_closed": true,
       "is_escalated": false,
       "owner": "Aitor Casas",
       "account": "JetSMART Airlines",
@@ -40,10 +40,10 @@
       "channel": "Email",
       "is_critical": "L4",
       "escalated_team": "",
-      "resolution_time": "",
+      "resolution_time": "4. 24-36h",
       "created": "2026-10-09",
-      "closed": "",
-      "last_modified": "2026-10-09"
+      "closed": "2026-10-10",
+      "last_modified": "2026-10-10"
     },
     {
       "id": "500Sa000013r5CKIAY",
@@ -951,9 +951,9 @@
       "id": "500Sa000012mZUrIAM",
       "case_number": "00025376",
       "subject": "Password Reset Access for Manager Role",
-      "status": "New",
+      "status": "Closed",
       "priority": "Low",
-      "is_closed": false,
+      "is_closed": true,
       "is_escalated": false,
       "owner": "Aitor Casas",
       "account": "",
@@ -964,10 +964,10 @@
       "channel": "Email",
       "is_critical": "L4",
       "escalated_team": "",
-      "resolution_time": "",
+      "resolution_time": "5. >36h",
       "created": "2026-09-29",
-      "closed": "",
-      "last_modified": "2026-09-29"
+      "closed": "2026-10-10",
+      "last_modified": "2026-10-10"
     },
     {
       "id": "500Sa000012dgqeIAA",

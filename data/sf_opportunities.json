@@ -1,6 +1,23 @@
 {
-  "last_updated": "2026-10-10 13:43 UTC",
+  "last_updated": "2026-10-11 14:03 UTC",
   "opportunities": [
+    {
+      "id": "006Sa00000qK3wfIAC",
+      "name": "2026-U-Allianz ES-Scan & Buy Home Insurance",
+      "type": "Upsell",
+      "stage": "Opportunity identified",
+      "is_closed": false,
+      "is_won": false,
+      "probability": 10.0,
+      "amount": 33500.0,
+      "arr": 3500.0,
+      "owner": "Marta Marron",
+      "cs_lead": "Marta Marron",
+      "account": "Allianz Spain",
+      "created": "2026-10-11",
+      "close_date": "2026-11-01",
+      "start_date": "2026-10-01"
+    },
     {
       "id": "006Sa00000qEM4PIAW",
       "name": "2026-U-Securitas Direct-MK RP Project",
