@@ -1,6 +1,104 @@
 {
-  "last_updated": "2026-10-11 13:44 UTC",
+  "last_updated": "2026-10-12 16:28 UTC",
   "tickets": [
+    {
+      "key": "PS-6497",
+      "summary": "Ralph Lauren - Daily/weekly review of failed conversations",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Marta Marron",
+      "issuetype": "Task",
+      "created": "2026-10-12",
+      "updated": "2026-10-12",
+      "resolutiondate": "",
+      "labels": [
+        "Ralph_Lauren"
+      ]
+    },
+    {
+      "key": "PS-6496",
+      "summary": "Ralph Lauren - Reminder for customers who don't finish sign-up",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Francisca Martelli",
+      "issuetype": "Task",
+      "created": "2026-10-12",
+      "updated": "2026-10-12",
+      "resolutiondate": "",
+      "labels": [
+        "Ralph_Lauren"
+      ]
+    },
+    {
+      "key": "PS-6495",
+      "summary": "Ralph Lauren - CX Optimisation Quick Wins",
+      "status": "Open",
+      "status_category": "To Do",
+      "assignee": null,
+      "issuetype": "Epic",
+      "created": "2026-10-12",
+      "updated": "2026-10-12",
+      "resolutiondate": "",
+      "labels": [
+        "Ralph_Lauren"
+      ]
+    },
+    {
+      "key": "PS-6494",
+      "summary": "Ralph Lauren - Add \"Subscribe\" button to the opt-out confirmation message",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Andrea Talal Haidar",
+      "issuetype": "Task",
+      "created": "2026-10-12",
+      "updated": "2026-10-12",
+      "resolutiondate": "",
+      "labels": [
+        "Ralph_Lauren"
+      ]
+    },
+    {
+      "key": "PS-6493",
+      "summary": "Ralph Lauren - Remove budget question from the default gifting journey (go live after 20 Oct)",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "irene callejas",
+      "issuetype": "Task",
+      "created": "2026-10-12",
+      "updated": "2026-10-12",
+      "resolutiondate": "",
+      "labels": [
+        "Ralph_Lauren"
+      ]
+    },
+    {
+      "key": "PS-6492",
+      "summary": "Libeen - Presentar siempre el paso (\"cumples los requisitos, el siguiente paso es una llamada de 20 min\")",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "irene callejas",
+      "issuetype": "Task",
+      "created": "2026-10-12",
+      "updated": "2026-10-12",
+      "resolutiondate": "",
+      "labels": [
+        "Libeen"
+      ]
+    },
+    {
+      "key": "PS-6491",
+      "summary": "Libeen. AI Agent – ofrecer URL de autoagendado si el usuario rechaza los horarios dos veces o más (porque no le va bien las horas que se le ofrecen)",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "irene callejas",
+      "issuetype": "Task",
+      "created": "2026-10-12",
+      "updated": "2026-10-12",
+      "resolutiondate": "",
+      "labels": [
+        "Libeen"
+      ]
+    },
     {
       "key": "PS-6490",
       "summary": "Libeen · Analizar cómo mejorar la tasa de agendamiento del AI Agent",
@@ -760,12 +858,12 @@
     {
       "key": "PS-6434",
       "summary": "Guess - Map \"CI\" country as \"IC\" in Salesforce",
-      "status": "In production",
+      "status": "Done",
       "status_category": "Done",
       "assignee": "Marco Gallego Ropero",
       "issuetype": "Task",
       "created": "2026-10-06",
-      "updated": "2026-10-09",
+      "updated": "2026-10-11",
       "resolutiondate": "",
       "labels": [
         "Guess"
@@ -2506,12 +2604,12 @@
     {
       "key": "PS-6306",
       "summary": "Allianz Scan & Buy . Valorar si podemos incluir un chat conversacional para la búsqueda del vehículo",
-      "status": "In Progress",
-      "status_category": "In Progress",
+      "status": "Closed",
+      "status_category": "Done",
       "assignee": "Adrià Sastre",
       "issuetype": "Discovery Task",
       "created": "2026-09-21",
-      "updated": "2026-09-24",
+      "updated": "2026-10-12",
       "resolutiondate": "",
       "labels": [
         "Allianz-ES"
@@ -5595,12 +5693,12 @@
     {
       "key": "PS-6076",
       "summary": "Fenie Energia - AI Agent Integration",
-      "status": "APPROVED FOR PRODUCTION",
+      "status": "Done",
       "status_category": "Done",
       "assignee": "Pep Alonso",
       "issuetype": "Task",
       "created": "2026-08-05",
-      "updated": "2026-09-14",
+      "updated": "2026-10-12",
       "resolutiondate": "",
       "labels": [
         "FenieEnergia"
@@ -6234,20 +6332,6 @@
       "resolutiondate": "",
       "labels": [
         "Internal"
-      ]
-    },
-    {
-      "key": "PS-6030",
-      "summary": "Libeen - Outbound WhatsApp Templates behaviour",
-      "status": "Open",
-      "status_category": "To Do",
-      "assignee": null,
-      "issuetype": "Task",
-      "created": "2026-07-29",
-      "updated": "2026-08-03",
-      "resolutiondate": "",
-      "labels": [
-        "Libeen"
       ]
     },
     {
