@@ -1,11 +1,289 @@
 {
-  "last_updated": "2026-10-13 14:46 UTC",
+  "last_updated": "2026-10-14 12:37 UTC",
   "tickets": [
+    {
+      "key": "PS-6528",
+      "summary": "Libeen AI Agent — se ofrecen huecos que luego no se pueden reservar (4 de 11 reservas fallan)",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "irene callejas",
+      "issuetype": "Bug",
+      "created": "2026-10-14",
+      "updated": "2026-10-14",
+      "resolutiondate": "",
+      "labels": [
+        "Libeen"
+      ]
+    },
+    {
+      "key": "PS-6527",
+      "summary": "Verisure Spain - Desplegar nuevo bot en staging y en prod de nombre \"Meta\"",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Marco Gallego Ropero",
+      "issuetype": "Task",
+      "created": "2026-10-14",
+      "updated": "2026-10-14",
+      "resolutiondate": "",
+      "labels": [
+        "VerisureSpain"
+      ]
+    },
+    {
+      "key": "PS-6526",
+      "summary": "TMB - Go-live: production Zendesk Provider Account, real WhatsApp number and post-launch monitoring",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": null,
+      "issuetype": "Task",
+      "created": "2026-10-14",
+      "updated": "2026-10-14",
+      "resolutiondate": "",
+      "labels": [
+        "TMB"
+      ]
+    },
+    {
+      "key": "PS-6525",
+      "summary": "TMB - UAT with TMB team and sign-off",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": null,
+      "issuetype": "Task",
+      "created": "2026-10-14",
+      "updated": "2026-10-14",
+      "resolutiondate": "",
+      "labels": [
+        "TMB"
+      ]
+    },
+    {
+      "key": "PS-6524",
+      "summary": "TMB - End-to-end QA in staging",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": null,
+      "issuetype": "Task",
+      "created": "2026-10-14",
+      "updated": "2026-10-14",
+      "resolutiondate": "",
+      "labels": [
+        "TMB"
+      ]
+    },
+    {
+      "key": "PS-6521",
+      "summary": "TMB - Auto-close on inactivity with survey",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": null,
+      "issuetype": "Task",
+      "created": "2026-10-14",
+      "updated": "2026-10-14",
+      "resolutiondate": "",
+      "labels": [
+        "TMB"
+      ]
+    },
+    {
+      "key": "PS-6520",
+      "summary": "TMB - Zendesk ticket closure: close WhatsApp conversation, star survey and return to bot",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": null,
+      "issuetype": "Task",
+      "created": "2026-10-14",
+      "updated": "2026-10-14",
+      "resolutiondate": "",
+      "labels": [
+        "TMB"
+      ]
+    },
+    {
+      "key": "PS-6519",
+      "summary": "TMB - Business hours logic: out-of-hours message and alternative channels",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": null,
+      "issuetype": "Task",
+      "created": "2026-10-14",
+      "updated": "2026-10-14",
+      "resolutiondate": "",
+      "labels": [
+        "TMB"
+      ]
+    },
+    {
+      "key": "PS-6518",
+      "summary": "TMB - Two-way agent ↔ customer messaging incl. attachments and emojis (NEW_END_USER_MESSAGE_TO_LIVE_CHAT)",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": null,
+      "issuetype": "Task",
+      "created": "2026-10-14",
+      "updated": "2026-10-14",
+      "resolutiondate": "",
+      "labels": [
+        "TMB"
+      ]
+    },
+    {
+      "key": "PS-6517",
+      "summary": "TMB - Bot handoff to Zendesk: create ticket with history (NEW_CASE_TO_LIVE_CHAT)",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": null,
+      "issuetype": "Task",
+      "created": "2026-10-14",
+      "updated": "2026-10-14",
+      "resolutiondate": "",
+      "labels": [
+        "TMB"
+      ]
+    },
+    {
+      "key": "PS-6516",
+      "summary": "TMB - Review and update Zendesk Live Chat backend module",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Lorena Sánchez-Toril Nicolás",
+      "issuetype": "Task",
+      "created": "2026-10-14",
+      "updated": "2026-10-14",
+      "resolutiondate": "",
+      "labels": [
+        "TMB"
+      ]
+    },
+    {
+      "key": "PS-6515",
+      "summary": "TMB - Connect WhatsApp test number to TMB staging bot",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Aitor Casas",
+      "issuetype": "Task",
+      "created": "2026-10-14",
+      "updated": "2026-10-14",
+      "resolutiondate": "",
+      "labels": [
+        "TMB"
+      ]
+    },
+    {
+      "key": "PS-6514",
+      "summary": "TMB - WhatsApp ↔ Zendesk Integration",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Francisca Martelli",
+      "issuetype": "Epic",
+      "created": "2026-10-14",
+      "updated": "2026-10-14",
+      "resolutiondate": "",
+      "labels": [
+        "TMB"
+      ]
+    },
+    {
+      "key": "PS-6513",
+      "summary": "Michael Kors - WISMO: detectar número de factura y guiar al usuario al order number correcto",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Marta Marron",
+      "issuetype": "Task",
+      "created": "2026-10-14",
+      "updated": "2026-10-14",
+      "resolutiondate": "",
+      "labels": [
+        "Michael-Kors"
+      ]
+    },
+    {
+      "key": "PS-6512",
+      "summary": "Allianz Spain - Scan & Buy Hogar - Design proposal",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": null,
+      "issuetype": "Task",
+      "created": "2026-10-14",
+      "updated": "2026-10-14",
+      "resolutiondate": "",
+      "labels": []
+    },
+    {
+      "key": "PS-6511",
+      "summary": "NetBerry_Cofa - Security Questionnaire",
+      "status": "In Progress",
+      "status_category": "In Progress",
+      "assignee": "Marta Marron",
+      "issuetype": "Task",
+      "created": "2026-10-14",
+      "updated": "2026-10-14",
+      "resolutiondate": "",
+      "labels": [
+        "NetBerry_COFA"
+      ]
+    },
+    {
+      "key": "PS-6510",
+      "summary": "Allianz Partners - Seguimiento de Gruas - QA",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Marta Marron",
+      "issuetype": "Task",
+      "created": "2026-10-14",
+      "updated": "2026-10-14",
+      "resolutiondate": "",
+      "labels": [
+        "AllianzPartners"
+      ]
+    },
+    {
+      "key": "PS-6509",
+      "summary": "Allianz Agentes - Crear primera template y sus flujos",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": null,
+      "issuetype": "Task",
+      "created": "2026-10-14",
+      "updated": "2026-10-14",
+      "resolutiondate": "",
+      "labels": [
+        "Allianz-Agentes"
+      ]
+    },
+    {
+      "key": "PS-6508",
+      "summary": "ATM - Feedback Review",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Francisca Martelli",
+      "issuetype": "Task",
+      "created": "2026-10-13",
+      "updated": "2026-10-13",
+      "resolutiondate": "",
+      "labels": [
+        "ATM"
+      ]
+    },
+    {
+      "key": "PS-6507",
+      "summary": "VGRS - Review if there are inactive conversations (+24hs) that haven't finish the questionaire and send sftp to VGRS",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Adrià Sastre",
+      "issuetype": "Task",
+      "created": "2026-10-13",
+      "updated": "2026-10-13",
+      "resolutiondate": "",
+      "labels": [
+        "VGRS"
+      ]
+    },
     {
       "key": "PS-6506",
       "summary": "Euroriente - Middleware de envío de plantilla de bienvenida (Juniper → WhatsApp)",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "In Progress",
+      "status_category": "In Progress",
       "assignee": null,
       "issuetype": "Sub-task",
       "created": "2026-10-13",
@@ -32,12 +310,12 @@
     {
       "key": "PS-6504",
       "summary": "Ralph Lauren - look metrics of clicked button sales campaign ",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-10-13",
-      "updated": "2026-10-13",
+      "updated": "2026-10-14",
       "resolutiondate": "",
       "labels": [
         "Ralph_Lauren"
@@ -88,12 +366,12 @@
     {
       "key": "PS-6500",
       "summary": "Ralph Lauren - Sale agent: re-share the sale PLP link when the customer asks for it again (live until 20 Oct)",
-      "status": "In Progress",
+      "status": "Ready for review",
       "status_category": "In Progress",
       "assignee": "irene callejas",
       "issuetype": "Task",
       "created": "2026-10-13",
-      "updated": "2026-10-13",
+      "updated": "2026-10-14",
       "resolutiondate": "",
       "labels": [
         "Ralph_Lauren"
@@ -102,12 +380,12 @@
     {
       "key": "PS-6499",
       "summary": "Netberry_Cofa - Review client feedback after testing the staging bot",
-      "status": "In Progress",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Pep Alonso",
       "issuetype": "Task",
       "created": "2026-10-13",
-      "updated": "2026-10-13",
+      "updated": "2026-10-14",
       "resolutiondate": "",
       "labels": [
         "NetBerry_COFA"
@@ -158,12 +436,12 @@
     {
       "key": "PS-6495",
       "summary": "Ralph Lauren - CX Optimisation Quick Wins",
-      "status": "Open",
-      "status_category": "To Do",
+      "status": "In Progress",
+      "status_category": "In Progress",
       "assignee": "Marta Marron",
       "issuetype": "Epic",
       "created": "2026-10-12",
-      "updated": "2026-10-13",
+      "updated": "2026-10-14",
       "resolutiondate": "",
       "labels": [
         "Ralph_Lauren"
@@ -247,7 +525,7 @@
       "assignee": "Adrià Sastre",
       "issuetype": "Task",
       "created": "2026-10-09",
-      "updated": "2026-10-09",
+      "updated": "2026-10-13",
       "resolutiondate": "",
       "labels": [
         "VerisureSpain"
@@ -359,7 +637,7 @@
       "assignee": "Pep Alonso",
       "issuetype": "Bug",
       "created": "2026-10-08",
-      "updated": "2026-10-13",
+      "updated": "2026-10-14",
       "resolutiondate": "",
       "labels": [
         "AirEuropa"
@@ -382,12 +660,12 @@
     {
       "key": "PS-6477",
       "summary": "Allianz Spain - seguro de patinetes: propuesta de diseño",
-      "status": "In Progress",
+      "status": "Ready for review",
       "status_category": "In Progress",
       "assignee": "Vicky Correbo",
       "issuetype": "Task",
       "created": "2026-10-08",
-      "updated": "2026-10-13",
+      "updated": "2026-10-14",
       "resolutiondate": "",
       "labels": [
         "Allianz"
@@ -536,12 +814,12 @@
     {
       "key": "PS-6466",
       "summary": "Jetsmart - Update bot version to 0.57",
-      "status": "Ready for review",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "AI Agent Delivery",
       "issuetype": "Task",
       "created": "2026-10-07",
-      "updated": "2026-10-12",
+      "updated": "2026-10-13",
       "resolutiondate": "",
       "labels": [
         "JetSmart"
@@ -595,9 +873,9 @@
       "status": "To Do",
       "status_category": "To Do",
       "assignee": "Marco Gallego Ropero",
-      "issuetype": "Discovery Task",
+      "issuetype": "Task",
       "created": "2026-10-07",
-      "updated": "2026-10-13",
+      "updated": "2026-10-14",
       "resolutiondate": "",
       "labels": [
         "ribesalat"
@@ -914,12 +1192,12 @@
     {
       "key": "PS-6439",
       "summary": "Ralph Lauren - Create and deploy staging stack",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "In Progress",
+      "status_category": "In Progress",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-10-06",
-      "updated": "2026-10-06",
+      "updated": "2026-10-14",
       "resolutiondate": "",
       "labels": [
         "Ralph_Lauren"
@@ -928,12 +1206,12 @@
     {
       "key": "PS-6438",
       "summary": "Ralph Lauren - Migrate code from experiments repository to bots-definition",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Ready for review",
+      "status_category": "In Progress",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-10-06",
-      "updated": "2026-10-06",
+      "updated": "2026-10-14",
       "resolutiondate": "",
       "labels": [
         "Ralph_Lauren"
@@ -984,12 +1262,12 @@
     {
       "key": "PS-6434",
       "summary": "Guess - Map \"CI\" country as \"IC\" in Salesforce",
-      "status": "Done",
-      "status_category": "Done",
+      "status": "Waiting for customer",
+      "status_category": "In Progress",
       "assignee": "Marco Gallego Ropero",
       "issuetype": "Task",
       "created": "2026-10-06",
-      "updated": "2026-10-11",
+      "updated": "2026-10-14",
       "resolutiondate": "",
       "labels": [
         "Guess"
@@ -998,12 +1276,12 @@
     {
       "key": "PS-6433",
       "summary": "Internal - Update bot template to the lattest versions 0.57.0",
-      "status": "Ready for review",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "AI Agent Delivery",
       "issuetype": "Task",
       "created": "2026-10-06",
-      "updated": "2026-10-06",
+      "updated": "2026-10-14",
       "resolutiondate": "",
       "labels": [
         "Internal"
@@ -1269,7 +1547,7 @@
       "assignee": "Marco Gallego Ropero",
       "issuetype": "Task",
       "created": "2026-10-05",
-      "updated": "2026-10-08",
+      "updated": "2026-10-13",
       "resolutiondate": "",
       "labels": [
         "VGRS"
@@ -1945,7 +2223,7 @@
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-09-29",
-      "updated": "2026-10-13",
+      "updated": "2026-10-14",
       "resolutiondate": "",
       "labels": [
         "TMB"
@@ -2430,12 +2708,12 @@
     {
       "key": "PS-6327",
       "summary": "Reduce webchat-button bundle size",
-      "status": "Open",
-      "status_category": "To Do",
+      "status": "In Progress",
+      "status_category": "In Progress",
       "assignee": null,
       "issuetype": "Epic",
       "created": "2026-09-24",
-      "updated": "2026-09-24",
+      "updated": "2026-10-14",
       "resolutiondate": "",
       "labels": []
     },
@@ -2628,12 +2906,12 @@
     {
       "key": "PS-6313",
       "summary": "Hubtype - Bump internal packages to 0.56.0",
-      "status": "In Progress",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Pep Alonso",
       "issuetype": "Task",
       "created": "2026-09-22",
-      "updated": "2026-09-22",
+      "updated": "2026-10-14",
       "resolutiondate": "",
       "labels": [
         "Hubtype",
@@ -2925,12 +3203,12 @@
     {
       "key": "PS-6292",
       "summary": "RibeSalat - Revisar dudas",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Julieta Mezza",
       "issuetype": "Task",
       "created": "2026-09-18",
-      "updated": "2026-09-18",
+      "updated": "2026-10-14",
       "resolutiondate": "",
       "labels": [
         "ribesalat"
@@ -3623,12 +3901,12 @@
     {
       "key": "PS-6239",
       "summary": "Tendam - Añadir encuesta de satisfaccion al bot de cada marca",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "In Progress",
+      "status_category": "In Progress",
       "assignee": "Aitor Casas",
       "issuetype": "Epic",
       "created": "2026-09-13",
-      "updated": "2026-10-08",
+      "updated": "2026-10-14",
       "resolutiondate": "",
       "labels": [
         "Tendam"
@@ -3749,12 +4027,12 @@
     {
       "key": "PS-6230",
       "summary": "Easyjet - Archive bots + remove AWS resources.",
-      "status": "In Progress",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Adrià Sastre",
       "issuetype": "Task",
       "created": "2026-09-10",
-      "updated": "2026-10-09",
+      "updated": "2026-10-14",
       "resolutiondate": "",
       "labels": [
         "easyjet"
@@ -4139,12 +4417,12 @@
     {
       "key": "PS-6201",
       "summary": "Allianz Spain - Scan & Buy Seguro de Hogar",
-      "status": "Open",
-      "status_category": "To Do",
+      "status": "In Progress",
+      "status_category": "In Progress",
       "assignee": null,
       "issuetype": "Epic",
       "created": "2026-09-07",
-      "updated": "2026-09-07",
+      "updated": "2026-10-14",
       "resolutiondate": "",
       "labels": []
     },
@@ -4431,12 +4709,12 @@
     {
       "key": "PS-6180",
       "summary": "Internal - Update AI Agent Github Action to deploy changes to staging",
-      "status": "Ready for review",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Pep Alonso",
       "issuetype": "Task",
       "created": "2026-09-03",
-      "updated": "2026-09-21",
+      "updated": "2026-10-14",
       "resolutiondate": "",
       "labels": [
         "Internal"
@@ -5541,12 +5819,12 @@
     {
       "key": "PS-6098",
       "summary": "Demo - WAF Super Demo",
-      "status": "In Progress",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Pep Alonso",
       "issuetype": "Task",
       "created": "2026-08-14",
-      "updated": "2026-08-27",
+      "updated": "2026-10-14",
       "resolutiondate": "",
       "labels": [
         "Demo"
@@ -9150,13 +9428,13 @@
     },
     {
       "key": "PS-5835",
-      "summary": "Allianz Spain - Quote and Buy",
+      "summary": "Allianz Spain - Auto - Scan & Buy",
       "status": "In Progress",
       "status_category": "In Progress",
       "assignee": "Julieta Mezza",
       "issuetype": "Epic",
       "created": "2026-07-05",
-      "updated": "2026-08-03",
+      "updated": "2026-10-14",
       "resolutiondate": "",
       "labels": [
         "Allianz"
@@ -9781,12 +10059,12 @@
     {
       "key": "PS-5785",
       "summary": "Jetsmart - Estimate YUNO implementation",
-      "status": "Open",
-      "status_category": "To Do",
+      "status": "Closed",
+      "status_category": "Done",
       "assignee": "Julieta Mezza",
       "issuetype": "Discovery Task",
       "created": "2026-06-22",
-      "updated": "2026-07-21",
+      "updated": "2026-10-14",
       "resolutiondate": "",
       "labels": [
         "JetSmart"
@@ -12273,12 +12551,12 @@
     {
       "key": "PS-5606",
       "summary": "Jetsmart - Use of @hubtype/hubtype-sdk for all Hubtype API calls",
-      "status": "Ready to Deliver",
-      "status_category": "In Progress",
+      "status": "To Do",
+      "status_category": "To Do",
       "assignee": "Pep Alonso",
       "issuetype": "Task",
       "created": "2026-05-21",
-      "updated": "2026-10-12",
+      "updated": "2026-10-14",
       "resolutiondate": "",
       "labels": [
         "JetSmart"
@@ -14946,12 +15224,12 @@
     {
       "key": "PS-5408",
       "summary": "Internal - Migrate the Bot Template to Botonic V2",
-      "status": "In Progress",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Pep Alonso",
       "issuetype": "Task",
       "created": "2026-04-21",
-      "updated": "2026-06-17",
+      "updated": "2026-10-14",
       "resolutiondate": "",
       "labels": [
         "Internal"
@@ -21176,12 +21454,12 @@
     {
       "key": "PS-4931",
       "summary": "Jetsmart - Complex use case \"Buy a flight\"",
-      "status": "Ready for review",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Pep Alonso",
       "issuetype": "Epic",
       "created": "2026-01-30",
-      "updated": "2026-10-13",
+      "updated": "2026-10-14",
       "resolutiondate": "",
       "labels": [
         "JetSmart"
