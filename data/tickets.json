@@ -1,13 +1,173 @@
 {
-  "last_updated": "2026-10-14 12:37 UTC",
+  "last_updated": "2026-10-15 12:26 UTC",
   "tickets": [
     {
-      "key": "PS-6528",
-      "summary": "Libeen AI Agent — se ofrecen huecos que luego no se pueden reservar (4 de 11 reservas fallan)",
+      "key": "PS-6541",
+      "summary": "Ralph Lauren - Update Digital & Landlord Barcodes",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Lorena Sánchez-Toril Nicolás",
+      "issuetype": "Task",
+      "created": "2026-10-15",
+      "updated": "2026-10-15",
+      "resolutiondate": "",
+      "labels": [
+        "Ralph-Lauren",
+        "RalphLauren",
+        "Ralph_Lauren"
+      ]
+    },
+    {
+      "key": "PS-6540",
+      "summary": "Ralph Lauren - Prepare Usability testing proposal ",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Andrea Talal Haidar",
+      "issuetype": "Task",
+      "created": "2026-10-15",
+      "updated": "2026-10-15",
+      "resolutiondate": "",
+      "labels": [
+        "Ralph-Lauren",
+        "RalphLauren",
+        "Ralph_Lauren"
+      ]
+    },
+    {
+      "key": "PS-6539",
+      "summary": "Ralph Lauren - Clone In-store flow behaviour for double sign ups in the Digital onboarding flow",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Lorena Sánchez-Toril Nicolás",
+      "issuetype": "Task",
+      "created": "2026-10-15",
+      "updated": "2026-10-15",
+      "resolutiondate": "",
+      "labels": [
+        "Ralph-Lauren",
+        "RalphLauren",
+        "Ralph_Lauren"
+      ]
+    },
+    {
+      "key": "PS-6538",
+      "summary": "Ralph Lauren - Onboarding Flow re-design",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Andrea Talal Haidar",
+      "issuetype": "Task",
+      "created": "2026-10-15",
+      "updated": "2026-10-15",
+      "resolutiondate": "",
+      "labels": [
+        "Ralph_Lauren"
+      ]
+    },
+    {
+      "key": "PS-6537",
+      "summary": "Retorna - Update bot version to 0.57",
+      "status": "Ready for review",
+      "status_category": "In Progress",
+      "assignee": "AI Agent Delivery",
+      "issuetype": "Task",
+      "created": "2026-10-15",
+      "updated": "2026-10-15",
+      "resolutiondate": "",
+      "labels": [
+        "Retorna"
+      ]
+    },
+    {
+      "key": "PS-6536",
+      "summary": "RibéSalat - Bot update 0.57",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "AI Agent Delivery",
+      "issuetype": "Task",
+      "created": "2026-10-15",
+      "updated": "2026-10-15",
+      "resolutiondate": "",
+      "labels": [
+        "RibesSalat"
+      ]
+    },
+    {
+      "key": "PS-6535",
+      "summary": "VGRS - Bot update 0.57",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "AI Agent Delivery",
+      "issuetype": "Task",
+      "created": "2026-10-15",
+      "updated": "2026-10-15",
+      "resolutiondate": "",
+      "labels": [
+        "VGRS"
+      ]
+    },
+    {
+      "key": "PS-6534",
+      "summary": "RACC START – Corregir enrutado de handoffs: Mollet (08100) y colas en catalán",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Marta Marron",
+      "issuetype": "Task",
+      "created": "2026-10-15",
+      "updated": "2026-10-15",
+      "resolutiondate": "",
+      "labels": [
+        "RACC_START"
+      ]
+    },
+    {
+      "key": "PS-6532",
+      "summary": "Air Europa - Include Meta contact request button and save contact info",
+      "status": "In Review",
+      "status_category": "In Progress",
+      "assignee": "AI Agent Delivery",
+      "issuetype": "Task",
+      "created": "2026-10-15",
+      "updated": "2026-10-15",
+      "resolutiondate": "",
+      "labels": [
+        "AirEuropa"
+      ]
+    },
+    {
+      "key": "PS-6531",
+      "summary": "Ralph Lauren - Treat stated price as a soft filter in Filter Counts and Recommend Products tools (go live after 20 Oct)",
+      "status": "Ready for review",
+      "status_category": "In Progress",
+      "assignee": "AI Agent Delivery",
+      "issuetype": "Task",
+      "created": "2026-10-15",
+      "updated": "2026-10-15",
+      "resolutiondate": "",
+      "labels": [
+        "Ralph_Lauren"
+      ]
+    },
+    {
+      "key": "PS-6530",
+      "summary": "TMB - Run language battle test with the new 150-question file",
       "status": "To Do",
       "status_category": "To Do",
       "assignee": "irene callejas",
-      "issuetype": "Bug",
+      "issuetype": "Task",
+      "created": "2026-10-15",
+      "updated": "2026-10-15",
+      "resolutiondate": "",
+      "labels": [
+        "TMB"
+      ]
+    },
+    {
+      "key": "PS-6529",
+      "summary": "Libeen - deploy bgfix to stg",
+      "status": "In Progress",
+      "status_category": "In Progress",
+      "assignee": "AI Agent Delivery",
+      "issuetype": "Task",
       "created": "2026-10-14",
       "updated": "2026-10-14",
       "resolutiondate": "",
@@ -16,14 +176,28 @@
       ]
     },
     {
+      "key": "PS-6528",
+      "summary": "Libeen AI Agent — se ofrecen huecos que luego no se pueden reservar (4 de 11 reservas fallan)",
+      "status": "Ready for review",
+      "status_category": "In Progress",
+      "assignee": "irene callejas",
+      "issuetype": "Bug",
+      "created": "2026-10-14",
+      "updated": "2026-10-15",
+      "resolutiondate": "",
+      "labels": [
+        "Libeen"
+      ]
+    },
+    {
       "key": "PS-6527",
       "summary": "Verisure Spain - Desplegar nuevo bot en staging y en prod de nombre \"Meta\"",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Marco Gallego Ropero",
       "issuetype": "Task",
       "created": "2026-10-14",
-      "updated": "2026-10-14",
+      "updated": "2026-10-15",
       "resolutiondate": "",
       "labels": [
         "VerisureSpain"
@@ -207,7 +381,9 @@
       "created": "2026-10-14",
       "updated": "2026-10-14",
       "resolutiondate": "",
-      "labels": []
+      "labels": [
+        "Allianz"
+      ]
     },
     {
       "key": "PS-6511",
@@ -296,12 +472,12 @@
     {
       "key": "PS-6505",
       "summary": "Verisure Italia – Aceptar snake_case y camelCase en external_extra_data de las plantillas de WhatsApp",
-      "status": "Ready for review",
+      "status": "Ready to Deliver",
       "status_category": "In Progress",
       "assignee": "AI Agent Delivery",
       "issuetype": "Task",
       "created": "2026-10-13",
-      "updated": "2026-10-13",
+      "updated": "2026-10-15",
       "resolutiondate": "",
       "labels": [
         "Verisure_IT"
@@ -340,10 +516,10 @@
       "summary": "Ecopiezas - Ir directamente a handoff si el usuario escribe tras cerrarse el caso",
       "status": "To Do",
       "status_category": "To Do",
-      "assignee": null,
+      "assignee": "Pep Alonso",
       "issuetype": "Task",
       "created": "2026-10-13",
-      "updated": "2026-10-13",
+      "updated": "2026-10-15",
       "resolutiondate": "",
       "labels": [
         "Ecopiezas"
@@ -366,8 +542,8 @@
     {
       "key": "PS-6500",
       "summary": "Ralph Lauren - Sale agent: re-share the sale PLP link when the customer asks for it again (live until 20 Oct)",
-      "status": "Ready for review",
-      "status_category": "In Progress",
+      "status": "APPROVED FOR PRODUCTION",
+      "status_category": "Done",
       "assignee": "irene callejas",
       "issuetype": "Task",
       "created": "2026-10-13",
@@ -427,7 +603,7 @@
       "assignee": "Francisca Martelli",
       "issuetype": "Task",
       "created": "2026-10-12",
-      "updated": "2026-10-12",
+      "updated": "2026-10-15",
       "resolutiondate": "",
       "labels": [
         "Ralph_Lauren"
@@ -450,12 +626,12 @@
     {
       "key": "PS-6494",
       "summary": "Ralph Lauren - Add \"Subscribe\" button to the opt-out confirmation message",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Ready to Deliver",
+      "status_category": "In Progress",
       "assignee": "Andrea Talal Haidar",
       "issuetype": "Task",
       "created": "2026-10-12",
-      "updated": "2026-10-12",
+      "updated": "2026-10-15",
       "resolutiondate": "",
       "labels": [
         "Ralph_Lauren"
@@ -469,7 +645,7 @@
       "assignee": "irene callejas",
       "issuetype": "Task",
       "created": "2026-10-12",
-      "updated": "2026-10-12",
+      "updated": "2026-10-15",
       "resolutiondate": "",
       "labels": [
         "Ralph_Lauren"
@@ -478,12 +654,12 @@
     {
       "key": "PS-6492",
       "summary": "Libeen - Presentar siempre el paso (\"cumples los requisitos, el siguiente paso es una llamada de 20 min\")",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Ready for review",
+      "status_category": "In Progress",
       "assignee": "irene callejas",
       "issuetype": "Task",
       "created": "2026-10-12",
-      "updated": "2026-10-12",
+      "updated": "2026-10-14",
       "resolutiondate": "",
       "labels": [
         "Libeen"
@@ -492,12 +668,12 @@
     {
       "key": "PS-6491",
       "summary": "Libeen. AI Agent – ofrecer URL de autoagendado si el usuario rechaza los horarios dos veces o más (porque no le va bien las horas que se le ofrecen)",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Ready for review",
+      "status_category": "In Progress",
       "assignee": "irene callejas",
       "issuetype": "Task",
       "created": "2026-10-12",
-      "updated": "2026-10-12",
+      "updated": "2026-10-14",
       "resolutiondate": "",
       "labels": [
         "Libeen"
@@ -525,7 +701,7 @@
       "assignee": "Adrià Sastre",
       "issuetype": "Task",
       "created": "2026-10-09",
-      "updated": "2026-10-13",
+      "updated": "2026-10-14",
       "resolutiondate": "",
       "labels": [
         "VerisureSpain"
@@ -604,12 +780,12 @@
     {
       "key": "PS-6481",
       "summary": "DABA - Genesys Integration",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "In Progress",
+      "status_category": "In Progress",
       "assignee": "Adrià Sastre",
       "issuetype": "Epic",
       "created": "2026-10-08",
-      "updated": "2026-10-09",
+      "updated": "2026-10-15",
       "resolutiondate": "",
       "labels": [
         "DABA"
@@ -632,12 +808,12 @@
     {
       "key": "PS-6479",
       "summary": "Air Europa - Logged status and email info is not being saved as it used to",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "In Review",
+      "status_category": "In Progress",
       "assignee": "Pep Alonso",
       "issuetype": "Bug",
       "created": "2026-10-08",
-      "updated": "2026-10-14",
+      "updated": "2026-10-15",
       "resolutiondate": "",
       "labels": [
         "AirEuropa"
@@ -674,12 +850,12 @@
     {
       "key": "PS-6476",
       "summary": "Allianz Spain - seguro de patinetes",
-      "status": "Open",
-      "status_category": "To Do",
+      "status": "In Progress",
+      "status_category": "In Progress",
       "assignee": "Marta Marron",
       "issuetype": "Epic",
       "created": "2026-10-08",
-      "updated": "2026-10-08",
+      "updated": "2026-10-15",
       "resolutiondate": "",
       "labels": [
         "Allianz"
@@ -716,12 +892,12 @@
     {
       "key": "PS-6473",
       "summary": "Euroriente – Añadir al agente la contratación de excursiones opcionales y el teléfono de emergencias 24h",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Ready for review",
+      "status_category": "In Progress",
       "assignee": "irene callejas",
       "issuetype": "Task",
       "created": "2026-10-07",
-      "updated": "2026-10-07",
+      "updated": "2026-10-15",
       "resolutiondate": "",
       "labels": [
         "Euroriente"
@@ -842,12 +1018,12 @@
     {
       "key": "PS-6464",
       "summary": "Air Europa - Update bot version to 0.57",
-      "status": "APPROVED FOR PRODUCTION",
+      "status": "Done",
       "status_category": "Done",
       "assignee": "AI Agent Delivery",
       "issuetype": "Task",
       "created": "2026-10-07",
-      "updated": "2026-10-13",
+      "updated": "2026-10-15",
       "resolutiondate": "",
       "labels": [
         "AirEuropa"
@@ -870,12 +1046,12 @@
     {
       "key": "PS-6462",
       "summary": "RibéSalat - AI Agent Tool Development",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "In Progress",
+      "status_category": "In Progress",
       "assignee": "Marco Gallego Ropero",
       "issuetype": "Task",
       "created": "2026-10-07",
-      "updated": "2026-10-14",
+      "updated": "2026-10-15",
       "resolutiondate": "",
       "labels": [
         "ribesalat"
@@ -1066,12 +1242,12 @@
     {
       "key": "PS-6448",
       "summary": "Michael Kors - Use new ItemTrackLink / ReturnTrackLink attributes for WISMO tracking links",
-      "status": "Ready for review",
+      "status": "Ready to Deliver",
       "status_category": "In Progress",
       "assignee": "AI Agent Delivery",
       "issuetype": "Task",
       "created": "2026-10-06",
-      "updated": "2026-10-12",
+      "updated": "2026-10-15",
       "resolutiondate": "",
       "labels": [
         "Michael-Kors"
@@ -1346,12 +1522,12 @@
     {
       "key": "PS-6427",
       "summary": "SegurCaixa Adeslas – Actualizar bot de staging a Botonic v0.57.0",
-      "status": "APPROVED FOR PRODUCTION",
+      "status": "Done",
       "status_category": "Done",
       "assignee": "AI Agent Delivery",
       "issuetype": "Task",
       "created": "2026-10-06",
-      "updated": "2026-10-13",
+      "updated": "2026-10-15",
       "resolutiondate": "",
       "labels": [
         "SegurCaixaAdeslas"
@@ -1661,7 +1837,7 @@
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-10-01",
-      "updated": "2026-10-13",
+      "updated": "2026-10-15",
       "resolutiondate": "",
       "labels": [
         "Ralph_Lauren"
@@ -2129,6 +2305,20 @@
       "resolutiondate": "",
       "labels": [
         "FenieEnergia"
+      ]
+    },
+    {
+      "key": "PS-6533",
+      "summary": "Occident - Implement Meta button to ask for WhatsApp",
+      "status": "In Review",
+      "status_category": "In Progress",
+      "assignee": "AI Agent Delivery",
+      "issuetype": "Task",
+      "created": "2026-09-29",
+      "updated": "2026-10-15",
+      "resolutiondate": "",
+      "labels": [
+        "Occident"
       ]
     },
     {
@@ -3802,13 +3992,13 @@
     },
     {
       "key": "PS-6246",
-      "summary": "DABA - Security Audit & Battle Test",
+      "summary": "DABA - Audit & Battle Test",
       "status": "To Do",
       "status_category": "To Do",
       "assignee": "irene callejas",
       "issuetype": "Task",
       "created": "2026-09-14",
-      "updated": "2026-10-02",
+      "updated": "2026-10-14",
       "resolutiondate": "",
       "labels": [
         "DABA"
@@ -4695,12 +4885,12 @@
     {
       "key": "PS-6181",
       "summary": "Internal - Review why all Github Actions are triggered with a rebase",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "AI Agent Delivery",
       "issuetype": "Task",
       "created": "2026-09-03",
-      "updated": "2026-10-01",
+      "updated": "2026-10-15",
       "resolutiondate": "",
       "labels": [
         "Internal"
@@ -6434,12 +6624,12 @@
     {
       "key": "PS-6052",
       "summary": "DABA - Consulta Ultimo Pedido (WISMO; API rest)",
-      "status": "Open",
+      "status": "To Do",
       "status_category": "To Do",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-07-31",
-      "updated": "2026-09-29",
+      "updated": "2026-10-14",
       "resolutiondate": "",
       "labels": [
         "DABA"
@@ -16545,12 +16735,12 @@
     {
       "key": "PS-5305",
       "summary": "Allianz ES - Development new webview \"Defensor del asegurado\"",
-      "status": "Ready for review",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-04-08",
-      "updated": "2026-10-12",
+      "updated": "2026-10-15",
       "resolutiondate": "",
       "labels": [
         "Allianz"
@@ -17477,12 +17667,12 @@
     {
       "key": "PS-5236",
       "summary": "Security Audit: alsa/aws (3C, 4H)",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "In Progress",
+      "status_category": "In Progress",
       "assignee": "Pep Alonso",
       "issuetype": "Task",
       "created": "2026-03-24",
-      "updated": "2026-09-22",
+      "updated": "2026-10-14",
       "resolutiondate": "",
       "labels": [
         "Internal"
@@ -35079,7 +35269,7 @@
       "assignee": "Julieta Mezza",
       "issuetype": "Task",
       "created": "2025-04-08",
-      "updated": "2026-10-06",
+      "updated": "2026-10-15",
       "resolutiondate": "",
       "labels": [
         "AirEuropa"
