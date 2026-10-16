@@ -1,6 +1,88 @@
 {
-  "last_updated": "2026-10-15 12:26 UTC",
+  "last_updated": "2026-10-16 12:04 UTC",
   "tickets": [
+    {
+      "key": "PS-6547",
+      "summary": "Eco Piezas - Update bot to Botonic v0.57.0",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": null,
+      "issuetype": "Task",
+      "created": "2026-10-16",
+      "updated": "2026-10-16",
+      "resolutiondate": "",
+      "labels": []
+    },
+    {
+      "key": "PS-6546",
+      "summary": "Verisure ES - Chequeo de pertenencia a Televenta - Implementación",
+      "status": "Open",
+      "status_category": "To Do",
+      "assignee": "Adrià Sastre",
+      "issuetype": "Task",
+      "created": "2026-10-16",
+      "updated": "2026-10-16",
+      "resolutiondate": "",
+      "labels": [
+        "Verisure"
+      ]
+    },
+    {
+      "key": "PS-6545",
+      "summary": "Verisure ES - Chequeo de pertenencia a Televenta - Discovery",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Adrià Sastre",
+      "issuetype": "Discovery Task",
+      "created": "2026-10-16",
+      "updated": "2026-10-16",
+      "resolutiondate": "",
+      "labels": [
+        "Verisure"
+      ]
+    },
+    {
+      "key": "PS-6544",
+      "summary": "Verisure ES - Chequeo de pertenencia a Televenta en conversaciones de WhatsApp",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Adrià Sastre",
+      "issuetype": "Epic",
+      "created": "2026-10-16",
+      "updated": "2026-10-16",
+      "resolutiondate": "",
+      "labels": [
+        "Verisure"
+      ]
+    },
+    {
+      "key": "PS-6543",
+      "summary": "CCMA – Actualizar GENE_CCMA_STAGING a la última versión de Botonic",
+      "status": "Ready for review",
+      "status_category": "In Progress",
+      "assignee": "AI Agent Delivery",
+      "issuetype": "Task",
+      "created": "2026-10-15",
+      "updated": "2026-10-15",
+      "resolutiondate": "",
+      "labels": [
+        "CCMA"
+      ]
+    },
+    {
+      "key": "PS-6542",
+      "summary": "Tendam - Todas las marcas - Añadir segunda pregunta a la encuesta de satisfaccion",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Marta Marron",
+      "issuetype": "Task",
+      "created": "2026-10-15",
+      "updated": "2026-10-15",
+      "resolutiondate": "",
+      "labels": [
+        "Tendam"
+      ]
+    },
     {
       "key": "PS-6541",
       "summary": "Ralph Lauren - Update Digital & Landlord Barcodes",
@@ -36,8 +118,8 @@
     {
       "key": "PS-6539",
       "summary": "Ralph Lauren - Clone In-store flow behaviour for double sign ups in the Digital onboarding flow",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-10-15",
@@ -108,8 +190,8 @@
     {
       "key": "PS-6534",
       "summary": "RACC START – Corregir enrutado de handoffs: Mollet (08100) y colas en catalán",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Marta Marron",
       "issuetype": "Task",
       "created": "2026-10-15",
@@ -150,8 +232,8 @@
     {
       "key": "PS-6530",
       "summary": "TMB - Run language battle test with the new 150-question file",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Ready for review",
+      "status_category": "In Progress",
       "assignee": "irene callejas",
       "issuetype": "Task",
       "created": "2026-10-15",
@@ -365,7 +447,7 @@
       "assignee": "Marta Marron",
       "issuetype": "Task",
       "created": "2026-10-14",
-      "updated": "2026-10-14",
+      "updated": "2026-10-15",
       "resolutiondate": "",
       "labels": [
         "Michael-Kors"
@@ -388,12 +470,12 @@
     {
       "key": "PS-6511",
       "summary": "NetBerry_Cofa - Security Questionnaire",
-      "status": "In Progress",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Marta Marron",
       "issuetype": "Task",
       "created": "2026-10-14",
-      "updated": "2026-10-14",
+      "updated": "2026-10-15",
       "resolutiondate": "",
       "labels": [
         "NetBerry_COFA"
@@ -614,10 +696,10 @@
       "summary": "Ralph Lauren - CX Optimisation Quick Wins",
       "status": "In Progress",
       "status_category": "In Progress",
-      "assignee": "Marta Marron",
+      "assignee": "Francisca Martelli",
       "issuetype": "Epic",
       "created": "2026-10-12",
-      "updated": "2026-10-14",
+      "updated": "2026-10-15",
       "resolutiondate": "",
       "labels": [
         "Ralph_Lauren"
@@ -654,12 +736,12 @@
     {
       "key": "PS-6492",
       "summary": "Libeen - Presentar siempre el paso (\"cumples los requisitos, el siguiente paso es una llamada de 20 min\")",
-      "status": "Ready for review",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "irene callejas",
       "issuetype": "Task",
       "created": "2026-10-12",
-      "updated": "2026-10-14",
+      "updated": "2026-10-16",
       "resolutiondate": "",
       "labels": [
         "Libeen"
@@ -696,12 +778,12 @@
     {
       "key": "PS-6489",
       "summary": "Verisure ES - Populate Contact Profile in Contact Info Field",
-      "status": "To Do",
-      "status_category": "To Do",
-      "assignee": "Adrià Sastre",
+      "status": "Ready to Deliver",
+      "status_category": "In Progress",
+      "assignee": "AI Agent Delivery",
       "issuetype": "Task",
       "created": "2026-10-09",
-      "updated": "2026-10-14",
+      "updated": "2026-10-15",
       "resolutiondate": "",
       "labels": [
         "VerisureSpain"
@@ -710,12 +792,12 @@
     {
       "key": "PS-6488",
       "summary": "RACC – Recortar mensaje de bienvenida de WhatsApp para que el merger lo fusione con el menú (staging)",
-      "status": "Waiting for customer",
-      "status_category": "In Progress",
+      "status": "Closed",
+      "status_category": "Done",
       "assignee": "Aitor Casas",
       "issuetype": "Task",
       "created": "2026-10-09",
-      "updated": "2026-10-12",
+      "updated": "2026-10-16",
       "resolutiondate": "",
       "labels": [
         "RACC"
@@ -892,8 +974,8 @@
     {
       "key": "PS-6473",
       "summary": "Euroriente – Añadir al agente la contratación de excursiones opcionales y el teléfono de emergencias 24h",
-      "status": "Ready for review",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "irene callejas",
       "issuetype": "Task",
       "created": "2026-10-07",
@@ -1051,7 +1133,7 @@
       "assignee": "Marco Gallego Ropero",
       "issuetype": "Task",
       "created": "2026-10-07",
-      "updated": "2026-10-15",
+      "updated": "2026-10-16",
       "resolutiondate": "",
       "labels": [
         "ribesalat"
@@ -1709,7 +1791,7 @@
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-10-05",
-      "updated": "2026-10-05",
+      "updated": "2026-10-16",
       "resolutiondate": "",
       "labels": [
         "Soledad"
@@ -1723,7 +1805,7 @@
       "assignee": "Marco Gallego Ropero",
       "issuetype": "Task",
       "created": "2026-10-05",
-      "updated": "2026-10-13",
+      "updated": "2026-10-15",
       "resolutiondate": "",
       "labels": [
         "VGRS"
@@ -2324,12 +2406,12 @@
     {
       "key": "PS-6369",
       "summary": "DABA - NEW WISMO",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Ready for review",
+      "status_category": "In Progress",
       "assignee": "Adrià Sastre",
       "issuetype": "Discovery Task",
       "created": "2026-09-29",
-      "updated": "2026-10-13",
+      "updated": "2026-10-15",
       "resolutiondate": "",
       "labels": [
         "DABA"
@@ -3239,12 +3321,12 @@
     {
       "key": "PS-6303",
       "summary": "Allianz ES - OCR pólizas - adjunto ejemplos",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Closed",
+      "status_category": "Done",
       "assignee": "Adrià Sastre",
       "issuetype": "Task",
       "created": "2026-09-21",
-      "updated": "2026-09-23",
+      "updated": "2026-10-15",
       "resolutiondate": "",
       "labels": [
         "Allianz"
@@ -3909,12 +3991,12 @@
     {
       "key": "PS-6253",
       "summary": "SegurCaixa Adeslas - Activar el cierre de casos idle de forma automática en el Desk pero asegurar que mostramos un cierto texto al cliente (pdte definir por cliente)",
-      "status": "APPROVED FOR PRODUCTION",
+      "status": "Done",
       "status_category": "Done",
       "assignee": "Aitor Casas",
       "issuetype": "Task",
       "created": "2026-09-15",
-      "updated": "2026-10-13",
+      "updated": "2026-10-15",
       "resolutiondate": "",
       "labels": [
         "SegurCaixa"
@@ -3923,12 +4005,12 @@
     {
       "key": "PS-6252",
       "summary": "SegurCaixa Adeslas - Añadir condicional de contact reason para evitar hacer encuesta rating a ciertos casos",
-      "status": "In Progress",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Marta Marron",
       "issuetype": "Task",
       "created": "2026-09-15",
-      "updated": "2026-10-13",
+      "updated": "2026-10-16",
       "resolutiondate": "",
       "labels": [
         "SegurCaixa"
@@ -6545,7 +6627,7 @@
       "assignee": "Vicky Correbo",
       "issuetype": "Task",
       "created": "2026-07-31",
-      "updated": "2026-09-15",
+      "updated": "2026-10-15",
       "resolutiondate": "",
       "labels": [
         "Allianz"
@@ -7492,12 +7574,12 @@
     {
       "key": "PS-5989",
       "summary": "Internal learning - Bot development learning",
-      "status": "Open",
-      "status_category": "To Do",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Marco Gallego Ropero",
       "issuetype": "Epic",
       "created": "2026-07-26",
-      "updated": "2026-07-27",
+      "updated": "2026-10-15",
       "resolutiondate": "",
       "labels": [
         "Internal"
@@ -32677,12 +32759,12 @@
     {
       "key": "PS-4019",
       "summary": "Estimate - Air Europa - Consultar Perfil - 1era fase",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "In Progress",
+      "status_category": "In Progress",
       "assignee": "Adrià Sastre",
       "issuetype": "Discovery Task",
       "created": "2025-05-26",
-      "updated": "2026-09-28",
+      "updated": "2026-10-16",
       "resolutiondate": "",
       "labels": [
         "AirEuropa",
@@ -32697,7 +32779,7 @@
       "assignee": "Adrià Sastre",
       "issuetype": "Epic",
       "created": "2025-05-26",
-      "updated": "2026-10-05",
+      "updated": "2026-10-16",
       "resolutiondate": "",
       "labels": [
         "AirEuropa"
@@ -35202,7 +35284,7 @@
       "assignee": "Adrià Sastre",
       "issuetype": "Task",
       "created": "2025-04-10",
-      "updated": "2026-10-13",
+      "updated": "2026-10-16",
       "resolutiondate": "",
       "labels": []
     },
