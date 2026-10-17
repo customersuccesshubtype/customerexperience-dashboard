@@ -1,6 +1,146 @@
 {
-  "last_updated": "2026-10-16 12:04 UTC",
+  "last_updated": "2026-10-17 11:20 UTC",
   "tickets": [
+    {
+      "key": "PS-6557",
+      "summary": "Michael Kors: shorten AI agent prompt, keep one master version and evaluate a stronger model",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "irene callejas",
+      "issuetype": "Task",
+      "created": "2026-10-17",
+      "updated": "2026-10-17",
+      "resolutiondate": "",
+      "labels": [
+        "MichaelKors"
+      ]
+    },
+    {
+      "key": "PS-6556",
+      "summary": "Definir solución de transferencia de datos",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Adrià Sastre",
+      "issuetype": "Task",
+      "created": "2026-10-16",
+      "updated": "2026-10-16",
+      "resolutiondate": "",
+      "labels": [
+        "Verisure"
+      ]
+    },
+    {
+      "key": "PS-6555",
+      "summary": "Definir el prompt del AI Agent",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "irene callejas",
+      "issuetype": "Task",
+      "created": "2026-10-16",
+      "updated": "2026-10-16",
+      "resolutiondate": "",
+      "labels": [
+        "Verisure"
+      ]
+    },
+    {
+      "key": "PS-6554",
+      "summary": "Integrar los 4 números de WhatsApp",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Aitor Casas",
+      "issuetype": "Task",
+      "created": "2026-10-16",
+      "updated": "2026-10-16",
+      "resolutiondate": "",
+      "labels": [
+        "Verisure"
+      ]
+    },
+    {
+      "key": "PS-6553",
+      "summary": "Crear organización",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Aitor Casas",
+      "issuetype": "Task",
+      "created": "2026-10-16",
+      "updated": "2026-10-16",
+      "resolutiondate": "",
+      "labels": [
+        "Verisure"
+      ]
+    },
+    {
+      "key": "PS-6552",
+      "summary": "Verisure Cita - Fase 1",
+      "status": "Open",
+      "status_category": "To Do",
+      "assignee": "Marta Marron",
+      "issuetype": "Epic",
+      "created": "2026-10-16",
+      "updated": "2026-10-16",
+      "resolutiondate": "",
+      "labels": [
+        "Verisure"
+      ]
+    },
+    {
+      "key": "PS-6551",
+      "summary": "Ralph Lauren- check fix for timeouts syncs ",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Lorena Sánchez-Toril Nicolás",
+      "issuetype": "Task",
+      "created": "2026-10-16",
+      "updated": "2026-10-16",
+      "resolutiondate": "",
+      "labels": [
+        "Ralph_Lauren"
+      ]
+    },
+    {
+      "key": "PS-6550",
+      "summary": "Tendam – Analizar 2 conversaciones WhatsApp (ES/PT) no integradas en InConcert",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Adrià Sastre",
+      "issuetype": "Task",
+      "created": "2026-10-16",
+      "updated": "2026-10-16",
+      "resolutiondate": "",
+      "labels": [
+        "Tendam"
+      ]
+    },
+    {
+      "key": "PS-6549",
+      "summary": "GUESS - Update Bot Version to 0.57",
+      "status": "APPROVED FOR PRODUCTION",
+      "status_category": "Done",
+      "assignee": "AI Agent Delivery",
+      "issuetype": "Task",
+      "created": "2026-10-16",
+      "updated": "2026-10-16",
+      "resolutiondate": "",
+      "labels": [
+        "Guess"
+      ]
+    },
+    {
+      "key": "PS-6548",
+      "summary": "netberry-cofa: enviar historial de la conversación como nota interna al abrir el caso en Zendesk",
+      "status": "Ready for review",
+      "status_category": "In Progress",
+      "assignee": "Pep Alonso",
+      "issuetype": "Task",
+      "created": "2026-10-16",
+      "updated": "2026-10-16",
+      "resolutiondate": "",
+      "labels": [
+        "NetBerry_COFA"
+      ]
+    },
     {
       "key": "PS-6547",
       "summary": "Eco Piezas - Update bot to Botonic v0.57.0",
@@ -11,7 +151,9 @@
       "created": "2026-10-16",
       "updated": "2026-10-16",
       "resolutiondate": "",
-      "labels": []
+      "labels": [
+        "EcoPiezas"
+      ]
     },
     {
       "key": "PS-6546",
@@ -148,12 +290,12 @@
     {
       "key": "PS-6537",
       "summary": "Retorna - Update bot version to 0.57",
-      "status": "Ready for review",
-      "status_category": "In Progress",
+      "status": "APPROVED FOR PRODUCTION",
+      "status_category": "Done",
       "assignee": "AI Agent Delivery",
       "issuetype": "Task",
       "created": "2026-10-15",
-      "updated": "2026-10-15",
+      "updated": "2026-10-16",
       "resolutiondate": "",
       "labels": [
         "Retorna"
@@ -232,12 +374,12 @@
     {
       "key": "PS-6530",
       "summary": "TMB - Run language battle test with the new 150-question file",
-      "status": "Ready for review",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "irene callejas",
       "issuetype": "Task",
       "created": "2026-10-15",
-      "updated": "2026-10-15",
+      "updated": "2026-10-16",
       "resolutiondate": "",
       "labels": [
         "TMB"
@@ -512,12 +654,12 @@
     {
       "key": "PS-6508",
       "summary": "ATM - Feedback Review",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "In Progress",
+      "status_category": "In Progress",
       "assignee": "Francisca Martelli",
       "issuetype": "Task",
       "created": "2026-10-13",
-      "updated": "2026-10-13",
+      "updated": "2026-10-16",
       "resolutiondate": "",
       "labels": [
         "ATM"
@@ -582,12 +724,12 @@
     {
       "key": "PS-6503",
       "summary": "DABA - Flow \"Identificación de máquina\"",
-      "status": "Ready for review",
-      "status_category": "In Progress",
+      "status": "To Do",
+      "status_category": "To Do",
       "assignee": "irene callejas",
       "issuetype": "Task",
       "created": "2026-10-13",
-      "updated": "2026-10-13",
+      "updated": "2026-10-16",
       "resolutiondate": "",
       "labels": [
         "DABA"
@@ -596,12 +738,12 @@
     {
       "key": "PS-6502",
       "summary": "Ecopiezas - Ir directamente a handoff si el usuario escribe tras cerrarse el caso",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Pep Alonso",
       "issuetype": "Task",
       "created": "2026-10-13",
-      "updated": "2026-10-15",
+      "updated": "2026-10-16",
       "resolutiondate": "",
       "labels": [
         "Ecopiezas"
@@ -610,12 +752,12 @@
     {
       "key": "PS-6501",
       "summary": "DABA - WISMO AI Agent: implement order tools and prompt (after client validates flow)",
-      "status": "To Do",
+      "status": "Open",
       "status_category": "To Do",
       "assignee": "irene callejas",
       "issuetype": "Task",
       "created": "2026-10-13",
-      "updated": "2026-10-13",
+      "updated": "2026-10-16",
       "resolutiondate": "",
       "labels": [
         "DABA"
@@ -680,12 +822,12 @@
     {
       "key": "PS-6496",
       "summary": "Ralph Lauren - Reminder for customers who don't finish sign-up",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "In Progress",
+      "status_category": "In Progress",
       "assignee": "Francisca Martelli",
       "issuetype": "Task",
       "created": "2026-10-12",
-      "updated": "2026-10-15",
+      "updated": "2026-10-16",
       "resolutiondate": "",
       "labels": [
         "Ralph_Lauren"
@@ -1450,12 +1592,12 @@
     {
       "key": "PS-6439",
       "summary": "Ralph Lauren - Create and deploy staging stack",
-      "status": "In Progress",
+      "status": "Ready for review",
       "status_category": "In Progress",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-10-06",
-      "updated": "2026-10-14",
+      "updated": "2026-10-16",
       "resolutiondate": "",
       "labels": [
         "Ralph_Lauren"
@@ -1478,12 +1620,12 @@
     {
       "key": "PS-6437",
       "summary": "Ralph Lauren - Migrate DB from production to staging",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "In Progress",
+      "status_category": "In Progress",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-10-06",
-      "updated": "2026-10-06",
+      "updated": "2026-10-16",
       "resolutiondate": "",
       "labels": [
         "Ralph_Lauren"
@@ -1730,12 +1872,12 @@
     {
       "key": "PS-6418",
       "summary": "Grupo Soledad - Review pedidoComprobarPago API and estimate effort",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "In Progress",
+      "status_category": "In Progress",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Discovery Task",
       "created": "2026-10-05",
-      "updated": "2026-10-06",
+      "updated": "2026-10-16",
       "resolutiondate": "",
       "labels": [
         "Soledad"
@@ -2411,7 +2553,7 @@
       "assignee": "Adrià Sastre",
       "issuetype": "Discovery Task",
       "created": "2026-09-29",
-      "updated": "2026-10-15",
+      "updated": "2026-10-16",
       "resolutiondate": "",
       "labels": [
         "DABA"
@@ -4467,12 +4609,12 @@
     {
       "key": "PS-6218",
       "summary": "Retorna - Limit Image Fallback Message to 1 per Conversation ID",
-      "status": "Waiting for Product",
-      "status_category": "To Do",
+      "status": "In Progress",
+      "status_category": "In Progress",
       "assignee": "Adrià Sastre",
       "issuetype": "Task",
       "created": "2026-09-09",
-      "updated": "2026-09-28",
+      "updated": "2026-10-16",
       "resolutiondate": "",
       "labels": [
         "Retorna"
