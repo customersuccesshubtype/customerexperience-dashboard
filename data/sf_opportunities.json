@@ -1,6 +1,23 @@
 {
-  "last_updated": "2026-10-16 12:25 UTC",
+  "last_updated": "2026-10-17 11:37 UTC",
   "opportunities": [
+    {
+      "id": "006Sa00000qxMGJIA2",
+      "name": "2027-R-TMB-Spain",
+      "type": "Renewal",
+      "stage": "Opportunity identified",
+      "is_closed": false,
+      "is_won": false,
+      "probability": 10.0,
+      "amount": 78223.92,
+      "arr": 78223.92,
+      "owner": "Marta Marron",
+      "cs_lead": "Francisca Martelli",
+      "account": "TMB",
+      "created": "2026-10-17",
+      "close_date": "2027-10-14",
+      "start_date": "2027-10-14"
+    },
     {
       "id": "006Sa00000qsVc2IAE",
       "name": "TEST Flujo Waiting for signature (borrar)",
@@ -2470,17 +2487,17 @@
       "id": "006Sa00000Y9h2AIAR",
       "name": "2026-R-TMB-Spain",
       "type": "Renewal",
-      "stage": "Opportunity identified",
-      "is_closed": false,
-      "is_won": false,
-      "probability": 10.0,
+      "stage": "Closed Won",
+      "is_closed": true,
+      "is_won": true,
+      "probability": 100.0,
       "amount": 78223.92,
       "arr": 78223.92,
       "owner": "Marta Marron",
       "cs_lead": "Francisca Martelli",
       "account": "TMB",
       "created": "2026-01-04",
-      "close_date": "2026-01-04",
+      "close_date": "2026-10-17",
       "start_date": "2026-10-14"
     },
     {

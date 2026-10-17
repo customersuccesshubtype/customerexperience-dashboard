@@ -1,6 +1,28 @@
 {
-  "last_updated": "2026-10-16 12:25 UTC",
+  "last_updated": "2026-10-17 11:37 UTC",
   "cases": [
+    {
+      "id": "500Sa000018KAvrIAG",
+      "case_number": "00025442",
+      "subject": "Conversaciones no integradas en InConcert",
+      "status": "New",
+      "priority": "Low",
+      "is_closed": false,
+      "is_escalated": false,
+      "owner": "Aitor Casas",
+      "account": "Tendam (Cortefiel)",
+      "origin": "Inbound",
+      "type": "",
+      "feeling": "",
+      "issue_type": "",
+      "channel": "Email",
+      "is_critical": "L4",
+      "escalated_team": "",
+      "resolution_time": "",
+      "created": "2026-10-16",
+      "closed": "",
+      "last_modified": "2026-10-16"
+    },
     {
       "id": "500Sa000018Jer6IAC",
       "case_number": "00025441",
@@ -4248,8 +4270,8 @@
       "last_modified": "2026-08-06"
     },
     {
-      "id": "500Sa00000yEAHtIAO",
-      "case_number": "00025217",
+      "id": "500Sa00000yDh4fIAC",
+      "case_number": "00025218",
       "subject": "Password reset request",
       "status": "Closed",
       "priority": "Low",
@@ -4270,8 +4292,8 @@
       "last_modified": "2026-08-05"
     },
     {
-      "id": "500Sa00000yDh4fIAC",
-      "case_number": "00025218",
+      "id": "500Sa00000yEAHtIAO",
+      "case_number": "00025217",
       "subject": "Password reset request",
       "status": "Closed",
       "priority": "Low",
@@ -45630,15 +45652,15 @@
       "last_modified": "2025-06-09"
     },
     {
-      "id": "500Sa00000VHDyJIAX",
-      "case_number": "00022518",
-      "subject": "Fwd: Lentitud Hubtype",
+      "id": "500Sa00000VHEUYIA5",
+      "case_number": "00022519",
+      "subject": "Lentitud Hubtype",
       "status": "Closed",
       "priority": "Low",
       "is_closed": true,
       "is_escalated": false,
       "owner": "Aitor Casas",
-      "account": "Hubtype",
+      "account": "Occident",
       "origin": "Inbound",
       "type": "",
       "feeling": "",
@@ -45652,15 +45674,15 @@
       "last_modified": "2025-06-09"
     },
     {
-      "id": "500Sa00000VHEUYIA5",
-      "case_number": "00022519",
-      "subject": "Lentitud Hubtype",
+      "id": "500Sa00000VHDyJIAX",
+      "case_number": "00022518",
+      "subject": "Fwd: Lentitud Hubtype",
       "status": "Closed",
       "priority": "Low",
       "is_closed": true,
       "is_escalated": false,
       "owner": "Aitor Casas",
-      "account": "Occident",
+      "account": "Hubtype",
       "origin": "Inbound",
       "type": "",
       "feeling": "",
