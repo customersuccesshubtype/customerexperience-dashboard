@@ -1,6 +1,34 @@
 {
-  "last_updated": "2026-10-17 11:20 UTC",
+  "last_updated": "2026-10-18 11:55 UTC",
   "tickets": [
+    {
+      "key": "PS-6559",
+      "summary": "RACC START - Actualizar paquetes @botonic y @hubtype a la versión 57 para poder ocultar Smart Intents",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": null,
+      "issuetype": "Task",
+      "created": "2026-10-17",
+      "updated": "2026-10-17",
+      "resolutiondate": "",
+      "labels": [
+        "RACC_START"
+      ]
+    },
+    {
+      "key": "PS-6558",
+      "summary": "Polarier: returning hotels receive a double greeting after scanning the QR",
+      "status": "Ready for review",
+      "status_category": "In Progress",
+      "assignee": "Marta Marron",
+      "issuetype": "Task",
+      "created": "2026-10-17",
+      "updated": "2026-10-17",
+      "resolutiondate": "",
+      "labels": [
+        "Polarier"
+      ]
+    },
     {
       "key": "PS-6557",
       "summary": "Michael Kors: shorten AI agent prompt, keep one master version and evaluate a stronger model",
@@ -17,13 +45,13 @@
     },
     {
       "key": "PS-6556",
-      "summary": "Definir solución de transferencia de datos",
+      "summary": "Verisure Cita - Definir solución de transferencia de datos",
       "status": "To Do",
       "status_category": "To Do",
       "assignee": "Adrià Sastre",
       "issuetype": "Task",
       "created": "2026-10-16",
-      "updated": "2026-10-16",
+      "updated": "2026-10-17",
       "resolutiondate": "",
       "labels": [
         "Verisure"
@@ -31,13 +59,13 @@
     },
     {
       "key": "PS-6555",
-      "summary": "Definir el prompt del AI Agent",
+      "summary": "Verisure Cita - Definir el prompt del AI Agent",
       "status": "To Do",
       "status_category": "To Do",
       "assignee": "irene callejas",
       "issuetype": "Task",
       "created": "2026-10-16",
-      "updated": "2026-10-16",
+      "updated": "2026-10-17",
       "resolutiondate": "",
       "labels": [
         "Verisure"
@@ -45,13 +73,13 @@
     },
     {
       "key": "PS-6554",
-      "summary": "Integrar los 4 números de WhatsApp",
+      "summary": "Verisure Cita - Integrar los 4 números de WhatsApp",
       "status": "To Do",
       "status_category": "To Do",
       "assignee": "Aitor Casas",
       "issuetype": "Task",
       "created": "2026-10-16",
-      "updated": "2026-10-16",
+      "updated": "2026-10-17",
       "resolutiondate": "",
       "labels": [
         "Verisure"
@@ -59,13 +87,13 @@
     },
     {
       "key": "PS-6553",
-      "summary": "Crear organización",
+      "summary": "Verisure Cita - Crear organización",
       "status": "To Do",
       "status_category": "To Do",
       "assignee": "Aitor Casas",
       "issuetype": "Task",
       "created": "2026-10-16",
-      "updated": "2026-10-16",
+      "updated": "2026-10-17",
       "resolutiondate": "",
       "labels": [
         "Verisure"
@@ -570,12 +598,12 @@
     {
       "key": "PS-6514",
       "summary": "TMB - WhatsApp ↔ Zendesk Integration",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "In Progress",
+      "status_category": "In Progress",
       "assignee": "Francisca Martelli",
       "issuetype": "Epic",
       "created": "2026-10-14",
-      "updated": "2026-10-14",
+      "updated": "2026-10-17",
       "resolutiondate": "",
       "labels": [
         "TMB"
@@ -626,12 +654,12 @@
     {
       "key": "PS-6510",
       "summary": "Allianz Partners - Seguimiento de Gruas - QA",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Waiting for customer",
+      "status_category": "In Progress",
       "assignee": "Marta Marron",
       "issuetype": "Task",
       "created": "2026-10-14",
-      "updated": "2026-10-14",
+      "updated": "2026-10-17",
       "resolutiondate": "",
       "labels": [
         "AllianzPartners"
@@ -684,10 +712,10 @@
       "summary": "Euroriente - Middleware de envío de plantilla de bienvenida (Juniper → WhatsApp)",
       "status": "In Progress",
       "status_category": "In Progress",
-      "assignee": null,
+      "assignee": "Pep Alonso",
       "issuetype": "Sub-task",
       "created": "2026-10-13",
-      "updated": "2026-10-13",
+      "updated": "2026-10-17",
       "resolutiondate": "",
       "labels": [
         "Euroriente"
@@ -724,12 +752,12 @@
     {
       "key": "PS-6503",
       "summary": "DABA - Flow \"Identificación de máquina\"",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "In Progress",
+      "status_category": "In Progress",
       "assignee": "irene callejas",
       "issuetype": "Task",
       "created": "2026-10-13",
-      "updated": "2026-10-16",
+      "updated": "2026-10-17",
       "resolutiondate": "",
       "labels": [
         "DABA"
@@ -1060,12 +1088,12 @@
     {
       "key": "PS-6477",
       "summary": "Allianz Spain - seguro de patinetes: propuesta de diseño",
-      "status": "Ready for review",
+      "status": "Ready to Deliver",
       "status_category": "In Progress",
       "assignee": "Vicky Correbo",
       "issuetype": "Task",
       "created": "2026-10-08",
-      "updated": "2026-10-14",
+      "updated": "2026-10-17",
       "resolutiondate": "",
       "labels": [
         "Allianz"
@@ -1634,12 +1662,12 @@
     {
       "key": "PS-6436",
       "summary": "Ralph Lauren - Staging console",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "In Progress",
+      "status_category": "In Progress",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Epic",
       "created": "2026-10-06",
-      "updated": "2026-10-06",
+      "updated": "2026-10-17",
       "resolutiondate": "",
       "labels": [
         "Ralph_Lauren"
@@ -1998,12 +2026,12 @@
     {
       "key": "PS-6407",
       "summary": "Tendam - Analizar cuántos clientes de WhatsApp tienen email y qué supone pedirlo",
-      "status": "Ready for review",
+      "status": "Waiting for customer",
       "status_category": "In Progress",
       "assignee": "Marta Marron",
       "issuetype": "Task",
       "created": "2026-10-02",
-      "updated": "2026-10-06",
+      "updated": "2026-10-17",
       "resolutiondate": "",
       "labels": [
         "Tendam"
@@ -2590,12 +2618,12 @@
     {
       "key": "PS-6366",
       "summary": "Euroriente - Diseñar cómo pasar al agente de IA el contexto de la reserva de cada pasajero",
-      "status": "Ready for review",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Pep Alonso",
       "issuetype": "Task",
       "created": "2026-09-29",
-      "updated": "2026-09-30",
+      "updated": "2026-10-17",
       "resolutiondate": "",
       "labels": [
         "Euroriente"
@@ -3631,12 +3659,12 @@
     {
       "key": "PS-6291",
       "summary": "Tendam - Analizar si se puede tocar flujos para reducir coste Meta",
-      "status": "Ready for review",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "irene callejas",
       "issuetype": "Discovery Task",
       "created": "2026-09-18",
-      "updated": "2026-10-05",
+      "updated": "2026-10-17",
       "resolutiondate": "",
       "labels": [
         "Tendam"
@@ -3825,12 +3853,12 @@
     {
       "key": "PS-6276",
       "summary": "Euroriente - Booking API review",
-      "status": "Ready for review",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Pep Alonso",
       "issuetype": "Task",
       "created": "2026-09-17",
-      "updated": "2026-09-18",
+      "updated": "2026-10-17",
       "resolutiondate": "",
       "labels": [
         "Euroriente"
@@ -3895,12 +3923,12 @@
     {
       "key": "PS-6271",
       "summary": "Michael Kors - Dar un vistazo a los resultados de Evaluator y detectar potenciales mejoras",
-      "status": "Ready for review",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "irene callejas",
       "issuetype": "Task",
       "created": "2026-09-17",
-      "updated": "2026-10-06",
+      "updated": "2026-10-17",
       "resolutiondate": "",
       "labels": [
         "Michael-Kors"
@@ -4357,12 +4385,12 @@
     {
       "key": "PS-6236",
       "summary": "SEM - Recibido feedback del AI Agent de Staging",
-      "status": "Ready for review",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "irene callejas",
       "issuetype": "Task",
       "created": "2026-09-10",
-      "updated": "2026-09-14",
+      "updated": "2026-10-17",
       "resolutiondate": "",
       "labels": [
         "SEM"
@@ -4623,12 +4651,12 @@
     {
       "key": "PS-6217",
       "summary": "All Clients - Limit Image Fallback Message to 1 per Conversation ID",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Closed",
+      "status_category": "Done",
       "assignee": "Adrià Sastre",
       "issuetype": "Task",
       "created": "2026-09-09",
-      "updated": "2026-09-21",
+      "updated": "2026-10-17",
       "resolutiondate": "",
       "labels": [
         "Michael-Kors"
@@ -4818,13 +4846,13 @@
     },
     {
       "key": "PS-6202",
-      "summary": "Allianz Spain - Scan & Buy Hogar - API (WS) Producto de hogar",
+      "summary": "Allianz ES - Scan & Buy Hogar - API (WS) Producto de hogar",
       "status": "To Do",
       "status_category": "To Do",
       "assignee": "Adrià Sastre",
       "issuetype": "Discovery Task",
       "created": "2026-09-07",
-      "updated": "2026-09-07",
+      "updated": "2026-10-17",
       "resolutiondate": "",
       "labels": []
     },
@@ -4833,22 +4861,22 @@
       "summary": "Allianz Spain - Scan & Buy Seguro de Hogar",
       "status": "In Progress",
       "status_category": "In Progress",
-      "assignee": null,
+      "assignee": "Marta Marron",
       "issuetype": "Epic",
       "created": "2026-09-07",
-      "updated": "2026-10-14",
+      "updated": "2026-10-17",
       "resolutiondate": "",
       "labels": []
     },
     {
       "key": "PS-6200",
-      "summary": "Design Buy phase flow (\"Prima definitiva\") — Allianz ES Quote&Buy",
+      "summary": "Allianz ES - Design Buy phase flow (\"Prima definitiva\") — Allianz ES Quote&Buy",
       "status": "In Progress",
       "status_category": "In Progress",
       "assignee": "Vicky Correbo",
       "issuetype": "Task",
       "created": "2026-09-07",
-      "updated": "2026-09-15",
+      "updated": "2026-10-17",
       "resolutiondate": "",
       "labels": [
         "Allianz"
@@ -5618,9 +5646,11 @@
       "assignee": null,
       "issuetype": "Task",
       "created": "2026-08-27",
-      "updated": "2026-08-27",
+      "updated": "2026-10-17",
       "resolutiondate": "",
-      "labels": []
+      "labels": [
+        "Internal"
+      ]
     },
     {
       "key": "PS-6142",
@@ -5630,9 +5660,11 @@
       "assignee": null,
       "issuetype": "Task",
       "created": "2026-08-27",
-      "updated": "2026-08-27",
+      "updated": "2026-10-17",
       "resolutiondate": "",
-      "labels": []
+      "labels": [
+        "Internal"
+      ]
     },
     {
       "key": "PS-6141",
@@ -5642,9 +5674,11 @@
       "assignee": null,
       "issuetype": "Task",
       "created": "2026-08-27",
-      "updated": "2026-08-27",
+      "updated": "2026-10-17",
       "resolutiondate": "",
-      "labels": []
+      "labels": [
+        "Internal"
+      ]
     },
     {
       "key": "PS-6140",
@@ -5654,9 +5688,11 @@
       "assignee": null,
       "issuetype": "Task",
       "created": "2026-08-27",
-      "updated": "2026-08-27",
+      "updated": "2026-10-17",
       "resolutiondate": "",
-      "labels": []
+      "labels": [
+        "Internal"
+      ]
     },
     {
       "key": "PS-6139",
@@ -5759,12 +5795,12 @@
     {
       "key": "PS-6132",
       "summary": "RACC - Integrate AiAlma AI Agent in Racc's racc-flowbuilder bot",
-      "status": "Ready for review",
+      "status": "Ready to Deliver",
       "status_category": "In Progress",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-08-26",
-      "updated": "2026-09-14",
+      "updated": "2026-10-17",
       "resolutiondate": "",
       "labels": [
         "RACC"
@@ -8643,10 +8679,10 @@
       "summary": "Generalitat 012 - Añadir propuesta de rating tras cierre de caso en el bot de staging",
       "status": "Waiting for customer",
       "status_category": "In Progress",
-      "assignee": "Aitor Casas",
+      "assignee": "Marta Marron",
       "issuetype": "Task",
       "created": "2026-07-17",
-      "updated": "2026-10-12",
+      "updated": "2026-10-17",
       "resolutiondate": "",
       "labels": [
         "Generalitat-012"
@@ -8991,12 +9027,12 @@
     {
       "key": "PS-5898",
       "summary": "All Clients - Review with product that Success can do as many tasks possible on Grapelli",
-      "status": "In Progress",
-      "status_category": "In Progress",
+      "status": "Closed",
+      "status_category": "Done",
       "assignee": "Aitor Casas",
       "issuetype": "Task",
       "created": "2026-07-10",
-      "updated": "2026-09-28",
+      "updated": "2026-10-17",
       "resolutiondate": "",
       "labels": [
         "all_clients"
@@ -10904,9 +10940,11 @@
       "assignee": "Pep Alonso",
       "issuetype": "Task",
       "created": "2026-06-15",
-      "updated": "2026-07-24",
+      "updated": "2026-10-17",
       "resolutiondate": "",
-      "labels": []
+      "labels": [
+        "Internal"
+      ]
     },
     {
       "key": "PS-5753",
@@ -16854,10 +16892,11 @@
       "assignee": "Vicky Correbo",
       "issuetype": "Discovery Task",
       "created": "2026-04-09",
-      "updated": "2026-05-20",
+      "updated": "2026-10-17",
       "resolutiondate": "",
       "labels": [
-        "DesignSystem"
+        "DesignSystem",
+        "Internal"
       ]
     },
     {
@@ -19357,12 +19396,12 @@
     {
       "key": "PS-5125",
       "summary": "SegurCaixa Adeslas - Request to have fields capture in APIs display in Conversation Fields in the Dashboard",
-      "status": "Open",
-      "status_category": "To Do",
+      "status": "Closed",
+      "status_category": "Done",
       "assignee": "Adrià Sastre",
       "issuetype": "Task",
       "created": "2026-02-27",
-      "updated": "2026-03-17",
+      "updated": "2026-10-17",
       "resolutiondate": "",
       "labels": [
         "SegurCaixa"
@@ -22793,12 +22832,12 @@
     {
       "key": "PS-4852",
       "summary": "Allianz Partners Portugal - Road Assistance through WhatsApp",
-      "status": "Open",
-      "status_category": "To Do",
+      "status": "Closed",
+      "status_category": "Done",
       "assignee": "Marta Marron",
       "issuetype": "Epic",
       "created": "2026-01-18",
-      "updated": "2026-05-26",
+      "updated": "2026-10-18",
       "resolutiondate": "",
       "labels": [
         "AllianzPartners"
@@ -32916,12 +32955,12 @@
     {
       "key": "PS-4018",
       "summary": "Air Europa - Consultar Perfil - Complex use case",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "In Progress",
+      "status_category": "In Progress",
       "assignee": "Adrià Sastre",
       "issuetype": "Epic",
       "created": "2025-05-26",
-      "updated": "2026-10-16",
+      "updated": "2026-10-17",
       "resolutiondate": "",
       "labels": [
         "AirEuropa"
