@@ -1,13 +1,13 @@
 {
-  "last_updated": "2026-10-17 11:37 UTC",
+  "last_updated": "2026-10-18 12:03 UTC",
   "cases": [
     {
       "id": "500Sa000018KAvrIAG",
       "case_number": "00025442",
       "subject": "Conversaciones no integradas en InConcert",
-      "status": "New",
+      "status": "Closed",
       "priority": "Low",
-      "is_closed": false,
+      "is_closed": true,
       "is_escalated": false,
       "owner": "Aitor Casas",
       "account": "Tendam (Cortefiel)",
@@ -18,10 +18,10 @@
       "channel": "Email",
       "is_critical": "L4",
       "escalated_team": "",
-      "resolution_time": "",
+      "resolution_time": "5. >36h",
       "created": "2026-10-16",
-      "closed": "",
-      "last_modified": "2026-10-16"
+      "closed": "2026-10-18",
+      "last_modified": "2026-10-18"
     },
     {
       "id": "500Sa000018Jer6IAC",
