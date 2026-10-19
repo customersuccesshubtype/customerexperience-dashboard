@@ -1,6 +1,196 @@
 {
-  "last_updated": "2026-10-18 11:55 UTC",
+  "last_updated": "2026-10-19 14:18 UTC",
   "tickets": [
+    {
+      "key": "PS-6573",
+      "summary": "VGRS - WhatsApp Verification Audi y Volkswagen prod",
+      "status": "Done",
+      "status_category": "Done",
+      "assignee": "Aitor Casas",
+      "issuetype": "Task",
+      "created": "2026-10-19",
+      "updated": "2026-10-19",
+      "resolutiondate": "",
+      "labels": [
+        "VGRS"
+      ]
+    },
+    {
+      "key": "PS-6572",
+      "summary": "Allianz Talleres Excelentes - Modificacion del texto de las templates",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Aitor Casas",
+      "issuetype": "Task",
+      "created": "2026-10-19",
+      "updated": "2026-10-19",
+      "resolutiondate": "",
+      "labels": [
+        "Allianz"
+      ]
+    },
+    {
+      "key": "PS-6571",
+      "summary": "VGRS - Revisar que tenemos trackings para hacer un buen seguimiento del proyecto",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Julieta Mezza",
+      "issuetype": "Task",
+      "created": "2026-10-19",
+      "updated": "2026-10-19",
+      "resolutiondate": "",
+      "labels": [
+        "VGRS"
+      ]
+    },
+    {
+      "key": "PS-6570",
+      "summary": "Allianz Agentes - Configurar Flowbuilder para que el bot nunca responda nada",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Julieta Mezza",
+      "issuetype": "Task",
+      "created": "2026-10-19",
+      "updated": "2026-10-19",
+      "resolutiondate": "",
+      "labels": [
+        "Allianz-Agentes"
+      ]
+    },
+    {
+      "key": "PS-6569",
+      "summary": "Allianz Agentes - Estructura propuesta fichero csv o excel a cargar en modulo campaigns",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Julieta Mezza",
+      "issuetype": "Task",
+      "created": "2026-10-19",
+      "updated": "2026-10-19",
+      "resolutiondate": "",
+      "labels": [
+        "Allianz-Agentes"
+      ]
+    },
+    {
+      "key": "PS-6568",
+      "summary": "Netberry COFA - Process and analyse the legal documents shared by the client and assess prompt changes for the legislation section",
+      "status": "Done",
+      "status_category": "Done",
+      "assignee": "irene callejas",
+      "issuetype": "Task",
+      "created": "2026-10-19",
+      "updated": "2026-10-19",
+      "resolutiondate": "",
+      "labels": [
+        "NetBerry_COFA"
+      ]
+    },
+    {
+      "key": "PS-6567",
+      "summary": "Verisure Cita - Crear token para este organization_id",
+      "status": "Done",
+      "status_category": "Done",
+      "assignee": "Aitor Casas",
+      "issuetype": "Task",
+      "created": "2026-10-19",
+      "updated": "2026-10-19",
+      "resolutiondate": "",
+      "labels": [
+        "Verisure"
+      ]
+    },
+    {
+      "key": "PS-6566",
+      "summary": "Air Europa - Add webview_end event to Consultar Reserva and Flight Search webviews",
+      "status": "In Progress",
+      "status_category": "In Progress",
+      "assignee": "AI Agent Delivery",
+      "issuetype": "Task",
+      "created": "2026-10-19",
+      "updated": "2026-10-19",
+      "resolutiondate": "",
+      "labels": [
+        "AirEuropa"
+      ]
+    },
+    {
+      "key": "PS-6565",
+      "summary": "Verisure Cita - Desplegar bot en staging y en prod. El nombre del bot tiene que ser \"Verisure Cita Staging\" y \"Verisure Cita Prod\"",
+      "status": "Done",
+      "status_category": "Done",
+      "assignee": "Marco Gallego Ropero",
+      "issuetype": "Task",
+      "created": "2026-10-19",
+      "updated": "2026-10-19",
+      "resolutiondate": "",
+      "labels": [
+        "Verisure"
+      ]
+    },
+    {
+      "key": "PS-6564",
+      "summary": "All Clients - Revisar y actualizar los modelos de Smart Intent de todos los clientes",
+      "status": "Done",
+      "status_category": "Done",
+      "assignee": "Aitor Casas",
+      "issuetype": "Task",
+      "created": "2026-10-19",
+      "updated": "2026-10-19",
+      "resolutiondate": "",
+      "labels": []
+    },
+    {
+      "key": "PS-6563",
+      "summary": "Optim Vision - revisar el Flow Builder (staging desactualizado y textos duplicados)",
+      "status": "Done",
+      "status_category": "Done",
+      "assignee": "Aitor Casas",
+      "issuetype": "Task",
+      "created": "2026-10-19",
+      "updated": "2026-10-19",
+      "resolutiondate": "",
+      "labels": [
+        "OptimVision"
+      ]
+    },
+    {
+      "key": "PS-6562",
+      "summary": "Tendam - Actualizar el modelo de IA de los smart intents",
+      "status": "Done",
+      "status_category": "Done",
+      "assignee": "Aitor Casas",
+      "issuetype": "Task",
+      "created": "2026-10-19",
+      "updated": "2026-10-19",
+      "resolutiondate": "",
+      "labels": []
+    },
+    {
+      "key": "PS-6561",
+      "summary": "OptimVision - Crear token para este cliente",
+      "status": "Done",
+      "status_category": "Done",
+      "assignee": "Aitor Casas",
+      "issuetype": "Task",
+      "created": "2026-10-19",
+      "updated": "2026-10-19",
+      "resolutiondate": "",
+      "labels": []
+    },
+    {
+      "key": "PS-6560",
+      "summary": "SegurCaixa: registrar todos los errores como custom event error_whatsapp (webviews incluidas)",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": null,
+      "issuetype": "Task",
+      "created": "2026-10-19",
+      "updated": "2026-10-19",
+      "resolutiondate": "",
+      "labels": [
+        "SegurCaixa"
+      ]
+    },
     {
       "key": "PS-6559",
       "summary": "RACC START - Actualizar paquetes @botonic y @hubtype a la versión 57 para poder ocultar Smart Intents",
@@ -88,12 +278,12 @@
     {
       "key": "PS-6553",
       "summary": "Verisure Cita - Crear organización",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Aitor Casas",
       "issuetype": "Task",
       "created": "2026-10-16",
-      "updated": "2026-10-17",
+      "updated": "2026-10-19",
       "resolutiondate": "",
       "labels": [
         "Verisure"
@@ -130,12 +320,12 @@
     {
       "key": "PS-6550",
       "summary": "Tendam – Analizar 2 conversaciones WhatsApp (ES/PT) no integradas en InConcert",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Adrià Sastre",
       "issuetype": "Task",
       "created": "2026-10-16",
-      "updated": "2026-10-16",
+      "updated": "2026-10-19",
       "resolutiondate": "",
       "labels": [
         "Tendam"
@@ -163,7 +353,7 @@
       "assignee": "Pep Alonso",
       "issuetype": "Task",
       "created": "2026-10-16",
-      "updated": "2026-10-16",
+      "updated": "2026-10-19",
       "resolutiondate": "",
       "labels": [
         "NetBerry_COFA"
@@ -174,10 +364,10 @@
       "summary": "Eco Piezas - Update bot to Botonic v0.57.0",
       "status": "To Do",
       "status_category": "To Do",
-      "assignee": null,
+      "assignee": "Marta Marron",
       "issuetype": "Task",
       "created": "2026-10-16",
-      "updated": "2026-10-16",
+      "updated": "2026-10-19",
       "resolutiondate": "",
       "labels": [
         "EcoPiezas"
@@ -233,7 +423,7 @@
       "assignee": "AI Agent Delivery",
       "issuetype": "Task",
       "created": "2026-10-15",
-      "updated": "2026-10-15",
+      "updated": "2026-10-19",
       "resolutiondate": "",
       "labels": [
         "CCMA"
@@ -242,12 +432,12 @@
     {
       "key": "PS-6542",
       "summary": "Tendam - Todas las marcas - Añadir segunda pregunta a la encuesta de satisfaccion",
-      "status": "To Do",
-      "status_category": "To Do",
-      "assignee": "Marta Marron",
+      "status": "Ready for review",
+      "status_category": "In Progress",
+      "assignee": "Aitor Casas",
       "issuetype": "Task",
       "created": "2026-10-15",
-      "updated": "2026-10-15",
+      "updated": "2026-10-19",
       "resolutiondate": "",
       "labels": [
         "Tendam"
@@ -332,12 +522,12 @@
     {
       "key": "PS-6536",
       "summary": "RibéSalat - Bot update 0.57",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "APPROVED FOR PRODUCTION",
+      "status_category": "Done",
       "assignee": "AI Agent Delivery",
       "issuetype": "Task",
       "created": "2026-10-15",
-      "updated": "2026-10-15",
+      "updated": "2026-10-19",
       "resolutiondate": "",
       "labels": [
         "RibesSalat"
@@ -348,10 +538,10 @@
       "summary": "VGRS - Bot update 0.57",
       "status": "To Do",
       "status_category": "To Do",
-      "assignee": "AI Agent Delivery",
+      "assignee": "Adrià Sastre",
       "issuetype": "Task",
       "created": "2026-10-15",
-      "updated": "2026-10-15",
+      "updated": "2026-10-19",
       "resolutiondate": "",
       "labels": [
         "VGRS"
@@ -584,12 +774,12 @@
     {
       "key": "PS-6515",
       "summary": "TMB - Connect WhatsApp test number to TMB staging bot",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "In Progress",
+      "status_category": "In Progress",
       "assignee": "Aitor Casas",
       "issuetype": "Task",
       "created": "2026-10-14",
-      "updated": "2026-10-14",
+      "updated": "2026-10-19",
       "resolutiondate": "",
       "labels": [
         "TMB"
@@ -628,10 +818,10 @@
       "summary": "Allianz Spain - Scan & Buy Hogar - Design proposal",
       "status": "To Do",
       "status_category": "To Do",
-      "assignee": null,
+      "assignee": "Vicky Correbo",
       "issuetype": "Task",
       "created": "2026-10-14",
-      "updated": "2026-10-14",
+      "updated": "2026-10-19",
       "resolutiondate": "",
       "labels": [
         "Allianz"
@@ -668,12 +858,12 @@
     {
       "key": "PS-6509",
       "summary": "Allianz Agentes - Crear primera template y sus flujos",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Waiting for customer",
+      "status_category": "In Progress",
       "assignee": null,
       "issuetype": "Task",
       "created": "2026-10-14",
-      "updated": "2026-10-14",
+      "updated": "2026-10-19",
       "resolutiondate": "",
       "labels": [
         "Allianz-Agentes"
@@ -701,7 +891,7 @@
       "assignee": "Adrià Sastre",
       "issuetype": "Task",
       "created": "2026-10-13",
-      "updated": "2026-10-13",
+      "updated": "2026-10-19",
       "resolutiondate": "",
       "labels": [
         "VGRS"
@@ -836,12 +1026,12 @@
     {
       "key": "PS-6497",
       "summary": "Ralph Lauren - Daily/weekly review of failed conversations",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Marta Marron",
       "issuetype": "Task",
       "created": "2026-10-12",
-      "updated": "2026-10-12",
+      "updated": "2026-10-19",
       "resolutiondate": "",
       "labels": [
         "Ralph_Lauren"
@@ -948,12 +1138,12 @@
     {
       "key": "PS-6489",
       "summary": "Verisure ES - Populate Contact Profile in Contact Info Field",
-      "status": "Ready to Deliver",
-      "status_category": "In Progress",
+      "status": "In production",
+      "status_category": "Done",
       "assignee": "AI Agent Delivery",
       "issuetype": "Task",
       "created": "2026-10-09",
-      "updated": "2026-10-15",
+      "updated": "2026-10-19",
       "resolutiondate": "",
       "labels": [
         "VerisureSpain"
@@ -990,12 +1180,12 @@
     {
       "key": "PS-6484",
       "summary": "DABA - Open Messaging integration",
-      "status": "Open",
+      "status": "To Do",
       "status_category": "To Do",
       "assignee": null,
       "issuetype": "Task",
       "created": "2026-10-09",
-      "updated": "2026-10-13",
+      "updated": "2026-10-19",
       "resolutiondate": "",
       "labels": [
         "DABA"
@@ -1046,12 +1236,12 @@
     {
       "key": "PS-6480",
       "summary": "Air Europa - Evaluate if it's possible to show user login status as a bot message",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Adrià Sastre",
       "issuetype": "Discovery Task",
       "created": "2026-10-08",
-      "updated": "2026-10-08",
+      "updated": "2026-10-19",
       "resolutiondate": "",
       "labels": [
         "AirEuropa"
@@ -1060,12 +1250,12 @@
     {
       "key": "PS-6479",
       "summary": "Air Europa - Logged status and email info is not being saved as it used to",
-      "status": "In Review",
-      "status_category": "In Progress",
+      "status": "APPROVED FOR PRODUCTION",
+      "status_category": "Done",
       "assignee": "Pep Alonso",
       "issuetype": "Bug",
       "created": "2026-10-08",
-      "updated": "2026-10-15",
+      "updated": "2026-10-19",
       "resolutiondate": "",
       "labels": [
         "AirEuropa"
@@ -1298,12 +1488,12 @@
     {
       "key": "PS-6462",
       "summary": "RibéSalat - AI Agent Tool Development",
-      "status": "In Progress",
+      "status": "Ready for review",
       "status_category": "In Progress",
       "assignee": "Marco Gallego Ropero",
       "issuetype": "Task",
       "created": "2026-10-07",
-      "updated": "2026-10-16",
+      "updated": "2026-10-19",
       "resolutiondate": "",
       "labels": [
         "ribesalat"
@@ -1485,7 +1675,7 @@
       "assignee": "Pep Alonso",
       "issuetype": "Task",
       "created": "2026-10-06",
-      "updated": "2026-10-13",
+      "updated": "2026-10-19",
       "resolutiondate": "",
       "labels": [
         "Euroriente"
@@ -1536,12 +1726,12 @@
     {
       "key": "PS-6445",
       "summary": "Allianz Agentes - Configurar Campaigns 2",
-      "status": "Ready for review",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Aitor Casas",
       "issuetype": "Task",
       "created": "2026-10-06",
-      "updated": "2026-10-07",
+      "updated": "2026-10-19",
       "resolutiondate": "",
       "labels": [
         "Allianz-Agentes"
@@ -1606,12 +1796,12 @@
     {
       "key": "PS-6440",
       "summary": "Ralph Lauren - Point staging bot to staging backend",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Ready for review",
+      "status_category": "In Progress",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-10-06",
-      "updated": "2026-10-09",
+      "updated": "2026-10-19",
       "resolutiondate": "",
       "labels": [
         "Ralph_Lauren"
@@ -1648,12 +1838,12 @@
     {
       "key": "PS-6437",
       "summary": "Ralph Lauren - Migrate DB from production to staging",
-      "status": "In Progress",
+      "status": "Ready for review",
       "status_category": "In Progress",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-10-06",
-      "updated": "2026-10-16",
+      "updated": "2026-10-19",
       "resolutiondate": "",
       "labels": [
         "Ralph_Lauren"
@@ -2296,12 +2486,12 @@
     {
       "key": "PS-6388",
       "summary": "Air Europa - Limit message for attachments to one per conversation",
-      "status": "Waiting for Product",
-      "status_category": "To Do",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Julieta Mezza",
       "issuetype": "Task",
       "created": "2026-09-30",
-      "updated": "2026-10-13",
+      "updated": "2026-10-19",
       "resolutiondate": "",
       "labels": [
         "AirEuropa"
@@ -2567,7 +2757,7 @@
       "assignee": "AI Agent Delivery",
       "issuetype": "Task",
       "created": "2026-09-29",
-      "updated": "2026-10-15",
+      "updated": "2026-10-19",
       "resolutiondate": "",
       "labels": [
         "Occident"
@@ -2581,7 +2771,7 @@
       "assignee": "Adrià Sastre",
       "issuetype": "Discovery Task",
       "created": "2026-09-29",
-      "updated": "2026-10-16",
+      "updated": "2026-10-19",
       "resolutiondate": "",
       "labels": [
         "DABA"
@@ -3519,12 +3709,12 @@
     {
       "key": "PS-6301",
       "summary": "RibéSalat - Not show rating for discarded cases",
-      "status": "Waiting for Product",
+      "status": "To Do",
       "status_category": "To Do",
-      "assignee": "Adrià Sastre",
+      "assignee": "Julieta Mezza",
       "issuetype": "Task",
       "created": "2026-09-21",
-      "updated": "2026-09-28",
+      "updated": "2026-10-19",
       "resolutiondate": "",
       "labels": [
         "ribesalat"
@@ -3825,12 +4015,12 @@
     {
       "key": "PS-6278",
       "summary": "VGRS - Develop data transfer method (FTP o API), URLs and credentials",
-      "status": "Waiting for customer",
+      "status": "In Review",
       "status_category": "In Progress",
       "assignee": "Marco Gallego Ropero",
       "issuetype": "Task",
       "created": "2026-09-17",
-      "updated": "2026-10-13",
+      "updated": "2026-10-19",
       "resolutiondate": "",
       "labels": [
         "VGRS"
@@ -4864,7 +5054,7 @@
       "assignee": "Marta Marron",
       "issuetype": "Epic",
       "created": "2026-09-07",
-      "updated": "2026-10-17",
+      "updated": "2026-10-19",
       "resolutiondate": "",
       "labels": []
     },
@@ -4927,12 +5117,12 @@
     {
       "key": "PS-6196",
       "summary": "Occident - Implement an automatic discard of waiting cases for agencies",
-      "status": "To Do",
+      "status": "Waiting for Product",
       "status_category": "To Do",
       "assignee": "Adrià Sastre",
       "issuetype": "Task",
       "created": "2026-09-07",
-      "updated": "2026-09-07",
+      "updated": "2026-10-19",
       "resolutiondate": "",
       "labels": [
         "Occident"
@@ -5347,12 +5537,12 @@
     {
       "key": "PS-6166",
       "summary": "SEM - Subida de versión Staging",
-      "status": "Ready for review",
-      "status_category": "In Progress",
+      "status": "APPROVED FOR PRODUCTION",
+      "status_category": "Done",
       "assignee": "AI Agent Delivery",
       "issuetype": "Task",
       "created": "2026-09-02",
-      "updated": "2026-09-28",
+      "updated": "2026-10-19",
       "resolutiondate": "",
       "labels": [
         "SEM"
@@ -6008,7 +6198,7 @@
       "assignee": "Marco Gallego Ropero",
       "issuetype": "Discovery Task",
       "created": "2026-08-21",
-      "updated": "2026-10-07",
+      "updated": "2026-10-19",
       "resolutiondate": "",
       "labels": [
         "ribesalat"
@@ -6870,12 +7060,12 @@
     {
       "key": "PS-6053",
       "summary": "DABA - Genesys Integration (API Open Messaging)",
-      "status": "Open",
-      "status_category": "To Do",
+      "status": "Closed",
+      "status_category": "Done",
       "assignee": "Adrià Sastre",
       "issuetype": "Task",
       "created": "2026-07-31",
-      "updated": "2026-09-18",
+      "updated": "2026-10-19",
       "resolutiondate": "",
       "labels": [
         "DABA"
@@ -8215,12 +8405,12 @@
     {
       "key": "PS-5956",
       "summary": "Sanitas Dental - CRM integration",
-      "status": "Open",
-      "status_category": "To Do",
+      "status": "Waiting for customer",
+      "status_category": "In Progress",
       "assignee": "Julieta Mezza",
       "issuetype": "Task",
       "created": "2026-07-20",
-      "updated": "2026-08-10",
+      "updated": "2026-10-19",
       "resolutiondate": "",
       "labels": [
         "SanitasDental"
@@ -8313,12 +8503,12 @@
     {
       "key": "PS-5949",
       "summary": "Sanitas Dental - Create accounts",
-      "status": "Open",
-      "status_category": "To Do",
+      "status": "Waiting for customer",
+      "status_category": "In Progress",
       "assignee": "Julieta Mezza",
       "issuetype": "Task",
       "created": "2026-07-20",
-      "updated": "2026-07-20",
+      "updated": "2026-10-19",
       "resolutiondate": "",
       "labels": [
         "SanitasDental"
@@ -8523,12 +8713,12 @@
     {
       "key": "PS-5934",
       "summary": "RibéSalat - Integrate staging Whatsapp number",
-      "status": "In Progress",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Aitor Casas",
       "issuetype": "Task",
       "created": "2026-07-20",
-      "updated": "2026-10-12",
+      "updated": "2026-10-19",
       "resolutiondate": "",
       "labels": [
         "ribesalat"
@@ -10094,7 +10284,7 @@
       "assignee": "Aitor Casas",
       "issuetype": "Task",
       "created": "2026-06-29",
-      "updated": "2026-10-12",
+      "updated": "2026-10-19",
       "resolutiondate": "",
       "labels": [
         "Tendam"
@@ -11568,12 +11758,12 @@
     {
       "key": "PS-5709",
       "summary": "Air Europa - Add values to AVA call (2)",
-      "status": "Open",
-      "status_category": "To Do",
-      "assignee": "Julieta Mezza",
+      "status": "Ready for review",
+      "status_category": "In Progress",
+      "assignee": "AI Agent Delivery",
       "issuetype": "Task",
       "created": "2026-06-05",
-      "updated": "2026-10-13",
+      "updated": "2026-10-19",
       "resolutiondate": "",
       "labels": [
         "AirEuropa"
