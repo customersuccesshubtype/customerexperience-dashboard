@@ -1,6 +1,23 @@
 {
-  "last_updated": "2026-10-19 14:40 UTC",
+  "last_updated": "2026-10-20 12:43 UTC",
   "opportunities": [
+    {
+      "id": "006Sa00000r7d4XIAQ",
+      "name": "2026-U-Wizz Air-Agent Licenses (Nov 26 - Apr 27)",
+      "type": "Upsell",
+      "stage": "Opportunity identified",
+      "is_closed": false,
+      "is_won": false,
+      "probability": 10.0,
+      "amount": 6174.0,
+      "arr": 14817.6,
+      "owner": "Marta Marron",
+      "cs_lead": "Julieta Mezza",
+      "account": "Wizz Air",
+      "created": "2026-10-19",
+      "close_date": "2026-11-08",
+      "start_date": "2026-11-08"
+    },
     {
       "id": "006Sa00000qxMGJIA2",
       "name": "2027-R-TMB-Spain",
@@ -644,8 +661,8 @@
       "cs_lead": "Julieta Mezza",
       "account": "Sanitas",
       "created": "2026-08-04",
-      "close_date": "2026-08-18",
-      "start_date": "2026-06-04"
+      "close_date": "2026-10-23",
+      "start_date": "2026-11-01"
     },
     {
       "id": "006Sa00000lO93wIAC",
