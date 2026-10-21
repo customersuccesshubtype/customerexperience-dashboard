@@ -1,6 +1,104 @@
 {
-  "last_updated": "2026-10-20 12:30 UTC",
+  "last_updated": "2026-10-21 12:41 UTC",
   "tickets": [
+    {
+      "key": "PS-6592",
+      "summary": "Netberry COFA - Update the nomenclator document so the lookup tool uses the latest version of the database",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "irene callejas",
+      "issuetype": "Task",
+      "created": "2026-10-21",
+      "updated": "2026-10-21",
+      "resolutiondate": "",
+      "labels": [
+        "NetBerry_COFA"
+      ]
+    },
+    {
+      "key": "PS-6591",
+      "summary": "Ralph Lauren - requested changehs campaign ",
+      "status": "Ready for review",
+      "status_category": "In Progress",
+      "assignee": "Lorena Sánchez-Toril Nicolás",
+      "issuetype": "Task",
+      "created": "2026-10-21",
+      "updated": "2026-10-21",
+      "resolutiondate": "",
+      "labels": [
+        "Ralph_Lauren"
+      ]
+    },
+    {
+      "key": "PS-6590",
+      "summary": "Ralph Lauren - Reminder for customers who don't finish sign-up",
+      "status": "Ready for review",
+      "status_category": "In Progress",
+      "assignee": "Lorena Sánchez-Toril Nicolás",
+      "issuetype": "Task",
+      "created": "2026-10-21",
+      "updated": "2026-10-21",
+      "resolutiondate": "",
+      "labels": [
+        "Ralph_Lauren"
+      ]
+    },
+    {
+      "key": "PS-6589",
+      "summary": "Soledad - check email pablo queries",
+      "status": "In Review",
+      "status_category": "In Progress",
+      "assignee": "Lorena Sánchez-Toril Nicolás",
+      "issuetype": "Task",
+      "created": "2026-10-21",
+      "updated": "2026-10-21",
+      "resolutiondate": "",
+      "labels": [
+        "Soledad"
+      ]
+    },
+    {
+      "key": "PS-6588",
+      "summary": "Euroriente – El AI Agent abusa de \"¡Claro!\" al inicio de las respuestas",
+      "status": "Done",
+      "status_category": "Done",
+      "assignee": "irene callejas",
+      "issuetype": "Task",
+      "created": "2026-10-20",
+      "updated": "2026-10-21",
+      "resolutiondate": "",
+      "labels": [
+        "Euroriente"
+      ]
+    },
+    {
+      "key": "PS-6587",
+      "summary": "Euroriente Travel – Mover número de WhatsApp del bot de staging al bot de producción",
+      "status": "Done",
+      "status_category": "Done",
+      "assignee": "Aitor Casas",
+      "issuetype": "Task",
+      "created": "2026-10-20",
+      "updated": "2026-10-21",
+      "resolutiondate": "",
+      "labels": [
+        "Euroriente"
+      ]
+    },
+    {
+      "key": "PS-6586",
+      "summary": "Verisure Cita - Deploy to staging PR #5652 (save_lead_assessment tool)",
+      "status": "In Progress",
+      "status_category": "In Progress",
+      "assignee": "AI Agent Delivery",
+      "issuetype": "Task",
+      "created": "2026-10-20",
+      "updated": "2026-10-20",
+      "resolutiondate": "",
+      "labels": [
+        "Verisure"
+      ]
+    },
     {
       "key": "PS-6585",
       "summary": "Libeen - Simplify meeting slot tools and make slot booking robust (staging)",
@@ -158,12 +256,12 @@
     {
       "key": "PS-6574",
       "summary": "Soledad -check email pablo ",
-      "status": "In Review",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-10-19",
-      "updated": "2026-10-19",
+      "updated": "2026-10-20",
       "resolutiondate": "",
       "labels": [
         "Soledad"
@@ -289,7 +387,7 @@
       "assignee": "Marco Gallego Ropero",
       "issuetype": "Task",
       "created": "2026-10-19",
-      "updated": "2026-10-19",
+      "updated": "2026-10-20",
       "resolutiondate": "",
       "labels": [
         "Verisure"
@@ -425,12 +523,12 @@
     {
       "key": "PS-6555",
       "summary": "Verisure Cita - Definir el prompt del AI Agent",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Ready for review",
+      "status_category": "In Progress",
       "assignee": "irene callejas",
       "issuetype": "Task",
       "created": "2026-10-16",
-      "updated": "2026-10-17",
+      "updated": "2026-10-21",
       "resolutiondate": "",
       "labels": [
         "Verisure"
@@ -537,12 +635,12 @@
     {
       "key": "PS-6547",
       "summary": "Eco Piezas - Update bot to Botonic v0.57.0",
-      "status": "Closed",
+      "status": "Done",
       "status_category": "Done",
       "assignee": "AI Agent Delivery",
       "issuetype": "Task",
       "created": "2026-10-16",
-      "updated": "2026-10-20",
+      "updated": "2026-10-21",
       "resolutiondate": "",
       "labels": [
         "EcoPiezas"
@@ -565,12 +663,12 @@
     {
       "key": "PS-6545",
       "summary": "Verisure ES - Chequeo de pertenencia a Televenta - Discovery",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Adrià Sastre",
       "issuetype": "Discovery Task",
       "created": "2026-10-16",
-      "updated": "2026-10-19",
+      "updated": "2026-10-21",
       "resolutiondate": "",
       "labels": [
         "Verisure"
@@ -1593,12 +1691,12 @@
     {
       "key": "PS-6467",
       "summary": "RibéSalat-Create plugin for staging bot with API requests",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "In Progress",
+      "status_category": "In Progress",
       "assignee": "Marco Gallego Ropero",
       "issuetype": "Task",
       "created": "2026-10-07",
-      "updated": "2026-10-12",
+      "updated": "2026-10-21",
       "resolutiondate": "",
       "labels": [
         "ribesalat"
@@ -1663,12 +1761,12 @@
     {
       "key": "PS-6462",
       "summary": "RibéSalat - AI Agent Tool Development",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "In Progress",
+      "status_category": "In Progress",
       "assignee": "Marco Gallego Ropero",
       "issuetype": "Task",
       "created": "2026-10-07",
-      "updated": "2026-10-20",
+      "updated": "2026-10-21",
       "resolutiondate": "",
       "labels": [
         "ribesalat"
