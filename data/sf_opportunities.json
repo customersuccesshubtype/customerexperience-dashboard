@@ -1,6 +1,23 @@
 {
-  "last_updated": "2026-10-20 12:43 UTC",
+  "last_updated": "2026-10-21 12:56 UTC",
   "opportunities": [
+    {
+      "id": "006Sa00000rEYZZIA4",
+      "name": "2026-R-JetSMART Airlines-Chile - CA (webchat/WhatsApp) + Agencias (Contrato 6 meses)",
+      "type": "Renewal",
+      "stage": "Closed Won",
+      "is_closed": true,
+      "is_won": true,
+      "probability": 100.0,
+      "amount": 160402.7,
+      "arr": 280805.4,
+      "owner": "Julieta Mezza",
+      "cs_lead": "Julieta Mezza",
+      "account": "JetSMART Airlines",
+      "created": "2026-10-20",
+      "close_date": "2026-10-15",
+      "start_date": "2026-10-15"
+    },
     {
       "id": "006Sa00000r7d4XIAQ",
       "name": "2026-U-Wizz Air-Agent Licenses (Nov 26 - Apr 27)",
@@ -51,23 +68,6 @@
       "created": "2026-10-16",
       "close_date": "2026-12-31",
       "start_date": ""
-    },
-    {
-      "id": "006Sa00000qjl4vIAA",
-      "name": "2026-R-JetSMART Airlines-Chile - Agencias Meses 4 a 6 (Contrato 6 meses)",
-      "type": "Renewal",
-      "stage": "Closed Won",
-      "is_closed": true,
-      "is_won": true,
-      "probability": 100.0,
-      "amount": 51198.3,
-      "arr": 204793.2,
-      "owner": "Julieta Mezza",
-      "cs_lead": "Julieta Mezza",
-      "account": "JetSMART Airlines",
-      "created": "2026-10-15",
-      "close_date": "2026-10-15",
-      "start_date": "2027-01-15"
     },
     {
       "id": "006Sa00000qK3wfIAC",
@@ -3332,23 +3332,6 @@
       "created": "2025-09-30",
       "close_date": "2025-10-01",
       "start_date": "2025-10-01"
-    },
-    {
-      "id": "006Sa00000SHrKuIAL",
-      "name": "2026-R-JetSMART Airlines-Chile - CA (webchat/WhatsApp)- Meses 1 a 3 (Contrato 6 meses)",
-      "type": "Renewal",
-      "stage": "Closed Won",
-      "is_closed": true,
-      "is_won": true,
-      "probability": 100.0,
-      "amount": 109204.4,
-      "arr": 356817.6,
-      "owner": "Julieta Mezza",
-      "cs_lead": "Julieta Mezza",
-      "account": "JetSMART Airlines",
-      "created": "2025-09-30",
-      "close_date": "2026-10-15",
-      "start_date": "2026-10-15"
     },
     {
       "id": "006Sa00000S56hTIAR",
