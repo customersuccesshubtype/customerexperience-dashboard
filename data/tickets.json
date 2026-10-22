@@ -1,11 +1,137 @@
 {
-  "last_updated": "2026-10-21 12:41 UTC",
+  "last_updated": "2026-10-22 12:45 UTC",
   "tickets": [
+    {
+      "key": "PS-6601",
+      "summary": "Allianz ES - Update Botonic version (staging first)",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "AI Agent Delivery",
+      "issuetype": "Task",
+      "created": "2026-10-22",
+      "updated": "2026-10-22",
+      "resolutiondate": "",
+      "labels": [
+        "Allianz-ES"
+      ]
+    },
+    {
+      "key": "PS-6600",
+      "summary": "Verisure Cita - Preparar Gsheet con ciertos datos que se actualice cada 30 minutos",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Marçal Garcia",
+      "issuetype": "Task",
+      "created": "2026-10-22",
+      "updated": "2026-10-22",
+      "resolutiondate": "",
+      "labels": [
+        "Verisure"
+      ]
+    },
+    {
+      "key": "PS-6599",
+      "summary": "Verisure Cita - Definir el fichero de carga para envío y los contact info fields asociados",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Aitor Casas",
+      "issuetype": "Task",
+      "created": "2026-10-22",
+      "updated": "2026-10-22",
+      "resolutiondate": "",
+      "labels": [
+        "Verisure"
+      ]
+    },
+    {
+      "key": "PS-6598",
+      "summary": "Verisure Cita - crear dos templates solicitadas por el cliente",
+      "status": "Done",
+      "status_category": "Done",
+      "assignee": "Aitor Casas",
+      "issuetype": "Task",
+      "created": "2026-10-22",
+      "updated": "2026-10-22",
+      "resolutiondate": "",
+      "labels": [
+        "Verisure"
+      ]
+    },
+    {
+      "key": "PS-6597",
+      "summary": "RACC - Estudi del pas a bot conversacional amb un bot de staging",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Marta Marron",
+      "issuetype": "Task",
+      "created": "2026-10-22",
+      "updated": "2026-10-22",
+      "resolutiondate": "",
+      "labels": [
+        "RACC"
+      ]
+    },
+    {
+      "key": "PS-6596",
+      "summary": "Soledad - requested updates",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Lorena Sánchez-Toril Nicolás",
+      "issuetype": "Task",
+      "created": "2026-10-22",
+      "updated": "2026-10-22",
+      "resolutiondate": "",
+      "labels": [
+        "Soledad"
+      ]
+    },
+    {
+      "key": "PS-6595",
+      "summary": "Jetsmart - Proyecto Agencias - Integrate whatsapp number",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": null,
+      "issuetype": "Task",
+      "created": "2026-10-21",
+      "updated": "2026-10-21",
+      "resolutiondate": "",
+      "labels": [
+        "JetSmart"
+      ]
+    },
+    {
+      "key": "PS-6594",
+      "summary": "Jetsmart - Proyecto Agencias - Create stg and prod bots  ",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Marco Gallego Ropero",
+      "issuetype": "Task",
+      "created": "2026-10-21",
+      "updated": "2026-10-21",
+      "resolutiondate": "",
+      "labels": [
+        "JetSmart"
+      ]
+    },
+    {
+      "key": "PS-6593",
+      "summary": "Jetsmart - Proyecto Agencias",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Julieta Mezza",
+      "issuetype": "Epic",
+      "created": "2026-10-21",
+      "updated": "2026-10-21",
+      "resolutiondate": "",
+      "labels": [
+        "JetSmart"
+      ]
+    },
     {
       "key": "PS-6592",
       "summary": "Netberry COFA - Update the nomenclator document so the lookup tool uses the latest version of the database",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Ready for review",
+      "status_category": "In Progress",
       "assignee": "irene callejas",
       "issuetype": "Task",
       "created": "2026-10-21",
@@ -46,12 +172,12 @@
     {
       "key": "PS-6589",
       "summary": "Soledad - check email pablo queries",
-      "status": "In Review",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-10-21",
-      "updated": "2026-10-21",
+      "updated": "2026-10-22",
       "resolutiondate": "",
       "labels": [
         "Soledad"
@@ -537,12 +663,12 @@
     {
       "key": "PS-6554",
       "summary": "Verisure Cita - Integrar los 4 números de WhatsApp",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "In Progress",
+      "status_category": "In Progress",
       "assignee": "Aitor Casas",
       "issuetype": "Task",
       "created": "2026-10-16",
-      "updated": "2026-10-17",
+      "updated": "2026-10-22",
       "resolutiondate": "",
       "labels": [
         "Verisure"
@@ -1159,12 +1285,12 @@
     {
       "key": "PS-6507",
       "summary": "VGRS - Review if there are inactive conversations (+24hs) that haven't finish the questionaire and send sftp to VGRS",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Adrià Sastre",
       "issuetype": "Task",
       "created": "2026-10-13",
-      "updated": "2026-10-19",
+      "updated": "2026-10-22",
       "resolutiondate": "",
       "labels": [
         "VGRS"
@@ -1192,7 +1318,7 @@
       "assignee": "AI Agent Delivery",
       "issuetype": "Task",
       "created": "2026-10-13",
-      "updated": "2026-10-15",
+      "updated": "2026-10-21",
       "resolutiondate": "",
       "labels": [
         "Verisure_IT"
@@ -1481,12 +1607,12 @@
     {
       "key": "PS-6482",
       "summary": "Ralph Lauren - Migrate coupons images from DB to S3",
-      "status": "In Progress",
+      "status": "Ready for review",
       "status_category": "In Progress",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-10-09",
-      "updated": "2026-10-19",
+      "updated": "2026-10-22",
       "resolutiondate": "",
       "labels": [
         "Ralph_Lauren"
@@ -2363,12 +2489,12 @@
     {
       "key": "PS-6418",
       "summary": "Grupo Soledad - Review pedidoComprobarPago API and estimate effort",
-      "status": "In Progress",
-      "status_category": "In Progress",
+      "status": "To Do",
+      "status_category": "To Do",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Discovery Task",
       "created": "2026-10-05",
-      "updated": "2026-10-16",
+      "updated": "2026-10-22",
       "resolutiondate": "",
       "labels": [
         "Soledad"
@@ -6062,12 +6188,12 @@
     {
       "key": "PS-6146",
       "summary": "Allianz OSN - Update bot to latest version",
-      "status": "In production",
+      "status": "Done",
       "status_category": "Done",
       "assignee": "Marco Gallego Ropero",
       "issuetype": "Task",
       "created": "2026-08-27",
-      "updated": "2026-10-19",
+      "updated": "2026-10-21",
       "resolutiondate": "",
       "labels": [
         "Allianz-OSN"
@@ -6471,7 +6597,7 @@
       "assignee": "Marco Gallego Ropero",
       "issuetype": "Discovery Task",
       "created": "2026-08-21",
-      "updated": "2026-10-19",
+      "updated": "2026-10-22",
       "resolutiondate": "",
       "labels": [
         "ribesalat"
@@ -33403,12 +33529,12 @@
     {
       "key": "PS-4019",
       "summary": "Estimate - Air Europa - Consultar Perfil - 1era fase",
-      "status": "In Progress",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Adrià Sastre",
       "issuetype": "Discovery Task",
       "created": "2025-05-26",
-      "updated": "2026-10-16",
+      "updated": "2026-10-22",
       "resolutiondate": "",
       "labels": [
         "AirEuropa",
