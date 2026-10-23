@@ -1,6 +1,62 @@
 {
-  "last_updated": "2026-10-22 12:45 UTC",
+  "last_updated": "2026-10-23 12:23 UTC",
   "tickets": [
+    {
+      "key": "PS-6605",
+      "summary": "DABA  - queue genesys prod",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Lorena Sánchez-Toril Nicolás",
+      "issuetype": "Task",
+      "created": "2026-10-23",
+      "updated": "2026-10-23",
+      "resolutiondate": "",
+      "labels": [
+        "DABA"
+      ]
+    },
+    {
+      "key": "PS-6604",
+      "summary": "Michael Kors – AI agent: use TikTok Shop content only when the customer mentions TikTok",
+      "status": "In Progress",
+      "status_category": "In Progress",
+      "assignee": "irene callejas",
+      "issuetype": "Task",
+      "created": "2026-10-23",
+      "updated": "2026-10-23",
+      "resolutiondate": "",
+      "labels": [
+        "MichaelKors"
+      ]
+    },
+    {
+      "key": "PS-6603",
+      "summary": "Ralph Lauren - Send digital code to 4 clients who did not receive it",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Lorena Sánchez-Toril Nicolás",
+      "issuetype": "Task",
+      "created": "2026-10-22",
+      "updated": "2026-10-23",
+      "resolutiondate": "",
+      "labels": [
+        "Ralph_Lauren"
+      ]
+    },
+    {
+      "key": "PS-6602",
+      "summary": "Ralph Lauren - Update bot version to 0.57",
+      "status": "Ready for review",
+      "status_category": "In Progress",
+      "assignee": "AI Agent Delivery",
+      "issuetype": "Task",
+      "created": "2026-10-22",
+      "updated": "2026-10-22",
+      "resolutiondate": "",
+      "labels": [
+        "Ralph_Lauren"
+      ]
+    },
     {
       "key": "PS-6601",
       "summary": "Allianz ES - Update Botonic version (staging first)",
@@ -18,12 +74,12 @@
     {
       "key": "PS-6600",
       "summary": "Verisure Cita - Preparar Gsheet con ciertos datos que se actualice cada 30 minutos",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "In Progress",
+      "status_category": "In Progress",
       "assignee": "Marçal Garcia",
       "issuetype": "Task",
       "created": "2026-10-22",
-      "updated": "2026-10-22",
+      "updated": "2026-10-23",
       "resolutiondate": "",
       "labels": [
         "Verisure"
@@ -102,12 +158,12 @@
     {
       "key": "PS-6594",
       "summary": "Jetsmart - Proyecto Agencias - Create stg and prod bots  ",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "In Progress",
+      "status_category": "In Progress",
       "assignee": "Marco Gallego Ropero",
       "issuetype": "Task",
       "created": "2026-10-21",
-      "updated": "2026-10-21",
+      "updated": "2026-10-23",
       "resolutiondate": "",
       "labels": [
         "JetSmart"
@@ -354,12 +410,12 @@
     {
       "key": "PS-6576",
       "summary": "Rag&Bone - Remove Canary Island custom condition",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "In Progress",
+      "status_category": "In Progress",
       "assignee": "Marco Gallego Ropero",
       "issuetype": "Task",
       "created": "2026-10-19",
-      "updated": "2026-10-19",
+      "updated": "2026-10-23",
       "resolutiondate": "",
       "labels": [
         "Rag&Bone"
@@ -621,12 +677,12 @@
     {
       "key": "PS-6557",
       "summary": "Michael Kors: shorten AI agent prompt, keep one master version and evaluate a stronger model",
-      "status": "In Progress",
+      "status": "Ready for review",
       "status_category": "In Progress",
       "assignee": "irene callejas",
       "issuetype": "Task",
       "created": "2026-10-17",
-      "updated": "2026-10-20",
+      "updated": "2026-10-23",
       "resolutiondate": "",
       "labels": [
         "MichaelKors"
@@ -866,7 +922,7 @@
       "assignee": "Andrea Talal Haidar",
       "issuetype": "Task",
       "created": "2026-10-15",
-      "updated": "2026-10-15",
+      "updated": "2026-10-22",
       "resolutiondate": "",
       "labels": [
         "Ralph-Lauren",
@@ -898,7 +954,7 @@
       "assignee": "Andrea Talal Haidar",
       "issuetype": "Task",
       "created": "2026-10-15",
-      "updated": "2026-10-15",
+      "updated": "2026-10-22",
       "resolutiondate": "",
       "labels": [
         "Ralph_Lauren"
@@ -1159,12 +1215,12 @@
     {
       "key": "PS-6516",
       "summary": "TMB - Review and update Zendesk Live Chat backend module",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Closed",
+      "status_category": "Done",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-10-14",
-      "updated": "2026-10-14",
+      "updated": "2026-10-23",
       "resolutiondate": "",
       "labels": [
         "TMB"
@@ -1341,12 +1397,12 @@
     {
       "key": "PS-6503",
       "summary": "DABA - Flow \"Identificación de máquina\"",
-      "status": "Ready for review",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "irene callejas",
       "issuetype": "Task",
       "created": "2026-10-13",
-      "updated": "2026-10-20",
+      "updated": "2026-10-23",
       "resolutiondate": "",
       "labels": [
         "DABA"
@@ -2673,12 +2729,12 @@
     {
       "key": "PS-6403",
       "summary": "Ralph Lauren – Zeta (ZMP) WhatsApp opt-in/opt-out integration: build & test",
-      "status": "In Progress",
+      "status": "Ready for review",
       "status_category": "In Progress",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-10-01",
-      "updated": "2026-10-15",
+      "updated": "2026-10-23",
       "resolutiondate": "",
       "labels": [
         "Ralph_Lauren"
@@ -10678,12 +10734,12 @@
     {
       "key": "PS-5819",
       "summary": "Tendam - Springfield - Incluir en staging el que si el usuario ha dado el order number en WISMO no se le pregunte al hacer handoff",
-      "status": "In Progress",
+      "status": "Ready for review",
       "status_category": "In Progress",
       "assignee": "Aitor Casas",
       "issuetype": "Task",
       "created": "2026-06-29",
-      "updated": "2026-10-19",
+      "updated": "2026-10-23",
       "resolutiondate": "",
       "labels": [
         "Tendam"
