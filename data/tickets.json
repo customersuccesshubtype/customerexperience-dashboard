@@ -1,6 +1,230 @@
 {
-  "last_updated": "2026-10-23 12:23 UTC",
+  "last_updated": "2026-10-24 11:49 UTC",
   "tickets": [
+    {
+      "key": "PS-6621",
+      "summary": "MK: order status card sent for any message containing an order number, bypassing AI agent",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Marta Marron",
+      "issuetype": "Task",
+      "created": "2026-10-24",
+      "updated": "2026-10-24",
+      "resolutiondate": "",
+      "labels": [
+        "MichaelKors"
+      ]
+    },
+    {
+      "key": "PS-6620",
+      "summary": "Allianz Scan&Buy Auto - README, runbook y documentación del proyecto",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": null,
+      "issuetype": "Task",
+      "created": "2026-10-23",
+      "updated": "2026-10-23",
+      "resolutiondate": "",
+      "labels": [
+        "Allianz"
+      ]
+    },
+    {
+      "key": "PS-6619",
+      "summary": "Allianz Scan&Buy Auto - Alias de dominio + certificado ACM en CloudFront (bloqueada por Allianz)",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": null,
+      "issuetype": "Task",
+      "created": "2026-10-23",
+      "updated": "2026-10-23",
+      "resolutiondate": "",
+      "labels": [
+        "Allianz"
+      ]
+    },
+    {
+      "key": "PS-6618",
+      "summary": "Allianz Scan&Buy Auto - Dominio de Allianz: definición y registro CNAME de validación ACM",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": null,
+      "issuetype": "Task",
+      "created": "2026-10-23",
+      "updated": "2026-10-23",
+      "resolutiondate": "",
+      "labels": [
+        "Allianz"
+      ]
+    },
+    {
+      "key": "PS-6617",
+      "summary": "Allianz Scan&Buy Auto - Subida y descarga de pólizas con presigned POST",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": null,
+      "issuetype": "Task",
+      "created": "2026-10-23",
+      "updated": "2026-10-23",
+      "resolutiondate": "",
+      "labels": [
+        "Allianz"
+      ]
+    },
+    {
+      "key": "PS-6616",
+      "summary": "Allianz Scan&Buy Auto - API Gateway + authorizer + endpoints de sesión",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": null,
+      "issuetype": "Task",
+      "created": "2026-10-23",
+      "updated": "2026-10-23",
+      "resolutiondate": "",
+      "labels": [
+        "Allianz"
+      ]
+    },
+    {
+      "key": "PS-6615",
+      "summary": "Allianz Scan&Buy Auto - ADR: sesión anónima y gestión de tokens (JWT stateless)",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": null,
+      "issuetype": "Task",
+      "created": "2026-10-23",
+      "updated": "2026-10-23",
+      "resolutiondate": "",
+      "labels": [
+        "Allianz"
+      ]
+    },
+    {
+      "key": "PS-6614",
+      "summary": "Allianz Scan&Buy Auto - Bucket privado de pólizas (CMK + lifecycle configurable)",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": null,
+      "issuetype": "Task",
+      "created": "2026-10-23",
+      "updated": "2026-10-23",
+      "resolutiondate": "",
+      "labels": [
+        "Allianz"
+      ]
+    },
+    {
+      "key": "PS-6613",
+      "summary": "Allianz Scan&Buy Auto - Script manual de despliegue del frontend (sync + invalidación)",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": null,
+      "issuetype": "Task",
+      "created": "2026-10-23",
+      "updated": "2026-10-23",
+      "resolutiondate": "",
+      "labels": [
+        "Allianz"
+      ]
+    },
+    {
+      "key": "PS-6612",
+      "summary": "Allianz Scan&Buy Auto - Hosting del frontend: S3 + CloudFront + WAF existente",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": null,
+      "issuetype": "Task",
+      "created": "2026-10-23",
+      "updated": "2026-10-23",
+      "resolutiondate": "",
+      "labels": [
+        "Allianz"
+      ]
+    },
+    {
+      "key": "PS-6611",
+      "summary": "Allianz Scan&Buy Auto - Scaffolding del stack Pulumi (dev/staging/production)",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": null,
+      "issuetype": "Task",
+      "created": "2026-10-23",
+      "updated": "2026-10-23",
+      "resolutiondate": "",
+      "labels": [
+        "Allianz"
+      ]
+    },
+    {
+      "key": "PS-6610",
+      "summary": "Allianz Scan&Buy Auto - Bootstrap del repo customer-apps y convención cliente/proyecto",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": null,
+      "issuetype": "Task",
+      "created": "2026-10-23",
+      "updated": "2026-10-23",
+      "resolutiondate": "",
+      "labels": [
+        "Allianz"
+      ]
+    },
+    {
+      "key": "PS-6609",
+      "summary": "Allianz Scan&Buy Auto - @hubtype/aws: origin /api/* en CloudFront y access logs sin PII",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": null,
+      "issuetype": "Task",
+      "created": "2026-10-23",
+      "updated": "2026-10-23",
+      "resolutiondate": "",
+      "labels": [
+        "Allianz"
+      ]
+    },
+    {
+      "key": "PS-6608",
+      "summary": "Allianz Scan&Buy Auto - @hubtype/aws: wrapper StaticSite (S3 privado + CloudFront + OAC)",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": null,
+      "issuetype": "Task",
+      "created": "2026-10-23",
+      "updated": "2026-10-23",
+      "resolutiondate": "",
+      "labels": [
+        "Allianz"
+      ]
+    },
+    {
+      "key": "PS-6607",
+      "summary": "Allianz Scan&Buy Auto - @hubtype/aws: wrapper Bucket (S3 secure-by-default + grants)",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": null,
+      "issuetype": "Task",
+      "created": "2026-10-23",
+      "updated": "2026-10-23",
+      "resolutiondate": "",
+      "labels": [
+        "Allianz"
+      ]
+    },
+    {
+      "key": "PS-6606",
+      "summary": "Ralph Lauren - error log ticket",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Lorena Sánchez-Toril Nicolás",
+      "issuetype": "Task",
+      "created": "2026-10-23",
+      "updated": "2026-10-23",
+      "resolutiondate": "",
+      "labels": [
+        "Ralph_Lauren"
+      ]
+    },
     {
       "key": "PS-6605",
       "summary": "DABA  - queue genesys prod",
@@ -18,12 +242,12 @@
     {
       "key": "PS-6604",
       "summary": "Michael Kors – AI agent: use TikTok Shop content only when the customer mentions TikTok",
-      "status": "In Progress",
+      "status": "Ready for review",
       "status_category": "In Progress",
       "assignee": "irene callejas",
       "issuetype": "Task",
       "created": "2026-10-23",
-      "updated": "2026-10-23",
+      "updated": "2026-10-24",
       "resolutiondate": "",
       "labels": [
         "MichaelKors"
@@ -37,7 +261,7 @@
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-10-22",
-      "updated": "2026-10-23",
+      "updated": "2026-10-24",
       "resolutiondate": "",
       "labels": [
         "Ralph_Lauren"
@@ -74,12 +298,12 @@
     {
       "key": "PS-6600",
       "summary": "Verisure Cita - Preparar Gsheet con ciertos datos que se actualice cada 30 minutos",
-      "status": "In Progress",
+      "status": "Ready for review",
       "status_category": "In Progress",
       "assignee": "Marçal Garcia",
       "issuetype": "Task",
       "created": "2026-10-22",
-      "updated": "2026-10-23",
+      "updated": "2026-10-24",
       "resolutiondate": "",
       "labels": [
         "Verisure"
@@ -654,7 +878,7 @@
       "assignee": "AI Agent Delivery",
       "issuetype": "Task",
       "created": "2026-10-17",
-      "updated": "2026-10-20",
+      "updated": "2026-10-24",
       "resolutiondate": "",
       "labels": [
         "RACC_START"
@@ -1495,12 +1719,12 @@
     {
       "key": "PS-6496",
       "summary": "Ralph Lauren - Reminder for customers who don't finish sign-up",
-      "status": "Ready for review",
-      "status_category": "In Progress",
-      "assignee": "Francisca Martelli",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-10-12",
-      "updated": "2026-10-20",
+      "updated": "2026-10-23",
       "resolutiondate": "",
       "labels": [
         "Ralph_Lauren"
@@ -1523,12 +1747,12 @@
     {
       "key": "PS-6494",
       "summary": "Ralph Lauren - Add \"Subscribe\" button to the opt-out confirmation message",
-      "status": "Ready to Deliver",
-      "status_category": "In Progress",
-      "assignee": "Andrea Talal Haidar",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-10-12",
-      "updated": "2026-10-15",
+      "updated": "2026-10-23",
       "resolutiondate": "",
       "labels": [
         "Ralph_Lauren"
@@ -10529,7 +10753,7 @@
       "assignee": "Julieta Mezza",
       "issuetype": "Epic",
       "created": "2026-07-05",
-      "updated": "2026-10-14",
+      "updated": "2026-10-23",
       "resolutiondate": "",
       "labels": [
         "Allianz"
