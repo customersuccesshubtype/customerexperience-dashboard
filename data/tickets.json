@@ -1,6 +1,34 @@
 {
-  "last_updated": "2026-10-24 11:49 UTC",
+  "last_updated": "2026-10-25 12:19 UTC",
   "tickets": [
+    {
+      "key": "PS-6623",
+      "summary": "Michael Kors - Warranty Flow webview - Development",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": null,
+      "issuetype": "Task",
+      "created": "2026-10-24",
+      "updated": "2026-10-24",
+      "resolutiondate": "",
+      "labels": [
+        "Michael-Kors"
+      ]
+    },
+    {
+      "key": "PS-6622",
+      "summary": "Michael Kors - Warranty Flow with a webview",
+      "status": "Open",
+      "status_category": "To Do",
+      "assignee": null,
+      "issuetype": "Epic",
+      "created": "2026-10-24",
+      "updated": "2026-10-24",
+      "resolutiondate": "",
+      "labels": [
+        "Michael-Kors"
+      ]
+    },
     {
       "key": "PS-6621",
       "summary": "MK: order status card sent for any message containing an order number, bypassing AI agent",
@@ -971,12 +999,12 @@
     {
       "key": "PS-6552",
       "summary": "Verisure Cita - Fase 1",
-      "status": "Open",
-      "status_category": "To Do",
+      "status": "In Progress",
+      "status_category": "In Progress",
       "assignee": "Marta Marron",
       "issuetype": "Epic",
       "created": "2026-10-16",
-      "updated": "2026-10-16",
+      "updated": "2026-10-25",
       "resolutiondate": "",
       "labels": [
         "Verisure"
@@ -1083,12 +1111,12 @@
     {
       "key": "PS-6544",
       "summary": "Verisure ES - Chequeo de pertenencia a Televenta en conversaciones de WhatsApp",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "In Progress",
+      "status_category": "In Progress",
       "assignee": "Adrià Sastre",
       "issuetype": "Epic",
       "created": "2026-10-16",
-      "updated": "2026-10-16",
+      "updated": "2026-10-25",
       "resolutiondate": "",
       "labels": [
         "Verisure"
@@ -5231,7 +5259,7 @@
       "assignee": "Vicky Correbo",
       "issuetype": "Task",
       "created": "2026-09-13",
-      "updated": "2026-09-14",
+      "updated": "2026-10-24",
       "resolutiondate": "",
       "labels": [
         "Michael-Kors"
