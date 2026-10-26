@@ -1,6 +1,172 @@
 {
-  "last_updated": "2026-10-25 12:19 UTC",
+  "last_updated": "2026-10-26 13:51 UTC",
   "tickets": [
+    {
+      "key": "PS-6635",
+      "summary": "All Clients - AI agent handoff: check queue status (open/closed) before transferring",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "irene callejas",
+      "issuetype": "Task",
+      "created": "2026-10-26",
+      "updated": "2026-10-26",
+      "resolutiondate": "",
+      "labels": [
+        "all_clients"
+      ]
+    },
+    {
+      "key": "PS-6634",
+      "summary": "Tendam - Unify and simplify AI agent prompts across brands and transfer to Luna",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "irene callejas",
+      "issuetype": "Task",
+      "created": "2026-10-26",
+      "updated": "2026-10-26",
+      "resolutiondate": "",
+      "labels": [
+        "Tendam"
+      ]
+    },
+    {
+      "key": "PS-6633",
+      "summary": "Daba- updates genesys",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Lorena Sánchez-Toril Nicolás",
+      "issuetype": "Task",
+      "created": "2026-10-26",
+      "updated": "2026-10-26",
+      "resolutiondate": "",
+      "labels": [
+        "DABA"
+      ]
+    },
+    {
+      "key": "PS-6632",
+      "summary": "Audit which agents have no organization token and which still use the old model 4.1",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "irene callejas",
+      "issuetype": "Task",
+      "created": "2026-10-26",
+      "updated": "2026-10-26",
+      "resolutiondate": "",
+      "labels": []
+    },
+    {
+      "key": "PS-6631",
+      "summary": "Tendam - Resto de marcas - Registrar custom event en Tinybird al enviar el caso a InConcert (after-handoff)",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "AI Agent Delivery",
+      "issuetype": "Task",
+      "created": "2026-10-26",
+      "updated": "2026-10-26",
+      "resolutiondate": "",
+      "labels": [
+        "Tendam"
+      ]
+    },
+    {
+      "key": "PS-6630",
+      "summary": "Hubtype-sdk - Add new endpoint to remove phone number from chat",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Marco Gallego Ropero",
+      "issuetype": "Task",
+      "created": "2026-10-26",
+      "updated": "2026-10-26",
+      "resolutiondate": "",
+      "labels": [
+        "Internal"
+      ]
+    },
+    {
+      "key": "PS-6629",
+      "summary": "Ralph Lauren - Category normalisation: WW hoodies search and category/sub-category gap audit",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "irene callejas",
+      "issuetype": "Task",
+      "created": "2026-10-26",
+      "updated": "2026-10-26",
+      "resolutiondate": "",
+      "labels": [
+        "Ralph_Lauren"
+      ]
+    },
+    {
+      "key": "PS-6628",
+      "summary": "Ralph Lauren - update digital flow removing digital code",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Lorena Sánchez-Toril Nicolás",
+      "issuetype": "Task",
+      "created": "2026-10-26",
+      "updated": "2026-10-26",
+      "resolutiondate": "",
+      "labels": [
+        "Ralph_Lauren"
+      ]
+    },
+    {
+      "key": "PS-6627",
+      "summary": "Netberry COFA - Etiquetar tickets de Zendesk cuando la conversación se escala a un agente humano",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Pep Alonso",
+      "issuetype": "Task",
+      "created": "2026-10-26",
+      "updated": "2026-10-26",
+      "resolutiondate": "",
+      "labels": [
+        "NetBerry_COFA"
+      ]
+    },
+    {
+      "key": "PS-6626",
+      "summary": "Multiasistencia - retry barraNlp ",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Lorena Sánchez-Toril Nicolás",
+      "issuetype": "Task",
+      "created": "2026-10-26",
+      "updated": "2026-10-26",
+      "resolutiondate": "",
+      "labels": [
+        "Multiasistencia"
+      ]
+    },
+    {
+      "key": "PS-6625",
+      "summary": "Tendam -Women'secret - Registrar custom event en Tinybird al enviar el caso a InConcert (after-handoff)",
+      "status": "APPROVED FOR PRODUCTION",
+      "status_category": "Done",
+      "assignee": "AI Agent Delivery",
+      "issuetype": "Task",
+      "created": "2026-10-26",
+      "updated": "2026-10-26",
+      "resolutiondate": "",
+      "labels": [
+        "Tendam"
+      ]
+    },
+    {
+      "key": "PS-6624",
+      "summary": "Ralph Lauren - Update the prompt with the new instructions on promotions shared by Christian",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "irene callejas",
+      "issuetype": "Task",
+      "created": "2026-10-26",
+      "updated": "2026-10-26",
+      "resolutiondate": "",
+      "labels": [
+        "Ralph_Lauren"
+      ]
+    },
     {
       "key": "PS-6623",
       "summary": "Michael Kors - Warranty Flow webview - Development",
@@ -174,10 +340,10 @@
       "summary": "Allianz Scan&Buy Auto - Scaffolding del stack Pulumi (dev/staging/production)",
       "status": "To Do",
       "status_category": "To Do",
-      "assignee": null,
+      "assignee": "Pep Alonso",
       "issuetype": "Task",
       "created": "2026-10-23",
-      "updated": "2026-10-23",
+      "updated": "2026-10-26",
       "resolutiondate": "",
       "labels": [
         "Allianz"
@@ -202,10 +368,10 @@
       "summary": "Allianz Scan&Buy Auto - @hubtype/aws: origin /api/* en CloudFront y access logs sin PII",
       "status": "To Do",
       "status_category": "To Do",
-      "assignee": null,
+      "assignee": "Pep Alonso",
       "issuetype": "Task",
       "created": "2026-10-23",
-      "updated": "2026-10-23",
+      "updated": "2026-10-26",
       "resolutiondate": "",
       "labels": [
         "Allianz"
@@ -216,10 +382,10 @@
       "summary": "Allianz Scan&Buy Auto - @hubtype/aws: wrapper StaticSite (S3 privado + CloudFront + OAC)",
       "status": "To Do",
       "status_category": "To Do",
-      "assignee": null,
+      "assignee": "Pep Alonso",
       "issuetype": "Task",
       "created": "2026-10-23",
-      "updated": "2026-10-23",
+      "updated": "2026-10-26",
       "resolutiondate": "",
       "labels": [
         "Allianz"
@@ -230,10 +396,10 @@
       "summary": "Allianz Scan&Buy Auto - @hubtype/aws: wrapper Bucket (S3 secure-by-default + grants)",
       "status": "To Do",
       "status_category": "To Do",
-      "assignee": null,
+      "assignee": "Pep Alonso",
       "issuetype": "Task",
       "created": "2026-10-23",
-      "updated": "2026-10-23",
+      "updated": "2026-10-26",
       "resolutiondate": "",
       "labels": [
         "Allianz"
@@ -242,12 +408,12 @@
     {
       "key": "PS-6606",
       "summary": "Ralph Lauren - error log ticket",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Ready for review",
+      "status_category": "In Progress",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-10-23",
-      "updated": "2026-10-23",
+      "updated": "2026-10-26",
       "resolutiondate": "",
       "labels": [
         "Ralph_Lauren"
@@ -261,7 +427,7 @@
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-10-23",
-      "updated": "2026-10-23",
+      "updated": "2026-10-26",
       "resolutiondate": "",
       "labels": [
         "DABA"
@@ -270,12 +436,12 @@
     {
       "key": "PS-6604",
       "summary": "Michael Kors – AI agent: use TikTok Shop content only when the customer mentions TikTok",
-      "status": "Ready for review",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "irene callejas",
       "issuetype": "Task",
       "created": "2026-10-23",
-      "updated": "2026-10-24",
+      "updated": "2026-10-26",
       "resolutiondate": "",
       "labels": [
         "MichaelKors"
@@ -284,12 +450,12 @@
     {
       "key": "PS-6603",
       "summary": "Ralph Lauren - Send digital code to 4 clients who did not receive it",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "In Progress",
+      "status_category": "In Progress",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-10-22",
-      "updated": "2026-10-24",
+      "updated": "2026-10-26",
       "resolutiondate": "",
       "labels": [
         "Ralph_Lauren"
@@ -340,12 +506,12 @@
     {
       "key": "PS-6599",
       "summary": "Verisure Cita - Definir el fichero de carga para envío y los contact info fields asociados",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Ready for review",
+      "status_category": "In Progress",
       "assignee": "Aitor Casas",
       "issuetype": "Task",
       "created": "2026-10-22",
-      "updated": "2026-10-22",
+      "updated": "2026-10-26",
       "resolutiondate": "",
       "labels": [
         "Verisure"
@@ -410,12 +576,12 @@
     {
       "key": "PS-6594",
       "summary": "Jetsmart - Proyecto Agencias - Create stg and prod bots  ",
-      "status": "In Progress",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Marco Gallego Ropero",
       "issuetype": "Task",
       "created": "2026-10-21",
-      "updated": "2026-10-23",
+      "updated": "2026-10-26",
       "resolutiondate": "",
       "labels": [
         "JetSmart"
@@ -438,12 +604,12 @@
     {
       "key": "PS-6592",
       "summary": "Netberry COFA - Update the nomenclator document so the lookup tool uses the latest version of the database",
-      "status": "Ready for review",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "irene callejas",
       "issuetype": "Task",
       "created": "2026-10-21",
-      "updated": "2026-10-21",
+      "updated": "2026-10-26",
       "resolutiondate": "",
       "labels": [
         "NetBerry_COFA"
@@ -452,12 +618,12 @@
     {
       "key": "PS-6591",
       "summary": "Ralph Lauren - requested changehs campaign ",
-      "status": "Ready for review",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-10-21",
-      "updated": "2026-10-21",
+      "updated": "2026-10-26",
       "resolutiondate": "",
       "labels": [
         "Ralph_Lauren"
@@ -569,7 +735,7 @@
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-10-20",
-      "updated": "2026-10-20",
+      "updated": "2026-10-26",
       "resolutiondate": "",
       "labels": [
         "AirEuropa"
@@ -606,12 +772,12 @@
     {
       "key": "PS-6580",
       "summary": "DABA - Update bot version to 0.57",
-      "status": "Waiting for info",
+      "status": "Ready to Deliver",
       "status_category": "In Progress",
       "assignee": "AI Agent Delivery",
       "issuetype": "Task",
       "created": "2026-10-20",
-      "updated": "2026-10-20",
+      "updated": "2026-10-26",
       "resolutiondate": "",
       "labels": [
         "DABA"
@@ -648,12 +814,12 @@
     {
       "key": "PS-6577",
       "summary": "Ralph Lauren - new campaign",
-      "status": "Ready for review",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-10-20",
-      "updated": "2026-10-20",
+      "updated": "2026-10-26",
       "resolutiondate": "",
       "labels": [
         "Ralph_Lauren"
@@ -760,12 +926,12 @@
     {
       "key": "PS-6569",
       "summary": "Allianz Agentes - Estructura propuesta fichero csv o excel a cargar en modulo campaigns",
-      "status": "To Do",
-      "status_category": "To Do",
-      "assignee": "Julieta Mezza",
+      "status": "Done",
+      "status_category": "Done",
+      "assignee": "Marta Marron",
       "issuetype": "Task",
       "created": "2026-10-19",
-      "updated": "2026-10-19",
+      "updated": "2026-10-26",
       "resolutiondate": "",
       "labels": [
         "Allianz-Agentes"
@@ -901,12 +1067,12 @@
     {
       "key": "PS-6559",
       "summary": "RACC START - Actualizar paquetes @botonic y @hubtype a la versión 57 para poder ocultar Smart Intents",
-      "status": "Ready for review",
-      "status_category": "In Progress",
+      "status": "APPROVED FOR PRODUCTION",
+      "status_category": "Done",
       "assignee": "AI Agent Delivery",
       "issuetype": "Task",
       "created": "2026-10-17",
-      "updated": "2026-10-24",
+      "updated": "2026-10-26",
       "resolutiondate": "",
       "labels": [
         "RACC_START"
@@ -929,12 +1095,12 @@
     {
       "key": "PS-6557",
       "summary": "Michael Kors: shorten AI agent prompt, keep one master version and evaluate a stronger model",
-      "status": "Ready for review",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "irene callejas",
       "issuetype": "Task",
       "created": "2026-10-17",
-      "updated": "2026-10-23",
+      "updated": "2026-10-26",
       "resolutiondate": "",
       "labels": [
         "MichaelKors"
@@ -943,12 +1109,12 @@
     {
       "key": "PS-6556",
       "summary": "Verisure Cita - Definir solución de transferencia de datos",
-      "status": "Ready for review",
-      "status_category": "In Progress",
+      "status": "Closed",
+      "status_category": "Done",
       "assignee": "Adrià Sastre",
       "issuetype": "Task",
       "created": "2026-10-16",
-      "updated": "2026-10-19",
+      "updated": "2026-10-26",
       "resolutiondate": "",
       "labels": [
         "Verisure"
@@ -971,12 +1137,12 @@
     {
       "key": "PS-6554",
       "summary": "Verisure Cita - Integrar los 4 números de WhatsApp",
-      "status": "In Progress",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Aitor Casas",
       "issuetype": "Task",
       "created": "2026-10-16",
-      "updated": "2026-10-22",
+      "updated": "2026-10-26",
       "resolutiondate": "",
       "labels": [
         "Verisure"
@@ -1055,12 +1221,12 @@
     {
       "key": "PS-6548",
       "summary": "netberry-cofa: enviar historial de la conversación como nota interna al abrir el caso en Zendesk",
-      "status": "Ready for review",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Pep Alonso",
       "issuetype": "Task",
       "created": "2026-10-16",
-      "updated": "2026-10-19",
+      "updated": "2026-10-26",
       "resolutiondate": "",
       "labels": [
         "NetBerry_COFA"
@@ -1082,13 +1248,13 @@
     },
     {
       "key": "PS-6546",
-      "summary": "Verisure ES - Chequeo de pertenencia a Televenta - Implementación",
-      "status": "Open",
+      "summary": "Verisure ES - Funnel First - Chequeo de pertenencia a Televenta - Implementación",
+      "status": "To Do",
       "status_category": "To Do",
-      "assignee": "Adrià Sastre",
+      "assignee": "Marco Gallego Ropero",
       "issuetype": "Task",
       "created": "2026-10-16",
-      "updated": "2026-10-16",
+      "updated": "2026-10-26",
       "resolutiondate": "",
       "labels": [
         "Verisure"
@@ -1102,7 +1268,7 @@
       "assignee": "Adrià Sastre",
       "issuetype": "Discovery Task",
       "created": "2026-10-16",
-      "updated": "2026-10-21",
+      "updated": "2026-10-26",
       "resolutiondate": "",
       "labels": [
         "Verisure"
@@ -1125,12 +1291,12 @@
     {
       "key": "PS-6543",
       "summary": "CCMA – Actualizar GENE_CCMA_STAGING a la última versión de Botonic",
-      "status": "Ready for review",
+      "status": "Ready to Deliver",
       "status_category": "In Progress",
       "assignee": "AI Agent Delivery",
       "issuetype": "Task",
       "created": "2026-10-15",
-      "updated": "2026-10-19",
+      "updated": "2026-10-26",
       "resolutiondate": "",
       "labels": [
         "CCMA"
@@ -1285,12 +1451,12 @@
     {
       "key": "PS-6531",
       "summary": "Ralph Lauren - Treat stated price as a soft filter in Filter Counts and Recommend Products tools (go live after 20 Oct)",
-      "status": "Ready to Deliver",
-      "status_category": "In Progress",
+      "status": "In production",
+      "status_category": "Done",
       "assignee": "AI Agent Delivery",
       "issuetype": "Task",
       "created": "2026-10-15",
-      "updated": "2026-10-20",
+      "updated": "2026-10-26",
       "resolutiondate": "",
       "labels": [
         "Ralph_Lauren"
@@ -1318,7 +1484,7 @@
       "assignee": "AI Agent Delivery",
       "issuetype": "Task",
       "created": "2026-10-14",
-      "updated": "2026-10-14",
+      "updated": "2026-10-26",
       "resolutiondate": "",
       "labels": [
         "Libeen"
@@ -1332,7 +1498,7 @@
       "assignee": "irene callejas",
       "issuetype": "Bug",
       "created": "2026-10-14",
-      "updated": "2026-10-20",
+      "updated": "2026-10-26",
       "resolutiondate": "",
       "labels": [
         "Libeen"
@@ -1747,12 +1913,12 @@
     {
       "key": "PS-6496",
       "summary": "Ralph Lauren - Reminder for customers who don't finish sign-up",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "In Progress",
+      "status_category": "In Progress",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-10-12",
-      "updated": "2026-10-23",
+      "updated": "2026-10-26",
       "resolutiondate": "",
       "labels": [
         "Ralph_Lauren"
@@ -1775,12 +1941,12 @@
     {
       "key": "PS-6494",
       "summary": "Ralph Lauren - Add \"Subscribe\" button to the opt-out confirmation message",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Ready for review",
+      "status_category": "In Progress",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-10-12",
-      "updated": "2026-10-23",
+      "updated": "2026-10-26",
       "resolutiondate": "",
       "labels": [
         "Ralph_Lauren"
@@ -1789,12 +1955,12 @@
     {
       "key": "PS-6493",
       "summary": "Ralph Lauren - Remove budget question from the default gifting journey (go live after 20 Oct)",
-      "status": "In Progress",
+      "status": "Ready for review",
       "status_category": "In Progress",
       "assignee": "irene callejas",
       "issuetype": "Task",
       "created": "2026-10-12",
-      "updated": "2026-10-20",
+      "updated": "2026-10-26",
       "resolutiondate": "",
       "labels": [
         "Ralph_Lauren"
@@ -1887,12 +2053,12 @@
     {
       "key": "PS-6484",
       "summary": "DABA - Open Messaging integration",
-      "status": "In Progress",
+      "status": "Ready for review",
       "status_category": "In Progress",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-10-09",
-      "updated": "2026-10-20",
+      "updated": "2026-10-26",
       "resolutiondate": "",
       "labels": [
         "DABA"
@@ -2055,12 +2221,12 @@
     {
       "key": "PS-6472",
       "summary": "Retorna – Valorar alternativas de subida de capa de MAUs",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Francisca Martelli",
       "issuetype": "Task",
       "created": "2026-10-07",
-      "updated": "2026-10-07",
+      "updated": "2026-10-26",
       "resolutiondate": "",
       "labels": [
         "Retorna"
@@ -2225,10 +2391,10 @@
       "summary": "Michael Kors – Actualizar bot de staging a Botonic v0.57.0",
       "status": "To Do",
       "status_category": "To Do",
-      "assignee": null,
+      "assignee": "AI Agent Delivery",
       "issuetype": "Task",
       "created": "2026-10-06",
-      "updated": "2026-10-06",
+      "updated": "2026-10-26",
       "resolutiondate": "",
       "labels": [
         "Michael-Kors"
@@ -2774,7 +2940,7 @@
       "assignee": "irene callejas",
       "issuetype": "Task",
       "created": "2026-10-05",
-      "updated": "2026-10-12",
+      "updated": "2026-10-26",
       "resolutiondate": "",
       "labels": [
         "Ralph_Lauren"
@@ -2802,7 +2968,7 @@
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Discovery Task",
       "created": "2026-10-05",
-      "updated": "2026-10-22",
+      "updated": "2026-10-26",
       "resolutiondate": "",
       "labels": [
         "Soledad"
@@ -2816,7 +2982,7 @@
       "assignee": "Adrià Sastre",
       "issuetype": "Task",
       "created": "2026-10-05",
-      "updated": "2026-10-13",
+      "updated": "2026-10-26",
       "resolutiondate": "",
       "labels": [
         "RACC"
@@ -2853,12 +3019,12 @@
     {
       "key": "PS-6414",
       "summary": "Soledad - include pedidoComprobarPago",
-      "status": "To Do",
+      "status": "Open",
       "status_category": "To Do",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-10-05",
-      "updated": "2026-10-16",
+      "updated": "2026-10-26",
       "resolutiondate": "",
       "labels": [
         "Soledad"
@@ -2867,12 +3033,12 @@
     {
       "key": "PS-6413",
       "summary": "VGRS - Send JSON file with information to their SFTP",
-      "status": "In Progress",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Marco Gallego Ropero",
       "issuetype": "Task",
       "created": "2026-10-05",
-      "updated": "2026-10-15",
+      "updated": "2026-10-26",
       "resolutiondate": "",
       "labels": [
         "VGRS"
@@ -3473,12 +3639,12 @@
     {
       "key": "PS-6369",
       "summary": "DABA - NEW WISMO",
-      "status": "Ready for review",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Adrià Sastre",
       "issuetype": "Discovery Task",
       "created": "2026-09-29",
-      "updated": "2026-10-20",
+      "updated": "2026-10-26",
       "resolutiondate": "",
       "labels": [
         "DABA"
@@ -3711,12 +3877,12 @@
     {
       "key": "PS-6352",
       "summary": "VGRS - AI Agent design and development",
-      "status": "In Review",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "irene callejas",
       "issuetype": "Task",
       "created": "2026-09-28",
-      "updated": "2026-10-13",
+      "updated": "2026-10-26",
       "resolutiondate": "",
       "labels": [
         "VGRS"
@@ -3767,12 +3933,12 @@
     {
       "key": "PS-6348",
       "summary": "VGRS - Tool draft to test prompt",
-      "status": "Ready for review",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "AI Agent Delivery",
       "issuetype": "Task",
       "created": "2026-09-25",
-      "updated": "2026-10-05",
+      "updated": "2026-10-26",
       "resolutiondate": "",
       "labels": [
         "VGRS"
@@ -3893,12 +4059,12 @@
     {
       "key": "PS-6338",
       "summary": "Tendam - Reduce webchat-button bundle size",
-      "status": "To Do",
-      "status_category": "To Do",
-      "assignee": null,
+      "status": "Ready for review",
+      "status_category": "In Progress",
+      "assignee": "AI Agent Delivery",
       "issuetype": "Task",
       "created": "2026-09-24",
-      "updated": "2026-09-24",
+      "updated": "2026-10-26",
       "resolutiondate": "",
       "labels": [
         "Tendam"
@@ -3907,12 +4073,12 @@
     {
       "key": "PS-6337",
       "summary": "Occident - Reduce webchat-button bundle size",
-      "status": "To Do",
-      "status_category": "To Do",
-      "assignee": null,
+      "status": "Ready for review",
+      "status_category": "In Progress",
+      "assignee": "AI Agent Delivery",
       "issuetype": "Task",
       "created": "2026-09-24",
-      "updated": "2026-09-24",
+      "updated": "2026-10-26",
       "resolutiondate": "",
       "labels": [
         "Occident"
@@ -3935,12 +4101,12 @@
     {
       "key": "PS-6335",
       "summary": "Generalitat Turisme - Reduce webchat-button bundle size",
-      "status": "To Do",
-      "status_category": "To Do",
-      "assignee": null,
+      "status": "Ready for review",
+      "status_category": "In Progress",
+      "assignee": "AI Agent Delivery",
       "issuetype": "Task",
       "created": "2026-09-24",
-      "updated": "2026-09-24",
+      "updated": "2026-10-26",
       "resolutiondate": "",
       "labels": [
         "Generalitat-Turisme"
@@ -3949,12 +4115,12 @@
     {
       "key": "PS-6334",
       "summary": "Retorna - Reduce webchat-button bundle size",
-      "status": "To Do",
-      "status_category": "To Do",
-      "assignee": null,
+      "status": "Ready for review",
+      "status_category": "In Progress",
+      "assignee": "AI Agent Delivery",
       "issuetype": "Task",
       "created": "2026-09-24",
-      "updated": "2026-09-24",
+      "updated": "2026-10-26",
       "resolutiondate": "",
       "labels": [
         "Retorna"
@@ -4528,12 +4694,12 @@
     {
       "key": "PS-6293",
       "summary": "Tendam - Canal Atención Personas Consumidoras Vulnerables",
-      "status": "Ready for review",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Adrià Sastre",
       "issuetype": "Discovery Task",
       "created": "2026-09-20",
-      "updated": "2026-09-21",
+      "updated": "2026-10-26",
       "resolutiondate": "",
       "labels": [
         "Tendam"
@@ -4722,12 +4888,12 @@
     {
       "key": "PS-6278",
       "summary": "VGRS - Develop data transfer method (FTP o API), URLs and credentials",
-      "status": "In Review",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Marco Gallego Ropero",
       "issuetype": "Task",
       "created": "2026-09-17",
-      "updated": "2026-10-19",
+      "updated": "2026-10-26",
       "resolutiondate": "",
       "labels": [
         "VGRS"
@@ -5534,12 +5700,12 @@
     {
       "key": "PS-6218",
       "summary": "Retorna - Limit Image Fallback Message to 1 per Conversation ID",
-      "status": "In Progress",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Francisca Martelli",
       "issuetype": "Task",
       "created": "2026-09-09",
-      "updated": "2026-10-20",
+      "updated": "2026-10-26",
       "resolutiondate": "",
       "labels": [
         "Retorna"
@@ -8131,12 +8297,12 @@
     {
       "key": "PS-6026",
       "summary": "DABA - Configure Helpdesk (Queues, Agents, Schedule, etc)",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Closed",
+      "status_category": "Done",
       "assignee": "Francisca Martelli",
       "issuetype": "Task",
       "created": "2026-07-28",
-      "updated": "2026-07-28",
+      "updated": "2026-10-26",
       "resolutiondate": "",
       "labels": [
         "DABA"
@@ -8958,12 +9124,12 @@
     {
       "key": "PS-5967",
       "summary": "NetBerry - COFA - 1st Phase",
-      "status": "Ready to Deliver",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Wei Wu",
       "issuetype": "Epic",
       "created": "2026-07-22",
-      "updated": "2026-10-05",
+      "updated": "2026-10-26",
       "resolutiondate": "",
       "labels": [
         "NetBerry_COFA"
