@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-27 13:12 UTC",
+  "last_updated": "2026-10-28 14:00 UTC",
   "opportunities": [
     {
       "id": "006Sa00000rocDKIAY",
@@ -56,17 +56,17 @@
       "id": "006Sa00000rkOf9IAE",
       "name": "2026-U-Verisure Spain - Upsell to 50K from Oct to Dec 2026",
       "type": "Upsell",
-      "stage": "Opportunity identified",
-      "is_closed": false,
-      "is_won": false,
-      "probability": 10.0,
+      "stage": "Closed Won",
+      "is_closed": true,
+      "is_won": true,
+      "probability": 100.0,
       "amount": 8913.0,
       "arr": 35652.0,
       "owner": "Marta Marron",
       "cs_lead": "Marta Marron",
       "account": "Verisure Spain Lead Gen",
       "created": "2026-10-26",
-      "close_date": "2026-10-31",
+      "close_date": "2026-10-28",
       "start_date": "2026-10-01"
     },
     {
@@ -114,11 +114,11 @@
       "amount": 687.75,
       "arr": 0.0,
       "owner": "Julieta Mezza",
-      "cs_lead": "",
+      "cs_lead": "Julieta Mezza",
       "account": "VOLKSWAGEN GROUP SPAIN",
       "created": "2026-10-23",
       "close_date": "2026-10-26",
-      "start_date": "2026-05-31"
+      "start_date": "2026-10-27"
     },
     {
       "id": "006Sa00000rSFgjIAG",
@@ -2494,7 +2494,7 @@
       "amount": 2160.0,
       "arr": 0.0,
       "owner": "Julieta Mezza",
-      "cs_lead": "",
+      "cs_lead": "Julieta Mezza",
       "account": "Air Europa",
       "created": "2026-01-29",
       "close_date": "2026-01-29",
@@ -3445,7 +3445,7 @@
       "probability": 10.0,
       "amount": 107100.0,
       "arr": 107100.0,
-      "owner": "GTM Ops",
+      "owner": "Marta Marron",
       "cs_lead": "Marta Marron",
       "account": "Alsa",
       "created": "2025-09-30",

@@ -1,6 +1,28 @@
 {
-  "last_updated": "2026-10-27 13:12 UTC",
+  "last_updated": "2026-10-28 14:00 UTC",
   "cases": [
+    {
+      "id": "500Sa000019X9RrIAK",
+      "case_number": "00025493",
+      "subject": "Re: Michael Kors bot: remaining knowledge source fixes",
+      "status": "Open",
+      "priority": "Low",
+      "is_closed": false,
+      "is_escalated": false,
+      "owner": "Aitor Casas",
+      "account": "Hubtype",
+      "origin": "Inbound",
+      "type": "",
+      "feeling": "",
+      "issue_type": "",
+      "channel": "Email",
+      "is_critical": "L4",
+      "escalated_team": "",
+      "resolution_time": "",
+      "created": "2026-10-28",
+      "closed": "",
+      "last_modified": "2026-10-28"
+    },
     {
       "id": "500Sa000019OQoWIAW",
       "case_number": "00025492",
@@ -18,10 +40,10 @@
       "channel": "Email",
       "is_critical": "L4",
       "escalated_team": "",
-      "resolution_time": "1. <6h",
+      "resolution_time": "3. 12-24h",
       "created": "2026-10-27",
-      "closed": "2026-10-27",
-      "last_modified": "2026-10-27"
+      "closed": "2026-10-28",
+      "last_modified": "2026-10-28"
     },
     {
       "id": "500Sa000019LhsHIAS",
@@ -172,10 +194,10 @@
       "channel": "Email",
       "is_critical": "L4",
       "escalated_team": "",
-      "resolution_time": "3. 12-24h",
+      "resolution_time": "5. >36h",
       "created": "2026-10-26",
-      "closed": "2026-10-27",
-      "last_modified": "2026-10-27"
+      "closed": "2026-10-28",
+      "last_modified": "2026-10-28"
     },
     {
       "id": "500Sa000019I0tcIAC",
@@ -2000,8 +2022,8 @@
       "escalated_team": "",
       "resolution_time": "5. >36h",
       "created": "2026-10-05",
-      "closed": "2026-10-22",
-      "last_modified": "2026-10-22"
+      "closed": "2026-10-28",
+      "last_modified": "2026-10-28"
     },
     {
       "id": "500Sa000013A2W9IAK",
