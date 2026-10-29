@@ -1,11 +1,305 @@
 {
-  "last_updated": "2026-10-28 13:48 UTC",
+  "last_updated": "2026-10-29 13:55 UTC",
   "tickets": [
+    {
+      "key": "PS-6693",
+      "summary": "VGRS - Prompt adjustments",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "irene callejas",
+      "issuetype": "Task",
+      "created": "2026-10-29",
+      "updated": "2026-10-29",
+      "resolutiondate": "",
+      "labels": [
+        "VGRS"
+      ]
+    },
+    {
+      "key": "PS-6692",
+      "summary": "VGRS - Initial adjustments SFTP and follow ups",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Adrià Sastre",
+      "issuetype": "Task",
+      "created": "2026-10-29",
+      "updated": "2026-10-29",
+      "resolutiondate": "",
+      "labels": [
+        "VGRS"
+      ]
+    },
+    {
+      "key": "PS-6691",
+      "summary": "VGRS - Adjustments para nuevas campañas",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Adrià Sastre",
+      "issuetype": "Task",
+      "created": "2026-10-29",
+      "updated": "2026-10-29",
+      "resolutiondate": "",
+      "labels": [
+        "VGRS"
+      ]
+    },
+    {
+      "key": "PS-6690",
+      "summary": "Jetsmart - Compra de tickets - Ajustes",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Pep Alonso",
+      "issuetype": "Task",
+      "created": "2026-10-29",
+      "updated": "2026-10-29",
+      "resolutiondate": "",
+      "labels": [
+        "JetSmart"
+      ]
+    },
+    {
+      "key": "PS-6689",
+      "summary": "Verisure Cita - Identify the AI agent as a Verisure virtual advisor in its first reply after a template",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "irene callejas",
+      "issuetype": "Task",
+      "created": "2026-10-29",
+      "updated": "2026-10-29",
+      "resolutiondate": "",
+      "labels": [
+        "Verisure"
+      ]
+    },
+    {
+      "key": "PS-6688",
+      "summary": "Ralph Lauren - add forced to coupon endpoint",
+      "status": "Ready for review",
+      "status_category": "In Progress",
+      "assignee": "Lorena Sánchez-Toril Nicolás",
+      "issuetype": "Task",
+      "created": "2026-10-29",
+      "updated": "2026-10-29",
+      "resolutiondate": "",
+      "labels": [
+        "Ralph_Lauren"
+      ]
+    },
+    {
+      "key": "PS-6687",
+      "summary": "RibéSalat - Ajustes prompt tras pruebas del cliente",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Julieta Mezza",
+      "issuetype": "Task",
+      "created": "2026-10-29",
+      "updated": "2026-10-29",
+      "resolutiondate": "",
+      "labels": [
+        "ribesalat"
+      ]
+    },
+    {
+      "key": "PS-6686",
+      "summary": "Ralph Lauren - Refactor hardcoded WABA IDs across code",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Lorena Sánchez-Toril Nicolás",
+      "issuetype": "Task",
+      "created": "2026-10-29",
+      "updated": "2026-10-29",
+      "resolutiondate": "",
+      "labels": [
+        "Ralph_Lauren"
+      ]
+    },
+    {
+      "key": "PS-6685",
+      "summary": "DABA - WISMO get client data by id (2nd part)",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Lorena Sánchez-Toril Nicolás",
+      "issuetype": "Task",
+      "created": "2026-10-29",
+      "updated": "2026-10-29",
+      "resolutiondate": "",
+      "labels": [
+        "DABA"
+      ]
+    },
+    {
+      "key": "PS-6684",
+      "summary": "DABA - WISMO Authentication and get client by telephone (1st part)",
+      "status": "In Progress",
+      "status_category": "In Progress",
+      "assignee": "Lorena Sánchez-Toril Nicolás",
+      "issuetype": "Task",
+      "created": "2026-10-29",
+      "updated": "2026-10-29",
+      "resolutiondate": "",
+      "labels": [
+        "DABA"
+      ]
+    },
+    {
+      "key": "PS-6683",
+      "summary": "Air Europa - Subir lista de personas a enviar templates desde producción",
+      "status": "Done",
+      "status_category": "Done",
+      "assignee": "Aitor Casas",
+      "issuetype": "Task",
+      "created": "2026-10-28",
+      "updated": "2026-10-29",
+      "resolutiondate": "",
+      "labels": [
+        "AirEuropa"
+      ]
+    },
+    {
+      "key": "PS-6682",
+      "summary": "Alsa – Actualizar sección Bonos del agente (fin abonos 2026)",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "irene callejas",
+      "issuetype": "Task",
+      "created": "2026-10-28",
+      "updated": "2026-10-28",
+      "resolutiondate": "",
+      "labels": [
+        "Alsa"
+      ]
+    },
+    {
+      "key": "PS-6681",
+      "summary": "Zoè – Implementar nuevos textos y flujo de respuestas del bot (Respuestas_Bot_Zoepure)",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Aitor Casas",
+      "issuetype": "Task",
+      "created": "2026-10-28",
+      "updated": "2026-10-28",
+      "resolutiondate": "",
+      "labels": [
+        "Crossing_World"
+      ]
+    },
+    {
+      "key": "PS-6680",
+      "summary": "Crossing World - Feature - Upgrade Botonic to 0.57",
+      "status": "In production",
+      "status_category": "Done",
+      "assignee": "AI Agent Delivery",
+      "issuetype": "Task",
+      "created": "2026-10-28",
+      "updated": "2026-10-29",
+      "resolutiondate": "",
+      "labels": [
+        "Crossing_World"
+      ]
+    },
+    {
+      "key": "PS-6679",
+      "summary": "Allianz Scan&Buy Auto - API Gateway - Endpoint extracción datos coche (LLM)",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Pep Alonso",
+      "issuetype": "Task",
+      "created": "2026-10-28",
+      "updated": "2026-10-28",
+      "resolutiondate": "",
+      "labels": [
+        "Allianz"
+      ]
+    },
+    {
+      "key": "PS-6678",
+      "summary": "Allianz Scan&Buy Auto - API Gateway - Endpoint extracción datos póliza (LLM)",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Pep Alonso",
+      "issuetype": "Task",
+      "created": "2026-10-28",
+      "updated": "2026-10-28",
+      "resolutiondate": "",
+      "labels": [
+        "Allianz"
+      ]
+    },
+    {
+      "key": "PS-6677",
+      "summary": "Allianz Scan&Buy Auto - API Gateway - Allianz API endpoints",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Pep Alonso",
+      "issuetype": "Task",
+      "created": "2026-10-28",
+      "updated": "2026-10-28",
+      "resolutiondate": "",
+      "labels": [
+        "Allianz"
+      ]
+    },
+    {
+      "key": "PS-6676",
+      "summary": "Allianz Scan&Buy Auto - Integración API Allianz",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Pep Alonso",
+      "issuetype": "Task",
+      "created": "2026-10-28",
+      "updated": "2026-10-28",
+      "resolutiondate": "",
+      "labels": [
+        "Allianz"
+      ]
+    },
+    {
+      "key": "PS-6675",
+      "summary": "Fenie Energia - Estimate effort of implementing SF Integration on this new bot",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Adrià Sastre",
+      "issuetype": "Discovery Task",
+      "created": "2026-10-28",
+      "updated": "2026-10-28",
+      "resolutiondate": "",
+      "labels": [
+        "FenieEnergia"
+      ]
+    },
+    {
+      "key": "PS-6674",
+      "summary": "Air Europa – Dar acceso admin al Dashboard 40 aniversario",
+      "status": "Done",
+      "status_category": "Done",
+      "assignee": "Aitor Casas",
+      "issuetype": "Task",
+      "created": "2026-10-28",
+      "updated": "2026-10-29",
+      "resolutiondate": "",
+      "labels": [
+        "AirEuropa"
+      ]
+    },
+    {
+      "key": "PS-6673",
+      "summary": "Tendam – Springfield - Caso resuelto sin envío a Inconcert (no se registra inconcert_case_sent)",
+      "status": "Ready for review",
+      "status_category": "In Progress",
+      "assignee": "Adrià Sastre",
+      "issuetype": "Bug",
+      "created": "2026-10-28",
+      "updated": "2026-10-28",
+      "resolutiondate": "",
+      "labels": [
+        "Tendam"
+      ]
+    },
     {
       "key": "PS-6672",
       "summary": "Jetsmart - Remove the rule for URL edition",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Pep Alonso",
       "issuetype": "Bug",
       "created": "2026-10-28",
@@ -23,7 +317,7 @@
       "assignee": "irene callejas",
       "issuetype": "Task",
       "created": "2026-10-28",
-      "updated": "2026-10-28",
+      "updated": "2026-10-29",
       "resolutiondate": "",
       "labels": [
         "ribesalat"
@@ -46,9 +340,9 @@
     {
       "key": "PS-6669",
       "summary": "Euroriente - Localizador de la reserva en el conversation info field",
-      "status": "To Do",
-      "status_category": "To Do",
-      "assignee": "Pep Alonso",
+      "status": "Done",
+      "status_category": "Done",
+      "assignee": "AI Agent Delivery",
       "issuetype": "Task",
       "created": "2026-10-28",
       "updated": "2026-10-28",
@@ -81,7 +375,9 @@
       "created": "2026-10-28",
       "updated": "2026-10-28",
       "resolutiondate": "",
-      "labels": []
+      "labels": [
+        "ribesalat"
+      ]
     },
     {
       "key": "PS-6666",
@@ -183,10 +479,10 @@
     },
     {
       "key": "PS-6657",
-      "summary": "Allianz Scan & Buy Auto - IPID a mostrar antes de la contratación",
-      "status": "To Do",
-      "status_category": "To Do",
-      "assignee": "Pep Alonso",
+      "summary": "Allianz Scan & Buy Auto - Diseño - IPID a mostrar antes de la contratación",
+      "status": "In Progress",
+      "status_category": "In Progress",
+      "assignee": "Vicky Correbo",
       "issuetype": "Task",
       "created": "2026-10-27",
       "updated": "2026-10-28",
@@ -198,12 +494,12 @@
     {
       "key": "PS-6656",
       "summary": "Wizz Air · La búsqueda de reserva en la webview devuelve un error genérico y el bot lo muestra como \"problemas técnicos\"",
-      "status": "Ready for review",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "AI Agent Delivery",
       "issuetype": "Task",
       "created": "2026-10-27",
-      "updated": "2026-10-27",
+      "updated": "2026-10-28",
       "resolutiondate": "",
       "labels": [
         "WizzAir"
@@ -226,12 +522,12 @@
     {
       "key": "PS-6654",
       "summary": "Air Europa - Celebracion 40 años - Crear Plantillas Meta",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Aitor Casas",
       "issuetype": "Task",
       "created": "2026-10-27",
-      "updated": "2026-10-27",
+      "updated": "2026-10-29",
       "resolutiondate": "",
       "labels": [
         "AirEuropa"
@@ -240,12 +536,12 @@
     {
       "key": "PS-6653",
       "summary": "Air Europa - Celebración 40 años - Conectar numero de teléfono",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Aitor Casas",
       "issuetype": "Task",
       "created": "2026-10-27",
-      "updated": "2026-10-27",
+      "updated": "2026-10-29",
       "resolutiondate": "",
       "labels": [
         "AirEuropa"
@@ -310,12 +606,12 @@
     {
       "key": "PS-6648",
       "summary": "Crossing World - Registrar en Tinybird el comentario del feedback negativo (FeedbackNegativoAnswer)",
-      "status": "Ready for review",
-      "status_category": "In Progress",
+      "status": "In production",
+      "status_category": "Done",
       "assignee": "AI Agent Delivery",
       "issuetype": "Task",
       "created": "2026-10-27",
-      "updated": "2026-10-27",
+      "updated": "2026-10-29",
       "resolutiondate": "",
       "labels": [
         "Crossing_World"
@@ -464,12 +760,12 @@
     {
       "key": "PS-6637",
       "summary": "Wizz Air - Create AI Agent tool to capture claim data and save it in contact info fields (staging)",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "In Progress",
+      "status_category": "In Progress",
       "assignee": "Marco Gallego Ropero",
       "issuetype": "Task",
       "created": "2026-10-26",
-      "updated": "2026-10-28",
+      "updated": "2026-10-29",
       "resolutiondate": "",
       "labels": [
         "WizzAir"
@@ -698,28 +994,14 @@
       ]
     },
     {
-      "key": "PS-6620",
-      "summary": "Allianz Scan&Buy Auto - README, runbook y documentación del proyecto",
-      "status": "To Do",
-      "status_category": "To Do",
-      "assignee": null,
-      "issuetype": "Task",
-      "created": "2026-10-23",
-      "updated": "2026-10-23",
-      "resolutiondate": "",
-      "labels": [
-        "Allianz"
-      ]
-    },
-    {
       "key": "PS-6619",
       "summary": "Allianz Scan&Buy Auto - Alias de dominio + certificado ACM en CloudFront (bloqueada por Allianz)",
       "status": "To Do",
       "status_category": "To Do",
-      "assignee": null,
+      "assignee": "Pep Alonso",
       "issuetype": "Task",
       "created": "2026-10-23",
-      "updated": "2026-10-23",
+      "updated": "2026-10-28",
       "resolutiondate": "",
       "labels": [
         "Allianz"
@@ -744,10 +1026,10 @@
       "summary": "Allianz Scan&Buy Auto - Subida y descarga de pólizas con presigned POST",
       "status": "To Do",
       "status_category": "To Do",
-      "assignee": null,
+      "assignee": "Pep Alonso",
       "issuetype": "Task",
       "created": "2026-10-23",
-      "updated": "2026-10-23",
+      "updated": "2026-10-28",
       "resolutiondate": "",
       "labels": [
         "Allianz"
@@ -756,12 +1038,12 @@
     {
       "key": "PS-6616",
       "summary": "Allianz Scan&Buy Auto - API Gateway + authorizer + endpoints de sesión",
-      "status": "To Do",
-      "status_category": "To Do",
-      "assignee": null,
+      "status": "Ready for review",
+      "status_category": "In Progress",
+      "assignee": "Pep Alonso",
       "issuetype": "Task",
       "created": "2026-10-23",
-      "updated": "2026-10-23",
+      "updated": "2026-10-28",
       "resolutiondate": "",
       "labels": [
         "Allianz"
@@ -784,12 +1066,12 @@
     {
       "key": "PS-6614",
       "summary": "Allianz Scan&Buy Auto - Bucket privado de pólizas (CMK + lifecycle configurable)",
-      "status": "To Do",
-      "status_category": "To Do",
-      "assignee": null,
+      "status": "Ready for review",
+      "status_category": "In Progress",
+      "assignee": "Pep Alonso",
       "issuetype": "Task",
       "created": "2026-10-23",
-      "updated": "2026-10-23",
+      "updated": "2026-10-28",
       "resolutiondate": "",
       "labels": [
         "Allianz"
@@ -800,10 +1082,10 @@
       "summary": "Allianz Scan&Buy Auto - Script manual de despliegue del frontend (sync + invalidación)",
       "status": "To Do",
       "status_category": "To Do",
-      "assignee": null,
+      "assignee": "Pep Alonso",
       "issuetype": "Task",
       "created": "2026-10-23",
-      "updated": "2026-10-23",
+      "updated": "2026-10-28",
       "resolutiondate": "",
       "labels": [
         "Allianz"
@@ -814,10 +1096,10 @@
       "summary": "Allianz Scan&Buy Auto - Hosting del frontend: S3 + CloudFront + WAF existente",
       "status": "To Do",
       "status_category": "To Do",
-      "assignee": null,
+      "assignee": "Pep Alonso",
       "issuetype": "Task",
       "created": "2026-10-23",
-      "updated": "2026-10-23",
+      "updated": "2026-10-28",
       "resolutiondate": "",
       "labels": [
         "Allianz"
@@ -952,12 +1234,12 @@
     {
       "key": "PS-6602",
       "summary": "Ralph Lauren - Update bot version to 0.57",
-      "status": "Ready for review",
+      "status": "Ready to Deliver",
       "status_category": "In Progress",
       "assignee": "AI Agent Delivery",
       "issuetype": "Task",
       "created": "2026-10-22",
-      "updated": "2026-10-22",
+      "updated": "2026-10-29",
       "resolutiondate": "",
       "labels": [
         "Ralph_Lauren"
@@ -1036,7 +1318,7 @@
     {
       "key": "PS-6596",
       "summary": "Soledad - requested updates",
-      "status": "In Review",
+      "status": "Ready to Deliver",
       "status_category": "In Progress",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
@@ -1779,12 +2061,12 @@
     {
       "key": "PS-6543",
       "summary": "CCMA – Actualizar GENE_CCMA_STAGING a la última versión de Botonic",
-      "status": "In production",
+      "status": "Done",
       "status_category": "Done",
       "assignee": "AI Agent Delivery",
       "issuetype": "Task",
       "created": "2026-10-15",
-      "updated": "2026-10-26",
+      "updated": "2026-10-28",
       "resolutiondate": "",
       "labels": [
         "CCMA"
@@ -1807,12 +2089,12 @@
     {
       "key": "PS-6541",
       "summary": "Ralph Lauren - Update Digital & Landlord Barcodes",
-      "status": "Ready for review",
+      "status": "Ready to Deliver",
       "status_category": "In Progress",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-10-15",
-      "updated": "2026-10-19",
+      "updated": "2026-10-29",
       "resolutiondate": "",
       "labels": [
         "Ralph-Lauren",
@@ -2177,12 +2459,12 @@
     {
       "key": "PS-6512",
       "summary": "Allianz Spain - Scan & Buy Hogar - Design proposal",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "In Progress",
+      "status_category": "In Progress",
       "assignee": "Vicky Correbo",
       "issuetype": "Task",
       "created": "2026-10-14",
-      "updated": "2026-10-19",
+      "updated": "2026-10-29",
       "resolutiondate": "",
       "labels": [
         "Allianz"
@@ -2261,12 +2543,12 @@
     {
       "key": "PS-6506",
       "summary": "Euroriente - Middleware de envío de plantilla de bienvenida (Juniper → WhatsApp)",
-      "status": "In Progress",
+      "status": "Ready for review",
       "status_category": "In Progress",
       "assignee": "Pep Alonso",
       "issuetype": "Sub-task",
       "created": "2026-10-13",
-      "updated": "2026-10-17",
+      "updated": "2026-10-29",
       "resolutiondate": "",
       "labels": [
         "Euroriente"
@@ -2877,12 +3159,12 @@
     {
       "key": "PS-6460",
       "summary": "Michael Kors – Actualizar bot de staging a Botonic v0.57.0",
-      "status": "APPROVED FOR PRODUCTION",
+      "status": "Done",
       "status_category": "Done",
       "assignee": "AI Agent Delivery",
       "issuetype": "Task",
       "created": "2026-10-06",
-      "updated": "2026-10-28",
+      "updated": "2026-10-29",
       "resolutiondate": "",
       "labels": [
         "Michael-Kors"
@@ -3031,12 +3313,12 @@
     {
       "key": "PS-6449",
       "summary": "Euroriente - Filtrar envío de bienvenida a Turquía y Grecia en español y calcular volumen diario",
-      "status": "In Progress",
+      "status": "Ready for review",
       "status_category": "In Progress",
       "assignee": "Pep Alonso",
       "issuetype": "Task",
       "created": "2026-10-06",
-      "updated": "2026-10-19",
+      "updated": "2026-10-29",
       "resolutiondate": "",
       "labels": [
         "Euroriente"
@@ -3157,12 +3439,12 @@
     {
       "key": "PS-6440",
       "summary": "Ralph Lauren - Point staging bot to staging backend",
-      "status": "Ready for review",
+      "status": "Ready to Deliver",
       "status_category": "In Progress",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-10-06",
-      "updated": "2026-10-19",
+      "updated": "2026-10-29",
       "resolutiondate": "",
       "labels": [
         "Ralph_Lauren"
@@ -3171,12 +3453,12 @@
     {
       "key": "PS-6439",
       "summary": "Ralph Lauren - Create and deploy staging stack",
-      "status": "Ready for review",
+      "status": "Ready to Deliver",
       "status_category": "In Progress",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-10-06",
-      "updated": "2026-10-16",
+      "updated": "2026-10-29",
       "resolutiondate": "",
       "labels": [
         "Ralph_Lauren"
@@ -3185,12 +3467,12 @@
     {
       "key": "PS-6438",
       "summary": "Ralph Lauren - Migrate code from experiments repository to bots-definition",
-      "status": "Ready for review",
+      "status": "Ready to Deliver",
       "status_category": "In Progress",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-10-06",
-      "updated": "2026-10-14",
+      "updated": "2026-10-29",
       "resolutiondate": "",
       "labels": [
         "Ralph_Lauren"
@@ -3372,7 +3654,7 @@
       "assignee": "Aitor Casas",
       "issuetype": "Task",
       "created": "2026-10-05",
-      "updated": "2026-10-13",
+      "updated": "2026-10-29",
       "resolutiondate": "",
       "labels": [
         "VerisureSpain"
@@ -3506,13 +3788,13 @@
     },
     {
       "key": "PS-6414",
-      "summary": "Soledad - include pedidoComprobarPago",
-      "status": "Open",
-      "status_category": "To Do",
+      "summary": "Soledad - test pedidoComprobarPago",
+      "status": "In Progress",
+      "status_category": "In Progress",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-10-05",
-      "updated": "2026-10-26",
+      "updated": "2026-10-29",
       "resolutiondate": "",
       "labels": [
         "Soledad"
@@ -3635,7 +3917,7 @@
     {
       "key": "PS-6403",
       "summary": "Ralph Lauren – Zeta (ZMP) WhatsApp opt-in/opt-out integration: build & test",
-      "status": "APPROVED FOR PRODUCTION",
+      "status": "In production",
       "status_category": "Done",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
@@ -4815,12 +5097,12 @@
     {
       "key": "PS-6319",
       "summary": "RACC - Add new entities when creating AiAlma case (AI Agent)",
-      "status": "Ready for review",
-      "status_category": "In Progress",
+      "status": "In production",
+      "status_category": "Done",
       "assignee": "AI Agent Delivery",
       "issuetype": "Task",
       "created": "2026-09-23",
-      "updated": "2026-09-29",
+      "updated": "2026-10-29",
       "resolutiondate": "",
       "labels": [
         "RACC"
@@ -12491,7 +12773,7 @@
       "assignee": "Pep Alonso",
       "issuetype": "Task",
       "created": "2026-06-15",
-      "updated": "2026-10-17",
+      "updated": "2026-10-29",
       "resolutiondate": "",
       "labels": [
         "Internal"
