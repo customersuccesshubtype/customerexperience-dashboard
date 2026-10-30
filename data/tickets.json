@@ -1,11 +1,121 @@
 {
-  "last_updated": "2026-10-29 13:55 UTC",
+  "last_updated": "2026-10-30 13:49 UTC",
   "tickets": [
+    {
+      "key": "PS-6701",
+      "summary": "Michael Kors - Daily bot SFTP export: mandatory ID columns arriving empty (Bot Country ID) since September",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Adrià Sastre",
+      "issuetype": "Task",
+      "created": "2026-10-30",
+      "updated": "2026-10-30",
+      "resolutiondate": "",
+      "labels": [
+        "Michael-Kors"
+      ]
+    },
+    {
+      "key": "PS-6700",
+      "summary": "Ralph Lauren - Implement validation to match RL Customer ID with chat ID",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Lorena Sánchez-Toril Nicolás",
+      "issuetype": "Task",
+      "created": "2026-10-30",
+      "updated": "2026-10-30",
+      "resolutiondate": "",
+      "labels": [
+        "Ralph_Lauren"
+      ]
+    },
+    {
+      "key": "PS-6699",
+      "summary": "Crossing World - Zoepure: el bot se ha desplegado en inglés, cambiar el idioma a castellano",
+      "status": "Done",
+      "status_category": "Done",
+      "assignee": "Aitor Casas",
+      "issuetype": "Task",
+      "created": "2026-10-30",
+      "updated": "2026-10-30",
+      "resolutiondate": "",
+      "labels": [
+        "Zoepure"
+      ]
+    },
+    {
+      "key": "PS-6698",
+      "summary": "[GUESS] Aceptar números de pedido con prefijo GW además de GE",
+      "status": "APPROVED FOR PRODUCTION",
+      "status_category": "Done",
+      "assignee": "AI Agent Delivery",
+      "issuetype": "Task",
+      "created": "2026-10-30",
+      "updated": "2026-10-30",
+      "resolutiondate": "",
+      "labels": [
+        "GUESS"
+      ]
+    },
+    {
+      "key": "PS-6697",
+      "summary": "Ralph Lauren - updates voucher campaign ",
+      "status": "In Progress",
+      "status_category": "In Progress",
+      "assignee": "Lorena Sánchez-Toril Nicolás",
+      "issuetype": "Task",
+      "created": "2026-10-30",
+      "updated": "2026-10-30",
+      "resolutiondate": "",
+      "labels": [
+        "Ralph_Lauren"
+      ]
+    },
+    {
+      "key": "PS-6696",
+      "summary": "Tendam: no volver a pedir el número de pedido tras WISMO (3. Agente (otros), webchat y fuera de horario)",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Marta Marron",
+      "issuetype": "Task",
+      "created": "2026-10-29",
+      "updated": "2026-10-29",
+      "resolutiondate": "",
+      "labels": [
+        "Tendam"
+      ]
+    },
+    {
+      "key": "PS-6695",
+      "summary": "Verisure ES - Funnel First - Improvement - Actualizar bot a Botonic v0.57.1 y activar \"No contact reason flow\"",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Adrià Sastre",
+      "issuetype": "Task",
+      "created": "2026-10-29",
+      "updated": "2026-10-29",
+      "resolutiondate": "",
+      "labels": [
+        "Verisure"
+      ]
+    },
+    {
+      "key": "PS-6694",
+      "summary": "All clients - Research contact info fields in template saving",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "irene callejas",
+      "issuetype": "Discovery Task",
+      "created": "2026-10-29",
+      "updated": "2026-10-30",
+      "resolutiondate": "",
+      "labels": []
+    },
     {
       "key": "PS-6693",
       "summary": "VGRS - Prompt adjustments",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "irene callejas",
       "issuetype": "Task",
       "created": "2026-10-29",
@@ -51,7 +161,7 @@
       "assignee": "Pep Alonso",
       "issuetype": "Task",
       "created": "2026-10-29",
-      "updated": "2026-10-29",
+      "updated": "2026-10-30",
       "resolutiondate": "",
       "labels": [
         "JetSmart"
@@ -158,12 +268,12 @@
     {
       "key": "PS-6682",
       "summary": "Alsa – Actualizar sección Bonos del agente (fin abonos 2026)",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "irene callejas",
       "issuetype": "Task",
       "created": "2026-10-28",
-      "updated": "2026-10-28",
+      "updated": "2026-10-29",
       "resolutiondate": "",
       "labels": [
         "Alsa"
@@ -186,7 +296,7 @@
     {
       "key": "PS-6680",
       "summary": "Crossing World - Feature - Upgrade Botonic to 0.57",
-      "status": "In production",
+      "status": "Done",
       "status_category": "Done",
       "assignee": "AI Agent Delivery",
       "issuetype": "Task",
@@ -284,12 +394,12 @@
     {
       "key": "PS-6673",
       "summary": "Tendam – Springfield - Caso resuelto sin envío a Inconcert (no se registra inconcert_case_sent)",
-      "status": "Ready for review",
-      "status_category": "In Progress",
+      "status": "Closed",
+      "status_category": "Done",
       "assignee": "Adrià Sastre",
       "issuetype": "Bug",
       "created": "2026-10-28",
-      "updated": "2026-10-28",
+      "updated": "2026-10-30",
       "resolutiondate": "",
       "labels": [
         "Tendam"
@@ -508,12 +618,12 @@
     {
       "key": "PS-6655",
       "summary": "Air Europa - Celebracion 40 años - Knowlege Base a conectar al AI Agent",
-      "status": "Ready for review",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "irene callejas",
       "issuetype": "Task",
       "created": "2026-10-27",
-      "updated": "2026-10-27",
+      "updated": "2026-10-29",
       "resolutiondate": "",
       "labels": [
         "AirEuropa"
@@ -592,12 +702,12 @@
     {
       "key": "PS-6649",
       "summary": "Air Europa - Celebración 40 años",
-      "status": "In Progress",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Marta Marron",
       "issuetype": "Epic",
       "created": "2026-10-27",
-      "updated": "2026-10-27",
+      "updated": "2026-10-30",
       "resolutiondate": "",
       "labels": [
         "AirEuropa"
@@ -606,7 +716,7 @@
     {
       "key": "PS-6648",
       "summary": "Crossing World - Registrar en Tinybird el comentario del feedback negativo (FeedbackNegativoAnswer)",
-      "status": "In production",
+      "status": "Done",
       "status_category": "Done",
       "assignee": "AI Agent Delivery",
       "issuetype": "Task",
@@ -793,7 +903,7 @@
       "assignee": "irene callejas",
       "issuetype": "Task",
       "created": "2026-10-26",
-      "updated": "2026-10-28",
+      "updated": "2026-10-29",
       "resolutiondate": "",
       "labels": [
         "all_clients"
@@ -802,12 +912,12 @@
     {
       "key": "PS-6634",
       "summary": "Tendam - Unify and simplify AI agent prompts across brands and transfer to Luna",
-      "status": "In Progress",
+      "status": "Ready for review",
       "status_category": "In Progress",
       "assignee": "irene callejas",
       "issuetype": "Task",
       "created": "2026-10-26",
-      "updated": "2026-10-27",
+      "updated": "2026-10-29",
       "resolutiondate": "",
       "labels": [
         "Tendam"
@@ -1080,12 +1190,12 @@
     {
       "key": "PS-6613",
       "summary": "Allianz Scan&Buy Auto - Script manual de despliegue del frontend (sync + invalidación)",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "In Progress",
+      "status_category": "In Progress",
       "assignee": "Pep Alonso",
       "issuetype": "Task",
       "created": "2026-10-23",
-      "updated": "2026-10-28",
+      "updated": "2026-10-29",
       "resolutiondate": "",
       "labels": [
         "Allianz"
@@ -1500,12 +1610,12 @@
     {
       "key": "PS-6583",
       "summary": "Air Europa - Develop Interpret Hubtype Action and trigger \"Consultar Reserva\"",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "In Progress",
+      "status_category": "In Progress",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-10-20",
-      "updated": "2026-10-26",
+      "updated": "2026-10-29",
       "resolutiondate": "",
       "labels": [
         "AirEuropa"
@@ -2089,12 +2199,12 @@
     {
       "key": "PS-6541",
       "summary": "Ralph Lauren - Update Digital & Landlord Barcodes",
-      "status": "Ready to Deliver",
-      "status_category": "In Progress",
+      "status": "In production",
+      "status_category": "Done",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-10-15",
-      "updated": "2026-10-29",
+      "updated": "2026-10-30",
       "resolutiondate": "",
       "labels": [
         "Ralph-Lauren",
@@ -2464,7 +2574,7 @@
       "assignee": "Vicky Correbo",
       "issuetype": "Task",
       "created": "2026-10-14",
-      "updated": "2026-10-29",
+      "updated": "2026-10-30",
       "resolutiondate": "",
       "labels": [
         "Allianz"
@@ -2725,12 +2835,12 @@
     {
       "key": "PS-6493",
       "summary": "Ralph Lauren - Remove budget question from the default gifting journey (go live after 20 Oct)",
-      "status": "Ready for review",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "irene callejas",
       "issuetype": "Task",
       "created": "2026-10-12",
-      "updated": "2026-10-26",
+      "updated": "2026-10-30",
       "resolutiondate": "",
       "labels": [
         "Ralph_Lauren"
@@ -3439,12 +3549,12 @@
     {
       "key": "PS-6440",
       "summary": "Ralph Lauren - Point staging bot to staging backend",
-      "status": "Ready to Deliver",
-      "status_category": "In Progress",
+      "status": "In production",
+      "status_category": "Done",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-10-06",
-      "updated": "2026-10-29",
+      "updated": "2026-10-30",
       "resolutiondate": "",
       "labels": [
         "Ralph_Lauren"
@@ -3453,12 +3563,12 @@
     {
       "key": "PS-6439",
       "summary": "Ralph Lauren - Create and deploy staging stack",
-      "status": "Ready to Deliver",
-      "status_category": "In Progress",
+      "status": "In production",
+      "status_category": "Done",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-10-06",
-      "updated": "2026-10-29",
+      "updated": "2026-10-30",
       "resolutiondate": "",
       "labels": [
         "Ralph_Lauren"
@@ -3467,12 +3577,12 @@
     {
       "key": "PS-6438",
       "summary": "Ralph Lauren - Migrate code from experiments repository to bots-definition",
-      "status": "Ready to Deliver",
-      "status_category": "In Progress",
+      "status": "In production",
+      "status_category": "Done",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-10-06",
-      "updated": "2026-10-29",
+      "updated": "2026-10-30",
       "resolutiondate": "",
       "labels": [
         "Ralph_Lauren"
@@ -3789,12 +3899,12 @@
     {
       "key": "PS-6414",
       "summary": "Soledad - test pedidoComprobarPago",
-      "status": "In Progress",
+      "status": "Ready for review",
       "status_category": "In Progress",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-10-05",
-      "updated": "2026-10-29",
+      "updated": "2026-10-30",
       "resolutiondate": "",
       "labels": [
         "Soledad"
@@ -5097,7 +5207,7 @@
     {
       "key": "PS-6319",
       "summary": "RACC - Add new entities when creating AiAlma case (AI Agent)",
-      "status": "In production",
+      "status": "Done",
       "status_category": "Done",
       "assignee": "AI Agent Delivery",
       "issuetype": "Task",
@@ -6709,7 +6819,7 @@
       "assignee": "Vicky Correbo",
       "issuetype": "Task",
       "created": "2026-09-07",
-      "updated": "2026-10-28",
+      "updated": "2026-10-29",
       "resolutiondate": "",
       "labels": [
         "Allianz"
@@ -8638,7 +8748,7 @@
       "assignee": "Vicky Correbo",
       "issuetype": "Task",
       "created": "2026-07-31",
-      "updated": "2026-10-28",
+      "updated": "2026-10-29",
       "resolutiondate": "",
       "labels": [
         "Allianz"
