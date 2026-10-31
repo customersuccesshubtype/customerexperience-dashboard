@@ -1,6 +1,104 @@
 {
-  "last_updated": "2026-10-30 13:49 UTC",
+  "last_updated": "2026-10-31 13:16 UTC",
   "tickets": [
+    {
+      "key": "PS-6708",
+      "summary": "VGED – Campaña Técnica – Volkswagen Vehículos Comerciales (48VS)",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Aitor Casas",
+      "issuetype": "Task",
+      "created": "2026-10-30",
+      "updated": "2026-10-30",
+      "resolutiondate": "",
+      "labels": [
+        "VGED"
+      ]
+    },
+    {
+      "key": "PS-6707",
+      "summary": "VGED – Campaña Técnica – Skoda (48LS)",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Aitor Casas",
+      "issuetype": "Task",
+      "created": "2026-10-30",
+      "updated": "2026-10-30",
+      "resolutiondate": "",
+      "labels": [
+        "VGED"
+      ]
+    },
+    {
+      "key": "PS-6706",
+      "summary": "VGED – Campaña Técnica – Audi (48LG)",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Aitor Casas",
+      "issuetype": "Task",
+      "created": "2026-10-30",
+      "updated": "2026-10-30",
+      "resolutiondate": "",
+      "labels": [
+        "VGED"
+      ]
+    },
+    {
+      "key": "PS-6705",
+      "summary": "VGED – Campaña Técnica – Volkswagen Turismos (48VS)",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Aitor Casas",
+      "issuetype": "Task",
+      "created": "2026-10-30",
+      "updated": "2026-10-30",
+      "resolutiondate": "",
+      "labels": [
+        "VGED"
+      ]
+    },
+    {
+      "key": "PS-6704",
+      "summary": "VGED – Flujo WhatsApp Campaña Técnica (4 marcas)",
+      "status": "Open",
+      "status_category": "To Do",
+      "assignee": "Aitor Casas",
+      "issuetype": "Epic",
+      "created": "2026-10-30",
+      "updated": "2026-10-30",
+      "resolutiondate": "",
+      "labels": [
+        "VGED"
+      ]
+    },
+    {
+      "key": "PS-6703",
+      "summary": "Tendam - Desplegar bot \"Tendam Consumidores Vulnerables\" en staging y producción",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Marco Gallego Ropero",
+      "issuetype": "Task",
+      "created": "2026-10-30",
+      "updated": "2026-10-30",
+      "resolutiondate": "",
+      "labels": [
+        "Tendam"
+      ]
+    },
+    {
+      "key": "PS-6702",
+      "summary": "Tendam - Canal Atención Personas Consumidoras Vulnerables (Ley SAC)",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Marta Marron",
+      "issuetype": "Epic",
+      "created": "2026-10-30",
+      "updated": "2026-10-30",
+      "resolutiondate": "",
+      "labels": [
+        "Tendam"
+      ]
+    },
     {
       "key": "PS-6701",
       "summary": "Michael Kors - Daily bot SFTP export: mandatory ID columns arriving empty (Bot Country ID) since September",
@@ -128,12 +226,12 @@
     {
       "key": "PS-6692",
       "summary": "VGRS - Initial adjustments SFTP and follow ups",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Adrià Sastre",
       "issuetype": "Task",
       "created": "2026-10-29",
-      "updated": "2026-10-29",
+      "updated": "2026-10-30",
       "resolutiondate": "",
       "labels": [
         "VGRS"
@@ -147,7 +245,7 @@
       "assignee": "Adrià Sastre",
       "issuetype": "Task",
       "created": "2026-10-29",
-      "updated": "2026-10-29",
+      "updated": "2026-10-30",
       "resolutiondate": "",
       "labels": [
         "VGRS"
@@ -352,12 +450,12 @@
     {
       "key": "PS-6676",
       "summary": "Allianz Scan&Buy Auto - Integración API Allianz",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Ready for review",
+      "status_category": "In Progress",
       "assignee": "Pep Alonso",
       "issuetype": "Task",
       "created": "2026-10-28",
-      "updated": "2026-10-28",
+      "updated": "2026-10-30",
       "resolutiondate": "",
       "labels": [
         "Allianz"
@@ -758,12 +856,12 @@
     {
       "key": "PS-6645",
       "summary": "VGRS - Campaign - Send Halloween Campaign",
-      "status": "Waiting for customer",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Julieta Mezza",
       "issuetype": "Task",
       "created": "2026-10-27",
-      "updated": "2026-10-27",
+      "updated": "2026-10-30",
       "resolutiondate": "",
       "labels": [
         "VGRS"
@@ -1134,12 +1232,12 @@
     {
       "key": "PS-6617",
       "summary": "Allianz Scan&Buy Auto - Subida y descarga de pólizas con presigned POST",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Ready for review",
+      "status_category": "In Progress",
       "assignee": "Pep Alonso",
       "issuetype": "Task",
       "created": "2026-10-23",
-      "updated": "2026-10-28",
+      "updated": "2026-10-30",
       "resolutiondate": "",
       "labels": [
         "Allianz"
@@ -1190,12 +1288,12 @@
     {
       "key": "PS-6613",
       "summary": "Allianz Scan&Buy Auto - Script manual de despliegue del frontend (sync + invalidación)",
-      "status": "In Progress",
+      "status": "Ready for review",
       "status_category": "In Progress",
       "assignee": "Pep Alonso",
       "issuetype": "Task",
       "created": "2026-10-23",
-      "updated": "2026-10-29",
+      "updated": "2026-10-30",
       "resolutiondate": "",
       "labels": [
         "Allianz"
@@ -1237,7 +1335,7 @@
       "assignee": "Pep Alonso",
       "issuetype": "Task",
       "created": "2026-10-23",
-      "updated": "2026-10-27",
+      "updated": "2026-10-30",
       "resolutiondate": "",
       "labels": [
         "Allianz"
@@ -1610,12 +1708,12 @@
     {
       "key": "PS-6583",
       "summary": "Air Europa - Develop Interpret Hubtype Action and trigger \"Consultar Reserva\"",
-      "status": "In Progress",
+      "status": "In Review",
       "status_category": "In Progress",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-10-20",
-      "updated": "2026-10-29",
+      "updated": "2026-10-30",
       "resolutiondate": "",
       "labels": [
         "AirEuropa"
@@ -4027,12 +4125,12 @@
     {
       "key": "PS-6403",
       "summary": "Ralph Lauren – Zeta (ZMP) WhatsApp opt-in/opt-out integration: build & test",
-      "status": "In production",
+      "status": "Done",
       "status_category": "Done",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-10-01",
-      "updated": "2026-10-28",
+      "updated": "2026-10-30",
       "resolutiondate": "",
       "labels": [
         "Ralph_Lauren"
@@ -5579,7 +5677,7 @@
       "assignee": "Adrià Sastre",
       "issuetype": "Discovery Task",
       "created": "2026-09-20",
-      "updated": "2026-10-26",
+      "updated": "2026-10-30",
       "resolutiondate": "",
       "labels": [
         "Tendam"
@@ -11827,7 +11925,7 @@
       "assignee": "Julieta Mezza",
       "issuetype": "Epic",
       "created": "2026-07-05",
-      "updated": "2026-10-26",
+      "updated": "2026-10-30",
       "resolutiondate": "",
       "labels": [
         "Allianz"
