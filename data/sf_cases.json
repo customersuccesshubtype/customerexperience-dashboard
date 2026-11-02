@@ -1,13 +1,35 @@
 {
-  "last_updated": "2026-11-01 14:16 UTC",
+  "last_updated": "2026-11-02 17:04 UTC",
   "cases": [
+    {
+      "id": "500Sa000019yl6PIAQ",
+      "case_number": "00025504",
+      "subject": "Integration Token Expiring in 30 days - Multiasistencia",
+      "status": "Closed",
+      "priority": "Low",
+      "is_closed": true,
+      "is_escalated": false,
+      "owner": "Aitor Casas",
+      "account": "Hubtype",
+      "origin": "Inbound",
+      "type": "Task",
+      "feeling": "",
+      "issue_type": "Informes",
+      "channel": "Email",
+      "is_critical": "L4",
+      "escalated_team": "",
+      "resolution_time": "2. 6-12h",
+      "created": "2026-11-02",
+      "closed": "2026-11-02",
+      "last_modified": "2026-11-02"
+    },
     {
       "id": "500Sa000019pDDiIAM",
       "case_number": "00025503",
       "subject": "WebChat Ecliente",
-      "status": "Open",
+      "status": "Closed",
       "priority": "Low",
-      "is_closed": false,
+      "is_closed": true,
       "is_escalated": false,
       "owner": "Aitor Casas",
       "account": "Occident",
@@ -18,18 +40,18 @@
       "channel": "Email",
       "is_critical": "L4",
       "escalated_team": "",
-      "resolution_time": "",
+      "resolution_time": "5. >36h",
       "created": "2026-10-30",
-      "closed": "",
-      "last_modified": "2026-10-30"
+      "closed": "2026-11-02",
+      "last_modified": "2026-11-02"
     },
     {
       "id": "500Sa000019pU86IAE",
       "case_number": "00025502",
       "subject": "Warranty error Warranty Flow",
-      "status": "New",
+      "status": "Closed",
       "priority": "Low",
-      "is_closed": false,
+      "is_closed": true,
       "is_escalated": false,
       "owner": "Aitor Casas",
       "account": "Michael Kors Group",
@@ -40,10 +62,10 @@
       "channel": "Email",
       "is_critical": "L4",
       "escalated_team": "",
-      "resolution_time": "",
+      "resolution_time": "5. >36h",
       "created": "2026-10-30",
-      "closed": "",
-      "last_modified": "2026-10-30"
+      "closed": "2026-11-02",
+      "last_modified": "2026-11-02"
     },
     {
       "id": "500Sa000019piJ4IAI",
@@ -93,9 +115,9 @@
       "id": "500Sa000019m3Z3IAI",
       "case_number": "00025498",
       "subject": "Solicitud de actualización en lista de distribución: Reporte Hubtype",
-      "status": "Open",
+      "status": "Closed",
       "priority": "Low",
-      "is_closed": false,
+      "is_closed": true,
       "is_escalated": false,
       "owner": "Aitor Casas",
       "account": "JetSMART Airlines",
@@ -106,18 +128,18 @@
       "channel": "Email",
       "is_critical": "L4",
       "escalated_team": "",
-      "resolution_time": "",
+      "resolution_time": "5. >36h",
       "created": "2026-10-29",
-      "closed": "",
-      "last_modified": "2026-10-30"
+      "closed": "2026-11-01",
+      "last_modified": "2026-11-01"
     },
     {
       "id": "500Sa000019jly7IAA",
       "case_number": "00025497",
       "subject": "Actualización de la validación de números de pedido: cambio de GE a GW",
-      "status": "Open",
+      "status": "Closed",
       "priority": "Low",
-      "is_closed": false,
+      "is_closed": true,
       "is_escalated": false,
       "owner": "Aitor Casas",
       "account": "GUESS",
@@ -128,10 +150,10 @@
       "channel": "Email",
       "is_critical": "L4",
       "escalated_team": "",
-      "resolution_time": "",
+      "resolution_time": "5. >36h",
       "created": "2026-10-29",
-      "closed": "",
-      "last_modified": "2026-10-30"
+      "closed": "2026-11-02",
+      "last_modified": "2026-11-02"
     },
     {
       "id": "500Sa000019hpeLIAQ",
@@ -150,10 +172,10 @@
       "channel": "Email",
       "is_critical": "L4",
       "escalated_team": "",
-      "resolution_time": "3. 12-24h",
+      "resolution_time": "5. >36h",
       "created": "2026-10-29",
-      "closed": "2026-10-30",
-      "last_modified": "2026-10-30"
+      "closed": "2026-11-02",
+      "last_modified": "2026-11-02"
     },
     {
       "id": "500Sa000019hEOdIAM",
@@ -181,9 +203,9 @@
       "id": "500Sa000019fgGwIAI",
       "case_number": "00025494",
       "subject": "Re: [EXT] VGRS - Hubtype: follow up meeting 28-10",
-      "status": "Open",
+      "status": "Closed",
       "priority": "Low",
-      "is_closed": false,
+      "is_closed": true,
       "is_escalated": false,
       "owner": "Aitor Casas",
       "account": "VOLKSWAGEN GROUP SPAIN",
@@ -194,10 +216,10 @@
       "channel": "Email",
       "is_critical": "L4",
       "escalated_team": "",
-      "resolution_time": "",
+      "resolution_time": "5. >36h",
       "created": "2026-10-29",
-      "closed": "",
-      "last_modified": "2026-10-30"
+      "closed": "2026-11-02",
+      "last_modified": "2026-11-02"
     },
     {
       "id": "500Sa000019X9RrIAK",
@@ -5458,8 +5480,8 @@
       "last_modified": "2026-08-06"
     },
     {
-      "id": "500Sa00000yDh4fIAC",
-      "case_number": "00025218",
+      "id": "500Sa00000yEAHtIAO",
+      "case_number": "00025217",
       "subject": "Password reset request",
       "status": "Closed",
       "priority": "Low",
@@ -5480,8 +5502,8 @@
       "last_modified": "2026-08-05"
     },
     {
-      "id": "500Sa00000yEAHtIAO",
-      "case_number": "00025217",
+      "id": "500Sa00000yDh4fIAC",
+      "case_number": "00025218",
       "subject": "Password reset request",
       "status": "Closed",
       "priority": "Low",
