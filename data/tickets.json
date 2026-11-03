@@ -1,6 +1,34 @@
 {
-  "last_updated": "2026-11-02 16:48 UTC",
+  "last_updated": "2026-11-03 14:50 UTC",
   "tickets": [
+    {
+      "key": "PS-6719",
+      "summary": "DABA - Registrar en Tinybird las respuestas de la encuesta de Rating",
+      "status": "Ready for review",
+      "status_category": "In Progress",
+      "assignee": "AI Agent Delivery",
+      "issuetype": "Task",
+      "created": "2026-11-03",
+      "updated": "2026-11-03",
+      "resolutiondate": "",
+      "labels": [
+        "DABA"
+      ]
+    },
+    {
+      "key": "PS-6718",
+      "summary": "TMB - transcript Zendesk",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Lorena Sánchez-Toril Nicolás",
+      "issuetype": "Task",
+      "created": "2026-11-03",
+      "updated": "2026-11-03",
+      "resolutiondate": "",
+      "labels": [
+        "TMB"
+      ]
+    },
     {
       "key": "PS-6717",
       "summary": "Allianz ES - Cita Talleres Excelentes - Campañas V2",
@@ -11,17 +39,19 @@
       "created": "2026-11-02",
       "updated": "2026-11-02",
       "resolutiondate": "",
-      "labels": []
+      "labels": [
+        "Allianz"
+      ]
     },
     {
       "key": "PS-6716",
-      "summary": "Ralph Lauren - prepare carousels outwear",
-      "status": "To Do",
-      "status_category": "To Do",
+      "summary": "Ralph Lauren - prepare carousels outwear campaign",
+      "status": "Ready for review",
+      "status_category": "In Progress",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-11-02",
-      "updated": "2026-11-02",
+      "updated": "2026-11-03",
       "resolutiondate": "",
       "labels": [
         "Ralph_Lauren"
@@ -30,12 +60,12 @@
     {
       "key": "PS-6715",
       "summary": "TMB - test zendesk integration",
-      "status": "In Progress",
+      "status": "Ready for review",
       "status_category": "In Progress",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-11-02",
-      "updated": "2026-11-02",
+      "updated": "2026-11-03",
       "resolutiondate": "",
       "labels": [
         "TMB"
@@ -79,7 +109,9 @@
       "created": "2026-11-02",
       "updated": "2026-11-02",
       "resolutiondate": "",
-      "labels": []
+      "labels": [
+        "ATM"
+      ]
     },
     {
       "key": "PS-6711",
@@ -196,12 +228,12 @@
     {
       "key": "PS-6703",
       "summary": "Tendam - Desplegar bot \"Tendam Consumidores Vulnerables\" en staging y producción",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Marco Gallego Ropero",
       "issuetype": "Task",
       "created": "2026-10-30",
-      "updated": "2026-10-30",
+      "updated": "2026-11-03",
       "resolutiondate": "",
       "labels": [
         "Tendam"
@@ -266,7 +298,7 @@
     {
       "key": "PS-6698",
       "summary": "[GUESS] Aceptar números de pedido con prefijo GW además de GE",
-      "status": "In production",
+      "status": "Done",
       "status_category": "Done",
       "assignee": "AI Agent Delivery",
       "issuetype": "Task",
@@ -280,12 +312,12 @@
     {
       "key": "PS-6697",
       "summary": "Ralph Lauren - updates voucher campaign ",
-      "status": "In Review",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-10-30",
-      "updated": "2026-11-02",
+      "updated": "2026-11-03",
       "resolutiondate": "",
       "labels": [
         "Ralph_Lauren"
@@ -294,12 +326,12 @@
     {
       "key": "PS-6696",
       "summary": "Tendam: no volver a pedir el número de pedido tras WISMO (3. Agente (otros), webchat y fuera de horario)",
-      "status": "To Do",
-      "status_category": "To Do",
-      "assignee": "Marta Marron",
+      "status": "Ready for review",
+      "status_category": "In Progress",
+      "assignee": "Aitor Casas",
       "issuetype": "Task",
       "created": "2026-10-29",
-      "updated": "2026-10-29",
+      "updated": "2026-11-03",
       "resolutiondate": "",
       "labels": [
         "Tendam"
@@ -404,7 +436,7 @@
     {
       "key": "PS-6688",
       "summary": "Ralph Lauren - add forced to coupon endpoint",
-      "status": "In production",
+      "status": "Done",
       "status_category": "Done",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
@@ -614,12 +646,12 @@
     {
       "key": "PS-6673",
       "summary": "Tendam – Springfield - Caso resuelto sin envío a Inconcert (no se registra inconcert_case_sent)",
-      "status": "Closed",
-      "status_category": "Done",
+      "status": "To Do",
+      "status_category": "To Do",
       "assignee": "Adrià Sastre",
       "issuetype": "Bug",
       "created": "2026-10-28",
-      "updated": "2026-10-30",
+      "updated": "2026-11-02",
       "resolutiondate": "",
       "labels": [
         "Tendam"
@@ -712,8 +744,8 @@
     {
       "key": "PS-6666",
       "summary": "RACC - Actualizar bot a Botonic v0.57 (staging primero)",
-      "status": "Ready for review",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "AI Agent Delivery",
       "issuetype": "Task",
       "created": "2026-10-28",
@@ -1550,12 +1582,12 @@
     {
       "key": "PS-6603",
       "summary": "Ralph Lauren - Send digital code to 4 clients who did not receive it",
-      "status": "Ready to Deliver",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-10-22",
-      "updated": "2026-11-02",
+      "updated": "2026-11-03",
       "resolutiondate": "",
       "labels": [
         "Ralph_Lauren"
@@ -1583,7 +1615,7 @@
       "assignee": "AI Agent Delivery",
       "issuetype": "Task",
       "created": "2026-10-22",
-      "updated": "2026-10-27",
+      "updated": "2026-11-03",
       "resolutiondate": "",
       "labels": [
         "Allianz-ES"
@@ -2349,12 +2381,12 @@
     {
       "key": "PS-6546",
       "summary": "Verisure ES - Funnel First - Chequeo de pertenencia a Televenta - Implementación",
-      "status": "In Progress",
+      "status": "Ready for review",
       "status_category": "In Progress",
       "assignee": "Marco Gallego Ropero",
       "issuetype": "Task",
       "created": "2026-10-16",
-      "updated": "2026-10-28",
+      "updated": "2026-11-03",
       "resolutiondate": "",
       "labels": [
         "Verisure"
@@ -2794,7 +2826,7 @@
       "assignee": "Vicky Correbo",
       "issuetype": "Task",
       "created": "2026-10-14",
-      "updated": "2026-10-30",
+      "updated": "2026-11-03",
       "resolutiondate": "",
       "labels": [
         "Allianz"
@@ -2957,7 +2989,7 @@
     {
       "key": "PS-6500",
       "summary": "Ralph Lauren - Sale agent: re-share the sale PLP link when the customer asks for it again (live until 20 Oct)",
-      "status": "In production",
+      "status": "Done",
       "status_category": "Done",
       "assignee": "irene callejas",
       "issuetype": "Task",
@@ -3223,7 +3255,7 @@
     {
       "key": "PS-6479",
       "summary": "Air Europa - Logged status and email info is not being saved as it used to",
-      "status": "In production",
+      "status": "Done",
       "status_category": "Done",
       "assignee": "Pep Alonso",
       "issuetype": "Bug",
@@ -4822,13 +4854,13 @@
     },
     {
       "key": "PS-6363",
-      "summary": "TMB - Zendesk Integration - ",
+      "summary": "TMB - Zendesk Integration -",
       "status": "Ready for review",
       "status_category": "In Progress",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-09-29",
-      "updated": "2026-10-14",
+      "updated": "2026-11-03",
       "resolutiondate": "",
       "labels": [
         "TMB"
@@ -5215,12 +5247,12 @@
     {
       "key": "PS-6334",
       "summary": "Retorna - Reduce webchat-button bundle size",
-      "status": "Ready for review",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "AI Agent Delivery",
       "issuetype": "Task",
       "created": "2026-09-24",
-      "updated": "2026-10-26",
+      "updated": "2026-11-03",
       "resolutiondate": "",
       "labels": [
         "Retorna"
@@ -10125,12 +10157,12 @@
     {
       "key": "PS-5974",
       "summary": "Occident - Review new CRM request",
-      "status": "To Do",
-      "status_category": "To Do",
-      "assignee": "Adrià Sastre",
+      "status": "Ready for review",
+      "status_category": "In Progress",
+      "assignee": "AI Agent Delivery",
       "issuetype": "Task",
       "created": "2026-07-22",
-      "updated": "2026-10-27",
+      "updated": "2026-11-03",
       "resolutiondate": "",
       "labels": [
         "Occident"
