@@ -1,6 +1,23 @@
 {
-  "last_updated": "2026-11-04 15:26 UTC",
+  "last_updated": "2026-11-05 15:27 UTC",
   "opportunities": [
+    {
+      "id": "006Sa00000siGI5IAM",
+      "name": "2026-C-Fenie Energia-Integración Salesforce onResolve Bot Atención al Cliente",
+      "type": "Consultancy",
+      "stage": "Opportunity identified",
+      "is_closed": false,
+      "is_won": false,
+      "probability": 10.0,
+      "amount": 780.0,
+      "arr": 0.0,
+      "owner": "Francisca Martelli",
+      "cs_lead": "Francisca Martelli",
+      "account": "Fenie Energia",
+      "created": "2026-11-05",
+      "close_date": "2026-11-30",
+      "start_date": "2026-11-15"
+    },
     {
       "id": "006Sa00000sRoknIAC",
       "name": "2026-U-Crossing World Group-Spain- 4 Desk licences",
@@ -1904,23 +1921,6 @@
       "created": "2026-05-18",
       "close_date": "2026-05-18",
       "start_date": "2027-04-01"
-    },
-    {
-      "id": "006Sa00000gB8EzIAK",
-      "name": "2026-U-Libeen-Spain-New Channels (FB Messenger & Instagram)",
-      "type": "Upsell",
-      "stage": "Closed Lost",
-      "is_closed": true,
-      "is_won": false,
-      "probability": 0.0,
-      "amount": 1100.0,
-      "arr": 1200.0,
-      "owner": "Marta Marron",
-      "cs_lead": "",
-      "account": "Libeen",
-      "created": "2026-05-18",
-      "close_date": "2026-09-23",
-      "start_date": "2026-06-10"
     },
     {
       "id": "006Sa00000fz8ItIAI",
