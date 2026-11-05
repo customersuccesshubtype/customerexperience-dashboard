@@ -1,15 +1,169 @@
 {
-  "last_updated": "2026-11-04 15:03 UTC",
+  "last_updated": "2026-11-05 15:08 UTC",
   "tickets": [
     {
-      "key": "PS-6735",
-      "summary": "Ralph Lauren - utm params staging",
+      "key": "PS-6746",
+      "summary": "Ralph Lauren: prevent duplicate Zendesk tickets with a Flow Builder condition",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Marta Marron",
+      "issuetype": "Task",
+      "created": "2026-11-05",
+      "updated": "2026-11-05",
+      "resolutiondate": "",
+      "labels": [
+        "RalphLauren"
+      ]
+    },
+    {
+      "key": "PS-6745",
+      "summary": "Ecopiezas - Quitar el texto de bienvenida cuando el usuario escribe tras cerrarse el caso",
+      "status": "Done",
+      "status_category": "Done",
+      "assignee": "Aitor Casas",
+      "issuetype": "Task",
+      "created": "2026-11-05",
+      "updated": "2026-11-05",
+      "resolutiondate": "",
+      "labels": [
+        "Ecopiezas"
+      ]
+    },
+    {
+      "key": "PS-6744",
+      "summary": "AI Agent Delivery: @ai-agent-delivery trigger + GitHub Action updates + prompt updates",
+      "status": "Ready for review",
+      "status_category": "In Progress",
+      "assignee": "Adrià Sastre",
+      "issuetype": "Task",
+      "created": "2026-11-05",
+      "updated": "2026-11-05",
+      "resolutiondate": "",
+      "labels": []
+    },
+    {
+      "key": "PS-6743",
+      "summary": "Ralph Lauren - update API docs with new endpoint",
+      "status": "Ready for review",
+      "status_category": "In Progress",
+      "assignee": "Lorena Sánchez-Toril Nicolás",
+      "issuetype": "Task",
+      "created": "2026-11-05",
+      "updated": "2026-11-05",
+      "resolutiondate": "",
+      "labels": [
+        "Ralph_Lauren"
+      ]
+    },
+    {
+      "key": "PS-6742",
+      "summary": "Fenie Energia - Force update-session after handoff, to set the session ID to null",
+      "status": "Done",
+      "status_category": "Done",
+      "assignee": "Pep Alonso",
+      "issuetype": "Task",
+      "created": "2026-11-05",
+      "updated": "2026-11-05",
+      "resolutiondate": "",
+      "labels": [
+        "FenieEnergia"
+      ]
+    },
+    {
+      "key": "PS-6741",
+      "summary": "TMB - check all netberry implementation for zendesk",
       "status": "In Progress",
       "status_category": "In Progress",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
+      "created": "2026-11-05",
+      "updated": "2026-11-05",
+      "resolutiondate": "",
+      "labels": [
+        "TMB"
+      ]
+    },
+    {
+      "key": "PS-6740",
+      "summary": "Ralph Lauren - Carousel guardrail drops returned products and the agent says it found nothing",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "irene callejas",
+      "issuetype": "Bug",
+      "created": "2026-11-05",
+      "updated": "2026-11-05",
+      "resolutiondate": "",
+      "labels": [
+        "Ralph_Lauren"
+      ]
+    },
+    {
+      "key": "PS-6739",
+      "summary": "Tendam – Incluir tool al AI Agent para verificar el estado de la cola y no transferir en Auto Office",
+      "status": "Ready for review",
+      "status_category": "In Progress",
+      "assignee": "irene callejas",
+      "issuetype": "Task",
+      "created": "2026-11-05",
+      "updated": "2026-11-05",
+      "resolutiondate": "",
+      "labels": [
+        "Tendam"
+      ]
+    },
+    {
+      "key": "PS-6738",
+      "summary": "RALPH LAUREN - Bicester Holiday Campaign Review",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Andrea Talal Haidar",
+      "issuetype": "Task",
       "created": "2026-11-04",
       "updated": "2026-11-04",
+      "resolutiondate": "",
+      "labels": [
+        "Ralph-Lauren",
+        "RalphLauren",
+        "Ralph_Lauren"
+      ]
+    },
+    {
+      "key": "PS-6737",
+      "summary": "Verisure Cita - Add contact info field to tool",
+      "status": "Done",
+      "status_category": "Done",
+      "assignee": "AI Agent Delivery",
+      "issuetype": "Task",
+      "created": "2026-11-04",
+      "updated": "2026-11-04",
+      "resolutiondate": "",
+      "labels": [
+        "Verisure_cita"
+      ]
+    },
+    {
+      "key": "PS-6736",
+      "summary": "Añadir campo consumidorVulnerable al JSON de cierre de caso enviado a InConcert",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": null,
+      "issuetype": "Task",
+      "created": "2026-11-04",
+      "updated": "2026-11-04",
+      "resolutiondate": "",
+      "labels": [
+        "Tendam"
+      ]
+    },
+    {
+      "key": "PS-6735",
+      "summary": "Ralph Lauren - utm params staging",
+      "status": "Done",
+      "status_category": "Done",
+      "assignee": "Lorena Sánchez-Toril Nicolás",
+      "issuetype": "Task",
+      "created": "2026-11-04",
+      "updated": "2026-11-05",
       "resolutiondate": "",
       "labels": [
         "Ralph_Lauren"
@@ -31,13 +185,13 @@
     },
     {
       "key": "PS-6733",
-      "summary": "Occident - Webchat - Close cases with user offline and queue position",
-      "status": "To Do",
-      "status_category": "To Do",
-      "assignee": "Adrià Sastre",
+      "summary": "Occident - Webchat - Close cases with user offline",
+      "status": "Ready for review",
+      "status_category": "In Progress",
+      "assignee": "AI Agent Delivery",
       "issuetype": "Task",
       "created": "2026-11-04",
-      "updated": "2026-11-04",
+      "updated": "2026-11-05",
       "resolutiondate": "",
       "labels": [
         "Occident"
@@ -53,7 +207,9 @@
       "created": "2026-11-04",
       "updated": "2026-11-04",
       "resolutiondate": "",
-      "labels": []
+      "labels": [
+        "Allianz"
+      ]
     },
     {
       "key": "PS-6731",
@@ -100,12 +256,12 @@
     {
       "key": "PS-6727",
       "summary": "Euroriente - Bienvenida a todos los destinos (quitar filtro Turquía/Grecia)",
-      "status": "Ready for review",
-      "status_category": "In Progress",
+      "status": "To Do",
+      "status_category": "To Do",
       "assignee": "Pep Alonso",
       "issuetype": "Sub-task",
       "created": "2026-11-04",
-      "updated": "2026-11-04",
+      "updated": "2026-11-05",
       "resolutiondate": "",
       "labels": [
         "Euroriente"
@@ -128,7 +284,7 @@
     {
       "key": "PS-6725",
       "summary": "TMB - zendesk updates",
-      "status": "In Progress",
+      "status": "Ready for review",
       "status_category": "In Progress",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
@@ -184,12 +340,12 @@
     {
       "key": "PS-6721",
       "summary": "Occident - Introduce CRM's URls in the Case Info",
-      "status": "Ready for review",
+      "status": "Waiting for customer",
       "status_category": "In Progress",
       "assignee": "AI Agent Delivery",
       "issuetype": "Task",
       "created": "2026-11-03",
-      "updated": "2026-11-03",
+      "updated": "2026-11-05",
       "resolutiondate": "",
       "labels": [
         "Occident"
@@ -254,8 +410,8 @@
     {
       "key": "PS-6716",
       "summary": "Ralph Lauren - prepare carousels outwear campaign",
-      "status": "In Review",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-11-02",
@@ -296,12 +452,12 @@
     {
       "key": "PS-6713",
       "summary": "Michael Kors- email issue",
-      "status": "In Progress",
+      "status": "Ready for review",
       "status_category": "In Progress",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-11-02",
-      "updated": "2026-11-02",
+      "updated": "2026-11-05",
       "resolutiondate": "",
       "labels": [
         "Michael-Kors"
@@ -464,12 +620,12 @@
     {
       "key": "PS-6701",
       "summary": "Michael Kors - Daily bot SFTP export: mandatory ID columns arriving empty (Bot Country ID) since September",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Waiting for customer",
+      "status_category": "In Progress",
       "assignee": "Adrià Sastre",
       "issuetype": "Task",
       "created": "2026-10-30",
-      "updated": "2026-11-02",
+      "updated": "2026-11-05",
       "resolutiondate": "",
       "labels": [
         "Michael-Kors"
@@ -562,12 +718,12 @@
     {
       "key": "PS-6694",
       "summary": "All clients - Research contact info fields in template saving",
-      "status": "To Do",
+      "status": "Open",
       "status_category": "To Do",
       "assignee": "irene callejas",
       "issuetype": "Discovery Task",
       "created": "2026-10-29",
-      "updated": "2026-10-30",
+      "updated": "2026-11-04",
       "resolutiondate": "",
       "labels": []
     },
@@ -630,12 +786,12 @@
     {
       "key": "PS-6689",
       "summary": "Verisure Cita - Identify the AI agent as a Verisure virtual advisor in its first reply after a template",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Ready for review",
+      "status_category": "In Progress",
       "assignee": "irene callejas",
       "issuetype": "Task",
       "created": "2026-10-29",
-      "updated": "2026-10-29",
+      "updated": "2026-11-05",
       "resolutiondate": "",
       "labels": [
         "Verisure"
@@ -686,12 +842,12 @@
     {
       "key": "PS-6684",
       "summary": "DABA - WISMO Authentication and get client by telephone (1st part)",
-      "status": "In Progress",
+      "status": "Ready for review",
       "status_category": "In Progress",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-10-29",
-      "updated": "2026-10-29",
+      "updated": "2026-11-05",
       "resolutiondate": "",
       "labels": [
         "DABA"
@@ -812,12 +968,12 @@
     {
       "key": "PS-6675",
       "summary": "Fenie Energia - Estimate effort of implementing SF Integration on this new bot",
-      "status": "In Progress",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Adrià Sastre",
       "issuetype": "Discovery Task",
       "created": "2026-10-28",
-      "updated": "2026-11-02",
+      "updated": "2026-11-05",
       "resolutiondate": "",
       "labels": [
         "FenieEnergia"
@@ -842,10 +998,10 @@
       "summary": "Tendam – Springfield - Caso resuelto sin envío a Inconcert (no se registra inconcert_case_sent)",
       "status": "To Do",
       "status_category": "To Do",
-      "assignee": "Adrià Sastre",
+      "assignee": "Marco Gallego Ropero",
       "issuetype": "Bug",
       "created": "2026-10-28",
-      "updated": "2026-11-02",
+      "updated": "2026-11-05",
       "resolutiondate": "",
       "labels": [
         "Tendam"
@@ -1316,12 +1472,12 @@
     {
       "key": "PS-6637",
       "summary": "Wizz Air - Create AI Agent tool to capture claim data and save it in contact info fields (staging)",
-      "status": "Ready to Deliver",
-      "status_category": "In Progress",
+      "status": "APPROVED FOR PRODUCTION",
+      "status_category": "Done",
       "assignee": "Marco Gallego Ropero",
       "issuetype": "Task",
       "created": "2026-10-26",
-      "updated": "2026-11-02",
+      "updated": "2026-11-05",
       "resolutiondate": "",
       "labels": [
         "WizzAir"
@@ -1344,12 +1500,12 @@
     {
       "key": "PS-6635",
       "summary": "All Clients - AI agent handoff: check queue status (open/closed) before transferring",
-      "status": "Ready for review",
+      "status": "Ready to Deliver",
       "status_category": "In Progress",
       "assignee": "irene callejas",
       "issuetype": "Task",
       "created": "2026-10-26",
-      "updated": "2026-10-29",
+      "updated": "2026-11-05",
       "resolutiondate": "",
       "labels": [
         "all_clients"
@@ -1386,12 +1542,12 @@
     {
       "key": "PS-6632",
       "summary": "Audit which agents have no organization token and which still use the old model 4.1",
-      "status": "In Progress",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "irene callejas",
       "issuetype": "Task",
       "created": "2026-10-26",
-      "updated": "2026-10-27",
+      "updated": "2026-11-04",
       "resolutiondate": "",
       "labels": []
     },
@@ -2028,12 +2184,12 @@
     {
       "key": "PS-6585",
       "summary": "Libeen - Simplify meeting slot tools and make slot booking robust (staging)",
-      "status": "In Progress",
-      "status_category": "In Progress",
+      "status": "Closed",
+      "status_category": "Done",
       "assignee": "AI Agent Delivery",
       "issuetype": "Task",
       "created": "2026-10-20",
-      "updated": "2026-10-20",
+      "updated": "2026-11-05",
       "resolutiondate": "",
       "labels": [
         "Libeen"
@@ -2070,12 +2226,12 @@
     {
       "key": "PS-6582",
       "summary": "Libeen - Mejoras",
-      "status": "In Progress",
-      "status_category": "In Progress",
+      "status": "Closed",
+      "status_category": "Done",
       "assignee": "Marta Marron",
       "issuetype": "Epic",
       "created": "2026-10-20",
-      "updated": "2026-10-20",
+      "updated": "2026-11-05",
       "resolutiondate": "",
       "labels": [
         "Libeen"
@@ -2510,7 +2666,7 @@
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-10-16",
-      "updated": "2026-10-16",
+      "updated": "2026-11-05",
       "resolutiondate": "",
       "labels": [
         "Ralph_Lauren"
@@ -2805,12 +2961,12 @@
     {
       "key": "PS-6529",
       "summary": "Libeen - deploy bgfix to stg",
-      "status": "In Progress",
-      "status_category": "In Progress",
+      "status": "Closed",
+      "status_category": "Done",
       "assignee": "AI Agent Delivery",
       "issuetype": "Task",
       "created": "2026-10-14",
-      "updated": "2026-10-26",
+      "updated": "2026-11-05",
       "resolutiondate": "",
       "labels": [
         "Libeen"
@@ -2819,12 +2975,12 @@
     {
       "key": "PS-6528",
       "summary": "Libeen AI Agent — se ofrecen huecos que luego no se pueden reservar (4 de 11 reservas fallan)",
-      "status": "Ready for review",
-      "status_category": "In Progress",
+      "status": "Closed",
+      "status_category": "Done",
       "assignee": "irene callejas",
       "issuetype": "Bug",
       "created": "2026-10-14",
-      "updated": "2026-10-26",
+      "updated": "2026-11-05",
       "resolutiondate": "",
       "labels": [
         "Libeen"
@@ -3309,12 +3465,12 @@
     {
       "key": "PS-6491",
       "summary": "Libeen. AI Agent – ofrecer URL de autoagendado si el usuario rechaza los horarios dos veces o más (porque no le va bien las horas que se le ofrecen)",
-      "status": "Ready for review",
-      "status_category": "In Progress",
+      "status": "Closed",
+      "status_category": "Done",
       "assignee": "irene callejas",
       "issuetype": "Task",
       "created": "2026-10-12",
-      "updated": "2026-10-20",
+      "updated": "2026-11-05",
       "resolutiondate": "",
       "labels": [
         "Libeen"
@@ -3323,12 +3479,12 @@
     {
       "key": "PS-6490",
       "summary": "Libeen · Analizar cómo mejorar la tasa de agendamiento del AI Agent",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Closed",
+      "status_category": "Done",
       "assignee": null,
       "issuetype": "Task",
       "created": "2026-10-09",
-      "updated": "2026-10-20",
+      "updated": "2026-11-05",
       "resolutiondate": "",
       "labels": [
         "Libeen"
@@ -4037,12 +4193,12 @@
     {
       "key": "PS-6437",
       "summary": "Ralph Lauren - Migrate DB from production to staging",
-      "status": "Ready for review",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-10-06",
-      "updated": "2026-10-19",
+      "updated": "2026-11-05",
       "resolutiondate": "",
       "labels": [
         "Ralph_Lauren"
@@ -5551,12 +5707,12 @@
     {
       "key": "PS-6326",
       "summary": "Libeen - Posibilidad de enviar una template de recordatorio de cita cuando el usuario no responde",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Closed",
+      "status_category": "Done",
       "assignee": "Adrià Sastre",
       "issuetype": "Task",
       "created": "2026-09-24",
-      "updated": "2026-10-20",
+      "updated": "2026-11-05",
       "resolutiondate": "",
       "labels": [
         "Libeen"
@@ -7236,12 +7392,12 @@
     {
       "key": "PS-6202",
       "summary": "Allianz ES - Scan & Buy Hogar - API (WS) Producto de hogar",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Adrià Sastre",
       "issuetype": "Discovery Task",
       "created": "2026-09-07",
-      "updated": "2026-10-17",
+      "updated": "2026-11-04",
       "resolutiondate": "",
       "labels": []
     },
@@ -12268,12 +12424,12 @@
     {
       "key": "PS-5835",
       "summary": "Allianz Spain - Auto - Scan & Buy",
-      "status": "Ready for review",
+      "status": "Ready to Deliver",
       "status_category": "In Progress",
       "assignee": "Julieta Mezza",
       "issuetype": "Epic",
       "created": "2026-07-05",
-      "updated": "2026-10-30",
+      "updated": "2026-11-05",
       "resolutiondate": "",
       "labels": [
         "Allianz"
