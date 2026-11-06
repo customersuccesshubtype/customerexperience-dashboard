@@ -1,11 +1,53 @@
 {
-  "last_updated": "2026-11-05 15:08 UTC",
+  "last_updated": "2026-11-06 14:46 UTC",
   "tickets": [
+    {
+      "key": "PS-6749",
+      "summary": "Fenie Energia - SF Integration At Cliente Bot",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Lorena Sánchez-Toril Nicolás",
+      "issuetype": "Task",
+      "created": "2026-11-06",
+      "updated": "2026-11-06",
+      "resolutiondate": "",
+      "labels": [
+        "FenieEnergia"
+      ]
+    },
+    {
+      "key": "PS-6748",
+      "summary": "Soledad - add pedidoComprobarPago",
+      "status": "In Progress",
+      "status_category": "In Progress",
+      "assignee": "Lorena Sánchez-Toril Nicolás",
+      "issuetype": "Task",
+      "created": "2026-11-06",
+      "updated": "2026-11-06",
+      "resolutiondate": "",
+      "labels": [
+        "Soledad"
+      ]
+    },
+    {
+      "key": "PS-6747",
+      "summary": "Euroriente – Revisar timeout de la API, extraer reservas de prueba por país y simular los push sin envío",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Pep Alonso",
+      "issuetype": "Task",
+      "created": "2026-11-05",
+      "updated": "2026-11-05",
+      "resolutiondate": "",
+      "labels": [
+        "Euroriente"
+      ]
+    },
     {
       "key": "PS-6746",
       "summary": "Ralph Lauren: prevent duplicate Zendesk tickets with a Flow Builder condition",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Ready to Deliver",
+      "status_category": "In Progress",
       "assignee": "Marta Marron",
       "issuetype": "Task",
       "created": "2026-11-05",
@@ -99,8 +141,8 @@
     },
     {
       "key": "PS-6739",
-      "summary": "Tendam – Incluir tool al AI Agent para verificar el estado de la cola y no transferir en Auto Office",
-      "status": "Ready for review",
+      "summary": "Tendam – Incluir tool al AI Agent para verificar el estado de la cola y no transferir en OOO",
+      "status": "In Progress",
       "status_category": "In Progress",
       "assignee": "irene callejas",
       "issuetype": "Task",
@@ -270,12 +312,12 @@
     {
       "key": "PS-6726",
       "summary": "Retorna - Integrate endpoint for case notifications",
-      "status": "In Progress",
+      "status": "Ready for review",
       "status_category": "In Progress",
       "assignee": "Marco Gallego Ropero",
       "issuetype": "Task",
       "created": "2026-11-04",
-      "updated": "2026-11-04",
+      "updated": "2026-11-06",
       "resolutiondate": "",
       "labels": [
         "Retorna"
@@ -522,12 +564,12 @@
     {
       "key": "PS-6708",
       "summary": "VGED – Campaña Técnica – Volkswagen Vehículos Comerciales (48VS)",
-      "status": "Ready for review",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Aitor Casas",
       "issuetype": "Task",
       "created": "2026-10-30",
-      "updated": "2026-11-02",
+      "updated": "2026-11-06",
       "resolutiondate": "",
       "labels": [
         "VGED"
@@ -536,12 +578,12 @@
     {
       "key": "PS-6707",
       "summary": "VGED – Campaña Técnica – Skoda (48LS)",
-      "status": "Ready for review",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Aitor Casas",
       "issuetype": "Task",
       "created": "2026-10-30",
-      "updated": "2026-11-02",
+      "updated": "2026-11-06",
       "resolutiondate": "",
       "labels": [
         "VGED"
@@ -550,12 +592,12 @@
     {
       "key": "PS-6706",
       "summary": "VGED – Campaña Técnica – Audi (48LG)",
-      "status": "Ready for review",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Aitor Casas",
       "issuetype": "Task",
       "created": "2026-10-30",
-      "updated": "2026-11-02",
+      "updated": "2026-11-06",
       "resolutiondate": "",
       "labels": [
         "VGED"
@@ -564,12 +606,12 @@
     {
       "key": "PS-6705",
       "summary": "VGED – Campaña Técnica – Volkswagen Turismos (48VS)",
-      "status": "Ready for review",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Aitor Casas",
       "issuetype": "Task",
       "created": "2026-10-30",
-      "updated": "2026-11-02",
+      "updated": "2026-11-06",
       "resolutiondate": "",
       "labels": [
         "VGED"
@@ -578,12 +620,12 @@
     {
       "key": "PS-6704",
       "summary": "VGED – Flujo WhatsApp Campaña Técnica (4 marcas)",
-      "status": "Ready for review",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Aitor Casas",
       "issuetype": "Epic",
       "created": "2026-10-30",
-      "updated": "2026-11-02",
+      "updated": "2026-11-06",
       "resolutiondate": "",
       "labels": [
         "VGED"
@@ -634,12 +676,12 @@
     {
       "key": "PS-6700",
       "summary": "Ralph Lauren - Implement validation to match RL Customer ID with chat ID",
-      "status": "Ready for review",
+      "status": "Ready to Deliver",
       "status_category": "In Progress",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-10-30",
-      "updated": "2026-11-04",
+      "updated": "2026-11-06",
       "resolutiondate": "",
       "labels": [
         "Ralph_Lauren"
@@ -786,8 +828,8 @@
     {
       "key": "PS-6689",
       "summary": "Verisure Cita - Identify the AI agent as a Verisure virtual advisor in its first reply after a template",
-      "status": "Ready for review",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "irene callejas",
       "issuetype": "Task",
       "created": "2026-10-29",
@@ -912,12 +954,12 @@
     {
       "key": "PS-6679",
       "summary": "Allianz Scan&Buy Auto - API Gateway - Endpoint extracción datos coche (LLM)",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "In Progress",
+      "status_category": "In Progress",
       "assignee": "Pep Alonso",
       "issuetype": "Task",
       "created": "2026-10-28",
-      "updated": "2026-10-28",
+      "updated": "2026-11-06",
       "resolutiondate": "",
       "labels": [
         "Allianz"
@@ -926,12 +968,12 @@
     {
       "key": "PS-6678",
       "summary": "Allianz Scan&Buy Auto - API Gateway - Endpoint extracción datos póliza (LLM)",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Ready for review",
+      "status_category": "In Progress",
       "assignee": "Pep Alonso",
       "issuetype": "Task",
       "created": "2026-10-28",
-      "updated": "2026-10-28",
+      "updated": "2026-11-06",
       "resolutiondate": "",
       "labels": [
         "Allianz"
@@ -940,12 +982,12 @@
     {
       "key": "PS-6677",
       "summary": "Allianz Scan&Buy Auto - API Gateway - Allianz API endpoints",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Ready for review",
+      "status_category": "In Progress",
       "assignee": "Pep Alonso",
       "issuetype": "Task",
       "created": "2026-10-28",
-      "updated": "2026-10-28",
+      "updated": "2026-11-06",
       "resolutiondate": "",
       "labels": [
         "Allianz"
@@ -1472,12 +1514,12 @@
     {
       "key": "PS-6637",
       "summary": "Wizz Air - Create AI Agent tool to capture claim data and save it in contact info fields (staging)",
-      "status": "APPROVED FOR PRODUCTION",
+      "status": "Done",
       "status_category": "Done",
       "assignee": "Marco Gallego Ropero",
       "issuetype": "Task",
       "created": "2026-10-26",
-      "updated": "2026-11-05",
+      "updated": "2026-11-06",
       "resolutiondate": "",
       "labels": [
         "WizzAir"
@@ -4207,12 +4249,12 @@
     {
       "key": "PS-6436",
       "summary": "Ralph Lauren - Staging console",
-      "status": "In Progress",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Epic",
       "created": "2026-10-06",
-      "updated": "2026-10-17",
+      "updated": "2026-11-06",
       "resolutiondate": "",
       "labels": [
         "Ralph_Lauren"
