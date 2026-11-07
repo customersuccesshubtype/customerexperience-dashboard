@@ -1,6 +1,20 @@
 {
-  "last_updated": "2026-11-06 14:46 UTC",
+  "last_updated": "2026-11-07 13:43 UTC",
   "tickets": [
+    {
+      "key": "PS-6750",
+      "summary": "Allianz ES - Talleres Excelentes - Organizar Campaigns V2 en staging y coordinar migración",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Aitor Casas",
+      "issuetype": "Task",
+      "created": "2026-11-07",
+      "updated": "2026-11-07",
+      "resolutiondate": "",
+      "labels": [
+        "Allianz"
+      ]
+    },
     {
       "key": "PS-6749",
       "summary": "Fenie Energia - SF Integration At Cliente Bot",
@@ -128,12 +142,12 @@
     {
       "key": "PS-6740",
       "summary": "Ralph Lauren - Carousel guardrail drops returned products and the agent says it found nothing",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Ready for review",
+      "status_category": "In Progress",
       "assignee": "irene callejas",
       "issuetype": "Bug",
       "created": "2026-11-05",
-      "updated": "2026-11-05",
+      "updated": "2026-11-06",
       "resolutiondate": "",
       "labels": [
         "Ralph_Lauren"
@@ -142,12 +156,12 @@
     {
       "key": "PS-6739",
       "summary": "Tendam – Incluir tool al AI Agent para verificar el estado de la cola y no transferir en OOO",
-      "status": "In Progress",
+      "status": "Ready for review",
       "status_category": "In Progress",
       "assignee": "irene callejas",
       "issuetype": "Task",
       "created": "2026-11-05",
-      "updated": "2026-11-05",
+      "updated": "2026-11-06",
       "resolutiondate": "",
       "labels": [
         "Tendam"
@@ -438,12 +452,12 @@
     {
       "key": "PS-6717",
       "summary": "Allianz ES - Cita Talleres Excelentes - Campañas V2",
-      "status": "Open",
+      "status": "To Do",
       "status_category": "To Do",
       "assignee": "Marta Marron",
       "issuetype": "Epic",
       "created": "2026-11-02",
-      "updated": "2026-11-02",
+      "updated": "2026-11-07",
       "resolutiondate": "",
       "labels": [
         "Allianz"
@@ -499,7 +513,7 @@
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-11-02",
-      "updated": "2026-11-05",
+      "updated": "2026-11-07",
       "resolutiondate": "",
       "labels": [
         "Michael-Kors"
@@ -508,12 +522,12 @@
     {
       "key": "PS-6712",
       "summary": "ATM - Prepare October Bot Performance Report",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Francisca Martelli",
       "issuetype": "Task",
       "created": "2026-11-02",
-      "updated": "2026-11-02",
+      "updated": "2026-11-07",
       "resolutiondate": "",
       "labels": [
         "ATM"
@@ -926,12 +940,12 @@
     {
       "key": "PS-6681",
       "summary": "Zoè – Implementar nuevos textos y flujo de respuestas del bot (Respuestas_Bot_Zoepure)",
-      "status": "Ready for review",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Aitor Casas",
       "issuetype": "Task",
       "created": "2026-10-28",
-      "updated": "2026-11-02",
+      "updated": "2026-11-07",
       "resolutiondate": "",
       "labels": [
         "Crossing_World"
@@ -1113,7 +1127,7 @@
       "assignee": "irene callejas",
       "issuetype": "Task",
       "created": "2026-10-28",
-      "updated": "2026-10-28",
+      "updated": "2026-11-06",
       "resolutiondate": "",
       "labels": [
         "Euroriente"
@@ -1624,12 +1638,12 @@
     {
       "key": "PS-6629",
       "summary": "Ralph Lauren - Category normalisation: WW hoodies search and category/sub-category gap audit",
-      "status": "In Progress",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "irene callejas",
       "issuetype": "Task",
       "created": "2026-10-26",
-      "updated": "2026-10-27",
+      "updated": "2026-11-06",
       "resolutiondate": "",
       "labels": [
         "Ralph_Lauren"
@@ -1710,10 +1724,10 @@
       "summary": "Michael Kors - Warranty Flow webview - Development",
       "status": "To Do",
       "status_category": "To Do",
-      "assignee": null,
+      "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-10-24",
-      "updated": "2026-10-24",
+      "updated": "2026-11-07",
       "resolutiondate": "",
       "labels": [
         "Michael-Kors"
@@ -1722,12 +1736,12 @@
     {
       "key": "PS-6622",
       "summary": "Michael Kors - Warranty Flow with a webview",
-      "status": "Open",
+      "status": "To Do",
       "status_category": "To Do",
       "assignee": null,
       "issuetype": "Epic",
       "created": "2026-10-24",
-      "updated": "2026-10-24",
+      "updated": "2026-11-07",
       "resolutiondate": "",
       "labels": [
         "Michael-Kors"
@@ -2007,7 +2021,7 @@
       "assignee": "AI Agent Delivery",
       "issuetype": "Task",
       "created": "2026-10-22",
-      "updated": "2026-11-04",
+      "updated": "2026-11-07",
       "resolutiondate": "",
       "labels": [
         "Allianz-ES"
@@ -3414,7 +3428,7 @@
       "assignee": "Marta Marron",
       "issuetype": "Task",
       "created": "2026-10-13",
-      "updated": "2026-10-13",
+      "updated": "2026-11-07",
       "resolutiondate": "",
       "labels": [
         "Multiasistencia"
@@ -4067,12 +4081,12 @@
     {
       "key": "PS-6449",
       "summary": "Euroriente - Filtrar envío de bienvenida a Turquía y Grecia en español y calcular volumen diario",
-      "status": "Ready for review",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Pep Alonso",
       "issuetype": "Task",
       "created": "2026-10-06",
-      "updated": "2026-10-29",
+      "updated": "2026-11-07",
       "resolutiondate": "",
       "labels": [
         "Euroriente"
@@ -4841,12 +4855,12 @@
     {
       "key": "PS-6391",
       "summary": "Euroriente - Desplegar Agente IA en staging para dar respuesta a las preguntas del cliente",
-      "status": "Ready for review",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "irene callejas",
       "issuetype": "Task",
       "created": "2026-09-30",
-      "updated": "2026-10-02",
+      "updated": "2026-11-07",
       "resolutiondate": "",
       "labels": [
         "Euroriente"
@@ -5163,12 +5177,12 @@
     {
       "key": "PS-6369",
       "summary": "DABA - NEW WISMO",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Closed",
+      "status_category": "Done",
       "assignee": "Andrea Talal Haidar",
       "issuetype": "Discovery Task",
       "created": "2026-09-29",
-      "updated": "2026-10-28",
+      "updated": "2026-11-06",
       "resolutiondate": "",
       "labels": [
         "DABA"
@@ -8298,12 +8312,12 @@
     {
       "key": "PS-6138",
       "summary": "easyJET - Bot and Organization deletion (production and staging)",
-      "status": "In Progress",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Marta Marron",
       "issuetype": "Task",
       "created": "2026-08-26",
-      "updated": "2026-09-14",
+      "updated": "2026-11-07",
       "resolutiondate": "",
       "labels": [
         "easyjet"
@@ -9653,12 +9667,12 @@
     {
       "key": "PS-6039",
       "summary": "FINALIZE OKRS - APPLIED AI TEAM ",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Closed",
+      "status_category": "Done",
       "assignee": "Andrea Talal Haidar",
       "issuetype": "Discovery Task",
       "created": "2026-07-30",
-      "updated": "2026-07-30",
+      "updated": "2026-11-06",
       "resolutiondate": "",
       "labels": [
         "Internal"
@@ -9681,12 +9695,12 @@
     {
       "key": "PS-6037",
       "summary": "HUBTYPE - PRE QUALIFICATION LEAD FLOW ",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Closed",
+      "status_category": "Done",
       "assignee": "Andrea Talal Haidar",
       "issuetype": "Discovery Task",
       "created": "2026-07-30",
-      "updated": "2026-07-30",
+      "updated": "2026-11-06",
       "resolutiondate": "",
       "labels": [
         "Internal"
@@ -9695,12 +9709,12 @@
     {
       "key": "PS-6036",
       "summary": "UPDATE SALES & MARKETING MATERIAL + PROPOSE NEW TEXT ",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Closed",
+      "status_category": "Done",
       "assignee": "Andrea Talal Haidar",
       "issuetype": "Task",
       "created": "2026-07-30",
-      "updated": "2026-07-30",
+      "updated": "2026-11-06",
       "resolutiondate": "",
       "labels": [
         "Internal"
@@ -11236,12 +11250,12 @@
     {
       "key": "PS-5925",
       "summary": "CCMA - Laia - Migrar de KB a Ai Agent",
-      "status": "In production",
+      "status": "Done",
       "status_category": "Done",
       "assignee": "Marta Marron",
       "issuetype": "Task",
       "created": "2026-07-19",
-      "updated": "2026-11-03",
+      "updated": "2026-11-07",
       "resolutiondate": "",
       "labels": [
         "ccma"
@@ -12018,12 +12032,12 @@
     {
       "key": "PS-5869",
       "summary": "All Clients - Clientes con AI Language Detector y canal WA- Revisar si siguen necesitando Plug in de Country Code",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Closed",
+      "status_category": "Done",
       "assignee": "Adrià Sastre",
       "issuetype": "Task",
       "created": "2026-07-09",
-      "updated": "2026-08-24",
+      "updated": "2026-11-07",
       "resolutiondate": "",
       "labels": [
         "all_clients"
