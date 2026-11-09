@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-08 14:17 UTC",
+  "last_updated": "2026-11-09 17:29 UTC",
   "opportunities": [
     {
       "id": "006Sa00000sr6pnIAA",
@@ -430,13 +430,13 @@
       "id": "006Sa00000r7d4XIAQ",
       "name": "2026-U-Wizz Air-Agent Licenses (Nov 26 - Apr 27)",
       "type": "Upsell",
-      "stage": "Procurement",
-      "is_closed": false,
-      "is_won": false,
-      "probability": 70.0,
+      "stage": "Closed Won",
+      "is_closed": true,
+      "is_won": true,
+      "probability": 100.0,
       "amount": 6174.0,
       "arr": 14817.6,
-      "owner": "Marta Marron",
+      "owner": "Julieta Mezza",
       "cs_lead": "Julieta Mezza",
       "account": "Wizz Air",
       "created": "2026-10-19",
