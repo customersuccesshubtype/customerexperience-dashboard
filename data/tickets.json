@@ -1,6 +1,62 @@
 {
-  "last_updated": "2026-11-09 17:07 UTC",
+  "last_updated": "2026-11-10 15:24 UTC",
   "tickets": [
+    {
+      "key": "PS-6762",
+      "summary": "Internal - Automatic production deploys",
+      "status": "In Progress",
+      "status_category": "In Progress",
+      "assignee": "Adrià Sastre",
+      "issuetype": "Task",
+      "created": "2026-11-10",
+      "updated": "2026-11-10",
+      "resolutiondate": "",
+      "labels": [
+        "Internal"
+      ]
+    },
+    {
+      "key": "PS-6761",
+      "summary": "[Ralph Lauren] Outerwear campaign sent to a customer who had opted out",
+      "status": "In Progress",
+      "status_category": "In Progress",
+      "assignee": "Francisca Martelli",
+      "issuetype": "Task",
+      "created": "2026-11-10",
+      "updated": "2026-11-10",
+      "resolutiondate": "",
+      "labels": [
+        "RalphLauren"
+      ]
+    },
+    {
+      "key": "PS-6760",
+      "summary": "Tendam - Canal consumidores vulnerables - Definir Flow en Flowbuilder",
+      "status": "Ready for review",
+      "status_category": "In Progress",
+      "assignee": "Aitor Casas",
+      "issuetype": "Task",
+      "created": "2026-11-10",
+      "updated": "2026-11-10",
+      "resolutiondate": "",
+      "labels": [
+        "Tendam"
+      ]
+    },
+    {
+      "key": "PS-6759",
+      "summary": "Tendam - Canal consumidores vulnerables - conectar número de WhatsApp",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Aitor Casas",
+      "issuetype": "Task",
+      "created": "2026-11-10",
+      "updated": "2026-11-10",
+      "resolutiondate": "",
+      "labels": [
+        "Tendam"
+      ]
+    },
     {
       "key": "PS-6758",
       "summary": "Soledad: payment gateway result screen (4 states)",
@@ -18,12 +74,12 @@
     {
       "key": "PS-6757",
       "summary": "Ralph Lauren - track links for campaign",
-      "status": "To Do",
+      "status": "Open",
       "status_category": "To Do",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-11-09",
-      "updated": "2026-11-09",
+      "updated": "2026-11-10",
       "resolutiondate": "",
       "labels": [
         "Ralph_Lauren"
@@ -164,12 +220,12 @@
     {
       "key": "PS-6747",
       "summary": "Euroriente – Revisar timeout de la API, extraer reservas de prueba por país y simular los push sin envío",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Ready for review",
+      "status_category": "In Progress",
       "assignee": "Pep Alonso",
       "issuetype": "Task",
       "created": "2026-11-05",
-      "updated": "2026-11-05",
+      "updated": "2026-11-10",
       "resolutiondate": "",
       "labels": [
         "Euroriente"
@@ -206,12 +262,12 @@
     {
       "key": "PS-6744",
       "summary": "AI Agent Delivery: @ai-agent-delivery trigger + GitHub Action updates + prompt updates",
-      "status": "Ready for review",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Adrià Sastre",
       "issuetype": "Task",
       "created": "2026-11-05",
-      "updated": "2026-11-05",
+      "updated": "2026-11-10",
       "resolutiondate": "",
       "labels": []
     },
@@ -260,12 +316,12 @@
     {
       "key": "PS-6739",
       "summary": "Tendam – Incluir tool al AI Agent para verificar el estado de la cola y no transferir en OOO",
-      "status": "Ready for review",
+      "status": "Ready to Deliver",
       "status_category": "In Progress",
       "assignee": "irene callejas",
       "issuetype": "Task",
       "created": "2026-11-05",
-      "updated": "2026-11-06",
+      "updated": "2026-11-10",
       "resolutiondate": "",
       "labels": [
         "Tendam"
@@ -303,13 +359,13 @@
     },
     {
       "key": "PS-6736",
-      "summary": "Añadir campo consumidorVulnerable al JSON de cierre de caso enviado a InConcert",
+      "summary": "Tendam - Canal consumidores vulnerables - Añadir campo consumidorVulnerable al JSON de cierre de caso enviado a InConcert",
       "status": "To Do",
       "status_category": "To Do",
       "assignee": null,
       "issuetype": "Task",
       "created": "2026-11-04",
-      "updated": "2026-11-04",
+      "updated": "2026-11-10",
       "resolutiondate": "",
       "labels": [
         "Tendam"
@@ -332,12 +388,12 @@
     {
       "key": "PS-6733",
       "summary": "Occident - Webchat - Close cases with user offline",
-      "status": "Ready for review",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Adrià Sastre",
       "issuetype": "Task",
       "created": "2026-11-04",
-      "updated": "2026-11-09",
+      "updated": "2026-11-10",
       "resolutiondate": "",
       "labels": [
         "Occident"
@@ -388,12 +444,12 @@
     {
       "key": "PS-6728",
       "summary": "Euroriente - Adaptar el middleware de bienvenida a la plantilla euroriente_aviso_llegada (con botones quick-reply)",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Closed",
+      "status_category": "Done",
       "assignee": "Pep Alonso",
       "issuetype": "Sub-task",
       "created": "2026-11-04",
-      "updated": "2026-11-04",
+      "updated": "2026-11-09",
       "resolutiondate": "",
       "labels": [
         "Euroriente"
@@ -402,12 +458,12 @@
     {
       "key": "PS-6727",
       "summary": "Euroriente - Bienvenida a todos los destinos (quitar filtro Turquía/Grecia)",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Closed",
+      "status_category": "Done",
       "assignee": "Pep Alonso",
       "issuetype": "Sub-task",
       "created": "2026-11-04",
-      "updated": "2026-11-05",
+      "updated": "2026-11-09",
       "resolutiondate": "",
       "labels": [
         "Euroriente"
@@ -486,12 +542,12 @@
     {
       "key": "PS-6721",
       "summary": "Occident - Introduce CRM's URls in the Case Info",
-      "status": "APPROVED FOR PRODUCTION",
+      "status": "Done",
       "status_category": "Done",
       "assignee": "AI Agent Delivery",
       "issuetype": "Task",
       "created": "2026-11-03",
-      "updated": "2026-11-09",
+      "updated": "2026-11-10",
       "resolutiondate": "",
       "labels": [
         "Occident"
@@ -917,13 +973,13 @@
     },
     {
       "key": "PS-6690",
-      "summary": "Jetsmart - Compra de tickets - Ajustes",
+      "summary": "Jetsmart - Compra de tickets - Ajustes Rutas Chile",
       "status": "To Do",
       "status_category": "To Do",
       "assignee": "Pep Alonso",
       "issuetype": "Task",
       "created": "2026-10-29",
-      "updated": "2026-11-02",
+      "updated": "2026-11-10",
       "resolutiondate": "",
       "labels": [
         "JetSmart"
@@ -1142,12 +1198,12 @@
     {
       "key": "PS-6673",
       "summary": "Tendam – Springfield - Caso resuelto sin envío a Inconcert (no se registra inconcert_case_sent)",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "In Progress",
+      "status_category": "In Progress",
       "assignee": "Marco Gallego Ropero",
       "issuetype": "Bug",
       "created": "2026-10-28",
-      "updated": "2026-11-05",
+      "updated": "2026-11-09",
       "resolutiondate": "",
       "labels": [
         "Tendam"
@@ -2106,12 +2162,12 @@
     {
       "key": "PS-6601",
       "summary": "Allianz ES - Update Botonic version (staging first)",
-      "status": "In Review",
-      "status_category": "In Progress",
+      "status": "In production",
+      "status_category": "Done",
       "assignee": "AI Agent Delivery",
       "issuetype": "Task",
       "created": "2026-10-22",
-      "updated": "2026-11-07",
+      "updated": "2026-11-10",
       "resolutiondate": "",
       "labels": [
         "Allianz-ES"
@@ -2316,7 +2372,7 @@
     {
       "key": "PS-6586",
       "summary": "Verisure Cita - Deploy to staging PR #5652 (save_lead_assessment tool)",
-      "status": "In production",
+      "status": "Done",
       "status_category": "Done",
       "assignee": "AI Agent Delivery",
       "issuetype": "Task",
@@ -3373,12 +3429,12 @@
     {
       "key": "PS-6505",
       "summary": "Verisure Italia – Aceptar snake_case y camelCase en external_extra_data de las plantillas de WhatsApp",
-      "status": "APPROVED FOR PRODUCTION",
+      "status": "In production",
       "status_category": "Done",
       "assignee": "AI Agent Delivery",
       "issuetype": "Task",
       "created": "2026-10-13",
-      "updated": "2026-11-09",
+      "updated": "2026-11-10",
       "resolutiondate": "",
       "labels": [
         "Verisure_IT"
@@ -4227,12 +4283,12 @@
     {
       "key": "PS-6442",
       "summary": "Occident - Get ready to receive in \"store-data\" name, surname and id and include it in contact info (webchat app y web)",
-      "status": "APPROVED FOR PRODUCTION",
+      "status": "Done",
       "status_category": "Done",
       "assignee": "AI Agent Delivery",
       "issuetype": "Task",
       "created": "2026-10-06",
-      "updated": "2026-11-09",
+      "updated": "2026-11-10",
       "resolutiondate": "",
       "labels": [
         "Occident"
@@ -5659,12 +5715,12 @@
     {
       "key": "PS-6337",
       "summary": "Occident - Reduce webchat-button bundle size",
-      "status": "Ready for review",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "AI Agent Delivery",
       "issuetype": "Task",
       "created": "2026-09-24",
-      "updated": "2026-10-26",
+      "updated": "2026-11-10",
       "resolutiondate": "",
       "labels": [
         "Occident"
@@ -7578,12 +7634,12 @@
     {
       "key": "PS-6196",
       "summary": "Occident - Implement an automatic discard of waiting cases for agencies",
-      "status": "Waiting for Product",
-      "status_category": "To Do",
-      "assignee": "Adrià Sastre",
+      "status": "Closed",
+      "status_category": "Done",
+      "assignee": "Julieta Mezza",
       "issuetype": "Task",
       "created": "2026-09-07",
-      "updated": "2026-10-19",
+      "updated": "2026-11-10",
       "resolutiondate": "",
       "labels": [
         "Occident"
@@ -8166,12 +8222,12 @@
     {
       "key": "PS-6153",
       "summary": "Allianz ES - Quote&Buy - Test in Postman the whole process (both quote and buy)",
-      "status": "Ready for review",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Discovery Task",
       "created": "2026-08-28",
-      "updated": "2026-09-09",
+      "updated": "2026-11-10",
       "resolutiondate": "",
       "labels": [
         "Allianz"
