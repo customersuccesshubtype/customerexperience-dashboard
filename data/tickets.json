@@ -1,11 +1,329 @@
 {
-  "last_updated": "2026-11-10 15:24 UTC",
+  "last_updated": "2026-11-11 14:53 UTC",
   "tickets": [
+    {
+      "key": "PS-6785",
+      "summary": "Jetsmart - Compra de tickets - Ajuste precio bundles",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Pep Alonso",
+      "issuetype": "Task",
+      "created": "2026-11-11",
+      "updated": "2026-11-11",
+      "resolutiondate": "",
+      "labels": [
+        "JetSmart"
+      ]
+    },
+    {
+      "key": "PS-6784",
+      "summary": "Multiasistencia - retry barraNlp",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Lorena Sánchez-Toril Nicolás",
+      "issuetype": "Task",
+      "created": "2026-11-11",
+      "updated": "2026-11-11",
+      "resolutiondate": "",
+      "labels": [
+        "Multiasistencia"
+      ]
+    },
+    {
+      "key": "PS-6783",
+      "summary": "Ralph Lauren - Campaign eligibility check ignores WhatsApp Consent = false",
+      "status": "Closed",
+      "status_category": "Done",
+      "assignee": "Lorena Sánchez-Toril Nicolás",
+      "issuetype": "Bug",
+      "created": "2026-11-11",
+      "updated": "2026-11-11",
+      "resolutiondate": "",
+      "labels": [
+        "Ralph_Lauren"
+      ]
+    },
+    {
+      "key": "PS-6782",
+      "summary": "Verisure Cita - Update bot to Botonic v0.58.0 (Staging)",
+      "status": "In production",
+      "status_category": "Done",
+      "assignee": "Aitor Casas",
+      "issuetype": "Task",
+      "created": "2026-11-11",
+      "updated": "2026-11-11",
+      "resolutiondate": "",
+      "labels": [
+        "Verisure_cita"
+      ]
+    },
+    {
+      "key": "PS-6781",
+      "summary": "DABA - New WISMO Implementation",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Lorena Sánchez-Toril Nicolás",
+      "issuetype": "Epic",
+      "created": "2026-11-11",
+      "updated": "2026-11-11",
+      "resolutiondate": "",
+      "labels": []
+    },
+    {
+      "key": "PS-6780",
+      "summary": "Occident - Integration with their CRM Gestiona",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Adrià Sastre",
+      "issuetype": "Discovery Task",
+      "created": "2026-11-11",
+      "updated": "2026-11-11",
+      "resolutiondate": "",
+      "labels": [
+        "Occident"
+      ]
+    },
+    {
+      "key": "PS-6779",
+      "summary": "Handoff a agente gestionado siempre por el AI Agent (evitar el traspaso a la primera)",
+      "status": "In Progress",
+      "status_category": "In Progress",
+      "assignee": "irene callejas",
+      "issuetype": "Task",
+      "created": "2026-11-11",
+      "updated": "2026-11-11",
+      "resolutiondate": "",
+      "labels": [
+        "all_clients"
+      ]
+    },
+    {
+      "key": "PS-6778",
+      "summary": "Tendam - AI agents: queue check must use the user's channel (WhatsApp vs webchat)",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Marta Marron",
+      "issuetype": "Task",
+      "created": "2026-11-11",
+      "updated": "2026-11-11",
+      "resolutiondate": "",
+      "labels": [
+        "Tendam"
+      ]
+    },
+    {
+      "key": "PS-6777",
+      "summary": "Jetsmart - Proyecto agencias - Share AWS resources with original bot",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Lorena Sánchez-Toril Nicolás",
+      "issuetype": "Task",
+      "created": "2026-11-11",
+      "updated": "2026-11-11",
+      "resolutiondate": "",
+      "labels": [
+        "JetSmart"
+      ]
+    },
+    {
+      "key": "PS-6776",
+      "summary": "Jetsmart - Proyecto agencias  Cambio de fecha",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": null,
+      "issuetype": "Task",
+      "created": "2026-11-11",
+      "updated": "2026-11-11",
+      "resolutiondate": "",
+      "labels": [
+        "JetSmart"
+      ]
+    },
+    {
+      "key": "PS-6775",
+      "summary": "Jetsmart - Proyecto Agencias - Cambio de nombre ",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": null,
+      "issuetype": "Task",
+      "created": "2026-11-11",
+      "updated": "2026-11-11",
+      "resolutiondate": "",
+      "labels": [
+        "JetSmart"
+      ]
+    },
+    {
+      "key": "PS-6774",
+      "summary": "Euroriente - Limit app download offer to optional excursion booking",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "irene callejas",
+      "issuetype": "Task",
+      "created": "2026-11-11",
+      "updated": "2026-11-11",
+      "resolutiondate": "",
+      "labels": [
+        "Euroriente"
+      ]
+    },
+    {
+      "key": "PS-6773",
+      "summary": "Jetsmart - Proyecto Agencias - Webview Add SSR",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Adrià Sastre",
+      "issuetype": "Task",
+      "created": "2026-11-11",
+      "updated": "2026-11-11",
+      "resolutiondate": "",
+      "labels": [
+        "JetSmart"
+      ]
+    },
+    {
+      "key": "PS-6772",
+      "summary": "Jetsmart - Proyecto Agencias - Weview estado de vuelo",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Lorena Sánchez-Toril Nicolás",
+      "issuetype": "Task",
+      "created": "2026-11-11",
+      "updated": "2026-11-11",
+      "resolutiondate": "",
+      "labels": [
+        "JetSmart"
+      ]
+    },
+    {
+      "key": "PS-6771",
+      "summary": "Jetsmart - Proyecto Agencias - Webview Estado de Reserva",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Lorena Sánchez-Toril Nicolás",
+      "issuetype": "Task",
+      "created": "2026-11-11",
+      "updated": "2026-11-11",
+      "resolutiondate": "",
+      "labels": [
+        "JetSmart"
+      ]
+    },
+    {
+      "key": "PS-6770",
+      "summary": "Ralph Lauren - updates outwear campaign",
+      "status": "Ready for review",
+      "status_category": "In Progress",
+      "assignee": "Lorena Sánchez-Toril Nicolás",
+      "issuetype": "Task",
+      "created": "2026-11-11",
+      "updated": "2026-11-11",
+      "resolutiondate": "",
+      "labels": [
+        "Ralph_Lauren"
+      ]
+    },
+    {
+      "key": "PS-6769",
+      "summary": "Ralph Lauren - update to 0.58",
+      "status": "Ready for review",
+      "status_category": "In Progress",
+      "assignee": "Lorena Sánchez-Toril Nicolás",
+      "issuetype": "Task",
+      "created": "2026-11-11",
+      "updated": "2026-11-11",
+      "resolutiondate": "",
+      "labels": [
+        "Ralph_Lauren"
+      ]
+    },
+    {
+      "key": "PS-6768",
+      "summary": "JetSMART – Actualizar bots a Botonic 0.58 para habilitar el descarte de casos en bulk",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": null,
+      "issuetype": "Task",
+      "created": "2026-11-11",
+      "updated": "2026-11-11",
+      "resolutiondate": "",
+      "labels": [
+        "JetSMART"
+      ]
+    },
+    {
+      "key": "PS-6767",
+      "summary": "Tendam – Actualizar bots a Botonic 0.58 para habilitar el descarte de casos en bulk",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": null,
+      "issuetype": "Task",
+      "created": "2026-11-11",
+      "updated": "2026-11-11",
+      "resolutiondate": "",
+      "labels": [
+        "Tendam"
+      ]
+    },
+    {
+      "key": "PS-6766",
+      "summary": "Allianz Spain - Scan & Buy Hogar - Ejemplos de pólizas",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": null,
+      "issuetype": "Task",
+      "created": "2026-11-10",
+      "updated": "2026-11-10",
+      "resolutiondate": "",
+      "labels": [
+        "Allianz"
+      ]
+    },
+    {
+      "key": "PS-6765",
+      "summary": "Verisure ES Funnel First - Centralize Lead Journey API with HttpClient",
+      "status": "Ready for review",
+      "status_category": "In Progress",
+      "assignee": "Marco Gallego Ropero",
+      "issuetype": "Task",
+      "created": "2026-11-10",
+      "updated": "2026-11-10",
+      "resolutiondate": "",
+      "labels": []
+    },
+    {
+      "key": "PS-6764",
+      "summary": "Internal - Update bot template to version 0.58.0",
+      "status": "Done",
+      "status_category": "Done",
+      "assignee": "Lorena Sánchez-Toril Nicolás",
+      "issuetype": "Task",
+      "created": "2026-11-10",
+      "updated": "2026-11-11",
+      "resolutiondate": "",
+      "labels": [
+        "Internal"
+      ]
+    },
+    {
+      "key": "PS-6763",
+      "summary": "Internal - Bump internal packages to 0.58.0",
+      "status": "Done",
+      "status_category": "Done",
+      "assignee": "Lorena Sánchez-Toril Nicolás",
+      "issuetype": "Task",
+      "created": "2026-11-10",
+      "updated": "2026-11-11",
+      "resolutiondate": "",
+      "labels": [
+        "Internal"
+      ]
+    },
     {
       "key": "PS-6762",
       "summary": "Internal - Automatic production deploys",
-      "status": "In Progress",
-      "status_category": "In Progress",
+      "status": "In production",
+      "status_category": "Done",
       "assignee": "Adrià Sastre",
       "issuetype": "Task",
       "created": "2026-11-10",
@@ -60,12 +378,12 @@
     {
       "key": "PS-6758",
       "summary": "Soledad: payment gateway result screen (4 states)",
-      "status": "In Progress",
+      "status": "Ready for review",
       "status_category": "In Progress",
       "assignee": "Vicky Correbo",
       "issuetype": "Task",
       "created": "2026-11-09",
-      "updated": "2026-11-09",
+      "updated": "2026-11-11",
       "resolutiondate": "",
       "labels": [
         "Soledad"
@@ -139,7 +457,7 @@
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Epic",
       "created": "2026-11-09",
-      "updated": "2026-11-09",
+      "updated": "2026-11-11",
       "resolutiondate": "",
       "labels": [
         "Michael-Kors"
@@ -183,7 +501,7 @@
       "assignee": "Aitor Casas",
       "issuetype": "Task",
       "created": "2026-11-07",
-      "updated": "2026-11-07",
+      "updated": "2026-11-11",
       "resolutiondate": "",
       "labels": [
         "Allianz"
@@ -274,12 +592,12 @@
     {
       "key": "PS-6743",
       "summary": "Ralph Lauren - update API docs with new endpoint",
-      "status": "Ready for review",
+      "status": "Ready to Deliver",
       "status_category": "In Progress",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-11-05",
-      "updated": "2026-11-05",
+      "updated": "2026-11-11",
       "resolutiondate": "",
       "labels": [
         "Ralph_Lauren"
@@ -316,8 +634,8 @@
     {
       "key": "PS-6739",
       "summary": "Tendam – Incluir tool al AI Agent para verificar el estado de la cola y no transferir en OOO",
-      "status": "Ready to Deliver",
-      "status_category": "In Progress",
+      "status": "In production",
+      "status_category": "Done",
       "assignee": "irene callejas",
       "issuetype": "Task",
       "created": "2026-11-05",
@@ -514,12 +832,12 @@
     {
       "key": "PS-6723",
       "summary": "Air Europa - Prepare bot to respond in Brazilian Portuguese",
-      "status": "Ready to Deliver",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Marco Gallego Ropero",
       "issuetype": "Task",
       "created": "2026-11-03",
-      "updated": "2026-11-09",
+      "updated": "2026-11-11",
       "resolutiondate": "",
       "labels": [
         "AirEuropa"
@@ -696,12 +1014,12 @@
     {
       "key": "PS-6710",
       "summary": "Jetsmart - Review if we can clone webviews from original project",
-      "status": "Waiting for customer",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Julieta Mezza",
       "issuetype": "Task",
       "created": "2026-11-02",
-      "updated": "2026-11-09",
+      "updated": "2026-11-11",
       "resolutiondate": "",
       "labels": [
         "JetSmart"
@@ -979,7 +1297,7 @@
       "assignee": "Pep Alonso",
       "issuetype": "Task",
       "created": "2026-10-29",
-      "updated": "2026-11-10",
+      "updated": "2026-11-11",
       "resolutiondate": "",
       "labels": [
         "JetSmart"
@@ -1770,12 +2088,12 @@
     {
       "key": "PS-6630",
       "summary": "Hubtype-sdk - Add new endpoint to remove phone number from chat",
-      "status": "Ready to Deliver",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Marco Gallego Ropero",
       "issuetype": "Task",
       "created": "2026-10-26",
-      "updated": "2026-10-27",
+      "updated": "2026-11-11",
       "resolutiondate": "",
       "labels": [
         "Internal"
@@ -1929,7 +2247,7 @@
       "assignee": null,
       "issuetype": "Task",
       "created": "2026-10-23",
-      "updated": "2026-10-23",
+      "updated": "2026-11-10",
       "resolutiondate": "",
       "labels": [
         "Allianz"
@@ -2232,12 +2550,12 @@
     {
       "key": "PS-6596",
       "summary": "Soledad - requested updates",
-      "status": "APPROVED FOR PRODUCTION",
+      "status": "Done",
       "status_category": "Done",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-10-22",
-      "updated": "2026-11-09",
+      "updated": "2026-11-11",
       "resolutiondate": "",
       "labels": [
         "Soledad"
@@ -2414,12 +2732,12 @@
     {
       "key": "PS-6583",
       "summary": "Air Europa - Develop Interpret Hubtype Action and trigger \"Consultar Reserva\"",
-      "status": "Ready to Deliver",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-10-20",
-      "updated": "2026-11-09",
+      "updated": "2026-11-11",
       "resolutiondate": "",
       "labels": [
         "AirEuropa"
@@ -4512,7 +4830,7 @@
       "assignee": "Marta Marron",
       "issuetype": "Task",
       "created": "2026-10-06",
-      "updated": "2026-10-13",
+      "updated": "2026-11-10",
       "resolutiondate": "",
       "labels": [
         "Allianz"
@@ -4619,12 +4937,12 @@
     {
       "key": "PS-6417",
       "summary": "RACC - Viaje - Proceder a borrar el teléfono del usuario",
-      "status": "Waiting for Product",
-      "status_category": "To Do",
-      "assignee": "Adrià Sastre",
+      "status": "Ready for review",
+      "status_category": "In Progress",
+      "assignee": "Marco Gallego Ropero",
       "issuetype": "Task",
       "created": "2026-10-05",
-      "updated": "2026-10-26",
+      "updated": "2026-11-11",
       "resolutiondate": "",
       "labels": [
         "RACC"
@@ -5914,7 +6232,7 @@
       "assignee": "Pep Alonso",
       "issuetype": "Task",
       "created": "2026-09-23",
-      "updated": "2026-09-23",
+      "updated": "2026-11-11",
       "resolutiondate": "",
       "labels": [
         "Ralph-Lauren",
@@ -6992,12 +7310,12 @@
     {
       "key": "PS-6243",
       "summary": "Soledad - integración WISMO ",
-      "status": "APPROVED FOR PRODUCTION",
+      "status": "Done",
       "status_category": "Done",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-09-14",
-      "updated": "2026-11-09",
+      "updated": "2026-11-11",
       "resolutiondate": "",
       "labels": [
         "Soledad"
@@ -7933,7 +8251,7 @@
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-09-03",
-      "updated": "2026-09-09",
+      "updated": "2026-11-11",
       "resolutiondate": "",
       "labels": [
         "Ralph_Lauren"
@@ -12591,7 +12909,7 @@
       "assignee": "Julieta Mezza",
       "issuetype": "Epic",
       "created": "2026-07-05",
-      "updated": "2026-11-09",
+      "updated": "2026-11-11",
       "resolutiondate": "",
       "labels": [
         "Allianz"
