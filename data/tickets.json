@@ -1,15 +1,181 @@
 {
-  "last_updated": "2026-11-11 14:53 UTC",
+  "last_updated": "2026-11-12 15:44 UTC",
   "tickets": [
     {
-      "key": "PS-6785",
-      "summary": "Jetsmart - Compra de tickets - Ajuste precio bundles",
+      "key": "PS-6798",
+      "summary": "DABA - Automate Friday report with case rating data",
       "status": "To Do",
       "status_category": "To Do",
+      "assignee": "Francisca Martelli",
+      "issuetype": "Task",
+      "created": "2026-11-12",
+      "updated": "2026-11-12",
+      "resolutiondate": "",
+      "labels": [
+        "DABA"
+      ]
+    },
+    {
+      "key": "PS-6797",
+      "summary": "Ralph Lauren - check zeta logic for matchid ",
+      "status": "Done",
+      "status_category": "Done",
+      "assignee": "Lorena Sánchez-Toril Nicolás",
+      "issuetype": "Task",
+      "created": "2026-11-12",
+      "updated": "2026-11-12",
+      "resolutiondate": "",
+      "labels": [
+        "Ralph_Lauren"
+      ]
+    },
+    {
+      "key": "PS-6796",
+      "summary": "Ralph Lauren - Color audit",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "irene callejas",
+      "issuetype": "Task",
+      "created": "2026-11-12",
+      "updated": "2026-11-12",
+      "resolutiondate": "",
+      "labels": [
+        "Ralph_Lauren"
+      ]
+    },
+    {
+      "key": "PS-6795",
+      "summary": "Concentra - Deactivate google script to send templates",
+      "status": "Done",
+      "status_category": "Done",
+      "assignee": "Lorena Sánchez-Toril Nicolás",
+      "issuetype": "Task",
+      "created": "2026-11-12",
+      "updated": "2026-11-12",
+      "resolutiondate": "",
+      "labels": [
+        "Concentra"
+      ]
+    },
+    {
+      "key": "PS-6794",
+      "summary": "Air Europa– Actualizar bot de staging a Botonic 0.58 para habilitar el descarte de casos en bulk",
+      "status": "APPROVED FOR PRODUCTION",
+      "status_category": "Done",
+      "assignee": "AI Agent Delivery",
+      "issuetype": "Task",
+      "created": "2026-11-12",
+      "updated": "2026-11-12",
+      "resolutiondate": "",
+      "labels": [
+        "AirEuropa"
+      ]
+    },
+    {
+      "key": "PS-6793",
+      "summary": "Occident – Actualizar bots de staging a Botonic 0.58 para habilitar el descarte de casos en bulk",
+      "status": "Ready for review",
+      "status_category": "In Progress",
+      "assignee": "AI Agent Delivery",
+      "issuetype": "Task",
+      "created": "2026-11-12",
+      "updated": "2026-11-12",
+      "resolutiondate": "",
+      "labels": [
+        "Occident"
+      ]
+    },
+    {
+      "key": "PS-6791",
+      "summary": "Concentra - Make Prod WhatsApp number not responsive",
+      "status": "Done",
+      "status_category": "Done",
+      "assignee": "Aitor Casas",
+      "issuetype": "Task",
+      "created": "2026-11-12",
+      "updated": "2026-11-12",
+      "resolutiondate": "",
+      "labels": [
+        "Concentra"
+      ]
+    },
+    {
+      "key": "PS-6790",
+      "summary": "Allianz Spain - Actualización a Botonic 0.58",
+      "status": "Ready for review",
+      "status_category": "In Progress",
+      "assignee": "Marta Marron",
+      "issuetype": "Task",
+      "created": "2026-11-12",
+      "updated": "2026-11-12",
+      "resolutiondate": "",
+      "labels": [
+        "Allianz"
+      ]
+    },
+    {
+      "key": "PS-6789",
+      "summary": "Netberry - Create backdoor to update Nomencaltor",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Adrià Sastre",
+      "issuetype": "Task",
+      "created": "2026-11-12",
+      "updated": "2026-11-12",
+      "resolutiondate": "",
+      "labels": [
+        "NetBerry_COFA"
+      ]
+    },
+    {
+      "key": "PS-6788",
+      "summary": "Multiasistencia - finish santander implementation",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Lorena Sánchez-Toril Nicolás",
+      "issuetype": "Task",
+      "created": "2026-11-12",
+      "updated": "2026-11-12",
+      "resolutiondate": "",
+      "labels": [
+        "Multiasistencia"
+      ]
+    },
+    {
+      "key": "PS-6787",
+      "summary": "Netberry (COFA) – Identidad del colegiado en los tickets archivados del bot (zendesk-import)",
+      "status": "APPROVED FOR PRODUCTION",
+      "status_category": "Done",
       "assignee": "Pep Alonso",
       "issuetype": "Task",
       "created": "2026-11-11",
-      "updated": "2026-11-11",
+      "updated": "2026-11-12",
+      "resolutiondate": "",
+      "labels": []
+    },
+    {
+      "key": "PS-6786",
+      "summary": "Ralph lauren - track links for bicester campaign ",
+      "status": "Ready for review",
+      "status_category": "In Progress",
+      "assignee": "Lorena Sánchez-Toril Nicolás",
+      "issuetype": "Task",
+      "created": "2026-11-11",
+      "updated": "2026-11-12",
+      "resolutiondate": "",
+      "labels": [
+        "Ralph_Lauren"
+      ]
+    },
+    {
+      "key": "PS-6785",
+      "summary": "Jetsmart - Compra de tickets - Ajuste precio bundles",
+      "status": "Ready to Deliver",
+      "status_category": "In Progress",
+      "assignee": "Pep Alonso",
+      "issuetype": "Task",
+      "created": "2026-11-11",
+      "updated": "2026-11-12",
       "resolutiondate": "",
       "labels": [
         "JetSmart"
@@ -18,12 +184,12 @@
     {
       "key": "PS-6784",
       "summary": "Multiasistencia - retry barraNlp",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Ready for review",
+      "status_category": "In Progress",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-11-11",
-      "updated": "2026-11-11",
+      "updated": "2026-11-12",
       "resolutiondate": "",
       "labels": [
         "Multiasistencia"
@@ -46,7 +212,7 @@
     {
       "key": "PS-6782",
       "summary": "Verisure Cita - Update bot to Botonic v0.58.0 (Staging)",
-      "status": "In production",
+      "status": "Done",
       "status_category": "Done",
       "assignee": "Aitor Casas",
       "issuetype": "Task",
@@ -67,7 +233,9 @@
       "created": "2026-11-11",
       "updated": "2026-11-11",
       "resolutiondate": "",
-      "labels": []
+      "labels": [
+        "DABA"
+      ]
     },
     {
       "key": "PS-6780",
@@ -156,12 +324,12 @@
     {
       "key": "PS-6774",
       "summary": "Euroriente - Limit app download offer to optional excursion booking",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "irene callejas",
       "issuetype": "Task",
       "created": "2026-11-11",
-      "updated": "2026-11-11",
+      "updated": "2026-11-12",
       "resolutiondate": "",
       "labels": [
         "Euroriente"
@@ -240,12 +408,12 @@
     {
       "key": "PS-6768",
       "summary": "JetSMART – Actualizar bots a Botonic 0.58 para habilitar el descarte de casos en bulk",
-      "status": "To Do",
-      "status_category": "To Do",
-      "assignee": null,
+      "status": "Ready for review",
+      "status_category": "In Progress",
+      "assignee": "AI Agent Delivery",
       "issuetype": "Task",
       "created": "2026-11-11",
-      "updated": "2026-11-11",
+      "updated": "2026-11-12",
       "resolutiondate": "",
       "labels": [
         "JetSMART"
@@ -254,9 +422,9 @@
     {
       "key": "PS-6767",
       "summary": "Tendam – Actualizar bots a Botonic 0.58 para habilitar el descarte de casos en bulk",
-      "status": "To Do",
-      "status_category": "To Do",
-      "assignee": null,
+      "status": "Ready for review",
+      "status_category": "In Progress",
+      "assignee": "AI Agent Delivery",
       "issuetype": "Task",
       "created": "2026-11-11",
       "updated": "2026-11-11",
@@ -273,7 +441,7 @@
       "assignee": null,
       "issuetype": "Task",
       "created": "2026-11-10",
-      "updated": "2026-11-10",
+      "updated": "2026-11-12",
       "resolutiondate": "",
       "labels": [
         "Allianz"
@@ -457,7 +625,7 @@
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Epic",
       "created": "2026-11-09",
-      "updated": "2026-11-11",
+      "updated": "2026-11-12",
       "resolutiondate": "",
       "labels": [
         "Michael-Kors"
@@ -524,12 +692,12 @@
     {
       "key": "PS-6748",
       "summary": "Soledad - add pedidoComprobarPago",
-      "status": "In Progress",
+      "status": "Ready for review",
       "status_category": "In Progress",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-11-06",
-      "updated": "2026-11-09",
+      "updated": "2026-11-12",
       "resolutiondate": "",
       "labels": [
         "Soledad"
@@ -538,12 +706,12 @@
     {
       "key": "PS-6747",
       "summary": "Euroriente – Revisar timeout de la API, extraer reservas de prueba por país y simular los push sin envío",
-      "status": "Ready for review",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Pep Alonso",
       "issuetype": "Task",
       "created": "2026-11-05",
-      "updated": "2026-11-10",
+      "updated": "2026-11-12",
       "resolutiondate": "",
       "labels": [
         "Euroriente"
@@ -1028,12 +1196,12 @@
     {
       "key": "PS-6709",
       "summary": "Michael Kors - Claim emails not delivered since 21 Oct (Maileroo suppression)",
-      "status": "In Progress",
+      "status": "Ready for review",
       "status_category": "In Progress",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Bug",
       "created": "2026-11-01",
-      "updated": "2026-11-09",
+      "updated": "2026-11-12",
       "resolutiondate": "",
       "labels": [
         "Michael-Kors"
@@ -1292,12 +1460,12 @@
     {
       "key": "PS-6690",
       "summary": "Jetsmart - Compra de tickets - Ajustes Rutas Chile",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Ready to Deliver",
+      "status_category": "In Progress",
       "assignee": "Pep Alonso",
       "issuetype": "Task",
       "created": "2026-10-29",
-      "updated": "2026-11-11",
+      "updated": "2026-11-12",
       "resolutiondate": "",
       "labels": [
         "JetSmart"
@@ -1558,12 +1726,12 @@
     {
       "key": "PS-6670",
       "summary": "Euroriente - Envío de la plantilla de bienvenida final a la reserva 6LFMQH",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Marta Marron",
       "issuetype": "Task",
       "created": "2026-10-28",
-      "updated": "2026-10-28",
+      "updated": "2026-11-12",
       "resolutiondate": "",
       "labels": [
         "Euroriente"
@@ -1586,12 +1754,12 @@
     {
       "key": "PS-6668",
       "summary": "Euroriente - Ajustes prompt",
-      "status": "In Progress",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "irene callejas",
       "issuetype": "Task",
       "created": "2026-10-28",
-      "updated": "2026-11-08",
+      "updated": "2026-11-12",
       "resolutiondate": "",
       "labels": [
         "Euroriente"
@@ -1605,7 +1773,7 @@
       "assignee": "Marco Gallego Ropero",
       "issuetype": "Task",
       "created": "2026-10-28",
-      "updated": "2026-11-02",
+      "updated": "2026-11-12",
       "resolutiondate": "",
       "labels": [
         "ribesalat"
@@ -3803,12 +3971,12 @@
     {
       "key": "PS-6501",
       "summary": "DABA - WISMO AI Agent: implement order tools and prompt (after client validates flow)",
-      "status": "Open",
+      "status": "To Do",
       "status_category": "To Do",
       "assignee": "irene callejas",
       "issuetype": "Task",
       "created": "2026-10-13",
-      "updated": "2026-10-16",
+      "updated": "2026-11-12",
       "resolutiondate": "",
       "labels": [
         "DABA"
@@ -4125,12 +4293,12 @@
     {
       "key": "PS-6476",
       "summary": "Allianz Spain - seguro de patinetes",
-      "status": "In Progress",
-      "status_category": "In Progress",
+      "status": "Closed",
+      "status_category": "Done",
       "assignee": "Marta Marron",
       "issuetype": "Epic",
       "created": "2026-10-08",
-      "updated": "2026-10-15",
+      "updated": "2026-11-12",
       "resolutiondate": "",
       "labels": [
         "Allianz"
@@ -7268,12 +7436,12 @@
     {
       "key": "PS-6246",
       "summary": "DABA - Audit & Battle Test",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "irene callejas",
       "issuetype": "Task",
       "created": "2026-09-14",
-      "updated": "2026-10-14",
+      "updated": "2026-11-12",
       "resolutiondate": "",
       "labels": [
         "DABA"
@@ -9117,7 +9285,7 @@
       "assignee": "Pep Alonso",
       "issuetype": "Task",
       "created": "2026-08-19",
-      "updated": "2026-10-05",
+      "updated": "2026-11-11",
       "resolutiondate": "",
       "labels": [
         "NetBerry_COFA"
@@ -9895,12 +10063,12 @@
     {
       "key": "PS-6053",
       "summary": "DABA - Genesys Integration (API Open Messaging)",
-      "status": "Closed",
+      "status": "Done",
       "status_category": "Done",
       "assignee": "Adrià Sastre",
       "issuetype": "Task",
       "created": "2026-07-31",
-      "updated": "2026-10-19",
+      "updated": "2026-11-12",
       "resolutiondate": "",
       "labels": [
         "DABA"
@@ -10259,12 +10427,12 @@
     {
       "key": "PS-6026",
       "summary": "DABA - Configure Helpdesk (Queues, Agents, Schedule, etc)",
-      "status": "Closed",
+      "status": "Done",
       "status_category": "Done",
       "assignee": "Francisca Martelli",
       "issuetype": "Task",
       "created": "2026-07-28",
-      "updated": "2026-10-26",
+      "updated": "2026-11-12",
       "resolutiondate": "",
       "labels": [
         "DABA"
@@ -11086,12 +11254,12 @@
     {
       "key": "PS-5967",
       "summary": "NetBerry - COFA - 1st Phase",
-      "status": "Done",
-      "status_category": "Done",
+      "status": "In Progress",
+      "status_category": "In Progress",
       "assignee": "Wei Wu",
       "issuetype": "Epic",
       "created": "2026-07-22",
-      "updated": "2026-10-26",
+      "updated": "2026-11-11",
       "resolutiondate": "",
       "labels": [
         "NetBerry_COFA"
@@ -14114,12 +14282,12 @@
     {
       "key": "PS-5743",
       "summary": "Euroriente - 1st Phase",
-      "status": "In Progress",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Marta Marron",
       "issuetype": "Epic",
       "created": "2026-06-13",
-      "updated": "2026-10-12",
+      "updated": "2026-11-12",
       "resolutiondate": "",
       "labels": [
         "Euroriente"
@@ -14593,12 +14761,12 @@
     {
       "key": "PS-5709",
       "summary": "Air Europa - Add values to AVA call (2)",
-      "status": "Ready for review",
+      "status": "Ready to Deliver",
       "status_category": "In Progress",
       "assignee": "AI Agent Delivery",
       "issuetype": "Task",
       "created": "2026-06-05",
-      "updated": "2026-10-20",
+      "updated": "2026-11-12",
       "resolutiondate": "",
       "labels": [
         "AirEuropa"
