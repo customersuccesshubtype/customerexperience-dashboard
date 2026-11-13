@@ -1,6 +1,90 @@
 {
-  "last_updated": "2026-11-12 15:44 UTC",
+  "last_updated": "2026-11-13 15:04 UTC",
   "tickets": [
+    {
+      "key": "PS-6804",
+      "summary": "VGRS - Review Click to WhatsApp Campaings",
+      "status": "Done",
+      "status_category": "Done",
+      "assignee": "Aitor Casas",
+      "issuetype": "Task",
+      "created": "2026-11-13",
+      "updated": "2026-11-13",
+      "resolutiondate": "",
+      "labels": [
+        "VGRS"
+      ]
+    },
+    {
+      "key": "PS-6803",
+      "summary": "Soledad - payed status ",
+      "status": "Ready for review",
+      "status_category": "In Progress",
+      "assignee": "Lorena Sánchez-Toril Nicolás",
+      "issuetype": "Task",
+      "created": "2026-11-13",
+      "updated": "2026-11-13",
+      "resolutiondate": "",
+      "labels": [
+        "Soledad"
+      ]
+    },
+    {
+      "key": "PS-6802",
+      "summary": "Retorna - Add Ecuador as new operating country",
+      "status": "Ready for review",
+      "status_category": "In Progress",
+      "assignee": "AI Agent Delivery",
+      "issuetype": "Task",
+      "created": "2026-11-13",
+      "updated": "2026-11-13",
+      "resolutiondate": "",
+      "labels": [
+        "Retorna"
+      ]
+    },
+    {
+      "key": "PS-6801",
+      "summary": "Ralph Lauren - Black Friday campaign ",
+      "status": "In Progress",
+      "status_category": "In Progress",
+      "assignee": "Lorena Sánchez-Toril Nicolás",
+      "issuetype": "Task",
+      "created": "2026-11-13",
+      "updated": "2026-11-13",
+      "resolutiondate": "",
+      "labels": [
+        "Ralph_Lauren"
+      ]
+    },
+    {
+      "key": "PS-6800",
+      "summary": "Guess - Send default language to Salesforce when language is not allowed",
+      "status": "Ready for review",
+      "status_category": "In Progress",
+      "assignee": "AI Agent Delivery",
+      "issuetype": "Task",
+      "created": "2026-11-13",
+      "updated": "2026-11-13",
+      "resolutiondate": "",
+      "labels": [
+        "Guess"
+      ]
+    },
+    {
+      "key": "PS-6799",
+      "summary": "DABA - for audios add transcription- message",
+      "status": "Ready for review",
+      "status_category": "In Progress",
+      "assignee": "Lorena Sánchez-Toril Nicolás",
+      "issuetype": "Task",
+      "created": "2026-11-12",
+      "updated": "2026-11-13",
+      "resolutiondate": "",
+      "labels": [
+        "DABA"
+      ]
+    },
     {
       "key": "PS-6798",
       "summary": "DABA - Automate Friday report with case rating data",
@@ -60,12 +144,12 @@
     {
       "key": "PS-6794",
       "summary": "Air Europa– Actualizar bot de staging a Botonic 0.58 para habilitar el descarte de casos en bulk",
-      "status": "APPROVED FOR PRODUCTION",
+      "status": "Done",
       "status_category": "Done",
       "assignee": "AI Agent Delivery",
       "issuetype": "Task",
       "created": "2026-11-12",
-      "updated": "2026-11-12",
+      "updated": "2026-11-13",
       "resolutiondate": "",
       "labels": [
         "AirEuropa"
@@ -104,10 +188,10 @@
       "summary": "Allianz Spain - Actualización a Botonic 0.58",
       "status": "Ready for review",
       "status_category": "In Progress",
-      "assignee": "Marta Marron",
+      "assignee": "Adrià Sastre",
       "issuetype": "Task",
       "created": "2026-11-12",
-      "updated": "2026-11-12",
+      "updated": "2026-11-13",
       "resolutiondate": "",
       "labels": [
         "Allianz"
@@ -144,12 +228,12 @@
     {
       "key": "PS-6787",
       "summary": "Netberry (COFA) – Identidad del colegiado en los tickets archivados del bot (zendesk-import)",
-      "status": "APPROVED FOR PRODUCTION",
+      "status": "In production",
       "status_category": "Done",
       "assignee": "Pep Alonso",
       "issuetype": "Task",
       "created": "2026-11-11",
-      "updated": "2026-11-12",
+      "updated": "2026-11-13",
       "resolutiondate": "",
       "labels": []
     },
@@ -424,10 +508,10 @@
       "summary": "Tendam – Actualizar bots a Botonic 0.58 para habilitar el descarte de casos en bulk",
       "status": "Ready for review",
       "status_category": "In Progress",
-      "assignee": "AI Agent Delivery",
+      "assignee": "Adrià Sastre",
       "issuetype": "Task",
       "created": "2026-11-11",
-      "updated": "2026-11-11",
+      "updated": "2026-11-13",
       "resolutiondate": "",
       "labels": [
         "Tendam"
@@ -490,12 +574,12 @@
     {
       "key": "PS-6762",
       "summary": "Internal - Automatic production deploys",
-      "status": "In production",
+      "status": "Done",
       "status_category": "Done",
       "assignee": "Adrià Sastre",
       "issuetype": "Task",
       "created": "2026-11-10",
-      "updated": "2026-11-10",
+      "updated": "2026-11-12",
       "resolutiondate": "",
       "labels": [
         "Internal"
@@ -588,12 +672,12 @@
     {
       "key": "PS-6755",
       "summary": "Ralph Lauren - Black Friday Campaign Set Up",
-      "status": "To Do",
-      "status_category": "To Do",
-      "assignee": null,
+      "status": "In Progress",
+      "status_category": "In Progress",
+      "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-11-09",
-      "updated": "2026-11-09",
+      "updated": "2026-11-13",
       "resolutiondate": "",
       "labels": [
         "Ralph-Lauren",
@@ -634,12 +718,12 @@
     {
       "key": "PS-6752",
       "summary": "Ralph Lauren - Bicester 1: Christmas at Bicester Set up ",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "In Progress",
+      "status_category": "In Progress",
       "assignee": "Andrea Talal Haidar",
       "issuetype": "Task",
       "created": "2026-11-09",
-      "updated": "2026-11-09",
+      "updated": "2026-11-13",
       "resolutiondate": "",
       "labels": [
         "Ralph-Lauren",
@@ -678,12 +762,12 @@
     {
       "key": "PS-6749",
       "summary": "Fenie Energia - SF Integration At Cliente Bot",
-      "status": "Ready for review",
+      "status": "In Review",
       "status_category": "In Progress",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-11-06",
-      "updated": "2026-11-09",
+      "updated": "2026-11-13",
       "resolutiondate": "",
       "labels": [
         "FenieEnergia"
@@ -720,12 +804,12 @@
     {
       "key": "PS-6746",
       "summary": "Ralph Lauren: prevent duplicate Zendesk tickets with a Flow Builder condition",
-      "status": "In production",
+      "status": "Done",
       "status_category": "Done",
       "assignee": "Marta Marron",
       "issuetype": "Task",
       "created": "2026-11-05",
-      "updated": "2026-11-09",
+      "updated": "2026-11-12",
       "resolutiondate": "",
       "labels": [
         "RalphLauren"
@@ -802,12 +886,12 @@
     {
       "key": "PS-6739",
       "summary": "Tendam – Incluir tool al AI Agent para verificar el estado de la cola y no transferir en OOO",
-      "status": "In production",
+      "status": "Done",
       "status_category": "Done",
       "assignee": "irene callejas",
       "issuetype": "Task",
       "created": "2026-11-05",
-      "updated": "2026-11-10",
+      "updated": "2026-11-12",
       "resolutiondate": "",
       "labels": [
         "Tendam"
@@ -1445,13 +1529,13 @@
     },
     {
       "key": "PS-6691",
-      "summary": "VGRS - Adjustments para nuevas campañas",
+      "summary": "VGRS - Ajustes para nuevas campañas",
       "status": "To Do",
       "status_category": "To Do",
       "assignee": "Adrià Sastre",
       "issuetype": "Task",
       "created": "2026-10-29",
-      "updated": "2026-11-09",
+      "updated": "2026-11-13",
       "resolutiondate": "",
       "labels": [
         "VGRS"
@@ -2648,12 +2732,12 @@
     {
       "key": "PS-6601",
       "summary": "Allianz ES - Update Botonic version (staging first)",
-      "status": "In production",
+      "status": "Done",
       "status_category": "Done",
       "assignee": "AI Agent Delivery",
       "issuetype": "Task",
       "created": "2026-10-22",
-      "updated": "2026-11-10",
+      "updated": "2026-11-12",
       "resolutiondate": "",
       "labels": [
         "Allianz-ES"
@@ -3915,12 +3999,12 @@
     {
       "key": "PS-6505",
       "summary": "Verisure Italia – Aceptar snake_case y camelCase en external_extra_data de las plantillas de WhatsApp",
-      "status": "In production",
+      "status": "Done",
       "status_category": "Done",
       "assignee": "AI Agent Delivery",
       "issuetype": "Task",
       "created": "2026-10-13",
-      "updated": "2026-11-10",
+      "updated": "2026-11-12",
       "resolutiondate": "",
       "labels": [
         "Verisure_IT"
@@ -4881,12 +4965,12 @@
     {
       "key": "PS-6434",
       "summary": "Guess - Map \"CI\" country as \"IC\" in Salesforce",
-      "status": "Waiting for customer",
-      "status_category": "In Progress",
+      "status": "Closed",
+      "status_category": "Done",
       "assignee": "Marco Gallego Ropero",
       "issuetype": "Task",
       "created": "2026-10-06",
-      "updated": "2026-10-14",
+      "updated": "2026-11-13",
       "resolutiondate": "",
       "labels": [
         "Guess"
@@ -17423,7 +17507,7 @@
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-05-07",
-      "updated": "2026-09-08",
+      "updated": "2026-11-13",
       "resolutiondate": "",
       "labels": [
         "Multiasistencia"
@@ -21067,12 +21151,12 @@
     {
       "key": "PS-5240",
       "summary": "Guess - Update Middleware to new @hubtype/aws packages",
-      "status": "Ready for review",
-      "status_category": "In Progress",
+      "status": "To Do",
+      "status_category": "To Do",
       "assignee": "AI Agent Delivery",
       "issuetype": "Task",
       "created": "2026-03-24",
-      "updated": "2026-09-24",
+      "updated": "2026-11-13",
       "resolutiondate": "",
       "labels": [
         "Internal"
