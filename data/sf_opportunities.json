@@ -1,6 +1,23 @@
 {
-  "last_updated": "2026-11-13 15:23 UTC",
+  "last_updated": "2026-11-14 14:09 UTC",
   "opportunities": [
+    {
+      "id": "006Sa00000tEreIIAS",
+      "name": "2026-U-Tendam - 20 additional licenses November 2026 to February 2027",
+      "type": "Upsell",
+      "stage": "Closed Won",
+      "is_closed": true,
+      "is_won": true,
+      "probability": 100.0,
+      "amount": 1904.4,
+      "arr": 7617.6,
+      "owner": "Marta Marron",
+      "cs_lead": "Marta Marron",
+      "account": "Tendam (Cortefiel)",
+      "created": "2026-11-13",
+      "close_date": "2026-11-13",
+      "start_date": "2026-11-12"
+    },
     {
       "id": "006Sa00000tBHQrIAO",
       "name": "2026-U-Assegur-1 Desk license",
