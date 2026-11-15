@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-14 13:55 UTC",
+  "last_updated": "2026-11-15 14:29 UTC",
   "tickets": [
     {
       "key": "PS-6806",
@@ -371,7 +371,7 @@
       "assignee": "irene callejas",
       "issuetype": "Task",
       "created": "2026-11-11",
-      "updated": "2026-11-13",
+      "updated": "2026-11-15",
       "resolutiondate": "",
       "labels": [
         "all_clients"
