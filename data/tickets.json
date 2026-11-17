@@ -1,27 +1,191 @@
 {
-  "last_updated": "2026-11-16 16:43 UTC",
+  "last_updated": "2026-11-17 16:39 UTC",
   "tickets": [
     {
-      "key": "PS-6817",
-      "summary": "Occident - Parelalize InicioConversacion Call",
+      "key": "PS-6829",
+      "summary": "Rag&Bone - Set a fallback country (\"US\") to be sent to Salesforce",
       "status": "To Do",
       "status_category": "To Do",
-      "assignee": null,
+      "assignee": "Marco Gallego Ropero",
+      "issuetype": "Discovery Task",
+      "created": "2026-11-17",
+      "updated": "2026-11-17",
+      "resolutiondate": "",
+      "labels": [
+        "Rag&Bone"
+      ]
+    },
+    {
+      "key": "PS-6828",
+      "summary": "Fenie - añadir logs salesforce",
+      "status": "Done",
+      "status_category": "Done",
+      "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
-      "created": "2026-11-16",
-      "updated": "2026-11-16",
+      "created": "2026-11-17",
+      "updated": "2026-11-17",
+      "resolutiondate": "",
+      "labels": [
+        "FenieEnergia"
+      ]
+    },
+    {
+      "key": "PS-6827",
+      "summary": "Update Verisure Francia to 0.58",
+      "status": "Ready for review",
+      "status_category": "In Progress",
+      "assignee": "Marco Gallego Ropero",
+      "issuetype": "Task",
+      "created": "2026-11-17",
+      "updated": "2026-11-17",
       "resolutiondate": "",
       "labels": []
     },
     {
-      "key": "PS-6816",
-      "summary": "Ralph Lauren - change package json ",
+      "key": "PS-6826",
+      "summary": "All clients - Move remaining agents from 5.4 to Luna",
+      "status": "In Progress",
+      "status_category": "In Progress",
+      "assignee": "irene callejas",
+      "issuetype": "Task",
+      "created": "2026-11-17",
+      "updated": "2026-11-17",
+      "resolutiondate": "",
+      "labels": []
+    },
+    {
+      "key": "PS-6825",
+      "summary": "RibéSalat - Remove \"in_force\" polizas and <=25 polizas filters in response",
+      "status": "Ready for review",
+      "status_category": "In Progress",
+      "assignee": "Marco Gallego Ropero",
+      "issuetype": "Task",
+      "created": "2026-11-17",
+      "updated": "2026-11-17",
+      "resolutiondate": "",
+      "labels": []
+    },
+    {
+      "key": "PS-6824",
+      "summary": "Verisure FR - Create the Retention project and queues",
+      "status": "Ready for review",
+      "status_category": "In Progress",
+      "assignee": "Aitor Casas",
+      "issuetype": "Task",
+      "created": "2026-11-17",
+      "updated": "2026-11-17",
+      "resolutiondate": "",
+      "labels": [
+        "Verisure-FR"
+      ]
+    },
+    {
+      "key": "PS-6823",
+      "summary": "Verisure FR - Create the Retention campaign",
+      "status": "Ready for review",
+      "status_category": "In Progress",
+      "assignee": "Aitor Casas",
+      "issuetype": "Task",
+      "created": "2026-11-17",
+      "updated": "2026-11-17",
+      "resolutiondate": "",
+      "labels": [
+        "Verisure-FR"
+      ]
+    },
+    {
+      "key": "PS-6822",
+      "summary": "Verisure FR - Connect Retention WhatsApp number to the WABA and the Retention Project Production bot",
+      "status": "Done",
+      "status_category": "Done",
+      "assignee": "Aitor Casas",
+      "issuetype": "Task",
+      "created": "2026-11-17",
+      "updated": "2026-11-17",
+      "resolutiondate": "",
+      "labels": [
+        "Verisure-FR"
+      ]
+    },
+    {
+      "key": "PS-6821",
+      "summary": "Verisure FR - Deploy Retention bots in staging and production",
+      "status": "Done",
+      "status_category": "Done",
+      "assignee": "Marco Gallego Ropero",
+      "issuetype": "Task",
+      "created": "2026-11-17",
+      "updated": "2026-11-17",
+      "resolutiondate": "",
+      "labels": [
+        "Verisure-FR"
+      ]
+    },
+    {
+      "key": "PS-6820",
+      "summary": "Verisure France - Retention project (Campaigns V2)",
+      "status": "Open",
+      "status_category": "To Do",
+      "assignee": "Marta Marron",
+      "issuetype": "Epic",
+      "created": "2026-11-17",
+      "updated": "2026-11-17",
+      "resolutiondate": "",
+      "labels": [
+        "Verisure-FR"
+      ]
+    },
+    {
+      "key": "PS-6819",
+      "summary": "Assegur - Check and validate jobs identification ",
       "status": "To Do",
       "status_category": "To Do",
-      "assignee": "Lorena Sánchez-Toril Nicolás",
+      "assignee": "irene callejas",
+      "issuetype": "Task",
+      "created": "2026-11-17",
+      "updated": "2026-11-17",
+      "resolutiondate": "",
+      "labels": [
+        "Assegur"
+      ]
+    },
+    {
+      "key": "PS-6818",
+      "summary": "Air Europa - Configure variable with estimated waiting time in Flow builder",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Adrià Sastre",
+      "issuetype": "Task",
+      "created": "2026-11-17",
+      "updated": "2026-11-17",
+      "resolutiondate": "",
+      "labels": [
+        "AirEuropa"
+      ]
+    },
+    {
+      "key": "PS-6817",
+      "summary": "Occident - Parelalize InicioConversacion Call",
+      "status": "Ready for review",
+      "status_category": "In Progress",
+      "assignee": "AI Agent Delivery",
       "issuetype": "Task",
       "created": "2026-11-16",
       "updated": "2026-11-16",
+      "resolutiondate": "",
+      "labels": [
+        "Occident"
+      ]
+    },
+    {
+      "key": "PS-6816",
+      "summary": "Ralph Lauren - change package json ",
+      "status": "Done",
+      "status_category": "Done",
+      "assignee": "Lorena Sánchez-Toril Nicolás",
+      "issuetype": "Task",
+      "created": "2026-11-16",
+      "updated": "2026-11-17",
       "resolutiondate": "",
       "labels": [
         "Ralph_Lauren"
@@ -46,12 +210,12 @@
     {
       "key": "PS-6814",
       "summary": "Ralph Lauren - online codes for BF",
-      "status": "In Progress",
-      "status_category": "In Progress",
+      "status": "In production",
+      "status_category": "Done",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-11-16",
-      "updated": "2026-11-16",
+      "updated": "2026-11-17",
       "resolutiondate": "",
       "labels": [
         "Ralph_Lauren"
@@ -118,12 +282,12 @@
     {
       "key": "PS-6809",
       "summary": "Michael Kors - Track order links per market (dynamic links)",
-      "status": "Ready for review",
+      "status": "Ready to Deliver",
       "status_category": "In Progress",
       "assignee": "Marta Marron",
       "issuetype": "Task",
       "created": "2026-11-16",
-      "updated": "2026-11-16",
+      "updated": "2026-11-17",
       "resolutiondate": "",
       "labels": [
         "Michael-Kors"
@@ -146,12 +310,12 @@
     {
       "key": "PS-6807",
       "summary": "Ralph Lauren - webviews Black Friday campaign",
-      "status": "In production",
+      "status": "Done",
       "status_category": "Done",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-11-16",
-      "updated": "2026-11-16",
+      "updated": "2026-11-17",
       "resolutiondate": "",
       "labels": [
         "Ralph_Lauren"
@@ -230,7 +394,7 @@
     {
       "key": "PS-6800",
       "summary": "Guess - Send default language to Salesforce when language is not allowed",
-      "status": "In production",
+      "status": "Done",
       "status_category": "Done",
       "assignee": "AI Agent Delivery",
       "issuetype": "Task",
@@ -328,7 +492,7 @@
     {
       "key": "PS-6793",
       "summary": "Occident – Actualizar bots de staging a Botonic 0.58 para habilitar el descarte de casos en bulk",
-      "status": "In production",
+      "status": "Done",
       "status_category": "Done",
       "assignee": "AI Agent Delivery",
       "issuetype": "Task",
@@ -389,7 +553,7 @@
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-11-12",
-      "updated": "2026-11-16",
+      "updated": "2026-11-17",
       "resolutiondate": "",
       "labels": [
         "Multiasistencia"
@@ -424,12 +588,12 @@
     {
       "key": "PS-6785",
       "summary": "Jetsmart - Compra de tickets - Ajuste precio bundles",
-      "status": "Ready to Deliver",
+      "status": "Ready for review",
       "status_category": "In Progress",
       "assignee": "Pep Alonso",
       "issuetype": "Task",
       "created": "2026-11-11",
-      "updated": "2026-11-12",
+      "updated": "2026-11-17",
       "resolutiondate": "",
       "labels": [
         "JetSmart"
@@ -494,12 +658,12 @@
     {
       "key": "PS-6780",
       "summary": "Occident - Review Integration with their CRM Gestiona",
-      "status": "In Progress",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Adrià Sastre",
       "issuetype": "Discovery Task",
       "created": "2026-11-11",
-      "updated": "2026-11-16",
+      "updated": "2026-11-17",
       "resolutiondate": "",
       "labels": [
         "Occident"
@@ -538,10 +702,10 @@
       "summary": "Jetsmart - Proyecto agencias - Share AWS resources with original bot",
       "status": "To Do",
       "status_category": "To Do",
-      "assignee": "Lorena Sánchez-Toril Nicolás",
+      "assignee": "Pep Alonso",
       "issuetype": "Task",
       "created": "2026-11-11",
-      "updated": "2026-11-11",
+      "updated": "2026-11-17",
       "resolutiondate": "",
       "labels": [
         "JetSmart"
@@ -634,12 +798,12 @@
     {
       "key": "PS-6770",
       "summary": "Ralph Lauren - updates outwear campaign",
-      "status": "In Review",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-11-11",
-      "updated": "2026-11-16",
+      "updated": "2026-11-17",
       "resolutiondate": "",
       "labels": [
         "Ralph_Lauren"
@@ -648,12 +812,12 @@
     {
       "key": "PS-6769",
       "summary": "Ralph Lauren - update to 0.58",
-      "status": "In production",
+      "status": "Done",
       "status_category": "Done",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-11-11",
-      "updated": "2026-11-16",
+      "updated": "2026-11-17",
       "resolutiondate": "",
       "labels": [
         "Ralph_Lauren"
@@ -676,7 +840,7 @@
     {
       "key": "PS-6767",
       "summary": "Tendam – Actualizar bots a Botonic 0.58 para habilitar el descarte de casos en bulk",
-      "status": "In production",
+      "status": "Done",
       "status_category": "Done",
       "assignee": "Adrià Sastre",
       "issuetype": "Task",
@@ -1000,12 +1164,12 @@
     {
       "key": "PS-6743",
       "summary": "Ralph Lauren - update API docs with new endpoint",
-      "status": "In production",
+      "status": "Done",
       "status_category": "Done",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-11-05",
-      "updated": "2026-11-16",
+      "updated": "2026-11-17",
       "resolutiondate": "",
       "labels": [
         "Ralph_Lauren"
@@ -1436,12 +1600,12 @@
     {
       "key": "PS-6709",
       "summary": "Michael Kors - Claim emails not delivered since 21 Oct (Maileroo suppression)",
-      "status": "Ready for review",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Bug",
       "created": "2026-11-01",
-      "updated": "2026-11-12",
+      "updated": "2026-11-17",
       "resolutiondate": "",
       "labels": [
         "Michael-Kors"
@@ -1562,12 +1726,12 @@
     {
       "key": "PS-6700",
       "summary": "Ralph Lauren - Implement validation to match RL Customer ID with chat ID",
-      "status": "In production",
+      "status": "Done",
       "status_category": "Done",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-10-30",
-      "updated": "2026-11-16",
+      "updated": "2026-11-17",
       "resolutiondate": "",
       "labels": [
         "Ralph_Lauren"
@@ -1686,7 +1850,7 @@
     {
       "key": "PS-6691",
       "summary": "VGRS - Ajustes para nuevas campañas",
-      "status": "In production",
+      "status": "Done",
       "status_category": "Done",
       "assignee": "Marco Gallego Ropero",
       "issuetype": "Task",
@@ -8276,12 +8440,12 @@
     {
       "key": "PS-6200",
       "summary": "Allianz ES - Design Buy phase flow (\"Prima definitiva\") — Allianz ES Quote&Buy",
-      "status": "Ready for review",
+      "status": "Ready to Deliver",
       "status_category": "In Progress",
       "assignee": "Vicky Correbo",
       "issuetype": "Task",
       "created": "2026-09-07",
-      "updated": "2026-10-29",
+      "updated": "2026-11-17",
       "resolutiondate": "",
       "labels": [
         "Allianz"
@@ -10205,12 +10369,12 @@
     {
       "key": "PS-6058",
       "summary": "Allianz ES - Quote Phase + AI scan",
-      "status": "Ready for review",
+      "status": "Ready to Deliver",
       "status_category": "In Progress",
       "assignee": "Vicky Correbo",
       "issuetype": "Task",
       "created": "2026-07-31",
-      "updated": "2026-10-29",
+      "updated": "2026-11-17",
       "resolutiondate": "",
       "labels": [
         "Allianz"
