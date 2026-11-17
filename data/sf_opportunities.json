@@ -1,6 +1,23 @@
 {
-  "last_updated": "2026-11-16 17:01 UTC",
+  "last_updated": "2026-11-17 16:53 UTC",
   "opportunities": [
+    {
+      "id": "006Sa00000tMKGYIA4",
+      "name": "2027-R-Michael-Kors",
+      "type": "Renewal",
+      "stage": "Opportunity identified",
+      "is_closed": false,
+      "is_won": false,
+      "probability": 10.0,
+      "amount": null,
+      "arr": 0.0,
+      "owner": "Marta Marron",
+      "cs_lead": "Marta Marron",
+      "account": "Michael Kors Group",
+      "created": "2026-11-16",
+      "close_date": "2027-11-01",
+      "start_date": "2027-11-15"
+    },
     {
       "id": "006Sa00000tEreIIAS",
       "name": "2026-U-Tendam - 20 additional licenses November 2026 to February 2027",
@@ -360,20 +377,20 @@
     },
     {
       "id": "006Sa00000rmdQVIAY",
-      "name": "2026-U-Verisure FR-WhatsApp Retention Nov to Dec 2026",
+      "name": "2026-U-Verisure FR-WhatsApp Retention POC 1 month",
       "type": "Upsell",
       "stage": "Opportunity identified",
       "is_closed": false,
       "is_won": false,
       "probability": 10.0,
-      "amount": 2478.0,
+      "amount": 1739.0,
       "arr": 8868.0,
       "owner": "Marta Marron",
       "cs_lead": "Marta Marron",
       "account": "Verisure France",
       "created": "2026-10-27",
       "close_date": "2026-11-15",
-      "start_date": "2026-11-01"
+      "start_date": "2026-12-01"
     },
     {
       "id": "006Sa00000rmiQ3IAI",
@@ -2627,13 +2644,13 @@
       "is_closed": false,
       "is_won": false,
       "probability": 10.0,
-      "amount": 52734.0,
-      "arr": 52734.0,
+      "amount": 84084.0,
+      "arr": 47580.0,
       "owner": "Marta Marron",
       "cs_lead": "María Sánchez",
       "account": "Verisure France",
       "created": "2026-02-07",
-      "close_date": "2026-02-06",
+      "close_date": "2026-12-31",
       "start_date": "2027-01-02"
     },
     {
@@ -2882,8 +2899,8 @@
       "is_closed": false,
       "is_won": false,
       "probability": 10.0,
-      "amount": 30000.0,
-      "arr": 30000.0,
+      "amount": 49730.04,
+      "arr": 49730.04,
       "owner": "Marta Marron",
       "cs_lead": "Marta Marron",
       "account": "Verisure Italy",
