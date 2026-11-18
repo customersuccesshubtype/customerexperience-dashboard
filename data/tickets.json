@@ -1,6 +1,268 @@
 {
-  "last_updated": "2026-11-17 16:39 UTC",
+  "last_updated": "2026-11-18 16:09 UTC",
   "tickets": [
+    {
+      "key": "PS-6848",
+      "summary": "Rag&Bone - Add Catalán-Vasco-Gallego in flowbuilder",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Francisca Martelli",
+      "issuetype": "Task",
+      "created": "2026-11-18",
+      "updated": "2026-11-18",
+      "resolutiondate": "",
+      "labels": [
+        "Rag&Bone"
+      ]
+    },
+    {
+      "key": "PS-6847",
+      "summary": "GUESS - Add Catalán-Vasco-Gallego in flowbuilder",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Francisca Martelli",
+      "issuetype": "Task",
+      "created": "2026-11-18",
+      "updated": "2026-11-18",
+      "resolutiondate": "",
+      "labels": []
+    },
+    {
+      "key": "PS-6846",
+      "summary": "Allianz Partners - Documento de instrucciones de la API para Lambda (Volkswagen)",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Marta Marron",
+      "issuetype": "Task",
+      "created": "2026-11-18",
+      "updated": "2026-11-18",
+      "resolutiondate": "",
+      "labels": [
+        "AllianzPartners"
+      ]
+    },
+    {
+      "key": "PS-6845",
+      "summary": "Allianz Partners - Enviar token de acceso a API send messages de VW (staging) a Paulino Ruano (Lambda)",
+      "status": "Done",
+      "status_category": "Done",
+      "assignee": "Aitor Casas",
+      "issuetype": "Task",
+      "created": "2026-11-18",
+      "updated": "2026-11-18",
+      "resolutiondate": "",
+      "labels": [
+        "AllianzPartners"
+      ]
+    },
+    {
+      "key": "PS-6844",
+      "summary": "Allianz Partners - Crear template Meta seguimiento grúa VW (grua_en_camino_vw)",
+      "status": "Ready for review",
+      "status_category": "In Progress",
+      "assignee": "Aitor Casas",
+      "issuetype": "Task",
+      "created": "2026-11-18",
+      "updated": "2026-11-18",
+      "resolutiondate": "",
+      "labels": [
+        "AllianzPartners"
+      ]
+    },
+    {
+      "key": "PS-6843",
+      "summary": "Allianz Partners - Integrar número WhatsApp (Twilio) en staging de VW para seguimiento de grúa",
+      "status": "Done",
+      "status_category": "Done",
+      "assignee": "Aitor Casas",
+      "issuetype": "Task",
+      "created": "2026-11-18",
+      "updated": "2026-11-18",
+      "resolutiondate": "",
+      "labels": [
+        "AllianzPartners"
+      ]
+    },
+    {
+      "key": "PS-6842",
+      "summary": "GUESS - Update Staging bot version to 0.58",
+      "status": "Ready for review",
+      "status_category": "In Progress",
+      "assignee": "Francisca Martelli",
+      "issuetype": "Task",
+      "created": "2026-11-18",
+      "updated": "2026-11-18",
+      "resolutiondate": "",
+      "labels": [
+        "Guess"
+      ]
+    },
+    {
+      "key": "PS-6841",
+      "summary": "Move /euroriente to /euroriente/customer-service",
+      "status": "In Progress",
+      "status_category": "In Progress",
+      "assignee": "Marco Gallego Ropero",
+      "issuetype": "Task",
+      "created": "2026-11-18",
+      "updated": "2026-11-18",
+      "resolutiondate": "",
+      "labels": []
+    },
+    {
+      "key": "PS-6840",
+      "summary": "DABA - Modify Prompt to different queues handoff",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Francisca Martelli",
+      "issuetype": "Task",
+      "created": "2026-11-18",
+      "updated": "2026-11-18",
+      "resolutiondate": "",
+      "labels": [
+        "DABA"
+      ]
+    },
+    {
+      "key": "PS-6839",
+      "summary": "Estimate - Netberry - Estimar módulo de campañas",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Julieta Mezza",
+      "issuetype": "Task",
+      "created": "2026-11-18",
+      "updated": "2026-11-18",
+      "resolutiondate": "",
+      "labels": [
+        "NetBerry_COFA"
+      ]
+    },
+    {
+      "key": "PS-6838",
+      "summary": "Estimate - Netberry Cofa - Compartir con el usuario PDF de fórmulas magistrales alojado externamente",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Adrià Sastre",
+      "issuetype": "Task",
+      "created": "2026-11-18",
+      "updated": "2026-11-18",
+      "resolutiondate": "",
+      "labels": [
+        "NetBerry_COFA"
+      ]
+    },
+    {
+      "key": "PS-6837",
+      "summary": "Estimate - Netberry COFA - Informar usuario sobre horarios y ubicación de Farmacias ",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Julieta Mezza",
+      "issuetype": "Task",
+      "created": "2026-11-18",
+      "updated": "2026-11-18",
+      "resolutiondate": "",
+      "labels": [
+        "NetBerry_COFA"
+      ]
+    },
+    {
+      "key": "PS-6836",
+      "summary": "Netberry COFA - Mejoras segunda Fase",
+      "status": "Open",
+      "status_category": "To Do",
+      "assignee": "Julieta Mezza",
+      "issuetype": "Epic",
+      "created": "2026-11-18",
+      "updated": "2026-11-18",
+      "resolutiondate": "",
+      "labels": [
+        "NetBerry_COFA"
+      ]
+    },
+    {
+      "key": "PS-6835",
+      "summary": "DABA - Configure logic to enroute handoff to queues in Genesys",
+      "status": "Ready for review",
+      "status_category": "In Progress",
+      "assignee": "Lorena Sánchez-Toril Nicolás",
+      "issuetype": "Task",
+      "created": "2026-11-18",
+      "updated": "2026-11-18",
+      "resolutiondate": "",
+      "labels": [
+        "DABA"
+      ]
+    },
+    {
+      "key": "PS-6834",
+      "summary": "Euroriente - Conectar número de teléfono a Bot de prod de Agencias",
+      "status": "In Progress",
+      "status_category": "In Progress",
+      "assignee": "Aitor Casas",
+      "issuetype": "Task",
+      "created": "2026-11-18",
+      "updated": "2026-11-18",
+      "resolutiondate": "",
+      "labels": [
+        "Euroriente"
+      ]
+    },
+    {
+      "key": "PS-6833",
+      "summary": "Euroriente - Desplegar bot de staging y bot de producción",
+      "status": "In production",
+      "status_category": "Done",
+      "assignee": "Marco Gallego Ropero",
+      "issuetype": "Task",
+      "created": "2026-11-18",
+      "updated": "2026-11-18",
+      "resolutiondate": "",
+      "labels": [
+        "Euroriente"
+      ]
+    },
+    {
+      "key": "PS-6832",
+      "summary": "Euroriente Fase 2 - Bot B2B (Agencias)",
+      "status": "Open",
+      "status_category": "To Do",
+      "assignee": "Marta Marron",
+      "issuetype": "Epic",
+      "created": "2026-11-18",
+      "updated": "2026-11-18",
+      "resolutiondate": "",
+      "labels": [
+        "Euroriente"
+      ]
+    },
+    {
+      "key": "PS-6831",
+      "summary": "Assegur - AI Agent for Accidentes",
+      "status": "Open",
+      "status_category": "To Do",
+      "assignee": "Julieta Mezza",
+      "issuetype": "Epic",
+      "created": "2026-11-18",
+      "updated": "2026-11-18",
+      "resolutiondate": "",
+      "labels": [
+        "Assegur"
+      ]
+    },
+    {
+      "key": "PS-6830",
+      "summary": "Verisure Cita: el agente inventa visitas y manda al 910 a clientes que quieren la cerradura",
+      "status": "Ready for review",
+      "status_category": "In Progress",
+      "assignee": "irene callejas",
+      "issuetype": "Task",
+      "created": "2026-11-18",
+      "updated": "2026-11-18",
+      "resolutiondate": "",
+      "labels": [
+        "VerisureCita"
+      ]
+    },
     {
       "key": "PS-6829",
       "summary": "Rag&Bone - Set a fallback country (\"US\") to be sent to Salesforce",
@@ -39,7 +301,9 @@
       "created": "2026-11-17",
       "updated": "2026-11-17",
       "resolutiondate": "",
-      "labels": []
+      "labels": [
+        "Verisure-FR"
+      ]
     },
     {
       "key": "PS-6826",
@@ -51,7 +315,9 @@
       "created": "2026-11-17",
       "updated": "2026-11-17",
       "resolutiondate": "",
-      "labels": []
+      "labels": [
+        "Internal"
+      ]
     },
     {
       "key": "PS-6825",
@@ -63,7 +329,9 @@
       "created": "2026-11-17",
       "updated": "2026-11-17",
       "resolutiondate": "",
-      "labels": []
+      "labels": [
+        "ribesalat"
+      ]
     },
     {
       "key": "PS-6824",
@@ -138,12 +406,12 @@
     {
       "key": "PS-6819",
       "summary": "Assegur - Check and validate jobs identification ",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "irene callejas",
       "issuetype": "Task",
       "created": "2026-11-17",
-      "updated": "2026-11-17",
+      "updated": "2026-11-18",
       "resolutiondate": "",
       "labels": [
         "Assegur"
@@ -194,12 +462,12 @@
     {
       "key": "PS-6815",
       "summary": "Ralph Lauren -  Black Friday - Update Campaign context",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "In Progress",
+      "status_category": "In Progress",
       "assignee": "Andrea Talal Haidar",
       "issuetype": "Task",
       "created": "2026-11-16",
-      "updated": "2026-11-16",
+      "updated": "2026-11-18",
       "resolutiondate": "",
       "labels": [
         "Ralph-Lauren",
@@ -257,7 +525,7 @@
       "assignee": "Andrea Talal Haidar",
       "issuetype": "Task",
       "created": "2026-11-16",
-      "updated": "2026-11-16",
+      "updated": "2026-11-18",
       "resolutiondate": "",
       "labels": [
         "Ralph-Lauren",
@@ -562,12 +830,12 @@
     {
       "key": "PS-6787",
       "summary": "Netberry (COFA) – Identidad del colegiado en los tickets archivados del bot (zendesk-import)",
-      "status": "In Progress",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Pep Alonso",
       "issuetype": "Task",
       "created": "2026-11-11",
-      "updated": "2026-11-16",
+      "updated": "2026-11-18",
       "resolutiondate": "",
       "labels": []
     },
@@ -686,12 +954,12 @@
     {
       "key": "PS-6778",
       "summary": "Tendam - AI agents: queue check must use the user's channel (WhatsApp vs webchat)",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "In Progress",
+      "status_category": "In Progress",
       "assignee": "Marta Marron",
       "issuetype": "Task",
       "created": "2026-11-11",
-      "updated": "2026-11-11",
+      "updated": "2026-11-18",
       "resolutiondate": "",
       "labels": [
         "Tendam"
@@ -700,12 +968,12 @@
     {
       "key": "PS-6777",
       "summary": "Jetsmart - Proyecto agencias - Share AWS resources with original bot",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Ready for review",
+      "status_category": "In Progress",
       "assignee": "Pep Alonso",
       "issuetype": "Task",
       "created": "2026-11-11",
-      "updated": "2026-11-17",
+      "updated": "2026-11-18",
       "resolutiondate": "",
       "labels": [
         "JetSmart"
@@ -992,12 +1260,12 @@
     {
       "key": "PS-6755",
       "summary": "Ralph Lauren - Black Friday Campaign Set Up",
-      "status": "In Progress",
+      "status": "In Review",
       "status_category": "In Progress",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-11-09",
-      "updated": "2026-11-16",
+      "updated": "2026-11-18",
       "resolutiondate": "",
       "labels": [
         "Ralph-Lauren",
@@ -1013,7 +1281,7 @@
       "assignee": null,
       "issuetype": "Epic",
       "created": "2026-11-09",
-      "updated": "2026-11-16",
+      "updated": "2026-11-18",
       "resolutiondate": "",
       "labels": [
         "Ralph-Lauren",
@@ -1418,12 +1686,12 @@
     {
       "key": "PS-6722",
       "summary": "Assegur - AI Agent for Accidentes Campaign",
-      "status": "Ready for review",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Julieta Mezza",
       "issuetype": "Task",
       "created": "2026-11-03",
-      "updated": "2026-11-16",
+      "updated": "2026-11-18",
       "resolutiondate": "",
       "labels": [
         "Assegur"
@@ -2701,13 +2969,13 @@
     },
     {
       "key": "PS-6627",
-      "summary": "Netberry COFA - Etiquetar tickets de Zendesk cuando la conversación se escala a un agente humano",
-      "status": "Open",
-      "status_category": "To Do",
+      "summary": "Estimate - Netberry COFA - Etiquetar tickets de Zendesk cuando la conversación se escala a un agente humano",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Pep Alonso",
       "issuetype": "Task",
       "created": "2026-10-26",
-      "updated": "2026-11-02",
+      "updated": "2026-11-18",
       "resolutiondate": "",
       "labels": [
         "NetBerry_COFA"
@@ -9937,12 +10205,12 @@
     {
       "key": "PS-6091",
       "summary": "Allianz ES - Quote&Buy website",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Closed",
+      "status_category": "Done",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-08-13",
-      "updated": "2026-10-12",
+      "updated": "2026-11-18",
       "resolutiondate": "",
       "labels": [
         "Allianz"
@@ -36495,12 +36763,12 @@
     {
       "key": "PS-4020",
       "summary": "Air Europa - Consultar Perfil - Design ",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "In Progress",
+      "status_category": "In Progress",
       "assignee": "Vicky Correbo",
       "issuetype": "Task",
       "created": "2025-05-26",
-      "updated": "2026-11-16",
+      "updated": "2026-11-18",
       "resolutiondate": "",
       "labels": [
         "AirEuropa"
