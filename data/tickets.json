@@ -1,6 +1,48 @@
 {
-  "last_updated": "2026-11-18 16:09 UTC",
+  "last_updated": "2026-11-19 16:16 UTC",
   "tickets": [
+    {
+      "key": "PS-6851",
+      "summary": "Prompt Soledad - Prompt delivering raw buttons",
+      "status": "In Progress",
+      "status_category": "In Progress",
+      "assignee": "irene callejas",
+      "issuetype": "Bug",
+      "created": "2026-11-19",
+      "updated": "2026-11-19",
+      "resolutiondate": "",
+      "labels": [
+        "Soledad"
+      ]
+    },
+    {
+      "key": "PS-6850",
+      "summary": "Ralph Lauren - obtain tracking results Bicester 1",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Lorena Sánchez-Toril Nicolás",
+      "issuetype": "Task",
+      "created": "2026-11-19",
+      "updated": "2026-11-19",
+      "resolutiondate": "",
+      "labels": [
+        "Ralph_Lauren"
+      ]
+    },
+    {
+      "key": "PS-6849",
+      "summary": "Ralph Lauren - track links for Bicester 2 campaign",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Lorena Sánchez-Toril Nicolás",
+      "issuetype": "Task",
+      "created": "2026-11-19",
+      "updated": "2026-11-19",
+      "resolutiondate": "",
+      "labels": [
+        "Ralph_Lauren"
+      ]
+    },
     {
       "key": "PS-6848",
       "summary": "Rag&Bone - Add Catalán-Vasco-Gallego in flowbuilder",
@@ -25,7 +67,9 @@
       "created": "2026-11-18",
       "updated": "2026-11-18",
       "resolutiondate": "",
-      "labels": []
+      "labels": [
+        "Guess"
+      ]
     },
     {
       "key": "PS-6846",
@@ -99,15 +143,17 @@
     },
     {
       "key": "PS-6841",
-      "summary": "Move /euroriente to /euroriente/customer-service",
-      "status": "In Progress",
+      "summary": "Euroriente - Move, inside the monorepo /bots-definition, /euroriente to new folder /euroriente/customer-service",
+      "status": "Ready for review",
       "status_category": "In Progress",
       "assignee": "Marco Gallego Ropero",
       "issuetype": "Task",
       "created": "2026-11-18",
-      "updated": "2026-11-18",
+      "updated": "2026-11-19",
       "resolutiondate": "",
-      "labels": []
+      "labels": [
+        "Euroriente"
+      ]
     },
     {
       "key": "PS-6840",
@@ -266,12 +312,12 @@
     {
       "key": "PS-6829",
       "summary": "Rag&Bone - Set a fallback country (\"US\") to be sent to Salesforce",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "In Progress",
+      "status_category": "In Progress",
       "assignee": "Marco Gallego Ropero",
       "issuetype": "Discovery Task",
       "created": "2026-11-17",
-      "updated": "2026-11-17",
+      "updated": "2026-11-19",
       "resolutiondate": "",
       "labels": [
         "Rag&Bone"
@@ -422,10 +468,10 @@
       "summary": "Air Europa - Configure variable with estimated waiting time in Flow builder",
       "status": "To Do",
       "status_category": "To Do",
-      "assignee": "Adrià Sastre",
+      "assignee": "Marco Gallego Ropero",
       "issuetype": "Task",
       "created": "2026-11-17",
-      "updated": "2026-11-17",
+      "updated": "2026-11-19",
       "resolutiondate": "",
       "labels": [
         "AirEuropa"
@@ -478,12 +524,12 @@
     {
       "key": "PS-6814",
       "summary": "Ralph Lauren - online codes for BF",
-      "status": "In production",
+      "status": "Done",
       "status_category": "Done",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-11-16",
-      "updated": "2026-11-17",
+      "updated": "2026-11-19",
       "resolutiondate": "",
       "labels": [
         "Ralph_Lauren"
@@ -564,12 +610,12 @@
     {
       "key": "PS-6808",
       "summary": "Retorna - Update Staging bot version to 0.58",
-      "status": "In production",
+      "status": "Done",
       "status_category": "Done",
       "assignee": "Francisca Martelli",
       "issuetype": "Task",
       "created": "2026-11-16",
-      "updated": "2026-11-16",
+      "updated": "2026-11-18",
       "resolutiondate": "",
       "labels": [
         "Retorna"
@@ -788,12 +834,12 @@
     {
       "key": "PS-6790",
       "summary": "Allianz Spain - Actualización a Botonic 0.58",
-      "status": "In production",
+      "status": "Done",
       "status_category": "Done",
       "assignee": "Adrià Sastre",
       "issuetype": "Task",
       "created": "2026-11-12",
-      "updated": "2026-11-16",
+      "updated": "2026-11-18",
       "resolutiondate": "",
       "labels": [
         "Allianz"
@@ -1383,7 +1429,7 @@
       "assignee": "Pep Alonso",
       "issuetype": "Task",
       "created": "2026-11-05",
-      "updated": "2026-11-12",
+      "updated": "2026-11-19",
       "resolutiondate": "",
       "labels": [
         "Euroriente"
@@ -1518,12 +1564,12 @@
     {
       "key": "PS-6736",
       "summary": "Tendam - Canal consumidores vulnerables - Añadir campo consumidorVulnerable al JSON de cierre de caso enviado a InConcert",
-      "status": "In Progress",
+      "status": "Ready for review",
       "status_category": "In Progress",
       "assignee": "Marco Gallego Ropero",
       "issuetype": "Task",
       "created": "2026-11-04",
-      "updated": "2026-11-16",
+      "updated": "2026-11-19",
       "resolutiondate": "",
       "labels": [
         "Tendam"
@@ -1630,12 +1676,12 @@
     {
       "key": "PS-6726",
       "summary": "Retorna - Integrate endpoint for case notifications",
-      "status": "Ready to Deliver",
-      "status_category": "In Progress",
+      "status": "In production",
+      "status_category": "Done",
       "assignee": "Marco Gallego Ropero",
       "issuetype": "Task",
       "created": "2026-11-04",
-      "updated": "2026-11-16",
+      "updated": "2026-11-19",
       "resolutiondate": "",
       "labels": [
         "Retorna"
@@ -2187,13 +2233,13 @@
     },
     {
       "key": "PS-6685",
-      "summary": "DABA - WISMO get client data by id (2nd part)",
-      "status": "To Do",
-      "status_category": "To Do",
+      "summary": "DABA - WISMO get client info (2nd part)",
+      "status": "In Progress",
+      "status_category": "In Progress",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-10-29",
-      "updated": "2026-11-16",
+      "updated": "2026-11-19",
       "resolutiondate": "",
       "labels": [
         "DABA"
@@ -4545,12 +4591,12 @@
     {
       "key": "PS-6506",
       "summary": "Euroriente - Middleware de envío de plantilla de bienvenida (Juniper → WhatsApp)",
-      "status": "Ready for review",
+      "status": "Ready to Deliver",
       "status_category": "In Progress",
       "assignee": "Pep Alonso",
       "issuetype": "Sub-task",
       "created": "2026-10-13",
-      "updated": "2026-10-29",
+      "updated": "2026-11-19",
       "resolutiondate": "",
       "labels": [
         "Euroriente"
