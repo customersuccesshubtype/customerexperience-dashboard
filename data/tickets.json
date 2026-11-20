@@ -1,6 +1,102 @@
 {
-  "last_updated": "2026-11-19 16:16 UTC",
+  "last_updated": "2026-11-20 15:54 UTC",
   "tickets": [
+    {
+      "key": "PS-6859",
+      "summary": "Bot Template - Add core AI Agent tools by default in bot template",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Marco Gallego Ropero",
+      "issuetype": "Discovery Task",
+      "created": "2026-11-20",
+      "updated": "2026-11-20",
+      "resolutiondate": "",
+      "labels": [
+        "Internal"
+      ]
+    },
+    {
+      "key": "PS-6858",
+      "summary": "Bot-core - Add shared AI Agent tools",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Marco Gallego Ropero",
+      "issuetype": "Task",
+      "created": "2026-11-20",
+      "updated": "2026-11-20",
+      "resolutiondate": "",
+      "labels": [
+        "Internal"
+      ]
+    },
+    {
+      "key": "PS-6857",
+      "summary": "Jetsmart - Edit handoff nodes to include template for discarded in bulk cases",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Aitor Casas",
+      "issuetype": "Task",
+      "created": "2026-11-20",
+      "updated": "2026-11-20",
+      "resolutiondate": "",
+      "labels": [
+        "JetSmart"
+      ]
+    },
+    {
+      "key": "PS-6856",
+      "summary": "DABA - Tool para ofrecer handoff solo en horario de atención",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "irene callejas",
+      "issuetype": "Task",
+      "created": "2026-11-20",
+      "updated": "2026-11-20",
+      "resolutiondate": "",
+      "labels": [
+        "DABA"
+      ]
+    },
+    {
+      "key": "PS-6855",
+      "summary": "Guess - Fix resolving case without contact reason",
+      "status": "Ready for review",
+      "status_category": "In Progress",
+      "assignee": "Marco Gallego Ropero",
+      "issuetype": "Task",
+      "created": "2026-11-20",
+      "updated": "2026-11-20",
+      "resolutiondate": "",
+      "labels": []
+    },
+    {
+      "key": "PS-6853",
+      "summary": "Soledad - open direct payment gateaway",
+      "status": "In Progress",
+      "status_category": "In Progress",
+      "assignee": "Lorena Sánchez-Toril Nicolás",
+      "issuetype": "Task",
+      "created": "2026-11-20",
+      "updated": "2026-11-20",
+      "resolutiondate": "",
+      "labels": [
+        "Soledad"
+      ]
+    },
+    {
+      "key": "PS-6852",
+      "summary": "Soledad - remove modal ",
+      "status": "In Progress",
+      "status_category": "In Progress",
+      "assignee": "Lorena Sánchez-Toril Nicolás",
+      "issuetype": "Task",
+      "created": "2026-11-20",
+      "updated": "2026-11-20",
+      "resolutiondate": "",
+      "labels": [
+        "Soledad"
+      ]
+    },
     {
       "key": "PS-6851",
       "summary": "Prompt Soledad - Prompt delivering raw buttons",
@@ -9,7 +105,7 @@
       "assignee": "irene callejas",
       "issuetype": "Bug",
       "created": "2026-11-19",
-      "updated": "2026-11-19",
+      "updated": "2026-11-20",
       "resolutiondate": "",
       "labels": [
         "Soledad"
@@ -18,12 +114,12 @@
     {
       "key": "PS-6850",
       "summary": "Ralph Lauren - obtain tracking results Bicester 1",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Ready for review",
+      "status_category": "In Progress",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-11-19",
-      "updated": "2026-11-19",
+      "updated": "2026-11-20",
       "resolutiondate": "",
       "labels": [
         "Ralph_Lauren"
@@ -32,12 +128,12 @@
     {
       "key": "PS-6849",
       "summary": "Ralph Lauren - track links for Bicester 2 campaign",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Ready for review",
+      "status_category": "In Progress",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-11-19",
-      "updated": "2026-11-19",
+      "updated": "2026-11-20",
       "resolutiondate": "",
       "labels": [
         "Ralph_Lauren"
@@ -312,12 +408,12 @@
     {
       "key": "PS-6829",
       "summary": "Rag&Bone - Set a fallback country (\"US\") to be sent to Salesforce",
-      "status": "In Progress",
+      "status": "Ready for review",
       "status_category": "In Progress",
       "assignee": "Marco Gallego Ropero",
-      "issuetype": "Discovery Task",
+      "issuetype": "Task",
       "created": "2026-11-17",
-      "updated": "2026-11-19",
+      "updated": "2026-11-20",
       "resolutiondate": "",
       "labels": [
         "Rag&Bone"
@@ -466,12 +562,12 @@
     {
       "key": "PS-6818",
       "summary": "Air Europa - Configure variable with estimated waiting time in Flow builder",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "In Progress",
+      "status_category": "In Progress",
       "assignee": "Marco Gallego Ropero",
       "issuetype": "Task",
       "created": "2026-11-17",
-      "updated": "2026-11-19",
+      "updated": "2026-11-20",
       "resolutiondate": "",
       "labels": [
         "AirEuropa"
@@ -508,12 +604,12 @@
     {
       "key": "PS-6815",
       "summary": "Ralph Lauren -  Black Friday - Update Campaign context",
-      "status": "In Progress",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Andrea Talal Haidar",
       "issuetype": "Task",
       "created": "2026-11-16",
-      "updated": "2026-11-18",
+      "updated": "2026-11-20",
       "resolutiondate": "",
       "labels": [
         "Ralph-Lauren",
@@ -566,12 +662,12 @@
     {
       "key": "PS-6811",
       "summary": "Ralph Lauren - Bicester 2: Holiday Workshops Set Up",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "In Progress",
+      "status_category": "In Progress",
       "assignee": "Andrea Talal Haidar",
       "issuetype": "Task",
       "created": "2026-11-16",
-      "updated": "2026-11-18",
+      "updated": "2026-11-20",
       "resolutiondate": "",
       "labels": [
         "Ralph-Lauren",
@@ -1306,12 +1402,12 @@
     {
       "key": "PS-6755",
       "summary": "Ralph Lauren - Black Friday Campaign Set Up",
-      "status": "In Review",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-11-09",
-      "updated": "2026-11-18",
+      "updated": "2026-11-20",
       "resolutiondate": "",
       "labels": [
         "Ralph-Lauren",
@@ -1396,12 +1492,12 @@
     {
       "key": "PS-6749",
       "summary": "Fenie Energia - SF Integration At Cliente Bot",
-      "status": "In Review",
+      "status": "Ready to Deliver",
       "status_category": "In Progress",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-11-06",
-      "updated": "2026-11-13",
+      "updated": "2026-11-20",
       "resolutiondate": "",
       "labels": [
         "FenieEnergia"
@@ -2233,13 +2329,13 @@
     },
     {
       "key": "PS-6685",
-      "summary": "DABA - WISMO get client info (2nd part)",
+      "summary": "DABA - WISMO get client info ",
       "status": "In Progress",
       "status_category": "In Progress",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-10-29",
-      "updated": "2026-11-19",
+      "updated": "2026-11-20",
       "resolutiondate": "",
       "labels": [
         "DABA"
@@ -3077,7 +3173,7 @@
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-10-24",
-      "updated": "2026-11-16",
+      "updated": "2026-11-19",
       "resolutiondate": "",
       "labels": [
         "Michael-Kors"
