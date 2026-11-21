@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-20 15:54 UTC",
+  "last_updated": "2026-11-21 15:04 UTC",
   "tickets": [
     {
       "key": "PS-6859",
@@ -56,18 +56,6 @@
       "labels": [
         "DABA"
       ]
-    },
-    {
-      "key": "PS-6855",
-      "summary": "Guess - Fix resolving case without contact reason",
-      "status": "Ready for review",
-      "status_category": "In Progress",
-      "assignee": "Marco Gallego Ropero",
-      "issuetype": "Task",
-      "created": "2026-11-20",
-      "updated": "2026-11-20",
-      "resolutiondate": "",
-      "labels": []
     },
     {
       "key": "PS-6853",
@@ -352,12 +340,12 @@
     {
       "key": "PS-6833",
       "summary": "Euroriente - Desplegar bot de staging y bot de producción",
-      "status": "In production",
+      "status": "Done",
       "status_category": "Done",
       "assignee": "Marco Gallego Ropero",
       "issuetype": "Task",
       "created": "2026-11-18",
-      "updated": "2026-11-18",
+      "updated": "2026-11-20",
       "resolutiondate": "",
       "labels": [
         "Euroriente"
