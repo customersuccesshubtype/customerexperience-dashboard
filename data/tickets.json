@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-21 15:04 UTC",
+  "last_updated": "2026-11-22 15:01 UTC",
   "tickets": [
     {
       "key": "PS-6859",
@@ -624,10 +624,10 @@
       "summary": "Tendam - Consumidores Vulnerables - guardar la marca seleccionada por el usuario en un campo concreto",
       "status": "To Do",
       "status_category": "To Do",
-      "assignee": null,
+      "assignee": "Marco Gallego Ropero",
       "issuetype": "Task",
       "created": "2026-11-16",
-      "updated": "2026-11-16",
+      "updated": "2026-11-22",
       "resolutiondate": "",
       "labels": [
         "Tendam"
@@ -1760,12 +1760,12 @@
     {
       "key": "PS-6726",
       "summary": "Retorna - Integrate endpoint for case notifications",
-      "status": "In production",
+      "status": "Done",
       "status_category": "Done",
       "assignee": "Marco Gallego Ropero",
       "issuetype": "Task",
       "created": "2026-11-04",
-      "updated": "2026-11-19",
+      "updated": "2026-11-21",
       "resolutiondate": "",
       "labels": [
         "Retorna"
