@@ -1,6 +1,20 @@
 {
-  "last_updated": "2026-11-22 15:01 UTC",
+  "last_updated": "2026-11-23 18:57 UTC",
   "tickets": [
+    {
+      "key": "PS-6860",
+      "summary": "Generalitat Turisme - Knowledge base not returning the updated Figueres documentation",
+      "status": "Open",
+      "status_category": "To Do",
+      "assignee": "irene callejas",
+      "issuetype": "Bug",
+      "created": "2026-11-23",
+      "updated": "2026-11-23",
+      "resolutiondate": "",
+      "labels": [
+        "Generalitat-Turisme"
+      ]
+    },
     {
       "key": "PS-6859",
       "summary": "Bot Template - Add core AI Agent tools by default in bot template",
@@ -32,12 +46,12 @@
     {
       "key": "PS-6857",
       "summary": "Jetsmart - Edit handoff nodes to include template for discarded in bulk cases",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Ready for review",
+      "status_category": "In Progress",
       "assignee": "Aitor Casas",
       "issuetype": "Task",
       "created": "2026-11-20",
-      "updated": "2026-11-20",
+      "updated": "2026-11-23",
       "resolutiondate": "",
       "labels": [
         "JetSmart"
@@ -46,12 +60,12 @@
     {
       "key": "PS-6856",
       "summary": "DABA - Tool para ofrecer handoff solo en horario de atención",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Ready to Deliver",
+      "status_category": "In Progress",
       "assignee": "irene callejas",
       "issuetype": "Task",
       "created": "2026-11-20",
-      "updated": "2026-11-20",
+      "updated": "2026-11-23",
       "resolutiondate": "",
       "labels": [
         "DABA"
@@ -60,12 +74,12 @@
     {
       "key": "PS-6853",
       "summary": "Soledad - open direct payment gateaway",
-      "status": "In Progress",
+      "status": "Ready for review",
       "status_category": "In Progress",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-11-20",
-      "updated": "2026-11-20",
+      "updated": "2026-11-23",
       "resolutiondate": "",
       "labels": [
         "Soledad"
@@ -74,12 +88,12 @@
     {
       "key": "PS-6852",
       "summary": "Soledad - remove modal ",
-      "status": "In Progress",
+      "status": "Ready for review",
       "status_category": "In Progress",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-11-20",
-      "updated": "2026-11-20",
+      "updated": "2026-11-23",
       "resolutiondate": "",
       "labels": [
         "Soledad"
@@ -88,12 +102,12 @@
     {
       "key": "PS-6851",
       "summary": "Prompt Soledad - Prompt delivering raw buttons",
-      "status": "In Progress",
+      "status": "Ready for review",
       "status_category": "In Progress",
       "assignee": "irene callejas",
       "issuetype": "Bug",
       "created": "2026-11-19",
-      "updated": "2026-11-20",
+      "updated": "2026-11-23",
       "resolutiondate": "",
       "labels": [
         "Soledad"
@@ -102,12 +116,12 @@
     {
       "key": "PS-6850",
       "summary": "Ralph Lauren - obtain tracking results Bicester 1",
-      "status": "Ready for review",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-11-19",
-      "updated": "2026-11-20",
+      "updated": "2026-11-23",
       "resolutiondate": "",
       "labels": [
         "Ralph_Lauren"
@@ -116,12 +130,12 @@
     {
       "key": "PS-6849",
       "summary": "Ralph Lauren - track links for Bicester 2 campaign",
-      "status": "Ready for review",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-11-19",
-      "updated": "2026-11-20",
+      "updated": "2026-11-23",
       "resolutiondate": "",
       "labels": [
         "Ralph_Lauren"
@@ -135,7 +149,7 @@
       "assignee": "Francisca Martelli",
       "issuetype": "Task",
       "created": "2026-11-18",
-      "updated": "2026-11-18",
+      "updated": "2026-11-22",
       "resolutiondate": "",
       "labels": [
         "Rag&Bone"
@@ -149,7 +163,7 @@
       "assignee": "Francisca Martelli",
       "issuetype": "Task",
       "created": "2026-11-18",
-      "updated": "2026-11-18",
+      "updated": "2026-11-22",
       "resolutiondate": "",
       "labels": [
         "Guess"
@@ -214,12 +228,12 @@
     {
       "key": "PS-6842",
       "summary": "GUESS - Update Staging bot version to 0.58",
-      "status": "Ready for review",
-      "status_category": "In Progress",
+      "status": "APPROVED FOR PRODUCTION",
+      "status_category": "Done",
       "assignee": "Francisca Martelli",
       "issuetype": "Task",
       "created": "2026-11-18",
-      "updated": "2026-11-18",
+      "updated": "2026-11-23",
       "resolutiondate": "",
       "labels": [
         "Guess"
@@ -312,12 +326,12 @@
     {
       "key": "PS-6835",
       "summary": "DABA - Configure logic to enroute handoff to queues in Genesys",
-      "status": "Ready for review",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-11-18",
-      "updated": "2026-11-18",
+      "updated": "2026-11-23",
       "resolutiondate": "",
       "labels": [
         "DABA"
@@ -354,12 +368,12 @@
     {
       "key": "PS-6832",
       "summary": "Euroriente Fase 2 - Bot B2B (Agencias)",
-      "status": "Open",
-      "status_category": "To Do",
+      "status": "In Progress",
+      "status_category": "In Progress",
       "assignee": "Marta Marron",
       "issuetype": "Epic",
       "created": "2026-11-18",
-      "updated": "2026-11-18",
+      "updated": "2026-11-22",
       "resolutiondate": "",
       "labels": [
         "Euroriente"
@@ -368,12 +382,12 @@
     {
       "key": "PS-6831",
       "summary": "Assegur - AI Agent for Accidentes",
-      "status": "Open",
-      "status_category": "To Do",
+      "status": "In Progress",
+      "status_category": "In Progress",
       "assignee": "Julieta Mezza",
       "issuetype": "Epic",
       "created": "2026-11-18",
-      "updated": "2026-11-18",
+      "updated": "2026-11-22",
       "resolutiondate": "",
       "labels": [
         "Assegur"
@@ -401,7 +415,7 @@
       "assignee": "Marco Gallego Ropero",
       "issuetype": "Task",
       "created": "2026-11-17",
-      "updated": "2026-11-20",
+      "updated": "2026-11-23",
       "resolutiondate": "",
       "labels": [
         "Rag&Bone"
@@ -429,7 +443,7 @@
       "assignee": "Marco Gallego Ropero",
       "issuetype": "Task",
       "created": "2026-11-17",
-      "updated": "2026-11-17",
+      "updated": "2026-11-23",
       "resolutiondate": "",
       "labels": [
         "Verisure-FR"
@@ -438,12 +452,12 @@
     {
       "key": "PS-6826",
       "summary": "All clients - Move remaining agents from 5.4 to Luna",
-      "status": "In Progress",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "irene callejas",
       "issuetype": "Task",
       "created": "2026-11-17",
-      "updated": "2026-11-17",
+      "updated": "2026-11-23",
       "resolutiondate": "",
       "labels": [
         "Internal"
@@ -522,12 +536,12 @@
     {
       "key": "PS-6820",
       "summary": "Verisure France - Retention project (Campaigns V2)",
-      "status": "Open",
-      "status_category": "To Do",
+      "status": "In Progress",
+      "status_category": "In Progress",
       "assignee": "Marta Marron",
       "issuetype": "Epic",
       "created": "2026-11-17",
-      "updated": "2026-11-17",
+      "updated": "2026-11-22",
       "resolutiondate": "",
       "labels": [
         "Verisure-FR"
@@ -622,12 +636,12 @@
     {
       "key": "PS-6813",
       "summary": "Tendam - Consumidores Vulnerables - guardar la marca seleccionada por el usuario en un campo concreto",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Ready for review",
+      "status_category": "In Progress",
       "assignee": "Marco Gallego Ropero",
       "issuetype": "Task",
       "created": "2026-11-16",
-      "updated": "2026-11-22",
+      "updated": "2026-11-23",
       "resolutiondate": "",
       "labels": [
         "Tendam"
@@ -635,13 +649,13 @@
     },
     {
       "key": "PS-6812",
-      "summary": "Tendam - Canal consumidores vulnerables - Montar snippet",
+      "summary": "Tendam - Canal consumidores vulnerables - Update webchat + snippet",
       "status": "To Do",
       "status_category": "To Do",
-      "assignee": null,
+      "assignee": "Marco Gallego Ropero",
       "issuetype": "Task",
       "created": "2026-11-16",
-      "updated": "2026-11-16",
+      "updated": "2026-11-23",
       "resolutiondate": "",
       "labels": [
         "Tendam"
@@ -722,12 +736,12 @@
     {
       "key": "PS-6806",
       "summary": "DABA - Create Webchat Proposal",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "In Progress",
+      "status_category": "In Progress",
       "assignee": "Francisca Martelli",
       "issuetype": "Task",
       "created": "2026-11-13",
-      "updated": "2026-11-13",
+      "updated": "2026-11-23",
       "resolutiondate": "",
       "labels": [
         "DABA"
@@ -736,12 +750,12 @@
     {
       "key": "PS-6805",
       "summary": "Retorna - Brainstorm ways to send proactive messages to identified users on their App",
-      "status": "In Progress",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Adrià Sastre",
       "issuetype": "Discovery Task",
       "created": "2026-11-13",
-      "updated": "2026-11-16",
+      "updated": "2026-11-23",
       "resolutiondate": "",
       "labels": [
         "Retorna"
@@ -778,12 +792,12 @@
     {
       "key": "PS-6802",
       "summary": "Retorna - Add Ecuador as new operating country",
-      "status": "Ready to Deliver",
-      "status_category": "In Progress",
+      "status": "In production",
+      "status_category": "Done",
       "assignee": "AI Agent Delivery",
       "issuetype": "Task",
       "created": "2026-11-13",
-      "updated": "2026-11-16",
+      "updated": "2026-11-23",
       "resolutiondate": "",
       "labels": [
         "Retorna"
@@ -806,12 +820,12 @@
     {
       "key": "PS-6799",
       "summary": "DABA - for audios add transcription- message",
-      "status": "Ready for review",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-11-12",
-      "updated": "2026-11-13",
+      "updated": "2026-11-23",
       "resolutiondate": "",
       "labels": [
         "DABA"
@@ -986,12 +1000,12 @@
     {
       "key": "PS-6785",
       "summary": "Jetsmart - Compra de tickets - Ajuste precio bundles",
-      "status": "Ready for review",
+      "status": "Ready to Deliver",
       "status_category": "In Progress",
       "assignee": "Pep Alonso",
       "issuetype": "Task",
       "created": "2026-11-11",
-      "updated": "2026-11-17",
+      "updated": "2026-11-23",
       "resolutiondate": "",
       "labels": [
         "JetSmart"
@@ -1042,12 +1056,12 @@
     {
       "key": "PS-6781",
       "summary": "DABA - New WISMO Implementation",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "In Progress",
+      "status_category": "In Progress",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Epic",
       "created": "2026-11-11",
-      "updated": "2026-11-16",
+      "updated": "2026-11-23",
       "resolutiondate": "",
       "labels": [
         "DABA"
@@ -1070,12 +1084,12 @@
     {
       "key": "PS-6779",
       "summary": "Handoff a agente gestionado siempre por el AI Agent (evitar el traspaso a la primera)",
-      "status": "In Progress",
-      "status_category": "In Progress",
+      "status": "Closed",
+      "status_category": "Done",
       "assignee": "irene callejas",
       "issuetype": "Task",
       "created": "2026-11-11",
-      "updated": "2026-11-15",
+      "updated": "2026-11-23",
       "resolutiondate": "",
       "labels": [
         "all_clients"
@@ -1098,12 +1112,12 @@
     {
       "key": "PS-6777",
       "summary": "Jetsmart - Proyecto agencias - Share AWS resources with original bot",
-      "status": "Ready for review",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Pep Alonso",
       "issuetype": "Task",
       "created": "2026-11-11",
-      "updated": "2026-11-18",
+      "updated": "2026-11-23",
       "resolutiondate": "",
       "labels": [
         "JetSmart"
@@ -1182,12 +1196,12 @@
     {
       "key": "PS-6771",
       "summary": "Jetsmart - Proyecto Agencias - Webview Estado de Reserva",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Ready for review",
+      "status_category": "In Progress",
       "assignee": "Pep Alonso",
       "issuetype": "Task",
       "created": "2026-11-11",
-      "updated": "2026-11-16",
+      "updated": "2026-11-23",
       "resolutiondate": "",
       "labels": [
         "JetSmart"
@@ -1422,12 +1436,12 @@
     {
       "key": "PS-6753",
       "summary": "Michael Kors: envío de warranty emails",
-      "status": "Open",
-      "status_category": "To Do",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Epic",
       "created": "2026-11-09",
-      "updated": "2026-11-12",
+      "updated": "2026-11-23",
       "resolutiondate": "",
       "labels": [
         "Michael-Kors"
@@ -1590,12 +1604,12 @@
     {
       "key": "PS-6740",
       "summary": "Ralph Lauren - Carousel guardrail drops returned products and the agent says it found nothing",
-      "status": "Ready to Deliver",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "irene callejas",
       "issuetype": "Bug",
       "created": "2026-11-05",
-      "updated": "2026-11-16",
+      "updated": "2026-11-23",
       "resolutiondate": "",
       "labels": [
         "Ralph_Lauren"
@@ -1704,12 +1718,12 @@
     {
       "key": "PS-6731",
       "summary": "MK – Alerta en el dashboard de reporting si dejan de salir los emails de garantía",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Marta Marron",
       "issuetype": "Task",
       "created": "2026-11-04",
-      "updated": "2026-11-09",
+      "updated": "2026-11-23",
       "resolutiondate": "",
       "labels": [
         "MichaelKors"
@@ -1858,12 +1872,12 @@
     {
       "key": "PS-6719",
       "summary": "DABA - Registrar en Tinybird las respuestas de la encuesta de Rating",
-      "status": "Ready for review",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "AI Agent Delivery",
       "issuetype": "Task",
       "created": "2026-11-03",
-      "updated": "2026-11-16",
+      "updated": "2026-11-23",
       "resolutiondate": "",
       "labels": [
         "DABA"
@@ -1886,12 +1900,12 @@
     {
       "key": "PS-6717",
       "summary": "Allianz ES - Cita Talleres Excelentes - Campañas V2",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "In Progress",
+      "status_category": "In Progress",
       "assignee": "Marta Marron",
       "issuetype": "Epic",
       "created": "2026-11-02",
-      "updated": "2026-11-07",
+      "updated": "2026-11-22",
       "resolutiondate": "",
       "labels": [
         "Allianz"
@@ -1942,12 +1956,12 @@
     {
       "key": "PS-6713",
       "summary": "Michael Kors- email issue",
-      "status": "Ready for review",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-11-02",
-      "updated": "2026-11-09",
+      "updated": "2026-11-23",
       "resolutiondate": "",
       "labels": [
         "Michael-Kors"
@@ -2096,12 +2110,12 @@
     {
       "key": "PS-6702",
       "summary": "Tendam - Canal Atención Personas Consumidoras Vulnerables (Ley SAC)",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "In Progress",
+      "status_category": "In Progress",
       "assignee": "Marta Marron",
       "issuetype": "Epic",
       "created": "2026-10-30",
-      "updated": "2026-10-30",
+      "updated": "2026-11-22",
       "resolutiondate": "",
       "labels": [
         "Tendam"
@@ -2332,12 +2346,12 @@
     {
       "key": "PS-6684",
       "summary": "DABA - WISMO Authentication and get client by telephone (1st part)",
-      "status": "Ready for review",
+      "status": "Ready to Deliver",
       "status_category": "In Progress",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-10-29",
-      "updated": "2026-11-16",
+      "updated": "2026-11-23",
       "resolutiondate": "",
       "labels": [
         "DABA"
@@ -2892,12 +2906,12 @@
     {
       "key": "PS-6642",
       "summary": "VGRS - Campaings",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Julieta Mezza",
       "issuetype": "Epic",
       "created": "2026-10-27",
-      "updated": "2026-11-16",
+      "updated": "2026-11-22",
       "resolutiondate": "",
       "labels": [
         "VGRS"
@@ -2990,12 +3004,12 @@
     {
       "key": "PS-6635",
       "summary": "All Clients - AI agent handoff: check queue status (open/closed) before transferring",
-      "status": "Ready to Deliver",
-      "status_category": "In Progress",
+      "status": "Closed",
+      "status_category": "Done",
       "assignee": "irene callejas",
       "issuetype": "Task",
       "created": "2026-10-26",
-      "updated": "2026-11-05",
+      "updated": "2026-11-23",
       "resolutiondate": "",
       "labels": [
         "all_clients"
@@ -3018,12 +3032,12 @@
     {
       "key": "PS-6633",
       "summary": "Daba- add in the transcript messages from agent",
-      "status": "Ready for review",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-10-26",
-      "updated": "2026-10-27",
+      "updated": "2026-11-23",
       "resolutiondate": "",
       "labels": [
         "DABA"
@@ -3380,12 +3394,12 @@
     {
       "key": "PS-6605",
       "summary": "DABA  - queue genesys prod",
-      "status": "Ready for review",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-10-23",
-      "updated": "2026-10-27",
+      "updated": "2026-11-23",
       "resolutiondate": "",
       "labels": [
         "DABA"
@@ -4745,12 +4759,12 @@
     {
       "key": "PS-6501",
       "summary": "DABA - WISMO AI Agent: implement order tools and prompt (after client validates flow)",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "In Progress",
+      "status_category": "In Progress",
       "assignee": "irene callejas",
       "issuetype": "Task",
       "created": "2026-10-13",
-      "updated": "2026-11-16",
+      "updated": "2026-11-23",
       "resolutiondate": "",
       "labels": [
         "DABA"
@@ -4787,12 +4801,12 @@
     {
       "key": "PS-6498",
       "summary": "Multiasistencia – Bienvenida de WhatsApp demasiado larga: no se fusiona con el menú (MULTI_SANTANDER_PROD)",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Closed",
+      "status_category": "Done",
       "assignee": "Marta Marron",
       "issuetype": "Task",
       "created": "2026-10-13",
-      "updated": "2026-11-07",
+      "updated": "2026-11-22",
       "resolutiondate": "",
       "labels": [
         "Multiasistencia"
@@ -4834,7 +4848,7 @@
       "assignee": "Francisca Martelli",
       "issuetype": "Epic",
       "created": "2026-10-12",
-      "updated": "2026-10-15",
+      "updated": "2026-11-22",
       "resolutiondate": "",
       "labels": [
         "Ralph_Lauren"
@@ -4941,12 +4955,12 @@
     {
       "key": "PS-6485",
       "summary": "DABA - Open Messaging, Expose Hubtype webhooks",
-      "status": "Open",
-      "status_category": "To Do",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": null,
       "issuetype": "Task",
       "created": "2026-10-09",
-      "updated": "2026-10-13",
+      "updated": "2026-11-23",
       "resolutiondate": "",
       "labels": [
         "DABA"
@@ -4955,12 +4969,12 @@
     {
       "key": "PS-6484",
       "summary": "DABA - Open Messaging integration",
-      "status": "Ready for review",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-10-09",
-      "updated": "2026-10-26",
+      "updated": "2026-11-23",
       "resolutiondate": "",
       "labels": [
         "DABA"
@@ -5991,12 +6005,12 @@
     {
       "key": "PS-6407",
       "summary": "Tendam - Analizar cuántos clientes de WhatsApp tienen email y qué supone pedirlo",
-      "status": "Waiting for customer",
-      "status_category": "In Progress",
+      "status": "Closed",
+      "status_category": "Done",
       "assignee": "Marta Marron",
       "issuetype": "Task",
       "created": "2026-10-02",
-      "updated": "2026-10-17",
+      "updated": "2026-11-22",
       "resolutiondate": "",
       "labels": [
         "Tendam"
@@ -6373,12 +6387,12 @@
     {
       "key": "PS-6380",
       "summary": "Alsa - Estudiar la integración de Facebook Messenger e Instagram",
-      "status": "In Progress",
-      "status_category": "In Progress",
+      "status": "Closed",
+      "status_category": "Done",
       "assignee": "Marta Marron",
       "issuetype": "Discovery Task",
       "created": "2026-09-30",
-      "updated": "2026-10-12",
+      "updated": "2026-11-22",
       "resolutiondate": "",
       "labels": [
         "Alsa"
@@ -7652,12 +7666,12 @@
     {
       "key": "PS-6289",
       "summary": "SegurCaixa Adeslas - Confirmar las opciones de acceso directo al webchat sin web propia.",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Closed",
+      "status_category": "Done",
       "assignee": "Adrià Sastre",
       "issuetype": "Discovery Task",
       "created": "2026-09-18",
-      "updated": "2026-11-09",
+      "updated": "2026-11-22",
       "resolutiondate": "",
       "labels": [
         "SegurCaixa"
