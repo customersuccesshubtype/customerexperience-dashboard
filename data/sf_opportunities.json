@@ -1,6 +1,40 @@
 {
-  "last_updated": "2026-11-22 15:17 UTC",
+  "last_updated": "2026-11-23 19:14 UTC",
   "opportunities": [
+    {
+      "id": "006Sa00000tj7iRIAQ",
+      "name": "2027-R-RACC-CA(WhatsApp, Webchat) - Servei Eficiència Energètica i AI Alma",
+      "type": "Renewal",
+      "stage": "Opportunity identified",
+      "is_closed": false,
+      "is_won": false,
+      "probability": 10.0,
+      "amount": 5035.2,
+      "arr": 5035.2,
+      "owner": "Marta Marron",
+      "cs_lead": "Marta Marron",
+      "account": "RACC",
+      "created": "2026-11-23",
+      "close_date": "2026-12-31",
+      "start_date": "2027-01-01"
+    },
+    {
+      "id": "006Sa00000tjEn7IAE",
+      "name": "2027-R-RACC-CA(WhatsApp) - Bot Assegurances Viatge",
+      "type": "Renewal",
+      "stage": "Opportunity identified",
+      "is_closed": false,
+      "is_won": false,
+      "probability": 10.0,
+      "amount": 10053.0,
+      "arr": 10053.0,
+      "owner": "Marta Marron",
+      "cs_lead": "Marta Marron",
+      "account": "RACC",
+      "created": "2026-11-23",
+      "close_date": "2026-12-31",
+      "start_date": "2027-01-01"
+    },
     {
       "id": "006Sa00000tUfCXIA0",
       "name": "2026-U-Tendam - 20 additional licenses (2nd batch) November 2026 to February 2027",
@@ -3069,13 +3103,13 @@
       "is_closed": false,
       "is_won": false,
       "probability": 10.0,
-      "amount": 116387.16,
-      "arr": 116387.16,
+      "amount": 174824.4,
+      "arr": 174824.4,
       "owner": "Marta Marron",
       "cs_lead": "Marta Marron",
       "account": "RACC",
       "created": "2026-01-04",
-      "close_date": "2025-12-10",
+      "close_date": "2026-12-31",
       "start_date": "2027-01-01"
     },
     {
