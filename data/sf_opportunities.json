@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-23 19:14 UTC",
+  "last_updated": "2026-11-24 18:53 UTC",
   "opportunities": [
     {
       "id": "006Sa00000tj7iRIAQ",
@@ -3284,19 +3284,19 @@
     },
     {
       "id": "006Sa00000XYPfQIAX",
-      "name": "2027-R-Segurcaixa Adelsas-Extensión - January-December (Adeslas Dental)",
+      "name": "2027-R-Segurcaixa Adelsas-January-December (Adeslas Dental)",
       "type": "Renewal",
-      "stage": "Opportunity identified",
+      "stage": "Procurement",
       "is_closed": false,
       "is_won": false,
-      "probability": 10.0,
-      "amount": 144619.88,
-      "arr": 124157.88,
+      "probability": 70.0,
+      "amount": 217352.64,
+      "arr": 206825.64,
       "owner": "Marta Marron",
-      "cs_lead": "María Sánchez",
+      "cs_lead": "Marta Marron",
       "account": "SegurCaixa Adeslas",
       "created": "2025-12-18",
-      "close_date": "2025-12-18",
+      "close_date": "2026-12-31",
       "start_date": "2027-01-01"
     },
     {
