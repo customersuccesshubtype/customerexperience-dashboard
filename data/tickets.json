@@ -1,6 +1,76 @@
 {
-  "last_updated": "2026-11-23 18:57 UTC",
+  "last_updated": "2026-11-24 18:36 UTC",
   "tickets": [
+    {
+      "key": "PS-6866",
+      "summary": "Alsa – Eliminar smart intent keywords de petición de agente y gestionar el handover desde el AI Agent",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "irene callejas",
+      "issuetype": "Task",
+      "created": "2026-11-24",
+      "updated": "2026-11-24",
+      "resolutiondate": "",
+      "labels": [
+        "Alsa"
+      ]
+    },
+    {
+      "key": "PS-6865",
+      "summary": "[Air Europa] Country condition no detecta España en Webchat (mercado ES)",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Adrià Sastre",
+      "issuetype": "Bug",
+      "created": "2026-11-24",
+      "updated": "2026-11-24",
+      "resolutiondate": "",
+      "labels": [
+        "AirEuropa"
+      ]
+    },
+    {
+      "key": "PS-6864",
+      "summary": "DABA - WISMO get order light",
+      "status": "Ready for review",
+      "status_category": "In Progress",
+      "assignee": "Lorena Sánchez-Toril Nicolás",
+      "issuetype": "Task",
+      "created": "2026-11-24",
+      "updated": "2026-11-24",
+      "resolutiondate": "",
+      "labels": [
+        "DABA"
+      ]
+    },
+    {
+      "key": "PS-6863",
+      "summary": "Euroriente - Revisar configuración del nuevo agente y realizar pruebas",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "irene callejas",
+      "issuetype": "Task",
+      "created": "2026-11-24",
+      "updated": "2026-11-24",
+      "resolutiondate": "",
+      "labels": [
+        "Euroriente"
+      ]
+    },
+    {
+      "key": "PS-6862",
+      "summary": "DABA - WISMO get order details",
+      "status": "Ready for review",
+      "status_category": "In Progress",
+      "assignee": "Lorena Sánchez-Toril Nicolás",
+      "issuetype": "Task",
+      "created": "2026-11-24",
+      "updated": "2026-11-24",
+      "resolutiondate": "",
+      "labels": [
+        "DABA"
+      ]
+    },
     {
       "key": "PS-6860",
       "summary": "Generalitat Turisme - Knowledge base not returning the updated Figueres documentation",
@@ -74,12 +144,12 @@
     {
       "key": "PS-6853",
       "summary": "Soledad - open direct payment gateaway",
-      "status": "Ready for review",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-11-20",
-      "updated": "2026-11-23",
+      "updated": "2026-11-24",
       "resolutiondate": "",
       "labels": [
         "Soledad"
@@ -88,12 +158,12 @@
     {
       "key": "PS-6852",
       "summary": "Soledad - remove modal ",
-      "status": "Ready for review",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-11-20",
-      "updated": "2026-11-23",
+      "updated": "2026-11-24",
       "resolutiondate": "",
       "labels": [
         "Soledad"
@@ -242,12 +312,12 @@
     {
       "key": "PS-6841",
       "summary": "Euroriente - Move, inside the monorepo /bots-definition, /euroriente to new folder /euroriente/customer-service",
-      "status": "Ready for review",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Marco Gallego Ropero",
       "issuetype": "Task",
       "created": "2026-11-18",
-      "updated": "2026-11-19",
+      "updated": "2026-11-24",
       "resolutiondate": "",
       "labels": [
         "Euroriente"
@@ -564,12 +634,12 @@
     {
       "key": "PS-6818",
       "summary": "Air Europa - Configure variable with estimated waiting time in Flow builder",
-      "status": "In Progress",
+      "status": "Ready for review",
       "status_category": "In Progress",
       "assignee": "Marco Gallego Ropero",
       "issuetype": "Task",
       "created": "2026-11-17",
-      "updated": "2026-11-20",
+      "updated": "2026-11-24",
       "resolutiondate": "",
       "labels": [
         "AirEuropa"
@@ -650,12 +720,12 @@
     {
       "key": "PS-6812",
       "summary": "Tendam - Canal consumidores vulnerables - Update webchat + snippet",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "In Progress",
+      "status_category": "In Progress",
       "assignee": "Marco Gallego Ropero",
       "issuetype": "Task",
       "created": "2026-11-16",
-      "updated": "2026-11-23",
+      "updated": "2026-11-24",
       "resolutiondate": "",
       "labels": [
         "Tendam"
@@ -694,12 +764,12 @@
     {
       "key": "PS-6809",
       "summary": "Michael Kors - Track order links per market (dynamic links)",
-      "status": "Ready to Deliver",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Marta Marron",
       "issuetype": "Task",
       "created": "2026-11-16",
-      "updated": "2026-11-17",
+      "updated": "2026-11-24",
       "resolutiondate": "",
       "labels": [
         "Michael-Kors"
@@ -778,12 +848,12 @@
     {
       "key": "PS-6803",
       "summary": "Soledad - payed status ",
-      "status": "Ready to Deliver",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-11-13",
-      "updated": "2026-11-16",
+      "updated": "2026-11-24",
       "resolutiondate": "",
       "labels": [
         "Soledad"
@@ -792,12 +862,12 @@
     {
       "key": "PS-6802",
       "summary": "Retorna - Add Ecuador as new operating country",
-      "status": "In production",
+      "status": "Done",
       "status_category": "Done",
       "assignee": "AI Agent Delivery",
       "issuetype": "Task",
       "created": "2026-11-13",
-      "updated": "2026-11-23",
+      "updated": "2026-11-24",
       "resolutiondate": "",
       "labels": [
         "Retorna"
@@ -1508,12 +1578,12 @@
     {
       "key": "PS-6748",
       "summary": "Soledad - add pedidoComprobarPago",
-      "status": "Ready to Deliver",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-11-06",
-      "updated": "2026-11-16",
+      "updated": "2026-11-24",
       "resolutiondate": "",
       "labels": [
         "Soledad"
@@ -2331,13 +2401,13 @@
     },
     {
       "key": "PS-6685",
-      "summary": "DABA - WISMO get client info ",
-      "status": "In Progress",
+      "summary": "DABA - WISMO get client info for order details",
+      "status": "Ready for review",
       "status_category": "In Progress",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-10-29",
-      "updated": "2026-11-20",
+      "updated": "2026-11-24",
       "resolutiondate": "",
       "labels": [
         "DABA"
@@ -7475,7 +7545,7 @@
       "assignee": "Adrià Sastre",
       "issuetype": "Task",
       "created": "2026-09-21",
-      "updated": "2026-10-15",
+      "updated": "2026-11-24",
       "resolutiondate": "",
       "labels": [
         "Allianz"
@@ -10865,12 +10935,12 @@
     {
       "key": "PS-6052",
       "summary": "DABA - Consulta Ultimo Pedido (WISMO; API rest)",
-      "status": "In Progress",
+      "status": "Ready for review",
       "status_category": "In Progress",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-07-31",
-      "updated": "2026-11-16",
+      "updated": "2026-11-24",
       "resolutiondate": "",
       "labels": [
         "DABA"
