@@ -1,6 +1,62 @@
 {
-  "last_updated": "2026-11-24 18:36 UTC",
+  "last_updated": "2026-11-25 17:47 UTC",
   "tickets": [
+    {
+      "key": "PS-6870",
+      "summary": "[Cars · Scan] Out-of-happy-path policy pop-ups (multiple people / company) + notice on upload screen",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Adrià Sastre",
+      "issuetype": "Task",
+      "created": "2026-11-25",
+      "updated": "2026-11-25",
+      "resolutiondate": "",
+      "labels": [
+        "Allianz"
+      ]
+    },
+    {
+      "key": "PS-6869",
+      "summary": "Guess - Map \"CI\" country as \"IC\" in Salesforce",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Marco Gallego Ropero",
+      "issuetype": "Task",
+      "created": "2026-11-25",
+      "updated": "2026-11-25",
+      "resolutiondate": "",
+      "labels": [
+        "Guess"
+      ]
+    },
+    {
+      "key": "PS-6868",
+      "summary": "Ralph Lauren - BF ends soon campaign ",
+      "status": "In Progress",
+      "status_category": "In Progress",
+      "assignee": "Lorena Sánchez-Toril Nicolás",
+      "issuetype": "Task",
+      "created": "2026-11-25",
+      "updated": "2026-11-25",
+      "resolutiondate": "",
+      "labels": [
+        "Ralph_Lauren"
+      ]
+    },
+    {
+      "key": "PS-6867",
+      "summary": "Tendam – Configurar en staging el cierre en bulk en las colas de handoff de todos los bots",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Aitor Casas",
+      "issuetype": "Task",
+      "created": "2026-11-24",
+      "updated": "2026-11-24",
+      "resolutiondate": "",
+      "labels": [
+        "Tendam"
+      ]
+    },
     {
       "key": "PS-6866",
       "summary": "Alsa – Eliminar smart intent keywords de petición de agente y gestionar el handover desde el AI Agent",
@@ -270,12 +326,12 @@
     {
       "key": "PS-6844",
       "summary": "Allianz Partners - Crear template Meta seguimiento grúa VW (grua_en_camino_vw)",
-      "status": "Ready for review",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Aitor Casas",
       "issuetype": "Task",
       "created": "2026-11-18",
-      "updated": "2026-11-18",
+      "updated": "2026-11-25",
       "resolutiondate": "",
       "labels": [
         "AllianzPartners"
@@ -298,12 +354,12 @@
     {
       "key": "PS-6842",
       "summary": "GUESS - Update Staging bot version to 0.58",
-      "status": "APPROVED FOR PRODUCTION",
+      "status": "In production",
       "status_category": "Done",
       "assignee": "Francisca Martelli",
       "issuetype": "Task",
       "created": "2026-11-18",
-      "updated": "2026-11-23",
+      "updated": "2026-11-25",
       "resolutiondate": "",
       "labels": [
         "Guess"
@@ -1327,7 +1383,7 @@
       "assignee": "Adrià Sastre",
       "issuetype": "Task",
       "created": "2026-11-11",
-      "updated": "2026-11-16",
+      "updated": "2026-11-24",
       "resolutiondate": "",
       "labels": [
         "Tendam"
@@ -1418,12 +1474,12 @@
     {
       "key": "PS-6759",
       "summary": "Tendam - Canal consumidores vulnerables - conectar número de WhatsApp",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Aitor Casas",
       "issuetype": "Task",
       "created": "2026-11-10",
-      "updated": "2026-11-10",
+      "updated": "2026-11-25",
       "resolutiondate": "",
       "labels": [
         "Tendam"
@@ -3240,12 +3296,12 @@
     {
       "key": "PS-6623",
       "summary": "Michael Kors - Warranty Flow webview - Development",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "In Progress",
+      "status_category": "In Progress",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-10-24",
-      "updated": "2026-11-19",
+      "updated": "2026-11-25",
       "resolutiondate": "",
       "labels": [
         "Michael-Kors"
@@ -11313,12 +11369,12 @@
     {
       "key": "PS-6024",
       "summary": "DABA - Migrate WhatsApp Number Prod",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Aitor Casas",
       "issuetype": "Task",
       "created": "2026-07-28",
-      "updated": "2026-08-24",
+      "updated": "2026-11-25",
       "resolutiondate": "",
       "labels": [
         "DABA"
