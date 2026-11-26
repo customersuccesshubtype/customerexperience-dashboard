@@ -1,11 +1,79 @@
 {
-  "last_updated": "2026-11-25 17:47 UTC",
+  "last_updated": "2026-11-26 17:30 UTC",
   "tickets": [
+    {
+      "key": "PS-6875",
+      "summary": "Air Europa - Unify Portuguese language (Portugal and Brazil) as pt-PT",
+      "status": "Ready for review",
+      "status_category": "In Progress",
+      "assignee": "Marco Gallego Ropero",
+      "issuetype": "Task",
+      "created": "2026-11-26",
+      "updated": "2026-11-26",
+      "resolutiondate": "",
+      "labels": [
+        "AirEuropa"
+      ]
+    },
+    {
+      "key": "PS-6874",
+      "summary": "Allianz Scan&Buy Auto - Trackings",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Albert Gomariz",
+      "issuetype": "Task",
+      "created": "2026-11-26",
+      "updated": "2026-11-26",
+      "resolutiondate": "",
+      "labels": [
+        "Allianz"
+      ]
+    },
+    {
+      "key": "PS-6873",
+      "summary": "Jetsmart - Proyecto agencias - Cambios involuntarios",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Julieta Mezza",
+      "issuetype": "Task",
+      "created": "2026-11-26",
+      "updated": "2026-11-26",
+      "resolutiondate": "",
+      "labels": [
+        "JetSmart"
+      ]
+    },
+    {
+      "key": "PS-6872",
+      "summary": "Occident - Discard cases in waiting with users offline",
+      "status": "Ready for review",
+      "status_category": "In Progress",
+      "assignee": "Marco Gallego Ropero",
+      "issuetype": "Task",
+      "created": "2026-11-26",
+      "updated": "2026-11-26",
+      "resolutiondate": "",
+      "labels": [
+        "Occident"
+      ]
+    },
+    {
+      "key": "PS-6871",
+      "summary": "test subagents",
+      "status": "In Progress",
+      "status_category": "In Progress",
+      "assignee": "AI Agent Delivery",
+      "issuetype": "Task",
+      "created": "2026-11-26",
+      "updated": "2026-11-26",
+      "resolutiondate": "",
+      "labels": []
+    },
     {
       "key": "PS-6870",
       "summary": "[Cars · Scan] Out-of-happy-path policy pop-ups (multiple people / company) + notice on upload screen",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Ready for review",
+      "status_category": "In Progress",
       "assignee": "Adrià Sastre",
       "issuetype": "Task",
       "created": "2026-11-25",
@@ -32,12 +100,12 @@
     {
       "key": "PS-6868",
       "summary": "Ralph Lauren - BF ends soon campaign ",
-      "status": "In Progress",
+      "status": "In Review",
       "status_category": "In Progress",
       "assignee": "Lorena Sánchez-Toril Nicolás",
       "issuetype": "Task",
       "created": "2026-11-25",
-      "updated": "2026-11-25",
+      "updated": "2026-11-26",
       "resolutiondate": "",
       "labels": [
         "Ralph_Lauren"
@@ -46,12 +114,12 @@
     {
       "key": "PS-6867",
       "summary": "Tendam – Configurar en staging el cierre en bulk en las colas de handoff de todos los bots",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Ready for review",
+      "status_category": "In Progress",
       "assignee": "Aitor Casas",
       "issuetype": "Task",
       "created": "2026-11-24",
-      "updated": "2026-11-24",
+      "updated": "2026-11-26",
       "resolutiondate": "",
       "labels": [
         "Tendam"
@@ -74,12 +142,12 @@
     {
       "key": "PS-6865",
       "summary": "[Air Europa] Country condition no detecta España en Webchat (mercado ES)",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Waiting for customer",
+      "status_category": "In Progress",
       "assignee": "Adrià Sastre",
       "issuetype": "Bug",
       "created": "2026-11-24",
-      "updated": "2026-11-24",
+      "updated": "2026-11-26",
       "resolutiondate": "",
       "labels": [
         "AirEuropa"
@@ -354,7 +422,7 @@
     {
       "key": "PS-6842",
       "summary": "GUESS - Update Staging bot version to 0.58",
-      "status": "In production",
+      "status": "Done",
       "status_category": "Done",
       "assignee": "Francisca Martelli",
       "issuetype": "Task",
@@ -776,12 +844,12 @@
     {
       "key": "PS-6812",
       "summary": "Tendam - Canal consumidores vulnerables - Update webchat + snippet",
-      "status": "In Progress",
+      "status": "Ready for review",
       "status_category": "In Progress",
       "assignee": "Marco Gallego Ropero",
       "issuetype": "Task",
       "created": "2026-11-16",
-      "updated": "2026-11-24",
+      "updated": "2026-11-26",
       "resolutiondate": "",
       "labels": [
         "Tendam"
@@ -1251,13 +1319,13 @@
     },
     {
       "key": "PS-6776",
-      "summary": "Jetsmart - Proyecto agencias  Cambio de fecha",
+      "summary": "Jetsmart - Proyecto agencias  Cambio de fecha con costo",
       "status": "To Do",
       "status_category": "To Do",
       "assignee": "Julieta Mezza",
       "issuetype": "Task",
       "created": "2026-11-11",
-      "updated": "2026-11-16",
+      "updated": "2026-11-26",
       "resolutiondate": "",
       "labels": [
         "JetSmart"
@@ -9230,12 +9298,12 @@
     {
       "key": "PS-6182",
       "summary": "Bot Monitoring - Add token to all API requests",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Adrià Sastre",
       "issuetype": "Task",
       "created": "2026-09-03",
-      "updated": "2026-09-03",
+      "updated": "2026-11-26",
       "resolutiondate": "",
       "labels": [
         "Internal"
