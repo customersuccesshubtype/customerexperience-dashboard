@@ -1,6 +1,104 @@
 {
-  "last_updated": "2026-11-26 17:30 UTC",
+  "last_updated": "2026-11-27 17:12 UTC",
   "tickets": [
+    {
+      "key": "PS-6882",
+      "summary": "Allianz OSN - Update bot version to 0.58.0",
+      "status": "Ready for review",
+      "status_category": "In Progress",
+      "assignee": "AI Agent Delivery",
+      "issuetype": "Task",
+      "created": "2026-11-27",
+      "updated": "2026-11-27",
+      "resolutiondate": "",
+      "labels": [
+        "Allianz-OSN"
+      ]
+    },
+    {
+      "key": "PS-6881",
+      "summary": "Verisure Cita: dar el link de baja de comunicaciones cuando el cliente pide la baja",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "irene callejas",
+      "issuetype": "Task",
+      "created": "2026-11-27",
+      "updated": "2026-11-27",
+      "resolutiondate": "",
+      "labels": [
+        "VerisureCita"
+      ]
+    },
+    {
+      "key": "PS-6880",
+      "summary": "Allianz OSN Campaigns: respuesta a STOP y publicar Flow Builder en producción",
+      "status": "In Progress",
+      "status_category": "In Progress",
+      "assignee": "Aitor Casas",
+      "issuetype": "Task",
+      "created": "2026-11-27",
+      "updated": "2026-11-27",
+      "resolutiondate": "",
+      "labels": [
+        "Allianz_OSN"
+      ]
+    },
+    {
+      "key": "PS-6879",
+      "summary": "Air Europa - Eliminate Neuraltrust Integration",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Adrià Sastre",
+      "issuetype": "Task",
+      "created": "2026-11-27",
+      "updated": "2026-11-27",
+      "resolutiondate": "",
+      "labels": [
+        "AirEuropa"
+      ]
+    },
+    {
+      "key": "PS-6878",
+      "summary": "Verisure Cita: nuevo agente con recorrido progresivo tras «Me interesa»",
+      "status": "In Progress",
+      "status_category": "In Progress",
+      "assignee": "irene callejas",
+      "issuetype": "Task",
+      "created": "2026-11-27",
+      "updated": "2026-11-27",
+      "resolutiondate": "",
+      "labels": [
+        "VerisureCita"
+      ]
+    },
+    {
+      "key": "PS-6877",
+      "summary": "Tendam Vulnerable - Make the webchat dynamic",
+      "status": "Ready for review",
+      "status_category": "In Progress",
+      "assignee": "Marco Gallego Ropero",
+      "issuetype": "Task",
+      "created": "2026-11-27",
+      "updated": "2026-11-27",
+      "resolutiondate": "",
+      "labels": [
+        "Tendam"
+      ]
+    },
+    {
+      "key": "PS-6876",
+      "summary": "Ralph Lauren - Proposal to guarantee results on users' first searches",
+      "status": "In Progress",
+      "status_category": "In Progress",
+      "assignee": "irene callejas",
+      "issuetype": "Discovery Task",
+      "created": "2026-11-27",
+      "updated": "2026-11-27",
+      "resolutiondate": "",
+      "labels": [
+        "Ralph_Lauren"
+      ]
+    },
     {
       "key": "PS-6875",
       "summary": "Air Europa - Unify Portuguese language (Portugal and Brazil) as pt-PT",
@@ -58,18 +156,6 @@
       ]
     },
     {
-      "key": "PS-6871",
-      "summary": "test subagents",
-      "status": "In Progress",
-      "status_category": "In Progress",
-      "assignee": "AI Agent Delivery",
-      "issuetype": "Task",
-      "created": "2026-11-26",
-      "updated": "2026-11-26",
-      "resolutiondate": "",
-      "labels": []
-    },
-    {
       "key": "PS-6870",
       "summary": "[Cars · Scan] Out-of-happy-path policy pop-ups (multiple people / company) + notice on upload screen",
       "status": "Ready for review",
@@ -86,12 +172,12 @@
     {
       "key": "PS-6869",
       "summary": "Guess - Map \"CI\" country as \"IC\" in Salesforce",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Ready for review",
+      "status_category": "In Progress",
       "assignee": "Marco Gallego Ropero",
       "issuetype": "Task",
       "created": "2026-11-25",
-      "updated": "2026-11-25",
+      "updated": "2026-11-27",
       "resolutiondate": "",
       "labels": [
         "Guess"
@@ -119,7 +205,7 @@
       "assignee": "Aitor Casas",
       "issuetype": "Task",
       "created": "2026-11-24",
-      "updated": "2026-11-26",
+      "updated": "2026-11-27",
       "resolutiondate": "",
       "labels": [
         "Tendam"
@@ -141,13 +227,13 @@
     },
     {
       "key": "PS-6865",
-      "summary": "[Air Europa] Country condition no detecta España en Webchat (mercado ES)",
-      "status": "Waiting for customer",
-      "status_category": "In Progress",
+      "summary": "[Air Europa] Webchat: guardar el country del usuario en mayúsculas en botonicOnInit",
+      "status": "APPROVED FOR PRODUCTION",
+      "status_category": "Done",
       "assignee": "Adrià Sastre",
       "issuetype": "Bug",
       "created": "2026-11-24",
-      "updated": "2026-11-26",
+      "updated": "2026-11-27",
       "resolutiondate": "",
       "labels": [
         "AirEuropa"
@@ -212,12 +298,12 @@
     {
       "key": "PS-6859",
       "summary": "Bot Template - Add core AI Agent tools by default in bot template",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "In Progress",
+      "status_category": "In Progress",
       "assignee": "Marco Gallego Ropero",
       "issuetype": "Discovery Task",
       "created": "2026-11-20",
-      "updated": "2026-11-20",
+      "updated": "2026-11-27",
       "resolutiondate": "",
       "labels": [
         "Internal"
@@ -226,12 +312,12 @@
     {
       "key": "PS-6858",
       "summary": "Bot-core - Add shared AI Agent tools",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Ready for review",
+      "status_category": "In Progress",
       "assignee": "Marco Gallego Ropero",
       "issuetype": "Task",
       "created": "2026-11-20",
-      "updated": "2026-11-20",
+      "updated": "2026-11-27",
       "resolutiondate": "",
       "labels": [
         "Internal"
@@ -254,12 +340,12 @@
     {
       "key": "PS-6856",
       "summary": "DABA - Tool para ofrecer handoff solo en horario de atención",
-      "status": "Ready to Deliver",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "irene callejas",
       "issuetype": "Task",
       "created": "2026-11-20",
-      "updated": "2026-11-23",
+      "updated": "2026-11-27",
       "resolutiondate": "",
       "labels": [
         "DABA"
@@ -450,12 +536,12 @@
     {
       "key": "PS-6840",
       "summary": "DABA - Modify Prompt to different queues handoff",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Francisca Martelli",
       "issuetype": "Task",
       "created": "2026-11-18",
-      "updated": "2026-11-18",
+      "updated": "2026-11-27",
       "resolutiondate": "",
       "labels": [
         "DABA"
@@ -464,12 +550,12 @@
     {
       "key": "PS-6839",
       "summary": "Estimate - Netberry - Estimar módulo de campañas",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "In Progress",
+      "status_category": "In Progress",
       "assignee": "Julieta Mezza",
       "issuetype": "Task",
       "created": "2026-11-18",
-      "updated": "2026-11-18",
+      "updated": "2026-11-27",
       "resolutiondate": "",
       "labels": [
         "NetBerry_COFA"
@@ -478,12 +564,12 @@
     {
       "key": "PS-6838",
       "summary": "Estimate - Netberry Cofa - Compartir con el usuario PDF de fórmulas magistrales alojado externamente",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Waiting for customer",
+      "status_category": "In Progress",
       "assignee": "Adrià Sastre",
       "issuetype": "Task",
       "created": "2026-11-18",
-      "updated": "2026-11-18",
+      "updated": "2026-11-27",
       "resolutiondate": "",
       "labels": [
         "NetBerry_COFA"
@@ -492,12 +578,12 @@
     {
       "key": "PS-6837",
       "summary": "Estimate - Netberry COFA - Informar usuario sobre horarios y ubicación de Farmacias ",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "In Progress",
+      "status_category": "In Progress",
       "assignee": "Julieta Mezza",
       "issuetype": "Task",
       "created": "2026-11-18",
-      "updated": "2026-11-18",
+      "updated": "2026-11-27",
       "resolutiondate": "",
       "labels": [
         "NetBerry_COFA"
@@ -590,12 +676,12 @@
     {
       "key": "PS-6830",
       "summary": "Verisure Cita: el agente inventa visitas y manda al 910 a clientes que quieren la cerradura",
-      "status": "Ready for review",
+      "status": "Ready to Deliver",
       "status_category": "In Progress",
       "assignee": "irene callejas",
       "issuetype": "Task",
       "created": "2026-11-18",
-      "updated": "2026-11-18",
+      "updated": "2026-11-27",
       "resolutiondate": "",
       "labels": [
         "VerisureCita"
@@ -849,7 +935,7 @@
       "assignee": "Marco Gallego Ropero",
       "issuetype": "Task",
       "created": "2026-11-16",
-      "updated": "2026-11-26",
+      "updated": "2026-11-27",
       "resolutiondate": "",
       "labels": [
         "Tendam"
@@ -1028,12 +1114,12 @@
     {
       "key": "PS-6798",
       "summary": "DABA - Automate Friday report with case rating data",
-      "status": "To Do",
-      "status_category": "To Do",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Francisca Martelli",
       "issuetype": "Task",
       "created": "2026-11-12",
-      "updated": "2026-11-12",
+      "updated": "2026-11-27",
       "resolutiondate": "",
       "labels": [
         "DABA"
@@ -1584,12 +1670,12 @@
     {
       "key": "PS-6756",
       "summary": "Jetsmart - Identify agency type (role) at the begging of the conversation an save info in a contact info field and bot session",
-      "status": "To Do",
-      "status_category": "To Do",
-      "assignee": "Adrià Sastre",
+      "status": "Ready for review",
+      "status_category": "In Progress",
+      "assignee": "AI Agent Delivery",
       "issuetype": "Task",
       "created": "2026-11-09",
-      "updated": "2026-11-16",
+      "updated": "2026-11-27",
       "resolutiondate": "",
       "labels": [
         "JetSmart"
@@ -4401,12 +4487,12 @@
     {
       "key": "PS-6546",
       "summary": "Verisure ES - Funnel First - Chequeo de pertenencia a Televenta - Implementación",
-      "status": "Ready for review",
-      "status_category": "In Progress",
+      "status": "APPROVED FOR PRODUCTION",
+      "status_category": "Done",
       "assignee": "Marco Gallego Ropero",
       "issuetype": "Task",
       "created": "2026-10-16",
-      "updated": "2026-11-03",
+      "updated": "2026-11-27",
       "resolutiondate": "",
       "labels": [
         "Verisure"
@@ -4429,12 +4515,12 @@
     {
       "key": "PS-6544",
       "summary": "Verisure ES - Chequeo de pertenencia a Televenta en conversaciones de WhatsApp",
-      "status": "Ready for review",
+      "status": "Ready to Deliver",
       "status_category": "In Progress",
       "assignee": "Adrià Sastre",
       "issuetype": "Epic",
       "created": "2026-10-16",
-      "updated": "2026-11-16",
+      "updated": "2026-11-27",
       "resolutiondate": "",
       "labels": [
         "Verisure"
@@ -4608,7 +4694,7 @@
       "assignee": "AI Agent Delivery",
       "issuetype": "Task",
       "created": "2026-10-15",
-      "updated": "2026-10-27",
+      "updated": "2026-11-27",
       "resolutiondate": "",
       "labels": [
         "Ralph_Lauren"
@@ -4883,12 +4969,12 @@
     {
       "key": "PS-6506",
       "summary": "Euroriente - Middleware de envío de plantilla de bienvenida (Juniper → WhatsApp)",
-      "status": "Ready to Deliver",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Pep Alonso",
       "issuetype": "Sub-task",
       "created": "2026-10-13",
-      "updated": "2026-11-19",
+      "updated": "2026-11-26",
       "resolutiondate": "",
       "labels": [
         "Euroriente"
@@ -4958,7 +5044,7 @@
       "assignee": "irene callejas",
       "issuetype": "Task",
       "created": "2026-10-13",
-      "updated": "2026-11-23",
+      "updated": "2026-11-27",
       "resolutiondate": "",
       "labels": [
         "DABA"
@@ -11395,12 +11481,12 @@
     {
       "key": "PS-6027",
       "summary": "DABA - Connect and configure AI Agent (KB)",
-      "status": "In Progress",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Francisca Martelli",
       "issuetype": "Task",
       "created": "2026-07-28",
-      "updated": "2026-08-24",
+      "updated": "2026-11-27",
       "resolutiondate": "",
       "labels": [
         "DABA"
@@ -11479,12 +11565,12 @@
     {
       "key": "PS-6021",
       "summary": "Daba - 1st Phase Launch",
-      "status": "In Progress",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Francisca Martelli",
       "issuetype": "Epic",
       "created": "2026-07-28",
-      "updated": "2026-07-31",
+      "updated": "2026-11-27",
       "resolutiondate": "",
       "labels": [
         "DABA"
@@ -15110,12 +15196,12 @@
     {
       "key": "PS-5754",
       "summary": "Internal - Migrate demo creation process into a skill",
-      "status": "In Progress",
-      "status_category": "In Progress",
+      "status": "Done",
+      "status_category": "Done",
       "assignee": "Pep Alonso",
       "issuetype": "Task",
       "created": "2026-06-15",
-      "updated": "2026-10-29",
+      "updated": "2026-11-26",
       "resolutiondate": "",
       "labels": [
         "Internal"
@@ -15748,7 +15834,7 @@
       "assignee": "AI Agent Delivery",
       "issuetype": "Task",
       "created": "2026-06-05",
-      "updated": "2026-11-16",
+      "updated": "2026-11-27",
       "resolutiondate": "",
       "labels": [
         "AirEuropa"
@@ -24957,7 +25043,7 @@
       "assignee": "Adrià Sastre",
       "issuetype": "Task",
       "created": "2026-02-13",
-      "updated": "2026-09-01",
+      "updated": "2026-11-27",
       "resolutiondate": "",
       "labels": [
         "Verisure_IT"
