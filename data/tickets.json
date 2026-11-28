@@ -1,6 +1,34 @@
 {
-  "last_updated": "2026-11-27 17:12 UTC",
+  "last_updated": "2026-11-28 15:56 UTC",
   "tickets": [
+    {
+      "key": "PS-6884",
+      "summary": "DABA - B2B staging and production",
+      "status": "To Do",
+      "status_category": "To Do",
+      "assignee": "Marco Gallego Ropero",
+      "issuetype": "Task",
+      "created": "2026-11-28",
+      "updated": "2026-11-28",
+      "resolutiondate": "",
+      "labels": [
+        "DABA"
+      ]
+    },
+    {
+      "key": "PS-6883",
+      "summary": "DABA - B2B Phase 1",
+      "status": "Open",
+      "status_category": "To Do",
+      "assignee": "Francisca Martelli",
+      "issuetype": "Epic",
+      "created": "2026-11-28",
+      "updated": "2026-11-28",
+      "resolutiondate": "",
+      "labels": [
+        "DABA"
+      ]
+    },
     {
       "key": "PS-6882",
       "summary": "Allianz OSN - Update bot version to 0.58.0",
